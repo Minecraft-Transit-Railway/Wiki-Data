@@ -1,0 +1,38 @@
+====== Llanmara Bay and Tunnel ======
+
+<WRAP 300px right>
+
+|  @#EFEEF0:**Llanmara Bay and Tunnel**  ||
+|   ||
+
+|  @#b0c4de:  **Llanmara Bay and Tunnel**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 灣堡城灣/灣隧道 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 湾堡城湾/湾隧道 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | wān bǎo chéng wān/wān suì dào |
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | wāan bóu sìhng wāan/ wāan seuih douh |
+| [[wp>Jyutping|JyutPing]] | waan1 bou2 sing4 waan1/ waan1 seoi6 dou6 |
+
+</WRAP>
+
+The Llanmara Bay (Chinese: 灣堡城灣) and the heavy rail tunnel of its namesake (Chinese: 灣堡城灣隧道) is a large bay consisting of three main basins. The Upper Basin sits closest to the outlet to the Sea of Faermara (Chinese: 市長海, //lit. The Mayor's Sea//), the Central Basin is connected to its upper counterpart through the Strait of Canterbury and situates itself southwards from the strait to the former site of the Docklands at equivalent latitude to [[Royal Shore|Royal Shore]]. The Central Basin branches off into two major bodies of water, the City Cove through the Devota-City Island Chain and the Houton Strait, located east of the Winbeck peninsula. The Lower Basin is connected to its central counterpart through the Royal Strait and situates itself southwards to the Milford River. The Upper Basin has been reserved for [[Llanthrow Airport|Llanthrow Airport]] construction, and no crossings are to enter the upper basin above or below ground unless authorised by airport authorities.
+
+===== Tunnel Construction =====
+
+First major bay crossing (and the only east-west crossing in the lower basin) was the Llanmara Bay Tunnel. It runs from [[Houton High Street|Houton High Street]] to [[Boulton-on-Mesa|Boulton-on-Mesa]] on the [[Metro Victory Line|Metro Victory Line]]. [[Bay Interchange|Bay Interchange]] Station will be retrofitted inside the tunnel, albeit closer to the eastern portal than the southwestern one. The tunnel's mostly curveless nature allows for trains to reach top speeds crossing the bay. It began construction on 30 October 2022 and was completed in the early hours of the morning on 1 November 2022. The tunnel allowed for the former [[Metro Azalea Line|Metro Azalea Line]] and the Victory Line alignments to become one complete segment between [[Meilan|Meilan]] and [[Saint Ann's|Saint Ann's]]. An opening ceremony took place, with an inaugural ride between Houton and Boulton as well as a ribbon-cutting ceremony, with notable [[Lilypad Rail|Lilypad Rail]] officials as well as [[Jonathan (Jon_Ho)|Jonathan (Jon_Ho)]] onboard the first train. This linkage turned the Victory Line into a pseudo-express service to the [[Docklands Light Railway (DLR)|Docklands Light Railway]], providing faster service from Houton High Street to Boulton-on-Mesa without having to travel via Winbeck.
+
+===== Current Tunnel Service =====
+
+Victory Line trains now run in a circular manner, with both anticlockwise and clockwise trains using the tunnel. The southwestern tunnel portal was adjusted slightly north by ~20 blocks on 1 March 2023 in order to accommodate the Boulton-on-Mesa reconstructions. Bay Interchange station is not yet constructed. Trains slow down to a stop at the platform location for timetable's sake before speeding back up again. Trains do not open their doors at Bay Interchange.
+
+===== Pride Flag and the Fairmara Dragon Ride =====
+
+There is a decorative Pride Flag, located at about coordinates 445 ~ -9221, within the Central Basin. It was built by [[Lily (sleepy_sapph)|Lily (sleepy_sapph)]] who identifies as a member of the LGBTQ+ community. This flag was built facing up to the sky in order to show up on the [[https://jonafanho.no-ip.org/lets-play-squaremap/|squaremap]] of the server. It is purely decorative. It was used temporarily as a landing pad for the Fairmara Dragon Ride, which was a temporary Ender Dragon flight to Desert Grand Central in Fairview, which was installed to allow visitors to access the otherwise completely isolated Fairview. The Dragon Ride was closed 31 March 2023 in accordance with the opening of the [[Metro Llanmara Express|Metro Llanmara Express]] extension to Fairview Docks.
+
+===== Other Bay Crossings =====
+
+The very northern segment of the Central Basin near the Canterbury Strait has a tunnel carrying the [[Wilds Railway Hoku Hoku Line|Wilds Railway Hoku Hoku Line]] and the Metro Victory Line across from Saint Devota to Exchange Place. The Summit Cable Car crosses the Lower Basin north-south from Upper Milford to Blacklea Mountain. The [[Cinderace Line|SMTR S11 Cinderace Line]] crosses the Lower Basin from [[Queen Elizabeth II|Queen Elizabeth II]] island to Blacklea, before paralelling the Canterbury Strait Tunnel between [[Twynn|Twynn]] and Saint Devota.
+
+~~NOTOC~~

@@ -1,0 +1,38 @@
+<markdown>
+
+# Passenger Information Display System
+
+The passenger information display system (PIDS) is a block that will show the estimated time of arrival (ETA) of trains on a certain platform.
+
+There are currently three types of passenger information display systems in the mod:
+
+* Type 1: Shows an animation and one train arrival
+* Type 2: Shows the next three train arrivals
+* Type 3: Shows the next two train arrivals, with the approaching train arrival in green
+
+# Obtaining
+
+## Breaking
+
+Passenger information display systems require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
+
+## Crafting
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Passenger Information Display System (Type 1) | [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Clock](https://minecraft.gamepedia.com/Clock)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_1_1.png) |
+| Passenger Information Display System (Type 1) | Passenger Information Display System (Type 3)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_1_2.png) |
+| Passenger Information Display System (Type 2) | Passenger Information Display System (Type 1)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_2.png) |
+| Passenger Information Display System (Type 3) | Passenger Information Display System (Type 2)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_3.png) |
+
+# Usage
+
+The passenger information display system automatically detects any  platform rail within four blocks horizontally and at most five blocks below. 
+
+If placed close to a platform rail and the platform has upcoming train arrivals, the train arrival's destination and estimated time of arrival (ETA) will be displayed.
+
+If there are trains of different car lengths approacing the platform, the number of cars will be shown as well.
+
+When right clicked with a brush, a custom message can be displayed. Custom messages can also be set to replace existing arrivals. Platform(s) in the same station can be also assigned, this will override the automatic detection.
+
+</markdown>

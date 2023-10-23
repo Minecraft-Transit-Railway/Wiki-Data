@@ -1,0 +1,135 @@
+======Terralith Rapid Transit 11-000 Series======
+<WRAP 400px right>
+
+|  @#BB492B:  **Terralith Rapid Transit 11-000 Series**  ||
+| {{ :mtr_letsplay:2023-05-14_18.50.32.png?350 }}  ||
+|  11-000 in custody at Cinderace Depot.  ||
+|  @#BB492B:  **Overview**  ||
+| **In service**  | 2022–present  |
+| **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]] (Prototype)|
+| ::: | Metro Ace |
+| ::: | Bombardier (11-500) |
+| **Number built**  | 459 vehicles (51 sets)|
+| **Formation**  | 9 cars per trainset  |
+| **Capacity**  | 800 (254 seated)  |
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Depot(s)** | [[Cinderace_Depot]] |
+| **Line(s) served** | (S11)[[Cinderace Line]] |
+|  @#BB492B:  **Specifications**  ||
+| **Car body construction** |Aluminium|
+| **Train length** |137.0m|
+| **Car length** |15.0m|
+| **Width** |2.9 m|
+| **Height** |3.6 m|
+| **Doors** |3 pairs per side|
+| **Maximum speed** |80km/h|
+| **Weight** |23.5–23.9 t|
+| **Traction system** |IGBT–VVVF|
+| **Traction motors** |18 × 120 kW 3-phase AC linear induction motor|
+| **Power output** |2.16 MW|
+| **Acceleration** |4.3 km/(h⋅s)|
+| **Deceleration** |4.3 km/(h⋅s) (service)|
+| ::: | 6.5 km/(h⋅s) (emergency) |
+| **Electric system(s)** |1,500 V DC overhead catenary|
+| **Current collector(s)** |Pantograph|
+| **UIC classification** |2′Bo′+2′Bo′+2′Bo′+2′Bo′+2′Bo′+Bo′2′+Bo′2′+Bo′2′+Bo′2′|
+| **Bogies** |M-12S|
+| **Braking system(s)** |Regenerative and electro-pneumatic|
+| **Safety system(s)** |CS-ATC, ATO(GoA 4)|
+| **Track gauge** |1,435 mm|
+
+
+</WRAP>
+
+The **Terralith Rapid Transit 11-000 series** is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[Cinderace Line]].
+
+=====Overview=====
+Has the nickname "LIMACE-PT".
+When constructing the Cinderace Line, there were sharp curves and slopes that could not be handled by ordinary full-size trains, so it was necessary to develop a dedicated small train.
+
+Therefore, the 11-000 Series was manufactured based on a small subway using a linear motor introduced in Japan.
+
+This train will be the first linear motor-driven train on the Let's Play server, and will be SMTR's first GoA4 fully unmanned subway car.
+
+The vehicle design is based on Cinderace, and the front and sides are reminiscent of Cinderace.
+There are 3 doors on the side and 2 split windows between the doors that can be opened and closed, and there is also a small window at the end of the car. The destination display uses full-color LEDs to improve visibility, but due to its structure, it is installed only at the front.
+The interior of the car also has a design reminiscent of Cinderace. There are three seats at the front, six seats between the doors, and two seats at the end of the car. The material of the seat is non-combustible plastic and hard.
+Straps are installed only between doors.
+The lighting uses warm color LED lighting except for some trains.
+
+Since it is assumed to be unmanned operation, there is no driver's cab, only a simple partition and a driver's cab.
+
+In unmanned operation, the front seat can be used and the front view can be enjoyed, but the cab is covered and cannot be opened.
+
+=====Difference in specifications=====
+====Prototype (Shiny)====
+{{ :mtr_letsplay:2023-04-02_14.38.52.png?300|}}
+The main difference between the prototype and the mass-produced model is the coloring, which is based on Cinderace's Shiny motif.
+
+The CInderace Line has the longest round-trip time on the SMTR and is the most difficult to come across as there is only one set of prototypes.
+
+Only this vehicle is manufactured by Kawasaki Railcar.
+====11-000====
+{{ :mtr_letsplay:2022-12-19_19.06.23.png?300|}}
+First manufactured group. VVVF sounds like a Toei 12-000 or MBTA 1800s.
+
+　
+
+　
+
+　
+
+====11-100====
+{{ :mtr_letsplay:2023-02-05_05.51.44.png?300|}}
+A train that was once used by the BTA, and was transferred from surplus vehicles when transferred to the Lime Line.
+
+Raboot is the motif, but it leaves a strong impression of the BTA affiliation era.
+
+The interior of the car has not changed much since the BTA era, and the 11-000 group uses white LED lighting, which is rare.
+
+Since the transfer source is 11-000 base, the electrical equipment is the same as 11-000.
+
+====11-200====
+{{ :mtr_letsplay:2023-05-24_21.54.57.png?300|}}
+Additional equipment due to extension work.
+
+The design of the vehicle has become closer to Cinderace, and the side panels have been changed.
+
+VVVF sounds like Namboku Line 9000 series and Skytrain Mark2.
+
+It is said to be suitable for manned operation training, and in rare cases manned operation may be performed.
+
+
+====11-300====
+{{ :mtr_letsplay:2023-05-24_21.51.34.png?300|}}
+
+Additional equipment due to extension work.
+
+This vehicle is based on the Scorbunny motif and has a simple design compared to other vehicles.
+
+In addition, the window of the door is large, making it easy to see the scenery below.
+
+VVVF emits a characteristic screeching sound.
+
+====11-500====
+Additional equipment due to extension work.
+
+Only this vehicle is nicknamed "LIMACE-UB".
+
+Only this group is based on [[wp>BVG_Class_H|BVG Class H]].
+
+====11-600, -700, -800====
+
+Additional equipment due to extension work.
+
+After this vehicle, the nickname will simply be "LIMACE".
+
+Currently in production and not in operation.
+
+The specifications of this vehicle will be significantly changed.
+
+=====Related page=====
+* [[BTA Lime Line]] - A similar vehicle is running.
+
+* [[LIMACE]] - 11-000 based general-purpose concept model for Rapid Transit (subway). It will be introduced in 11-600 and later.

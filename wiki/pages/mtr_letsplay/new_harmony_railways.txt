@@ -1,0 +1,75 @@
+====== New Harmony Railways – THIS PAGE NEEDS TO BE CONVERTED FROM MEDIAWIKI TO DOKUWIKI FORMAT.======
+
+{| class="wikitable" style="float:right; width: 300px"
+! colspan="2" |New Harmony Railways (NHR)
+新晴鐵
+|-
+| colspan="2" style="border-style: solid solid none solid;align:center;text-align:center" |[[/File:NHRLogo.jpg|border|100x100px|none]]
+|-
+| colspan="2" style="border-style: none solid solid solid;align:center;text-align:center" |[[/File:QTrain.png|border|290x163px|none]]A [[mtrlp:q_train|Q Train]] testing on [[mtr_lp:guri_bay_line|Guri Bay Line]] at [[mtrlp:yi_yao_station|Yi Yao Station]]
+|-
+! colspan="2" |Overview
+|-
+| style="border-style: solid none solid solid;" |'''Locale'''
+| style="border-style: solid solid solid none;" |[[/:Category:Let's_Play|Let’s Play Server]]
+|-
+| style="border-style: solid none none solid;" |'''Transit Type'''
+| style="border-style: solid solid none none;" |[[mtrlp:heavy_rail|Heavy Rail]]
+|-
+| style="border-style: none none none solid;" |
+| style="border-style: none solid none none;" |[[mtrlp:light_rail|Light Rail]]
+|-
+| style="border-style: none none solid solid;" |
+| style="border-style: none solid solid none;" |[[mtrlp:ferry|Ferry]]
+|-
+| style="border-style: solid none none solid;" |'''Number of lines'''
+| style="border-style: solid solid none none;" |Heavy Rail: 5
+|-
+| style="border-style: none none none solid;" |
+| style="border-style: none solid none none;" |Light Rail: 5
+|-
+| style="border-style: none none none solid;" |
+| style="border-style: none solid none none;" |High-speed Rail: 1
+|-
+| style="border-style: none none solid solid;" |
+| style="border-style: none solid solid none;" |Ferry: 3
+|-
+| style="border-style: solid none none solid; width: 150px" |'''Number of stations'''
+| style="border-style: solid solid none none;" |Heavy Rail: 27
+|-
+| style="border-style: none none none solid;" |
+| style="border-style: none solid none none;" |Light Rail: 44
+|-
+| style="border-style: none none none solid;" |
+| style="border-style: none solid none none;" |High-speed Rail: 1
+|-
+| style="border-style: none none solid solid;" |
+| style="border-style: none solid solid none;" |Ferry: 7
+|-
+! colspan="2" |Operation
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Began operation'''
+| style="border-style: solid solid solid none; width: 150px" |1 August 2022; 4 months ago ([[/Kallos_Express|Kallos Express]] opened)
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Operator(s)'''
+| style="border-style: solid solid solid none; width: 150px" |[[mtrlp:yuna_tea|TeaTea9487_Tpwd]], [[mtrlp:kettle|kettlekettle]]
+|}
+The '''New Harmony Railways (NHR)'''  is one of the transit operators in the [[/Let’s_Play_Server|Let’s Play Server]], 
+established on the 22nd of July 2022, managed by [[mtr_lp:teatea9487_tpwd|TeaTea9487_Tpwd]] (Staff) and [[mtr_users:kettlekettle|kettlekettle]] (Builder). The operator was separated from [[mtr_lp:harmony_rail_transit|Harmony Rail Transit]] (HRT), which was established on June 2021, when [[mtr_lp:minecraft_transit_railway_discord|Minecraft Transit Railway Discord]] put a sanction on it on the 21st of July 2022.
+
+==Rail Service Operated== 
+
+*[[/Kallos_Express|Kallos Express]]
+*[[lilac_light_rail|Kallos Light Rail]]
+*[[mtr_lp:lakeside_mystic_line|Lakeside Mystic Line]]
+*[[mtr_lp:north_coast_line|North Coast Line]]
+*[[mtr_lp:at_metro|AT Metro]]
+*[[mtr_lp:high_speed_rail|High Speed Rail]] [[mtr_lp:kallos_line|(Kallos Line)]]
+*[[mtr_lp:guri_bay_line|Guri Bay Line]] (WIP)
+*[[mtr_lp:mita-shiro_automatic_people_mover|Mita-Shiro Automatic People Mover]]
+
+==Ferry Service Operated==
+
+*[[mtr_lp:kallos_ferry|Kallos Ferry]]
+[[/Category:Let's_Play|Category:Let's Play]]
+__FORCETOC__

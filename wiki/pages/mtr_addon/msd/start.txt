@@ -1,0 +1,15 @@
+===== MSD (aka: Station Decoration Addon) =====
+**Station Decoration Addon** is a decorative mod that adds new Signs, PIDS  and Catenary.
+
+Gallery:
+{{ :mtr_addon:screenshot_2023-05-18_115315.png?nolink&400 }}
+{{ :mtr_addon:screenshot_2023-05-18_115049.png?nolink&400 }}
+{{ :mtr_addon:screenshot_2023-05-18_115222.png?nolink&400 }}
+
+<WRAP center round download 90%>
+Downloads:
+
+https://modrinth.com/mod/station-decoration
+
+
+</WRAP>

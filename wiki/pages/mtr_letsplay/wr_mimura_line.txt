@@ -1,0 +1,258 @@
+====== WR Mimura Line – THIS PAGE NEEDS TO BE CONVERTED FROM MEDIAWIKI TO DOKUWIKI FORMAT.======
+
+{| class="wikitable" style="float:right; width: 300px;"
+! colspan="2" style="background-color:#E4220F;color:#FFFFFF" |Mimura Line
+三村綫
+|-
+| colspan="2" |[[/File:MML_1995TS_pulling_in_HAM.png|border|290x163px|none]]
+|-
+| colspan="2" |A [[mtr_lp:london_underground_1995_stock|London Underground 1995 stock]] pulls in [[mtr_lp:hamura_station|Hamura Station]].
+|-
+! colspan="2" |Overview
+|-
+| style="border-style: solid none none solid;" |'''Other names'''
+| style="border-style: solid none none none;" |MML
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none solid solid none;" |Hamura Line (By Jonathan)
+|-
+| style="border-style: solid none none solid;" |'''Status'''
+| style="border-style: solid solid none none;" |Operational
+|-
+| style="border-style: solid none none solid;" |'''Owner'''
+| style="border-style: solid solid none none;" |Wilds Railway
+|-
+| style="border-style: solid none none solid;" |'''Locale'''
+| style="border-style: solid solid none none;" |West Lake
+|-
+| style="border-style: solid none none solid;" |'''Termini'''
+| style="border-style: solid solid none none;" |[[mtr_lp:hamura_station|Hamura]]
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none none none none;" |[[mtr_lp:tai_po_station|Tai Po]]
+|-
+| style="border-style: solid none none none;" |'''Connecting Lines'''
+| style="border-style: solid none none none;width:150px;vertical-align:top;" |
+    {|
+     |+
+     | style="text-align:center;width:120px;background-color:#9E0FE4;border-radius:7px;color:white" |'''[[/WR_Yanyu_Line|<span style="color:white">WR Yanyu Line</span>]]'''
+     |}
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none none none none;" |
+    {|
+     |+
+     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#19DFDE;border-radius:7px;color:#FFFFFF" |'''[[/Lakeside_Mystic_Line|<span style="color:white">Lakeside Mystic Line</span>]]'''
+     |}
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none none none none;" |
+    {|
+     |+
+     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#f09199;border-radius:7px;color:#FFFFFF" |'''[[/Hana-Koshi_Line|Hana-Koshi Line]]'''
+     |}
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none none none none;" |
+    {|
+     |+
+     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#EB7AE9;border-radius:7px;color:#FFFFFF" |'''[[/WLT_Line_1_Phase_1|WLT Line 1 Phase 1]]'''
+     |}
+|-
+| style="border-style: none none none none;" |
+| style="border-style: none none none none;" |
+|-
+| style="border-style: solid none none none;" |'''Stations'''
+| style="border-style: solid none solid none ; width: 150px" |5
+|-
+| style="border-style: solid none none none;" |'''Colour on map'''
+| style="border-style: none solid none none; width: 150px" |
+{|
+     |+
+     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#E4220F;border-radius:7px;color:#FFFFFF" |'''#E4220F ''WR Red'''''
+     |}
+|-
+! colspan="2" |Service
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Type'''
+| style="border-style: solid solid solid none; width: 150px" |Commuter rail
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''System'''
+| style="border-style: solid solid solid none; width: 150px" |[[/Wilds_Railway|Wilds Railway]]
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Operator(s)'''
+| style="border-style: solid solid solid none; width: 150px" |[[/Wilds_Railway|Wilds Railway]]
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Depot(s)'''
+| style="border-style: solid solid solid none; width: 150px" |[[mtrlp:hamura_siding|Hamura Siding]]
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Rolling Stock'''
+| style="border-style: solid solid solid none; width: 150px" |[[mtrlp:1995_stock|1995 stock]] × 7 sets 5 cars
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Ridership'''
+| style="border-style: solid solid solid none; width: 150px" |9 daily average
+|-
+! colspan="2" |History
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Opened'''
+| style="border-style: solid none none none; vertical-align: top" |Unknown
+|-
+| style="border-style: solid none solid solid; vertical-align: top" |'''Last extension'''
+| style="border-style: solid none none none; vertical-align: top" |Meguro Peninsula to Sharp Island
+|-
+! colspan="2" |Technical
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Line length'''
+| style="border-style: solid none none none; vertical-align: top" |TBC
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Number of tracks'''
+| style="border-style: solid none none none; vertical-align: top" |1(Hamura to Mita-Shiro only)/2
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Track gauge'''
+| style="border-style: solid none none none; vertical-align: top" |1435mm (4 ft 8 1⁄2 in)
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Electrification'''
+| style="border-style: solid none none none; vertical-align: top" |750V third rail DC
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Operating speed'''
+| style="border-style: solid none none none; vertical-align: top" |40-80km/h
+
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Signalling'''
+| style="border-style: solid none none none; vertical-align: top" |Jonathan's CBTC
+|-
+| style="border-style: solid none none none; vertical-align: top" |'''Train protection system'''
+| style="border-style: solid none none none; vertical-align: top" |ATS
+|}
+The '''WR Mimura Line ''(Chinese: 曠鐵三村綫)''''' is one of the route that [[/Wilds_Railway|Wilds Railway]] operates. The route connects [[mtr_lp:hamura_station|Hamura Station]] and [[mtr_lp:tai_po_station|Tai Po Station]], acts as one of the route to access Mimura Area and Lebyazhsk. 
+
+
+The route is also the second route in the [[/Let's_Play_Server|Let's Play Server]] to use London Underground trains, and is the only operational Tube line until [[mtr_lp:metro_devota_city_line|Metro Devota & City Line]] starts it's service, therefore is often rode and seen in Jon's videos.
+
+==History==
+The route is planned by Navi in 7 August, 2022, with a initial plan from [[mtr_lp:tai_po_station|Tai Po]] to [[mtr_lp:hamura_station|Hamura]]. The proposal is then posted by Makki means the route is allowed to be built.
+{| class="wikitable"
+! colspan="6" |WR Mimura Line original plan
+|-
+! colspan="3" |<-Towards Tai Po
+! colspan="3" |Towards Hamura->
+|-
+|[[mtr_lp:tai_po_station|Tai Po]]
+|[[mtrlp:sharp_island_station|Sharp Island]]
+|[[mtrlp:meguro_peninsula_station|Meguro Peninsula]]
+|[[mtr_lp:mita-shiro_station|Mita-Shiro]]
+|[[mtrlp:sea_lion_river_station|Sea Lion River]]
+
+|[[mtr_lp:hamura_station|Hamura]]
+|}
+The route commences the building in late August, and the Sea Lion River station is abandoned due to being too near to [[mtr_lp:mita-shiro_station|Mita-Shiro Station]]. 
+
+==Rolling stock==
+The route uses 7 5 cars [[mtr_lp:london_underground_1995_stock|London Underground 1995 stock]] EMUs. The trains are manufactured by [[mtr_lp:hitachi|Hitachi]].
+
+==Route map==
+TBA
+
+==Stations==
+
+{| class="wikitable" style="width:770px; margin: 0.5em auto; text-align:center;"
+! colspan="3" |Livery and Station Name
+! rowspan="2" |Connections
+! rowspan="2" |Opening date
+! rowspan="2" |District
+|-
+! colspan="2" |English
+!Chinese
+|- bgcolor="#E4220F"
+| colspan="6" style="text-align:center;" |'''<span style="color:white;">WR Mimura Line</span>'''
+|-
+| style="background: #2b7316; width: 10px" |
+|[[mtr_lp:hamura_station|'''Hamura''']]
+|羽村
+|
+    {| style="margin: 0em auto;text-align:left"
+     | style="width:15px;background-color:#9e0fe4;border:1px solid black" |
+     |[[/WR_Yanyu_Line|'''WR Yanyu Line''']]
+     |-
+     |} (In New Hamura Station)
+| rowspan="5" |'''Unknown'''
+| rowspan="5" |'''[[mtr_lp:west_lake|West Lake]]'''
+|-
+| style="background: #fefbe1; width: 10px" |
+|[[mtr_lp:mita-shiro_station|'''Mita-Shiro''']]
+|三田城
+|
+   {| style="margin: 0em auto;text-align:left"
+     | style="width:15px;background-color:#19DFDE;border:1px solid black" |
+     |[[/Lakeside_Mystic_Line|'''Lakeside Mystic Line''']]
+     |-
+|}
+   {| style="margin: 0em auto;text-align:left"
+     | style="width:15px;background-color:#f09199;border:1px solid black" |
+     |[[/Hana-Koshi_Line|'''Hana-Koshi Line''']]
+     |-
+|}
+   {| style="margin: 0em auto;text-align:left"
+     | style="width:15px;background-color:#19DFDE;border:1px solid black" |
+     |[[/WLT_Line_3|'''WLT Line 3''']]
+     |-
+|}
+|-
+| style="background: #91aced; width: 10px" |
+|[[mtrlp:meguro_peninsula_station|'''Meguro Peninsula''']]
+|目黒半島
+| rowspan="2" |'''None'''
+|-
+| style="background: #af4bf8; width: 10px" |
+|[[mtrlp:sharp_island_station|'''Sharp Island''']]
+|橋咀洲
+|-
+| style="background: #3bf443; width: 10px" |
+|'''[[mtr_lp:tai_po_station|Tai Po Station]]'''
+|大埔
+|
+    {| style="margin: 0em auto;text-align:left"
+     | style="width:15px;background-color:#6b4799;border:1px solid black" |
+     |[[/WLT_Line|'''WLT Line''']]
+     |-
+     |}
+|}
+
+==Train service==
+All times listed here are in British Summer Time (BST).
+{| class="wikitable" style="width: 400px;text-align:center"
+|+
+! style="width: 200px;" |Session
+! style="width: 200px;" |Frequency (in minutes)
+|-
+| style="border-style: solid none none none; background-color:#E4220F" |
+| style="border-style: solid none none none; background-color:#E4220F" |
+|-
+|1:00 ~ 5:30
+|15
+|-
+|5:30 ~ 6:00
+|10
+|-
+|6:00 ~ 7:00
+|5
+|-
+|7:00 ~ 9:00
+|2
+|-
+|9:00 ~ 14:15
+|5
+|-
+|14:15 ~ 17:15
+|3
+|-
+|17:15 ~ 20:15
+|2
+|-
+|20:15 ~ 22:00
+|5
+|-
+|22:00 ~ 25:00
+|10
+|}
+[[/Category:Let's_Play|Category:Let's Play]]

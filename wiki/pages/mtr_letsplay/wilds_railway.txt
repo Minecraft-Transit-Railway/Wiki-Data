@@ -1,0 +1,71 @@
+====== Wilds Railway ======
+
+<WRAP 400px right>
+
+|  @#0FBFE4:  **Wilds Railway (WR)**  ||
+|  @#0FBFE4:  **曠野鐵路**  ||
+| {{ :mtr_letsplay:wr_logo_v1.png?350 }}  ||
+|  Logo of Wilds Railway.  ||
+|  @#0FBFE4:  **Overview**  ||
+| **Locale**  | [[mtr_letsplay:start|Let's Play Server]]  |
+| **Transit Type**  | [[wp>heavy_rail|Heavy Rail]]  |
+| ::: | [[wp>Bus_rapid_transit|BRT]]  |
+| **Number of lines**  | Heavy Rail: 5  |
+| ::: | BRT: 1  |
+| **Number of stations**  | Heavy Rail: 23  |
+| ::: | Bus transit: 14  |
+| **Daily ridership**  | 7002  |
+| **Owner (s)** | [[mtr_community:navi_lx9702|Navi]] |
+| **Real-life / fictional basis** | [[wp>East_Japan_Railway_Company|East Japan Railway Company]] |
+| ::: | [[wp>Fire_Emblem|Fire Emblem]] |
+| ::: | [[wp>Kowloon_Motor_Bus|Kowloon Motor Bus]] |
+| ::: | [[wp>TLoZ|The Legend of Zelda series]] |
+| ::: | [[wp>London_Underground|London Underground]]  |
+| ::: | [[wp>MTR|Mass Transit Railway]] |
+| ::: | [[wp>Merseyrail|Merseyrail]] |
+| **Cooperate colour scheme** |  @#0FBFE4: **#0FBFE4** **//Champion Blue//**  |
+| ::: |  @#FFF0C6: **#FFF0C6** **//WR Yellow//**  |
+|  @#0FBFE4:  **Operation**  ||
+| **Began operation**  | August 2022  |
+| **Operator(s)**  | Navi  |
+| **Served Area**  | Chong Shu Chau & Jinnapak |
+| ::: | Einsburg  |
+| ::: | Epping  |
+| ::: | Fairview  |
+| ::: | Greater Llanmara  |
+| ::: | Reston  |
+| ::: | Teufort  |
+| ::: | West Lake & Lake City |
+
+|  @#b0c4de:  **Wilds Railway**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 曠野鐵路 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 旷野铁路 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Kuàng yě tiě lù |
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | kwong yéh tit louh |
+| [[wp>Jyutping|JyutPing]] | kwong3 je5 tit3 lou6 |
+
+</WRAP>
+
+**Wilds Railway** <sub>(aka WR, 曠野鐵路)</sub> is a fictional railway company in Let's Play server, and was established on the 8th August 2022. Managed by [[mtr_community:navi_lx9702|Navi]], one of the builder and staff.
+
+The company is set to be the subsidiary of 'Suzuran Railways', the railway company that operates only in Navi_LX9702's private world.
+
+== Services Operated ==
+
+=== [[/WR_SW_Plains_Line|WR SW Plains Line]] ===
+
+=== Mimura Line ===
+
+=== Yanyu Line ===
+
+=== NE Llanmara Line ===
+
+=== Wilds Railway Bus services ===
+
+=== Wilds Railway - Lilypad Rail Overground Service ===
+
+[[/Category:Let's_Play|Category:Let's Play]]
+

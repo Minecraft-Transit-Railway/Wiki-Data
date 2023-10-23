@@ -1,0 +1,29 @@
+====== Minecraft Transit Railway 3.X ======
+
+Minecraft Transit Railway是一个依据港铁、伦敦地铁和纽约地铁制作的[[https://minecraft.fandom.com/zh/wiki/%E5%8A%A0%E8%BD%BD%E5%99%A8Mod | Minecraft Mod]]。它将列车与其他铁路设施和物品一起添加到了游戏中。凭借这个MOD就可以在你的世界里建立一个功能齐全的铁路系统。
+
+此Mod目前支持Minecraft Forge和Fabric的1.16、1.17、1.18和1.19版本.
+
+请向报告任何你发现的问题或Bug，那将不胜感激。 在[[https://github.com/jonafanho/Minecraft-Transit-Railway/issues | GitHub Issue 列表]]和[[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List | 待办事项列表]]查看目前已知的问题。
+
+===== 入门 =====
+
+这些[[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Getting-Started |文字教程]]和[[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC |视频列表]] 将引导您完成建设第一条铁路所需的基本步骤。
+
+===== 下载和安装 =====
+
+前往[[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway | CurseForge页面]]下载Mod或查看项目信息。
+
+===== 版本 =====
+  * [[mtr:3.0.X | V3.0.X]]
+  * [[mtr:3.1.X | V3.1.X]]
+  * [[mtr:3.2.X | V3.2.X]]
+  * [[mtr:3.3.X | V3.3.X]]
+
+===== Wiki页面 =====
+~~NOCACHE~~
+<nspages -textPages="" -title -exclude>
+
+===== 协议 =====
+
+本项目采用 [[https://opensource.org/licenses/MIT |MIT协议]]许可，与本项目捆绑在一起的所有[[http://www.google.com/get/noto/ | Noto fonts]]均采用[[http://scripts.sil.org/OFL |开源字体许可证]]许可。

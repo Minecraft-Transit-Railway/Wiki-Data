@@ -1,0 +1,118 @@
+<markdown>
+
+
+
+
+
+# Trains
+
+As of version 3.0.0-beta-5 of the mod, trains can only be spawned on sidings. They will run according to schedules and instructions in the depot. Sidings must have a length based on the following equation:
+
+```
+S = (L + 1)*C + 1
+```
+
+`S`: The length of the siding that must be built
+
+`L`: The length of one carriage of the desired train type (see the table below)
+
+`C`: The desired number of cars
+
+# Types
+
+There are currently eight different train types in the mod.
+
+| Name | Colour | Car Length (blocks) | Identifier | Notes |
+| --- | --- | --- | --- | --- |
+| SP1900 | ![#003399](https://via.placeholder.com/16/003399/000000?text=+) #003399 | 24<br>20 (Small)<br>12 (Mini) | `sp1900`<br>`sp1900_small`<br>`sp1900_mini` | This is modelled after the [SP1900 EMU](https://en.wikipedia.org/wiki/SP1900_EMU) manufactured by Kinki Sharyo and Kawasaki. |
+| C1141A | ![#B42249](https://via.placeholder.com/16/B42249/000000?text=+) #B42249 | 24<br>20 (Small)<br>12 (Mini) | `c1141a`<br>`c1141a_small`<br>`c1141a_mini` | This is modelled after the [MTR CRRC Changchun EMU](https://en.wikipedia.org/wiki/MTR_CRRC_Changchun_EMU) manufactured by CRRC Changchun Railway Vehicles. They are also known as the TML C Train or by the stock bid 1141A. |
+| M-Train | ![#999999](https://via.placeholder.com/16/999999/000000?text=+) #999999 | 24<br>19 (Small)<br>9 (Mini) | `m_train`<br>`m_train_small`<br>`m_train_mini` | This is modelled after the [Metro Cammell EMU](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(DC)) manufactured by Metro-Cammell and GEC-Alstom. |
+| Metro-Cammell Train (Unrefurbished M-Train) | ![#999999](https://via.placeholder.com/16/999999/000000?text=+) #999999 | 24<br>19 (Small)<br>9 (Mini) | `cm_stock`<br>`cm_stock_small`<br>`cm_stock_mini` | This is modelled after the [Metro Cammell EMU](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(DC)) manufactured by Metro-Cammell and GEC-Alstom before refurbishment. |
+| MLR | ![#6CB5E2](https://via.placeholder.com/16/6CB5E2/000000?text=+) #6CB5E2 | 24<br>20 (Small)<br>12 (Mini) | `mlr`<br>`mlr_small`<br>`mlr_mini` | This is modelled after the [Metro Cammell EMU](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)) manufactured by Metro-Cammell. |
+| MLR (Christmas) | ![#00873E](https://via.placeholder.com/16/00873E/000000?text=+) #00873E | 24<br>20 (Small)<br>12 (Mini) | `mlr_christmas`<br>`mlr_christmas_small`<br>`mlr_christmas_mini` | This is modelled after the [Metro Cammell EMU](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)) manufactured by Metro-Cammell with christmas decorations. |
+| E44 "Yellow Head" | ![#E7AF25](https://via.placeholder.com/16/E7AF25/000000?text=+) #E7AF25 | 24<br>12 (Mini) | `e44`<br>`e44_mini` | This is the unrefurbished version of the MLR train above. |
+| Disneyland Resort Line Train | ![#F287B7](https://via.placeholder.com/16/F287B7/000000?text=+) #F287B7 | 24 | `drl` | This is modelled after the [Metro Cammell EMU](https://en.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(DC)) manufactured by Metro-Cammell and GEC-Alstom modified for the Disneyland Resort Line. |
+| K-Train | ![#0EAB52](https://via.placeholder.com/16/0EAB52/000000?text=+) #0EAB52 | 24<br>19 (Small)<br>9 (Mini) | `k_train`<br>`k_train_small`<br>`k_train_mini` | This is modelled after the [Rotem EMU](https://en.wikipedia.org/wiki/MTR_Rotem_EMU) manufactured by Rotem and Mitsubishi consortium. |
+| K-Train Tung Chung Line | ![#0EAB52](https://via.placeholder.com/16/0EAB52/000000?text=+) #0EAB52 | 24<br>19 (Small)<br>9 (Mini) | `k_train_tcl`<br>`k_train_tcl_small`<br>`k_train_tcl_mini` | This is modelled after the Tung Chung Line version of the K-Train above. |
+| K-Train Airport Express | ![#0EAB52](https://via.placeholder.com/16/0EAB52/000000?text=+) #0EAB52 | 24<br>19 (Small)<br>9 (Mini) | `k_train_ael`<br>`k_train_ael_small`<br>`k_train_ael_mini` | This is a fictional train. |
+| C-Train | ![#FDD900](https://via.placeholder.com/16/FDD900/000000?text=+) #FDD900 | 24<br>19 (Small)<br>9 (Mini) | `c_train`<br>`c_train_small`<br>`c_train_mini` | This is modelled after the [MTR CNR Changchun EMU](https://en.wikipedia.org/wiki/MTR_CNR_Changchun_EMU) manufactured by CNR Changchun. |
+| S-Train | ![#C1CD23](https://via.placeholder.com/16/C1CD23/000000?text=+) #C1CD23 | 24<br>19 (Small)<br>9 (Mini) | `s_train`<br>`s_train_small`<br>`s_train_mini` | This is modelled after the [MTR CNR Changchun EMU](https://en.wikipedia.org/wiki/MTR_CNR_Changchun_EMU) manufactured by CNR Changchun. |
+| R-Train | ![#6CB5E2](https://via.placeholder.com/16/6CB5E2/000000?text=+) #6CB5E2 | 24<br>19 (Small)<br>9 (Mini) | `r_train`<br>`r_train_small`<br>`r_train_mini` | This is modelled after the [MTR Hyundai Rotem EMU](https://en.wikipedia.org/wiki/MTR_Hyundai_Rotem_EMU) manufactured by Hyundai Rotem. |
+| CAF Tung Chung Line Train | ![#F69447](https://via.placeholder.com/16/F69447/000000?text=+) #F69447| 24<br>19 (Small)<br>9 (Mini) | `a_train_tcl`<br>`a_train_tcl_small`<br>`a_train_tcl_mini` | This is modelled after the [Adtranz–CAF EMU](https://en.wikipedia.org/wiki/MTR_Adtranz%E2%80%93CAF_EMU) manufactured by AdTranz and Construcciones y Auxiliar de Ferrocarriles. |
+| CAF Airport Express Train | ![#008D8D](https://via.placeholder.com/16/008D8D/000000?text=+) #008D8D | 24<br>14 (Mini) | `a_train_ael`<br>`a_train_ael_mini` | This is modelled after the [Adtranz–CAF EMU](https://en.wikipedia.org/wiki/MTR_Adtranz%E2%80%93CAF_EMU) manufactured by AdTranz and Construcciones y Auxiliar de Ferrocarriles. The exterior is visually similar to the Tung Chung Line trains but the interior is fancier. |
+| Light Rail (Phase 1) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_1`<br>`light_rail_1_rht` | This is modelled after the [Light Rail (Phase 1)](https://en.wikipedia.org/wiki/Light_Rail_(MTR)) trains manufactured by Comeng. |
+| Light Rail (Phase 1 Refurbished) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_1r`<br>`light_rail_1r_rht` | The refurbished version of the train has a white livery. |
+| Light Rail (Phase 2) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_2`<br>`light_rail_2_rht` | This is modelled after the [Light Rail (Phase 2)](https://en.wikipedia.org/wiki/Light_Rail_(MTR)) trains manufactured by Kawasaki. |
+| Light Rail (Phase 3) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_3`<br>`light_rail_3_rht` | This is modelled after the [Light Rail (Phase 3)](https://en.wikipedia.org/wiki/Light_Rail_(MTR)) trains manufactured by Goninan. |
+| Light Rail (Phase 3 Refurbished) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_3r`<br>`light_rail_3r_rht` | The refurbished version of the train has a white livery. |
+| Light Rail (Phase 4) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_4`<br>`light_rail_4_rht` | This is modelled after the [Light Rail (Phase 4)](https://en.wikipedia.org/wiki/Light_Rail_(MTR)) trains manufactured by Goninan. |
+| Light Rail (Phase 5) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_5`<br>`light_rail_5_rht` | This is modelled after the [Light Rail (Phase 5)](https://en.wikipedia.org/wiki/Light_Rail_(MTR)) trains manufactured by CRRC. |
+| Light Rail (Phase 1 Refurbished, Blue Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_1r_old`<br>`light_rail_1r_old_rht` |  |
+| Light Rail (Phase 4, Blue Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_4_old`<br>`light_rail_4_old_rht` |  |
+| Light Rail (Phase 5, Blue Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_5_old`<br>`light_rail_5_old_rht` |  |
+| Light Rail (Phase 1 Refurbished, Orange Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_1r_orange`<br>`light_rail_1r_orange_rht` | The orange livery mimics the train when it starts service in 1988. |
+| Light Rail (Phase 2, Orange Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_2_orange`<br>`light_rail_2_orange_rht` | The orange livery mimics the train when it starts service in 1988. |
+| Light Rail (Phase 3, Orange Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_3_orange`<br>`light_rail_3_orange_rht` | The orange livery mimics the train when it starts service in 1988. |
+| Light Rail (Phase 4, Orange Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_4_orange`<br>`light_rail_4_orange_rht` | The orange livery mimics the train when it starts service in 1988. |
+| Light Rail (Phase 5, Orange Livery) | ![#D2A825](https://via.placeholder.com/16/D2A825/000000?text=+) #D2A825| 22 | `light_rail_5_orange`<br>`light_rail_5_orange_rht` | The orange livery mimics the train when it starts service in 1988. |
+| London Underground D78 Stock | ![#007229](https://via.placeholder.com/16/007229/000000?text=+) #007229 | 18<br>10 (Mini) | `london_underground_d78`<br>`london_underground_d78_mini` | This is modelled after the [London Underground D78 Stock](https://en.wikipedia.org/wiki/London_Underground_D78_Stock) trains manufactured by Metro-Cammell. |
+| London Underground 1995 Stock | ![#333333](https://via.placeholder.com/16/333333/000000?text=+) #333333 | 19 | `london_underground_1995` | This is modelled after the [London Underground 1995 Stock](https://en.wikipedia.org/wiki/London_Underground_1995_Stock) trains manufactured by GEC Alsthom-Metro-Cammell. |
+| London Underground 1996 Stock | ![#A1A5A7](https://via.placeholder.com/16/A1A5A7/000000?text=+) #A1A5A7 | 19 | `london_underground_1996` | This is modelled after the [London Underground 1996 Stock](https://en.wikipedia.org/wiki/London_Underground_1996_Stock) trains manufactured by GEC Alsthom-Metro-Cammell. |
+| R179 | ![#D5D5D5](https://via.placeholder.com/16/D5D5D5/000000?text=+) #D5D5D5 | 19<br>9 (Mini) | `r179`<br>`r179_mini` | This is modelled after the New York Subway [R179](https://en.wikipedia.org/wiki/R179_(New_York_City_Subway_car)) subway cars manufactured by Bombardier Transportation. |
+| R211 | ![#D5D5D5](https://via.placeholder.com/16/D5D5D5/000000?text=+) #D5D5D5 | 19<br>9 (Mini) | `r211`<br>`r211_mini` | This is modelled after the New York Subway [R211](https://en.wikipedia.org/wiki/R211_(New_York_City_Subway_car)) subway cars manufactured by Kawasaki. |
+| R211T | ![#D5D5D5](https://via.placeholder.com/16/D5D5D5/000000?text=+) #D5D5D5 | 19<br>9 (Mini) | `r211t`<br>`r211t_mini` | This is modelled after the New York Subway [R211](https://en.wikipedia.org/wiki/R211_(New_York_City_Subway_car)) subway cars manufactured by Kawasaki with walkthrough gangways. |
+| Class 802 (GWR) | ![#021E15](https://via.placeholder.com/16/021E15/000000?text=+) #021E15 | 24<br>18 (Mini) | `class_802_gwr`<br>`class_802_gwr_mini` | This is modelled after the [British Rail Class 802](https://en.wikipedia.org/wiki/British_Rail_Class_802) with the Great Western Railway livery manufactured by Hitachi Rail. |
+| Class 802 (TPE) | ![#00A6E6](https://via.placeholder.com/16/00A6E6/000000?text=+) #00A6E6 | 24<br>18 (Mini) | `class_802_tpe`<br>`class_802_tpe_mini` | This is modelled after the [British Rail Class 802](https://en.wikipedia.org/wiki/British_Rail_Class_802) with the TransPennine Express livery manufactured by Hitachi Rail. |
+| Minecart | ![#666666](https://via.placeholder.com/16/666666/000000?text=+) #666666 | 1 | `minecart` | Although they look visually similar, these are different from Minecraft [minecarts](https://minecraft.gamepedia.com/Minecart). |
+
+</markdown>
+
+===== Behaviour =====
+
+The train doors will open if there are [[/platform_block|platform blocks]] lining the platform. All train types must be boarded by walking onto the train. The train must be stopped at a platform to board passengers. Players can move around within the train car after boarding.
+
+To alight, simply walk off the train when the train doors are open. In the case of an emergency, the player may press and hold the dismount key (left shift by default), just like dismounting any other vehicle in Minecraft.
+
+<markdown>
+
+
+
+
+# Gallery
+
+> <img alt="SP1900 Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/sp1900-day.png" width=512/><br>SP1900 in the day
+
+> <img alt="SP1900 Mini Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/sp1900-mini-day.png" width=512/><br>SP1900 (Mini) in the day
+
+> <img alt="C1141A Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/c1141a-day.png" width=512/><br>C1141A in the day
+
+> <img alt="C1141A Mini Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/c1141a-mini-day.png" width=512/><br>C1141A (Mini) in the day
+
+> <img alt="M Train Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/m-train-day.png" width=512/><br>M Train in the day
+
+> <img alt="M Train Mini Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/m-train-mini-day.png" width=512/><br>M Train (Mini) in the day
+
+> <img alt="CAF Tung Chung Line Train Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-tcl-day.png" width=512/><br>CAF Tung Chung Line Train in the day
+
+> <img alt="CAF Tung Chung Line Train Mini Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-tcl-mini-day.png" width=512/><br>CAF Tung Chung Line Train (Mini) in the day
+
+> <img alt="CAF Airport Express Train Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-ael-day.png" width=512/><br>CAF Airport Express Train in the day
+
+> <img alt="SP1900 Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/sp1900-night.png" width=512/><br>SP1900 in the night
+
+> <img alt="SP1900 Mini Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/sp1900-mini-night.png" width=512/><br>SP1900 (Mini) in the night
+
+> <img alt="M Train Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/m-train-night.png" width=512/><br>M Train in the night
+
+> <img alt="M Train Mini Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/m-train-mini-night.png" width=512/><br>M Train (Mini) in the night
+
+> <img alt="CAF Tung Chung Line Train Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-tcl-night.png" width=512/><br>CAF Tung Chung Line Train in the night
+
+> <img alt="CAF Tung Chung Line Train Mini Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-tcl-mini-night.png" width=512/><br>CAF Tung Chung Line Train (Mini) in the night
+
+> <img alt="CAF Airport Express Train Night" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/a-train-ael-night.png" width=512/><br>CAF Airport Express Train in the night
+
+> <img alt="Minecart Day" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/trains/minecart-day.png" width=512/><br>Minecarts in the day
+
+</markdown>
+

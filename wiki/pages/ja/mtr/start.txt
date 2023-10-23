@@ -1,0 +1,30 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+====== Minecraft Transit Railway 3.X ======
+
+**Minecraft Transit Railway**は香港MTR、ロンドン地下鉄、ニューヨークの地下鉄をベースにした[[https://minecraft.gamepedia.com/Mods | Minecraft mod]]です。他の雑多なブロックやアイテムと共に電車をゲームに追加します。このMODを使えば、あなたの世界に完全に機能する鉄道システムを構築することができます！
+
+このMODはMinecraft ForgeとFabricのバージョン1.16、1.17、1.18、1.19に対応しています。
+
+問題やバグを見つけたら報告してください！[[https://github.com/jonafanho/Minecraft-Transit-Railway/issues | GitHub issues tab]] または [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List |todo list]] を参照してください。
+
+===== はじめに =====
+
+この[[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Getting-Started | テキストチュートリアル]]または[[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC | ビデオプレイリスト]]では、最初の鉄道を設定するための基本的な手順を説明します。(訳注：英語のみ)
+
+===== ダウンロードとインストール =====
+MODをダウンロードしたりプロジェクト情報を見るには、[[https://modrinth.com/mod/minecraft-transit-railway| Modrinth page]]にアクセスしてください。
+
+===== バージョン =====
+  * [[ja:mtr:3.0.X | V3.0.X]]
+  * [[ja:mtr:3.1.X | V3.1.X]]
+  * [[ja:mtr:3.2.X | V3.2.X]]
+  * [[ja:mtr:4.0.X | V4.0.X]]
+
+===== 記事一覧 =====
+~~NOCACHE~~
+<nspages -textPages="" -title -exclude>
+
+===== ライセンス =====
+
+このプロジェクトのライセンスは[[https://opensource.org/licenses/MIT | MIT License]]です。このMODに同梱されているすべての[[http://www.google.com/get/noto/ | Notoフォント]]は[[http://scripts.sil.org/OFL | Open Font License]]でライセンスされています。

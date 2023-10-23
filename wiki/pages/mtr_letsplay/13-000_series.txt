@@ -1,0 +1,68 @@
+======Terralith Rapid Transit 13-000 Series======
+<WRAP 400px right>
+
+|  @#ffa79e:  **Terralith Rapid Transit 11-000 Series**  ||
+|   ||
+|   ||
+|  @#ffa79e:  **Overview**  ||
+| **In service**  | 2023–present  |
+| **Manufacturer**  | [[S43-Tec]](Original)|
+|   | Metro Ace(Refurbishment)|
+| **Number built**  | |
+| **Formation**  | 2 cars per trainset  |
+| **Capacity**  | 307 (254 seated)  |
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Operator(s)** | [[ShimanoMTR|Shimano MTR]] |
+| |[[ShimanoMTR|Shimano LRT]]|
+| **Depot(s)** | |
+| **Line(s) served** | (S13)[[Jigglypuff Line]], [[Shimano LRT|Shimano LRT]] |
+|  @#ffa79e:  **Specifications**  ||
+| **Car body construction** | Steel |
+| **Train length** |31.0m|
+| **Car length** |15.0m|
+| **Width** |2.6 m|
+| **Height** |3.9 m|
+| **Doors** |2 pairs per side|
+| **Maximum speed** |90km/h|
+| **Weight** |28.5 t|
+| **Traction system** |IGBT–VVVF|
+| **Traction motors** |4 × 120 kW 3-phase AC induction motors|
+| **Power output** |480 kW|
+| **Acceleration** |5.8 km/(h⋅s)|
+| **Deceleration** |5.8 km/(h⋅s) (service)|
+| ::: | 8.5 km/(h⋅s) (emergency) |
+| **Electric system(s)** |600 V/1,500 V DC overhead catenary|
+| **Current collector(s)** |Pantograph|
+| **UIC classification** |2′Bo′+2′Bo′|
+| **Bogies** | |
+| **Braking system(s)** |Regenerative and electro-pneumatic|
+| **Safety system(s)** |CS-ATC, ATO(GoA 2), LRT Mode(GoA 0)|
+| **Track gauge** |1,435 mm|
+
+
+</WRAP>
+
+ The Terralith Rapid Transit 13-000 series is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[Jigglypuff Line]].
+=====Overview=====
+
+When constructing the Jigglypuff Line, a through service with SLRT was implemented for convenience, but this line was structured so that only S43-Tec LRV vehicles could pass.
+
+Therefore, Metro Ace modified the S43-Tec 1980 with the following items.
+
+  * Installation of SMTR standard CS-ATC to provide through service to SMTR.
+
+  * Installed ATO compatible with GoA-2 to accommodate platform doors.
+
+  * Control device updated from chopper control to IGBT-VVVF.
+
+  * Replace the motor from DC motor to AC induction motor.
+
+  * Motor output increased from 100kw to 120kw. This increased the design maximum speed from 80km/h to 90km/h.
+
+  * DC 600V/1500V dual voltage for through service to SLRT and SMTR.
+
+  * In order to comply with SMTR, an emergency door is installed in the front.
+
+  * Renovated exterior and interior.
+
+The 13-000 Series was born as a result of the above-mentioned large-scale renovation.

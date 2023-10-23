@@ -1,0 +1,63 @@
+====== JavaScript Support ======
+NTE supports fully customizable control of rendering and other features using JavaScript. This page lists the various functions, objects, and types provided when using JavaScript with NTE.
+
+===== Why Overcomplicate Everything? =====
+The main purpose of this feature is to implement dynamic displays on trains with the intent to support many different types and displays found in trains all over the world.
+
+By simplifying this process, it would be too hard to accurately reproduce how the system looks and works in real life and a lot of people would complain. This more complicated format is designed to let all sorts of logic and display types be implemented in the game without limiting creators too much. The downside to this is that now, all creators who want to create things will have to learn JavaScript to make use of these features.
+
+===== How To Edit JavaScript Files? =====
+A JavaScript file (.js) can be edited in a variety of editors. It is recommended to have a text editor that supports JavaScript [[wp>Syntax_highlighting|Syntax Highlighting]] like Notepad++ or Sublime text. While a full IDE (like Visual Studio Code or IntelliJ) is not recommended, it can also be used as a basic text editor.
+
+This rest of this article assumes that you have a basic understanding of JavaScript and JavaScript types, so it won't delve into the basic syntax and other aspects of it here. You can learn JavaScript from resources on the web, such as [[https://javascript.info|here]].
+
+===== Type Annotation =====
+As you know, values ​​in JS have different types. When calling a function, you must pass parameters of the appropriate type, and the result it returns will also have a type. In this article, all of the functions have their parameter and return types stated. For example:
+  * <code javascript>static Resources.id(idStr: String): ResourceLocation</code>
+    * ''static'' means that you don't need to create an object to use this function, you can call ''Resources.id("aaa:bbb")'' directly.
+    * ''idStr: String'' means that the ''idStr'' parameter accepts a string.
+    * '': ResourceLocation'' means that a function call will return a value of type ''ResourceLocation''.
+  * <code javascript>Matrices.rotateX(radian: float): void</code>
+    * The lack of ''static'' means that an object is required to execute the function. For example, if ''a'' is an object of Matrices type, then the function can be called as ''a.rotateX(Math.PI)''.
+    * ''radian: float'' means that the parameter takes a numeric argument. Although JS does not distinguish between integers and fractional numbers, this article will specify a specific type - ''int'', ''long'', ''float'' or ''double'' - to make it clear whether a parameter can accept decimal parts and to what precision.
+    * '': void'' means that the function has no return value.
+    * '': ResourceLocation'' means that a function call will return a value of type ''ResourceLocation''.
+
+===== Using Built-In Java Classes =====
+The Rhino JS engine allows using classes from the standard Java library as ''java.package.name''. Using classes from MTR is not available yet, most likely due to problems with the class loader.
+
+===== Declaring variables using let or var =====
+NTE uses JavaScript's strict mode, which does not allow variables to be assigned immediately without declaring them. To declare a global variable, use syntax like ''var glb;'' or outside a function ''var glb = 1;''. To use local variables inside a function, use ''let local;'' or ''let local = 1;''.
+
+[Translator's note: in general, it is better to always try to use ''let'' and resort to using ''var'' as a last resort].
+
+===== Don't Block Or Infinitely Loop =====
+NTE calls the function you wrote once per frame and expects your function to finish processing and return a value as soon as possible. Therefore, there is no such thing as "stop execution and wait for a while". If you want to achieve this behavior, you need to time it and then execute the appropriate action on a call made at the right time.
+
+If locks or infinite loops occur in the code, the entire script execution will stall because NTE scripts are executed one at a time [in the same thread]. This can be reset with F3+T.
+
+===== Differences In Using Java Classes =====
+For common function types such as strings, Java and JavaScript have different class implementations, which causes there to be JavaScript strings as well as Java strings. NTE/MTR functions and fields return Java string classes rather than JavaScript strings, but Rhino does some conversions automatically, so in most cases you can mix and match, but sometimes this can cause problems.
+
+For example, here's an example of a problem caused by using ''str.length()'' from a Java string class and ''str.length'' from a JavaScript string class to get the length of a string:
+<code javascript>
+var stationName = train.getThisRoutePlatforms().get(0).station.name;
+print(stationName.length); // Error: stationName is a Java string, not a JavaScript string
+print(stationName.length()); // Java strings get their length from the length() function, not the JavaScript length field
+print((""+stationName).length) // Use ""+ to turn it into a JavaScript string.
+</code>
+Similarly, there is a ''List<T>'' type in Java. It does the same thing as arrays in JavaScript, but has a different type. Trying to call JavaScript array functions on it won't work, but Rhino adapts it so that you can take values with ''list[0]'' or loop through them with ''for (a of list)''.
+
+===== Supported Parts Of The JavaScript Standard =====
+The Rhino engine does not support all of the latest JavaScript features. See [[https://mozilla.github.io/rhino/compat/engines.html|Mozilla's documentation]] for details on what is supported. NTE uses Rhino 1.7.14 with the VERSION_ES6 flag enabled.
+
+===== Errors =====
+If the script is executed incorrectly, NTE will report an error in the Minecraft log (starting with "Error in NTE Resource Pack JavaScript"), but there will be no in-game message. The error message will indicate which line of code in which script file the error occurred. Most launchers have the ability to display logs in a separate window in real time.
+
+In addition, NTE pauses the script for 4 seconds and then tries to run it again.
+
+===== Running Other Scripts =====
+  * <code javascript>static include(relPath: String): void</code>
+    * Loads and runs another JS file relative to the current JS file.
+  * <code javascript>static include(path: ResourceLocation): void</code>
+    * Loads and runs the JS file by location in the resource pack. For example, ''include(Resources.id("mtr:path/absolute.js"))''.

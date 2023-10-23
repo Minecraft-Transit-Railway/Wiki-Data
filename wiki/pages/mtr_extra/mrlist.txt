@@ -1,0 +1,65 @@
+====== Modrinth Resource Pack List ======
+
+<nspages -textPages="" -simpleList -sortByDate -exclude -exclude:start>
+
+~~NOCACHE~~
+
+<html>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="https://unpkg.com/axios@1.5.0/dist/axios.min.js"></script>
+
+<style>
+  .mr-mod-list td { padding: 0.5em; }
+  .mr-mod-list h2 { margin: 0; }
+</style>
+
+<div id="app" class="mr-mod-list">
+  <table style="width: 100%">
+    <template v-for="entry in entries">
+      <template v-if="!!entry.title">
+        <tr>
+          <td rowspan="2"><img style="height: 3em" :src="entry.icon_url"></td>
+          <td><h2><a :href="'https://modrinth.com/' + entry.project_type + '/' + entry.slug" target="_blank">{{ entry.title }}</a></h2></td>
+          <td>{{ entry.downloads }} <small>Downloads</small></td>
+        </tr>
+        <tr>
+          <td colspan="2">{{ entry.description }}</td>
+        </tr>
+      </template>
+    </template>
+  </table>
+</div>
+
+<script>
+  const { createApp, ref } = Vue;
+  
+  createApp({
+    setup() {
+      const entries = ref([]);
+      
+      let ulElem = document.querySelector(".plugin_nspages>ul");
+      for (let liElem of ulElem.children) {
+        entries.value.push({"slug": liElem.innerText})
+      }
+      ulElem.parentNode.removeChild(ulElem);
+      
+      const fetchProjectInfo = async (entryIndex) => {
+        try {
+          const res = await axios.get("https://api.modrinth.com/v2/project/" + entries.value[entryIndex].slug);
+          entries.value[entryIndex] = res.data;
+        } catch (ignored) {
+        
+        }
+      };
+      
+      for (let i = 0; i < entries.value.length; i++) {
+        fetchProjectInfo(i);
+      }
+      
+      return {
+        entries
+      };
+    }
+  }).mount('#app');
+</script>
+</html>

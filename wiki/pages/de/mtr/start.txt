@@ -1,0 +1,30 @@
+FIXME **Diese Seite wurde noch nicht vollständig übersetzt. Bitte helfen Sie bei der Übersetzung.**\\ //(diesen Absatz entfernen, wenn die Übersetzung abgeschlossen wurde)//
+
+====== Minecraft Transit Railway ======
+
+**Minecraft Transit Railway** ist eine [[https://minecraft.wiki/Mods| Minecraft mod]], basierend auf Zügen der Hongkong MTR, der London Underground und der New York Subway. Mit Minecraft Transit Railway kann man durch die vielen Züge und Blöcke ein vollwertiges Zugnetz bauen.
+
+Minecraft Transit Railway ist für Forge/Fabric 1.16, 1.17, 1.18 und 1.19 vollwertig verfügbar. 1.20 befindet sich derzeit in Entwicklung.
+
+Bitte melde alle Bugs, die du siehst! Auf der [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| GitHub issues tab]] oder der [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List| todo list]] findest du alle bekannten Bugs.
+
+===== Anleitungen =====
+
+Dieses [[/getting_started|Texttutorial]] oder die [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC| Videoplaylist]] behandeln alle Funktionen, um ein vollwertiges Netz zu bauen.
+
+===== Downloads und Installation =====
+
+Auf [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth]] oder [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge]] sind die Downloads und Informationen erhältlich.
+
+===== Versionen =====
+
+  * [[mtr:3.0.X| V3.0.X]]
+  * [[mtr:3.1.X| V3.1.X]]
+  * [[mtr:3.2.X| V3.2.X]]
+  * [[mtr:4.0.X| V4.0.X]]
+
+===== Lizenz =====
+
+Dieses Projekt wurde mit der [[https://opensource.org/licenses/MIT| MIT License]] lizenziert. Alle [[http://www.google.com/get/noto/| Noto-Schriftarten]], in dieser Mod inkludiert, sind mit der [[http://scripts.sil.org/OFL| Open Font License]] lizensiert.
+
+~~NOCACHE~~

@@ -1,0 +1,145 @@
+====== British Rail Class 508 ======
+
+<WRAP 400px right>
+
+|  @#EABF23:  **British Rail Class 508 (4PER)**  ||
+|  {{ :mtr_extra:508108_orakei.png?350 |508108 (in Let's Play) in Ōrākei}}508108 in %%Ōrākei.%%{{ :mtr_extra:508108_sop.jpg?350 }}508108 in Southport.  ||
+|  @#EABF23:  **Real-live Overview**  ||
+| **In service** | 17th December, 1979 - Present |
+| **Manufacturer** | [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] |
+| **Order Number** | 30979 (DMSO) |
+| ::: | 30980 (TSO) |
+| ::: | 30981 (BDMSO) |
+| **Built at** | Holgate Road, York |
+| **Family Name** | BREL 1972 (PEP) |
+| **%%Constructed%%** | 1979-1980 |
+| **Refurbished** | 2002-2004 by Alstom for Merseyrail units |
+| ::: | 2007-2008 by Wabtec for Southern units |
+| **Number Built** | 43 |
+| **Number in service** | 11 |
+| **Number scrapped** | 32 |
+| **Formation** | As built: DMSO-TSO-TSO-BDMSO |
+| ::: | 3-car conversion: DMSO-TSO-BDMSO |
+| **Southern Design Code** | 4PER |
+| **Fleet numbers** | 508/0: 508001-508043 |
+| ::: | 508/1: 508101-508143 |
+| ::: | 508/2: 508201-508212 |
+| **Capacity** | As built: 320 |
+| ::: | As 3-car: 234 |
+| ::: | As 3-car (modified) : 222 |
+| ::: | 508/2 units: 219 |
+| ::: | As refurbished: 192 |
+| **Rolling Stock Owner** | [[wp>Angel_Trains|Angel Trains]] |
+| **Operator(s)** | Current: |
+| ::: | [[wp>Merseyrail]] |
+| ::: | Former: |
+| ::: | [[wp>British_Rail|British Rail]] |
+| ::: | [[wp>Connex_South_Eastern|Connex South Eastern]] |
+| ::: | [[wp>Southeastern_(train_operating_company_2006–2021)|Southeastern]] |
+| ::: | [[wp>Silverlink|Silverlink]] |
+| ::: | [[wp>London_Overground|London Overground]] |
+| **Line(s) served** | [[wp>Wirral_line|Wirral Line]] |
+| ::: | [[wp>Northern_line_(Merseyrail)|Northern Line]] |
+|  @#EABF23:**  Real-live %%Specifications%%**  ||
+| **%%Car body construction%%** | Steel and Aluminium |
+| **Car Length** | DM cars: 19800mm |
+|   | TSO cars: 19920mm |
+| **%%Width%%** | 2820mm |
+| **%%Height%%** | 3582mm |
+| **Floor Height** | 1146mm |
+| **Doors** | Double-leaf pocket sliding, pneumatic doors |
+| **Wheelbase** | 14170mm |
+| **Maximum Speed** | 121km/h (75mph) |
+| **%%Weight%%** | %%DMSO: 36.15 tonnes%% |
+|   | %%TSO: 26.72 tonnes%% |
+|   | %%BDMSO: 36.61 tonnes%% |
+| **Traction motors** | %%8 × %%GEC G310AZ |
+|   | Or %%8 × %%Brush%% TM61-53%% |
+| **Electric system(s)** | 750-850V [[wp>Direct_current|Direct current]] [[wp>Third_Rail|Third Rail]] |
+| **Current collector(s)** | [[wp>Current_collector#Contact_shoe|Contact shoe]] |
+| **Bogies** | BREL BX1 |
+| **Minimum turning radius** | 70400mm |
+| **Braking system(s)** | Electro-Pneumatic and rheostatic |
+| **Safety System(s)** | AWS |
+|   | TPWS |
+| **Coupling system** | Tightlock |
+| **Multiple working** | 508/3: within subclass and [[wp>British_Rail_Class_313|British Rail Class 313]] |
+|   | 508/1: Within class and [[wp>British_Rail_Class_507|British Rail Class 507]] |
+|   | Others: Within class |
+| **Track gauge** | 1435mm |
+|  **Information above are from Wikipedia with addition of the editor(Navi)'s understanding.**  ||
+|  @#EABF23:  **MTR (and [[mtr_letsplay:start]]) Overview**  ||
+| **Available from** | 17th September, 2022-Present |
+| **Creator** | [[mtr_community:navi_lx9702|Navi]] |
+| **Latest stable release** | 1.4 (11th February, 2023) |
+| **Cube Count**  | 732 (As of version 1.4) |
+| **Order Number**  | 30981 (BDMSO) |
+| **Built at** | Cheshire |
+| **Family Name** | N/A |
+| **%%Constructed%%** | 2022 |
+| **Formation** | DMSO-[TSO]-BDMSO |
+| **Fleet numbers** | 508108 (64656-71490-64699) |
+| **Capacity** | As refurbished: 192 |
+| **Operator(s) in [[mtr_letsplay:start]]** | Current: |
+| ::: | [[mtr_letsplay:wilds_railway]] |
+| ::: | [[mtr_letsplay:auckland_transport|Auckland Transport]] |
+| ::: | %%WildLily Overground%% |
+| ::: | Electrostar Rail |
+| **Line(s) served in [[mtr_letsplay:start]]** | WR Yanyu Line |
+| ::: | [[mtr_letsplay:auckland_transport|AT Metro]] |
+| ::: | [[mtr_letsplay:auckland_transport|AT Regional]] |
+| ::: | %%WildLily Overground%% |
+| ::: | Electrostar Rail |
+|  @#EABF23:**  MTR (and [[mtr_letsplay:start]]) %%Specifications%%**  ||
+| **%%Car body construction%%** | Steel and Aluminium |
+| **Car Length** | 20000mm |
+| **%%Width%%** | ? |
+| **%%Height%%** | ? |
+| **Floor Height** | 1000mm |
+| **Doors** | Double-leaf pocket sliding, R179 doors |
+| **Wheelbase** | ? |
+| **Maximum Speed** | 300km/h (%%186.41%%mph) |
+| **%%Weight%%** | N/A |
+| **Traction motors** | %%BVE %%GEC G310AZ (As of version 1.4) |
+| ::: | Wilds Railway Units: |
+| ::: | [[https://zeldawiki.wiki/wiki/Ezlo|Ezlo]] Traction G310AZ |
+| **Electric system(s)** | 750-850V [[wp>Direct_current|Direct current]] [[wp>Third_Rail|Third Rail]] |
+| **Current collector(s)** | [[wp>Current_collector#Contact_shoe|Contact shoe]] |
+| **Bogies** | FZEOFO BX1 |
+| **Minimum turning radius** | ? |
+| **Braking system(s)** | ? |
+| **Safety System(s)** | Jon's Signalling |
+| **Coupling system** | Tightlock |
+| **Multiple working** | N/A |
+| **Track gauge** | MTR Standard |
+
+</WRAP>
+
+The **British Rail Class 508** or **4PER** in Southern Railway, is a Electric Multiple Unit (EMU) passenger train built by [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] between 1979 and 1980. They are one of the the BERL 1972 suburban train designs, others being Classes [[wp>British_Rail_Class_313|313]], [[wp>British_Rail_Class_314|314]], [[wp>British_Rail_Class_315|315]], and [[wp>British_Rail_Class_507|507]]. This train is designed and worked for Merseyside since 1983 and continue to do so. As of 2023, they are 44 years old and is due to be replaced gradually by [[wp>British_Rail_Class_777|Class 777]].
+
+====== In Minecraft Transit Railway ======
+
+[[mtr_community:navi_lx9702|Navi]] made the Class 508/1 for Minecraft Transit Railway since September. the train is made and a "prototype" is posted in the screenshots channel in the Discord Server. the screenshot is then attracted many players to give diamonds to it. In 17th September the pack is started to be available for public downloads.
+
+Starting form version 1.3 the train is one of the very few train that uses the new BVE sound system.
+
+====== In Let's Play server ======
+
+===== Class 508/1 =====
+
+An unknown number of Class 508/1 are currently serving AT Metro Circle Line.
+
+===== Class 508/4 =====
+
+The Class 508/4 is a modified version of Class 508/1, and is used for [[mtr_rp:wr_yanyu_line|WR Yanyu Line]]. A total of 5 trains are produced by [[mtr_community:navi_lx9702|Navi]] in Late September.
+
+Some of the Class 508/4s are used for AT Metro Circle Line until the Merseyrail Livery is uploaded early October, 2022.
+
+===== Class 508/5 =====
+
+the Class 508/5 are used for the [[mtr_rp:lilypad_rail|Lilypad Rail]]-[[mtr_rp:wilds_railway|Wilds Railway]] Overground services.
+
+A total of 10 trains are used. There are 5 trains which are refurbished again by Bombardier and equipped with a new VVVF inverter.
+
+The refurbished units also used in AT Metro as well since 30th December, 2022.
+

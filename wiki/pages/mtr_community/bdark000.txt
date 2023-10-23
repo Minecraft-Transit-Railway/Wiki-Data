@@ -1,0 +1,72 @@
+====== User - BDark000 ======
+
+<WRAP right>
+
+|  @#c0e0af:  **BDark000**  ||
+|  {{ :mtr_community:bdark_skin.jpg?150 }}//BDark000's Minecraft skin//\\ //from Hypixel assassin Vinny//  ||
+|  @#c0e0af:  **Overview**  ||
+| **Also known as** | BDark |
+| ::: | Cute Teddy Bear((Discord display name)) |
+| ::: | ctbbdark((Discord username)) |
+| **Date Joining\\ MTR Mod Discord** | 22 April, 2021 |
+| **Roles** | Staff |
+| ::: | Github Contributor |
+| ::: | Modders |
+| ::: | Let's Play Members |
+| ::: | OG 500 GANG |
+| ::: | Train Operators |
+| **Pronoun(s)** | He/Him |
+
+</WRAP>
+
+**BDark000** aka **BDark**, is one of the staff in the [[mtr:start|Minecraft Transit Railway]] Discord community. He is also one of the active builders and the founder/PIC of [[mtr_letsplay:west_lake_transport_authority|West Lake Transport Authority]] (WLT) in the [[mtr_letsplay:start|Let's Play server]]. 
+
+==== Before Joining MTR Community ====
+
+=== Traincarts Periods ===
+
+BDark has showed interest in Minecraft as early as in 2015, when there were a bunch of HK YouTubers featuring Minecraft((E.g. Challenge Park series)). And the thought of building a railway in Minecraft starts when he saw a video introducing the traincarts plugin. 
+
+The enthusiasm didn't continue as traincarts only change the motion, add signalling and allowing stacking to vanilla minecarts. Slopes are limited to 45° due to restriction of Minecraft. Also, traincarts known to have a rounding issue which would cause minecarts to stuck after travelling for certain distance, jamming up the whole line. 
+
+=== RTM Periods ===
+
+BDark knows more mods like traincraft, railcraft from a well-known Taiwanese gaming forum. However, the most appealing is the once legendary Real Train Mod (RTM). It has very realistic trains, trains movements, tracks, train sounds and allows creations of content through resource packs. BDark joins a Taiwanese RTM community, plays some maps and uses some packs there, then starts to build his own railway in a single player map((Minecraft version 1.10.2 forge)). 
+
+BDark first knows MTR mod from Jonathan's blogspot written in 2017. He has combined the MTR escalators and platform screen doors with RTM trains and tracks for building realistic stations and railways. However, he loses interest after several months of work in the depot and the first station, because RTM doesn't support automated trains and scheduling. Building stations and manually driving trains without other visitors and other trains is lonely. 
+
+Enthusiasm is back again when he saw a video featuring MTR mod 3.0.0 beta version. Comparing to older versions, tracks are connected instead of placed, giving more choices to alignments. The dashboard mechanism supports automated trains and variable frequencies, and train sounds are added. Moreover, MTR mod is optimised enough and railways can be built in servers forming large networks. BDark then switches from RTM Community to MTR Community. 
+
+==== After Joining MTR Community ====
+
+=== Centown Periods ===
+
+The video featured Centown Server besides the 3.0.0 beta of MTR mod, **BDark** also joins Centown discord server along with MTR mod discord server.
+
+Soon he applied for builder and gets accepted by Centown management. At that time, the depot update((Version 3.0.0-beta 7)) of MTR mod was out, changed how trains run along the lines. Instead of building new lines, BDark offered to help many lines resume service by adding temporary depots and turnback rails, so that trains could run. CHR was the most involved since it already had a decent network((CHR Regional Expresses, WangarLink, CHR On Shan Rail, CHR Sun Shui Rail, CHR Express and CHR Nau Kok Rail)) then BDark continues to help out in CHR. 
+
+Since constructing curves and slopes has been time consuming before the tunnelling and bridging tools are available, most of the early lines in Centown had been building in a way that track length of slopes and curves was reduced as much as possible, making trains have to go through sharp turns and roller coaster like slopes. Another common phenomenon is to copy and paste slopes, resulting in a bumpy ride. Before the tools were out, BDark already started rebuilding some of the sharp turns and bumpy sections in CHR, using worldedit superpickaxe((Continues to break surrounding blocks except air in a prescribed radius)) to dig out tunnels, and recursively fill in blocks for bridges. 
+
+**BDark** has been actively helping out in Centown Minecraft server and discord server. Hence promoted to mod after the first major incident((The highest of Joestu management hated Twinkle, and bypassed other Centown staff to convince owner Bosco to punish Twinkle on a debatable moderation decision. Bosco demoted Twinkle without prior discussion, and his action led to a large drama among Centown because Twinkle refused to host the server after being demoted. Bosco didn't manage to get the latest backup, and host Centown on a new server or his computer. He was petited to leave Centown management for half a year, and Genki one of the MTR mod discord admin took care of Centown at that period. Twinkle accepted the arrangement and continue hosted Centown server. )) in Centown occured, and later settled down. 
+
+Unfortunately, in 2022 July, the network adapter of the machine Centown was hosted broke down in an OS update. 
+Twinkle, the highest of Centown management, had to launch the planned new map of Centown Centown NXT early to all builders. 
+
+**BDark** visited once the Centown NXT server before released to all builders, and was permitted by Twinkle to help develop the Spawn Area of the new server.
+
+Unfortunately, the server wasn't doing good in reliability. Originally, BDark had a few ideas on the Spawn area, however on the first launch, he was discouraged by builders kept asking about the server status, then Twinkle lost patience and became emotional. Moreover, very few builders transitioned to the Centown NXT and some treated it as the experimental base for other projects((E.g. [[https://mtrcrafters.github.io/Website/|MTR Crafters]])). Also the only service getting out of Spawn Area owned by Twinkle((He demanded all services except his must not have stops within 100m radius of Spawn Area)) was heard to be unstable and often jammed up. Due to Centown NXT being chaotic soon after the launch, BDark decided to focus on his single player map //白刀黑橋 Baakdo Hut Kiu//.
+
+//白刀黑橋 Baakdo Hut Kiu// is a world built by BDark, using MTR mod compiled with different acceleration and rail connector speeds, and later testing with new MTR mod features. One E-W service using trains with ex-MTR door spacing((Originally 4-car 2-door 40m, later expanded to 5-car 4-door 100m, running together with 7-car CAF Airport Express Mini 105m)) and one N-S service using trains with ex-KCR door spacing((Originally 4-car 2-door 52m, later expanded to 6-car 3-door 102m, never really run)), each with two branches on the two ends, are planned and partly built. However, except the //Central station (零零站)// and part of the trackage near the station, other parts are far from being finished, or able to serve passengers. 
+
+=== MTR Mod Discord and Let's Play Server Periods ===
+
+**BDark** has also contributed in MTR mod community. He first made a github pull request of adding 60 km/h and 200 km/h rails, as the community wanted to have more choices of line speed besides the 6((20 km/h, 40 km/h, 80 km/h, 120 km/h, 160 km/h and 300 km/h)). 
+Since green and emerald, white and quartz hasn't been used in track materials, he chose those as the materials required for 60 km/h and 200 km/h rail connectors. The green 60 km/h rail was success but the white 200 km/h rail needed Jonathan's change in rail texture rendering to get the white quartz color in rails. 
+
+The second commit he made was to turning the option of disabling text announcements to only disabling auto-generated text announcements but not those by train announcer. Yet, Jonathan thought that disabling auto-generated text announcements by route and serverwide is better than making it a global clientside setting. BDark agreed and it was then coded into the mod. 
+
+**BDark** was invited along with other github contributions and resource pack authors by Jonathan to apply for builder in the new Let's Play server in 2022 July. The application was accepted in early 2022 August. He was also invited to be one of the staff team upon the departure of Makki/ProgrammerHistoryButt, and has been one of the staff team((At first BDark was moderator, then got promoted to staff along with the merge of moderator and staff role)) in both MTR mod discord server and Let's Play server since then.
+
+When BDark joined the Let's Play builders team, the lake area southwest of Spawn had been free from other claims or projects. Hence he started developing there, named the region [[mtr_letsplay:west_lake_area|West Lake]] and later founded [[mtr_letsplay:west_lake_transport_authority|West Lake Transport Authority]] (WLT). 
+
+Collaboration creates value. [[https://zbx1425.cn|Nemo]]'s pull request of BVE4/5 sound format, development of [[mtr_addon:nte:start|Nemo's Transit Expansion]] (NTE), [[mtr_addon:msd:start|MTR's Station Decoration Addon]] (MSD) and [[mtr_addon:lu:start|The Tube]], adding much more elements to WLT Lines than initially expected. <del>This is why WLT always has construction finishing date delayed.</del> Look forward to the future of WLT! 

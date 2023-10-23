@@ -1,0 +1,69 @@
+====== Lake City Station ======
+
+<WRAP 400px right>
+
+|   @#0e51b9:  <color #ffffff>**Lake City**</color>   ||
+| @#0FBFE4: ||
+| @#19DFDE: ||
+| @#89AC76: ||
+| @#036afa: ||
+^   **Overview**   ^^
+| **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| ::: | [[mtr_letsplay:new_harmony_railways|New Harmony Railways]] |
+| ::: | [[mtr_letsplay:sw_transit|SW Transit]] |
+| **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
+| ::: | [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] |
+| ::: | [[mtr_letsplay:circulator_ip|Circulator IP]] |
+| **Owners** | [[mtr_community:navi_lx9702|Navi]] |
+| ::: | [[mtr_community:tea|Tea]] |
+| **Region** | [[mtr_letsplay:west_lake_region|West Lake]] |
+| **Platforms** | 7 (3 island, 1 dock) |
+| **Tracks** | 6 |
+| **Coordinates** | (-3492, 3324) |
+^   **Translations**   ^^
+| **Traditional** | 湖城 |
+| **Simplified** | 湖城 |
+| **Cantonese Yale** | wùhsìhng |
+^   **Colors**   ^^
+| @#0e51b9:  | Blue |
+| @#ffffff:  | White |
+^   **Station**   ^^
+| **Type** | Elevated (SW Plains Side) |
+| ::: | Underground (NHR Side) |
+| **Floors** | - |
+| **Platform Floors** | 4 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | LAC |
+| **Opened** | 8 August, 2022 |
+| **Electrification** | 750V third rail DC (SW Plains Line) |
+
+| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** || | @#19dfde:  **[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]** ||
+| ◉ | [[mtr_letsplay:lake_city_station|Lake City]] | ::: | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ⇅ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] | ::: | ⇅ | [[mtr_letsplay:mita_shiro_station|Mita Shiro]] |
+| ⇅ | ... | ::: | ⇅ | ... |
+| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] | ::: | ⇅ | [[mtr_letsplay:gate_of_yunlong_station|Gate of Yunlong]] |
+
+| @#89ac76:  **[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]]** || | @#036afa:  **[[mtr_letsplay:circulator_ip|Circulator IP]]** ||
+| ◉ | [[mtr_letsplay:lake_city_station|Lake City]] | ::: | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ⇅ | [[mtr_letsplay:snowberry_hill_station|Snowberry Hill]] | ::: | ⇅ | [[mtr_letsplay:mosinee_station|Mosinee]] |
+| ⇅ | ... | ::: | ||
+| ⇅ | [[mtr_letsplay:inage_kaigan_station|Inage Kaigan]] | ::: | ::: ||
+
+</WRAP>
+
+**Lake City Station** (//Chinese: 湖城站//) is a terminal station of 4 lines, including [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]], and [[mtr_letsplay:circulator_ip|Circulator IP]]. It is frequently used for intro and outro of Jonathan's videos.
+
+The station is split into 2 parts, the "[[mtr_letsplay:wilds_railway|Wilds Railway]] side" which contains the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] platform and "[[mtr_letsplay:new_harmony_railways|New Harmony Railways]] side" which contains the  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] due to the existing WR side is not enough for expansion. 
+
+Unless specified, the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Lake City station will be referred as "WR Side", and the underground [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] Lake City station will be referred as "NHR Side". 
+
+===== History =====
+
+  * **8 August, 2022**: WR side Station starts construction. [[mtr_community:navi_lx9702|Navi]] (Wilds Railway) is responsible for this work. The elevated station is said to be "Ma On Shan Line style". A few advertisements boards are posted on the Platform 1 and is removed later.
+  * **Unknown August, 2022**: NHR side Station starts construction. [[mtr_community:superidolabc|Superidolabc]] is responsible for this work at the moment which is still the [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]]. In view of his expulsion the station is then managed by Tea, and the [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] is replaced by [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]].
+  * **Unknown November, 2022**: [[mtr_community:ludwigtails|LudwigTails]] asked for permission for his first line to be terminated there and is agreed, therefore the [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] platforms are built underneath [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] platforms in NHR side Station.
+  * **4 December, 2022**: the [[mtr_letsplay:circulator_ip|Circulator IP]], regarding as the first "Airplane" line in the server, connects Lake City Station with an separated AirDock next to the RV [[mtr_lp:mpl_85|MPL 85]].
+
+===== Layout =====
+TODO

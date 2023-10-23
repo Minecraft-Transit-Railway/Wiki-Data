@@ -1,0 +1,36 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+Welcome to the MTR wiki!
+
+===== Minecraft Transit Railway =====
+
+* [[mtr:start|Minecraft Transit Railway]] - MOD本体に関する情報
+
+===== 追加コンテンツ =====
+
+* [[mtr_extra:caution|アドオンとMODの警告]] - アドオンやMODを追加する前の重要な注意と警告
+
+* [[mtr_extra:resourcepack|リソースパックの導入]] - リソースパックの導入方法
+
+* [[mtr_extra:resourcepack:make|リソースパックの作成]] - リソースパックの作成方法
+
+  * [[mtr_extra:resourcepack:make:texture|列車のテクスチャリング]] - テクスチャーの作り方
+  * [[mtr_extra:resourcepack:make:model|列車のモデリング]] - モデルの作り方
+  * [[mtr_extra:resourcepack:make:others|その他]] - サインやサウンドなどの作り方
+
+* [[mtr_extra:resourcepack:faq|よくある質問]] - リソースパックに関する質問
+
+* [[mtr_addon:start|アドオンMOD]] - 追加MTRアドオンMODのインストール方法
+
+
+
+===== マルチ鯖 =====
+
+* [[mtr_letsplay:start|Let's Play Server]] - MTR MOD公式サーバー
+
+===== ウィキへの貢献 =====
+
+私たちは、このMODについて詳しいすべての人に、その知識を共有してもらいたいと思っています！
+
+* [[edit_guideline|編集方針]]を必ずお読みください。
+

@@ -1,0 +1,58 @@
+====== SW Plains Station ======
+
+<WRAP 400px right>
+
+|   @#0591bb:  **SW Plains**   ||
+| @#6B4799: ||
+| @#0FBFE4: ||
+^   **Overview**   ^^
+| **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| ::: | [[mtr_letsplay:Transport for Let’s Play|Transport for Let’s Play]] |
+| **Lines** | [[mtr_letsplay:elizabeth_line|Elizabeth Line]] |
+| ::: | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| **Owners** | [[mtr_community:navi_lx9702|Navi]] |
+| ::: | [[mtr_community:autobusfahrer|Autobusfahrer]] |
+| ::: | [[mtr_community:speedjones1|Speedjones1]] |
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
+| **Platforms** | 4 |
+| **Tracks** | 4 |
+| **Coordinates** | (-3294, 1617) |
+^   **Translations**   ^^
+| **Traditional** | 西南曠野 |
+| **Simplified** | 西南旷野 |
+| **Cantonese Yale** | sāinàahmkwongyéh |
+^   **Colors**   ^^
+| @#FFFFFF:  | White |
+| @#B0E0E6:  | Light Blue |
+| @#FFFF00:  | Yellow |
+^   **Station**   ^^
+| **Type** | Underground |
+| **Floors** | - |
+| **Platform Floors** | 2 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | SWP |
+| **Opened** | 12 August, 2022 |
+| **Electrification** | 750V third rail DC (WR SW Plains Line), 25kV 50Hz overhead lines AC (Elizabeth line) |
+
+| @#6B4799:  **[[mtr_letsplay:elizabeth_line|Elizabeth Line]]** || | @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+| ⇅ | [[mtr_letsplay:iver_station|Iver]] | ::: | ||
+| ⇅ | [[mtr_letsplay:Voesendorf_shopping _city_south_station|Vösendorf Shopping City South]] | ::: | ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ⇅ | [[mtr_letsplay:north_oakwood_station|North Oakwood]] | ::: | ⇅ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] |
+| ◉ | [[mtr_letsplay:sw_plains_station|SW Plains]] | ::: | ◉ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| ⇅ | [[mtr_letsplay:harukachapel_station|Harukachapel]] | ::: | ⇅ | [[mtr_letsplay:birch_hill_station|Birch Hill]] |
+| || ::: | ⇅ | ... |
+| ::: || ::: | ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+
+</WRAP>
+
+**SW Plains Station** (//Chinese: 西南曠野站, station code: SWP, lit: South West Wilderness//) is a station in [[mtr_letsplay:west_lake_area|West Lake Region]], built by [[mtr_community:navi_lx9702|Navi]], [[mtr_community:speedjones1|Speedjones1]] and [[mtr_community:autobusfahrer|Autobusfahrer]] and act as a mid-way stop of [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] and [[mtr_letsplay:elizabeth_line|Elizabeth Line]].
+
+===== History =====
+
+  * **8 August, 2022**: Station starts construction. [[mtr_community:navi_LX9702|Navi]] (Wilds Railway) is responsible for the station.
+  * **12 August, 2022**: Station completed. [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] starts service.
+  * **8 October, 2022**: [[mtr_letsplay:elizabeth_line|Elizabeth Line]] proposal sets this station as a mid-way stop of the line.
+  * **Unknown October, 2022**: [[mtr_letsplay:elizabeth_line|Elizabeth Line]] platforms and ticket hall completed.
+
+===== Layout =====
+TBA

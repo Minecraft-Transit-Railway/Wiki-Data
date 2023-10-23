@@ -1,0 +1,64 @@
+<markdown>
+# NTE: Nemo's Transit Expansion
+
+本模組 NTE（Nemo's Transit Expansion, 藍星社交通擴展）包含一些由 [Zbx1425](https://www.zbx1425.cn) 製作的對 [MTR](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) 模組本體的實驗性擴展功能。作為 MTR 開發貢獻者之一，作者希望對這些新穎的功能作為獨立擴展模組先行發佈、展示與實驗，並將穩定的部分稍後合併入 MTR 本體中。
+
+ 本模組最初在 [Teacon 2022 模組開發茶會](https://www.teacon.cn) 上公開，當時名為蒸汽動力 (MTRSteamLoco)，並榮獲 “癲火之王” 榮譽。
+
+<style>
+/* This element defines the size the iframe will take.
+   In this example we want to have a ratio of 25:14 */
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* The height of the item will now be 56.25% of the width. */
+}
+
+/* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+</style>
+
+<div class="aspect-ratio">
+<iframe src="//player.bilibili.com/player.html?aid=818254400&bvid=BV1kG4y1G7yx&cid=910363279&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+![Feature Grid](https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg)
+
+
+
+## 特性
+
+NTE 目前包含以下功能：
+
+- 立體軌道
+- 新列車：D51 蒸汽機車、北京地鐵 DK3，並帶有應用新技術製作的車輪與乘務員動畫
+- OBJ 模型導入支持，協助資源包作者製作應用更精細的模型
+
+- 可選擇隱藏自己所乘坐的列車，便於拍攝前方展望影片
+
+詳見 [新增特性使用指引](feature) 。(**必讀 !**)
+
+
+
+## 下載
+
+請參見 [下載](download)。
+
+在服務器上使用 NTE 自帶的或以資源包導入的含 OBJ 模型的列車時，其他沒有安裝 NTE 和對應資源包的玩家將不能看到這列車。
+
+
+
+## 資源包作者支持
+
+- OBJ 模型導入支持
+
+  通過新技術，NTE 為在 MTR 中使用 OBJ 格式的模型提供了支持。受益於新制的渲染系統，渲染性能更高，使用面數很高的精細模型時也不會造成很多卡頓。詳見 [OBJ 模型相關適配](objschem) 。
+
+</markdown>

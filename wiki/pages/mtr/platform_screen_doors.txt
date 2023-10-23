@@ -1,0 +1,78 @@
+====== Platform Screen Doors ======
+
+Platform screen doors are three-block high doors that prevent passengers from trespassing onto the railway tracks. They are typically used in underground stations, because [[/automatic_platform_gates|automatic platform gates]] are used instead for above-ground stations.
+
+There are currently two types of platform screen doors in the mod. They are modelled after the urban line and Tuen Ma Line platform screen doors respectively.
+
+The top section (the white part) shows the route information and destinations of approaching [[/trains|trains]] for the platform. It is automatically added when the doors are placed into the world. It has a [[https://minecraft.gamepedia.com/Light|light level]] of 15.
+
+===== Obtaining =====
+
+==== Breaking ====
+
+Platform screen doors require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness|hardness]] of 2.
+
+==== Crafting ====
+
+=== Base Recipe ===
+
+<markdown>
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Platform Screen Doors (Type 1, Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_1.png) |
+
+#### Conversion Recipes (Same Type)
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Platform Screen Doors (Type 1, Door Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_2.png) |
+| Platform Screen Doors (Type 1, Glass Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_1_1.png) |
+| Platform Screen Doors (Type 1, Glass End Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_1_1.png) |
+| Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_2_1.png) |
+| Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_2_1.png) |
+| Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_2_1.png) |
+
+#### Conversion Recipes (Different Type)
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Platform Screen Doors (Type 1, Door Section) | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_3.png) |
+| Platform Screen Doors (Type 1, Glass Section) | Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_1_2.png) |
+| Platform Screen Doors (Type 1, Glass End Section) | Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_1_2.png) |
+| Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_2_2.png) |
+| Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_2_2.png) |
+| Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_2_2.png) |
+</markdown>
+===== Usage =====
+
+There are three different types of platform screen doors.
+
+  * "Door": These will open when a [[/trains|train]] is at the platform, allowing passengers to walk through to board the train. When the doors are closed, passengers are unable to pass.
+  * "Glass": Similar to glass panes, they are transparent and act as a barrier to prevent passengers to walk through. They do not open.
+  * "Glass End": These are very similar to the "glass" type but are used on the ends of the platform.
+
+The different types of platform screen doors can be obtained by cycling through the crafting recipes shown above. As of version 3.0 of the mod, platform screen doors and automatic platform gates can no longer be opened by [[https://minecraft.gamepedia.com/Mechanics/Redstone/Circuit|redstone]]. Only trains stopping at the station can open the doors.
+
+==== Joining Glass Panes ====
+
+When first placed, the "glass" and "glass end" sections of the platform screen doors are only one block wide. If multiple "glass" or "glass end" sections are next to each other, they can be visually joined together to form a larger window. This can be done by right clicking on the "glass" or "glass end" sections with a brush after they have been placed.
+
+Furthermore, the route map of [[/trains|trains]] passing through the station will only show up above the platform screen doors if two or more "glass" sections are joined together.
+
+==== Route Direction Arrows ====
+
+There is an arrow, a circle, and text above the "door" section of the platform screen doors.
+
+The arrow indicates the direction of travel of incoming [[/trains|trains]] and can be reconfigured by right clicking the top section (the white part) above the doors.
+
+The circle consists of the colours of routes that enter the platform. In the centre of the circle, the platform number is shown. The platform number can be changed on [[/dashboards|dashboards]].
+
+Finally, the text lists the destinations of all routes that enter the platform. By default, the first line supports CJK characters and the following lines do not. This can be changed by editing the [[https://minecraft.gamepedia.com/Language|language file]].
+
+==== Standalone Route Map ====
+
+The top part of the platform screen doors can be converted into a standalone block. Simply right click the top part with [[https://minecraft.gamepedia.com/Shears|shears]] and break the glass and door sections below.
+
+==== Locking Platform Screen Doors ====
+
+By right-clicking a "door" section of a platform screen door, that "door" will be marked as locked. Sticker with "not in use" appears, and the locked doors will not open even when a [[/trains|train]] arrives and open the doors.

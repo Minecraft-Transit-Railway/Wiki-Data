@@ -1,0 +1,94 @@
+
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+# 添加自定義資源包
+
+用戶自制的內容通過資源包可以加入進模組中。目前，玩家能添加下列內容：
+
+* 修改原版 [列車](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains)的現有紋理
+* 為[鐵路標識](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign)增加全新的紋理以及文字
+
+強烈推薦閱讀本章之前學習[製作Minecraft資源包](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack)。
+
+# 資源包格式
+
+`mtr_custom_resources.json`是資源包主要被加載的文件。該文件定義了mod要註冊的所有的自定義內容。它必須要放在`mtr`命名空間下;或者說它所在的文件路徑應該是`assets/mtr/mtr_custom_resources.json`。
+
+## 修改原版列車的現有紋理
+修改列車的現有紋理應該在`mtr_custom_resouces.json`裡面添加`custom_trains`這個JSON項目。這個項目下的每一個JSON對象都代表一個新的列車現有紋理的修改，它們應有一個唯一的key和幾個必須有的項目。
+
+| Key | 數據類型 | 描述 | 注意事項 |
+| --- | --- | --- | --- |
+| `name` | 字符串 | 在為線路選擇列車時這個名字會顯示在[儀表板](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards)上 | 必須 |
+| `color` | 字符串 (16進制顏色代碼) | 在為線路選擇列車時這個顏色會顯示在[儀表板](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards)上 | 可選，若未指定則為黑色 |
+| `base_train_type` | 字符串 (列車 ID) | 要更改紋理的原版列車ID | 必須,可在[the trains page](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains)上查看各個列車的ID |
+| `texture_id` | 字符串 (紋理 ID) | 紋理的[命名空間 ID](https://minecraft.fandom.com/wiki/Namespaced_ID)| 必須 |
+
+下面是一個實例。
+
+```
+{
+  "custom_trains": {
+    "my_custom_train（英文半角）": {
+      "name": "My Custom SP1900 Train",
+      "color": "FEC5E5",
+      "base_train_type": "sp1900",
+      "texture_id": "mtr:custom_directory/custom_sp1900.png"
+    }
+  }
+}
+```
+
+## 添加新的鐵路標識以及文字
+
+添加新的 [鐵路標識](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) 紋理或文字,應該在`mtr_custom_resouces.json`裡面添加`custom_signs`這個JSON項目。這個項目下的每一個JSON對象都代表一個新的鐵路標識及其文字，它們應有一個唯一的key和幾個必須有的項目。
+
+| Key | 數據類型 | 描述 | 注意事項 |
+| --- | --- | --- | --- |
+| `texture_id` | 字符串 (紋理 ID) | 紋理文件的[命名空間 ID](https://minecraft.fandom.com/wiki/Namespaced_ID) | 必須 |
+| `flip_texture` | 布爾值 | 若設置為 `true`，紋理將會水平翻轉 | 可選 |
+| `custom_text` | 字符串 | 若設置了自定義文字，文字會在圖片右側顯示; 支持管道符`\|`, 如 `客務中心\|Customer Service Centre` | 可選 |
+| `flip_custom_text` | 布爾值 | 若設置了`custom_text`且`flip_custom_text`為`true`, 文字會在圖片左側顯示 | 可選 |
+| `small` | 布爾值 | 若設置為`true`, 圖像會在渲染時周圍再生成一個邊框 | 可選 |
+| `background_color` | 字符串 (16進制顏色代碼) | 背景顏色 | 可選, 未設置時默認為黑色 |
+
+下面是一個實例。
+
+```
+{
+  "custom_signs": {
+    "my_custom_sign": {
+      "texture_id": "mtr:custom_directory/custom_sign.png",
+      "flip_texture": false,
+      "custom_text": "你好|Hello",
+      "flip_custom_text": false,
+      "small": true,
+      "background_color": "1167B1"
+    }
+  }
+}
+```
+
+## 檢測資源包
+
+使用[JSON校驗器](https://jsonlint.com/)檢查JSON文件中是否有語法錯誤。
+
+zip格式的資源包可以在客戶端安裝，也可用作服務器資源包。若作為服務器資源包，所有啟用了服務器資源包的玩家能看到您新添加的內容。
+
+[下載示例資源包（在Github，可能無法訪問）](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/examples/MTR%20Custom%20Resources.zip?raw=true) 查看完整的示例並測試其功能。
+
+</markdown>
+
+
+

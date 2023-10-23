@@ -1,0 +1,112 @@
+===== Kallos Express======
+
+<WRAP right>
+^  Kallos Express\\ 麗灣特快  ^^
+|  @#01B5CC:  ||
+|  {{213a876c-6993-4f7c-9ccf-412c2f3aee36.png?300}}  ||
+^  **Overview**  ^^
+|**Status** <html>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </html>  |Operational <html>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </html> |
+|**Owner**|[[/Qingli_Railways|Qingli Railways]]|
+|**Locale**|[[/Spawn|Spawn]]\\ [[/Kallos|Kallos]]\\ [[/Jonathan’s_Resort|Jonathan’s Resort]]\\ [[/Tempest|Tempest]]| 
+|**Termini**|[[/yanjiang_minecraft_station|Yanjiang Minecraft]]\\ [[tempest_station|Tempest]]|
+|**Connecting Lines**|@#9E0FE4:<color white>WR Yanyu Line</color>|
+| ::: |@#0CAF35:<color white>Spawn Grand Circular</color>|
+| ::: |@#385E15:<color white>Snowie Line</color>|
+| ::: |@#D3A80A:{{lrtlogo.png?15}}<color white>  Light Rail</color>|
+|:::|@#0075DC:<color white>AT Metro</color>|
+|:::|@#0FE47A:<color white>Aldgate and Resort Line</color>|
+|:::|@#FD7FAE:<color white>Blossom East Line</color>|
+|:::|@#673BB8:<color white>Cyan Twilight Line</color>|
+|:::|@#7191FF:<color white>Sightseeing Express</color>|
+|:::|@#000000:{{hsrlogo.jpeg?15}}<color white>  High Speed Rail</color>|
+|:::|@#F3009E:<color white>Effirt Express</color>|
+|:::|@#7F8ABF:<color white>Llanmara Express</color>|
+|**Stations**|Yanjiang Mineshaft\\ Eden\\ Kallos\\ Jonathan’s Resort\\ Heung Fan Liu\\ Daimon Island\\ Tempest|
+^  Service  ^^
+|**System**|Qingli Railways|
+|**Operator(s)**|Qingli Railways Cooporation Ltd.|
+|**Depot**|Yanjiang Mineshaft West|
+|**Rolling Stock**|[[https://en.m.wikipedia.org/wiki/SP1900_EMU|SP1900 Train]]\\ [[https://en.m.wikipedia.org/wiki/MTR_CRRC_Changchun_EMU|C1141A Train]]\\ [[https://en.m.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)|MLR Train]]|
+^  History  ^^
+|**Opened**|1 August 2022, 1 year ago|
+^  Technical  ^^
+|**Line Length**|23.2km (14.4mi)|
+|**Number of tracks**|Double Track|
+|**Operating Speed**|Average: 99.4km/h (61.8mph)\\ Maximum: 200km/h (124mph)|
+
+
+</WRAP>
+
+The **Kallos Express** (Chinese: 麗灣特快) is one of the five metro lines of the [[/Qingli_Railways|Qingli Railways]] (QLR) system in the [[/:Category:Let's_Play|Let’s Play Server]]. Kallos Express was the only railway line of the [[/New_Harmony_Railways|New Harmony Railways]] before the construction of [[lilac_light_rail|Kallos LRT]] [[mtr_lp:route_801|Route 801]], thus the first transportation route to connect to the [[/Kallos|Kallos]] District. This line runs from Yanjiang Mineshaft in the Spawn area to Tempest in the Northeastern area, passing through the server’s important interchanging stops on the eastern side such as Jonathan’s Resort, and connecting them to the built-up areas in the Northeast.
+
+The line first opened on 1 August 2022. As of 2023 it travels 23.2 kilometres (14.4 mi) in 14 minutes along its route, serving 7 stations. The line is indicated by the colour greenish-blue on the Let’s Play System Map.
+
+==== History ====
+The initial proposal of this line was on the 23rd of June 2022, together when the [[/Kallos|Kallos]] District was proposed. The construction of the line started on the 11th of July 2022, and started service on the 1st of August 2022. 
+
+===Kallos Express Future Development Project===
+As the High Speed Rail(HSR) extended to Kallos District shortly after the completion of the line, the usage of the line immediately decrease due to the relatively lower efficiency compared to HSR. Therefore, Qingli Railways proposed to extend the line to the Northeast, in order to re-increase the usage of the line. After some public consultations, the line is then decided to extend to Tempest, a newly developed town in the Northeast, with cliffy terrain which is no longer suitable to construct a High Speed Stop.
+
+===Improvement of transportation to Jonathan’s Resort===
+The Lilac Light Rail (former Qingli Light Rail or Kallos Light Rail) Route 882 was built to connect Kallos and Jonathan’s Resort. However, the journey takes over 25 minutes between the two places, and it is low in efficiency. The Qingli Railways suggested to let Jonathan’s Resort to be one of the stops in the Kallos Express Future Development project to greatly reduce the time to travel, with construction starting in October 2022, together with the whole extension project.
+
+The Jonathan’s Resort interchange opened on 18 December 2022, and proved to be a much efficient method of travelling, reducing the travel time from Kallos to Jonathan’s Resort from 25 minutes to 2 minutes. The Lilac Light Rail 882 is still kept running to serve places between the two stations.
+
+===Opening of Heung Fan Liu Airport===
+In October 2022, the Let’s Play Aviation Authority (LPAA) announced the construction of Heung Fan Liu Airport, and claimed that either Kallos Express or Wilds Railway Aldgate and Resort Line (ARL) can be the official railway line connecting the airport. However, as ARL only runs with single track with a very low frequency, it is impossible hold the passenger load for that. Therefore, Kallos Express logically became the official line to connect to the airport, and Qingli Railways agreed with this arrangement. Heung Fan Liu station is then included in the Kallos Express Future Development Project. The ARL instead stopped on Misashima in the west of Heung Fan Liu, and the 2 stations are connected by Sei Mei Automatic People Mover with 3 other islands nearby.
+
+In December 2022, as LPAA announced that Heung Fan Liu Airport will be temporarily opened in 31 December 2022 for the new year count down event, Qingli Railways also decided to early the opening of Heung Fan Liu Railway Station on that day. The line continued to serve Heung Fan Liu after the event.
+
+===Effirt Express and Llanmara Express Proposal===
+In January 2023, Qingli Railways released the proposal of another express line, the Effirt Express. That line is planned to go from Epping to Higashi-Yunlong, with Tempest and another station, Daimon Island in the West of Tempest, to be the interchanges with Kallos Express. At the same time, Lilipad Railways also released the proposal of Llanmara Express connecting Llanmara and Daimon Island. As a result, Daimon Island and Tempest are both converted to large cross-platform interchange structures.
+==Extension to Epping==
+As Epping has started to develop but no transportation connecting to this district is ready to open at that time, Kallos Express was constructed to temporarily extend to Epping after 48 hours of the release of the above proposals. The extension opened on 19 January 2023 and is the first operating line to connect the Epping.
+
+===Completion of the Future Development Project===
+On 23 January 2023, the extension of the line to Tempest is completed and opened to public. The northern terminus of the line is then changed from Epping to Tempest, together with Effirt Express Phase 1 running from Daimon Island to Epping. The tracks connecting Heung Fan Liu and Epping is not demolished but renamed to “Epping Station Reserve Track Crossing”.
+
+===Jonathan’s Resort platforms relocation===
+In April 2023, the renovation of Jonathan’s Resort was started and the platforms of Kallos Express platforms were slightly moved to the south. As the new platforms could only serve 4-car trains, the 8-car Kallos Express trains were no longer compatible with the platforms. After some discussions between the constructor of Jonathan’s Resort and Qingli Railways, the line will still remain stopping at this station, but the southern 4 cars of the trains could only stop at the extended part of the platforms, and the extended part of the platforms will only allow alightment of passengers.
+		
+==== Rolling Stock ====	
+The line is currently served by 8-car SP1900, C1141A and MLR trains. The SP1900s and the C1141A trains entered service on the same date when the line started service, and the MLR trains entered service when the line is extended to Tempest. Trains operate with a frequency of about 3 minutes. 
+ 
+Before the introduction of MLR Trains, the Kallos Express is operated by 2 types of commuter trains: 6 sets of SP1900 EMUs and 6 sets of C1141A trains. Both models shared the same exterior colour scheme, door arrangement (five pairs per car, except first class), as well as consisting of 8 carriages per train including a first class section. All of the Kallos Express trains are maintained at Yanjiang Mineshaft Depot.
+
+With the construction of the Future Development Project, a total number of 12 trains is no longer enough for serving the whole line. Qingli Railways decided to implement MLR trains from Effirt Express. Currently, 3 MLR trains are serving the line and the rest of the MLR trains owned by Qingli Railways are running on Effirt Express.
+|  @#01B5CC:**QLR Kallos Express Rolling Stock**  |||||
+^  Model  ^  Time of\\ Manufacturing  ^  Sets  ^  Formation  ^  Notes  ^
+|IKK-train|2022-|6|D-M-P-F-H+M-P-D|Manufactured by Kinki Sharyo|
+|C1141A train|2022-|6|:::|Manufactured by Changchun Railway Vehicles|
+|MLR|2023-|3|:::|Manufactured by Metro-Cammell|
+
+===First Class===
+The Kallos Express is the first railway in Let’s Play to offer first class commuter service. One car of each train is designated as a first class carriage (Northbound Car No.4 and Southbound Car No.5). These compartments have softer and wider seat arrangements; however, standing in the first class car is common during rush hour.
+
+Riding on this carriage costs twice that of a standard-class journey and passengers are required to buy the first class ticket (at the vending machine on Kallos Express stations or ticket counters at the other stations) or revalidate their Octopus cards on the first class reader (located at the station platforms) before entering the first-class car. Ticket Inspectors will perform random checks on train, and failing to produce a valid first class ticket or validated Octopus Card will be liable to a surcharge of $1000.
+
+====Stations====
+This is a list of stations on the Kallos Express
+===List===
+^  Livery  ^  Station Name  ^  Interchanges  ^  Opening  ^  District  ^
+|  @#01B5CC:<color white>**Kallos Express (KXP)**</color>  |||||
+|@#5A5A5A:|岩漿礦坑 Yanjiang Mineshaft|@#9E0FE4:<color white>WR Yanyu Line</color>|June 2022|Spawn|
+|:::|:::|@#0CAF35:<color white>Spawn Grand Circular</color>|:::|:::|
+|:::|:::|@#EB7AE9:<color white>[[wlt_line_1|WLT Line 1]] (proposed)</color>|:::|:::|
+|@#7CB06D:|伊甸 Eden|@#385E15:<color white>Snowie Line</color>|1 August 2022|Kallos|
+|:::|:::|{{lrtlogo.png?17}}  **Eden:**\\ <color /#F08A2D>**<html>&nbsp801&nbsp</html>**</color>|:::|:::|
+|@#EFEEE9:|麗灣 Kallos|@#0075DC:<color white>AT Metro</color>|:::|:::|
+|:::|:::|{{lrtlogo.png?17}}  **Kallos:**\\ <color /#F08A2D>**<html>&nbsp801&nbsp</html>**</color> <color white/#FF0066>**<html>&nbsp802&nbsp</html>**</color>|:::|:::|
+|@#A7F480:|裝奶粉渡假村 Jonathan’s Resort|@#0FE47A:<color white>Aldgate and Resort Line</color>|9 September 2022|Resort|
+|:::|:::|@#FD7FAE:<color white>Blossom East Line</color>|:::|:::|
+|:::|:::|@#673BB8:<color white>Cyan Twilight Line</color>|:::|:::|
+|:::|:::|@#7191FF:<color white>Sightseeing Express</color>|:::|:::|
+|:::|:::|{{lrtlogo.png?17}}  **Jonathan’s Resort:**\\ <color /#0EDD00>**<html>&nbsp482P&nbsp</html>**</color> <color white/#145084>**<html>&nbsp483P&nbsp</html>**</color> <color white/#187137>**<html>&nbsp492&nbsp</html>**</color> <color white/#01A8A6>**<html>&nbsp633&nbsp</html>**</color> <color white/#5000DF>**<html>&nbsp882&nbsp</html>**</color> |:::|:::|
+|:::|:::|{{hsrlogo.jpeg?17}}  **Jonathan’s Resort:**\\ <color white/#C6AA38>**<html>&nbspNortheast Line&nbsp</html>**</color>|:::|:::|
+|@#252391:|香粉寮 Heung Fan Liu|@#CF3C44:<color white>Sei Mei APM</color>|31 December 2022|:::|
+|:::|:::|{{lrtlogo.png?17}}  **Airport North:**\\ <color /#0EDD00>**<html>&nbsp482P&nbsp</html>**</color> <color white/#53B7E8>**<html>&nbsp720&nbsp</html>**</color>\\ {{lrtlogo.png?17}}  **Airport South:**\\ <color /#0EDD00>**<html>&nbsp482P&nbsp</html>**</color> <color white/#5000DF>**<html>&nbsp882&nbsp</html>**</color> |:::|:::|
+|@#7800FF:|大門島 Daimon Island|@#F3009E:<color white>Effirt Express</color>|23 January 2023|Tempest|
+|:::|:::|@#7F8ABF:<color white>Llanmara Express</color>|:::|:::|
+|@#805E36:|坦派斯特 Tempest|@#F3009E:<color white>Effirt Express</color>|:::|:::|
+|:::|:::|@#22A045:<color white>Marble Line (proposed)</color>|:::|:::|
+|:::|:::|{{lrtlogo.png?17}}  **Tempest:**\\ <color white/#2D92D0>**<html>&nbsp717&nbsp</html>**</color> <color white/#99C83A>**<html>&nbsp718&nbsp</html>**</color> <color white/#FE15E5>**<html>&nbsp721&nbsp</html>**</color> <color white/#72B655>**<html>&nbsp722&nbsp</html>**</color> <color /#CBBCF3>**<html>&nbsp736&nbsp</html>**</color> <color white/#A119DD>**<html>&nbsp736P&nbsp</html>**</color> <color white/#019551>**<html>&nbsp761&nbsp</html>**</color>|:::|:::|

@@ -1,0 +1,49 @@
+====== PäRail Class 51 ======
+
+<WRAP 400px right>
+
+^ **PäRail Class 51** ^ ::: ^
+| {{ :playground:image_2023-06-25_133559847.png?250 | 51000 At the Rçéûä Testing Facility}}51000 Undergoing refurbishment testing in 2012 |
+^ MTR Mod Overview and Specifications ^ ::: ^
+| **Manufactured** | 1984-1993 |
+| **Manufacturer** | City of the Dragons Manufacturing (DCCR)  |
+| **Refurbished** | 2009-2015 by KTRC |
+| **Top Speed** | 120 km/h |
+| **Prime Mover** | DCCR PCRV-30FG V16 |
+| **Wheel Arrangement((AAR))** | B-B |
+| **Horsepower** | 4250 |
+| **PNR System Classification** | SU40xx |
+| **Prime Mover** | DCCR PCRV-30FG |
+| **Creator** | [[mtr_community:aecth|Æçħ Ħéáñ]] |
+| **Number Made** | 721 (51001-51722) |
+| **Number Scraped** | 3 (51333, 51554, and 51008) |
+| **Unit Length**  | 17 Meters |
+| **Coupling**  | MSC |
+| **Multiple Unit Working**  | All other PäRail Trains (Except Classes 06 and 348) |
+| **Operators** | Current: |
+| ::: | PäRail (620) |
+| ::: | Séłmăŗa Railways (50) |
+| ::: | Rodani Road (30) |
+| ::: | Ra'av Rail Group (10) |
+| ::: | Kítøñ Transport Agency (9) |
+| ::: | Former: |
+| ::: | Müçhâvian Railways (620) |
+^ L12 Coach Overview and Specifications ^
+| **Length** | 17 Meters |
+| **Platform Hight** | 190 mm |
+| **High Platform Hight and Floor Hight** | 1000 mm |
+| **Seating** | 40 |
+| **Manufactured** | 1999-2003 |
+| **Manufacturer** | HTMC |
+
+</WRAP>
+
+The PäRail class 51 is a fictional Diesel-Electric locomotive manufactured by DCCR in 1985 for the Müçhâvian Railway Company. The real-life train is the [[wp>EMD_SD40-2|Electro-Motive Division (EMD) SD40-2]]
+
+====== History in community ======
+This locomotive was first reveled in the modelling-texturing channel of the MTR Server, with the first version published on Christmas Eve 2022. this version had the freight and passenger versions. In the February 10th Release, there was a broad and narrow gauge variation, those were later removed. The locomotive was later Merged into the PäRail Pack in the beta 2 Release. Including a Headlight and Front Numberplate in Later Versions
+
+====== In-universe information ======
+Built as part of the DCCR Universal Locomotive Series, The units had a PCRV-30FG Diesel-Electric Engine, And later the PCRV-31FG Engine. The units were built in 1985 for the Müçhâvian Railway Company and Later, The PäRail Corporation. 
+
+====== MORE INFOMATION LATER. WORK IN PROGRESS ======

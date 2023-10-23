@@ -1,0 +1,64 @@
+====== Chong Shu Chau Station ======
+
+<WRAP right>
+
+|   @#59d8ce:  **Chong Shu Chau**   ||
+| @#0fbfe4: ||
+^   **Overview**   ^^
+| **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| ::: | [[mtr_letsplay:wr_bus_services|WR Bus Services]] |
+| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Region** | [[mtr_letsplay:jinnapak_region|Jinnapak]] |
+| **Platforms** | 2 |
+| **Tracks** | 2 |
+| **Coordinates** | (-2252, 629) |
+^   **Translations**   ^^
+| **Traditional** | 倉鼠洲 |
+| **Simplified** | 仓鼠洲 |
+| **Cantonese Yale** | chōngsyújāu |
+^   **Colors**   ^^
+| @#ffffff:  | White |
+| @yellow:  | Yellow |
+| @#59d8ce:  | Teal |
+| @orange:  | Orange |
+| @black:  | Black |
+^   **Station**   ^^
+| **Type** | Underground |
+| **Floors** | 2 |
+| **Platform Floors** | 1 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | CSC |
+| **Opened** | Unknown August, 2022 |
+| **Electrification** | 750V third rail DC |
+
+| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+| ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ⇅ | ... |
+| ⇅ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
+| ◉ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+
+</WRAP>
+
+**Chong Shu Chau Station** (//Chinese: 倉鼠洲站, Lit: "Hamster Island"//) is the north terminus of of [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]. the station is connected with the very first bus stop in the server, which is introduced in Jonathan's videos in Let's Play Series S1E8, the most viewed Let's Play video.
+
+The station directly connects the [[mtr_letsplay:wr_jinnapak_depot|WR Jinnapak Depot]].
+
+===== History =====
+
+  * **Unknown August, 2022**: Station opened for [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+  * **Unknown September, 2022**: Bus stop opened for [[mtr_letsplay:shuttle_bus_route_no_1|Shuttle bus Route No. 1]].
+  * **28 November, 2022**: Following the extension of [[mtr_letsplay:shuttle_bus_route_no_1|Shuttle bus Route No. 1]], [[mtr_letsplay:wr_bus_service|WR Bus Service]] serves at this station instead.
+
+===== Layout =====
+
+<WRAP left>
+
+| **C** | **Concourse** | Exit A/B |
+| **P** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: |   Side Platform   ||
+| ::: | Platform **1** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] terminus |
+| ::: | Platform **2** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+| ::: |   Side Platform   ||
+
+</WRAP>

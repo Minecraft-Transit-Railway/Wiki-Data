@@ -1,0 +1,171 @@
+======Shimano MTR======
+<WRAP 400px right>
+
+|  @#EFEEF0:  **Shimano MTR**  ||
+| {{ smtr_logo.png?250 }} ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+| **Established** | 2018 |
+| **Area Served** | (Wide area) |
+| **Transit type** | [[Rapid Transit]]etc. |
+| **Number of lines** | 5 |
+| **Number of stations** | 50(Line Sx only) |
+| **Real-Life Inspiration** | [[wp>Hong Kong MTR|Hong Kong MTR]] |
+| **Colour on map** | Navy blue (#000088) |
+|  @#EFEEF0:  **Service & Operation**  ||
+| **Began passenger operation** | August 2022 |
+| **Operator(s)** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+
+|  @#b0c4de:  **Shimano MTR**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 縞野MTR |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 缟野MTR |
+| [[wp>Japanese_language|Japanese]] | 縞野MTR |
+
+</WRAP>
+Shimano MTR ([[wp>Chinese_language|Chinese]]: 縞野MTR, Common Notation: SMTR) is a wide-area subway centered on the northwest. Since its inception in 2018, it has been characterized by a unique Livery and sign system.
+
+=====Routes=====
+====In operation====
+* (S1)[[Shinx Line]]
+
+* (S2)[[Sprigatito Line]]
+
+* (S3)[[Shimano Line]]
+
+* (S8)[[Zacyan Line]]
+
+* (S10)[[Furret Line]]
+
+* (S11)[[Cinderace Line]]
+
+* (S13)[[Jigglypuff Line]]
+
+====Under Construction & Planning====
+* (S12)[[Decidueye Line]]
+
+====Abolition====
+* (S11T)[[Cinderace Line]]
+
+====Others====
+* [[Cinderace Light Railway]]
+
+* [[Shimano LRT]]
+
+* [[Kamaboko LRT]]
+
+* [[In-Station Transit (SMTR)|In-Station Transit]]
+
+* [[Spring-Autumn Shuttle]]
+
+=====Rolling Stocks=====
+====Current====
+===Shinx Line===
+* [[1000 Series]]
+
+* [[1100 Series]]
+
+* [[1200 Series]]
+
+===Sprigatito Line===
+* [[2000 Series]]
+
+* [[2100 Series]]
+
+===Shimano Line===
+* [[3000 Series]]
+
+* [[3100 Series]]
+
+* [[3200 Series]]
+
+* [[3300 Series]]
+
+* [[3300R Series]]
+
+===Zacian Line===
+* [[8000 Series]]
+
+===Furret Line===
+* [[10-000 Series]]
+
+===Cinderace Line===
+* [[11-000_series|11-000 Series]]
+
+* [[11-000_series#section11100|11-100 Series]]
+
+* [[11-000_series#section11200|11-200 Series]]
+
+* [[11-000_series#section11300|11-300 Series]]
+
+* [[11-000_series#section11500|11-400 Series]]
+
+* [[11-000_series#section11500|11-500 Series]]
+===Jigglypuff Line===
+* [[13-000 Series]]
+
+===Shimano LRT===
+* [[LRV 1928]]
+
+* [[LRV 1975]]
+
+* [[LRV 1980]]
+
+* [[LRV 1980R]]
+
+* [[LRV 1987]]
+
+* [[LRV 1995]]
+
+* [[LRV 2002]]
+
+* [[LRV 2010]]
+
+* [[LRV 2020]]
+
+* [[LRV 2024]]
+
+
+===Kamaboko LRT===
+* [[LRV 1975]]
+
+===CLR===
+* [[CLR B90]]
+
+===in-Station Transit===
+* [[LRV 2002]]
+
+* [[Yutong U12]](Bus)
+
+* [[CLR B90]]
+
+====Former====
+===Shinx Line===
+* [[8000 Series]](Trial operation)
+
+===Kamaboko LRT===
+* [[1992 Stock]]
+
+* [[1995 Stock]]
+
+* [[1996 Stock]]
+
+* [[BVG Crass H]](Trial operation)
+
+===in-Station Transit===
+* [[Lightrail Phase 3]]
+
+====Feature====
+===Sprigatito Line===
+* [[2300 Series]]
+
+===Cinderace Line===
+* [[11-000_series#section11600700800|11-600 Series]]
+
+===Decidueye Line===
+* [[12-000 Series]]
+
+===Shimano LRT===
+* [[LRV 1943]]
+
+=====Related page=====
+* [[Terralith Rapid Transit]](TRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.

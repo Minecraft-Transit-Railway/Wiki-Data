@@ -1,0 +1,124 @@
+====== Getting Started ======
+
+The 3.0 release of //Minecraft Transit Railway// has reimagined the concept of Minecraft train systems. Rather than using the traditional [[https://minecraft.gamepedia.com/Minecart|minecart]], a central dashboard system controls where trains are at all times. Lagging entities, inactive trains inside unloaded chunks, and overloaded servers are now problems of the past.
+
+The [[/dashboards|dashboard]] items are the central parts of the mod. Stations, routes, and depots can be added, moved, and deleted.
+
+Trains are no longer entities or "retextured minecarts". Instead, they are part of the world data, with each train's position simulated on every server tick. This avoids a lot of unnecessary entity position, velocity, and collision calculations, and can move trains even outside of currently loaded chunks. This also means that train-spawning items no longer exist, as trains now run according to user-created schedules. As of version 3.0.0-beta-5 of the mod, trains no longer use vanilla Minecraft rails.
+
+===== Video Tutorials =====
+
+Please see [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|this playlist for video tutorials]].
+
+===== Creating a Rail =====
+
+These are the basic steps for creating rails. See the [[/rails|Rails]] page for more information.
+  - Place down a rail node on the ground.
+  - Walk forward at least a few blocks and put down another rail node.
+  - Obtain any rail connector item. Right click one of the rail nodes while holding the item. The rail connector should start flashing in the inventory.
+  - Right click the other rail node while still holding the rail connector item. Railway tracks should appear between the two rail nodes.
+
+===== Building Your First Railway =====
+
+==== Platforms ====
+
+A platform is a section of track where trains can stop to pick up passengers.
+
+  - Create a platform rail by following the steps above (outlined in the [[/getting_started#creating_a_rail|Creating a Rail]] while using the platform rail connector item. This will be the first train platform.
+  - Go somewhere else and create another platform rail, not connected to the first one. Try to keep it about the same length as before. This will be the second train platform.
+  - Connect the two train platforms together using any of the other rail connector items (not the platform or siding rail connector items). Use more rail nodes if necessary.
+<markdown>
+> <img alt="Building the Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/build-platform.png" width=512/><br>An example of two platform rails connected by another rail
+</markdown>
+==== Stations ====
+
+A station is a rectangular area marked in the world. Each station should completely cover one or more platforms.
+
+  - Obtain the [[/dashboard|railway dashboard]] item and right click to open it.
+  - The menu on the left has three tabs: ''Stations'', ''Routes'', and ''Depots''.
+    * The ''Stations'' tab is selected by default.
+    * The map on the right shows the current world.
+    * The blue dot with a white outline marks the current player location.
+    * Platforms are bright white on the map.
+    * Click and drag on the map to move it.
+    * Use the mouse scroll wheel or the ''+'' or ''-'' buttons on the bottom right to zoom.
+  - Zoom and move around the map to find the first platform that was built.
+  - On the ''Stations'' tab, click on the button at the bottom called ''Add Station''.
+  - The map is now in edit mode. Left click and drag to draw a rectangular station area over the first platform.
+    * If a mistake was made, just click and drag again. The previously defined station area will disappear.
+  - At the text box on the bottom left, type in a name for the new station. Use the ''|'' character to separate different languages, for example ''第一城|City One''.
+  - Click ''Done'' when finished.
+  - Move around the map to find the second platform that was built.
+  - Click on the ''Add Station'' button again. Draw another rectangular station area, covering the second platform. Type in a name for the second station.
+  - Click ''Done'' when finished.
+<markdown>
+> <img alt="Create Station" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/create-station.png" width=512/><br>Two example stations, Northgate and East Green Lake, have been created in the railway dashboard.
+
+The two stations should now be visible on the map.
+
+## Routes
+
+A route is simply a list of platforms (not stations). Trains assigned to a route will attempt to find a path to visit all the platforms. At the end of the route, the trains will be removed.
+
+1. Inside the railway dashboard, click on the `Routes` tab.
+1. Click on the button at the bottom called `Add Route`.
+1. The map is now in edit mode. Click on the first platform (in white) on the map. It should show up under the `Routes` tab on the left.
+1. Click on the second platform on the map. There should now be two entries under the `Routes` tab on the left.
+1. Type in a name for the new route. Use the `|` character to separate different languages, for example `馬鞍山綫|Ma On Shan Line`.
+1. Click `Done` when finished.
+
+> <img alt="Create Route" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/create-route.png" width=512/><br>A route serving the two platforms has been created.
+
+The route is now complete! Hit `Esc` on the keyboard to exit out of the railway dashboard.
+
+## Depots and Sidings
+
+A siding is a section of track where trains can spawn from, and a depot provides instructions for where trains should go.
+
+1. Create a siding rail by following the steps above (outlined in the [Creating a Rail](#creating-a-rail) section) while using the siding rail connector item.
+1. Using any of the other rail connector items (not the platform or siding rail connector items), connect the siding to the first platform of the route.
+1. Connect the siding again to the last platform of the route.
+1. Obtain the [railway dashboard](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards) item and right click to open it.
+1. On the `Depots` tab, click on the button at the bottom called `Add Depot`.
+1. Draw a depot area over the siding and type a name into the text box. This process will be very similar to how the stations were created.
+
+## Schedules
+
+The depot must be given a schedule and instructions in order for [trains](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) to move along the predefined route. Hours listed on the schedule are based on the [game time](https://minecraft.gamepedia.com/Daylight_cycle), not real life time.
+
+1. Inside the railway dashboard, make sure the `Depots` tab is selected.
+1. Click on the siding (in white) on the map.
+1. Click on the `SP 1900` button. This will change the train type that will spawn.
+1. Select `Minecart` and click on the `+` button.
+1. Hit `Esc` on the keyboard to return to the main dashboard screen.
+1. Hover over the newly created depot and click on the pencil icon. The schedule configuration screen should appear.
+1. Drag all the sliders to the very right. This means that trains will spawn every twenty seconds in real life.
+1. Click on `Edit Train Instructions` and hover over the route that was just created. Click on the `+` button to add it to the train instructions.
+1. Click on `Refresh Path`. This button must be clicked every time the train instructions or rails have been modified.
+1. Hit `Esc` on the keyboard to exit out of the menu, and again to exit out of the dashboard.
+
+A train made up of minecarts should start spawning every twenty (real life) seconds.
+
+## Platform Blocks
+
+[Platform blocks](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block) are required to pick up passengers. Place down a row of platform blocks by each platform rail.
+
+> <img alt="Platform Blocks" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Platform blocks should be placed by the platform rail.
+
+Walk onto any of the minecarts to hop in. Enjoy the ride; your first railway is complete!
+
+> <img alt="Enjoy Ride" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/enjoy-ride.png" width=512/><br>A player is enjoying the train ride.
+
+## Notes
+
+* Each route must have at least two platforms, or else no trains will spawn.
+* More than one route may be added to the train instructions.
+   * The siding must be connected (with rails) to the _first_ platform of the _first_ route and the _last_ platform of the _last_ route.
+   * The `Refresh Path` button must be clicked every time the train instructions or rails have been modified.
+* [Trains](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) will momentarily stop at each platform. This is normal.
+* The train with minecarts is not actually made up of real minecarts from the vanilla Minecraft game. In fact, placing in a vanilla minecart manually on the rails won't interact with the routes or schedules at all.
+* The length of the train that will spawn is limited by the length of the siding.
+   * If the platform is too short to spawn even one carriage, no trains will appear!
+   * See the [Trains](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) page for the length of each train.
+
+</markdown>

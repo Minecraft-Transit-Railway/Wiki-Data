@@ -1,0 +1,8 @@
+====== Elirail – THIS PAGE NEEDS TO BE CONVERTED FROM MEDIAWIKI TO DOKUWIKI FORMAT.======
+
+
+The '''EliRail Lines''' (German: '''EliRail Linien'''; short: '''EliRail''' or '''ER''') is a transport authority, founded at Jan 28th, 2023.
+
+= Currently served lines: =
+
+* [[/EliRail_Commuter_Line_1|ER Commuter Line 1 (Phase 1; in test service)]]

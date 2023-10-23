@@ -1,0 +1,115 @@
+====== WLT Line 1 Phase 1 ======
+
+<WRAP right>
+
+^  WLT Line 1 Phase 1\\ 西湖交通一號綫一期  |^
+|  @#EB7AE9:  ||
+|  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
+^  **Overview**  |^
+| **Status** | Operational\\ //(Northern Snow Village - Providence)//\\ Under renovation\\  //(Providence - Kwong Chow)// |
+| **Owner** | [[/west_lake_transport_authority|WLT]] |
+| **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
+| **Termini** | [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
+| **Connecting**\\ **Lines** | @#B0D0FF:<color black>Shinx Line</color> |
+| ::: | @#805000:<color white>Furret Line</color> |
+| ::: | @#22FFFF:<color black>Azalea Cyan Line</color> |
+| ::: | @#B0D0FF:<color black>Sightseeing Local Line</color> |
+| ::: | @#B0D0FF:<color black>Sightseeing Express</color> |
+| ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
+| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2]]\\ [[/wlt_line_2|(Kwong Chow - North Coast Line)]]</color> |
+| **Stations** | 7 //(1 work in progress)// |
+^  Service  |^
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Service Hours** | 24/7 |
+| **Frequency** | Every 5m15s |
+| **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
+| **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]] (small variant)\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
+^  History  |^
+| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ After renovation:\\ TBA |
+^  Technical  |^
+| **Line Length** | 5.8 km |
+| **Number of**\\ **Tracks** | Double Track |
+| **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+^  Route Map  |^
+|  //(insert route map here)//  ||
+
+</WRAP>
+
+**WLT Line 1 Phase 1** (Chinese: //西湖交通一號綫一期//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale.
+
+The line is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
+
+Now sections from south Sakura Stream Area [[/providence_station|Providence]] station to West Lake Area Kwong Chow station are under renovation. Trains only run from Northern Snow Village station to Providence station. 
+
+The line colour is <color #FFFFFF/#EB7AE9>magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in magenta)).
+
+===== History =====
+
+The line is first proposed as a light rail service in the West Lake Area serving [[/chung_kwo_kok_station|Chung Kwo Kok]], Kwong Chow, [[/tai_po_station|Tai Po]], [[/chik_shek_wan_station|Chik Shek Wan]] and nearby rapid transit station Providence and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]]. It will branch off at Kwong Chow to serve the area at the east of West Lake, connect [[/red_leaves_station|Red Leaves]] as well.
+
+Later, the branch is separated as another rapid transit line connecting [[/Spawn|Spawn]] area with Kwong Chow, via the east of West Lake, which is known as [[/wlt_line_2|WLT Line 2]].
+
+The original light rail shuttle is also upgraded to a rapid transit line for future expansions. Sections between Chung Kwo Kok to [[/suet_yuen_station|Suet Yuen]] has also moved from surface or elevated to underground due to the deep underground level((Y = -44)) of platforms in Yanjiang Mineshaft.
+
+Coincidentally, [[/shimanomtr|Shimano MTR]] starts it's operations and develops westward from Northern Snowland. The first line [[/shinx_line|Shinx Line]] starts service from 22 August, 2022 without any line connecting to other network. An extension from Providence to Northern Snow Village is filed and combined to the construction plan. Due to a more urgent need to make connections in the north, the construction of north extension part is built in advance of the south part.
+
+After the north part connection is done, the main part starts construction. Along with the [[/kwong_chow_grand_canal_and_heritage|property development at Kwong Chow]], sections from Birch Hill to Kwong Chow is open on 22 December, 2022. The original **WLT Line 1** is also rebranded to **WLT Line 1 Phase 1** as the final termini and route of the line is confirmed and construction has begun.
+
+Hung Ngai Tung station is done after 3 months and starts serving passengers. Meanwhile, the only service between [[/denthrope|Denthrope]] and Spawn Kowloon Commuter (now [[/hillside_line|Hillside Line]]) has been shut down by the operator [[/ERInc|ERInc]] for a while. Some R2C players complain they have to make a detour via [[/Llanmara|Llanmara]], and because of a lack of fast and direct service between Denthrope and Llanmara, they are disadvantageous comparing to other directions in similar radius. WLT offers to help by operating a special service southbound from Mesa station, close to Denthrope area, still WIP but able to open for events((Most electrical applainces except automatic platform gates and ticket barriers are not installed)). Although, when realized they are losing passengers, ERInc quickly resumes the service of Kowloon Commuter several hours later. Yet the travelling time on the temporary R2C service from Mesa station to Spawn station only takes 2 stops, 1 interchange and around 6-10 mins((Changing to [[/furret_line|Furret Line]] at Northern Snow Village station)), is still faster than Kowloon Commuter, given the starting point is not right at [[/denthrope_hauptbahnhof|Denthrope Hauptbahnhof]]. 
+
+In 2023 July, the new update and server installation of NTE brings in changeable vertical radius and constant inclination which is important to WLT creating smoother train rides, changing speed on slopes and tweaking rail alignments. Since [[/line_2_kwong_chow_-_north_coast_line|WLT Line 2]] has already operated a special shuttle service between Kwong Chow and Sai Mo Island before, along with the new bus route 4S connecting Sai Mo Island to [[/spawn_-_cyan_heights_metropolis|Spawn-Cyan Height Metropolis]]((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)), WLT Line 1 Phase 1 brings in the first service reduction after confirming alternatives are available. Mesa station and the sections until Northern Snow Village are closed for further construction, and the sections between Providence and Kwong Chow are also closed for renovation. Trains cross over to upbound track, and turn back to Northern Snow Village after departing from Sakura Stream Junction and arriving at Providence. 
+
+==== Timeline ====
+  * 26 July, 2022: First proposal of a light rail shuttle service.
+  * 7 August, 2022: Revised proposal published.
+  * 8 August, 2022: Construction begins at Birch Hill Station.
+  * 18 September, 2022: Preliminary construction complete; train testings start on the route between Northern Snow Village and Birch Hill.
+  * 25 September, 2022: Sections between Northern Snow Village - Birch Hill is open, while Hung Ngai Tung Station is not yet in use.
+  * 22 December, 2022: Sections between Birch Hill - Kwong Chow is open, while Chung Kwo Kok Station is not yet in use. Line renames from **WLT Line 1** to **WLT Line 1 Phase 1**.
+  * 11 February, 2023: [[/hung_ngai_tung_station|Hung Ngai Tung]] station is open.
+  * 24 April, 2023: [[/mesa_station|Mesa]] station, which would be the future northern terminus, is temporarily open for R2C purpose.
+  * 10 July, 2023: Mesa station is closed for remaining construction works. Sections from Providence station to Kwong Chow station are also closed for renovation.
+
+===== Rolling Stocks =====
+
+Because of the small turn radius((A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station)) in some sections in West Lake Area, WLT Line 1 are never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections. 
+
+Currently 15 sets of SP1900 Trains and 2 sets of MLR Trains are available for use and park in [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]. Since the expected usage of fleet will be keeping low at around 50%, a plan to install on-train passengers information system is announced. It is first decided to get reference from the MTR dynamic route map or Shenzhen Metro passenger information system above each door, but switched to utilize the TV as it allows larger font size, more information and tidier layouts. 
+
+It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trains will arrive before Phase 2 opens. Finally, there will be 10 more sets of SP1900 Trains as the last batch, making up a fleet of 38 sets of SP1900 Trains and 3 sets of MLR Trains, for more frequent trains on the fully done WLT Line 1. 
+
+
+^  Car Formation of SP1900 Trains  |||||^
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph  ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
+|  **D1xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
+|  **M1xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+
+===== Operations =====
+
+Trains are all serving from Northern Snow Village to Providence. Services from Providence to Kwong Chow are suspended until renovation works are done.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#EB7AE9:  ||
+|  **Time Session**  \\  (in UTC)  |  **WLT Line 1 Phase 1**  |
+|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 5.25  |
+|<html>&nbsp</html>\\ Off Peak\\ <html>&nbsp</html>|:::|
+
+</WRAP>
+
+===== Future Plans =====
+
+The first batch of renovation from Providence to Kwong Chow is expected to complete at 2023 Q4. [[/chung_kwo_kok_station|Chung Kwo Kok]] station will open along with the renovated sections. 
+
+Sections from Kwong Chow to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //2000 years later//. However, some information <del>from the rubbish bin of WLT temporary office at Spawn Tower 18/F</del> points out the section will open early depending on the progress.
+
+In the meantime, the far north extension to Mesa is also WIP and is likely to open together with the forementioned section. 
+
+Originally, there will be a rename once the line extends to Yanjiang Mineshaft. However, since WLT has opened up Mesa station a while for R2C special service, a possibility of early rename is discussed as to couple up the naming logic of three rapid transit lines together.
+
+The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope region. 
+
+===== Stations =====

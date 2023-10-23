@@ -1,0 +1,22 @@
+====== Auckland Transport (Let's Play) ======
+
+Auckland Transport is a transport system on the Let's Play server based off of [[wp>AT Metro]], the transport system in Auckland, New Zealand. Confusingly the name AT Metro on the Let's Play server refers to specifically suburban railway services operated by Auckland Transport, and there are also separate AT Regional and Bateau à Grande Vitesse brandings for regional railways and boats, when in Auckland the name encompasses all of the public transport services that Auckland Transport operates.
+
+===== Services =====
+
+The Let's Play Auckland Transport network is designed to be confusing, and is made of three main parts: AT Metro, the suburban railway services operating around Waitematā, AT Regional, the regional rail network heading to the east, and the Bateau à Grande Vitesse, a high speed flying boat network based out of Cyan Heights.
+
+==== AT Metro ====
+
+{{http://platypuss.ddns.net/kettle_is_thinking.png|hi i'm an image}}
+
+AT Metro operates in three main service patterns: Kowloon ♢ Āoraki, Circle (starting and finishing at Waitematā) and Waitematā ♢ Pittsford. Until recently there was also a route from Spawn to Toitoi but this is no longer in service because the Spawn and Coast corridor was getting congested and interfering with North Coast Line services.
+
+==== AT Regional ====
+
+Currently there's only one AT Regional service running between New Buckingham and Pittsford, with 8-carriage [[mtr_extra:british_rail_class_508]]s.
+
+==== BGV / BVM ====
+
+The Bateau à Grande Vitesse network has three high-speed flying boat lines, of which two are express and one is a local service. One of the local services goes from Cyan Heights to Green then Kettle Hole and the other local, as well as the express, goes to Waitematā.
+

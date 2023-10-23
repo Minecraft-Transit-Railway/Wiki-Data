@@ -1,0 +1,16 @@
+FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
+
+===== MSD (aka: Station Decoration Addon) =====
+
+Das Bahnhofsdekorations-Addon ist ein dekorativer Mod, der neue Schilder, PIDS und Oberleitungen hinzufügt.
+
+Gallerie: {{ :mtr_addon:screenshot_2023-05-18_115315.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115049.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115222.png?400&nolink }}
+
+<WRAP center round download 90%>
+
+Downloads:
+
+[[https://modrinth.com/mod/station-decoration]]
+
+</WRAP>
+

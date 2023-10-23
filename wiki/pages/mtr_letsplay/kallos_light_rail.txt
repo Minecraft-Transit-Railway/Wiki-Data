@@ -1,0 +1,3 @@
+=====Kallos Light Rail=====
+Kallos Light Rail/Kallos LRT has been renamed to [[lilac_light_rail|Lilac Light Rail]], please visit the [[lilac_light_rail|Lilac Light Rail]] page instead.
+~~REDIRECT>mtr_letsplay:lilac_light_rail~~

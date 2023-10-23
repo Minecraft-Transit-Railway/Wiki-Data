@@ -1,0 +1,14 @@
+====== Let's Play Server ======
+
+The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.19.2 Minecraft server owned and self-hosted by [[/Minecraft_Transit_Railway|Minecraft Transit Railway]] mod creator [[/User:Jonafanho|Jonathan]], established in  June 2022.
+
+It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to extend the world-building height limit<sup>[dubious]</sup> and add more biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swaths of visitors.
+
+Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[Spawn|Spawn]], [[Greater Llanmara|Llanmara]], [[Kallos|Kallos]], [[Yankton|Yankton]], and the southeast through [[Danielson Memorial|Danielson Memorial]]. The longest journey between every two stations is less than 50 minutes<sup>[citation needed]</sup>.
+
+
+===== Let's Play Pages =====
+
+ <nspages -textPages="" -title -exclude>
+
+~~NOCACHE~~

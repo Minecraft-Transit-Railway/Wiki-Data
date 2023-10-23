@@ -1,0 +1,51 @@
+====== MTR Addons ======
+MTR Addons are additional mods that add new functionality (such as blocks or features) on top of MTR. They are installed like other mods in the same way as MTR mod.
+
+===== How do i install additional addons for the MTR mod? =====
+Here are some of the addons for MTR:
+
+==== MSD (aka: Station Decoration Addon) ====
+[[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that adds new Signs, PIDS  and Catenary.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/station-decoration
+</WRAP>
+
+==== NTE (aka: Nemo´s Transit Expansion) ====
+[[mtr_addon:nte:start|Nemo's Transit Expansion]] is an addon that adds experimental features to the MTR mod, such as support of .obj-models and train scripting using JS.
+
+{{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/mtr-nte
+</WRAP>
+
+==== Joban (aka: Joban Client Mod) ====
+[[mtr_addon:jcm:start|Joban Client Mod]] is an addon based on Minecraft Transit Railway Mod, adding various blocks from the Hong Kong MTR and utility blocks that will greatly improve your world. Some of the blocks this mod adds including Static Signal Light, Fare Saver machine, Railway Vision PIDS and other decoration blocks to help you build your very own railway system!
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/jcm
+</WRAP>
+
+==== Reality City Construction ====
+[[mtr_addon:rcc:start|Reality City Construction]] is a module created by Yaoxiansen and MSnj, named after Yaoxiansen. After a year of production, the module has been basically improved.
+
+The module adds blocks for lines and urban construction, tactile paving, platform blocks, etc. In the future, domestic subway facilities such as gates and security checkpoints will also be added.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/reality-c-c
+</WRAP>
+
+==== The Tube (aka: London Underground) ====
+[[mtr_addon:lu:start|The Tube addon]] provides blocks to create Tunnels and Stations and station signage. Other great additions include a London Underground themed Platform Information Display and a red/green tunnel signal! There are also some great ambient sound effects to bring your tube stations to life! 
+
+<WRAP center round download 90%>
+https://www.curseforge.com/minecraft/mc-mods/the-tube
+</WRAP>
+
+==== Russian Metro Addon ====
+[[mtr_addon:rma:start|Russian Metro Addon]] is an addon that adds features from Russian Metros.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/russian-metro-addon
+</WRAP>

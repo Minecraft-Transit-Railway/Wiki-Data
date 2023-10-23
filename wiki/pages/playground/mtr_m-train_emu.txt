@@ -1,0 +1,92 @@
+====== MTR M-Train EMU ======
+
+<WRAP 400px right>
+
+|  @#999999:  **MTR M-Train EMU**  ||
+|  {{ :playground:2023-10-20_00.04.07.png?380 |Standard size of urban and Disney Line M-trains in a Superflat World}}Standard size of urban and Disney Line M-trains in a Superflat World  ||
+|  @#999999:  **Real-live Overview**  ||
+| **In service** | 1st October, 1979 - Present |
+| **Manufacturer** | [[wp>Metro_Cammell|Metro Cammell]] |
+| **Built at** | Washwood Heath, Birmingham |
+| ::: | Kowloon Bay, Hong Kong |
+| **%%Constructed%%** | 1977-1994 |
+| **Refurbished** | United Goninan from 1998 to 2001 |
+| **Number Built** | 768 cars (95 sets + 6 surplus + 3 DRL sets) |
+| **Number in service** | 81 sets (including the 3 DRL Sets) |
+| **Number scrapped** | 12 sets |
+| **Formation** | A-C-D-B-C-D-C-A |
+| ::: | P-Q-Q-P |
+| **Fleet numbers** | A101-291 |
+| ::: | B401-496 |
+| ::: | C101-291, 401-496 |
+| ::: | D601-788 |
+| ::: | P501-506 |
+| ::: | Q501-506 |
+| **Capacity** | 2504 |
+| **Operator(s)** | Current: |
+| ::: | [[wp>MTR]] |
+| **Line(s) served** | [[wp>Tsuen_Wan_Line|Tsuen Wan Line]] |
+| ::: | [[wp>Kwun_Tong_Line|Kwun Tong Line]] |
+| ::: | [[wp>Island_line_(MTR)|Island Line]] |
+| ::: | [[wp>Tseung_Kwan_O_line|Tseung Kwan O line]]  |
+| ::: | [[wp>Disney_Resort_Line|Disney Resort Line]]  |
+|  @#999999:**  Real-live %%Specifications%%**  ||
+| **%%Car body construction%%** | Aluminium |
+| **Car Length** | A cars: 22850mm |
+| ::: | B, C cars: 22000mm |
+| ::: | D cars: 23000mm |
+| **%%Width%%** | 3200mm |
+| **%%Height%%** | 3910mm |
+| **Floor Height** | 1100mm |
+| **Doors** | 5 sets Double-leaf per side, hanging doors |
+| ::: | 3 sets Double-leaf per side, hanging doors (DRL unis only) |
+| **Maximum Speed** | Designed: 90km/h |
+| ::: | Service: 80km/h |
+| **Traction system** | DRL units: GEC G313BZ |
+| ::: | Phase 2B / "I-stock": Mitsubishi RCT Chopper |
+| ::: | Others: GEC G313AZ |
+| **Traction motors** | %%85 kW (114 hp) DC series-wound motors%% |
+| **Electric system(s)** | 1500V DC Catenary |
+| **Current collector(s)** | Pantograph |
+| **Bogies** | Duewag%% %%SF2100 |
+| **Braking system(s)** | Regenerative and air brake |
+| **Safety System(s)** | SACEM |
+|   | SelTrac (DRL Sets only) |
+| **Coupling system** | BSI |
+| **Track gauge** | 1432mm (and 1435mm) |
+|  **Information above are from Wikipedia and ERTHK with addition of the editor's understanding.**  ||
+|  @#999999:  **MTR mod Overview**  ||
+| **Available from** | Unknown |
+| ::: | %%Beta-9-unofficial-2 %%(DRL M-train only) |
+| **Creator** | Jonathan |
+| ::: | Eric (DRL M-train only) |
+| **Colour Code** | @#999999: #999999  |
+| ::: | @#F287B7: #F287B7 (DRL M-train only) |
+| **Identifiers** | **''%%m_train%%''** |
+| ::: | **''%%m_train_small%%''** |
+| ::: | **''%%m_train_mini%%''** |
+| ::: | **''%%drl%%''** |
+|  @#999999:**  MTR (and [[mtr_letsplay:start]]) %%Specifications%%**  ||
+| **%%Car body construction%%** | Aluminium |
+| **Car Length** | 24m (Standard) |
+| ::: | 19m (Small) |
+| ::: | 9m (Mini) |
+| **%%Width%%** | 3m |
+| **%%Height%%** | ~3.6m |
+| **Floor Height** | 1m |
+| **Doors** | 5 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Standard M-train only) |
+| ::: | 4 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Small M-train only) |
+| ::: | 3 sets Double-leaf per side, hanging doors, SLOW doors (DRL M-train only) |
+| ::: | 2 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Mini M-train only) |
+| **Maximum Speed** | 300km/h (%%186.41%%mph) |
+| **%%Weight%%** | N/A |
+| **Traction motors** | Jon's motor sound system - M-train |
+| **Bogies** | MTR Standard |
+| **Braking system(s)** | ? |
+| **Safety System(s)** | Jon's Signalling |
+| **Coupling system** | Unknown |
+| **Multiple working** | Any trains (from 4.0.0 |
+| **Track gauge** | MTR Standard |
+
+</WRAP>
+

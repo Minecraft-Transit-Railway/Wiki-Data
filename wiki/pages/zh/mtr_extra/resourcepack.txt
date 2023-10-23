@@ -1,0 +1,15 @@
+====== 使用资源包 ======
+
+===== 什么是资源包？ =====
+大体上，资源包是一个zip格式的压缩文件，若启用了更改或添加新的材质，模型，音乐，音效，语言文件，文字，则无需修改Minecraft或mod本体。
+关于资源包的更多信息可查阅[[https://minecraft.fandom.com/wiki/Resource_pack|Minecraft Wiki - Resource Pack]]。
+
+在这个模组中，资源包能够提供自定义的标志材质，原版列车材质，新的模型以及音效。
+===== 我在哪里可以获得它们？ =====
+模组的Discord社区有专门的频道： [[https://discord.com/channels/763273460465270816/953329579567767572|频道链接]] [[https://discord.gg/PVZ2nfUaTW|点击加入MTR模组官方Discord社区]]
+
+国内用户可以在[[https://www.mtrbbs.top|MTRBBS]]的资源包分享板块或其他社区找到国内创作者们创作的资源包。
+ ===== 我怎么把它们加进游戏里？? =====
+Minecraft Wiki上对此有非常好的解释 : [[https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack|Minecraft Wiki - Loading a Resource Pack]]
+
+

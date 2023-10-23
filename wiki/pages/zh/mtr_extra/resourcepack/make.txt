@@ -1,0 +1,176 @@
+====== 制作一个自定义列车资源包 ======
+
+这个页面会教你如何去创建一个自定义的列车资源包。
+
+资源包制作建议使用Windows 10 21H1及以上，以下版本建议使用第三方软件打包zip。
+
+<WRAP center round important 90%>
+
+**您可以观看视频来制作资源包（需要科学上网）: [[https://www.youtube.com/watch?v=QH1O-y6kPSk]]**
+
+</WRAP>
+
+===== 教程 =====
+（PS：本教程分为两种方法）
+==== 1、在内置列车的基础上进行修改 ====
+
+  - 进入你的".minecraft"文件夹 {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}} 
+  - 找到"resourcepacks"文件夹并进入 {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
+  - 新建一个文件夹，文件夹名称取决于你要给资源包取什么名 {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+  - 进入文件夹后，再新建一个文件夹，名称为 ''assets''. 
+  - 粘贴或新建制作一个名叫"pack.png"的图片文件，这是可选的，目的是为资源包制作图标。图片分辨率必须小于128x128。
+  - 下载一个示范"pack.mcmeta"，这个文件是必需的，否则Minecraft无法读取。你也可以新建一个文本文档取名为"pack.mcmeta"，输入以下代码:
+
+<code json pack.mcmeta>
+{
+    "pack": {
+        "description": "资源包的介绍",
+        "pack_format": 9,
+    }
+}
+</code>
+
+<WRAP center round info 60%>
+
+"pack_format"表示资源包支持的minecraft版本，一般可以向上支持，但不能向下支持。
+
+版本列表：
+
+6: 1.16.5以上版本
+
+7: 1.17.1及以上版本
+
+8: 1.18及以上版本
+
+9: 1.19及以上版本
+
+10: 22w42a及以上版本
+
+11: 1.19.3及以上版本
+
+12: 1.20及以上版本
+
+</WRAP>
+
+如果要添加一个自定义列车请在"assets/文件夹"中添加 ''mtr_custom_resources.json''
+
+复制粘贴并修改下面代码里的配置，即可添加列车。
+
+添加单个列车：
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{列车id（必须为英文）}": {
+			"name": "我的自定义列车名称",
+			"color": "#66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+添加多个列车 (示例为2个列车)
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{列车id（必须为英文）}": {
+			"name": "自定义列车名称",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		},
+		
+		"{列车id（必须为英文）}": {
+			"name": "自定义列车名称",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+<WRAP center round tip 100%>
+
+Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
+
+</WRAP>
+
+<WRAP center round box 60%>
+
+**Json 配置:**
+
+  *  ** "name":**    列车名称，必需，会显示在铁路仪表板的列车列表里。*
+  *  **"color":**    列车列表中你的列车名称前面的颜色块（16进制颜色）*
+  *  **"base_train_type":**    如果只换列车的贴图，使用这个配置，会使用原版列车的模型。如果使用自定义模型，请输入"r_train"*
+  *  **"texture_id":**    列车模型的贴图.*
+
+***必需**
+
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?200&nolink }}
+
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?200&nolink }}
+
+</WRAP>
+
+**怎么修改原版列车贴图？ **
+
+  - 安装 画图3D（需要Windows 10 21H1及以上版本）
+  - 进入 [[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/master/resources/common/normal/assets/mtr/textures/entity]] 下载原版列车贴图
+  - 启动 画图3D
+  - 找到你想要修改的贴图，选择并打开。
+  - 开始编辑！
+  - 编辑后将贴图保存在资源包上文的文件夹中
+  - 贴图制作完成，开始使用资源包吧！
+
+<WRAP center round box 60%>
+
+恭喜你，你已经完成了资源包的制作步骤，你可以继续制作来加深印象。
+
+<WRAP center round download 60%>
+
+[[https://bit.ly/MtrExampleLink]]
+
+</WRAP>
+
+</WRAP>
+
+==== 2、使用资源包创建器 ====
+<WRAP center round info 60%>
+
+这是一个较为简单的方法，不需要自己创建资源包
+
+并且它没有局限性！你可以制作地铁、公交、轮船、飞机、缆车各种追加包！
+</WRAP>
+<WRAP center round important 60%>
+**本方法难度系数较高，初学者暂时不要使用！**
+</WRAP>
+
+
+为了追求真实感，大部分追加都是使用资源包创建器进行制作的。你可以自己建模、自己画贴图！不再受原版列车的拘束！
+
+  - 首先进入[[https://www.blockbench.net/]]下载Blockbench。
+  - 然后新建项目，选择“模组版实体”。
+  - 对于资源包的创作可以观看[[https://www.bilibili.com/video/BV1PT411y7ZW/?spm_id_from=333.999.0.0&vd_source=e20c6512a678f6f14e66f88aabccaf11]]。
+  - 接下来进入游戏，从物品栏里取出资源包创建器。
+  - 导入blockbench文件和纹理文件。
+  - 添加全部可用的模型部件
+  - 设置模型部件的**外部**、**内部**和**灯**
+  - 设置显示屏等物件
+  - 导出！
+<WRAP center round info 60%>
+外部：车辆外壳，不发光
+
+灯、灯（常亮）：灯（常亮）永远发光，灯在运行时发光，在车厂时熄灭
+
+内部：运行时亮，在车厂时为正常亮度
+</WRAP>
+
+
+恭喜你完成了追加包的制作！接下来让我们看看各种追加包吧！[[zh:mtr_extra:resourcepack|]]

@@ -1,0 +1,23 @@
+<markdown>
+
+# Ceiling - Needs Updating
+
+The ceiling is a decorative block that has a [light level](https://minecraft.gamepedia.com/Light) of 15.
+
+# Obtaining
+
+## Breaking
+
+Ceiling blocks require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
+
+## Crafting
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Ceiling | [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/ceiling.png) |
+
+# Usage
+
+The placement direction of the ceiling block depends on the player orientation. The horizontal beams of the block will be placed parallel to the direction where the player is facing.
+
+</markdown>

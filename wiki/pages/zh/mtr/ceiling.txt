@@ -1,0 +1,26 @@
+<markdown>
+
+
+
+# 天花板
+
+[光照等级](https://minecraft.gamepedia.com/Light)15级的装饰方块。
+
+# 获取
+
+## 破坏方块
+
+需要使用[镐](https://minecraft.gamepedia.com/Pickaxe)挖掘，物品便会自动掉落。不使用镐挖掘则不会有任何掉落物。[硬度](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness)为2.
+
+## 合成
+
+| 名称 | 合成所需 | [合成](https://minecraft.gamepedia.com/Crafting)图 |
+| --- | --- | --- |
+| 天花板 | [铁锭](https://minecraft.gamepedia.com/Iron_Ingot) + [萤石粉](https://minecraft.gamepedia.com/Glowstone_Dust)<br><br>_合成配方_ | ![月台门制作配方1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/ceiling.png) |
+
+# 用法
+
+放置方向取决于玩家所朝方向。水平横梁将与玩家面对的方向平行。
+
+</markdown>
+

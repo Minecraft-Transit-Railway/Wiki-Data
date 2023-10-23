@@ -1,0 +1,78 @@
+=====Kallos Light Rail Route 801X=====
+''This page is introducing a discontinued route. For the current route, please visit "[[lrt_802]]"''
+
+**Kallos Light Rail Route 801X** (Chinese: **麗灣輕鐵801X綫**) is a route which runs from Light Rail Depot to Lei Yue Mun, operated by Qingli Railways, serving passengers between Kallos and Toitoi.
+
+<WRAP right>
+^  **<html><font size = "4">Kallos Light Rail Route 801X</font></html>\\ <html><font size = "4">麗灣輕鐵801X綫</font></html>**  ^^
+|@#FF0066:||
+|  {{801x_scrn.png?300&direct}}\\ A Light Rail Phase V train\\ at Four Ka Tsuen stop (October 2022)  ||
+|**Operate location**|Kallos\\ Toitoi|
+|**Service type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Discontinued|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Lei Yue Mun|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum Speed**|300 km/h|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ Standard gauge|
+|**Electrification**|750V DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase V|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|10 September 2022|
+|**Abolished**|4 December 2022|
+|**Owner(s)**|Qingli Railways|
+|**Operator(s)**|Qingli Railways|
+</WRAP>
+
+====History====
+On 3 September, Chin Ka Village LRT (Route 762) completed. Qingli Railways proposed a new through run route running from Light Rail Depot to Toitoi. This route sticks with route 801P (currently [[lrt_802|802]]) till Puketeraki, and goes via Toitoi to Lei Yue Mun. 
+
+On 10 September 2022, route 801P was extended to Puketeraki. This route was opened together.
+
+On 4 December 2022, this route is discontinued, and the connection between Puketeraki and Toitoi is replaced by [[lrt_802|route 802]]. This route serviced 85 days in total.
+
+Before this route is discontinued, it was shown as magenta in the light rail route map, which is the same as the current [[lrt_802|route 802 or 802S]]
+
+<WRAP left>
+====Stations====
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#FF0076:<color white>**Kallos Light Rail Route 801X**</color>  ||||||
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|:::|Kallos\\ 麗灣|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||5 August 2022|
+|:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::|Kallos Mountain Forest\\ 麗山森林|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
+|:::|Karest Lake (East)\\ 麗林湖（東）|:::|:::||:::|
+|:::|Kwai Lam\\ 葵林|:::|:::||:::|
+|:::|Karest Lake (West)\\ 麗林湖（西）|:::|:::||:::|
+|:::|Kallos Ferry Pier\\ 麗灣碼頭|:::|Kallos Ferry||:::|
+|:::|Puketeraki\\ 普基蒂拉基|Toitoi|  [[lrt_115|{{115.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||10 September 2022|
+|:::|:::|:::|  Puketeraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
+|  @#B9E0ED:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Toitoi \\ 泰太|:::|  [[lrt_115|{{115.png?40&direct}}]] [[lrt_762|{{762.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||3 September 2022|
+|:::|:::|:::|  Toitoi  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
+|:::|Five Ka Tsuen\\ 五家村|:::|  [[lrt_762|{{762.png?40&direct}}]]  ||:::|
+|:::|Four Ka Tsuen\\ 四家村|:::|:::||:::|
+|:::|Three Ka Tsuen\\ 三家村|:::|:::||:::|
+|:::|Two Ka Tsuen\\ 二家村|:::|:::||:::|
+|:::|One Ka Tsuen\\ 一家村|:::|:::||:::|
+|:::|Lei Yue Mun\\ 鯉魚門|:::|  [[lrt_762|{{762.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Lei Yue Mun  |  <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+</WRAP>
+
+====Fare Zones====
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Puketeraki
+\\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Lei Yue Mun
+\\ Route 801X can meet up with other light rail routes: 762, 801, <del>801P (first generation)</del>, 810, 882.
+
+====Individual sections====
+- Track section from Karest Lake (West) to Toitoi
+
+====Also see====
+- [[lilac_light_rail]]
+\\ - [[lrt_801]]
+\\ - [[lrt_802]]

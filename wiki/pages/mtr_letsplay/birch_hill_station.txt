@@ -1,0 +1,76 @@
+====== Birch Hill Station ======
+
+<WRAP right>
+
+|   @#51C7FA:  **Birch Hill**   ||
+| @#EB7AE9: ||
+| @#0FBFE4: ||
+^   **Overview**   ^^
+| **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| ::: | [[mtr_letsplay:west_lake_transport_authority|West Lake Transport Authority]] |
+| **Lines** | [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]] |
+| ::: | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| **Owners** | [[mtr_community:navi_lx9702|Navi]] |
+| ::: | [[mtr_community:bdark000|BDark000]] |
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
+| **Platforms** | 4 |
+| **Tracks** | 4 |
+| **Coordinates** | (-2920, 1261) |
+^   **Translations**   ^^
+| **Traditional** | 樺山 |
+| **Simplified** | 桦山 |
+| **Cantonese Yale** | wàhsāan |
+^   **Colors**   ^^
+| @#FFFF00:  | Yellow |
+| @#FFA500:  | Orange |
+| @#00FFFF:  | Light Blue |
+^   **Station**   ^^
+| **Type** | Underground |
+| **Floors** | 6 (1 WIP) |
+| **Platform Floors** | 2 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | BIH |
+| **Opened** | 26 August, 2022 |
+| **Electrification** | 750V third rail DC\\ //(WR SW Plains Line)// |
+| ::: | 25kV Overhead Cable AC\\ //(WLT Line 1 Phase 1)// |
+
+| @#EB7AE9:  **[[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]]** || | @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+|  || ::: | ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ::: || ::: | ⇅ | ... |
+| ⇅ | [[mtr_letsplay:kwong_chow_station|Kwong Chow]] | ::: | ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| ◉ | **Birch Hill** | ::: | ◉ | **Birch Hill** |
+| ⇅ | [[mtr_letsplay:providence_station|Providence]] | ::: | ⇅ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
+| ⇅ | ... | ::: | ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+| ⇅ | [[mtr_letsplay:northern_snow_village_station|Northern Snow Village]] | ::: | ||
+
+</WRAP>
+**Birch Hill Station** (Chinese: 樺山站, station code: BIH) is a station in the [[mtr_letsplay:west_lake_area|West Lake Region]], built by [[mtr_community:navi_lx9702|Navi]] and [[mtr_community:bdark000|BDark000]] and acts as a mid-way stop of [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]] and [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+
+===== History =====
+
+  * **8 August, 2022**: Station starts construction. [[mtr_community:navi_lx9702|Navi]] (Wilds Railway) is responsible for the lower platform and [[mtr_community:bdark000|BDark000]] (West Lake Transport) is responsible for other parts of station. 
+  * **26 August, 2022**: Station completes construction (except exit A). [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] starts service.
+  * **25 September, 2022**: [[mtr_letsplay:wlt_line_1|WLT Line 1]] starts service.
+  * **22 December, 2022**: WLT Line 1 is extended to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] and renamed as WLT Line 1 Phase 1
+  * <del>**est. Q1 2023**</del> **est. Q4 2023** : Exit A (A1 and A2) opens. A pair of emergency exit is installed at the north of the station for better evacuation.
+
+===== Layout =====
+
+<WRAP left>
+
+| **G** | //Under Construction// | Exit A |
+| **L1** | **Concourse** | Exit B: Birch Forest |
+| **L2** | @#EB7AE9: **[[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]] Platforms** ||
+| ::: |   Side Platform   ||
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]] to [[mtr_letsplay:northern_snow_village_station|N. Snow Village]] -> |
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: |   Side Platform   ||
+| **L3** | Plant Room ||
+| **L4** | Transfer Lobby ||
+| **L5** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: |   Side Platform   ||
+| ::: | Platform **3** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
+| ::: | Platform **4** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+| ::: |   Side Platform   ||
+
+</WRAP>

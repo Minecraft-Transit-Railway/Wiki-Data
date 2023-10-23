@@ -1,0 +1,68 @@
+====== Editing Guideline ======
+
+===== Translating A Page =====
+
+First, navigate to the page you want to translate, then choose the new language to translate from the sidebar, and click the "Create this page" button on the right.
+
+The code of the page you want to translated should be copied over automatically. You can click the "Toggle syntax / visual editor" button to choose the editing method of your preference.
+
+If your preferred language is not included, please contact the admins.
+
+===== Creating A New Page =====
+
+First, the page needs an English title like "Edit Guideline," then, you need to choose a category for the page to be in:
+
+| mtr | The base MTR mod for the player |
+| mtr->dev | Addon or resource pack development for MTR |
+| mtr_letsplay | MTR Let's Play Server |
+| mtr_extra | Community Resource Packs |
+| mtr_addon->lu | The London Underground Addon |
+| mtr_addon->nte | Nemo's Transit Expansion Addon |
+| mtr_addon->msd | MTR Station Decoration Addon |
+| mtr_community | Members of the community and server pages |
+| playground | If you just want to try out the functions |
+
+After you create the page, there will be a big box for you to enter text in and a bunch of icons on the top.
+
+You can click the "Toggle syntax / visual editor" button to toggle between raw code editing and visual editing. Write the page title in the first line and make it "Heading 1" with the "H#" button (If you're using visual editor) or write it like "====== Page Title ======" (If you're using code editor, note that there must be 12 equal signs). You can use whatever language here in this title, not limited to English as in the page name.
+
+After adding the header, you can write whatever you want in the following space.
+
+You should write this new page in English. If you intend to write it in another language first, you can write a piece of text describing the situation, save it, and refer to the "Translating A Page" steps above.
+
+If you happened to prefer using something called Markdown, you can enclose your Markdown content in %%<markdown></markdown>%%. Do note that Markdown isn't compatible with the visual editor.
+
+For a full list of formatting options, you can look at the [[wiki:syntax|Syntax Guide]]
+
+You can create a page below:
+
+{{NEWPAGE}}
+
+===== Other Guidelines =====
+
+For the [[wiki_guidelines|Wiki Guidelines]], please visit the corresponding page.
+
+When using the **mtr_community** namespace, we ask that you include ONE of the following prefixes to your page title for the sake of categorisation and navigability:
+
+  * "Server - " //i.e. "Server - Galwick Community City//"
+  * "User - " //i.e. "User - jonafanho//"
+
+Only the page title located at the top should be named as such. The page ID, which is located in the URL and in the "rename page" button on the left, should remain without the prefix. For example:
+
+  * Page title: //Server - Galwick Community City//
+  * Page ID: //mtr_community:galwick_community_city//
+
+Or
+
+  * Page title: //User - jonafanho//
+  * Page ID: //mtr_community:jonafanho//
+
+To name a page in this style, simply add a H1 Header to the top of a page.
+
+<code ->
+====== Page Title ======
+</code>
+
+If you have any questions, please ask for help in the #wiki-discussion channel in [[https://discord.gg/xvTgJ3PbrP|Discord]]. As per the Wiki Guidelines, Admins and Staff reserve the right to modify any pages as necessary to fit the guidelines. Please make sure to check back on this page ever so often, as editing requirements may be added and/or changed
+
+~~NOCACHE~~

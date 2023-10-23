@@ -1,0 +1,145 @@
+等待修復  **此頁面沒有被翻譯完全。請幫助翻譯本頁。**\\ //(當全文翻譯完時請移除這個段落。)//
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 快速上手
+
+ _Minecraft Transit Railway_ 重構了在Minecraft中的鐵路系統概念。不同於傳統的[礦車](https://minecraft.gamepedia.com/Minecart),儀表板便可隨時控制列車。實體移動滯後，未加載區塊中的列車不運動，和服務器佔用過高已成為過去式。
+
+[各類的儀表板](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards)是模組的核心。車站，線路，車輛段能被輕鬆添加，移動，或者刪除。
+
+列車將不是實體或者"重做了紋理的礦車".相反，它們是一部分的世界數據，列車在世界中的數據是經過模擬的。這避免了大量不必要的實體座標，速度和碰撞體積的計算，甚至能在加載的區塊之外讓列車活動。此外，列車生成物品不復存在，列車將會按照用戶設定的時刻表運行。3.0.0-beta-5版本開始，列車將不再使用原版Minecraft的鐵軌。
+
+# 視頻教程
+
+您可以[查看這些視頻教程（Youtube）](https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC).若無法訪問Youtube，也可以在B站上觀看國內譯者的搬運視頻。
+
+# 創建軌道
+
+下面是創建軌道的基本步驟。查看[軌道](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Rails)的Github頁面瞭解更多。
+
+1. 在地面上放置軌道節點；
+1. 至少走上幾格距離，再放置另一個節點；
+1. 拿出任意一個軌道連接物品。在持有該軌道連接物品時右鍵任意一個軌道節點。 軌道連接物品應該在物品欄中閃爍。
+1. 繼續拿著軌道連接物品，右鍵另一個軌道節點。軌道會在兩個節點之間生成。
+
+# 建造你的第一條鐵路
+
+## 站臺
+
+站臺本質上是一段軌道，便於列車停靠上下乘客。
+
+1. 當使用鐵軌連接器時，按照[創建軌道](#creating-a-rail)的步驟創建站臺軌道；這將會是第一個站臺。
+1. 去另一個地方創建另一條站臺軌道（不要與剛剛創建的第一個站臺相連），儘量保持與第一條軌道長度一致；這將會是第二個站臺。
+1. 使用任何除站臺、側線、掉頭軌道之外的軌道將兩個站臺連接起來；必要情況下，可以使用更多的軌道節點，以及任何除站臺、側線、掉頭軌道之外的軌道。
+
+> <img alt="建造站臺" src="https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/getting-started/build-platform.png" width=512/><br>一個使用其他軌道將兩個站臺軌道相連的示例
+
+## 車站
+
+車站實在一個存檔特定位置標記的一塊矩形區域，每個車站都應完全覆蓋一個或更多的站臺。
+
+1. 右鍵[鐵路儀表板](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards)打開管理界面。
+   * 界面的左側有三個標籤頁，它們分別是：`車站` , `路線` , 以及 `車廠` 。
+      * `車站`的標籤頁是默認選中的。
+   * 右側的地圖顯示當前世界以及當前世界的標記。
+      * 帶白色邊框的小藍點代表玩家當前所在的位置。
+      * 站臺以亮白色顯示在地圖上
+      * 按下並拖拽地圖以移動地圖。
+      * 使用鼠標中鍵上下滾動或使用右側的 `+` 與 `-` 按鈕來進行縮放。
+1. 在地圖上縮放、移動來找到第一個建造完畢的站臺。
+1. 在 `車站` 標籤頁，按下 `新增車站` 按鈕。
+1. 現在，地圖已經處於編輯模式。使用鼠標左鍵單擊不鬆手拖動鼠標以在第一個站臺上繪製矩形車站區域。
+   * 如果出現錯誤，需要重新選區，只需要在新區域單擊拖動即可，原先的區域會自動刪除。
+1. 在左下角的文本框中，鍵入車站的名稱。使用字符 `|` 分割不同站名的語言，如 `第一城|City One` 。
+1. 完成後，按下 `完成` 按鈕。
+1. 在地圖上移動以找到已建造的第二個站臺。
+1. 再次點擊`新增車站`按鈕。繪製其他的矩形站臺區域覆蓋第二個站臺。為第二個站臺命名。
+1. 完成後，按下 `完成` 按鈕。
+
+> <img alt="創建車站" src="https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/getting-started/create-station.png" width=512/><br>鐵路儀表板中顯示已創建的兩個示例車站：Northgate 和 East Green Lake。
+
+現在，這兩個車站應該在右側地圖上可見。
+
+## 線路
+
+路線只是站臺（不是車站）的列表；被分配到某條路線的列車將試圖找到一條路徑來訪問所有站臺。~~在到達終點站後，列車將被刪除。~~在新版本中，列車將會回到發車車廠。
+
+1. 在鐵路儀表板中，單擊 `路線` 選項卡。
+1. 按下下方的 `新增路線` 按鈕。
+1. 現在，地圖已經處於編輯模式。點擊地圖上第一個站臺對應的白色小方塊，它應該會以列表形式出現在你 `路線` 選項卡中。
+1. 點擊地圖上第二個站臺對應的白色小方塊，它應該會以列表形式出現在你 `路線` 選項卡中。
+1. 為路線鍵入一個名字，使用字符 `|` 用來分隔該線路的不同語言；如： `馬鞍山綫|Ma On Shan Line` 。
+1. 完成後，按下 `完成` 按鈕。
+
+> <img alt="Create Route" src="https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/getting-started/create-route.png" width=512/><br>創建一條服務於兩個站臺的路線。
+
+這條路線現在已經完成了！在鐵路儀表板按下 `Esc` 鍵以退出界面回到遊戲。
+
+## Depots and Sidings
+
+A siding is a section of track where trains can spawn from, and a depot provides instructions for where trains should go.
+
+1. Create a siding rail by following the steps above (outlined in the [Creating a Rail](#creating-a-rail) section) while using the siding rail connector item.
+1. Using any of the other rail connector items (not the platform or siding rail connector items), connect the siding to the first platform of the route.
+1. Connect the siding again to the last platform of the route.
+1. Obtain the [railway dashboard](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards) item and right click to open it.
+1. On the `Depots` tab, click on the button at the bottom called `Add Depot`.
+1. Draw a depot area over the siding and type a name into the text box. This process will be very similar to how the stations were created.
+
+## Schedules
+
+The depot must be given a schedule and instructions in order for [trains](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) to move along the predefined route. Hours listed on the schedule are based on the [game time](https://minecraft.gamepedia.com/Daylight_cycle), not real life time.
+
+1. Inside the railway dashboard, make sure the `Depots` tab is selected.
+1. Click on the siding (in white) on the map.
+1. Click on the `SP 1900` button. This will change the train type that will spawn.
+1. Select `Minecart` and click on the `+` button.
+1. Hit `Esc` on the keyboard to return to the main dashboard screen.
+1. Hover over the newly created depot and click on the pencil icon. The schedule configuration screen should appear.
+1. Drag all the sliders to the very right. This means that trains will spawn every twenty seconds in real life.
+1. Click on `Edit Train Instructions` and hover over the route that was just created. Click on the `+` button to add it to the train instructions.
+1. Click on `Refresh Path`. This button must be clicked every time the train instructions or rails have been modified.
+1. Hit `Esc` on the keyboard to exit out of the menu, and again to exit out of the dashboard.
+
+A train made up of minecarts should start spawning every twenty (real life) seconds.
+
+## Platform Blocks
+
+[Platform blocks](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block) are required to pick up passengers. Place down a row of platform blocks by each platform rail.
+
+> <img alt="Platform Blocks" src="https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Platform blocks should be placed by the platform rail.
+
+走到任何一節礦車上。享受旅程罷，你的第一條鐵路完成力！（喜
+
+> <img alt="Enjoy Ride" src="https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/getting-started/enjoy-ride.png" width=512/><br>A player is enjoying the train ride.
+
+## 注意事項
+
+* 每條線路至少要有兩個站臺，否則列車無法生成。
+* 列車指令可以添加一條及以上的線路。
+   * 側線必須連接 (使用軌道) 到 _第一條_ 線路的 _第一個_ 站臺和 _最後一條_ 線路的 _最後一個_ 站臺。
+   * 每次列車指令或軌道被修改時都要按下 `刷新路線` 按鈕。
+* [列車](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains)都會在每個月臺短暫停留。正常現象。
+* 車輛種類“礦車”並非原版的礦車。在軌道上放置原版礦車是無法使用MTR的自動化運行的。
+* 列車長度受側線長度限制。
+   * 若站臺太短，根本無法生成列車，則不會有列車出現。
+   * 參閱[列車](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains)的頁面查看原版列車的長度。
+
+</markdown>
+
+
+

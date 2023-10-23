@@ -1,0 +1,14 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+====== リソースパックの導入 ======
+
+===== リソースパックとは？ =====
+基本的に、リソースパックは、MinecraftやMODを直接編集することなく、新しいテクスチャ、モデル、音楽、サウンド、言語、テキストを変更または追加することができるzipファイルです。
+詳しくは[[https://minecraft.fandom.com/ja/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%91%E3%83%83%E3%82%AF|Minecraft Wiki - リソースパック]]を参照。
+
+このMODでは、新しいサインシステムのテクスチャ、新しい列車のテクスチャ、モデルおよびサウンドを追加することができます。
+===== どこで手に入りますか？ =====
+MTR Discordサーバーに専用チャンネルがあります。 [[https://discord.com/channels/763273460465270816/953329579567767572|チャンネルへのリンク]] [[https://discord.gg/PVZ2nfUaTW|MTR Discordサーバー]]
+ ===== どのようにリソースパックを導入するのですか？ =====
+バニラのリソースパックと同様の手順で導入可能です。 : [[https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack|Minecraft Wiki - Loading a Resource Pack]]**(※英語)
+**

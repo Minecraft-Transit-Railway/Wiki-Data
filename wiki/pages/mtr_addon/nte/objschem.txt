@@ -1,0 +1,171 @@
+<markdown>
+# OBJ model related adaptation
+
+NTE makes adding trains based on OBJ models through resource packs come true.
+
+# # Basic Format
+
+When importing the OBJ train model via NTE, it is written in the mtr_custom_resources.json file and has no difference with using BBMODEL files.
+
+```json
+{ 
+    "custom_trains": { 
+        "lu1995": { 
+            "name": "LU 1995", 
+            /* ... Other configurations are the same as when using BBMODEL, omitting */ 
+            "texture_id": "mtrsteamloco:textures/block/nte_tile_faded.png", 
+            "model": "mtr:lu1995/modeltrain_1995_tube_train.obj", 
+            "model_properties": "mtr:lu1995/properties.json"
+        }
+    }
+} 
+```
+
+- `model`: Fill in the location of the OBJ file. Remember to use `mtrsteamloco:......` instead of `D:/......`. 
+- `model_properties`: Fill in the resource location of the model property file. 
+- `texture_id`: Replace the resource position of the map.
+
+The OBJ file you use should meet the following requirements: the positive direction of the X axis is to the right, the positive direction of the Y axis is to the top, and the forward direction of Z axis is backward. Each unit is 1 meter in length
+
+</markdown>
+<WRAP center round tip 60%>
+
+Tip: All file names need to be all lowercase. File names can only be a-z, 0-9, `-`, `_`.
+
+</WRAP>
+
+<markdown>
+## Sample File
+
+A sample resource bundle can be downloaded [here](https://www.zbx1425.cn/nautilus/mtr-nte/assets/mtrnte-example.zip).
+
+## Components
+
+There can be ** group ** information in OBJ files. For example,the train door and body are in different groups, so that the door can move independently of the body when opening the door by selecting the part to move. OBJ files can be opened by using any text editing software such as Notepad, Notepad3, VSCode, etc. The `mtllib` command sets the MTL file used by this OBJ file, the `g` command sets the grouping, and the `usemtl` command sets correspondence between each face and material. Most modeling software can choose to export grouping information together when exporting OBJ.
+
+Groups in the OBJ model will be automatically parsed and can then be used in the model properties file. This is the same as the use of components in BBMODEL.
+</markdown>
+
+<WRAP center round tip 60%>
+
+Tip: Only OBJ grouping (`g`) instructions are supported, not object (`o`) instructions. If the model exported by your modeling software has a line beginning with "o " (with a space after o), please replace it with "g " (with a space after g).
+
+</WRAP>
+
+
+<markdown>
+# # Model Properties
+
+MTR has a ** model attribute ** JSON file, in which you can specify which parts are to be moved when the door is opened, which parts are only displayed in some number of cars, and which parts are only displayed when the door is opened, so as to realize the functions like door opening/closing animation, door lights, head and tail cars displaying head parts, middle cars not displaying head parts, and so on.
+
+You can edit the model properties file using the ** Resource Bundle Creator ** in MTR mod. In the options of the resource bundle creator, click "Upload" on the right side of "Blockbench File", and then drag in the OBJ file you want to use. If you want to further edit an existing property file, select the property file, otherwise leave it blank.
+
+You can see the OBJ model you uploaded and the parts it contains. You can select any part to create animated doors, and so on. You may find that your OBJ model is white without any maps. This is normal. NTE does not load maps in the Resource Bundle Creator.
+
+** Please merge the parts in advance, such as merging all the immovable parts into one. The more parts, the worse the performance. **
+
+After editing, please select any image as the texture file in the options, and then click "Export Resource Package". You can find the model properties file in the exported archive. It is a JSON file at the same level as a BBMODEL file in an internal folder.
+
+</markdown>
+<WRAP center round tip 60%>
+
+Tip: The resource bundle exported here can only be used to obtain the model properties file. It is incomplete and cannot be used in Minecraft.
+
+</WRAP>
+<markdown>
+
+# # Maps
+
+Due to historical problems, the OBJ model is divided into several parts. The `.obj` file stores the correspondence between the geometry of the object, each ** part **, and the face to be displayed and the ** material **, and the `.mtl` file stores the correspondence between each ** material ** and the ** map ** path information. The `.png` file (hereinafter referred to as the map) is the ** map ** to be used. Also distinguish between a material name for each face and a map file name and a color attribute for each material.
+
+MTL files can also be opened with using any text editing software. Where, `newmtl` creates a material, `Kd` sets the materials' color, `d` sets the material's  transparency, and `map_Kd` sets the mapping for the material. Most modeling software can choose to export the MTL file at the same time as the OBJ.
+
+If there is an `mtllib` instruction in OBJ model (most modeling software will automatically add it when exporting MTL), the corresponding MTL file will be automatically parsed. The relative path will be resolved automatically. Writing a complete `mtr:..` at `mtllib` in OBJ model is not required and not supported.
+
+Unlike BBMODEL, which can only use one map, the MTL file itself has the ability to set the map. NTE uses the following methods to map a model:
+
+- If there is ** no ** `mtllib` instruction in the OBJ model, NTE will use the name of the material as the map file name. In this case, a material named `mat1` will automatically use `mat1.png` in the same directory as OBJ as a map. Specially, the material named `_` will be set to all white.
+
+This feature allows you to avoid MTL files.
+
+</markdown>
+<WRAP center round important 60%>
+
+The following texts are translated by google. Wait to be optimized.
+
+</WRAP>
+<markdown>
+- If there ** is ** an "mtllib" instruction in the OBJ model, the mapping will be set according to the "map _ Kd" of the corresponding material in the MTL (it is usually set accordingly when MTL is exported using modeling software). If there is a material of'mat1 'in OBJ and'mat1' has a map _ Kd of 1995default.png 'in MTL, the'1995 default. PNG' will be used as a map. At the same time, the'Kd 'and'd' settings in MTL will also be used.
+
+-You may notice that the map files in OBJ/MTL are all written to death, making it inconvenient to change the paint. For this purpose, NTE specifies that if a map with the file name of default. PNG is used in the above way, it will be replaced with the setting value of texture _ ID in MTR _ custom _ resources. JSON so as to change the paint.
+
+If no map named'default. PNG 'is used, the value set for'texture _ ID' is completely ignored. However, if it does not exist, MTR will report an error, so it is recommended to set it to'minecraft: textures/misc/white. PNG 'or any map file that actually exists.
+
+# # Render Batch
+
+MTR has multiple * * rendering batches * * such as'exterior ',' interior ',' interiortranslucent 'and'light'. Specifically:
+
+-Faces marked `exterior` adjust their brightness according to the ambient brightness of the location of the train and do not support translucency (translucent or d translucent faces in the map become fully opaque) -Faces marked'interior 'are always full brightness (because there are lights in the car) and do not support translucency -Faces marked'interiortranslucent 'are always fully luminous and support translucency (incidentally, it is called'INTERIOR _ TRANSLUCENT' in the model properties file) -Faces marked `light` are always full brightness, have an Omni effect in supported light and shadows, and do not support * any * transparency (translucent or fully transparent colors appear solid within the map)
+
+-NTE additionally adds'exteriortranslucent ', which adjusts the brightness according to the ambient brightness of the train location and supports translucency. -NTE additionally adds'lighttranslucent ', which is a translucent support version of'light'. However, since the original sets this type to not be written to the depth cache (the flood used in the original for the beacon-beam periphery), it must have an incorrect occlusion relationship with other entities, etc., that are rendered later. Therefore, please only use it as a small range of floodlight effect around the lamp (such as NTE's own DK3/D51 headlamp). -NTE does not support `ALWAYS _ ON _ LIGHT 'and does not distinguish between `light' and `ALWAYS _ ON _ LIGHT ', i.e. `light' is also lit when the train is in the garage
+
+When not set, the default render batch is `exterior`.
+
+These render batches can be set in the model properties in the same way as with BBMODEL.
+
+In particular, for ease of modeling, NTE additionally supports setting the render batch by OBJ's material name instead of MTR model properties. Add '# Render Batch' after the material name to set the render batch for the faces that use this material. Setting the material name to'mat1 # exteriortranslucent 'will add translucent support to all faces using the material'mat1 # exteriortranslucent'. This is also valid without `mtllib`, where the contents before ` # ` are used as the map file name.
+
+Although you probably won't use both methods, the render batch settings set on the subassembly in the model properties (outside of `exterior`) take precedence over those set by material name.
+
+In addition, `flipv = 1` can be added after ` # 'to invert the V coordinate of the material. Specifically, some modeling software, such as Blender, may export with a UV coordinate system that is vertically opposite to that used by Minecraft (with the origin in the upper left corner and V positive down), making the map upside down. You can look for a setting like "Invert V" in the export options of the modeling software. If not, you can also use this function to let NTE correct it for you. This can also be used in conjunction with a render batch, written as `mat1 # exteriortranslucent, flipv = 1`.
+
+Note: Please set only on surfaces that are truly translucent, such as windows. The'translucent 'attribute. On the one hand, the rendering performance of semi-transparent surfaces is much lower than that of others; on the other hand, when multiple semi-transparent surfaces are behind one another, their mutual occlusion relationship may be incorrect; and when multiple semi-transparent surfaces intersect, their mutual occlusion relationship must be incorrect.
+
+# # Different models in different carriages
+
+In the original version of MTR, all carriages of the train use the same model, and then display or hide specific components such as the locomotive for each train according to the settings of the model property file, so as to make the appearance of each train different.
+
+This is not quite in line with the development habits of BVE/RTM, etc., where different models are used for each carriage. Therefore, NTE has added a special adaptation to this, and multiple models can be specified in the'model 'in the'mtr _ custom _ resources. JSON'.
+
+```json { "custom_trains": { "lu1995": { "name": "LU 1995", /* ... Other configurations are the same as when using BBMODEL, omitting */ "texture_id": "mtrsteamloco:textures/block/nte_tile_faded.png", "model": "mtr:lu1995/modeltrain_1995_tube_train.obj|1;%1;|mtr:lu1995/modeltrain_1995_tube_train_carriage.obj|;1,-1;|mtr:lu1995/modeltrain_1995_tube_train.obj|-1;%1,1;reversed", "model_properties": "mtr:lu1995/properties.json" } } } ```
+
+"Model 1 | Whitelist 1" can be used at "model"; Blacklist 1; Extra Attribute 1 | Model 2 | Whitelist 2; Blacklist 2; The format of Extra Attribute 2 specifies multiple models. The former part is the resource location of the model; the latter part is separated by two semicolons, and the whitelist, blacklist, and extra attributes are specified for the model next to it on the left.
+
+This writing can only be used to import OBJ and cannot be used to import BBMODEL or to mix OBJ and BBMODEL.
+
+Due to the design limitations of the MTR itself, the length of each car cannot be different.
+
+The usage of whitelist and blacklist is the same as that in the model attribute provided by MTR itself, which takes effect for the components set by the model attribute file in this model. When the extra attribute is set to'reversed ', the model will be rotated 180 ° around the Y axis when loading, and the door linkage in the model attribute will be automatically updated accordingly. Even if a part is empty, a semicolon is required.
+
+The internal implementation of this feature is done by renaming the components of the model. For Example, when loading a train. Obj and a carriage. Obj with this method, assume that both OBJs contain a body component. They will actually be loaded as `train. Obj/body` and `carriage. Obj/body` parts respectively (they will be loaded as `body` parts when only one OBJ file is used) (when the extra property is set to `reversed ', Will load as `train. Obj/reversed/body`). Then, the settings for the'body 'component in the model properties will also be copied as'train. Obj/body' and'carriage. Obj/body ', and the black and white lists set in'model' will be set for these two new model property elements accordingly.
+
+Because of this, if a car meets the black and white list requirements of two or more models at the same time, these models will be displayed together. This can be used to add bogie models.
+
+Since the black and white list set in the model properties is replaced in this process, the original settings in the model properties do not take effect. If there is a need to set a separate black and white list for a specific component of a specific model, this can be solved by writing the component name according to the renamed name in the model attribute, such as adding an element named "train. Obj/body". Such a group name will not participate in the renaming and blacklist override process described above, and its blacklist will be left in effect as is.
+
+# # RTM Migration
+
+* * Copyright is a matter of great concern * *. Most RTM train model authors do not authorize their models to be used for other purposes, so you are * * not * * allowed to publish, share in groups, or use the migrated results in the server without the consent of the original author.
+
+The OBJ or MQO model used by RTM is different from the above requirements and needs to be edited before use. The MQO model needs to be edited using Metasequoia.
+
+You will need to merge the excess groups and set the translucent faces to `.. 'as described above for render batches. Translucent `Batch. You can set the'interior 'and'light' batches as needed to light up the interior at night. However, some models of RTM do not put the interior and exterior faces into different groupings, which can make it difficult to set up an'interior 'batch. You can put doors, door lights, headlights, and so on into separate groupings for later animation.
+
+When exporting, you need to convert MQO to OBJ and reduce the size to one hundredth of the original size. Please do not forget to check Export group information.
+
+Next, you can create a model properties file to animate the doors and adjust elements such as the door lights as needed.
+
+Each car of the train in RTM is usually a different model, so you need to do the same for other car models. Because all models use the same model properties file, you also want to use the same names for the same-purpose parts in those models. You can then set up different models for different carriages according to the previous guidelines.
+
+At the same time, the train body model and the bogie model are separated in RTM. You can stack bogie models by adding them to the multi-model list after processing, and specify their placement by adding them to the model properties file. You can also incorporate the bogie into the body model at the beginning of the process.
+
+# # Custom Display
+
+Custom display is not supported.
+
+# # BVE Migration
+
+Specific support for BVE's CSV/ANIMATED model will be added as discussed later.
+
+</markdown>
+

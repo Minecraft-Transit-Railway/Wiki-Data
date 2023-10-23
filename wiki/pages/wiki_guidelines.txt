@@ -1,0 +1,37 @@
+====== Minecraft Transit Railway Wiki Guidelines ======
+
+  - All rules from the Minecraft Transit Railway Discord apply to this wiki. Some have modified wording for the Wiki, they are as follows:
+    * Please be respectful! Do unto others as you would have them do unto you. 
+    * Do not write, upload, or share content considered inappropriate, offensive, or NSFW (not safe for work). This can include (but is not limited to) racial slurs, excessive swearing, or politics. Be mindful of people from different backgrounds.
+    * Do not ping any roles, especially moderators, staff, or admin. If you have a question, do not send direct messages to moderators, staff, or admin. Instead, ask questions in ⁠the Discord and we will gladly help you there. 
+    * Do not spam, use caps lock, or type repeating characters excessively. Sending or posting scam links will result in an instant ban. 
+    * Please do not advertise anywhere on this Wiki outside of Wiki pages for a server or resource pack (see rule 7). For advertisement, please only advertise in Discord in the appropriate channels. Do not advertise something that gives you direct monetary gain. 
+    * Don't upload or share copyrighted material that belongs to others. We do not endorse, promote, or offer support for cracked or pirated Minecraft launchers, clients or servers.
+    * If you are interested in coding and development, feel free to talk to the staff about joining the ⁠modding-general channel in the Discord.
+    * English is the main language of this community, but other languages may be used if necessary. Please respect staff when requested to use English. However, on the sidebar of each page, there are tabs for other languages. You are welcome and encouraged to translate and/or create pages in other languages
+    * This mod is licensed with the MIT License, so you are free to modify and distribute it. 
+    * Please do not suggest new trains and avoid suggesting something that has already been mentioned. Suggestions are not to be posted to the Wiki, please see the Discord. 
+    * Images uploaded to the Discord server or the Wiki the banner vote may be used for the official Minecraft Transit Railway Twitter or other sites (such as CurseForge) for mod promotion.
+    * If you get banned or muted for any reason, you may send an appeal to the admins via Discord.
+    * Have fun! Thank you for contributing
+  - When possible, try to consolidate smaller tweaks into one larger edit. This will reduce the amount of spam in the wiki-updates channel on the Discord. Do not spam edits.
+  - Please make sure to create pages in the correct category.
+  - Please keep language neutral
+    * NO: //Tai Wo Hau is the best station in all of Hong Kong.//
+    * YES: //Tai Wo Hau is the penultimate station on the Tsuen Wan Line in Hong Kong.//
+  - Please include edit summaries describing changes made to the page you are editing. The box is found at the bottom of the page. 
+    * BAD: //Added more information and images.//
+    * GOOD: //Added more information to the History category. Added 2 images for the Rolling Stock category.//
+  - Do not vandalise pages, including adding irrelevant and/or harmful images and text.
+  - Custom content and external servers are limited to one entry per. Each Discord server may only have one page, and should be placed in the correct category per the Edit Guideline. Each collection of resource packs may only have one page, and it is suggested that you link all of your resource packs in your user page to keep the Wiki concise. You must not use any link shorteners such as Bitly. You may not upload files directly to the Wiki. Download links may only lead to following sites, and exceptions are possible if approved by an Admin or a Staff member if site doesn't have any ads, shady and dubious content, or malware //and// doesn't require to sign up to download resource packs:
+    * Modrinth
+    * CurseForge
+    * Google Drive
+    * OneDrive
+    * MEGA
+
+You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change. 
+
+For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page. 
+
+

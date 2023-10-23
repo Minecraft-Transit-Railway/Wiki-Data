@@ -1,0 +1,47 @@
+====== Cinderace Line ======
+
+<WRAP 400px right>
+
+|  @#BB492B:  **(S11)Cinderace Line**  ||
+| {{ :mtr_letsplay:line_s11.png?200 |}} ||
+|  @#BB492B:  **Overview**  ||
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Area Served** | (Wide Area) |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
+| **Line Number** | S11 |
+| **Number of stations** | 33(Current) |
+|  | 49(Plan) |
+| **Real-Life Inspiration** | [[wp>Toei_Ōedo_Line|Toei_Ōedo_Line]] |
+| **Colour on map** | Fire Orange (#BB492B) |
+|  @#BB492B:  **Service & Operation**  ||
+| **Began passenger operation** | September 2022 |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 9 vehicles per trainset |
+|  @#BB492B:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Drive system** |Iron wheel type linear induction motor (aka: Linear Metro)|
+| **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
+| **Maximum speed** | 80 km/h |
+| **Top operational speed** | 80 km/h |
+|  @#BB492B:  **Construction Specifications**  ||
+| **Distance between nodes** | 3 blocks |
+| **Ballast block** | Stone |
+| **Sound barrier/support block** | Orange yellow block |
+| **Tunnel Model** | 5m Shield Tunnnel |
+
+|  @#b0c4de:  **Cinderace Line**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 閃焰王牌綫 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 闪焰王牌线 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Shǎn yàn wáng pái xiàn|
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Shǎn yàn wáng pái xiàn|
+| [[wp>Jyutping|JyutPing]] | sim2 yim6 wong4 paai4/paai2 sin3 |
+
+</WRAP>
+
+The Cinderace Line ([[wp>Chinese_language|Chinese]]: 閃焰王牌綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network and runs in a figure 6 through the northwestern area of Spawn and through [[Llanmara]].
+
+

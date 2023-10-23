@@ -1,0 +1,125 @@
+====== WR SW Plains Line ======
+
+<WRAP right>
+
+|  @#0FBFE4: **SW Plains Line **\\ **西南曠野綫**  ||
+^  **Overview**  |^
+| **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Status** | Operational |
+| **Regions** | [[mtr_letsplay:west_lake_area|West Lake]] |
+| ::: | [[mtr_letsplay:jinnapak_region|Jinnapak]] |
+| ::: | Ishikari and Lake City |
+| **Termini** | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+| ::: | [[mtr_letsplay:lake_city_station|Lake City]] |
+| **Connecting Lines** |@#89ac76: [[/cin_gyun_line|Cin Gyun Line]] |
+| ::: |@#036afa: [[/circulator_ip|Circulator IP]] |
+| ::: |@#19dfde: [[/lakeside_mystic_line|Lakeside Mystic Line]] |
+| ::: |@#6b4799: [[/elizabeth_line|Elizabeth Line]] |
+| ::: |@#EB7AE9: [[wlt_line_1|WLT Line 1 Phase 1]] |
+| ::: |@#0fbfe5: [[/wr_bus_service|WR Bus Service]] |
+| ::: |@#a5c83b: [[/cyanex_sumeru_line|CyanEX Sumeru Line]] |
+| **Line Color** | @#0FBFE4: #0FBFE4 //Champion Blue// |
+| **Stations** | 6 |
+^  **Service**  |^
+| **Type** | Commuter Rail |
+| **System** | [[/wilds_railway|Wilds Railway]] |
+| **Depot** | [[/jinnapak|Jinnapak]] |
+| **Rolling Stock** | 4-car SP1900 x 11 sets |
+| **Opened** | Unknown August, 2022 |
+| **Latest Expansion** | [[/hakura_island_station|Haruka Island]] to [[/chong_shu_chau_station|Chong Shu Chau]] |
+^  **Technical**  |^
+| **Length** | To be measured |
+| **Tracks** | 2 |
+| **Gauge** | 1435mm (4ft 8 1/2 in) |
+| **Electrification** | 750V third rail DC (current) |
+| ::: | [[https://fireemblemwiki.org/wiki/Yune|Yune]]'s Grace (till 9/11/2022) |
+| **Max Operating Speed** | 120km/h |
+| **Signalling** | Jonathan's CBTC |
+| **Train Protection** | ATS |
+
+</WRAP>
+
+The **WR SW Plains Line** (//Chinese: 曠鐵西南曠野綫//) is one of the route that [[/wilds_railway|Wilds Railway]] operates. The route connects [[/chong_shu_chau_station|Chong Shu Chau]] and [[/lake_city_station|Lake City]], and acts as one of the important route to access Lake City from other lines e.g. the [[/elizabeth_line|Elizabeth line]].
+
+===== History =====
+
+The route is planned by [[mtr_community:navi_lx9702|Navi]] in early August, 2022, with a initial plan from Spawn to SW Plains. However this plan is quickly abandoned due to conflicts with [[/wlt_line_2|WLT Line 2]] and [[mtr_community:bdark000|BDark]]. The name of the line is **SW Wild line** at the moment.
+
+After Navi communicates with BDark the plan is then modified. SW Plains, [[/birch_hill_station|Birch Hill]] and Haruka Island are retained in the final plan, however due to another conflict be found by [[mtr_community:isaaclao|Isaaclao]] the line can no longer extend to Spawn, and terminates at the Yellowstone island Chong Shu Chau.
+
+<WRAP left>
+
+^  **WR SW Plains Line Original Plan**  ||^
+^ **<- Towards SW Plains**  ||^
+| [[mtr_letsplay:sw_plains_station|SW Plains]] | [[mtr_letsplay:birch_hill_station|Birch Hill]] | [[mtr_letsplay:hakura_island_station|Haruka Island]] |
+^  **Towards Spawn ->** ||^
+| Dragon Eye Cave | Night Valley | Spawn |
+
+</WRAP>
+
+===== Rolling stock =====
+
+The route uses 11 4 cars SP1900 EMUs from WR's parent company, //Suzuran Railways//' 1900-1000 trains. Each train is coloured with different colours and cabs are modified so that passengers may look through the front of the train. The trains are manufactured by .
+
+4 cars of trailers are modified for adding cabs to the train due to lack of cab trailers in the //Suzuran Railways//' fleet, and are marked with a suffix of K.
+
+3 of the formations (Z3/Z4/Z5) also operates on  by  with prior approval from Navi.
+
+Formation Z1 is currently on the Tears of the Kingdom Special livery in order to celebrate the new information given by the Nintendo for the upcoming The Legend of Zelda: Tears of the Kingdom.
+
+The trains received an upgrade of quality of the texture from May, which is originally provided by Unknownkfa. However as player complains about the trains affects the gameplay experience for especially low-end PC players, the texture definition has been reduced to 1/2 of the original in 2nd September, 2023. The 2 trains that didn't received the upgrade, which are formations Z3 and Z10, is also announced that they will not receive the upgrade.
+
+|  @#0FBFE4:**%%Formations of WR SW Plains Line SP1900 EMUs%%**  ||||||
+| **%%<-Towards Lake City%%**  |||  **%%Towards Chong Shu Chau->%%** |||
+| **Formation number** | DTSO / KuHa | MSO / MoHa | MSO / MoHa | DTSO / KuHa | **Formation number** |
+| @#0FBFE4: Z1 | @#0FBFE4: 1003 | @#0FBFE4: 1005 | @#0FBFE4: 1006 | @#0FBFE4: 1004 | @#0FBFE4: Z1 |
+| @#E4340F: Z2 | @#E4340F: 1011 | @#E4340F: 1021 | @#E4340F: 1022 | @#E4340F: 1012 | @#E4340F: Z2 |
+| @#0FE47B: Z3 | @#0FE47B: 1013 | @#0FE47B: 1025 | @#0FE47B: 1026 | @#0FE47B: 1014 | @#0FE47B: Z3 |
+| @#E49F0F: Z4 | @#E49F0F: 1019 | @#E49F0F: 1037 | @#E49F0F: 1038 | @#E49F0F: 1020 | @#E49F0F: Z4 |
+| @#BFE40F: Z5 | @#BFE40F: 1023 | @#BFE40F: 1045 | @#BFE40F: 1046 | @#BFE40F: 1024 | @#BFE40F: Z5 |
+| @#340FE4: <color #ffffff>Z6</color> | @#340FE4: <color #ffffff>1027</color> | @#340FE4: <color #ffffff>1053</color> | @#340FE4: <color #ffffff>1054</color> | @#340FE4: <color #ffffff>1028</color> | @#340FE4: <color #ffffff>Z6 </color> |
+| @#9E0FE4: <color #ffffff>Z7</color> | @#9E0FE4: <color #ffffff>1029</color> | @#9E0FE4: <color #ffffff>1057</color> | @#9E0FE4: <color #ffffff>1058</color> | @#9E0FE4: <color #ffffff>1030</color> | @#9E0FE4: <color #ffffff>Z7</color> |
+| @#E40FBF: Z8 | @#E40FBF: 1033 | @#E40FBF: 1065 | @#E40FBF: 1066 | @#E40FBF: 1034 | @#E40FBF: Z8 |
+| @#7F99F8: Z9 | @#7F99F8: 1035 | @#7F99F8: 1069 | @#7F99F8: 1070 | @#7F99F8: 1036 | @#7F99F8: Z9 |
+| @#723703: <color #ffffff>Z10</color> | @#723703: <color #ffffff>1004K</color> | @#723703: <color #ffffff>1008</color> | @#723703: <color #ffffff>1028</color> | @#723703: <color #ffffff>1003K</color> | @#723703: <color #ffffff>Z10</color> |
+| @#FFF0C6: Z11 | @#FFF0C6: 1012K | @#FFF0C6: 1024 | @#FFF0C6: 1040 | @#FFF0C6: 1011K | @#FFF0C6: Z11 |
+
+===== Future Plan =====
+
+Navi has proposed one plan to Spawn if  builds more platforms in Spawn. However as the plan is not currently decided so the plan might not be succeed.
+
+No other further plans are set for SW Plains Line as Navi has to focus on other lines and GCSE.
+
+===== Route map and stations =====
+
+|  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
+|  English  ||  Chinese  | ::: | ::: | ::: |
+|  @#0fbfe4: <color #ffffff>**WR SW Plains Line**</color>  ||||||
+|  @#59d8ce:  |  [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]]  |  %%倉鼠洲%%  |  @#0fbfe5:  WR Bus Rt. 1  |  Unknown  |  Jinnapak  |
+| ::: | ::: | ::: |  @#575085:  <color #ffffff>LPR Busways Rt. 1P</color>  | ::: | ::: |
+|  @#89b239:  |  [[mtr_letsplay:hakura_island_station|Haruka Island]]  |  %%遥島%%  |  None  | ::: |  West Lake  |
+|  @#51C7FA:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]]  |  26th August, 2022  | ::: |
+|  @#0591bb:  |  [[mtr_letsplay:sw_plains_station|SW Plains]]  |  %%西南曠野%%  |  @#6b4799:<color #ffffff>Elizabeth Line</color>  |  12th August, 2022  | ::: |
+| ::: | ::: | ::: |  @#a5c83b:  CyanEX Sumeru Line  | ::: | ::: |
+|  @#3bf443:  |  [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]]  |  %%石灘島%%  |  None  |  9th August, 2022  |  Ishikari and Lake City  |
+|  @#0e51b9:  |  [[mtr_letsplay:lake_city_station|Lake City]]  |  %%湖城%%  |  @#19dfde: Lakeside Mystic Line  |  8th August, 2022  | ::: |
+| ::: | ::: | ::: |  @#89ac76: Cin Gyun Line  | ::: | ::: |
+| ::: | ::: | ::: |  @#036afa: <color #ffffff>Circulator IP</color>  | ::: | ::: |
+| ::: | ::: | ::: |  @#EE771E: Overground  | ::: | ::: |
+
+===== Train services =====
+
+All times listed here are in British Summer Time (BST).
+
+| **%%Session%%** | **%%Frequency (in minutes)%%** |
+| %%1:00 ~ 5:30%% | %%15%% |
+| %%5:30 ~ 6:00%% | %%10%% |
+| %%6:00 ~ 7:00%% | %%5%% |
+| %%7:00 ~ 9:00%% | %%2%% |
+| %%9:00 ~ 14:15%% | %%5%% |
+| %%14:15 ~ 17:15%% | %%3%% |
+| %%17:15 ~ 20:15%% | %%2%% |
+| %%20:15 ~ 22:00%% | %%5%% |
+| %%22:00 ~ 25:00%% | %%10%% |
+

@@ -1,0 +1,57 @@
+====== Shek Tan Island Station ======
+
+<WRAP 400px right>
+
+|   @#3bf443:  **Shek Tan Island**   ||
+| @#0FBFE4: ||
+^   **Overview**   ^^
+| **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Region** | [[mtr_letsplay:west_lake_region|West Lake]] |
+| **Platforms** | 2 (1 island) |
+| **Tracks** | 2 |
+| **Coordinates** | (-3498, 2712) |
+^   **Translations**   ^^
+| **Traditional** | 石灘島 |
+| **Simplified** | 石滩岛 |
+| **Cantonese Yale** | wùhsìhng |
+^   **Colors**   ^^
+| @#3bf443:  | Green |
+^   **Station**   ^^
+| **Type** | Overground |
+| **Floors** | 2 |
+| **Platform Floors** | 1 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | STI |
+| **Opened** | 9 August, 2022 |
+| **Electrification** | 750V third rail DC |
+
+| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+| ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ◉ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] |
+| ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| ⇅ | ... |
+| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+
+</WRAP>
+
+**Shek Tan Island Station** (//Chinese: 石灘島站, Lit: "Stone Beach Island"//) is a station of [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+
+The station is one of the least used station in the [[mtr_letsplay:start|Let's Play Server]], 
+
+===== History =====
+
+  * **9 August, 2022**: Station opened for [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+
+===== Layout =====
+
+<WRAP left>
+
+| **C** | **Concourse** | Exit A/B |
+| **P** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: | Platform **1** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+
+</WRAP>

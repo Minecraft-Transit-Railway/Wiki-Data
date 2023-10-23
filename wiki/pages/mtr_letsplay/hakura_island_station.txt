@@ -1,0 +1,62 @@
+====== Hakura Island Station ======
+
+<WRAP 400px right>
+
+|   @#89b239:  **Hakura Island**   ||
+| @#0fbfe4: ||
+^   **Overview**   ^^
+| **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| ::: | [[mtr_letsplay:wr_bus_services|WR Bus Services]] |
+| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
+| **Platforms** | 2 |
+| **Tracks** | 2 |
+| **Coordinates** | (-2506, 1088) |
+^   **Translations**   ^^
+| **Traditional** | 遥島 |
+| **Simplified** | 遥岛 |
+| **Cantonese Yale** | yìuhdóu |
+^   **Colors**   ^^
+| @#ffffff:  | White |
+| @pink:  | Pink |
+| @brown:  | Brown |
+^   **Station**   ^^
+| **Type** | Overground |
+| **Floors** | 2 |
+| **Platform Floors** | 1 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | HAI |
+| **Opened** | Unknown August, 2022 |
+| **Electrification** | 750V third rail DC |
+
+| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+| ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ⇅ | ... |
+| ⇅ | [[mtr_letsplay:birch_hill_station|Birch Hill]] |
+| ◉ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
+| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+
+</WRAP>
+
+**Haruka Island Station** (//Chinese: 遥島站//) is a station of [[/WR_SW_Plains_Line|WR SW Plains Line]].
+
+===== History =====
+
+  * **Unknown August, 2022**: Station opened for [[/WR_SW_Plains_Line|WR SW Plains Line]].
+
+===== Design =====
+According to [[mtr_community:Navi_LX9702|Navi]], the station's design is based on [[https://zeldapedia.wiki/wiki/Koholint_Island|Koholint Island]], resulting white-pink walls resembling the Wind fish egg's appearance, and beach-like floors.
+
+===== Layout =====
+
+<WRAP left>
+
+| **C** | **Concourse** | Exit A/B |
+| **P** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: |   Side Platform   |
+| ::: | Platform **1** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
+| ::: | Platform **2** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+| ::: |   Side Platform   |
+
+</WRAP>

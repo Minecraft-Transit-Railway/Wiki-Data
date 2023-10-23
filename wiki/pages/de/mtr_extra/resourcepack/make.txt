@@ -1,0 +1,126 @@
+====== Das erstellen von einem RP pack ======
+
+In dieser Anleitung erfahren Sie, wie Sie Ihre Dateistruktur für die Erstellung eines Ressourcenpakets einrichten.
+
+erforderliche system: Windows 10 21H1 oder höher.
+
+<WRAP center round important 90%>
+
+**Es wird empfohlen, sich Jonathans Tutorial-Video zu diesem Thema anzusehen: [[https://www.youtube.com/watch?v=QH1O-y6kPSk]]**
+
+</WRAP>
+
+===== Guide =====
+
+  - Gehen Sie zu Ihrem //.minecraft// folder. {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}} 
+  - Dann finden sie den //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
+  - Erstellen Sie einen Ordner mit einem gewünschten Namen (z.B.: Mein M - zug) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+  - Erstellen Sie einen neuen Ordner innerhalb des vorhandenen Ordners mit dem ''assets'' Namen.
+  - Laden Sie eine pack.png in Ihren Ordner hoch. Dieses Bild wird im Ressourcenpaket-Auswahlbildschirm angezeigt und sollte 128 x 128 groß sein.
+  - Laden Sie diese Vorlage herunter und speichern Sie sie in Ihrem Resourcepack-Ordner ab:
+
+<code json pack.mcmeta>
+{
+    "pack": {
+        "description": "put your pack description here",
+        "pack_format": 9,
+    }
+}
+</code>
+
+<WRAP center round info 60%>
+
+Das Paketformat gibt an, für welche Version von Minecraft das Paket bestimmt ist. Wenn Sie nur MTR-Modelle oder Texturen hinzufügen, ist dies nicht wichtig.
+
+</WRAP>
+
+Erstellen Sie dann einen neuen Ordner mit dem Namen MTR im Assets-Ordner. Erstellen Sie eine Textdatei im Ordner mit dem Namen mtr_custom_resources.json
+
+Kopieren Sie einige Werte, fügen Sie sie ein und bearbeiten Sie sie. Der Hauptcode ist hier:
+
+für einen Zug:
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "My Custom Train Name",
+			"color": "#66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+für mehrere Züge: (hier für 2 Züge)
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		},
+		
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+<WRAP center round tip 100%>
+
+Weitere Hilfe finden Sie auch im MTR Github Wiki. [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
+
+</WRAP>
+
+<WRAP center round box 60%>
+
+Json-Erklärung:
+
+    „name“: Der Name, den MTR in der Zugauswahl anzeigt.*
+
+   „Farbe“: Die Farbe, die MTR in der Zugauswahl anzeigt.
+
+   „base_train_type“: Der Typ des neu texturierten Zuges*
+
+   „texture_id“: Die benutzerdefinierte Textur, die angezeigt wird, wenn der Zug erzeugt wurde.*
+
+*erforderlich{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?200&nolink }}
+
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?200&nolink }}
+
+</WRAP>
+
+Wie bearbeite ich die Texturen?
+
+  - Laden Sie Paint 3D herunter [Weil es Transparenz unterstützt]
+  - gehen sie zu [[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/master/resources/common/normal/assets/mtr/textures/entity]] und laden Sie die gewünschte Zugtextur herunter
+  - Öffnen Sie Paint 3D und wählen Sie Öffnen
+  - Gehen Sie zu Ihrem Ordner, in dem Sie die Textur gespeichert haben
+  - Beginnen Sie die Bearbeitung.
+  - Nach dem Malen lege die Texturen in deinen Bildordner im Resource-Pack
+  - Und sie sind fertig!
+
+<WRAP center round box 60%>
+
+Und schon sind Sie mit den Grundlagen fertig! Sie können jetzt das Beispiel-Ressourcenpaket herunterladen!
+
+<WRAP center round download 60%>
+
+[[https://bit.ly/MtrExampleLink]]
+
+</WRAP>
+
+</WRAP>
+

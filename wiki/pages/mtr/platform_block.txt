@@ -1,0 +1,45 @@
+====== Platform Block ======
+
+The platform block marks the edge of the platform. There are four types of platform blocks available:
+
+  * Hong Kong
+  * North America (Type 1)
+  * North America (Type 2)
+  * United Kingdom
+
+For each type, there is an indented variant which leaves a small space below the platform edge. 
+
+===== Obtaining =====
+
+==== Breaking ====
+
+Platform blocks require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness|hardness]] of 2.
+
+==== Crafting ====
+<markdown>
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Platform Block (Hong Kong) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye) + [White Dye](https://minecraft.gamepedia.com/White_Dye)<br><br>_Shapeless Recipe_ | ![Hong Kong Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_1.png) |
+| Platform Block (North America, Type 1) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye)<br><br>_Shapeless Recipe_ | ![North America Type 2 Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_2.png) |
+| Platform Block (North America, Type 2) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Black Dye](https://minecraft.gamepedia.com/Black_Dye)<br><br>_Shapeless Recipe_ | ![North America Type 2 Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_3.png) |
+| Platform Block (United Kingdom) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Black Dye](https://minecraft.gamepedia.com/Black_Dye) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye) + [White Dye](https://minecraft.gamepedia.com/White_Dye)<br><br>_Shapeless Recipe_ | ![United Kingdom Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_4.png) |
+</markdown>
+
+===== Usage =====
+
+The platform block should be placed next to or one block away from a rail. It will orient itself automatically; the white strip will face towards air while the yellow line will face towards other solid blocks.
+
+When [[/trains|trains]] arrive at a platform, the platform blocks by the rail will allow the train to open its doors.
+
+<markdown>
+> <img alt="Platform Next To Rail" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/platform-next-to-rail.png" width=512/><br>Platform blocks should be next to or one block away from rails.
+
+> <img alt="Train Doors Open" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/train-doors-open.png" width=512/><br>When a platform block is next to or one block away from platform rails, incoming trains will open its doors.
+</markdown>
+When [[/platform_screen_doors|platform screen doors]] or [[/automatic_platform_gates|automatic platform gates]] are placed on top of platform blocks, the texture of the platform blocks will change to a blueish or yellowish marble. Queueing arrows will also appear.
+<markdown>
+> <img alt="Platform Screen Doors on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/psd-on-platform.png" width=512/><br>Platform screen doors placed on top of platform blocks will change the texture of the platform block to a blueish marble.
+
+> <img alt="Automatic Platform Gates on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/apg-on-platform.png" width=512/><br>Automatic platform gates placed on top of platform blocks will change the texture of the platform block to a yellowish marble.
+
+</markdown>

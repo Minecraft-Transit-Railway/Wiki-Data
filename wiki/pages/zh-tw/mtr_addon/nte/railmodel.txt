@@ -1,0 +1,71 @@
+<markdown>
+# 軌道模型
+
+NTE 允許您通過資源包添加更多的軌道模型。
+
+## 使用
+
+手持刷子物品，指向軌道節點，並通過更換視角選中想要編輯的軌道。接下來，按住 Shift 同時右擊軌道節點，即可打開選擇模型的界面。選擇您偏好的模型之後，這個模型的選擇會被記錄到這個刷子物品的 NBT 數據中，您可接下來直接點擊其他軌道節點來批量應用同一設置。
+
+對於方向有左右之分的模型，在雙向軌道上將沿剛剛被刷子點擊了的節點到另一個節點的順序放置（因此可通過用刷子點擊兩端來設置方向）；而單向軌道上刷子點擊位置並無影響，只可沿行駛方向放置。
+
+
+## 製作新軌道
+
+您可以通過在 `assets/mtrsteamloco/rails` 文件夾內添加 JSON 文件來導入模型。其寫法大致如下：
+
+```json
+{
+    "name": "Testing Yellow Stuff",
+    "model": "mtrsteamloco:rails/cube_yellow.obj",
+    "repeatInterval": 1.0
+}
+```
+
+在上述例子裡，`assets/mtrsteamloco/rails/cube_yellow.json` 文件裡有著以上內容，同時 `assets/mtrsteamloco/rails/cube_yellow.obj` 文件是這個軌道的 OBJ 模型。
+
+如上是一個 JSON 文件說明一個軌道的寫法。也可以在一個 JSON 文件內說明多個軌道。
+
+```json
+{
+    "key1": {
+        "name": "Name1",
+        "model": "mtrsteamloco:rails/model1.obj"
+    },
+    "key2": {
+        "name": "Name2",
+        "model": "mtrsteamloco:rails/model2.obj",
+        "repeatInterval": 1.0
+    }
+}
+```
+
+其中：
+
+- 在一個 JSON 文件內說明多個軌道的寫法中，`key1`、`key2` 等是內部記錄這個模型時所使用的名稱，可任意選取，不會顯示給玩家，但每個必須不同。在一個 JSON 文件說明一個模型的寫法中，會把 JSON 文件的文件名用作這一用途。
+
+- `name` 是這個模型顯示在選擇列表裡的名稱。
+
+- `model` 是這個模型所使用的 OBJ 文件的位置。
+
+  需要按照 Minecraft 的 “資源位置” 寫法轉寫，即 `assets/mtrsteamloco/rails/teapot.obj` 需寫為 `mtrsteamloco:rails/teapot.obj`。
+
+  設定貼圖、渲染批次等的方法與 [OBJ 模型相關適配](objschem) 中相同。
+  
+  您使用的 OBJ 文件應當符合：相對於軌道的方向，X 軸正方向向右，Y 軸正方向向上，Z 軸正方向向後。每個單位長度為 1m。
+
+  另外也可以使用 BVE CSV 文件，此時 Z 軸正方向向前。
+
+  NTE 在加載模型時會自動把模型繞 (1,1,1) 方向旋轉 2°，以減少軌道之間的深度衝突。
+
+以上是必填項。以下是可選項：
+
+- `repeatInterval` 設定在應用到軌道上時兩個相鄰模型之間的間距，單位是 m，默認為 0.5。
+
+由於 NTE 只是將模型進行移動旋轉後放置，而不進行拉伸，因此您的模型中的軌道部分應當比 repeatInterval 略微長出一點，以便在彎道上外側的軌道不至於斷開。另外，不太建議將 repeatInterval 設為 1 以上的值，因為軌道的長度不一定是它的整倍數，這可能致使模型間距不恰當（……事實上，由於圓周率的參與，它也不一定是整數，所以 1/0.5 的設置也會略受到影響）。
+
+- `yOffset` 設定軌道的垂直偏移量。這直接平移模型的原點(旋轉中心)，因此或許對於製作懸掛式單軌軌道效果更好。默認為 0。
+
+請注意大括號、中括號、雙引號與逗號的使用。同時，所有文件名必須為全英文小寫。
+
+</markdown>

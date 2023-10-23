@@ -1,0 +1,43 @@
+等待修復  **此頁面沒有被翻譯完全。請幫助翻譯本頁。**\\ //(當全文翻譯完時請移除這個段落。)//
+
+====== 你知道Minecraft Transit Railway模組有哪些擴展模組嗎？ ======
+<WRAP center round info 60%>
+
+MTR現有4個可用的擴展模組。
+
+</WRAP>
+
+===== MSD (又名: Station Deco. Addon) =====
+一個裝飾性Mod，添加了新的標識、PIDS和接觸網。
+
+圖冊:
+{{ :mtr_addon:screenshot_2023-05-18_115315.png?nolink&400 |}}
+{{ :mtr_addon:screenshot_2023-05-18_115049.png?nolink&400 |}}
+{{ :mtr_addon:screenshot_2023-05-18_115222.png?nolink&400 |}}
+
+<WRAP center round download 90%>
+下載:
+
+https://modrinth.com/mod/station-decoration
+
+
+</WRAP>
+
+===== NTE (又名: Nemo´s transit expansion) =====
+
+<WRAP center round download 90%>
+[[mtr_addon:nte:start|Nemo's Transit Expansion]]
+</WRAP>
+
+{{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
+
+===== Joban (又名: Joban Client Mod) =====
+Joban是一個方塊類模組，由Joban Creators製作。添加了各種與線路有關的方塊，例如閘機、圓形隧道、港鐵樓梯、車站設施等。
+
+Joban此前叫"Joestu Client Mod"，並不是由Joban Creators所有。後來分支為了Joban。
+
+
+===== RCC (又名: Reality City Construction) =====
+Reality City Construction是一個由Yaoxiansen和MSnj製作的模組，名稱是Yaoxiansen給出。經過了一年的製作歷程，模組已基本完善。
+
+模組添加了有利用線路和城建的方塊，添加了盲道、站臺方塊等。未來還會添加閘機、安檢機等國內地鐵設施。

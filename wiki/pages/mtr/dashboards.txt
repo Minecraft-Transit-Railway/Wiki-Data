@@ -1,0 +1,74 @@
+<markdown>
+
+# Dashboards - Needs Updating
+
+The Railway Dashboard and Boat Dashboard is required to set up stations and routes in the world.
+
+# Obtaining
+
+## Crafting
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Railway Dashboard | [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Redstone Dust](https://minecraft.gamepedia.com/Redstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Railway Dashboard Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_dashboard.png) |
+| Boat Dashboard | [Planks](https://minecraft.gamepedia.com/Planks) + [Redstone Dust](https://minecraft.gamepedia.com/Redstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Boat Dashboard Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/boat_dashboard.png) |
+
+# Usage
+
+Dashboards will be opened when right clicked.
+
+## Tabs
+
+The Railway and Boat Dashboard has three tabs used to manage the railway.
+
+| Tab | Functionality |
+| --- | --- |
+| Stations | <li>Create a station with the `Add Station` button<li>Edit a station's name, colour, or area<li>Delete a station<li>List platforms in a station and edit the dwell time and platform number for each listed platform |
+| Routes | <li>Create a route with the `Add Routes` button<li>Edit a route's name or colour<li>Add a platform to an existing route<li>Remove a platform from an existing route<li>Reorder platforms on a route<li>Delete a route |
+| Depots | <li>Create a depot with the `Add Depot` button<li>Edit a depot's name, colour, or area<li>Delete a depot<li>List sidings in a depot and edit the siding number or train type for each listed siding |
+
+## Station / Route / Depot Name Field
+
+When `Add Station`, `Add Route`, or `Add Depot` is clicked or when a station, route, or siding is being edited, the "name" field text box will appear at the bottom. Use the `|` character to separate different languages, for example `第一城|City One`.
+
+If left blank, the station or route will default to "Untitled".
+
+## Station / Route / Depot Colour Field
+
+When `Add Station` or `Add Route`, or `Add Depot` is clicked or when a station, route, or siding is being edited, the "colour" field text box will appear at the bottom, next to the "name" field. This text box accepts a RGB six-character hex code, composed of numbers or the letters A-F. Use a [colour picker](https://www.w3schools.com/colors/colors_picker.asp) to easily generate a hex code.
+
+If left blank, a random colour will be chosen.
+
+## Grouping Routes
+
+Most of the time, a train line will have trains running in more than one direction. For example, a single line through a city will probably have trains running both outbound and inbound. In the game, an inbound and outbound route will have to be defined, creating two routes for a single line! Therefore, it is important to be able to group routes together.
+
+When two or more routes share the same exact colour (same RGB hex code), they will be grouped together. On [railway signs](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) and [route signs](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Route-Sign), the routes will be grouped into only one line name.
+
+Two pipe characters, `||`, are used to add notes to the end of each route. The notes will not be shown in any signs; they will only appear in the dashboard.
+
+It is recommended to have the same line name (before the `||`) for routes that need to be grouped together. For example, two routes in the same group could be named `東涌綫|Tung Chung Line||Westbound` and `東涌綫|Tung Chung Line||Eastbound`. If the line names are different, a random name will be chosen to be used on signs.
+
+## Using the Map
+
+When either the `Stations` or `Routes` tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
+
+| Field | Description |
+| --- | --- |
+| Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
+| Dwell Time | <li>This determines how long a train should stop at the platform.<li>Generally, the value should be set to be low enough so that the next train would not arrive before the current train departs. |
+
+When the `Depots` tab is selected and while not editing a depot, a siding on the map can be clicked on to bring up a siding configuration screen. The following properties for a siding can then be edited:
+
+| Field | Description |
+| --- | --- |
+| Siding Number | <li>Trains in a depot will be deployed according to the siding number.<li>If two sidings have the same number, a random train between the sidings will be deployed. |
+| Train Type | <li>This determines what train type will be deployed from the siding. (Note that the siding must be long enough for the selected train type to spawn.) |
+
+Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
+
+# Gallery
+
+> <img alt="Name Colour Fields" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/dashboard/name-colour-fields.png" width=512/><br>The `|` character separates the different languages in the station or route name.<br>The colour field has six characters, composed of numbers or the letters A-F.
+
+</markdown>

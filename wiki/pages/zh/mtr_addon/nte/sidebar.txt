@@ -1,0 +1,2 @@
+<nspages -simpleList -h1 -textPages="" -exclude>
+~~NOCACHE~~

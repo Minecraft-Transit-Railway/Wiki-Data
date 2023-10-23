@@ -1,0 +1,32 @@
+====== West Lake Area ======
+
+**West Lake Area** (Chinese: //西湖區//) is an area in the [[/start|Let's Play Server]], southwest of [[/Spawn|Spawn]] Area where the lakes are. East is [[/southern_snowland|Southern Snowland]], south is [[/hamura|Hamura]] Area, west is [[/ishikari_and_lake_city_area|Ishikari and Lake City]] Area, north is [[/jinnapak_area|Jinnapak]] Area and [[/icon_pier_area|Icon Pier]] Area. More than half of the area is covered by waterbody, and most of the lands and stations inside the area are developed by [[/west_lake_transport_authority|WLT]]/[[mtr_community:BDark000|BDark]]. 
+
+===== Characteristics =====
+
+As given by its name, **West Lake Area** has majority of area covered by different types of waterbody, mainly lake, river and stream. Bays, peninsula and islands are common in the area.
+
+Land is relatively scarse in West Lake Area than in other most areas. Flatland is further limited as south of Kwong Chow residence and Tai Po residence is hilly. Railways and bus services are highly subject to the tracks and roads alignments available. 
+
+Most lands outside residences are covered by forests. They are mostly forested highlands, with some mix of temperate highlands near Kwong Chow, birch forest near Birch Hill and shield biome northeast of Chung Kwo Kok. Sai Mo Island is one of the few moonlight grove areas. Decent area of steppe or plains near residences can also be found.  
+
+===== History =====
+
+**West Lake Area** is second last area that builders start to develop((The last one is [[/museum_station|Museum Station]] Area)). Due to the large portion of waterbody in the area, development is more difficult than other areas near Spawn Area, and Spawn Area itself.
+
+At the same time, because of the lakes providing abundant water resources, and the shores providing land good for farming, there are a couple of residences in the area. BDark saw the opportunity of working on old towns, hence founded WLT and developed there. 
+
+The first project done is [[/kwong_chow_grand_canal_and_heritage|Kwong Chow Grand Canal and Heritage]]. Houses that were prone to flooding were resided to a new area north of original town, the small stream was expanded into the now Grand Canal. The excess mud in the stream was digged out and given to resided villagers for the aid of farming in less fertile new area. 
+
+===== Transport Services =====
+
+  * [[/wlt_line_1|WLT Line 1 Phase 1]]((Tracks and stations in West Lake Area are now under renovation))
+  * [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]((Only special shuttle service between [[/kwong_chow_station|Kwong Chow]] station and [[/sai_mo_island_station|Sai Mo Island]] station is open as the replacement of WLT Line 1 Phase 1 under renovation))
+  * [[/wr_sw_plains_line|WR SW Plains Line]]
+  * [[/bus_route_4s|SLCBus Route 4S]]
+
+===== Sightseeing Spots =====
+
+  * [[/kwong_chow_grand_canal_and_heritage|Kwong Chow Grand Canal and Heritage]]
+  * [[/bdark_kwong_chow_castle|BDark Kwong Chow Castle]]
+  * [[/sai_mo_island|Sai Mo Island]]

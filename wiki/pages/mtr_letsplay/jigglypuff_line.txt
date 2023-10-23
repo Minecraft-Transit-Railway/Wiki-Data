@@ -1,0 +1,44 @@
+====== Jigglypuff Line ======
+
+<WRAP 400px right>
+
+|  @#ffa79e:  **(S13)Jigglypuff Line**  ||
+| {{ :mtr_letsplay:line_s13.png?200 |}} ||
+|  @#ffa79e:  **Overview**  ||
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Area Served** | N/A |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]]|
+| |[[wp>Stadtbahn|Stadtbahn]]|
+| **Line Number** | S13 |
+| **Number of stations** | 2(Excluding SLRT stations) |
+| **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
+| **Colour on map** | Smoke Pink (#BB492B) |
+|  @#ffa79e:  **Service & Operation**  ||
+| **Began passenger operation** | September 2023 |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 4 vehicles per trainset |
+|  @#ffa79e:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#1500_V_DC|1500V DC Overhead systems]] |
+| **Maximum speed** | 90 km/h |
+| **Top operational speed** | 80 km/h |
+|  @#ffa79e:  **Construction Specifications**  ||
+| **Distance between nodes** | 3 blocks |
+
+|  @#b0c4de:  **Jigglypuff Line**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] |胖丁綫 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 胖丁线 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Pàng dīng|
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Pàng dīng|
+
+</WRAP>
+
+The Jigglypuff Line ([[wp>Chinese_language|Chinese]]: 胖丁綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
+
+
+
+

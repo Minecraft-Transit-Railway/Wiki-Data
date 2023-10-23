@@ -1,0 +1,86 @@
+====== Future Line 2 (Kwong Chow - North Coast Line) ======
+
+<WRAP right>
+
+^  Line 2 (Kwong Chow - North Coast Line)\\ 二號 (光州 - 北海岸) 綫  |^
+|  @#FFDA33:  ||
+|  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
+^  **Overview**  |^
+| **Status** | Special shuttle\\ //(Kwong Chow, Sai Mo Island)//\\ Under construction\\  //(Sha Tsui - West Lake)//\\ //(Sai Mo Island - Spawn)//\\ Awaiting integration\\ //(Spawn - Makki Memorial Village)//|
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/new_harmony_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
+| **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
+| **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
+| **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|WLT Line 1 Phase 1]]</color> |
+| ::: | @#94D1D1:<color black>[[/wlt_line_3|Future Line 3 (Cyan Gray Line)]]</color> |
+| ::: | @#000000:<color white>Hana-Koshi Line</color> |
+| ::: | @#000000:<color white>Elizabeth Line</color> |
+| **Stations** | 2 //(3 work in progress)//|
+^  Service  |^
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Service Hours** | 20:48 - next day 19:15 \\ //(UTC)//|
+| **Frequency** | Every 3 - 7 mins |
+| **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
+| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)|
+^  History  |^
+| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)// |
+^  Technical  |^
+| **Line Length** | TBC |
+| **Number of**\\ **Tracks** | Double Track |
+| **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+^  Route Map  |^
+|  //(insert route map here)//  ||
+
+</WRAP>
+
+**Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/new_harmony_railways|Qingli Railways]] (QLR) and [[/cyanex_rapid_transit|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 and QLR North Coast Line. 
+
+The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the red colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>magenta</color> colour of WLT Line 1 Phase 1((Magenta mixing with yellow forms red)).
+
+===== History =====
+
+The line is first known as the branch of earliest WLT railway services plan, connecting up [[/Spawn|Spawn]] area with Kwong Chow, via the east of West Lake. It is separated from Line 1 and forms Line 2.
+
+It was originally planned to connect [[/spawn_grand_circular|Spawn Grand Circular]] and [[/weiss_lrt|Weiss LRT]] at [[/red_leaves_station|Red Leaves]] station. However, it changed when [[mtr_community:kettlekettle|Kettle]] rebuilt Spawn and Coast Railway to form part of the [[/auckland_transport|AT Metro]] network. Since the number of connections to Spawn station has increased, and [[/spawn_-_cyan_heights_metropolis|Spawn-Cyan Height Metropolis]] started developing, [[/west_lake_transport_authority|WLT]] decided to let [[mtr_community:kettlekettle|Kettle]] help to build 2 more platforms at underground level((Later known as Zone A)) for Line 2 to terminate. The proposed route as well as location of [[/sai_mo_island_station|Sai Mo Island]] station and [[/see_tsuen_station|See Tsuen]] station was adjusted accordingly, forming the now zig-zag lining. 
+
+The idea of merging WLT Line 2 and QLR North Coast Line first comes up when QLR offers to through-run North Coast Line trains to WLT Line 2. At that time, AT Metro 2209 service is using only one platform for terminating and outbound trains, causing confusion to passengers and trains occasionally need to wait outside the station, in the shared sections with North Coast Line, further blocking North Coast Line trains to enter the station even though the platform is available. Merging instead of through-running saves the platform for turning back North Coast Line trains, giving it to AT Metro 2209 service terminating trains. Moreover, Line 2 and North Coast Line use trains with the same length and door spacing, differences are number of cars and number of doors each car, slight variation in top speed, and turn radius as well as largest inclination requirements. They can be mitigated with only slight changes in track alignmemts and rolling stocks of existing North Coast Line, and are soon agreed. After confirmed to merge, WLT Line 2 drops the company name WLT in its naming and adopt a Shenzhen Metro style naming **Line 2 (Kwong Chow - North Coast Line)**, with reference to the new MRT Line Thomson-East Coast Line in Singapore. It is expected the other two rapid transit lines built and operated by WLT, Line 1 and Line 3, will follow a similar naming style. 
+
+A branch through-running to Cyanex Rapid Transit's Sightseeing Express Line Phase 3 (now Cyan Twilight Line) is proposed later as to utilize the remaining capacity between Kwong Chow and Spawn, since the section serves as an important connection to Hana-Koshi Line and developments in West Lake Area. The branch also makes travelling between West Lake Area, and Bayside, Ho's Bridge and Chou Wai more convenient. Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues. 
+
+Before the line is fully ready, a  special shuttle service already started between Sai Mo Island and Kwong Chow, not stopping any stations in between, for promoting Kwong Chow to the visitors on Hana-Koshi Line open day 24 June, 2023. After the open day, the line is closed and continues construction, until when Line 1 is undergoing renovation, Line 2 along with the new bus route 4S connecting Sai Mo Island to Spawn-Cyan Height Metropolis((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)) serves as the replacement for transport service to Kwong Chow.  
+
+==== Timeline ====
+
+  * 7 August, 2023: Revised proposal published
+  * 26 November, 2023: Proposed merge of WLT Line 2 and QLR North Coast Line
+  * 15 March, 2023: Proposed branch through-running service with Cyan Twilight Line and Bond Line
+  * 24 June, 2023: Started special shuttle service
+  * 25 June, 2023: Ended special shuttle service
+  * 10 July, 2023: Started again special shuttle service
+
+===== Rolling Stocks =====
+
+Similar to WLT Line 1, since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 
+
+Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, cyanex livery C-Train is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB traction instead of CRRC Times tpower-tn3 traction or Alstom Optonix traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
+
+===== Operations =====
+
+Trains are all serving from Kwong Chow to Sai Mo Island without intermediate stops. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with blue colour and brown colour respectively. 
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#FFDA33:  ||
+|  **Time Session**  \\  (in UTC)  |  **Line 2 (Kwong Chow - North Coast Line)**  |
+|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 3 - 5  |
+|Off Peak\\ (3 am - 12 pm) \\ (3 pm - 7 pm)| ::: |
+| (9 pm - 3 am) |  5 - 7  |
+
+</WRAP>
+
+===== Future Plans =====
+
+ 
+
+===== Stations =====

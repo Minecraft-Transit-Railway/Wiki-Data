@@ -1,0 +1,58 @@
+<markdown>
+
+# Railway Sign
+
+Railway signs are decorative items that inform passengers where things are in the railway. They can help people get to platforms, exits, escalators, and more. The signs come in different lengths and have a [light level](https://minecraft.gamepedia.com/Light) of 15.
+
+# Obtaining
+
+## Breaking
+
+Railway signs require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
+
+## Crafting
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe | Notes |
+| --- | --- | --- | --- |
+| Railway Sign<br>_Length: 2_<br>_Orientation: Even_ | [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Block of Iron](https://minecraft.gamepedia.com/Block_of_Iron) + [Sign](https://minecraft.gamepedia.com/Sign)<br><br>_Shaped Recipe_ | ![Railway Sign 2 Even Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_2_even.png) | This is the base recipe for crafting any of the railway signs. |
+| Railway Sign<br>_Upgrading Recipe_ | Railway Sign + [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Sign](https://minecraft.gamepedia.com/Sign)<br><br>_Shapeless Recipe_ | ![Railway Sign Upgrading Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_6_even.png) | To increase the length of the sign by one, add an iron ingot and a sign to it. This only works for signs with an even orientation. |
+| Railway Sign<br>_Even to Odd Conversion Recipe_ | Railway Sign<br>_Orientation: Even_<br><br>_Shapeless Recipe_ | ![Railway Sign Even to Odd Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_5_odd.png) | A railway sign with an even orientation can be changed to a railway sign with an odd orientation of the same length. |
+| Railway Sign<br>_Odd to Even Conversion Recipe_ | Railway Sign<br>_Orientation: Odd_<br><br>_Shapeless Recipe_ | ![Railway Sign Odd to Even Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_4_even.png) | A railway sign with an odd orientation can be changed to a railway sign with an even orientation of the same length. |
+
+# Properties
+
+## Orientation
+
+Each railway sign has either an even or odd orientation. The orientation determines whether the whole sign will take up an even or odd amount of spaces in your world. This is useful for centring a sign over a certain number of blocks.
+
+## Length
+
+The length of the sign is not related to how many blocks it takes up in the world. It simply indicates how many units or icons the sign can support.
+
+# Usage
+
+When first placed in the world, the railway sign is blank and has a metallic texture. Signs can have one, both, or neither side configured.
+
+The sign be edited by right clicking the front or back face with a brush. The face being edited depends on which face has been right clicked. The railway sign configuration screen will open.
+
+The `Edit` buttons on the top row is used for editing each unit of the sign. For example, if the sign has a length of 4, there will be four edit buttons at the top. When one of the `Edit` buttons is clicked, different icons will show up below. Clicking on one of the icons will add it to the selected unit.
+
+> <img alt="Railway Sign Configuration Screen" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/gui.png" width=512/><br>The railway configuration screen for a sign with a length of 5
+
+A lot of the icons include text; these buttons appear longer in the selection menu.
+
+There can be only one piece of text for each sign. For example, when adding text that flows to the right (left justified), all existing icons to the right of the new text will get removed. Similarly, if an icon is added to the right of the existing text, the text will get removed. The same principle applies for text flowing to the left (right justified).
+
+The "Platform" and "Route" buttons have special functions. They can configured to display platform number(s) or route(s) in the station. Click to select available platforms or routes.
+
+The last button, `Reset Sign`, clears the unit being currently edited. If all units are cleared, the railway sign will have a metallic texture.
+
+# Gallery
+
+> <img alt="Centown 1" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-1.png" width=512/><br>Examples of railway signs in the station
+
+> <img alt="Centown 2" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-2.png" width=512/><br>A railway sign pointing towards two platforms
+
+> <img alt="Centown 3" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-3.png" width=512/><br>A railway sign pointing towards two routes
+
+</markdown>
