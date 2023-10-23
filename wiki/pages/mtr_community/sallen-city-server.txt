@@ -129,7 +129,7 @@ Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMA
 |  @#EFEEF0:  **Lilypad Rail**  ||
 | {{ lpr_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:sleepy_sapph]] |
+| **Owner** | [[mtr_community:sleepy_sapph|sleepy_sapph]] |
 | **Transit type** | American/Asian |
 | **Number of operating lines** | 2 |
 | **Real-Life Inspiration** | Fictional |
@@ -140,14 +140,21 @@ Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMA
 
 //Not to be confused with [[https://wiki.minecrafttransitrailway.com/mtr_letsplay:lilypad_rail|Lilypad Rail (LPS)]] //
 
-Description to be added by lily
+Lilypad Rail's Sallen Division opened on 5 September 2023, just under a year after the founding Let's Play division opened. It consists of 2 lines
+
+  * Line 1 runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton
+  * Line 2 runs from Myrtle Kennedy to Diamond Creek via Lancet.
+
+Currently, Lilypad Rail also operates the SallenRail East End Line, which runs from Old Westfield Terminal, then east through the median of the Westfield Highway before dipping underground, running through Edgeword South and East Holyoke before merging with existing SallenRail tracks north of Great Plains. Services operate through SallenRail tracks as far as Newton Terminal, and is planned to extend to Sallen International Airport.
+
+The full Lilypad Rail buildout will see four lines and a light rail network. Line 1 will extend west from Worth Street to Orchard Park via Langstone. Line 2 will continue extending north until reaching north of the Westfield Highway, where it will turn east until Woodhaven
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen Metropolitan Transit**  ||
 | {{ smt_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[starjunction]], SMT 7-10 formerly by [[mtr_community:agentdevv|agentdevv]] |
+| **Owner** | [[starjunction]], SMT 7-10 formerly by [[mtr_community:apache|apache]] |
 | **Transit type** | Other/American |
 | **Number of operating lines** | 10 |
 | **Real-Life Inspiration** | [[wp>MTR|Hong Kong MTR]] (loosely) |
