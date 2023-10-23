@@ -142,12 +142,12 @@ Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMA
 
 Lilypad Rail's Sallen Division opened on 5 September 2023, just under a year after the founding Let's Play division opened. It consists of 2 lines
 
-  * Line 1 runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton
-  * Line 2 runs from Myrtle Kennedy to Diamond Creek via Lancet.
+  * <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton
+  * <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color> runs from Myrtle Kennedy to Diamond Creek via Lancet.
 
-Currently, Lilypad Rail also operates the SallenRail East End Line, which runs from Old Westfield Terminal, then east through the median of the Westfield Highway before dipping underground, running through Edgeword South and East Holyoke before merging with existing SallenRail tracks north of Great Plains. Services operate through SallenRail tracks as far as Newton Terminal, and is planned to extend to Sallen International Airport.
+Currently, Lilypad Rail also operates the <color white/#FF5DD8><html>&nbspSallenRail East End Line&nbsp</html></color>, which runs from Old Westfield Terminal, then east through the median of the Westfield Highway before dipping underground, running through Edgeword South and East Holyoke before merging with existing SallenRail tracks north of Great Plains. Services operate through SallenRail tracks as far as Newton Terminal, and is planned to extend to Sallen International Airport.
 
-The full Lilypad Rail buildout will see four lines and a light rail network. Line 1 will extend west from Worth Street to Orchard Park via Langstone. Line 2 will continue extending north until reaching Line 3 north of the Westfield Highway. Line 3 will start at Woodhaven, running north of the Westfield Highway until reaching Line 2, it will then dip south below the highway to interchange with the Violet Line and Bayside Line at a station south of the airport. It will continue again to meet the Bayside Line at Anemone station, before turning south through Jade Grove and Langstone until meeting the SCT Moscato lines at Yorktown. Line 4 will run east from Jade Grove, through Palisades and Holyoke, before turning south to meet SCT Calgary lines at Park Slope. Line 4B will operate as a stub of Line 4, running from Holyoke to meet the PR East Sallen Line at Creighton. The Orchard Park Light Rail will radiate from the Line 1 station at Orchard Park. The plan includes branches to meet Line 2 at multiple points, and to meet SMT 7 at Freeport.
+The full Lilypad Rail buildout will see four lines and a light rail network. <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> will extend west from Worth Street to Orchard Park via Langstone. <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color> will continue extending north through Scarsdale until reaching <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> north of the Westfield Highway. <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> will start at Woodhaven, running north of the Westfield Highway until reaching <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color>, it will then dip south below the highway to interchange with the Violet Line and Bayside Line at a station south of the airport. It will continue again to meet the Bayside Line at Anemone station, before turning south through Jade Grove and Langstone until meeting the SCT Moscato lines at Yorktown. <color white/#00916E><html>&nbspLine 4&nbsp</html></color> will run east from Jade Grove, through Palisades and Holyoke, before turning south to meet SCT Calgary lines at Park Slope. <color white/#53D1B3><html>&nbspLine 4B&nbsp</html></color> will operate as a stub of <color white/#00916E><html>&nbspLine 4&nbsp</html></color>, running from Holyoke to meet the PR East Sallen Line at Creighton. The <color white/#44344F><html>&nbspOrchard Park Light Rail&nbsp</html></color> will radiate from the <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> station at Orchard Park. The plan includes branches to meet <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> at multiple points, and to meet SMT 7 at Freeport.
 
 <WRAP right>
 
@@ -160,6 +160,7 @@ The full Lilypad Rail buildout will see four lines and a light rail network. Lin
 | **Real-Life Inspiration** | [[wp>MTR|Hong Kong MTR]] (loosely) |
 
 </WRAP>
+
 
 ===== Sallen Metro Transit =====
 
