@@ -1,2 +1,27 @@
 =====Lilac Light Rail Route 882=====
-**Lilac Light Rail Route 882** (Chinese: 麗蓮輕鐵882綫) is a [[lilac_light_rail]] route connecting Heung Fan Liu Airport South stop and Light Rail Depot stop via Jonathan’s Resort, and is jointly owned by [[lilypad_rail]] and Qingli Railways. 
+**Lilac Light Rail Route 882** (Chinese: **麗蓮輕鐵882綫**) is a [[lilac_light_rail]] route connecting Heung Fan Liu Airport South stop and Light Rail Depot stop via Jonathan’s Resort, and is jointly owned by [[lilypad_rail]] and Qingli Railways. 
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 882</font></html>\\ <html><font size = "4">麗蓮輕鐵882綫</font></html>  ^^
+|@#5000DF:||
+|  {{882_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Kallos\\ Oculus\\ Resort|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Airport South|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|9|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|7 November 2022, 1 year ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|Qingli Railways|
+</WRAP>
