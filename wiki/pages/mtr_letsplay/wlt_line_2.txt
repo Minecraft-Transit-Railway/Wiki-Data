@@ -66,7 +66,7 @@ Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car
 
 ===== Operations =====
 
-Trains are all serving from Kwong Chow to Sai Mo Island without intermediate stops. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with blue colour and brown colour respectively. 
+Trains are all serving from Kwong Chow to Sai Mo Island without intermediate stops. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
 
 <WRAP center>
 
