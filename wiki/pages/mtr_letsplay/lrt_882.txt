@@ -25,3 +25,37 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
 </WRAP>
+
+====History====
+On 19 September 2022, Qingli Railways proposed a light rail connection between Kallos and Jonathan’s Resort  via a transit hub, Five Points Transit Center (current Oculus Center). The route number was decided to be 882, where the first 8 represents Kallos area, and 82 is the ASCII code of R of Resort.
+
+On 7 November 2022, route 882 was fully operational from Light Rail Depot to Jonathan's Resort. The route stopped at the current Kallos Express platforms at Jonathan's Resort stop at that time. 
+
+In mid-November, Qingli Railways realized that it takes a very long time to travel from Kallos to Jonathan's Resort. As a result, Kallos Express was planned to replace route 882 for the connection between Kallos and Jonathan's Resort. However, it ended up that Kallos Express was extended to Jonathan's Resort on 18 December 2022, route 882 was also kept to serve placed between. A temporary stop is built for route 882 to stop until a suitable position is found
+
+On 14 December 2022, Five Points Transit Center has been renamed to Oculus Center due to the change of ownership.
+
+On 1 January 2023, platforms at Oculus Center were relocated to underground.
+
+On 4 February 2023, Jonathan's Resort Light Rail Terminal was completed. Route 882 platforms were relocated there. At the same time, Qingli Railways also proposed the extension of Route 882 to Heung Fan Liu Airport, such that the Tempest Light Rail system can connect to the rest of the Lilac Light Rail System.
+
+On 4 March 2023, the extension was completed. Route 882 was officially extended to Heung Fan Liu Airport.
+
+According to "Lilac Light Rail Reform Plan 2023", route 882 will once again terminate at Jonathan's Resort. The connection between Heung Fan Liu Airport and Jonathan’s Resort will be replaced by the extension of [[lrt_720|route 720]] and [[lrt_601|route 601]].
+
+====Stations====
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#5000DF:<color white>**Lilac Light Rail Route 882**</color>  ||||||
+|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 September 2022|
+|:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
+|  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |庫克山\\ Āoraki|Oculus|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||7 November 2022|
+|:::|:::|:::|  Āoraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
+|:::|Āoraki North\\ 庫克山北|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
+|:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kaijin-Kowloon Express Ferry  ||:::|
+|  @#C2BED6:<color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  [[lrt_633|{{633.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
+|:::|Blackland\\ 黑石地|Resort|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  [[lrt_633|{{633.png?40&direct}}]]  ||:::|
+|:::|Roundabout Lake\\ 環島湖|:::|  [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
+|:::|Jonathan's Resort\\ 裝奶粉渡假村|
