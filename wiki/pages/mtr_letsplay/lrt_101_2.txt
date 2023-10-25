@@ -52,4 +52,3 @@ According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when
 - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Yi Lok ⇄ Izu ⇄ Yi Lok
 \\ Route 101/102 can meet up with other light rail routes: 115, 801
 
-<html><p>test</p></html>
