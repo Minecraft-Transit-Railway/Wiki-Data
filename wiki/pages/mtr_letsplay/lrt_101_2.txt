@@ -37,6 +37,7 @@ According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when
 
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#4D4BEE/#4CEDD3:**Lilac Light Rail Route 101/102**  ||||||
 |  @#FEFCE5:\\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Yi Sin\\ 伊茜|Kallos|  [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
 |:::|Yi Lok\\ 伊樂|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
