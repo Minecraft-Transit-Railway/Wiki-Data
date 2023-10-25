@@ -10,7 +10,7 @@
 |**Transit type**|Light Rail Transit|
 |**System**|[[lilac_light_rail]]|
 |**Status**|Operational|
-|**Terminus**|Yi Lok|
+|**Terminus**|N/A|
 ^  Technical  ^^
 |**Character**|At-grade\\ Underground|
 |**Maximum speed**|60km/h|
@@ -27,4 +27,26 @@
 </WRAP>
 
 ====History====
-On 20 August 2022, Route 101 and 102 completed together with [[lrt_801|route 801]] extension to Eden stop.
+On 20 August 2022, Route 101 and 102 completed together with [[lrt_801|route 801]] extension to Eden stop. At that time trains goes back to sidings after completing a loop back to Yi Lok stop, to maintain a stable frequency of 3 minutes.
+
+On 31 August 2022, the siding arrangement has been cancelled. Trains thus continue to run after arriving at Yi Lok. The frequency is increased to 2 minutes.
+
+On 15 November 2022, MPL 85 trains start to run on this route. The original Light Rail Trains were moved to Kallos Light Rail Depot. 
+
+According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when [[lrt_801|route 801P]] goes into operation, as it’s use can be replaced by alternate transportation methods. Route 102 will be kept to service some important connections. The MPL 85 trains are planned to be replaced by Light Rail Phase 1 trains with CLR livery. The MPL 85 trains will be moved to run on Sei Mei APM.
+
+====Stations====
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#FEFCE5:\\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Yi Sin\\ 伊茜|Kallos|  [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
+|:::|Yi Lok\\ 伊樂|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
+|:::|Yi Yao\\ 伊瑤|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Izu\\ 伊茲|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+
+====Independent Sections====
+- Track section between Yi Sin and Izu
+
+====Fare Zones of stations along route 101/102====
+- <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Yi Lok ⇄ Izu ⇄ Yi Lok
+\\ Route 101/102 can meet up with other light rail routes: 115, 801
