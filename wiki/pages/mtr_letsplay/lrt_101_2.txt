@@ -1,0 +1,30 @@
+=====Lilac Light Rail Route 101/102=====
+**Lilac Light Rail Route 101/102** (Chinese: **麗蓮輕鐵101/ 102綫**) are 2 circular routes jointly owned by Qingli Railways and [[lilypad_rail]], set up in Eden area, mainly connecting transit hubs within the Eden area, but not stop at Eden stop. Routes 101 and 102 are actually the same route, but in different directions. Route 101 is in clockwise direction; while Route 102 is in anti-clockwise direction. 
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 101/102</font></html>\\ <html><font size = "4">麗蓮輕鐵101/ 102綫</font></html>  ^^
+|@#4CEDD3:||
+|@#4D4BEE:||
+|  {{102_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Eden|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Terminus**|Yi Lok|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|4|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Railway Vision MPL 85|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|20 August 2022, 1 year ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|Qingli Railways|
+</WRAP>
+
+====History====
+On 20 August 2022, Route 101 and 102 completed together with [[lrt_801|route 801]] extension to Eden stop.
