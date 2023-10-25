@@ -37,7 +37,7 @@ According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when
 
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#4D4BEE/#4CEDD3:**Lilac Light Rail Route 101/102**  ||||||
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #4CEDD3 , #4D4BEE)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 101/102</b></p></font></div></body></html>  ||||||
 |  @#FEFCE5:\\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Yi Sin\\ 伊茜|Kallos|  [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
 |:::|Yi Lok\\ 伊樂|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
@@ -51,3 +51,5 @@ According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when
 ====Fare Zones of stations along route 101/102====
 - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Yi Lok ⇄ Izu ⇄ Yi Lok
 \\ Route 101/102 can meet up with other light rail routes: 115, 801
+
+<html><p>test</p></html>
