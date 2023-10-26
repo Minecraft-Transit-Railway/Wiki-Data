@@ -17,5 +17,7 @@
 </WRAP>
 The MI1900 and MI1900a are variants of the SP1900 included in the base mod. These featured 3 doors instead of 5, like the original MLRs. They have a fixed amount of cars, 4/8 for the MI1900 and 3/6/9/12 for the MI1900a.
 
-====== History in community ======
-This locomotive was first reveled in the modelling-texturing channel of the MTR Server, with the first version published on Christmas Eve 2022. this version had the freight and passenger versions. In the February 10th Release, there was a broad and narrow gauge variation, those were later removed. The locomotive was later Merged into the PäRail Pack in the beta 2 Release. Including a Headlight and Front Numberplate in Later Versions
+====== z ======
+e
+
+Work in Progress
