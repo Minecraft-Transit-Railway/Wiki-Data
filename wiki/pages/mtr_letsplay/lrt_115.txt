@@ -63,3 +63,35 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 ====Independent Sections====
 - Track section between Spruce Forest and Puketeraki
 \\ - Track section between Yi Yao and Winry
+====Depot Route====
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 115D</font></html>\\ <html><font size = "4">麗蓮輕鐵115綫</font></html>  ^^
+|@#1551AA:||
+|  {{115d_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Yankton\\ Eden|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Winry|
+|**Terminus**|Yi Yao|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|13|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Yi Long Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|22 October 2023|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+The depot trains for this route, running exactly the same as route 115, entered service on 20 October 2023. However, trains stops service at the stop right before Light Rail Depot, then travels back to the depot.
+====Reference Pages====
+- [[lilac_light_rail]]
+\\ - [[lrt_801]]
+\\ - [[lrt_802]]
+\\ - [[lrt_101_2]]
