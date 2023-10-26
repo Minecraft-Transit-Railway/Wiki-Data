@@ -37,7 +37,8 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#ECB3D4:<color #CD378D>**<html><font size="4">2A</font></html>**</color>  |Winry\\ 冬浮島|Yankton|  {{blau_lrt.png?40&direct}}  ||6 May 2023|
-|  @#FEFCE5:\\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Ishima\\ 伊島|:::|  Ikawa  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
+|  @#FEFCE5:\\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Ishima\\ 伊島|:::|  Ishima  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+|:::|:::|:::|  Ikawa  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
 |:::|Yi Nam\\ 伊南|Kallos| ||10 May 2023|
 |:::|Yi Yao\\ 伊瑤|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
 |:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
