@@ -1,23 +1,40 @@
 ====== MI1900/MI1900a ======
 
-<WRAP 550px right>
+<WRAP 450px right>
 
 ^ **Pictures** ^  ^
 |1| {{ :mtr_extra:mi1900s_front.png?425 Front view of the MI1900}}View of the front of MI1900 and MI1900a |
 |2| {{ :mtr_extra:mi1900s_side.png?425 Side view of the MI1900}}View and comparison of the side of MI1900 and MI1900a |
 ^ MTR Mod Overview and Specifications ^  ^
-| **Top Speed** | 120 km/h |
+| **Top Speed** | 120 km/h (MI1900) 160 km/h (MI1900a) |
 | **Creator** | coinc1234 |
 | **Unit Length**  | 24 Meters |
-| **Operators** | Former: |
+| **Operators** | Current : |
+| ::: | Seattle-Reazeug LIne (MI1900a) |
+| Former: |
 | ::: | Syndicat Inter-régional des Transports du Sud (MI1900) |
 | Planned: |
 | ::: | UCR TER (MI1900a) |
 
 </WRAP>
-The MI1900 and MI1900a are variants of the SP1900 included in the base mod. These featured 3 doors instead of 5, like the original MLRs. They have a fixed amount of cars, 4/8 for the MI1900 and 3/6/9/12 for the MI1900a.
+The MI1900 and MI1900a are commuter/regional variants of the SP1900 included in the base mod. These featured 3 doors instead of 5, like the original MLRs. They have a fixed amount of cars, 4/8 for the MI1900 and 3/6/9/12 for the MI1900a.
+They were the first true custom models coinc has done.
 
-====== z ======
-e
+====== HIstory ======
+The MI1900 was first released the 25 of June 2022, as a train for the future RER line in Calais on the Kignsburgh server.
+It was submitted by form to be featured on the Community Works Discord channel but haven't got any response.
+
+The MI1900a was released somewhere during September 2022 for the workers of the United Cities Railways server (back to this time Minecity) to replace the C1141A on the line E of the TER. This line, being a mix between a commuter and Intercity line, got more comfortable trainsets, with 3 cars per unit, the same amount of the rolling stock.
+It was released with properties issues, where 9/12 cars trains would have parts not showing up, noclipping with others... For unknown reasons, the train was never used there.
+====== Characteristics ======
+Both the MI1900 and MI1900a have an outside livery based on the original MI79 and MI84 trainsets operating on the  [[wp>RER_B|Paris RER line B]]
+However, their interior aren't based on those, but on the [[wp>SNCF_Class_Z_22500|MI2N Eole]] and [[wp>MI_2N|MI2N Alteo]] found on the lines E and A of the Paris RER.
+The MI1900a features a more comfortable seats, to cope with the needs of commuters of this line
+
+====== A failure ? ======
+Due to it's texture and properties issue, considering coinc1234 had past experience with MTR at this time (working on the DLR pack), seeing this train operated by others is very rare, as downloads for the pack are hard to find, hidden in other Discord servers. He attempted to make a remastered version in late June 2023 using the HD SP1900 from the IVR pack but his computer took several seconds to save, making him give up.
+More than a year after, they are now only running on the Seattle-Reazeug line of his singleplayer world and resting on the Calais sidings, with a .
+
+coinc1234 hasn't lost all hope, and is trying to find his past works to group them into a single resourcepack, Coincreations.
 
 Work in Progress
