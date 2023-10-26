@@ -33,11 +33,12 @@ On 6 May 2023, Blau LRT Eastbound (Blau LRT Branch Line) was completed. S43-Tech
 On 9 May 2023, the Blau LRT Branch Line was converted converted into Lilac Light Rail Route 115. The rolling stock was also changed to Hong Kong LRVs. A proposal was dropped on the same day, which planned to connect Ishima with the Eden Circular loop through Yi Lok stop. However, due to limitations brought by the heritage tracking between Yi Sin and Yi Lok, route 115 was instead rerouted to connect the Eden loop through Yi Yao, with a infill stop between Ishima and Yi Yao, Yi Nam, right in the south of Yi Sin stop. The whole plan was to connect all the way to Hot Springs, however, as the connection between Spruce Forest and Puketeraki was not completed, 115 was planned to temporarily terminate at Yi Long stop, which is the depot location for route 115. The extension completed on 10 May 2023.
 
 On 22 October 2023, the track connection between Spruce Forest and Puketeraki is completed. Route 115 is thus extended to Hot Springs. Yi Long stop is then removed from the system. 
+
 <WRAP left>
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#ECB3D4:<color #CD378D>**<html><font size="4">2A</font></html>**</color>  |Winry\\ 冬浮島|Yankton|  {{blau_lrt.png?40&direct}}  ||6 May 2023|
-|  @#FEFCE5:\\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Ishima\\ 伊島|:::|  Ishima  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+|  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Ishima\\ 伊島|:::|  Ishima  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
 |:::|:::|:::|  Ikawa  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
 |:::|Yi Nam\\ 伊南|Kallos| ||10 May 2023|
 |:::|Yi Yao\\ 伊瑤|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
@@ -46,5 +47,11 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 |:::|Purple Leaves\\ 紫葉|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
 |:::|New Red Leaves\\ 新紅葉|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  New Red Leaves  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Spruce Forest\\ 杉木林|:::| ||20 August 2022|
+|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Spruce Forest\\ 杉木林|:::| ||20 August 2022|
+|:::|Puketeraki\\ 普基帝拉基|Toitoi|  [[lrt_802|{{802.png?40&direct}}]]  ||10 September 2022|
+|  @#B9E0ED:\\ \\ \\ \\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Toitoi\\ 泰太|:::|  [[lrt_762|{{762.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Toitoi  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
+|:::|Two Point Five Ka Tsuen\\ 二點五家村|:::|  [[lrt_802|{{802.png?40&direct}}]]  ||4 December 2022|
+|:::|Yau Tong\\ 油塘|:::|:::||:::|
+|:::|Hot Springs\\ 炎春|Spawn|  [[lrt_802|{{802.png?40&direct}}]] {{schwarzlr.png?40&direct}}  ||24 August 2022|
 </WRAP>
