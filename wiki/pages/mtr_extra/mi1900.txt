@@ -1,0 +1,21 @@
+====== MI1900/MI1900a ======
+
+<WRAP 550px right>
+
+^ **Pictures** ^  ^
+|1| {{ :mtr_extra:mi1900s_front.png?425 Front view of the MI1900}}View of the front of MI1900 and MI1900a |
+|2| {{ :mtr_extra:mi1900s_side.png?425 Side view of the MI1900}}View and comparison of the side of MI1900 and MI1900a |
+^ MTR Mod Overview and Specifications ^  ^
+| **Top Speed** | 120 km/h |
+| **Creator** | coinc1234 |
+| **Unit Length**  | 24 Meters |
+| **Operators** | Former: |
+| ::: | Syndicat Inter-régional des Transports du Sud (MI1900) |
+| Planned: |
+| ::: | UCR TER (MI1900a) |
+
+</WRAP>
+The MI1900 and MI1900a are variants of the SP1900 included in the base mod. These featured 3 doors instead of 5, like the original MLRs. They have a fixed amount of cars, 4/8 for the MI1900 and 3/6/9/12 for the MI1900a.
+
+====== History in community ======
+This locomotive was first reveled in the modelling-texturing channel of the MTR Server, with the first version published on Christmas Eve 2022. this version had the freight and passenger versions. In the February 10th Release, there was a broad and narrow gauge variation, those were later removed. The locomotive was later Merged into the PäRail Pack in the beta 2 Release. Including a Headlight and Front Numberplate in Later Versions
