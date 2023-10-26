@@ -7,7 +7,7 @@
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Status** | Special shuttle\\ //(Kwong Chow, Sai Mo Island)//\\ Under construction\\  //(Sha Tsui - West Lake)//\\ //(Sai Mo Island - Spawn)//\\ Awaiting integration\\ //(Spawn - Makki Memorial Village)//|
-| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/new_harmony_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
 | **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|WLT Line 1 Phase 1]]</color> |
@@ -29,11 +29,11 @@
 | **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  //(insert route map here)//  ||
+|  {{/line2_temp_rm.png?320}}  ||
 
 </WRAP>
 
-**Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/new_harmony_railways|Qingli Railways]] (QLR) and [[/cyanex_rapid_transit|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 and QLR North Coast Line. 
+**Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[qingli_railways|Qingli Railways]] (QLR) and [[/cyanex_rapid_transit|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 and QLR North Coast Line. 
 
 The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the red colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>magenta</color> colour of WLT Line 1 Phase 1((Magenta mixing with yellow forms red)).
 
