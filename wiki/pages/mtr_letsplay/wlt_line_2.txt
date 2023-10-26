@@ -24,9 +24,9 @@
 ^  History  |^
 | **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)// |
 ^  Technical  |^
-| **Line Length** | TBC |
+| **Line Length** | 2.5 km |
 | **Number of**\\ **Tracks** | Double Track |
-| **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s) |
+| **Operating**\\ **Speed** | Average: 54 km/h (15 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
 |  {{/line2_temp_rm.png?320}}  ||
