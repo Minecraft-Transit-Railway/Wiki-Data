@@ -142,7 +142,7 @@ Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMA
 
 Lilypad Rail's Sallen Division opened on 5 September 2023, just under a year after the founding Let's Play division opened. It consists of 2 lines
 
-  * <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton
+  * <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton/University
   * <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color> runs from Myrtle Kennedy to Diamond Creek via Lancet.
 
 Currently, Lilypad Rail also operates the <color white/#FF5DD8><html>&nbspSallenRail East End Line&nbsp</html></color>, which runs from Old Westfield Terminal, then east through the median of the Westfield Highway before dipping underground, running through Edgeword South and East Holyoke before merging with existing SallenRail tracks north of Great Plains. Services operate through SallenRail tracks as far as Newton Terminal, and is planned to extend to Sallen International Airport.
