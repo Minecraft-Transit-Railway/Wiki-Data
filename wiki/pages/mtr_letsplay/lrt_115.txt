@@ -1,1 +1,36 @@
 =====Lilac Light Rail Route 115=====
+**Lilac Light Rail Route 115** (Chinese:**麗蓮輕鐵115綫**) is a [[lilac_light_rail]] route connecting Winry and Hot Springs, and is jointly owned by [[qingli_railways|Qingli Railways]] and [[lilypad_rail]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 115</font></html>\\ <html><font size = "4">麗蓮輕鐵115綫</font></html>  ^^
+|@#1551AA:||
+|  {{115_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Yankton\\ Eden\\ Toitoi\\ Spawn|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Winry|
+|**Terminus**|Hot Springs|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|14|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Yi Long Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|6 May 2023, 5 months ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+=====History=====
+On 30 April 2023, during the construction of the South Continental Line, [[lilypad_rail]] had made an assessment and released a plan to connect Winry and Ishima stations. The former is the terminus of the Blau LRT, and the latter being a stop on the South Continental Line. The line was thus named “Blau LRT Branch Line” despite not being connected track-wise to the original Blau LRT.
+
+On 6 May 2023, Blau LRT Eastbound (Blau LRT Branch Line) was completed. S43-Tech Light Rail Vehicles were used at that time.
+
+On 9 May 2023, the Blau LRT Branch Line was converted converted into Lilac Light Rail Route 115. The rolling stock was also changed to Hong Kong LRVs. A proposal was dropped on the same day, which planned to connect Ishima with the Eden Circular loop through Yi Lok stop. However, due to limitations brought by the heritage tracking between Yi Sin and Yi Lok, route 115 was instead rerouted to connect the Eden loop through Yi Yao, with a infill stop between Ishima and Yi Yao, Yi Nam, right in the south of Yi Sin stop. The whole plan was to connect all the way to Hot Springs, however, as the connection between Spruce Forest and Puketeraki was not completed, 115 was planned to temporarily terminate at Yi Long stop, which is the depot location for route 115. The extension completed on 10 May 2023.
+
+On 22 October 2023, the track connection between Spruce Forest and Puketeraki is completed. Route 115 is thus extended to Hot Springs. Yi Long stop is then removed from the system. A new Depot route 115D running from Winry to Yi Yao is then added to allow trains to travel from and back to Yi Long Depot.
+
