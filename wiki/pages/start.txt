@@ -12,7 +12,7 @@ Welcome to the MTR wiki!
     * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - How to put your own model
     * [[mtr_extra:resourcepack:make:others|Others]] - How to add signs, sounds, etc. to your resource pack
   * [[mtr_extra:resourcepack:faq|Frequently Asked Questions]] - Some questions about resource packs
-  * [[mtr_addon:start|Using Addon Mods]] - Overview of additional MTR addon mods
+  * [[mtr_addon:start|MTR Addons]] - Overview of additional MTR addon mods
 
 ===== Multiplayer Servers =====
 
