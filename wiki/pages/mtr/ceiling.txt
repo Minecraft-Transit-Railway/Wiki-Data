@@ -1,9 +1,14 @@
+====== Ceiling - Needs Updating ======
+
+The ceiling is a decorative block that has a [[https://minecraft.gamepedia.com/Light|light level]] of 15.
+
+There are three variants of ceilings: 
+  * Ceiling
+  * Ceiling (Light)
+  * Ceiling (No Light)
+They differ by the behaviour in having or not having lights. 
+
 <markdown>
-
-# Ceiling - Needs Updating
-
-The ceiling is a decorative block that has a [light level](https://minecraft.gamepedia.com/Light) of 15.
-
 # Obtaining
 
 ## Breaking
@@ -19,5 +24,6 @@ Ceiling blocks require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to b
 # Usage
 
 The placement direction of the ceiling block depends on the player orientation. The horizontal beams of the block will be placed parallel to the direction where the player is facing.
-
 </markdown>
+
+The ceiling without specifying light will have light when the x position((When facing=false, i.e., north-south facing)) or z position((When facing=true, i.e., east-west facing)) is a multiple of 3. Ceiling (Light) always has light while ceiling (no light) never has light.
