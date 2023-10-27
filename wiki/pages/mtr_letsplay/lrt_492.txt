@@ -1,0 +1,92 @@
+=====Lilac Light Rail Route 492, 483P=====
+**Lilac Light Rail Route 492** (Chinese: **麗蓮輕鐵492綫**) is a Lilac Light Rail route connecting Bridge Bay stop and Jonathan’s Resort stop, and is jointly owned by Lilypad Rail and Qingli Railways.
+
+**Lilac Light Rail Route 483P** (Chinese: **麗蓮輕鐵483P綫**) is a longer version of route 492, connecting Chou Wai and Light Rail Depot.
+
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 492</font></html>\\ <html><font size = "4">麗蓮輕鐵492綫</font></html>  ^^
+|@#187237:||
+|  {{492_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Resort|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Jonathan’s Resort|
+|**Terminus**|Bridge Bay|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|11|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Bridge Bay Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|10 February 2023, 8 months ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+
+^  <html><font size = "4">Lilac Light Rail Route 483P</font></html>\\ <html><font size = "4">麗蓮輕鐵483P綫</font></html>  ^^
+|@#155085:||
+|  {{483p_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Resort|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Chou Wai|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|21|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase IV|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|10 February 2023, 8 months ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+====History====
+On 6 February 2023, Lilypad Rail proposed a new route 492 starting from Jonathan’s Resort to Bridge Bay. This is the first light rail route serving the west of Jonathan’s Resort. On the same day, Qingli Railways also announced to cooperate with Lilypad Rail to operate a new peak hour light rail route 492P running from Chou Wai to Light Rail Depot.
+
+On 10 February 2023, the track section between Jonathan’s Resort and Chou Wai was completed. Route 492 and 492P went fully operational to Chou Wai. The route number of 492P has been converted to 483P.
+
+On 18 February 2023, the track section between Bridge Bay and Chou Wai is completed. Route 492 is extended to Bridge Bay stop, but Route 483P is not.
+
+According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be unchanged, but the frequencies will be lowered to 5 and 15 minutes respectively.
+====Stations====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #187237 , #155085)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 492, 483P</b></p></font></div></body></html>  ||||||
+|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|:::|Shek Ai\\ 石艾|:::|  [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
+|  @#D8E8C4:\\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Āoraki\\ 庫克山|Oculus|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||7 November 2022|
+|:::|:::|:::|  Āoraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
+|:::|Āoraki North\\ 庫克山北|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kaijin-Kowloon Express Ferry  ||:::|
+|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
+|:::|Blackland\\ 黑石地|Resort|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Roundabout Lake\\ 環島湖|:::|  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Jonathan's Resort\\ 裝奶粉渡假村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Jonathan’s Resort  |  <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::|Resort North Village\\ 度假北村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Badsand Beach\\ 紅沙海岸|:::|  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Kwun Wu\\ 觀湖|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||10 February 2023|
+|:::|Melody Garden\\ 美樂|:::|:::||:::|
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|Temple\\ 寺廟|:::|:::||:::|
+|:::|Ma Tau Peninsula\\ 碼頭半島|:::|:::||:::|
+|:::|Bamboo Hill\\ 竹山腳|:::|:::||:::|
+|:::|Chou Wai\\ 草圍|:::|:::||:::|
+|:::|Leng Tan\\ 嶺灘|:::|  [[lrt_405|{{405.png?40&direct}}]] [[lrt_410|{{410.png?40&direct}}]]  ||18 February 2023|
+|:::|Precious Cove\\ 水嶺澳|:::|:::||:::|
+|:::|Bridge Bay\\ 橋灣|:::|:::||:::|
