@@ -73,7 +73,7 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Kaijin-Kowloon Express Ferry  ||:::|
 |  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
+|:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yellow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
 |:::|Blackland\\ 黑石地|Resort|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|Roundabout Lake\\ 環島湖|:::|  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|Jonathan's Resort\\ 裝奶粉渡假村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
