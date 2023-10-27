@@ -67,7 +67,7 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
 |:::|Shek Ai\\ 石艾|:::|  [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
-|  @#D8E8C4:\\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Āoraki\\ 庫克山|Oculus|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||7 November 2022|
+|  @#D8E8C4:\\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Āoraki\\ 庫克山|Oculus|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||7 November 2022|
 |:::|:::|:::|  Āoraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
 |:::|Āoraki North\\ 庫克山北|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
@@ -82,7 +82,7 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |:::|Badsand Beach\\ 紅沙海岸|:::|  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|Kwun Wu\\ 觀湖|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||10 February 2023|
 |:::|Melody Garden\\ 美樂|:::|:::||:::|
-|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
 |:::|Temple\\ 寺廟|:::|:::||:::|
 |:::|Ma Tau Peninsula\\ 碼頭半島|:::|:::||:::|
 |:::|Bamboo Hill\\ 竹山腳|:::|:::||:::|
@@ -90,3 +90,19 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |:::|Leng Tan\\ 嶺灘|:::|  [[lrt_405|{{405.png?40&direct}}]] [[lrt_410|{{410.png?40&direct}}]]  ||18 February 2023|
 |:::|Precious Cove\\ 水嶺澳|:::|:::||:::|
 |:::|Bridge Bay\\ 橋灣|:::|:::||:::|
+</WRAP>
+====Fare Zones====
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai (Only suitable for route 483P)
+\\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Āoraki ⇄ Kaijin Ferry Pier (Only suitable for route 483P)
+\\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Melody Garden (Section between Jonathan’s Resort and Oculus Center only suitable for route 483P)
+\\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Yin Pan Tsuen ⇄ Bridge Bay (Section between Leng Tan and Bridge Bay only suitable for route 492)
+\\ Route 492, 483P can meet up with other routes: 405, 410, 482P, 633, 801, 802, 810, 882
+====Independent Sections====
+- Track section between Melody Garden and Yin Pan Tsuen
+\\ - Track section between Resort North Village and Badsand Beach
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_882]]
+\\ - [[lrt_405]]
+\\ - [[lrt_410]]
+\\ - [[lrt_633]]
