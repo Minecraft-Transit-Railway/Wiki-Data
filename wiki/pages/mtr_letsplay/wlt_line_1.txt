@@ -42,7 +42,7 @@ The line is currently 5.8 km long, starting from [[/northern_snow_village_statio
 
 Now sections from south Sakura Stream Area [[/providence_station|Providence]] station to West Lake Area Kwong Chow station are under renovation. Trains only run from Northern Snow Village station to Providence station. 
 
-The line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in magenta)).
+The line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
 
 ===== History =====
 
