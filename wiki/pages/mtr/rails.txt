@@ -31,7 +31,10 @@ Rail connectors and the rail remover can only be obtained by crafting
 
 The rail and boat node is a block that is used to mark where a section of rail starts and ends. The rail connector item is used to create the actual rail between two nodes.
 
-1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids. 1. Place down another node in the world, at least several blocks away from the first one. 1. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory. 1. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the [Valid Rail Configurations](#valid-rail-configurations) section for more information. Different node types cannot be connected to each other.
+1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids. 
+1. Place down another node in the world, at least several blocks away from the first one. 
+1. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory. 
+1. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the [Valid Rail Configurations](#valid-rail-configurations) section for more information. Different node types cannot be connected to each other.
 
 ## Types of Rail Connectors
 
@@ -49,22 +52,25 @@ Each of the rail connector items serve a different purpose.
 | Diamond | Sets a passing train's speed to 300 km/h |
 | Platform | <li>Creates a platform (visible on [dashboards]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards]]) <li>Slows a passing train to a stop if the train is set to stop at the platform <li>Keeps a passing train at the same speed if the train is decelerating but not set to stop at the platform |
 
+</markdown>
 Each node can have multiple rail types (except for the platform and siding rail type) connected to it. Only one platform or siding rail may be connected to each node.
 
 If a rail connector is used over an existing section of rail, its type will be replaced with the type of the new rail connector. For example, using an iron rail connector over two rail nodes already connected with a stone rail connector will overwrite it, creating an iron rail of exactly the same shape.
 
 If a node is destroyed, all rails connecting to that node will be removed as well.
 
-The NTE addon also allows for rail curves, inclines, and appearances to be edited. See [[:mtr_addon:]].
+The NTE addon also allows for rail curves, inclines, and appearances to be edited. See [[mtr_addon:nte:start|NTE Page]].
 
-## Rail Remover
+==== Rail Remover ====
 
 The rail remover works just like the rail connectors, except that it is used to remove existing connections.
 
-1. Find two rail nodes that have been previously connected. 1. Right click on one of the rail nodes with the rail remover. The rail remover item should start flashing in the inventory. 1. Right click on the other rail node with the same rail remover item. An existing rail connecting the two nodes will be removed.
+  - Find two rail nodes that have been previously connected. 
+  - Right click on one of the rail nodes with the rail remover. The rail remover item should start flashing in the inventory. 
+  - Right click on the other rail node with the same rail remover item. An existing rail connecting the two nodes will be removed.
 
 Note that existing coloured signal blocks will be removed.
-
+<markdown>
 ## Valid Rail Configurations
 
 The following table shows the possible configurations for two rail nodes to be connected.
