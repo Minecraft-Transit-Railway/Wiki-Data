@@ -1,5 +1,7 @@
-=====Lilac Light Rail Route 882=====
+=====Lilac Light Rail Route 882, 482P=====
 **Lilac Light Rail Route 882** (Chinese: **麗蓮輕鐵882綫**) is a [[lilac_light_rail]] route connecting Heung Fan Liu Airport South stop and Light Rail Depot stop via Jonathan’s Resort, and is jointly owned by [[lilypad_rail]] and Qingli Railways. 
+
+**Lilac Light Rail Route 482P** (Chinese: **麗蓮輕鐵482P綫**) is the local version of route 882, connecting Heung Fan Liu Airport North stop and Jonathan’s Resort stop
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 882</font></html>\\ <html><font size = "4">麗蓮輕鐵882綫</font></html>  ^^
 |@#5000DF:||
@@ -24,6 +26,29 @@
 |**Opened**|7 November 2022, 1 year ago|
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
+
+^  <html><font size = "4">Lilac Light Rail Route 482P</font></html>\\ <html><font size = "4">麗蓮輕鐵482P綫</font></html>  ^^
+|@#00D200:||
+^  Overview  ^^
+|**Operate location**|Resort|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Jonathan’s Resort|
+|**Terminus**|Airport North|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|10|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Heung Fan Liu Depot|
+|**Rolling stock**|Light Rail Phase V|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|4 March 2023, 7 months ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|Qingli Railways|
 </WRAP>
 
 ====History====
@@ -37,15 +62,15 @@ On 14 December 2022, Five Points Transit Center has been renamed to Oculus Cente
 
 On 1 January 2023, platforms at Oculus Center were relocated to underground.
 
-On 4 February 2023, Jonathan's Resort Light Rail Terminal was completed. Route 882 platforms were relocated there. At the same time, Qingli Railways also proposed the extension of Route 882 to Heung Fan Liu Airport, such that the Tempest Light Rail system can connect to the rest of the Lilac Light Rail System.
+On 4 February 2023, Jonathan's Resort Light Rail Terminal was completed. Route 882 platforms were relocated there. At the same time, Qingli Railways also proposed the extension of Route 882 to Heung Fan Liu Airport South, together with a new P route connecting Heung Fan Liu Airport North and Jonathan’s Resort, such that the Tempest Light Rail system can connect to the rest of the Lilac Light Rail System. The route number of the P route was originally decided to be 882P, but later changed to 482P as it is nothing related to the Kallos area.
 
-On 4 March 2023, the extension was completed. Route 882 was officially extended to Heung Fan Liu Airport.
+On 4 March 2023, the extension was completed. Route 482P was fully operational, and Route 882 was officially extended to Heung Fan Liu Airport.
 
-According to "Lilac Light Rail Reform Plan 2023", route 882 will once again terminate at Jonathan's Resort. The connection between Heung Fan Liu Airport and Jonathan’s Resort will be replaced by the extension of [[lrt_720|route 720]] and [[lrt_601|route 601]].
+According to "Lilac Light Rail Reform Plan 2023", route 882 will once again terminate at Jonathan's Resort. Route 482P and the connection between Heung Fan Liu Airport and Jonathan’s Resort of Route 882 will be replaced by the extension of [[lrt_720|route 720]] and [[lrt_601|route 601]].
 
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#5000DF:<color white>**Lilac Light Rail Route 882**</color>  ||||||
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #5000DF , #00D200)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 882, 482P</b></p></font></div></body></html>  ||||||
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 September 2022|
 |:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
@@ -54,33 +79,38 @@ According to "Lilac Light Rail Reform Plan 2023", route 882 will once again term
 |:::|Āoraki North\\ 庫克山北|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
 |:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Kaijin-Kowloon Express Ferry  ||:::|
-|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  [[lrt_633|{{633.png?40&direct}}]]  ||:::|
+|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  [[lrt_633|{{633.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
 |:::|Blackland\\ 黑石地|Resort|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  [[lrt_633|{{633.png?40&direct}}]]  ||:::|
 |:::|Roundabout Lake\\ 環島湖|:::|  [[lrt_483P|{{483p.png?40&direct}}]]  ||:::|
-|:::|Jonathan's Resort\\ 裝奶粉渡假村|:::|  [[lrt_482p|{{482p.png?40&direct}}]] [[lrt_483p|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]]  ||:::|
+|:::|Jonathan's Resort\\ 裝奶粉渡假村|:::|  [[lrt_483p|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Jonathan’s Resort  |  <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
-|:::|Resort North Village\\ 度假北村|:::|  [[lrt_482p|{{482p.png?40&direct}}]] [[lrt_483p|{{483p.png?40&direct}}]]  ||:::|
-|:::|Badsand Beach\\ 紅沙海岸|:::|  [[lrt_483p|{{483p.png?40&direct}}]]  ||:::|
-|  @#BBD3D7:\\ \\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  |Sky Tower West\\ 傲雲峰西|:::|  [[lrt_482p|{{482p.png?40&direct}}]]  ||4 February 2023|
+|:::|Resort North Village\\ 度假北村|:::|  [[lrt_483p|{{483p.png?40&direct}}]]  ||:::|
+|:::|Badsand Beach\\ 紅沙海岸|:::|:::||:::|
+|  @#BBD3D7:\\ \\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  |Sky Tower West\\ 傲雲峰西|:::| ||4 February 2023|
 |:::|Chun Wang Village\\ 俊宏村|:::|:::||:::|
 |:::|Chun Ming\\ 晉名|:::|:::||:::|
 |:::|Tin Yiu\\ 天耀|:::|:::||:::|
 |:::|Tin Yau\\ 天佑|:::|:::||:::|
 |:::|Heung Yuen Wai\\ 香園圍|:::|:::||:::|
 |:::|Airport South\\ 機場南|:::|:::||:::|
+|:::|**Airport North\\ 機場北**|:::|  [[lrt_720|{{720.png?40&direct}}]]  ||:::|
+^  Remarks  ^^^^^^
+|- **Bold station name** means that the station is served by 482P but not 882||||||
 
 ====Fare Zones====
-- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai
-\\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Āoraki ⇄ Kaijin Ferry Pier
-\\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Resort North Village/Badsand Beach
-\\ - <color /#236F74><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 7: Sky Tower West ⇄ Airport South
-\\ Route 882 can meet up with other routes: 410, 482P, 483P, 492, 633, 801, 802, 810
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai (Only suitable for route 882)
+\\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Āoraki ⇄ Kaijin Ferry Pier (Only suitable for route 882)
+\\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Resort North Village/Badsand Beach (Section between Roundabout Lake and Oculus Center, Badsand Beach only suitable for route 882) 
+\\ - <color /#236F74><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 7: Sky Tower West ⇄ Airport North (Airport North only suitable for route 482P)
+\\ Route 882, 482P can meet up with other routes: 410, 483P, 492, 633, 720, 801, 802, 810
 
 ====Independent Sections====
 - Track section between Sky Tower West and Resort North Village
 \\ - Track section between Sky Tower West and Badsand Beach
+\\ - Track section between Airport North and Airport South
 ====See also====
-- [[lrt_410]]
-\\ - [[lrt_482p]]
-\\ - [[lrt_483p]]
+- [[lilac_light_rail]]
+\\ - [[lrt_410]]
+\\ - [[lrt_492]]
+\\ - [[lrt_720]]
