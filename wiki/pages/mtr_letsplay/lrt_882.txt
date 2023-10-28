@@ -29,6 +29,7 @@
 
 ^  <html><font size = "4">Lilac Light Rail Route 482P</font></html>\\ <html><font size = "4">麗蓮輕鐵482P綫</font></html>  ^^
 |@#00D200:||
+|  {{482p_scrn.png?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Resort|
 |**Transit type**|Light Rail Transit|
