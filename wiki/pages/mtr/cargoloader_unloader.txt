@@ -1,0 +1,20 @@
+====== Cargo Loaders and Unloaders ======
+
+Cargo Loaders and Cargo Unloaders are functional blocks in Minecraft. They are triggered with a train passing over them similar to the [[mtr:announcer|Announcer]] block and the [[mtr:redstonesensor|Redstone Sensor]] block.
+
+===== Cargo Loaders =====
+
+{{cargoloader.png?100x100&nolink |Image of a Cargo Loader}}The Cargo Loader works by placing down a chest on top of the cargo loader.
+
+When a train carriage passes by the cargo loader it'll take 1 item from the chest and carries it until it touches a cargo unloader.
+
+<- Image of a Cargo Loader.
+
+{{chestloader.png?100x100&nolink |Chest on top of a Cargo Loader.}}<- An example of a chest on top of the cargo loader.
+
+The chest can not be under the cargo loader since in Minecraft, you can't open a chest if there's a solid block on top unless it's a slab.
+
+===== Cargo Unloaders =====
+
+{{cargounloader.png?100x100&nolink |An image of the Cargo Unloader block.}}
+
