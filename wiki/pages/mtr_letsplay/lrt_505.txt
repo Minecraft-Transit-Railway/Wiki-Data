@@ -36,6 +36,7 @@ Route 505 is isolated from other light rail routes such that it has no light rai
 Also, in the reform plan, this route and [[lrt_101_2|route 102]] are the only routes that do not require a frequency change.
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#6B468D:**<color white>Lilac Light Rail Route 505</color>**  ||||||
 |  @#B9E0ED:\\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Makki Memorial Village\\ 瑪奇紀念村莊|Toitoi|  Makki Memorial Village  |  <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>  |9 January 2023|
 |:::|South Memorial\\ 南紀念|:::|  South Memorial  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
 ====Fare Zones====
