@@ -34,3 +34,12 @@ Trains in route 505 circulate between Makki Memorial Village and South Memorial 
 Route 505 is isolated from other light rail routes such that it has no light rail interchanges.((except for special route 578E)) However, according to "Lilac Light Rail Reform Plan 2023", a new route 803 will terminate at South Memorial stop, and that connected route 505 to the rest of the [[lilac_light_rail]] system.
 
 Also, in the reform plan, this route and [[lrt_101_2|route 102]] are the only routes that do not require a frequency change.
+====Stations====
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#B9E0ED:\\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Makki Memorial Village\\ 瑪奇紀念村莊|Toitoi|  Makki Memorial Village  |  <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>  |9 January 2023|
+|:::|South Memorial\\ 南紀念|:::|  South Memorial  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+====Fare Zones====
+- <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Makki Memorial Village ⇄ South Memorial
+====Reference Pages====
+- [[lilac_light_rail]]
+\\ - [[lrt_802]]
