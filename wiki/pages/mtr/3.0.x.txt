@@ -122,7 +122,7 @@ TODO: add links
   * New trains: London Underground D78, London Underground 1996, S-Train, unrefurbished M-Train, R211, British Rail Class 802
   * Route maps on route signs, platform screen doors, and automatic platform gates will now combine lines if they share common stations
   * Certain signs will now show text using the custom font (without crashing)
-  * [[mtr:cargoloader_unloader|Added new functional blocks: Cargo Loaders & Unloaders]]
+  * Added new functional blocks: [[mtr:cargoloader_unloader|Cargo Loaders & Unloaders]]
   * Bridge creator, tunnel creator, and tunnel wall creator items
   * Boats
   * Train rendering ratio option
