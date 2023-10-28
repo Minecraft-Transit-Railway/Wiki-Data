@@ -82,8 +82,8 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |:::|Badsand Beach\\ 紅沙海岸|:::|  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
 |:::|Kwun Wu\\ 觀湖|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||10 February 2023|
 |:::|Melody Garden\\ 美樂|:::|:::||:::|
-|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
-|:::|Temple\\ 寺廟|:::|:::||:::|
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|:::|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|Temple\\ 寺廟|Chou Wai|:::||:::|
 |:::|Ma Tau Peninsula\\ 碼頭半島|:::|:::||:::|
 |:::|Bamboo Hill\\ 竹山腳|:::|:::||:::|
 |:::|Chou Wai\\ 草圍|:::|:::||:::|
