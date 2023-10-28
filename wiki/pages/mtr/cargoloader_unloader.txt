@@ -6,7 +6,7 @@ Cargo Loaders and Cargo Unloaders are functional blocks in Minecraft. They are t
 
 {{cargoloader.png?100x100&nolink |Image of a Cargo Loader}}The Cargo Loader works by placing down a chest on top of the cargo loader.
 
-When a train carriage passes by the cargo loader it'll take 1 item from the chest and carries it until it touches a cargo unloader.
+When a train carriage passes by the cargo loader it'll take 4 items max from the chest and carries it until it touches a cargo unloader.
 
 <- Image of a Cargo Loader.
 
