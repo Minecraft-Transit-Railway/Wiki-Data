@@ -4,7 +4,7 @@
 ^  <html><font size = "4">Lilac Light Rail Route 101/102</font></html>\\ <html><font size = "4">麗蓮輕鐵101/ 102綫</font></html>  ^^
 |@#4CEDD3:||
 |@#4D4BEE:||
-|  {{102_scrn.png?300&direct}}  ||
+|  {{101_scrn.png?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Eden|
 |**Transit type**|Light Rail Transit|
