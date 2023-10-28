@@ -1,0 +1,56 @@
+=====Lilac Light Rail Route 405=====
+**Lilac Light Rail Route 405** (Chinese: **麗蓮輕鐵405綫**) is a [[lilac_light_rail]] route connecting Bridge Bay stop and Belvedere stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 405</font></html>\\ <html><font size = "4">麗蓮輕鐵405綫</font></html>  ^^
+|@#FCBB01:||
+|  {{405_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Chou Wai|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Belvedere|
+|**Terminus**|Bridge Bay|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|10|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Bridge Bay Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase IV|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|18 February 2023, 8 months ago|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+====History====
+On 14 February 2023, [[lilypad_rail]] proposed the Phase 2 plan of the Chou Wai corridor, together with route 405. This route goes from Bridge Bay stop to Belvedere stop, to provide connections with Oculink Red and Yellow Line, and Sightseeing Express from Chou Wai area.
+
+On 18 February 2023, Phase 2 of Chou Wai corridor and Route 405 was fully operational. 
+
+On 18 May 2023, [[lilypad_rail]] proposed to extend route 405 to Jonathan’s Resort from Belvedere via Melody Garden, but there were no more news about the extension up to now. Even in the "Lilac Light Rail Reform Plan 2023", there were no changes in route 405 except for decreasing the frequency to 5 minutes. However, [[qingli_railways|Qingli Railways]] and [[lilypad_rail]] are discussing if it is possible to keep the frequency unchanged, since the length of independent sections of route 405 is very long and high frequency will not impact the other routes too much.
+====Stations====
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#FCBB01:<color white>**Lilac Light Rail Route 405**</color>  ||||||
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Bridge Bay\\ 橋灣|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]  ||18 February 2023|
+|:::|:::|:::|  Proctor Bridge  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>  |:::|
+|:::|Precious Cove\\ 水嶺澳|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]   ||:::|
+|:::|Leng Tan\\ 嶺灘|:::|:::||:::|
+|:::|Tiu Keng Shan\\ 照鏡山|:::| ||:::|
+|:::|Tiu Keng Tei\\ 照鏡地|:::|:::||:::|
+|  @#D8E8C4:\\ \\ \\ \\ \\ <color #25A353>**<html><font size="4">4A</font></html>**</color>  |Mount Lindbergh North\\ 林堡山北|:::|:::||:::|
+|:::|Da Xiao Hu\\ 大小湖|:::|:::||:::|
+|:::|Hua Shan\\ 華山|:::|:::||:::|
+|:::|Tai Luk Bridge\\ 大陸橋|:::|:::||:::|
+|:::|Belvedere\\ 美景宮|:::|  Belvedere  |  <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>  |:::|
+====Fare Zones====
+- <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4A: Mount Lindbergh North ⇄ Belvedere
+\\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Bridge Bay ⇄ Tiu Keng Tei
+====Independent Sections====
+- Track section between Leng Tan and Belvedere
+====Reference Pages====
+- [[lilac_light_rail]]
+\\ - [[lrt_492]]
+\\ - [[lrt_410]]
