@@ -16,5 +16,13 @@ The chest can not be under the cargo loader since in Minecraft, you can't open a
 
 ===== Cargo Unloaders =====
 
-{{cargounloader.png?100x100&nolink |An image of the Cargo Unloader block.}}
+{{cargounloader.png?100x100&nolink |An image of the Cargo Unloader block.}}The Cargo Unloader functions the same as the Cargo Loader but the opposite way.
+
+When a train carriage passes by the cargo unloader it'll put the item stored inside the carriage into the chest next to the cargo unloader, leaving the carriage empty.
+
+<- Image of a Cargo Unloader
+
+{{chestunloader.png?100x100&nolink |An image of a chest on top of the Cargo Unloader block.}}<- An example of a chest on top of the cargo unloader.
+
+Same thing, the chest can not be under the cargo unloader since in Minecraft, you can't open a chest if there's a solid block on top unless it's a slab.
 
