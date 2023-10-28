@@ -1,11 +1,15 @@
 ====== Version 3.0.X ======
+
 TODO: description
 
 ===== Releases =====
+
 Version 3.0 was developed in a series of unofficial, preview, and pre-releases on the Discord server.
 
 TODO: add links
+
 === Beta-2 ===
+
   * Improved train dismounting position checks
   * Added the clock block
   * Flattened textures to reduce file size
@@ -14,6 +18,7 @@ TODO: add links
   * Display speedometer when riding trains
 
 === Beta-3 ===
+
   * Added the Light Rail (Phase 1) train
   * Added 9 new station colour blocks, including quartz and purpur
   * Added the ticket machine, glass fence, and the station name entrance block
@@ -23,6 +28,7 @@ TODO: add links
   * Improved train movement
 
 === Beta-4 ===
+
   * Added lots of signs! These include platform route signs and direction signs that hang from the ceiling.
   * PSD, APG and platform route signs now show interchanges
   * Improved train auto spacing at stations
@@ -34,12 +40,14 @@ TODO: add links
   * For resourcepack authors: Moved logo.png from mtr:textures/block to mtr:textures/sign
 
 === Beta-5 ===
+
   * Added smoother train rides
   * Added train sounds
   * Added the C1141A model
   * Added multiple platforms and routes to [[mtr:railway_sign|railway signs]]
 
 === Beta-6 ===
+
   * Fixed dashboard conflicts
   * Added [[mtr:ticket_barrier|Ticket Barrier]]s
   * Added a new type of [[mtr:passenger_information_display_system|PIDS]]
@@ -51,6 +59,7 @@ TODO: add links
   * Added crafting recipes to most items
 
 === Beta-7 ===
+
   * Omni-directional [[mtr:platform_blocks|platform blocks]]
   * Add train variants through a resource pack
   * Added the K-train
@@ -61,8 +70,10 @@ TODO: add links
   * Added one-way rails
   * Added Light Rail Phase 2 and 3 trains ([[mtr_community:eric|Eric]])
   * Replay mod support
+  * Default stop time for trains has been increased from 6 seconds to 10 seconds (K-train requires more than 6 seconds to play the open and close door animations.)
 
 === Beta-8 ===
+
   * Added car lengths to [[mtr:passenger_information_display_system|PIDS]]
   * Added the MLR train
   * Added the R179 train
@@ -87,6 +98,7 @@ TODO: add links
   * Added 4-door trains ([[mtr_community:bdark000|BDark000]])
 
 === Beta-9 ===
+
   * Added cargo loader and unloader ([[mtr_community:simba|Simba]])
   * Added the Disneyland Resort Line train ([[mtr_community:eric|Eric]])
   * Added the tunnel, bridge, and tunnel wall creator
@@ -106,6 +118,7 @@ TODO: add links
   * Emerald rail (60km/h) and Quartz rail (200km/h) ([[mtr_community:bdark000|BDark000]])
 
 ==== V3.0.0 ====
+
   * New trains: London Underground D78, London Underground 1996, S-Train, unrefurbished M-Train, R211, British Rail Class 802
   * Route maps on route signs, platform screen doors, and automatic platform gates will now combine lines if they share common stations
   * Certain signs will now show text using the custom font (without crashing)
@@ -133,6 +146,7 @@ TODO: add links
   * For circular routes, the PIDS and online map will now show more detail, for example "Clockwise via Green Horizons" rather than just the last stop of the route
 
 ==== V3.0.1 ====
+
   * Added cable cars ([[mtr_community:aozoramarcus|AozoraMarcus]])
   * Added lifts
   * Added the resource pack creator
@@ -144,5 +158,6 @@ TODO: add links
   * Online system map now shows train delays
   * Added BVE sound support ([[mtr_community:nemo|Nemo]])
 
-^   <- Prev   ^   Current   ^   Next ->   ^
-|   --   |   [[mtr:3.0.x | V3.0.X]]   |   [[mtr:3.1.x | V3.1.X]]   |
+^  <- Prev  ^  Current  ^  Next ->  ^
+|  --  |  [[mtr:3.0.x| V3.0.X]]  |  [[mtr:3.1.x| V3.1.X]]  |
+
