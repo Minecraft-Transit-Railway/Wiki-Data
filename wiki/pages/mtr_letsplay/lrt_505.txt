@@ -40,6 +40,8 @@ Also, in the reform plan, this route and [[lrt_101_2|route 102]] are the only ro
 |:::|South Memorial\\ 南紀念|:::|  South Memorial  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
 ====Fare Zones====
 - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Makki Memorial Village ⇄ South Memorial
+====Independent Sections====
+- Track section between Makki Memorial Village and South Memorial
 ====Reference Pages====
 - [[lilac_light_rail]]
 \\ - [[lrt_802]]
