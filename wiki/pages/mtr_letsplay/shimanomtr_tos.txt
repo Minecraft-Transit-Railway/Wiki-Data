@@ -1,4 +1,6 @@
 ======ShimanoMTR Team of Use======
+These terms and conditions are deemed to have been agreed to when riding on SMTR or SLRT. Please be sure to read it.
+
 =====[IMPORTANT] Regarding resource packs used in SMTR/TRT.=====
 The resource packs used by ShimanoMTR and Terralith Rapid Transit (TRT) are intended to be used on the Let's Play Server (LPS). 
 **Any use other than LPS is not permitted for any reason.**
@@ -16,15 +18,17 @@ Please note that we will **STRICTLY deal** with it if it is used.
 4. Do not engage in acts that violate public order and morals, such as graffiti or trolling.
 
 5. The following items are dangerous items, so please do not bring them on the train.
-  * a. Flammable liquids such as gasoline, kerosene, light oil, etc.
+  * a. Flammable liquids such as gasoline, kerosene, light oil, etc.(Regardless of the amount, it cannot be brought in.)
   * b. High-pressure gas such as propane gas and liquid nitrogen (Regardless of the amount, it cannot be brought in.)
   * c. Explosives such as ammunition, TNT, end crystals;
   * d. Poisons and pesticides such as Novi Vodka, Link's Potion (Depending on the packing condition, you may be able to bring it in.)
   * e. Cutlery such as swords, axes, ice axes, shovels, tridents and scissors; (Except when holding a sword to prevent destruction of equipment in creative mode.)
+  * f. Items that may cause trespassing, such as ender pearls (can only be used by R2C runners and in emergencies)
+
 6. Use of SMTR is limited to those who have an official Minecraft launcher (an account that has purchased Minecraft). Cracked launchers such as TLauncher cannot use SMTR. If you are caught using a cracked launcher while boarding, you will be forcibly disembarked at the nearest station and will be prohibited from using it in the future.
 
 7. The Cinderace line is unmanned (GoA4), and the other lines are operated by a single driver. When the departure melody ends, the doors will close, so please use the next train. It is very dangerous to rush to board when the door is about to close.
 
 8. Please set your mobile phone to silent mode so as not to disturb other guests. 
 
-Revised on July 22, 2023
+Revised on October 28, 2023
