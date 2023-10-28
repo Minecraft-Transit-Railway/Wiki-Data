@@ -1,29 +1,32 @@
 ====== Minecraft Transit Railway ======
 
-**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods | Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
+**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods| Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
 
 This mod is available for Minecraft Forge and Fabric versions 1.16, 1.17, 1.18, and 1.19 (1.20 is also available in Alpha stages, please create backups before using this version).
 
-Please report any issues or bugs that you find; that would be greatly appreciated! Refer to the [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues | GitHub issues tab]] or the [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List | todo list]] to see currently known issues.
+Please report any issues or bugs that you find; that would be greatly appreciated! Refer to the [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| GitHub issues tab]] or the [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List| todo list]] to see currently known issues.
 
 ===== Getting Started =====
 
-This [[/getting_started|text tutorial]] or [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC | video playlist]] will walk you through the basic steps for setting up your very first railway.
+This [[/getting_started|text tutorial]] or [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC| video playlist]] will walk you through the basic steps for setting up your very first railway.
 
 ===== Downloads and Installation =====
 
-Head over to the [[https://modrinth.com/mod/minecraft-transit-railway | Modrinth page]] or [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway | CurseForge Page]] to download the mod or to see the project information.
+Head over to the [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth page]] or [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge Page]] to download the mod or to see the project information.
 
 ===== Versions =====
-  * [[mtr:3.0.X | V3.0.X]]
-  * [[mtr:3.1.X | V3.1.X]]
-  * [[mtr:3.2.X | V3.2.X]]
-  * [[mtr:4.0.X | V4.0.X]]
+
+  * [[mtr:3.0.X| V3.0.X]]
+  * [[mtr:3.1.X| V3.1.X]]
+  * [[mtr:3.2.X| V3.2.X]]
+  * [[mtr:4.0.X| V4.0.X]]
 
 ===== Wiki Pages =====
-~~NOCACHE~~
-<nspages -textPages="" -title -exclude>
+
+ <nspages -textPages="" -title -exclude>
 
 ===== License =====
 
-This project is licensed with the [[https://opensource.org/licenses/MIT | MIT License]]. All [[http://www.google.com/get/noto/ | Noto fonts]], bundled with this mod, are licensed with the [[http://scripts.sil.org/OFL | Open Font License]].
+This project is licensed with the [[https://opensource.org/licenses/MIT| MIT License]]. All [[http://www.google.com/get/noto/| Noto fonts]], bundled with this mod, are licensed with the [[http://scripts.sil.org/OFL| Open Font License]].
+
+~~NOCACHE~~
