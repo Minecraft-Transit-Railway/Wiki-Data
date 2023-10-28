@@ -1,2 +1,79 @@
 =====Lilac Light Rail Route 410=====
-**Lilac Light Rail Route 410** (Chinese: **麗蓮輕鐵410綫**) is a Lilac Light Rail route connecting Bridge Bay stop and Enchanted South Hill stop, and is jointly owned by Lilypad Rail and Qingli Railways.
+**Lilac Light Rail Route 410** (Chinese: **麗蓮輕鐵410綫**) is a [[lilac_light_rail]] route connecting Bridge Bay stop and Enchanted South Hill stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 410</font></html>\\ <html><font size = "4">麗蓮輕鐵410綫</font></html>  ^^
+|@#EA001D:||
+|  {{410_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Mou Tapu\\ Oculus\\ Resort\\ Chou Wai|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Enchanted South Hill|
+|**Terminus**|Bridge Bay|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|22|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|25 February 2023, 8 months ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]\\ [[lilypad_rail]]|
+</WRAP>
+====History====
+On 9 February 2023, [[qingli_railways|Qingli Railways]] and [[lilypad_rail]] released a collaborative proposal of a new light rail route 410, connecting the Chou Wai corridor and Enchanted South Hill. This proposal included 2 new stations between Blackland and Yin Pan Tsuen, Ginza and Yurine, with a residential area development near these 2 stations. Route 410 was announced to be the first light rail route being co-owned by both companies. 
+
+On 25 February 2023, Ginza and Yurine stations with the connecting tracks are completed. Route 410 was fully operational, running between Enchanted South Hill and Bridge Bay.
+
+Trains on route 410 also through runs on [[lrt_810|route 810]], which means that when a route 810 train terminates at Enchanted South Hill stop, it changes to route 410 and travels to Bridge Bay stop. When this train comes back to Enchanted South Hill from Bridge Bay, it changes back to [[lrt_810|route 810]] and travels back to Light Rail Depot stop. 
+====Stations====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EA001D:<color white>**Lilac Light Rail Route 410**</color>  ||||||
+|  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #25A353>**<html><font size="4">4</font></html>**</color>  |Enchanted South Hill\\ 迷惑南山|Mou Tapu|   [[lrt_810|{{810.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  <color white/#FB894B>**<html>&nbspEnchanted Scenic Free Cable Car&nbsp</html>**</color>  ||:::|
+|:::|Stone Shore (West)\\ 石岸（西）|:::|  [[lrt_810|{{810.png?40&direct}}]]  ||:::|
+|:::|Stone Shore (East)\\ 石岸（東）|:::|:::||:::|
+|:::|Mou Tapu\\ 慕塔普|:::|  [[lrt_810|{{810.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Mou Tapu  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#405F8E>**<html>&nbspOculink Blue Line&nbsp</html>**</color>  |:::|
+|:::|Origin Mountain\\ 起點山|:::|  [[lrt_810|{{810.png?40&direct}}]]  ||:::|
+|:::|Shun Tin\\ 順天|:::|:::||:::|
+|:::|Forest Boundaries\\ 森林交界|:::|:::||:::|
+|:::|Āoraki\\ 庫克山|Oculus|  [[lrt_492|{{483p.png?40&direct}}]]  [[lrt_882|{{882.png?40&direct}}]]  ||7 November 2022|
+|:::|:::|:::|  Āoraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
+|:::|Āoraki North\\ 庫克山北|:::|  [[lrt_492|{{483p.png?40&direct}}]]  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Kaijin Ferry Pier\\ 凱金碼頭|:::|  [[lrt_492|{{483p.png?40&direct}}]]  [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kaijin-Kowloon Express Ferry  ||:::|
+|  @#C2BED6:\\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Oculus Center\\ 眼窗中心|:::|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Oculus Center  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yellow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>  |:::|
+|:::|Blackland\\ 黑石地|Resort|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|Ginza\\ 銀座|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||25 February 2023|
+|:::|Yurine\\ 百合玲|:::|:::||:::|
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Yin Pan Tsuen\\ 然噴泉|:::|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]  ||10 February 2023|
+|:::|Temple\\ 寺廟|Chou Wai|:::||:::|
+|:::|Ma Tau Peninsula\\ 碼頭半島|:::|:::||:::|
+|:::|Bamboo Hill\\ 竹山腳|:::|:::||:::|
+|:::|Chou Wai\\ 草圍|:::|:::||:::|
+|:::|Leng Tan\\ 嶺灘|:::|  [[lrt_405|{{405.png?40&direct}}]] [[lrt_492|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]  ||18 February 2023|
+|:::|Precious Cove\\ 水嶺澳|:::|:::||:::|
+|:::|Bridge Bay\\ 橋灣|:::|:::||:::|
+</WRAP>
+====Fare Zones====
+- <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Enchanted South Hill ⇄ Kaijin Ferry Pier 
+\\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Yurine
+\\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Yin Pan Tsuen ⇄ Bridge Bay 
+\\ Route 410 can meet up with other routes: 405, 483P, 492, 633, 810, 882
+====Independent Sections====
+- Track section between Forest Boundaries and Āoraki
+\\ - Track section between Yurine and Yin Pan Tsuen
+====Reference Pages====
+- [[lilac_light_rail]]
+\\ - [[lrt_492]]
+\\ - [[lrt_810]]
+\\ - [[lrt_633]]
+\\ - [[lrt_882]]
