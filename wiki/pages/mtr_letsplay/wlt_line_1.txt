@@ -23,12 +23,14 @@
 | **Service Hours** | 24/7 |
 | **Frequency** | Every 5m15s |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
-| **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]] (small variant)\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
+| **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
 | **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ After renovation:\\ TBA |
 ^  Technical  |^
 | **Line Length** | 5.8 km |
 | **Number of**\\ **Tracks** | Double Track |
+| **Gauge** | 1435 mm |
+| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Northern Snow Village - Hung Ngai Tung)//
 | **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
@@ -81,10 +83,17 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 
 ^  Car Formation of SP1900 Trains  |||||^
-^  Car Prefix  ^  Driver's Cabin  ^  Pantograph  ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
 |  **D1xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
 |  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
 |  **M1xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+
+^  Car Formation of MLR Trains  |||||^
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
+|  **D1xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
+|  **L1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
+
 
 ===== Operations =====
 
