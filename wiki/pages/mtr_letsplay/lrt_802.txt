@@ -28,6 +28,7 @@
 
 ^  <html><font size = "4">Lilac Light Rail Route 802S</font></html>\\ <html><font size ="4">麗蓮輕鐵802S綫</font></html>  ^^
 |@#FF0066:||
+|  {{802s_scrn.png?40&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Kallos\\ Toitoi\\ Spawn|
 |**Service type**|Light Rail Transit|
