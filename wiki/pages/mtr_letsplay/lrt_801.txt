@@ -10,7 +10,7 @@
 |**Service type**|Light Rail Transit|
 |**System**|[[mtr_letsplay:lilac_light_rail|Lilac Light Rail]]|
 |**Status**|Operational|
-|**Starting stop**|Kallos|
+|**Starting stop**|Light Rail Depot|
 |**Terminus**|Eden|
 ^  Technical  ^^
 |**Character**|At-grade\\ Underground|
@@ -44,6 +44,7 @@ Qingli Railways and Lilypad Rail has been discussing about the future plans of L
 <WRAP left>
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#F08A2D:<color white>**Lilac Light Rail Route 801**</color>  ||||||
 |  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
 |:::|:::|:::|Light Rail Depot|  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
