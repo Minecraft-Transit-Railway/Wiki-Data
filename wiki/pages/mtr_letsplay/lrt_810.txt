@@ -32,13 +32,15 @@ On 17 September 2022, Qingli Railways proposed this route together with an upgra
 
 On 10 October 2022, this route is completed with the new Light Rail Depot stop. 
 
-This route has not been edited since opened, even in the newest "Lilac Light Rail Reform Plan 2023", this route remains unchanged except for reducing the frequency from 4.5 minutes to 5 minutes.
+On 29 October 2023, Royal Park is added to Enchanted South Hill bound for future connections to Elizabeth Line and [[lrt_804|route 804]].
 
 ====Stations====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#0AECE1:**Lilac Light Rail Route 810**  ||||||
-|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|  @#F7D0C9:\\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|:::|:::|:::|  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
 |:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
 |  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Forest Boundaries\\ 森林交界|Mou Tapu|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
