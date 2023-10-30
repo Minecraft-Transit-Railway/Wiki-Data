@@ -67,12 +67,16 @@ On 4 February 2023, Jonathan's Resort Light Rail Terminal was completed. Route 8
 
 On 4 March 2023, the extension was completed. Route 482P was fully operational, and Route 882 was officially extended to Heung Fan Liu Airport.
 
+On 29 October 2023, Royal Park is added to Heung Fan Liu Airport bound for future connections to Elizabeth Line and [[lrt_804|route 804]].
+
 According to "Lilac Light Rail Reform Plan 2023", route 882 will once again terminate at Jonathan's Resort. Route 482P and the connection between Heung Fan Liu Airport and Jonathan’s Resort of Route 882 will be replaced by the extension of [[lrt_720|route 720]] and [[lrt_601|route 601]].
 
 ====Stations====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #5000DF , #00D200)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 882, 482P</b></p></font></div></body></html>  ||||||
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 September 2022|
+|:::|:::|:::|Light Rail Depot|  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||29 October 2023|
 |:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
 |  @#D8E8C4:\\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Āoraki\\ 庫克山|Oculus|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_483P|{{483p.png?40&direct}}]]  ||7 November 2022|
