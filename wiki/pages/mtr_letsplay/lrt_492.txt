@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 492, 483P=====
+======Lilac Light Rail Route 492, 483P======
 **Lilac Light Rail Route 492** (Chinese: **麗蓮輕鐵492綫**) is a Lilac Light Rail route connecting Bridge Bay stop and Jonathan’s Resort stop, and is jointly owned by Lilypad Rail and Qingli Railways.
 
 **Lilac Light Rail Route 483P** (Chinese: **麗蓮輕鐵483P綫**) is a longer version of route 492, connecting Chou Wai and Light Rail Depot.
@@ -52,7 +52,7 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[lilypad_rail]]|
 </WRAP>
-====History====
+=====History=====
 On 6 February 2023, Lilypad Rail proposed a new route 492 starting from Jonathan’s Resort to Bridge Bay. This is the first light rail route serving the west of Jonathan’s Resort. On the same day, Qingli Railways also announced to cooperate with Lilypad Rail to operate a new peak hour light rail route 492P running from Chou Wai to Light Rail Depot.
 
 On 10 February 2023, the track section between Jonathan’s Resort and Chou Wai was completed. Route 492 and 492P went fully operational to Chou Wai. The route number of 492P has been converted to 483P.
@@ -62,7 +62,7 @@ On 18 February 2023, the track section between Bridge Bay and Chou Wai is comple
 On 29 October 2023, Royal Park is added to Chou Wai bound of route 483P for future connections to Elizabeth line and [[lrt_804|route 804]].
 
 According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be unchanged, but the frequencies will be lowered to 5 and 15 minutes respectively.
-====Stations====
+=====Stations=====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #187237 , #155085)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 492, 483P</b></p></font></div></body></html>  ||||||
@@ -96,16 +96,16 @@ According to "Lilac Light Rail Reform Plan 2023", Routes 492 and 483P will be un
 |:::|Bridge Bay\\ 橋灣|:::|  [[lrt_405|{{405.png?40&direct}}]] [[lrt_410|{{410.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Proctor Bridge  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>  |:::|
 </WRAP>
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai (Only suitable for route 483P)
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Āoraki ⇄ Kaijin Ferry Pier (Only suitable for route 483P)
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Melody Garden (Section between Jonathan’s Resort and Oculus Center only suitable for route 483P)
 \\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Yin Pan Tsuen ⇄ Bridge Bay (Section between Leng Tan and Bridge Bay only suitable for route 492)
 \\ Route 492, 483P can meet up with other routes: 405, 410, 482P, 633, 801, 802, 810, 882
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Melody Garden and Yin Pan Tsuen
 \\ - Track section between Resort North Village and Badsand Beach
-====Reference Pages====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_882]]
 \\ - [[lrt_405]]
