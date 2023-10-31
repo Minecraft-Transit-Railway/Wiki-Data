@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 810=====
+======Lilac Light Rail Route 810======
 **Lilac Light Rail Route 810** (Chinese: **麗蓮輕鐵810綫**) is a [[lilac_light_rail]] route connecting Light Rail Depot stop and Enchanted South Hill stop, and is jointly owned by [[lilypad_rail]] and Qingli Railways.
 
 <WRAP right>
@@ -27,14 +27,14 @@
 |**Operator(s)**|Qingli Railways|
 </WRAP>
 
-====History====
+=====History=====
 On 17 September 2022, Qingli Railways proposed this route together with an upgrade on Kallos LRT stop (current Light Rail Depot stop) to a High Speed stop. 
 
 On 10 October 2022, this route is completed with the new Light Rail Depot stop. 
 
 On 29 October 2023, Royal Park is added to Enchanted South Hill bound for future connections to Elizabeth Line and [[lrt_804|route 804]].
 
-====Stations====
+=====Stations=====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#0AECE1:**Lilac Light Rail Route 810**  ||||||
@@ -54,15 +54,15 @@ On 29 October 2023, Royal Park is added to Enchanted South Hill bound for future
 |:::|:::|:::|  <color white/#FB894B>**<html>&nbspEnchanted Scenic Free Cable Car&nbsp</html>**</color>  ||:::|
 </WRAP>
 
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Forest Boundaries ⇄ Enchanted South Hill
 \\ Route 810 can meet up with other routes: 410, 483P, 801, 802, 882
 
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Shek Ai and Forest Boundaries
 
-====Also see====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_410]]
 \\ - [[lrt_882]]
