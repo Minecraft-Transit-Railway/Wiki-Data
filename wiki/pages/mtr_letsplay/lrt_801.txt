@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 801======
+======Lilac Light Rail Route 801======
 **Lilac Light Rail Route 801** (Chinese: **麗蓮輕鐵801綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Eden stop, and is jointly owned by Qingli Railways and Lilypad Rail. Although Route 801 is technically the first route built by Qingli Railways, the original route 801 is renamed into route 802. This route goes via Kallos, Karest Lake, New Red Leaves, towards Eden.
 
 <WRAP right>
@@ -26,7 +26,7 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
 </WRAP>
-====History====
+=====History=====
 On 5 August 2022, the first route built by Qingli Railways, route 801 went fully operational. The original 801 runs from Kallos to Kallos Ferry Pier.
 
 On 11 August 2022, route 801 has been splitter into 2 routes, routes 801 and 801P. This is the original form for the current route 801, which runs from Kallos to Karest Lake Beach. 
@@ -42,7 +42,7 @@ On 29 October 2023, Royal Park stop is added in Eden bound for future connection
 Qingli Railways and Lilypad Rail has been discussing about the future plans of Lilac Light Rail. In the plan, Qingli Railways suggested to further extend route 801 to Yi Long, and set up a new route 801P to serve Yi Yao to Winry after Eden. Consultations will be held soon.
 
 <WRAP left>
-====Stations====
+=====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#F08A2D:<color white>**Lilac Light Rail Route 801**</color>  ||||||
 |  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
@@ -68,12 +68,18 @@ Qingli Railways and Lilypad Rail has been discussing about the future plans of L
 |:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Eden\\ 伊甸|:::|  Eden  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
 
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Karest Lake (West) and Karest Lake Beach
 \\ - Track section from Yi Lok to Eden, and to Yi Yao
 
-====Fare Zones of stations along route 801====
+=====Fare Zones of stations along route 801=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Spruce Forest
 \\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: New Red Leaves ⇄ Eden
 \\ Route 801 can meet up with other light rail routes: 101, 102, 115, 483P, 802, 810, 882
 </WRAP>
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_802]]
+\\ - [[lrt_115]]
+\\ - [[lrt_101_2]]
+\\ - [[lrt_803]]
