@@ -1,12 +1,12 @@
-====== Wilds Railway / Lilypad Rail S4-P and S5-P Stock ======
+<html><head><style>@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');#title {height:40px;font-family: 'Hammersmith One', sans-serif}</style></head><body><div id="title"><font color="black"; size="6"><b>Wilds Railway / Lilypad Rail S4-P and S5-P Stock</b></p></font></div></body></html>
 
 <WRAP 300px right>
 
-|  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>British Rail Class 508 (4PER)</b></p></font></div></body></html>  ||
+|  <html><head><style>#grad1 {height:44px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b);font-family: 'Hammersmith One', sans-serif, sans-serif}</style></head><body><div id="grad1"><font color="white"; size="4.5"><b>Wilds Railway / Lilypad Rail S4-P and S5-P Stock</b></p></font></div></body></html>  ||
 |  {{ :mtr_letsplay:s5-p_boulton.png?280 }}S5-P stock near Boulton-on-Mesa.  ||
 |  {{ :mtr_letsplay:s4-p_aldgate.png?280 }}S4-P Stock in Aldgate.  ||
 |  {{ :mtr_letsplay:s4-p_int.png?280 }}Interior of a S4-P stock.  ||
-|  <html><body><div id="grad1"><font color="white"; size="3.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
+|  <html><body><div id="grad1"><font color="white"; size="4.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
 | **In service** | November, 2022 - Present |
 | **Creator** | [[mtr_community:navi_lx9702|Navi]] |
 | **Built at** | Cheshire |
@@ -21,7 +21,7 @@
 | **Owner(s)** | [[wp>Porterbrook|Porterbook]] |
 | **Line(s) served** | WR Aldgate & Resort Line |
 | ::: | Metro Victory Line |
-|  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>MTR (and Let's Play Server) Specifications</b></p></font></div></body></html>  ||
+|  <html><head></head><body><div id="grad1"><font color="white"; size="4.5"><b>MTR (and Let's Play Server) Specifications</b></p></font></div></body></html>  ||
 | **%%Car body construction%%** | Steel and Aluminium |
 | **Car Length** | 19000mm |
 | **%%Width%%** | ? |
@@ -54,18 +54,18 @@
 
 **Wilds Railway / Lilypad Rail S4-P and S5-P Stocks** are trains that runs in the Let's Play server. They are based on M-train small variant, with texture that strongly resembles a [[wp>London_Underground_S7_and_S8_Stock|London Underground S7 and S8 Stock]]. The train starts to be in service from November 2022 and still operates in both Victory Line and Aldgate & Resort Line.
 
-====== In Let's Play server ======
+===== In Let's Play server =====
 
-===== Wilds Railway S4-P Stock =====
+==== Wilds Railway S4-P Stock ====
 
 [[mtr_letsplay:wilds_railway]] acquired one S4-P stock from an unknown leasing company [[wp>Porterbook]] and painted the handrail to A&R Green. The train enters service from November 2022 once the line has opened.
 
-|  <html><head><style>#grad2 {height:22px;background-image: linear-gradient(to right, #0fe47b , #0fe47b)}</style></head><body><div id="grad2"><font color="black"; size="3.5"><b>Formations of WR S4-P stock</b></p></font></div></body></html>  ||||
+|  <html><head><style>#grad2 {height:22px;background-image: linear-gradient(to right, #0fe47b , #0fe47b);;font-family: 'Hammersmith One', sans-serif}</style></head><body><div id="grad2"><font color="black"; size="4.5"><b>Formations of WR S4-P stock</b></p></font></div></body></html>  ||||
 | **%%<-Towards Jonathan's Resort%%**  ||  **%%Towards Aldgate->%%** ||
 | DTSO / KuHa | MSO / MoHa | MSO / MoHa | DTSO / KuHa |
 | A292 | C292 | C294 | A294 |
 
-===== Lilypad Rail S5-P Stock =====
+==== Lilypad Rail S5-P Stock ====
 
 Following the introduction of S4-P stocks in Aldgate & Resort Line, [[mtr_letsplay:lilypad_rail]] raised an interest of introducing the SX-P stocks to unify the cooperate image in Greater Llanmara. As Lilypad Rail is satisfied by the quality of the train, they introduced a **finite number of** nearly identical train with Wilds Railway S4-P Stock, with the only 2 differences of being 5 cars and have all the handrails painted red instead. They are therefore called S5-P stocks, and entered service in around November to December 2022.
 
