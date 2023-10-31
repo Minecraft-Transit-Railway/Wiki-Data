@@ -1,0 +1,79 @@
+====== Wilds Railway / Lilypad Rail S4-P and S5-P Stock ======
+
+<WRAP 400px right>
+
+|  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>British Rail Class 508 (4PER)</b></p></font></div></body></html>  ||
+|   ||
+|  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
+| **In service** | November, 2022 - Present |
+| **Creator** | [[mtr_community:navi_lx9702|Navi]] |
+| **Built at** | Cheshire |
+| **Family Name** | Psuedo Movia |
+| **%%Constructed%%** | 2022 |
+| **Formation** | S4-P Stock: A-C-C-A  |
+| ::: | S5-P Stock: A-C-D-C-A  |
+| **Capacity** | 313 per car |
+| **Operator(s)** | Current: |
+| ::: | [[mtr_letsplay:wilds_railway]] |
+| ::: | [[mtr_letsplay:lilypad_rail]] |
+| **Line(s) served** | WR Aldgate & Resort Line |
+| ::: | Metro Victory Line |
+|  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>MTR (and Let's Play Server) Specifications</b></p></font></div></body></html>  ||
+| **%%Car body construction%%** | Steel and Aluminium |
+| **Car Length** | 19000mm |
+| **%%Width%%** | ? |
+| **%%Height%%** | ? |
+| **Floor Height** | 1000mm |
+| **Doors** | Double-leaf enterior hanged, Standard doors |
+| **Wheelbase** | ? |
+| **Maximum Speed** | 300km/h (%%186.41%%mph) |
+| **%%Weight%%** | N/A |
+| **Traction system** | [[mtr_letsplay:lilypad_rail]] units:  |
+| ::: | <del>Mitsubishi %%MAP-242-A25V93/93A 2-level %%IGBT%%–%%C/I</del>  |
+| ::: | <del>GEC-Alsthom GTO-VVVF</del>  |
+| ::: | Bombardier MITRAC%% %%IGBT–VVVF |
+| ::: | [[mtr_letsplay:wilds_railway]] units: |
+| ::: | Mitsubishi %%MAP-242-A25V93/93A 2-level %%IGBT%%–%%C/I |
+| **Electric system(s)** | [[mtr_letsplay:lilypad_rail]] units: |
+| ::: | %%630–750 V DC %%[[wp>fourth_rail|fourth rail]]  |
+| ::: | [[mtr_letsplay:wilds_railway]] units:  |
+| ::: | [[https://fireemblemwiki.org/wiki/Yune|Yune]]'s Grace  |
+| **Current collector(s)** | [[wp>Current_collector#Contact_shoe|Contact shoe]] |
+| **Bogies** | FZEOFO BX1 |
+| **Minimum turning radius** | ? |
+| **Braking system(s)** | ? |
+| **Safety System(s)** | Jon's Signalling |
+| **Coupling system** | Tightlock |
+| **Multiple working** | N/A |
+| **Track gauge** | MTR Standard |
+
+</WRAP>
+
+The **British Rail Class 508** or **4PER** in Southern Railway, is a Electric Multiple Unit (EMU) passenger train built by [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] between 1979 and 1980. They are one of the the BERL 1972 suburban train designs, others being Classes [[wp>British_Rail_Class_313|313]], [[wp>British_Rail_Class_314|314]], [[wp>British_Rail_Class_315|315]], and [[wp>British_Rail_Class_507|507]]. This train is designed and worked for Merseyside since 1983 and continue to do so. As of 2023, they are 44 years old and is due to be replaced gradually by [[wp>British_Rail_Class_777|Class 777]].
+
+====== In Minecraft Transit Railway ======
+
+[[mtr_community:navi_lx9702|Navi]] made the Class 508/1 for Minecraft Transit Railway since September. the train is made and a "prototype" is posted in the screenshots channel in the Discord Server. the screenshot is then attracted many players to give diamonds to it. In 17th September the pack is started to be available for public downloads.
+
+Starting form version 1.3 the train is one of the very few train that uses the new BVE sound system.
+
+====== In Let's Play server ======
+
+===== Class 508/1 =====
+
+An unknown number of Class 508/1 are currently serving AT Metro Circle Line.
+
+===== Class 508/4 =====
+
+The Class 508/4 is a modified version of Class 508/1, and is used for [[mtr_rp:wr_yanyu_line|WR Yanyu Line]]. A total of 5 trains are produced by [[mtr_community:navi_lx9702|Navi]] in Late September.
+
+Some of the Class 508/4s are used for AT Metro Circle Line until the Merseyrail Livery is uploaded early October, 2022.
+
+===== Class 508/5 =====
+
+the Class 508/5 are used for the [[mtr_rp:lilypad_rail|Lilypad Rail]]-[[mtr_rp:wilds_railway|Wilds Railway]] Overground services.
+
+A total of 10 trains are used. There are 5 trains which are refurbished again by Bombardier and equipped with a new VVVF inverter.
+
+The refurbished units also used in AT Metro as well since 30th December, 2022.
+
