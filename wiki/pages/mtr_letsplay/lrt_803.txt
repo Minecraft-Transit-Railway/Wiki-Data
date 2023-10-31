@@ -36,7 +36,7 @@ On 29 October 2023, Royal Park stop is added to route serving Light Rail Depot s
 |  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
 |:::|:::|:::|  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
-|:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
+|:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||5 August 2022|
 |:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|Kallos Mountain Forest\\ 麗山森林|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
 |:::|Karest Lake (East)\\ 麗林湖（東）|:::|:::||:::|
@@ -61,3 +61,4 @@ On 29 October 2023, Royal Park stop is added to route serving Light Rail Depot s
 \\ - [[lrt_801]]
 \\ - [[lrt_802]]
 \\ - [[lrt_115]]
+\\ - [[lrt_505]]
