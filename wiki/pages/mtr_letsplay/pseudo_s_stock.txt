@@ -3,7 +3,9 @@
 <WRAP 300px right>
 
 |  <html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>British Rail Class 508 (4PER)</b></p></font></div></body></html>  ||
-|   ||
+|  {{ :mtr_letsplay:s5-p_boulton.png?280 }}S5-P stock near Boulton-on-Mesa.  ||
+|  {{ :mtr_letsplay:s4-p_aldgate.png?280 }}S4-P Stock in Aldgate.  ||
+|  {{ :mtr_letsplay:s4-p_int.png?280 }}Interior of a S4-P stock.  ||
 |  <html><body><div id="grad1"><font color="white"; size="3.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
 | **In service** | November, 2022 - Present |
 | **Creator** | [[mtr_community:navi_lx9702|Navi]] |
@@ -50,7 +52,7 @@
 
 </WRAP>
 
-**Wilds Railway / Lilypad Rail S4-P and S5-P Stocks**%% are trains that runs in the Let's Play server. They are based on M-train small variant, with texture that strongly resembles a [[wp>London_Underground_S7_and_S8_Stock|London Underground S7 and S8 Stock]]. The train starts to be in service from November 2022 and still operates in both Victory Line and Aldgate & Resort Line.%%
+**Wilds Railway / Lilypad Rail S4-P and S5-P Stocks** are trains that runs in the Let's Play server. They are based on M-train small variant, with texture that strongly resembles a [[wp>London_Underground_S7_and_S8_Stock|London Underground S7 and S8 Stock]]. The train starts to be in service from November 2022 and still operates in both Victory Line and Aldgate & Resort Line.
 
 ====== In Let's Play server ======
 
