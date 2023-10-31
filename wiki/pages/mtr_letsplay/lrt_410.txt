@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 410=====
+======Lilac Light Rail Route 410======
 **Lilac Light Rail Route 410** (Chinese: **麗蓮輕鐵410綫**) is a [[lilac_light_rail]] route connecting Bridge Bay stop and Enchanted South Hill stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 410</font></html>\\ <html><font size = "4">麗蓮輕鐵410綫</font></html>  ^^
@@ -25,13 +25,13 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[qingli_railways|Qingli Railways]]\\ [[lilypad_rail]]|
 </WRAP>
-====History====
+=====History=====
 On 9 February 2023, [[qingli_railways|Qingli Railways]] and [[lilypad_rail]] released a collaborative proposal of a new light rail route 410, connecting the Chou Wai corridor and Enchanted South Hill. This proposal included 2 new stations between Blackland and Yin Pan Tsuen, Ginza and Yurine, with a residential area development near these 2 stations. Route 410 was announced to be the first light rail route being co-owned by both companies. 
 
 On 25 February 2023, Ginza and Yurine stations with the connecting tracks are completed. Route 410 was fully operational, running between Enchanted South Hill and Bridge Bay.
 
 Trains on route 410 also through runs on [[lrt_810|route 810]], which means that when a route 810 train terminates at Enchanted South Hill stop, it changes to route 410 and travels to Bridge Bay stop. When this train comes back to Enchanted South Hill from Bridge Bay, it changes back to [[lrt_810|route 810]] and travels back to Light Rail Depot stop. 
-====Stations====
+=====Stations=====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#EA001D:<color white>**Lilac Light Rail Route 410**</color>  ||||||
@@ -64,15 +64,15 @@ Trains on route 410 also through runs on [[lrt_810|route 810]], which means that
 |:::|Bridge Bay\\ 橋灣|:::|:::||:::|
 |:::|:::|:::|  Proctor Bridge  |  <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>  |:::|
 </WRAP>
-====Fare Zones====
+=====Fare Zones=====
 - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Enchanted South Hill ⇄ Kaijin Ferry Pier 
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Yurine
 \\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Yin Pan Tsuen ⇄ Bridge Bay 
 \\ Route 410 can meet up with other routes: 405, 483P, 492, 633, 810, 882
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Forest Boundaries and Āoraki
 \\ - Track section between Yurine and Yin Pan Tsuen
-====Reference Pages====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_492]]
 \\ - [[lrt_810]]
