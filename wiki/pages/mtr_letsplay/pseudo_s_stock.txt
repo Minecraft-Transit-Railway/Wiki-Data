@@ -65,5 +65,5 @@
 
 ===== Lilypad Rail S5-P Stock =====
 
-Following the introduction of S4-P stocks in %%Aldgate & Resort Line, [[mtr_letsplay:lilypad_rail]] raised an interest of introducing the SX-P stocks to unify the cooperate image in Greater Llanmara. As Lilypad Rail is satisfied by the quality of the train, they introduced a **finite number of** nearly identical train with %%Wilds Railway S4-P Stock, with the only 2 differences of being 5 cars and have all the handrails painted red instead. They are therefore called S5-P stocks, and entered service in around November to December 2022.
+Following the introduction of S4-P stocks in Aldgate & Resort Line, [[mtr_letsplay:lilypad_rail]] raised an interest of introducing the SX-P stocks to unify the cooperate image in Greater Llanmara. As Lilypad Rail is satisfied by the quality of the train, they introduced a **finite number of** nearly identical train with Wilds Railway S4-P Stock, with the only 2 differences of being 5 cars and have all the handrails painted red instead. They are therefore called S5-P stocks, and entered service in around November to December 2022.
 
