@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 633=====
+======Lilac Light Rail Route 633======
 **Lilac Light Rail Route 633** (Chinese: **麗蓮輕鐵633綫**) is a [[lilac_light_rail]] route connecting Jonathan’s Resort stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 633</font></html>\\ <html><font size = "4">麗蓮輕鐵633綫</font></html>  ^^
@@ -25,13 +25,13 @@
 |**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[qingli_railways|Qingli Railways]]|
 </WRAP>
-====History====
+=====History=====
 On 21 February 2023, [[qingli_railways|Qingli Railways]] proposed the second((the first is [[lrt_410|route 410]])) co-owning route number 433, running from Jonathan’s Resort to Taipa, interchanging with AT Regional. The route number was later confirmed to be 633 instead of 433, as it is nothing related to the Chou Wai corridor. The construction commenced on 18 April 2023.
 
 On 7 May 2023, the track section from Oculus Center to Taipa is completed. Route 633 was then fully operational.
 
 According to "Lilac Light Rail Reform Plan 2023", Route 633 will remain unchanged, but there will be a new route 633P running from Taipa to Belvedere via Chou Wai. The color of Route 633P is tentatively set to be brown.
-====Stations====
+=====Stations=====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#00A9A6:<color white>**Lilac Light Rail Route 633**</color>  ||||||
@@ -51,14 +51,14 @@ According to "Lilac Light Rail Reform Plan 2023", Route 633 will remain unchange
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Humugath\\ 洪穆伽思|New Buckingham|:::||:::|
 |:::|Taipa\\ 氹仔|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
 </WRAP>
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Humugath ⇄ Taipa
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Qiuyou Yanji ⇄ Wing Palace
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Jonathan’s Resort ⇄ Oculus Center
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Melody Garden and Yurine
 \\ - Track section between Oculus Center and Taipa
-====Reference Pages====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_410]]
 \\ - [[lrt_492]]
