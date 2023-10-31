@@ -49,13 +49,7 @@
 
 </WRAP>
 
-The **British Rail Class 508** or **4PER** in Southern Railway, is a Electric Multiple Unit (EMU) passenger train built by [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] between 1979 and 1980. They are one of the the BERL 1972 suburban train designs, others being Classes [[wp>British_Rail_Class_313|313]], [[wp>British_Rail_Class_314|314]], [[wp>British_Rail_Class_315|315]], and [[wp>British_Rail_Class_507|507]]. This train is designed and worked for Merseyside since 1983 and continue to do so. As of 2023, they are 44 years old and is due to be replaced gradually by [[wp>British_Rail_Class_777|Class 777]].
-
-====== In Minecraft Transit Railway ======
-
-[[mtr_community:navi_lx9702|Navi]] made the Class 508/1 for Minecraft Transit Railway since September. the train is made and a "prototype" is posted in the screenshots channel in the Discord Server. the screenshot is then attracted many players to give diamonds to it. In 17th September the pack is started to be available for public downloads.
-
-Starting form version 1.3 the train is one of the very few train that uses the new BVE sound system.
+**Wilds Railway / Lilypad Rail S4-P and S5-P Stocks**%% are trains that runs in the Let's Play server. They are based on M-train small variant, with texture that strongly resembles a [[wp>London_Underground_S7_and_S8_Stock|London Underground S7 and S8 Stock]]. The train starts to be in service from November 2022 and still operates in both Victory Line and Aldgate & Resort Line,%%
 
 ====== In Let's Play server ======
 
