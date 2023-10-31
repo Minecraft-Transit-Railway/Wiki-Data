@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 115=====
+======Lilac Light Rail Route 115======
 **Lilac Light Rail Route 115** (Chinese:**麗蓮輕鐵115綫**) is a [[lilac_light_rail]] route connecting Winry and Hot Springs, and is jointly owned by [[qingli_railways|Qingli Railways]] and [[lilypad_rail]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 115</font></html>\\ <html><font size = "4">麗蓮輕鐵115綫</font></html>  ^^
@@ -25,7 +25,7 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[lilypad_rail]]|
 </WRAP>
-====History====
+=====History=====
 On 30 April 2023, during the construction of the South Continental Line, [[lilypad_rail]] had made an assessment and released a plan to connect Winry and Ishima stations. The former is the terminus of the Blau LRT, and the latter being a stop on the South Continental Line. The line was thus named “Blau LRT Branch Line” despite not being connected track-wise to the original Blau LRT.
 
 On 6 May 2023, Blau LRT Eastbound (Blau LRT Branch Line) was completed. S43-Tech Light Rail Vehicles were used at that time.
@@ -35,7 +35,7 @@ On 9 May 2023, the Blau LRT Branch Line was converted converted into Lilac Light
 On 22 October 2023, the track connection between Spruce Forest and Puketeraki is completed. Route 115 is thus extended to Hot Springs. Yi Long stop is then removed from the system. 
 
 <WRAP left>
-====Stations====
+=====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#1551AA:<color white>**Lilac Light Rail Route 115**</color>  ||||||
 |  @#ECB3D4:\\ <color #CD378D>**<html><font size="4">2A</font></html>**</color>  |Winry\\ 冬浮島|Yankton|  {{blau_lrt.png?40&direct}}  ||6 May 2023|
@@ -58,14 +58,14 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 ^  Remarks  ^^^^^^
 |- {{blau_lrt.png?40&direct}} : **Blau LRT**\\ - {{schwarzlr.png?40&direct}} : **Schwarz LRT**||||||
 </WRAP>
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Spruce Forest ⇄ Puketeraki\\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Ishima ⇄ New Red Leaves\\ - <color /#CD378D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2A: Winry\\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Hot Springs\\ Route 115 can meet up with other routes: 101, 102, 762, 801, 802
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Spruce Forest and Puketeraki
 \\ - Track section between Yi Yao and Winry
-====Depot Route====
+=====Depot Route=====
 <WRAP right>
-^  <html><font size = "4">Lilac Light Rail Route 115D</font></html>\\ <html><font size = "4">麗蓮輕鐵115綫</font></html>  ^^
+^  <html><font size = "4">Lilac Light Rail Route 115D</font></html>\\ <html><font size = "4">麗蓮輕鐵115D綫</font></html>  ^^
 |@#1551AA:||
 |  {{115d_scrn.png?300&direct}}  ||
 ^  Overview  ^^
@@ -90,7 +90,7 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 |**Operator(s)**|[[lilypad_rail]]|
 </WRAP>
 The depot trains for this route, running exactly the same as route 115, entered service on 20 October 2023. However, trains stops service at the stop right before Light Rail Depot, then travels back to the depot.
-====Reference Pages====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_801]]
 \\ - [[lrt_802]]
