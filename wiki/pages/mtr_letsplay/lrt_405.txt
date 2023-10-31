@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 405=====
+======Lilac Light Rail Route 405======
 **Lilac Light Rail Route 405** (Chinese: **麗蓮輕鐵405綫**) is a [[lilac_light_rail]] route connecting Bridge Bay stop and Belvedere stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 405</font></html>\\ <html><font size = "4">麗蓮輕鐵405綫</font></html>  ^^
@@ -31,7 +31,7 @@ On 14 February 2023, [[lilypad_rail]] proposed the Phase 2 plan of the Chou Wai 
 On 18 February 2023, Phase 2 of Chou Wai corridor and Route 405 was fully operational. 
 
 On 18 May 2023, [[lilypad_rail]] proposed to extend route 405 to Jonathan’s Resort from Belvedere via Melody Garden, but there were no more news about the extension up to now. Even in the "Lilac Light Rail Reform Plan 2023", there were no changes in route 405 except for decreasing the frequency to 5 minutes. However, [[qingli_railways|Qingli Railways]] and [[lilypad_rail]] are discussing if it is possible to keep the frequency unchanged, since the length of independent sections of route 405 is very long and high frequency will not impact the other routes too much.
-====Stations====
+=====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#FCBB01:<color white>**Lilac Light Rail Route 405**</color>  ||||||
 |  @#F9D8AD:\\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |Bridge Bay\\ 橋灣|Chou Wai|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]  ||18 February 2023|
@@ -45,12 +45,12 @@ On 18 May 2023, [[lilypad_rail]] proposed to extend route 405 to Jonathan’s Re
 |:::|Hua Shan\\ 華山|:::|:::||:::|
 |:::|Tai Luk Bridge\\ 大陸橋|:::|:::||:::|
 |:::|Belvedere\\ 美景宮|:::|  Belvedere  |  <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>  |:::|
-====Fare Zones====
+=====Fare Zones=====
 - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4A: Mount Lindbergh North ⇄ Belvedere
 \\ - <color /#853A27><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Bridge Bay ⇄ Tiu Keng Tei
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Leng Tan and Belvedere
-====Reference Pages====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_492]]
 \\ - [[lrt_410]]
