@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 802, 802S=====
+======Lilac Light Rail Route 802, 802S======
 **Lilac Light Rail Route 802** (Chinese: **麗蓮輕鐵802綫**) is a [[lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Hot Springs stop, and is jointly owned by Qingli Railways and [[lilypad_rail|Lilypad Rail]]. This is the first light rail route built by Qingli Railways, which goes via Karest Lake, Kallos Ferry Pier, Toitoi, towards Hot Springs.
 
 **Lilac Light Rail Route 802S** (Chinese: **麗蓮輕鐵802S綫**) is a [[lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Icesert Estate stop, and is jointly owned by Qingli Railways and [[lilypad_rail|Lilypad Rail]]. This is a special route which through runs with Hi-Sko Schwarz LRT after running on route 802 till Icesert Estate stop.
@@ -48,7 +48,7 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
 </WRAP>
-====History====
+=====History=====
 On 5 August 2022, the first route built by Qingli Railways, [[lrt_801|route 801]] went fully operational. The original 801 runs from Kallos to Kallos Ferry Pier.
 
 On 11 August 2022, route 801 has been splitted into 2 routes, [[lrt_801|routes 801]] and 801P. This is the original form of the current [[lrt_801|route 801]], which runs from Kallos to Karest Lake Beach.
@@ -63,7 +63,7 @@ On the same day, route 802S went fully operational and has a frequency of 1 hour
 
 On 29 October 2023, Royal Park stop is added in Hot Springs bound for future connections to Elizebeth Line and [[lrt_804|route 804]].
 
-====Stations====
+=====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#FF0076:<color white>**Lilac Light Rail Route 802, 802S**</color>  ||||||
 |  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
@@ -94,11 +94,16 @@ On 29 October 2023, Royal Park stop is added in Hot Springs bound for future con
 ^  Remarks  ^^^^^^
 |**Bolded station names** means that the station is served by 802S but not 802.\\ {{schwarzlr.png?40&direct}} **: Schwarz LRT**\\ {{weissexp.png?40&direct}} **: Weiss Express Line**||||||
 
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Puketeraki
 \\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Calcite Village (Section between Hot Springs and Calcite Village only suitable for route 802S)
 \\ - <html>&nbsp&nbsp&nbsp&nbsp</html> Fare Zone 3A: Hot River ⇄ Icesert Estate (Only suitable for route 802S)
 \\ Route 802 can meet up with other light rail routes: 115, 483P, 810, 882.
 
-====Independent Sections====
+=====Independent Sections=====
 - Track section between Karest Lake (West) and Puketeraki
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_801]]
+\\ - [[lrt_115]]
+\\ - [[lrt_803]]
