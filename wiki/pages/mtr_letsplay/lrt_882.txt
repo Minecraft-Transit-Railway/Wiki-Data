@@ -1,4 +1,4 @@
-=====Lilac Light Rail Route 882, 482P=====
+======Lilac Light Rail Route 882, 482P======
 **Lilac Light Rail Route 882** (Chinese: **麗蓮輕鐵882綫**) is a [[lilac_light_rail]] route connecting Heung Fan Liu Airport South stop and Light Rail Depot stop via Jonathan’s Resort, and is jointly owned by [[lilypad_rail]] and Qingli Railways. 
 
 **Lilac Light Rail Route 482P** (Chinese: **麗蓮輕鐵482P綫**) is the local version of route 882, connecting Heung Fan Liu Airport North stop and Jonathan’s Resort stop
@@ -52,7 +52,7 @@
 |**Operator(s)**|Qingli Railways|
 </WRAP>
 
-====History====
+=====History=====
 On 19 September 2022, Qingli Railways proposed a light rail connection between Kallos and Jonathan’s Resort  via a transit hub, Five Points Transit Center (current Oculus Center). The route number was decided to be 882, where the first 8 represents Kallos area, and 82 is the ASCII code of R of Resort.
 
 On 7 November 2022, route 882 was fully operational from Light Rail Depot to Jonathan's Resort. The route stopped at the current Kallos Express platforms at Jonathan's Resort stop at that time. 
@@ -71,7 +71,7 @@ On 29 October 2023, Royal Park is added to Heung Fan Liu Airport bound for futur
 
 According to "Lilac Light Rail Reform Plan 2023", route 882 will once again terminate at Jonathan's Resort. Route 482P and the connection between Heung Fan Liu Airport and Jonathan’s Resort of Route 882 will be replaced by the extension of [[lrt_720|route 720]] and [[lrt_601|route 601]].
 
-====Stations====
+=====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #5000DF , #00D200)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 882, 482P</b></p></font></div></body></html>  ||||||
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]]  ||10 September 2022|
@@ -103,7 +103,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 882 will once again term
 ^  Remarks  ^^^^^^
 |- **Bold station name** means that the station is served by 482P but not 882||||||
 
-====Fare Zones====
+=====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai (Only suitable for route 882)
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Āoraki ⇄ Kaijin Ferry Pier (Only suitable for route 882)
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Oculus Center ⇄ Resort North Village/Badsand Beach (Section between Roundabout Lake and Oculus Center, Badsand Beach only suitable for route 882) 
@@ -114,7 +114,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 882 will once again term
 - Track section between Sky Tower West and Resort North Village
 \\ - Track section between Sky Tower West and Badsand Beach
 \\ - Track section between Airport North and Airport South
-====See also====
+=====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_410]]
 \\ - [[lrt_492]]
