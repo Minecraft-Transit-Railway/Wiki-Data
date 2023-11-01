@@ -1,5 +1,7 @@
 ====== Cargo Loaders and Unloaders ======
 
+THIS IS THE OLD VERSION OF THE PAGE, FOR THE NEW VERSION CLICK [[playground:cargo_loader_minecraft_wiki_format#cargo_loaders|HERE]]
+
 Cargo Loaders and Cargo Unloaders are functional blocks in Minecraft. They are triggered with a train passing over them similar to the [[mtr:announcer|Announcer]] block and the [[mtr:redstonesensor|Redstone Sensor]] block.
 
 ===== Cargo Loaders =====
