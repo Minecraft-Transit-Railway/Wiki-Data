@@ -2,10 +2,10 @@
 
 <WRAP 300px right>
 
-|  <html><head><style>#grad1 {height:44px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b);font-family: 'Hammersmith One', sans-serif, sans-serif}</style></head><body><div id="grad1"><font color="white"; size="4.5"><b>Wilds Railway / Lilypad Rail S4-P and S5-P Stock</b></p></font></div></body></html>  ||
-|  {{ :mtr_letsplay:s5-p_boulton.png?280 }}S5-P stock near Boulton-on-Mesa.  ||
-|  {{ :mtr_letsplay:s4-p_aldgate.png?280 }}S4-P Stock in Aldgate.  ||
-|  {{ :mtr_letsplay:s4-p_int.png?280 }}Interior of a S4-P stock.  ||
+|  <html><head><style>@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');#grad1 {height:44px;background-image: linear-gradient(to right, #cc1a21 , #0fe47b);font-family: 'Hammersmith One', sans-serif, sans-serif}</style></head><body><div id="grad1"><font color="white"; size="4.5"><b>Wilds Railway / Lilypad Rail S4-P and S5-P Stock</b></p></font></div></body></html>  ||
+|  {{ :mtr_letsplay:s5-p_boulton.png?380 }}S5-P stock near Boulton-on-Mesa.  ||
+|  {{ :mtr_letsplay:s4-p_aldgate.png?380 }}S4-P Stock in Aldgate.  ||
+|  {{ :mtr_letsplay:s4-p_int.png?380 }}Interior of a S4-P stock.  ||
 |  <html><body><div id="grad1"><font color="white"; size="4.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
 | **In service** | November, 2022 - Present |
 | **Creator** | [[mtr_community:navi_lx9702|Navi]] |
