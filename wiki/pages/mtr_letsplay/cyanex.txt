@@ -1,0 +1,43 @@
+====== CyanEX Rapid Transit ======
+
+**CyanEX Rapid Transit** (Chinese: **蓝星捷运/藍星捷運**) is a railway operator led by Zbx1425.
+
+<WRAP right>
+
+^  <html><font size = "4">CyanEX Rapid Transit</font></html>\\ <html><font size = "4">蓝星捷运</font></html>  |^
+| @#7090FF: ||
+|  {{ :mtr_letsplay:cyanex_logo.png?200 }}  ||
+^  Operation  |^
+| **Began operation** | December 2021 |
+
+</WRAP>
+
+===== Members =====
+
+  * Zbx1425 (LetsPlay Staff)
+  * Asnacinjar (LetsPlay Builder)
+  * jonathanqwq (Not LetsPlay Member)
+  * Wxxhnini (Not LetsPlay Member)
+
+===== Hierarchy =====
+
+**CyanEX Rapid Transit** is a subsidiary of the **CyanEX Holdings Group**. 
+
+===== History =====
+
+CyanEX was initially established in December 2021 at the [[https://xinghaicity.ldiorstudio.cn|XinghaiCity (StarRiverCity)]] community server, with its initial name being BluExp. It was renamed to CyanEX in March 2022 following Asnacinjar's join. Asnacinjar coined the current English name and designed the current logo.
+
+CyanEX (under the older name "CyanEX Mobility") operated various urban and suburban railways services in XinghaiCity.
+
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%86%AC%E5%A5%A5%E7%8E%AF%E7%BA%BF|Winter Olympics Loop Line]]
+  * Autumn Valley Line (with the [[https://xinghaicity.ldiorstudio.cn/wiki/%E6%A9%99%E8%B0%B7%E7%BA%BF%E5%8D%97%E5%8C%97%E7%9B%B4%E9%80%9A%E5%BF%AB%E9%80%9F|North-South Through Express Service]])
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E8%93%9D%E6%98%9F%E4%B8%9C%E8%A5%BF%E7%BA%BF|CyanEX Tozai Line]]
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8D%9A%E7%89%A9%E9%A6%86APM|Transport Museum APM]]
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E5%A2%83%E7%BA%BF|Hokukyu Line]]
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E7%99%BD%E7%BA%BF|Hokukyo-Snowwhite Line]]
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E5%AE%89%E7%BA%BF|Hokukyo-Anting Line]]
+  * [[https://xinghaicity.ldiorstudio.cn/wiki/14%E5%8F%B7%E7%BA%BF|Line 14]]
+
+The Winter Olympics Loop Line was once the longest operating line in Xinghai City.
+
+
