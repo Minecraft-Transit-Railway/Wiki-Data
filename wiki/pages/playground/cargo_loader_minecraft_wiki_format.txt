@@ -1,12 +1,12 @@
 ====== Cargo Loaders and Unloaders ======
 
-Cargo Loaders and Cargo Unloaders are functional blocks in Minecraft. They are triggered with a train passing over them similar to the [[mtr:announcer|Announcer]] block and the [[mtr:redstonesensor|Redstone Sensor]] block.
+**Cargo Loaders** and **Cargo Unloaders** are functional blocks in Minecraft Transit Railway mod. They are triggered with a train passing over them similar to the [[mtr:announcer|Announcer]] block and the [[mtr:redstonesensor|Redstone Sensor]] block.
 
 ===== Cargo Loaders =====
 
 <WRAP right>
 
-|  @#0FBFE4: **Cargo Loader**  ||
+|  @#00C42A: **Cargo Loader**  ||
 | {{ :mtr:cargoloader_render.png?200 }} ||
 |  Render of the Cargo Loader block.((
 Courtesy of [[https://static.chaofan.io/blockRenderer/]] .
@@ -14,10 +14,12 @@ Courtesy of [[https://static.chaofan.io/blockRenderer/]] .
 | **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
 | **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Stone Pickaxe |
-| [[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]] | TBC |
-|   |   |
-|   |   |
-|   |   |
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%gsimba98%% |
 
 </WRAP>
 
@@ -27,7 +29,46 @@ When a train carriage passes by the cargo loader it'll take //1 item for every M
 
 The chest can not be under the cargo loader since in Minecraft, you can't open a chest if there's a solid block on top unless it's a slab.
 
+===== Changelog =====
+
+%%Beta-9-unofficial-1:  Added%%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
 ===== Cargo Unloaders =====
+
+<WRAP right>
+
+|  @#00C42A: **Cargo Unloader**  ||
+| {{ :playground:cargounloader_render.png?200 }} ||
+|  Render of the Cargo Loader block.((
+Courtesy of [[https://static.chaofan.io/blockRenderer/]] .
+))  ||
+| **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Stone Pickaxe |
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%gsimba98%% |
+
+</WRAP>
 
 The Cargo Unloader functions nearly the same as the [[playground:cargo_loader_minecraft_wiki_format#cargo_loaders|Cargo Loader]] but the opposite way.
 
@@ -40,4 +81,8 @@ Same thing, the chest can not be under the cargo unloader since in Minecraft, yo
 As mentioned previously, the cargo loader/unloader loading is not instantaneous and works by transferring 1 item for every Minecraft tick.
 
 If you would like to load all items from the chest, you should consider putting it at the front of the platform, that way the train can slowly transfer the items during the boarding period.
+
+===== Changelog =====
+
+%%Beta-9-unofficial-1:  Added%%
 
