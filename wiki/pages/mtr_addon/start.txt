@@ -20,7 +20,7 @@ https://modrinth.com/mod/station-decoration
 https://modrinth.com/mod/mtr-nte
 </WRAP>
 
-==== Joban (aka: Joban Client Mod) ====
+==== JCM (aka: Joban Client Mod) ====
 [[mtr_addon:jcm:start|Joban Client Mod]] is an addon based on Minecraft Transit Railway Mod, adding various blocks from the Hong Kong MTR and utility blocks that will greatly improve your world. Some of the blocks this mod adds including Static Signal Light, Fare Saver machine, Railway Vision PIDS and other decoration blocks to help you build your very own railway system!
 
 <WRAP center round download 90%>
