@@ -1,10 +1,8 @@
 等待修复  **此页面没有被翻译。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
-====== The Tube ======
-**The Tube** (previously known as **London Underground addon**) gives you the tools you need to make your own London Underground line using the power of the Minecraft Transit Railway Mod (which includes both the 1995/6 Tube Stock and D78 Stock trains).
-[[/File:2021-10-20_12.png|thumb]]
-The addon provides blocks to create Tunnels and Stations and station signage. Other great additions include a London Underground themed Platform Information Display and a red/green tunnel signal! There are also some great ambient sound effects to bring your tube stations to life!
+====== 伦敦地铁扩展 ======
+伦敦地铁扩展（London Underground）为您提供了使用Minecraft Transit Railway Mod（包括1995/6 Tube Stock和D78 Stock列车）的动力制作自己的伦敦地铁线路所需的工具。thumb插件提供用于创建隧道、车站和车站标识的块。其他很棒的附加设施包括伦敦地铁主题的站台信息显示屏和红/绿隧道信号灯！还有一些很棒的环境音效，让你的地铁站栩栩如生！
 
-The current version of the London Underground Addon for MTR is 1.11
+伦敦地铁扩展的当前版本为1.11
 
 [[https://www.curseforge.com/minecraft/mc-mods/london-underground/files|Download from Curseforge]]
