@@ -31,7 +31,13 @@
 Sightseeing Express provides through running service in the following lines:
 
   * Sumeru Line (CyanEX), from Al-Tighnari to Niloufar
-  * Sightseeing Express Line (CyanEX), from West Shore to Cyan Heights
+  * Sightseeing Express Line (CyanEX), from West Shore to CyanEX Sakura Stream
+  * Azalea-Cyan Line (Azalea Railway), from CyanEX Sakura Stream to Cyan Heights
   * Cyan Twilight Line (CyanEX), from Cyan Heights to Twilight Spruce
   * Bond Line (QLR), from Twilight Spruce to Ostonia
 
+===== History =====
+
+Sightseeing Express originally opened as an alternative route of the original Sightseeing Line (now Sightseeing Local Line), to reduce the travel time from [[Cyan Heights]] to [[Scarlet Devil Mansion]]. It then received several extensions, firstly from [[Scarlet Devil Mansion]] to [[West Shore]], then the through operation with Sumeru Line, and finally from [[Cyan Heights]] to [[Twilight Spruce]] and the through operation with Bond Line.
+
+This service used to take the name of **Sightseeing Express Line**, but was subsequently renamed to **Sightseeing Express** to better align with its status of a through running system.
