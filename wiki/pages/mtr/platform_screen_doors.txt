@@ -47,29 +47,29 @@ Platform screen doors require a [[https://minecraft.gamepedia.com/Pickaxe|pickax
 <markdown>
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
-| Platform Screen Doors (Type 1, Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane) * 2<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_1.png) |
+| Platform Screen Doors (Type 1, Door Section) × 8 | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_1.png" width=200> |
 
 #### Conversion Recipes (Same Type)
 
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
-| Platform Screen Doors (Type 1, Door Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_2.png) |
-| Platform Screen Doors (Type 1, Glass Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_1_1.png) |
-| Platform Screen Doors (Type 1, Glass End Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_1_1.png) |
-| Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_2_1.png) |
-| Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_2_1.png) |
-| Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_2_1.png) |
+| Platform Screen Doors (Type 1, Door Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_4.png" width=200> |
+| Platform Screen Doors (Type 1, Glass Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_2.png" width=200> |
+| Platform Screen Doors (Type 1, Glass End Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_3.png" width=200> |
+| Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_7.png" width=200> |
+| Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_5.png" width=200> |
+| Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_6.png" width=200> |
 
 #### Conversion Recipes (Different Type)
 
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
-| Platform Screen Doors (Type 1, Door Section) | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_3.png) |
-| Platform Screen Doors (Type 1, Glass Section) | Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_1_2.png) |
-| Platform Screen Doors (Type 1, Glass End Section) | Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_1_2.png) |
-| Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_2_2.png) |
-| Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_2_2.png) |
-| Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_2_2.png) |
+| Platform Screen Doors (Type 1, Door Section) × 2 | Platform Screen Doors (Type 2, Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_12.png" width=200> |
+| Platform Screen Doors (Type 1, Glass Section) × 2| Platform Screen Doors (Type 2, Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_9.png" width=200> |
+| Platform Screen Doors (Type 1, Glass End Section) × 2| Platform Screen Doors (Type 2, Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_14.png" width=200> |
+| Platform Screen Doors (Type 2, Door Section) × 2| Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_11.png" width=200> |
+| Platform Screen Doors (Type 2, Glass Section) × 2| Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_10.png" width=200> |
+| Platform Screen Doors (Type 2, Glass End Section) × 2| Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_13.png" width=200> |
 
 </markdown>
 
