@@ -31,9 +31,9 @@ The chest can not be under the cargo loader since in Minecraft, you can't open a
 
 ===== Changelog =====
 
-%%Beta-9-unofficial-1:  Added%%
+%%3.0.0-Beta-9-unofficial-1:  Added%%
 
--
+%%3.1.0-unofficial-5: Small NBT tag fix%%
 
 -
 
@@ -84,5 +84,7 @@ If you would like to load all items from the chest, you should consider putting 
 
 ===== Changelog =====
 
-%%Beta-9-unofficial-1:  Added%%
+3.0.0-Beta-9-unofficial-1: Added
+
+3.1.0-unofficial-5: Small NBT tag fix
 
