@@ -4,9 +4,9 @@ Centralia is a Minecraft transit & city project that has been going on since 201
 
 <WRAP right>
 
-|  @#EFEEF0:  **Centralia**  ||
+|  @#04388B: <color #FFFFFF>**Centralia**</color>  ||
 | {{ centralia.png?300 }} ||
-|  @#EFEEF0:  **Overview**  ||
+|  @#04388B: <color #FFFFFF>**Overview**</color>  ||
 | **Creator** | [[mtr_community:vakarain|Vako]] |
 | **Project Director** | [[mtr_community:szandorthe13th|szandorthe13th]] |
 | **Transit type** | All |
