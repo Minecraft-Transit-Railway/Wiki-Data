@@ -6,11 +6,26 @@ The **Railway Dashboard,** **Boat Dashboard** and **Cable Car Dashboard** is req
 
 ==== Crafting ====
 
+Except Flight Dashboard, all dashboards are able to be made via [[https://minecraft.wiki/w/Crafting|Crafting]].
+
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Railway Dashboard Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_dashboard.png) |
-| Boat Dashboard | [Planks](https://minecraft.wiki/w/Planks) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Boat Dashboard Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/boat_dashboard.png) |
+| Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
+| Boat Dashboard | [Planks](https://minecraft.wiki/w/Planks) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_2.png" width=200> |
+| Cable Car Dashboard | [String](https://minecraft.wiki/w/String) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_3.png" width=200> |
 
 </markdown>
 
@@ -23,6 +38,13 @@ Dashboards will be opened when right clicked.
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
+
+
+
+
+
 
 
 
@@ -70,6 +92,10 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 
 
 
+
+
+
+
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
@@ -86,6 +112,11 @@ When the ''Depots'' tab is selected and while not editing a depot, a siding on t
 
 
 
+
+
+
+
+
 | Field | Description |
 | --- | --- |
 | Siding Number | <li>Trains in a depot will be deployed according to the siding number.<li>If two sidings have the same number, a random train between the sidings will be deployed. |
@@ -96,7 +127,21 @@ When the ''Depots'' tab is selected and while not editing a depot, a siding on t
 Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
 
 ===== Gallery =====
+
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
 <img alt="Name Colour Fields" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/dashboard/name-colour-fields.png" width=512/><br>The `|` character separates the different languages in the station or route name.<br>The colour field has six characters, composed of numbers or the letters A-F.
+
 </markdown>
 
