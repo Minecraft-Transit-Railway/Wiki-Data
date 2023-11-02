@@ -48,14 +48,15 @@ According to "Lilac Light Rail Reform Plan 2023", Route 633 will remain unchange
 |:::|Shuangmen Xuegui\\ 霜門雪桂|:::|:::||:::|
 |:::|No Hideokamon\\ 不秀岡門|:::|:::||:::|
 |:::|Wing Palace\\ 翼貞殿士|:::|:::||:::|
-|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Humugath\\ 洪穆伽思|New Buckingham|:::||:::|
-|:::|Taipa\\ 氹仔|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
+|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Humugath\\ 洪穆伽思|New Buckingham|  [[lrt_804|{{804.png?40&direct}}]]  ||:::|
+|:::|Taipa\\ 氹仔|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||:::| 
+|:::|:::|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
 </WRAP>
 =====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Humugath ⇄ Taipa
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Qiuyou Yanji ⇄ Wing Palace
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Jonathan’s Resort ⇄ Oculus Center
-\\ Route 633 can meet up with other routes: 410, 482P, 483P, 492, 882
+\\ Route 633 can meet up with other routes: 410, 482P, 483P, 492, 804, 882
 =====Independent Sections=====
 - Track section between Melody Garden and Yurine
 \\ - Track section between Oculus Center and Taipa
