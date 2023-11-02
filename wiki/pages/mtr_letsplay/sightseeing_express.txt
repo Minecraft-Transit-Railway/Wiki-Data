@@ -1,0 +1,37 @@
+====== Sightseeing Express ======
+
+**Sightseeing Express** (Chinese: **观光快速/觀光快速**) is a through operation system operated by [[cyanex]].
+
+<WRAP right>
+
+^  <html><font size = "4">Sightseeing Express</font></html>\\ <html><font size = "4">观光快速</font></html>  |^
+| @#7090FF: ||
+|  {{twil_spruce.png?300&direct}}  ||
+^  Overview  |^
+| **Transit type** | Mass Transit |
+| **Status** | Operational |
+| **Terminus** | Ostania\\ Al-Tighnari\\ Hana-Koshi Beach (WIP) |
+^  Technical  |^
+| **Character** | Overground\\ At-grade\\ Underground |
+| **Maximum speed** | 120km/h |
+| **Number of stations** | 22 |
+| **Track gauge** | 1435mm\\ Standard Gauge |
+| **Electrification** | Magic (Current)\\ 1,500V DC OHL (Planned) |
+| **Depot** | Al-Tighnari Depot |
+| **Rolling stock** | CXD105 |
+| **Number of cars** | 4 |
+^  Service  |^
+| **Opened** | 18th June 2022 |
+| **Operator(s)** | [[cyanex]] |
+
+</WRAP>
+
+===== Service Pattern =====
+
+Sightseeing Express provides through running service in the following lines:
+
+  * Sumeru Line (CyanEX), from Al-Tighnari to Niloufar
+  * Sightseeing Express Line (CyanEX), from West Shore to Cyan Heights
+  * Cyan Twilight Line (CyanEX), from Cyan Heights to Twilight Spruce
+  * Bond Line (QLR), from Twilight Spruce to Ostonia
+
