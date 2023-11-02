@@ -31,27 +31,12 @@ Automatic platform gates require a [[https://minecraft.gamepedia.com/Pickaxe|pic
 
 ==== Crafting ====
 
-<markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| Name | Ingredients | [Crafting]([[https://minecraft.gamepedia.com/Crafting]]) Recipe |
 | --- | --- | --- |
-| Automatic Platform Gates (Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_door_1.png) |
-| Automatic Platform Gates (Door Section) | Automatic Platform Gates (Glass End Section)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_door_2.png) |
-| Automatic Platform Gates (Glass Section) | Automatic Platform Gates (Door Section)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_glass.png) |
-| Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_glass_end.png) |
-
-</markdown>
+| Automatic Platform Gates (Door Section) | [Redstone Block]([[https://minecraft.gamepedia.com/Block_of_Redstone]]) + [Iron Door]([[https://minecraft.gamepedia.com/Door]]) + [Glowstone Dust]([[https://minecraft.gamepedia.com/Glowstone_Dust]]) + [Glass Pane]([[https://minecraft.gamepedia.com/Glass_Pane]])<br><br>_Shapeless Recipe_ | {{ :mtr:automatic_platform_gates_crafting_recipe_1.png?200 }} |
+| Automatic Platform Gates (Door Section) | Automatic Platform Gates (Glass End Section)<br><br>_Shapeless Recipe_ |  |
+| Automatic Platform Gates (Glass Section) | Automatic Platform Gates (Door Section)<br><br>_Shapeless Recipe_ | {{ :mtr:automatic_platform_gates_crafting_recipe_2.png?200 }} |
+| Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ |  |
 
 ===== Usage =====
 
