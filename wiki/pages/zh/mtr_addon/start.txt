@@ -1,55 +1,66 @@
 ====== 你知道Minecraft Transit Railway模组有哪些扩展模组吗？ ======
+
 <WRAP center round info 60%>
 
 MTR现有10个可用的扩展模组。
 
 </WRAP>
-注：本页不介绍伦敦地铁模组，如需了解请移步 [[zh:mtr_addon:lu:start|]]。
+
+注：本页不介绍伦敦地铁模组，如需了解请移步 [[zh:mtr_addon:lu:start]]。
+
 ===== MSD (又名: Station Deco. Addon) =====
+
 一个装饰性Mod，添加了新的标识、PIDS和接触网。
 
-图册:
-{{ :mtr_addon:screenshot_2023-05-18_115315.png?nolink&400 |}}
-{{ :mtr_addon:screenshot_2023-05-18_115049.png?nolink&400 |}}
-{{ :mtr_addon:screenshot_2023-05-18_115222.png?nolink&400 |}}
+图册: {{ :mtr_addon:screenshot_2023-05-18_115315.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115049.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115222.png?400&nolink }}
 
 <WRAP center round download 90%>
+
 下载:
 
-https://modrinth.com/mod/station-decoration
-
+[[https://modrinth.com/mod/station-decoration]]
 
 </WRAP>
 
 ===== NTE (又名: Nemo´s transit expansion) =====
 
 <WRAP center round download 90%>
+
 [[mtr_addon:nte:start|Nemo's Transit Expansion]]
+
 </WRAP>
 
 {{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
 
-===== Joban (又名: Joban Client Mod) =====
-Joban是一个方块类模组，由Joban Creators制作。添加了各种与线路有关的方块，例如闸机、圆形隧道、港铁楼梯、车站设施等。
+===== JCM (又名: Joban Client Mod) =====
 
-Joban此前叫"Joestu Client Mod"，并不是由Joban Creators所有。后来分支为了Joban。
+JCM 是一个方块类模组，由The District of Joban 团队制作。添加了各种与线路有关的方块，例如闸机、圆形隧道、港铁楼梯、车站设施等。
 
+JCM 此前叫 "Joestu Client Mod"，后来因主开发团队移至新%%服务器%%而命名为 "Joban Client Mod"。
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/jcm|https://modrinth.com/mod/jcm]]
+
+</WRAP>
 
 ===== RCC (又名: Reality City Construction) =====
+
 Reality City Construction是一个由Yaoxiansen和MSnj制作的模组，名称是Yaoxiansen给出。经过了一年的制作历程，模组已基本完善。
 
 模组添加了有利用线路和城建的方块，添加了盲道、站台方块等。未来还会添加闸机、安检机等国内地铁设施。
 
-
 ===== 附属模组 =====
+
 所谓“MTR 附属模组”，就是依赖于 MTR，增强 MTR 功能的模组。除了“四件套”LU、JCM、NTE、MSD，下面是 Modrinth 上的一些冷门模组：
-1、MTR Utility
-添加 450、500、600、700、800km/h 轨道连接器。
-2、CrabGC's Extension of MTR
-增加红石检票闸机和直接付费闸机（可自定义付费金额）。
-3、NYC Subway (MTR)
-增加纽约地铁相关物品。
-4、TransitManager
-一个服务端模组，由 Joban Client Mod 作者开发，增加一些控制列车逻辑的 Minecraft 命令。
-5、Russian Metro Addon
-增加俄罗斯地铁相关物品。
+
+1、MTR Utility 添加 450、500、600、700、800km/h 轨道连接器。
+
+ 2、CrabGC's Extension of MTR 增加红石检票闸机和直接付费闸机（可自定义付费金额）。
+
+ 3、NYC Subway (MTR) 增加纽约地铁相关物品。
+
+4、TransitManager 一个服务端模组，由 Joban Client Mod 作者开发，增加一些控制列车逻辑的 Minecraft 命令。
+
+ 5、Russian Metro Addon 增加俄罗斯地铁相关物品。
+
