@@ -107,3 +107,43 @@ The top part of the platform screen doors can be converted into a standalone blo
 
 By right-clicking a "door" section of a platform screen door, that "door" will be marked as locked. Sticker with "not in use" appears, and the locked doors will not open even when a [[/trains|train]] arrives and open the doors.
 
+===== Changelog =====
+
+Unknown: Added.
+
+%%3.0.0-beta-2: Fixed OptiFine crash when breaking.%%
+
+%%3.0.0-beta-3: Repeated destinations or terminating destination will no longer show.%%
+
+%%3.0.0-beta-4: route signs will show interchanges.%%
+
+%%3.0.0-Beta-5-unofficial-2: Fixed route signs not showing interchanges.%%
+
+%%3.0.0-Beta-5-unofficial-3: performance improvements for clientside.%%
+
+%%3.0.0-Beta-6-unofficial-2: Performance improvements for rending route maps.%%
+
+%%3.0.0-Beta-7-prerelease-2: Terminating lines no longer show up on route maps.%%
+
+%%3.0.0-Beta-8-unofficial-8-hotfix-2: Fixed PSD slamming for a fraction of a second in 1.17.%%
+
+%%3.0.0-Beta-9-unofficial-1-hotfix-1: Fixed PSD detecting the wrong platform.%%
+
+%%3.0.0-Beta-9-unofficial-2: PSD without a platform will not render weird bits.%%
+
+%%3.0.0-Beta-9-unofficial-5: Fixed crash when exploding PSD.%%
+
+%%3.1.0-unofficial-5: Converted PSD to tile entities.%%
+
+%%3.1.0-unofficial-5: PSD may be locked by right click the doors with a brush to freeze them in place.%%
+
+%%3.1.0-unofficial-5-hotfix-1: Fixed PSD door speed.%%
+
+%%3.1.0-prerelease-2: PSD from older worlds will render properly.%%
+
+%%3.1.1: Fixed slow world loading with PSD tile entity conversion.%%
+
+%%3.1.7: Performance improvements for complex rendering.%%
+
+3.1.11: %%Fix texture fighting on PSD%%
+
