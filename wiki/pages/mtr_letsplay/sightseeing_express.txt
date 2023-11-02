@@ -36,6 +36,10 @@ Sightseeing Express provides through running service in the following lines:
   * Cyan Twilight Line (CyanEX), from Cyan Heights to Twilight Spruce
   * Bond Line (QLR), from Twilight Spruce to Ostonia
 
+===== Rolling Stock =====
+
+Services are operated by a fleet of CXD104 trains, with the first 20 sets fitted with Alstom OptONIX 1500 VVVF inverters and subsequent trains fitted with CRRCTEC //t//Power-TN3 VVVF inverters. A new fleet of CXD105 trains with LCD passenger information system installed are currently in production.
+
 ===== History =====
 
 Sightseeing Express originally opened as an alternative route of the original Sightseeing Line (now Sightseeing Local Line), to reduce the travel time from [[Cyan Heights]] to [[Scarlet Devil Mansion]]. It then received several extensions, firstly from [[Scarlet Devil Mansion]] to [[West Shore]], then the through operation with Sumeru Line, and finally from [[Cyan Heights]] to [[Twilight Spruce]] and the through operation with Bond Line.
