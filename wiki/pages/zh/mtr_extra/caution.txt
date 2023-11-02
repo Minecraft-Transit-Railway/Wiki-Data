@@ -15,4 +15,4 @@
 
 == 制作一个附加包 ==
 
-请查阅 [[mtr_extra:make|制作一个附加包]]。
+请查阅[[zh:mtr_extra:resourcepack:make|]]。
