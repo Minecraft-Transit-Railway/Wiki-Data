@@ -39,17 +39,17 @@ On 11 March 2023, Yi Yao station was added to route 801 in Light Rail Depot dire
 
 On 29 October 2023, Royal Park stop is added in Eden bound for future connections to Elizebeth Line and [[lrt_804|route 804]].
 
+On 1 November 2023, Kallos stop is removed from route 801. 
+
 Qingli Railways and Lilypad Rail has been discussing about the future plans of Lilac Light Rail. In the plan, Qingli Railways suggested to further extend route 801 to Yi Long, and set up a new route 801P to serve Yi Yao to Winry after Eden. Consultations will be held soon.
 
 <WRAP left>
 =====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#F08A2D:<color white>**Lilac Light Rail Route 801**</color>  ||||||
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
 |:::|:::|:::|Light Rail Depot|  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
-|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
-|:::|Kallos\\ 麗灣|:::|  [[lrt_802|{{802.png?40&direct}}]]  ||5 August 2022|
-|:::|:::|:::|Kallos|  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
 |:::|Kallos West\\ 麗灣西|:::|  [[lrt_802|{{802.png?40&direct}}]]  ||:::|
 |:::|:::|:::|Kallos|  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|Kallos Mountain Forest\\ 麗山森林|:::|  [[lrt_802|{{802.png?40&direct}}]]  ||:::|
@@ -75,7 +75,7 @@ Qingli Railways and Lilypad Rail has been discussing about the future plans of L
 =====Fare Zones of stations along route 801=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Spruce Forest
 \\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: New Red Leaves ⇄ Eden
-\\ Route 801 can meet up with other light rail routes: 101, 102, 115, 483P, 802, 810, 882
+\\ Route 801 can meet up with other light rail routes: 101, 102, 115, 483P, 802, 804, 810, 882
 </WRAP>
 =====Reference Pages=====
 - [[lilac_light_rail]]
