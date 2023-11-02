@@ -1,4 +1,4 @@
-<html><head><style>@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');#title {height:40px;font-family: 'Hammersmith One', sans-serif}</style></head><body><div id="title"><font color="black"; size="6"><b>Wilds Railway / Lilypad Rail S4-P and S5-P Stock</b></p></font></div></body></html>
+====== Wilds Railway / Lilypad Rail S4-P and S5-P Stock ======
 
 <WRAP 300px right>
 
