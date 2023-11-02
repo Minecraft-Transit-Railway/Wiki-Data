@@ -30,14 +30,14 @@ Automatic platform gates are half-height doors that prevent passengers from tres
 Automatic platform gates require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness|hardness]] of 2.
 
 ==== Crafting ====
-
+<markdown>
 | Name | Ingredients | [Crafting]([[https://minecraft.gamepedia.com/Crafting]]) Recipe |
 | --- | --- | --- |
-| Automatic Platform Gates (Door Section) | [Redstone Block]([[https://minecraft.gamepedia.com/Block_of_Redstone]]) + [Iron Door]([[https://minecraft.gamepedia.com/Door]]) + [Glowstone Dust]([[https://minecraft.gamepedia.com/Glowstone_Dust]]) + [Glass Pane]([[https://minecraft.gamepedia.com/Glass_Pane]])<br><br>_Shapeless Recipe_ | {{ :mtr:automatic_platform_gates_crafting_recipe_1.png?200 }} |
-| Automatic Platform Gates (Door Section) | Automatic Platform Gates (Glass End Section)<br><br>_Shapeless Recipe_ |  |
-| Automatic Platform Gates (Glass Section) | Automatic Platform Gates (Door Section)<br><br>_Shapeless Recipe_ | {{ :mtr:automatic_platform_gates_crafting_recipe_2.png?200 }} |
-| Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ |  |
-
+| Automatic Platform Gates (Door Section) | [Redstone Block]([[https://minecraft.gamepedia.com/Block_of_Redstone]]) + [Iron Door]([[https://minecraft.gamepedia.com/Door]]) + [Glowstone Dust]([[https://minecraft.gamepedia.com/Glowstone_Dust]]) + [Glass Pane]([[https://minecraft.gamepedia.com/Glass_Pane]])<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_1.png" width=200> |
+| Automatic Platform Gates (Door Section) | Automatic Platform Gates (Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_4.png" width=200>  |
+| Automatic Platform Gates (Glass Section) | Automatic Platform Gates (Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_2.png" width=200> |
+| Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_3.png" width=200>  |
+</markdown>
 ===== Usage =====
 
 There are three different types of automatic platform gates.
