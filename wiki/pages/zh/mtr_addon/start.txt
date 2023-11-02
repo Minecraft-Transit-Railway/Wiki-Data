@@ -1,5 +1,4 @@
 
-
 ====== 你知道Minecraft Transit Railway模组有哪些扩展模组吗？ ======
 <WRAP center round info 60%>
 
@@ -41,3 +40,15 @@ Joban此前叫"Joestu Client Mod"，并不是由Joban Creators所有。后来分
 Reality City Construction是一个由Yaoxiansen和MSnj制作的模组，名称是Yaoxiansen给出。经过了一年的制作历程，模组已基本完善。
 
 模组添加了有利用线路和城建的方块，添加了盲道、站台方块等。未来还会添加闸机、安检机等国内地铁设施。
+
+所谓“MTR 附属模组”，就是依赖于 MTR，增强 MTR 功能的模组。除了“四件套”LU、JCM、NTE、MSD，下面是 Modrinth 上的一些冷门模组：
+1、MTR Utility
+添加 450、500、600、700、800km/h 轨道连接器。
+2、CrabGC's Extension of MTR
+增加红石检票闸机和直接付费闸机（可自定义付费金额）。
+3、NYC Subway (MTR)
+增加纽约地铁相关物品。
+4、TransitManager
+一个服务端模组，由 Joban Client Mod 作者开发，增加一些控制列车逻辑的 Minecraft 命令。
+5、Russian Metro Addon
+增加俄罗斯地铁相关物品。
