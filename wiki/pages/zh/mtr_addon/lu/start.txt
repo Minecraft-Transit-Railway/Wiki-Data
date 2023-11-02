@@ -4,5 +4,10 @@
 伦敦地铁扩展（London Underground）为您提供了使用Minecraft Transit Railway Mod（包括1995/6 Tube Stock和D78 Stock列车）的动力制作自己的伦敦地铁线路所需的工具。thumb插件提供用于创建隧道、车站和车站标识的块。其他很棒的附加设施包括伦敦地铁主题的站台信息显示屏和红/绿隧道信号灯！还有一些很棒的环境音效，让你的地铁站栩栩如生！
 
 伦敦地铁扩展的当前版本为1.11
+<WRAP center round download 90%>
+在Curseforge下载:
 
-[[https://www.curseforge.com/minecraft/mc-mods/london-underground/files|在Curseforge上下载]]
+https://www.curseforge.com/minecraft/mc-mods/london-underground/files
+
+
+</WRAP>
