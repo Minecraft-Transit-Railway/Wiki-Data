@@ -18,7 +18,7 @@
 | **Track gauge** | 1435mm\\ Standard Gauge |
 | **Electrification** | Magic (Current)\\ 1,500V DC OHL (Planned) |
 | **Depot** | Al-Tighnari Depot |
-| **Rolling stock** | CXD105 |
+| **Rolling stock** | CXD104 |
 | **Number of cars** | 4 |
 ^  Service  |^
 | **Opened** | 18th June 2022 |
