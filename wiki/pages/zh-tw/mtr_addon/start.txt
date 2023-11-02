@@ -31,10 +31,10 @@ https://modrinth.com/mod/station-decoration
 
 {{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
 
-===== Joban (又名: Joban Client Mod) =====
-Joban是一個方塊類模組，由Joban Creators製作。添加了各種與線路有關的方塊，例如閘機、圓形隧道、港鐵樓梯、車站設施等。
+===== JCM (又名: Joban Client Mod) =====
+JCM是一個方塊類模組，由The District of Joban 開發團隊製作。添加了各種與線路有關的方塊，例如閘機、圓形隧道、港鐵樓梯、車站設施等。
 
-Joban此前叫"Joestu Client Mod"，並不是由Joban Creators所有。後來分支為了Joban。
+JCM此前叫 "Joestu Client Mod"，後來因主開發團隊移至新伺服器而命名為 "Joban Client Mod"。
 
 
 ===== RCC (又名: Reality City Construction) =====
