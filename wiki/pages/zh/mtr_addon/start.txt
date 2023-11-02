@@ -1,8 +1,7 @@
-
 ====== 你知道Minecraft Transit Railway模组有哪些扩展模组吗？ ======
 <WRAP center round info 60%>
 
-MTR现有4个可用的扩展模组。
+MTR现有10个可用的扩展模组。
 
 </WRAP>
 
@@ -41,6 +40,8 @@ Reality City Construction是一个由Yaoxiansen和MSnj制作的模组，名称�
 
 模组添加了有利用线路和城建的方块，添加了盲道、站台方块等。未来还会添加闸机、安检机等国内地铁设施。
 
+
+===== 附属模组 =====
 所谓“MTR 附属模组”，就是依赖于 MTR，增强 MTR 功能的模组。除了“四件套”LU、JCM、NTE、MSD，下面是 Modrinth 上的一些冷门模组：
 1、MTR Utility
 添加 450、500、600、700、800km/h 轨道连接器。
