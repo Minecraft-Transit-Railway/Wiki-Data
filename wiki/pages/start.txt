@@ -12,22 +12,16 @@ Welcome to the MTR wiki!
     * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - How to put your own model
     * [[mtr_extra:resourcepack:make:others|Others]] - How to add signs, sounds, etc. to your resource pack
   * [[mtr_extra:resourcepack:faq|Frequently Asked Questions]] - Some questions about resource packs
-  * [[mtr_addon:start|MTR Addons]] - Overview of additional MTR addon mods
+  * [[mtr_addon:start|Using Addon Mods]] - Overview of additional MTR addon mods
+
 
 ===== Multiplayer Servers =====
 
   * [[mtr_letsplay:start|Let's Play Server]] - the official server of the MTR mod
-  * [[mtr_community:start|Community Pages]] - for pages pertaining to Wiki users, external servers, and more
 
 ===== Contributing to Wiki =====
 
 We want all people who know a lot about the mod to share their knowledge, if you have something you want to contribute, feel free to do so!
 
-  * Make sure to visit the [[wiki_guidelines|Wiki Guidelines ]]
-  * Make sure you read the [[editing_guideline|Editing Guideline]].
+  * Make sure you read the [[edit_guideline|Edit Guidelines]].
 
-===== Discord =====
-
-Our discord: [[https://discord.com/invite/TpJ7bexhVA]]
-
-~~NOTOC~~
