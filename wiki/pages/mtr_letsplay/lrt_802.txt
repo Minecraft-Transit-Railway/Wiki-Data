@@ -15,7 +15,7 @@
 |**Terminus**|Hot Springs|
 ^  Technical  ^^
 |**Maximum Speed**|80km/h|
-|**Number of stations**|13|
+|**Number of stations**|12|
 |**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
 |**Electrification**|750 DC Third Rail|
 |**Depot**|Kallos Light Rail Depot|
@@ -37,7 +37,7 @@
 |**Terminus**|Icesert Estate|
 ^  Technical  ^^
 |**Maximum Speed**|80km/h|
-|**Number of stations**|18|
+|**Number of stations**|17|
 |**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
 |**Electrification**|750 DC Third Rail|
 |**Depot**|Kallos Light Rail Depot|
@@ -63,15 +63,15 @@ On the same day, route 802S went fully operational and has a frequency of 1 hour
 
 On 29 October 2023, Royal Park stop is added in Hot Springs bound for future connections to Elizebeth Line and [[lrt_804|route 804]].
 
+On 1 November 2023, Kallos stop is removed from route 802 and 802S
+
 =====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#FF0076:<color white>**Lilac Light Rail Route 802, 802S**</color>  ||||||
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
 |:::|:::|:::|Light Rail Depot|  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
-|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
-|:::|Kallos\\ 麗灣|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||5 August 2022|
-|:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
-|:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
+|:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||5 August 2022|
 |:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|Kallos Mountain Forest\\ 麗山森林|:::|  {{801.png?40&direct}}  ||:::|
 |:::|Karest Lake (East)\\ 麗林湖（東）|:::|:::||:::|
@@ -98,7 +98,7 @@ On 29 October 2023, Royal Park stop is added in Hot Springs bound for future con
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Puketeraki
 \\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Calcite Village (Section between Hot Springs and Calcite Village only suitable for route 802S)
 \\ - <html>&nbsp&nbsp&nbsp&nbsp</html> Fare Zone 3A: Hot River ⇄ Icesert Estate (Only suitable for route 802S)
-\\ Route 802 can meet up with other light rail routes: 115, 483P, 810, 882.
+\\ Route 802 can meet up with other light rail routes: 115, 483P, 762, 801, 804, 810, 882.
 
 =====Independent Sections=====
 - Track section between Karest Lake (West) and Puketeraki
