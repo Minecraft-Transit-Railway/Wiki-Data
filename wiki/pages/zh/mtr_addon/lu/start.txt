@@ -5,4 +5,4 @@
 
 伦敦地铁扩展的当前版本为1.11
 
-[[https://www.curseforge.com/minecraft/mc-mods/london-underground/files|Download from Curseforge]]
+[[https://www.curseforge.com/minecraft/mc-mods/london-underground/files|在Curseforge上下载]]
