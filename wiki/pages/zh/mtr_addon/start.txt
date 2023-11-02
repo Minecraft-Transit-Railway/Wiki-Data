@@ -4,7 +4,7 @@
 MTR现有10个可用的扩展模组。
 
 </WRAP>
-
+注：本页不介绍伦敦地铁模组，如需了解请移步 [[zh:mtr_addon:lu:start|]]。
 ===== MSD (又名: Station Deco. Addon) =====
 一个装饰性Mod，添加了新的标识、PIDS和接触网。
 
