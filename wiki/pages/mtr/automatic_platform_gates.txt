@@ -1,5 +1,27 @@
 ====== Automatic Platform Gates ======
 
+<WRAP right>
+
+|  @#00C42A: **Automatic Platform Gates**  ||
+| {{ :mtr:apg_door.png?200 }} ||
+|  Icon of the Automatic Platform Gates (Door).  ||
+|  {{ :mtr:apg_glass.png?200 }}  ||
+|  Icon of the Automatic Platform Gates (Glass).  ||
+|  {{ :mtr:apg_glass_end.png?200 }}  ||
+|  Icon of the Automatic Platform Gates (End).  ||
+| **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | Yes (Till  |
+| ::: | No |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | Yes  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+
+</WRAP>
+
 Automatic platform gates are half-height doors that prevent passengers from trespassing onto the railway tracks. They are typically used in above-ground stations, so that natural ventilation is possible. It also give the station a more open feel. [[/platform_screen_doors|Platform screen doors]] are generally used for underground stations instead.
 
 ===== Obtaining =====
@@ -11,6 +33,16 @@ Automatic platform gates require a [[https://minecraft.gamepedia.com/Pickaxe|pic
 ==== Crafting ====
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
 | Automatic Platform Gates (Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_door_1.png) |
@@ -19,6 +51,7 @@ Automatic platform gates require a [[https://minecraft.gamepedia.com/Pickaxe|pic
 | Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ | ![Automatic Platform Gates Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/apg_glass_end.png) |
 
 </markdown>
+
 ===== Usage =====
 
 There are three different types of automatic platform gates.
@@ -48,3 +81,22 @@ Finally, the text lists the destinations of all routes that enter the platform. 
 ==== Locking Automatic Platform Gates ====
 
 By right-clicking a "door" section of an automatic platform gate with a brush, that "door" will be marked as locked. Sticker with "not in use" appears, and the locked doors will not open even when a [[/trains|train]] arrives and opens the doors.
+
+===== Changelog =====
+
+Unknown: Added
+
+%%3.0.0-beta-2: Fixed OptiFine crash when breaking%%
+
+%%3.0.0-beta-3: Repeated destinations or terminating destination will no longer show%%
+
+%%3.0.0-beta-4: route signs will show interchanges%%
+
+%%Beta-5-unofficial-2: Fixed route signs not showing interchanges%%
+
+%%Beta-5-unofficial-3: performance improvements for clientside%%
+
+%%Beta-6-unofficial-2: Performance improvements for rending route maps%%
+
+%%Beta-6-prerelease: APG will glow brighter%%
+
