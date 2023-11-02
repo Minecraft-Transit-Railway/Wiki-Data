@@ -38,7 +38,7 @@ On 29 October 2023, Royal Park is added to Enchanted South Hill bound for future
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#0AECE1:**Lilac Light Rail Route 810**  ||||||
-|  @#F7D0C9:\\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|  @#F7D0C9:\\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
 |:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
