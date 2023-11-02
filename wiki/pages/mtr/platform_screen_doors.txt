@@ -1,10 +1,39 @@
 ====== Platform Screen Doors ======
 
+<WRAP right>
+
+|  @#00C42A: **Platform Screen Doors**  ||
+| {{ :mtr:psd_door_1.png?100 }} | {{ :mtr:psd_door_2.png?100 }} |
+|  Icons of the Platform Screen Doors (Door).  ||
+|  {{ :mtr:psd_glass_1.png?100 }}  |  {{ :mtr:psd_glass_2.png?100 }}  |
+|  Icons of the Platform Screen Doors (Glass).  ||
+|  {{ :mtr:psd_glass_end_1.png?100 }}  |  {{ :mtr:psd_glass_end_2.png?100&nolink }}  |
+|  Icons of the Platform Screen Doors (End).  ||
+| **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | Yes((
+Till 3.0.0-beta-7-depot-snapshot-4
+))  |
+| ::: | No ((
+From 3.0.0-beta-7-depot-snapshot-5
+)) |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | Yes  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+| ::: | TwinkleSprinkle((
+Tuen Ma Line variant only
+)) |
+
+</WRAP>
+
 Platform screen doors are three-block high doors that prevent passengers from trespassing onto the railway tracks. They are typically used in underground stations, because [[/automatic_platform_gates|automatic platform gates]] are used instead for above-ground stations.
 
 There are currently two types of platform screen doors in the mod. They are modelled after the urban line and Tuen Ma Line platform screen doors respectively.
 
-The top section (the white part) shows the route information and destinations of approaching [[/trains|trains]] for the platform. It is automatically added when the doors are placed into the world. It has a [[https://minecraft.gamepedia.com/Light|light level]] of 15.
+The top section (the white part) shows the route information and destinations of approaching [[/trains|trains]] for the platform. It is automatically added when the doors are placed into the world.
 
 ===== Obtaining =====
 
@@ -15,11 +44,10 @@ Platform screen doors require a [[https://minecraft.gamepedia.com/Pickaxe|pickax
 ==== Crafting ====
 
 === Base Recipe ===
-
 <markdown>
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
-| Platform Screen Doors (Type 1, Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_1.png) |
+| Platform Screen Doors (Type 1, Door Section) | [Redstone Block](https://minecraft.gamepedia.com/Block_of_Redstone) + [Iron Door](https://minecraft.gamepedia.com/Door) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane) * 2<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_1_1.png) |
 
 #### Conversion Recipes (Same Type)
 
@@ -42,7 +70,9 @@ Platform screen doors require a [[https://minecraft.gamepedia.com/Pickaxe|pickax
 | Platform Screen Doors (Type 2, Door Section) | Platform Screen Doors (Type 1, Door Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_door_2_2.png) |
 | Platform Screen Doors (Type 2, Glass Section) | Platform Screen Doors (Type 1, Glass Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 3](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_2_2.png) |
 | Platform Screen Doors (Type 2, Glass End Section) | Platform Screen Doors (Type 1, Glass End Section)<br><br>_Shapeless Recipe_ | ![Platform Screen Doors Crafting Recipe 4](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/psd_glass_end_2_2.png) |
+
 </markdown>
+
 ===== Usage =====
 
 There are three different types of platform screen doors.
@@ -76,3 +106,4 @@ The top part of the platform screen doors can be converted into a standalone blo
 ==== Locking Platform Screen Doors ====
 
 By right-clicking a "door" section of a platform screen door, that "door" will be marked as locked. Sticker with "not in use" appears, and the locked doors will not open even when a [[/trains|train]] arrives and open the doors.
+
