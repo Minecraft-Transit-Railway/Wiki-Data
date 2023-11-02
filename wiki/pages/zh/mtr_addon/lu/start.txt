@@ -1,4 +1,4 @@
-等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+等待修复  **此页面没有被翻译。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
 ====== The Tube ======
 **The Tube** (previously known as **London Underground addon**) gives you the tools you need to make your own London Underground line using the power of the Minecraft Transit Railway Mod (which includes both the 1995/6 Tube Stock and D78 Stock trains).
