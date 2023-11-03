@@ -173,5 +173,13 @@ In August 2023, the SMT 11/12 (now the 6) was finished, codenamed the "Great Pla
 
 ==== ApacheRail ====
 
-Placeholder
+ApacheRail was the fourth original company in New Sallen, owned by apache. It was created in Early-June, with provisions for three lines to be constructed: X, Y, and Z. All three lines would terminate at Great Plains, running right under the SCT Hamilton Lines.
+
+In Mid-June, ApacheRail purchased two abandoned stations from SCT in Lakeshore, named North Beach and Breen K. Sallen Road. North Beach was renamed to Downtown-Lakeshore to avoid confusion with the SMART Transit station.
+
+ApacheRail's development was split into phases, with a total of 9 phases before its shutdown. After Breen K. Sallen Road, Phase 2 began construction to Sallen Pier on the X Line, stopping at Sallen International Airport, Hillside, Woodmere, Oceanside, Boardwalk, and Sallen Pier. Boardwalk was later abandoned due to the close proximity to Sallen Pier.
+
+ApacheRail featured a unique feature that no other company utilized: Custom Announcements. These were used on the W, X, Y, and Z lines before they were phased out on the V line.
+
+In Early-August, proposals were created to expand ApacheRail to handle higher capacity, creating 4 more phases. Phase 6 proposed an extension North of Great Plains to Winstree, served by the proposed U and Z lines.
 
