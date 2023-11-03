@@ -49,6 +49,8 @@ Escalators require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] to be mined, i
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Escalator × 8 | [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Stone Brick Stairs](https://minecraft.wiki/w/Stairs) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:escalator_crafting_recipe.png" width=200/> |
@@ -88,4 +90,14 @@ Building the escalator can be tricky. In the following series of images, the cur
 8. //(Optional)// Right click the escalator step (the moving part) with a brush to switch the direction of movement.
 
 {{:mtr:2023-11-03_23.09.08.png?350}}
+
+===== Changelog =====
+
+2.1.0: Added escalators items, including Escalator, Escalator (5 blocks long), Escalator (10 blocks long), Escalator (20 blocks long) and Escalator (50 blocks long).
+
+3.0.0-beta-2: Escalators no longer require redstone signal to be powered, and direction of movement are done by right clicking with brush instead.
+
+%%3.0.0-beta-3: Escalator is optimised.%%
+
+%%3.2.2: New escalators by Kirah_Haitaka rolled out, replacing the old escalators.%%
 
