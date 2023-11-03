@@ -44,7 +44,7 @@ Automatic platform gates require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] 
 
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Automatic Platform Gates (Door Section) | [Redstone Block](https://minecraft.wiki/w/Block_of_Redstone) + [Iron Door](https://minecraft.wiki/w/Iron_Door) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_1.png" width=200> |
+| Automatic Platform Gates (Door Section) × 8 | [Redstone Block](https://minecraft.wiki/w/Block_of_Redstone) + [Iron Door](https://minecraft.wiki/w/Iron_Door) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_1.png" width=200> |
 | Automatic Platform Gates (Door Section) | Automatic Platform Gates (Glass End Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_4.png" width=200>  |
 | Automatic Platform Gates (Glass Section) | Automatic Platform Gates (Door Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_2.png" width=200> |
 | Automatic Platform Gates (Glass End Section) | Automatic Platform Gates (Glass Section)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_3.png" width=200>  |
