@@ -1,29 +1,29 @@
 等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
-====== Resource Packs ======
-There are several built-in vehicles and signs in this mod. For many people, it's enough, but for some special users, such as servers, open saves, or realistic projects, it's usually not enough.
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
-For solving this, MTR supports custom resource packs. Right now, it supports to add new vehicles and signs. Besides, you can also moderate something like decoration blocks in vanilla way.
+====== 资源包 ======
+这个模型中有几个内置的车辆和标志。对于许多人来说，这已经足够了，但对于一些特殊用户，如服务器、开放存储或现实项目，这通常还不够。
 
-===== What is a Resource pack ? =====
-Basically, a Resource pack is a zip-file which, if activated, can change or add new textures, models, music, sounds, languages, texts, without editing Minecraft, or mods directly.
+为了解决这个问题，MTR支持自定义资源包。目前，它支持添加新的车辆和标志。此外，你也可以用香草的方式调节装饰块之类的东西。
 
-In the context of the mod, Resource packs can provide new sign textures, new trains textures and/or models and/or sounds.
+======什么是资源包？ =====
+基本上，资源包是一个zip文件，如果激活，它可以更改或添加新的纹理、模型、音乐、声音、语言、文本，而无需直接编辑Minecraft或mod。
 
-===== Using Resource Packs =====
+在mod的背景下，资源包可以提供新的标志纹理、新的火车纹理和/或模型和/或声音。
 
-Many of resource packs are packed in ZIP format. You can just put it into the ''.minecraft/resourcepacks'' folder, open the game, enable it, and use it like using builtins.
+===== 使用资源包 =====
+许多资源包都是以ZIP格式打包的。你可以把它放在.minecraft/resourcepacks文件夹中，打开游戏，启用它，然后像使用内置程序一样使用它。
 
-Some resource packs aren't packed in this format. For these cases, you should open the file and find if there are ZIP files in it. If you directly find pack.mcmeta in pack, you should decompress it into a folder in resourcepacks folder.
+某些资源包不是以这种格式打包的。对于这些情况，你应该打开文件，看看里面是否有ZIP文件。如果你直接在pack中找到pack.mcmeta，你应该把它解压到resourcepacks文件夹中的一个文件夹中。
 
-For other questions about using resourcepacks, see [[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]] for more information.
+有关使用资源包的其他问题，请参阅[[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]]了解更多信息。
 
-===== Making Resource Packs =====
+===== 制作资源包 =====
+请参阅[[zh:mtr_extra:resourcepack:make|制作资源包]]。
 
-See [[mtr_extra:resourcepack:make|Making a Resource Pack]].
-
-===== Where can I find one ? =====
-There is a dedicated channel in the [[https://discord.gg/PVZ2nfUaTW|MTR Discord server]]. Some packs have a page on this wiki, they are listed down below:
+===== 我在哪里能找到 =====
+[[https://discord.gg/PVZ2nfUaTW|MTR Discord服务器]]中有一个专用频道，你还可以在[[https://mtrbbs.top|MTRBBS论坛]]找到更多社区人士制作的资源包。
 
 ~~NOCACHE~~
-<nspages -textPages="" -h1 -exclude>
+<nspages-textPages=“”-h1-exclude>
