@@ -1,52 +1,91 @@
-<markdown>
+====== Escalator - Needs Updating ======
 
-# Escalator - Needs Updating
+<WRAP right>
+
+|  @#00C42A: **Escalator**  ||
+| {{ :mtr:escalator.png?200 }} ||
+|  A render of escalators from 3.2.2.  ||
+|  {{ :mtr:escalator_icon.png?200 }}  ||
+|  Icon of Escalator  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+| ::: | Kirah_Haitaka((
+New version only
+)) |
+
+</WRAP>
 
 Escalators are multi-block structures that move players at a faster speed than sprinting. They are mainly built to go upwards or downwards, but they can also be built horizontally to create a moving walkway.
 
-# Obtaining
+===== Obtaining =====
 
-## Breaking
+==== Breaking ====
 
-Escalators require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
+Escalators require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/wiki/Breaking#Blocks_by_hardness|hardness]] of 2.
 
-## Crafting
+==== Crafting ====
 
-| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Escalator | [Redstone Dust](https://minecraft.gamepedia.com/Redstone_Dust) + [Block of Iron](https://minecraft.gamepedia.com/Block_of_Iron) + [Stone Brick Stairs](https://minecraft.gamepedia.com/Stairs) + [Glass Pane](https://minecraft.gamepedia.com/Glass_Pane)<br><br>_Shapeless Recipe_ | ![Escalator Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/escalator.png) |
+| Escalator × 8 | [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Stone Brick Stairs](https://minecraft.wiki/w/Stairs) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:escalator_crafting_recipe.png" width=200/> |
 
-# Usage
+</markdown>
+
+===== Usage =====
 
 Building the escalator can be tricky. In the following series of images, the cursor points to the block where the next block should be placed against.
 
 1. Obtain the escalator item and place it on the ground. This will be the bottom escalator landing.
 
-   > <img alt="Step 1" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-1.png" width=512/>
+{{:mtr:2023-11-03_23.07.15.png?350 }}
 
-1. Walk around to the back of the escalator landing and place down another piece as shown.
+2. Walk around to the back of the escalator landing and place down another piece as shown.
 
-   > <img alt="Step 2" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-2.png" width=512/>
+{{:mtr:2023-11-03_23.07.24.png?350}}
 
-1. If building a moving walkway, simply repeat the step above and skip all steps below.
-1. If building an escalator, point the cursor at the black handrail of the previous piece. Place down another piece as shown.
+3. If building a moving walkway, simply repeat the step above and skip all steps below.
 
-   > <img alt="Step 3" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-3.png" width=512/>
+4. If building an escalator, point the cursor at the black handrail of the previous piece. Place down another piece as shown.
 
-1. Repeat as many times as desired.
+{{:mtr:2023-11-03_23.07.46.png?350}}
 
-   > <img alt="Step 4" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-4.png" width=512/>
+5. Repeat as many times as desired.
 
-1. To finish the escalator, point the cursor at the white step of the previous piece. Place down another piece as shown.
+{{:mtr:2023-11-03_23.08.08.png?350}}
 
-   > <img alt="Step 5" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-5.png" width=512/>
+6. To finish the escalator, point the cursor at the white step of the previous piece. Place down another piece as shown.
 
-1. Point the cursor at the white step of the previous piece. Create the top landing of the escalator by placing down one last piece as shown.
+{{:mtr:2023-11-03_23.08.32.png?350}}
 
-   > <img alt="Step 6" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/step-6.png" width=512/>
+7. Point the cursor at the white step of the previous piece. Create the top landing of the escalator by placing down one last piece as shown.
 
-1. _(Optional)_ Right click the escalator step (the moving part) with a brush to switch the direction of movement.
+{{:mtr:2023-11-03_23.08.32.png?350}}
 
-   > <img alt="Done" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/escalator/done.png" width=512/>
-   
-</markdown>
+8. //(Optional)// Right click the escalator step (the moving part) with a brush to switch the direction of movement.
+
+{{:mtr:2023-11-03_23.09.08.png?350}}
+
