@@ -1,6 +1,20 @@
 ====== Dashboards - Needs Updating ======
 
-The **Railway Dashboard,** **Boat Dashboard** and **Cable Car Dashboard** is required to set up stations and routes in the world.
+<WRAP right>
+
+|  @#00C42A: **Dashboards**  ||
+| {{ :mtr:railway_dashboard.png?100 }} | {{ :mtr:boat_dashboard.png?100 }} |
+|  Icons of Railway and Boat Dashboard.  ||
+|  {{ :mtr:cable_car_dashboard.png?100 }}  |  {{ :mtr:airplane_dashboard.png?100 }}  |
+|  Icons of Cable Car and Flight Dashboard.  ||
+| **[[https://minecraft.wiki/w/Rarity|Rarity colour]]** | Common |
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | No |
+| **Created by** | %%Jonathan%% |
+
+</WRAP>
+
+The **Railway Dashboard,** **Boat Dashboard**, **Cable Car Dashboard**, and **Flight Dashboard** are required to set up stations and routes in the world.
 
 ===== Obtaining =====
 
@@ -9,6 +23,10 @@ The **Railway Dashboard,** **Boat Dashboard** and **Cable Car Dashboard** is req
 Except Flight Dashboard, all dashboards are able to be made via [[https://minecraft.wiki/w/Crafting|Crafting]].
 
 <markdown>
+
+
+
+
 
 
 
@@ -38,6 +56,10 @@ Dashboards will be opened when right clicked.
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
+
+
 
 
 
@@ -96,6 +118,10 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 
 
 
+
+
+
+
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
@@ -117,6 +143,10 @@ When the ''Depots'' tab is selected and while not editing a depot, a siding on t
 
 
 
+
+
+
+
 | Field | Description |
 | --- | --- |
 | Siding Number | <li>Trains in a depot will be deployed according to the siding number.<li>If two sidings have the same number, a random train between the sidings will be deployed. |
@@ -126,9 +156,67 @@ When the ''Depots'' tab is selected and while not editing a depot, a siding on t
 
 Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
 
+===== Changelog =====
+
+3.0.0-Beta-2: Added Railway Dashboard.
+
+%%3.0.0-Beta-5-unofficial-2: %%Railway Dashboard can now %%configure platform numbers and dwell times.%%
+
+%%3.0.0-Beta-5-unofficial-8: %%Railway %%Dashboard lists are now separated into pages and include a search box.%%
+
+%%3.0.0-Beta-5-prerelease: Mod configuration where custom fonts can be disabled is created and accessible from the dashboard.%%
+
+%%3.0.0-Beta-6-unofficial-1: When two players edit the dashboard at once, there will no longer be conflicts or overwriting of data.%%
+
+%%3.0.0-Beta-6-unofficial-2: Railway Dashboard can now configure the station's fare zone.%%
+
+%%3.0.0-Beta-7-depot-snapshot: Depots tab is added in response of the depot update.%%
+
+%%3.0.0-Beta-7-depot-snapshot: Train selection is now moved to depots tab.%%
+
+%%3.0.0-Beta-7-depot-snapshot-2: The Railway Dashboard will return an error message to the player when pathfinding cannot find a complete route.%%
+
+%%3.0.0-Beta-7-depot-snapshot-3: The Railway Dashboard can now set infinite train spawn in the train selection tab.%%
+
+%%3.0.0-Beta-7-depot-snapshot-4: Fixed a bug where a siding without "unlimited trains" selected won't spawn any trains.%%
+
+%%3.0.0-Beta-7-depot-snapshot-4-hotfix: Pathfinding feedback has been improved.%%
+
+%%3.0.0-Beta-7-depot-snapshot-5: The Railway Dashboard can now set exits of a station.%%
+
+%%3.0.0-Beta-8-unofficial-9: When searching for items in the Railway Dashboard, the search term will persist.%%
+
+%%3.0.0-Beta-8-unofficial-9: The Railway Dashboard can now set a finite number of train can be spawned in one siding in the train selection tab.%%
+
+%%3.0.0-Beta-9-unofficial-2: Added Boat Dashboard in response of the boat update.%%
+
+%%3.0.0-Beta-9-unofficial-8: Fixed depot sliders resetting when editing train instructions.%%
+
+%%3.0.0-Beta-9-unofficial-8: Serverside protection from adventure mode players editing the dashboard.%%
+
+%%3.0.1-unofficial-1: Added Cable Car Dashboard in response of the cable car update.%%
+
+%%3.1.0-unofficial-5: Real time scheduling can now be set in the Depot menu.%%
+
+%%3.1.1: Overlapping station areas on the Dashboard will now be considered as connecting stations.%%
+
+%%3.1.5: Customizable destination displays is now avaliable.%%
+
+%%3.1.9: Data logging is experimentally logged in a CSV file.%%
+
+%%3.1.10: Added Flight Dashboard in response of the airplane update.%%
+
+%%3.1.11: Fixed Dashboards list mouse crash.%%
+
+%%3.1.11: Improved Dashboards' performance.%%
+
 ===== Gallery =====
 
 <markdown>
+
+
+
+
 
 
 
