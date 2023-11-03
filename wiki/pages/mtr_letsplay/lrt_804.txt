@@ -3,7 +3,7 @@
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 804</font></html>\\ <html><font size = "4">麗蓮輕鐵804綫</font></html>  ^^
 |@#517BFF:||
-|  {{804_scrn.png?300&direct}}  ||
+|  {{804_scrn.png?300&direct}}\\ A Light Rail Phase I train\\ at Kallos stop (November 2023)  ||
 ^  Overview  ^^
 |**Operate location**|Kallos\\ New Buckingham|
 |**Transit type**|Light Rail Transit|
