@@ -1,5 +1,7 @@
-======Lilac Light Rail Route 801======
+======Lilac Light Rail Route 801, 801P======
 **Lilac Light Rail Route 801** (Chinese: **麗蓮輕鐵801綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Eden stop, and is jointly owned by Qingli Railways and Lilypad Rail. Although Route 801 is technically the first route built by Qingli Railways, the original route 801 is renamed into route 802. This route goes via Kallos, Karest Lake, New Red Leaves, towards Eden.
+
+**Lilac Light Rail Route 801P** (Chinese: **麗蓮輕鐵801P綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Winry stop, and is jointly owned by Qingli Railways and Lilypad Rail. This route is proposed in the "Lilac Light Rail Reform Plan 2023" and is a extended version of route 801. 
 
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 801</font></html>\\ <html><font size = "4">麗蓮輕鐵801綫</font></html>  ^^
@@ -23,8 +25,31 @@
 |**Number of cars**|1 or 2|
 ^  Service  ^^
 |**Opened**|5 October 2022, 1 year ago|
-|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
-|**Operator(s)**|Qingli Railways|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+
+^  <html><font size = "4">Lilac Light Rail Route 801P</font></html>\\ <html><font size = "4">麗蓮輕鐵801P綫</font></html>  ^^
+|@#FDA4BA:||
+^  Overview  ^^
+|**Operate location**|Kallos\\ Eden|
+|**Service type**|Light Rail Transit|
+|**System**|[[mtr_letsplay:lilac_light_rail|Lilac Light Rail]]|
+|**Status**|Unopened|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Winry|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum Speed**|80km/h|
+|**Number of stations**|18|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase V|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|N/A|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
 </WRAP>
 =====History=====
 On 5 August 2022, the first route built by Qingli Railways, route 801 went fully operational. The original 801 runs from Kallos to Kallos Ferry Pier.
@@ -37,17 +62,19 @@ On 11 September 2022, the Eastern Terminus of this route has been moved to Light
 
 On 11 March 2023, Yi Yao station was added to route 801 in Light Rail Depot direction.
 
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023", which includes the second generation of route 801P running between Light Rail Depot and Winry.
+
 On 29 October 2023, Royal Park stop is added in Eden bound for future connections to Elizebeth Line and [[lrt_804|route 804]].
 
 On 1 November 2023, Kallos stop is removed from route 801. 
 
-Qingli Railways and Lilypad Rail has been discussing about the future plans of Lilac Light Rail. In the plan, Qingli Railways suggested to further extend route 801 to Yi Long, and set up a new route 801P to serve Yi Yao to Winry after Eden. Consultations will be held soon.
+According to "Lilac Light Rail Reform Plan 2023", the line color of route 801P is tentatively decided to be flamingo-pink.
 
 <WRAP left>
 =====Stations=====
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#F08A2D:<color white>**Lilac Light Rail Route 801**</color>  ||||||
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 September 2022|
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #F08A2D , #FDA4BA)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 801, 801P</b></p></font></div></body></html>  ||||||
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
 |:::|:::|:::|Light Rail Depot|  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
 |:::|Kallos West\\ 麗灣西|:::|  [[lrt_802|{{802.png?40&direct}}]]  ||5 August 2022|
@@ -58,7 +85,7 @@ Qingli Railways and Lilypad Rail has been discussing about the future plans of L
 |:::|Karest Lake (West)\\ 麗林湖 (西)|:::|:::||:::|
 |:::|Karest Lake Beach\\ 麗林湖沙灘|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||11 August 2022|
 |:::|Spruce Forest\\ 杉木林|:::|:::|:::|20 August 2022|
-|  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |New Red Leaves\\ 新紅葉|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+|  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |New Red Leaves\\ 新紅葉|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  New Red Leaves  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
 |:::|Purple Leaves\\ 紫葉|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
 |:::|Yi Sin\\ 伊茜|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]]  ||:::|
@@ -67,16 +94,22 @@ Qingli Railways and Lilypad Rail has been discussing about the future plans of L
 |:::|Yi Yao\\ 伊瑤|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]] [[lrt_115|{{115.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
 |:::|Eden\\ 伊甸|:::|  Eden  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
-
+|:::|<del>Yi Nam\\ 伊南</del>|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||10 May 2023|
+|:::|<del>Ishima\\ 伊島</del>|Yankton|  [[lrt_115|{{115.png?40&direct}}]]  ||6 May 2023|
+|:::|:::|:::|  Ishima  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+|:::|:::|:::|  Ikawa  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
+|  @#ECB3D4:<color #CD378D>**<html><font size="4">2A</font></html>**</color>  |<del>Winry\\ 冬浮島</del>|:::|  [[lrt_115|{{115.png?40&direct}}]] {{blau_lrt.png?40&direct}}  ||:::|
+^  Remarks  ^^^^^^
+|- <del>Crossed-out station name</del> means that the station will be served by 801P in the future but not 801.||||||
+</WRAP>
+=====Fare Zones=====
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Spruce Forest
+\\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: New Red Leaves ⇄ Ishima (Yi Nam ⇄ Ishima only suitable for route 801P)
+\\ - <color /#CD378D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2A: Winry (Only suitable for route 801P)
+\\ Route 801, 801P can meet up with other light rail routes: 101, 102, 115, 483P, 802, 804, 810, 882
 =====Independent Sections=====
 - Track section between Karest Lake (West) and Karest Lake Beach
 \\ - Track section from Yi Lok to Eden, and to Yi Yao
-
-=====Fare Zones of stations along route 801=====
-- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Spruce Forest
-\\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: New Red Leaves ⇄ Eden
-\\ Route 801 can meet up with other light rail routes: 101, 102, 115, 483P, 802, 804, 810, 882
-</WRAP>
 =====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_802]]
