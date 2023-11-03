@@ -1,0 +1,60 @@
+======Lilac Light Rail Route 804======
+**Lilac Light Rail Route 804** (Chinese: **麗蓮輕鐵804綫**) is a [[lilac_light_rail]] route connecting Jonathan’s Resort stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 804</font></html>\\ <html><font size = "4">麗蓮輕鐵804綫</font></html>  ^^
+|@#517BFF:||
+|  {{804_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Kallos\\ New Buckingham|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Taipa|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|8|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Taipa Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|2 November 2023|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History====
+On 20 October 2023, [[qingli_railways|Qingli Railways]] released the "Lilac Light Rail Reform Plan 2023", and Route 804 is included in this plan, running between Kallos and Light Rail Depot, which forms a circulating route similar to [[lrt_505|route 505]].
+
+On 25 October 2023, Route 804 is decided to extend to Taipa via 3 new stations, Mou Lun, Casper Lake and Pai Kok, and 2 existing stations, Royal Park and Humugath.
+
+On 1 November 2023, Kallos stop is removed from routes [[lrt_801|801]], [[lrt_802|802]] and [[lrt_802|802S]] in order to prepare for the opening of route 804.
+
+On 2 November 2023, the connection between Humugath and Royal Park, and the new connection from Light Rail Depot to Kallos, and to Royal Park is completed. Route 804 is then fully operational.
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#517BFF:<color white>**Lilac Light Rail Route 804**</color>  ||||||
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Kallos\\ 麗灣|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |5 August 2022|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
+|:::|Mou Lun\\ 霧巒|:::| ||2 November 2023|
+|:::|Casper Lake\\ 急蛇湖|:::|:::||:::|
+|:::|Pai Kok\\ 排角|New Buckingham|:::||:::|
+|:::|Humugath\\ 洪穆伽思|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||7 May 2023|
+|:::|Taipa\\ 氹仔|:::|  [[lrt_633|{{633.png?40&direct}}]]  ||:::| 
+|:::|:::|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
+</WRAP>
+=====Fare Zones=====
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Taipa
+\\ Route 804 can meet up with other routes: 483P, 633, 801, 802, 810, 882
+=====Independent Sections=====
+- Track section between Light Rail Depot and Humugath
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_801]]
+\\ - [[lrt_802]]
+\\ - [[lrt_633]]
