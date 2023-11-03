@@ -1,5 +1,8 @@
-======Lilac Light Rail Route 633======
+======Lilac Light Rail Route 633, 633P======
 **Lilac Light Rail Route 633** (Chinese: **麗蓮輕鐵633綫**) is a [[lilac_light_rail]] route connecting Jonathan’s Resort stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+
+**Lilac Light Rail Route 633P** (Chinese: **麗蓮輕鐵633P綫**) is a [[lilac_light_rail]] route connecting Jonathan’s Resort stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]]. This route is proposed in the "Lilac Light Rail Reform Plan 2023", and is the extended version of route 633.
+
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 633</font></html>\\ <html><font size = "4">麗蓮輕鐵633綫</font></html>  ^^
 |@#00A9A6:||
@@ -24,18 +27,56 @@
 |**Opened**|7 May 2023, 6 months ago|
 |**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+
+^  <html><font size = "4">Lilac Light Rail Route 633P</font></html>\\ <html><font size = "4">麗蓮輕鐵633P綫</font></html>  ^^
+|@#A019DB:||
+^  Overview  ^^
+|**Operate location**|Chou Wai\\ Resort\\ Oculus\\ New Buckingham|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Unopened|
+|**Starting stop**|Belvedere|
+|**Terminus**|Taipa|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|22|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Taipa Depot|
+|**Rolling stock**|Light Rail Phase III\\ Light Rail Phase IV|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|N/A|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
 </WRAP>
 =====History=====
 On 21 February 2023, [[qingli_railways|Qingli Railways]] proposed the second((the first is [[lrt_410|route 410]])) co-owning route number 433, running from Jonathan’s Resort to Taipa, interchanging with AT Regional. The route number was later confirmed to be 633 instead of 433, as it is nothing related to the Chou Wai corridor. The construction commenced on 18 April 2023.
 
 On 7 May 2023, the track section from Oculus Center to Taipa is completed. Route 633 was then fully operational.
 
-According to "Lilac Light Rail Reform Plan 2023", Route 633 will remain unchanged, but there will be a new route 633P running from Taipa to Belvedere via Chou Wai. The color of Route 633P is tentatively set to be brown.
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023" and route 633P is included in this plan. Route 633 will be unchanged.
+
+According to "Lilac Light Rail Reform Plan 2023", the line color of route 633P is tentatively decided to inherit the line color of [[lrt_736|route 736P]].
 =====Stations=====
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#00A9A6:<color white>**Lilac Light Rail Route 633**</color>  ||||||
-|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Jonathan's Resort\\ 裝奶粉渡假村|Resort|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_483p|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||7 November 2022|
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #00A9A6 , #A019DB)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 633, 633P</b></p></font></div></body></html>  ||||||
+|  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ <color #25A353>**<html><font size="4">4A</font></html>**</color>  |<del>Belvedere\\ 美景宮</del>|Chou Wai|  [[{{lrt_405|{{405.png?40&direct}}]]  ||18 February 2023|
+|:::|:::|:::|  Belvedere  |  <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>  |:::|
+|:::|<del>Tai Luk Bridge\\ 大陸橋</del>|:::|  [[lrt_405|{{405.png?40&direct}}]]  ||:::|
+|:::|<del>Hua Shan\\ 華山</del>|:::|:::||:::|
+|:::|<del>Da Xiao Hu\\ 大小湖</del>|:::|:::||:::|
+|:::|<del>Mount Lindbergh North\\ 林堡山北</del>|:::|:::||:::|
+|  @#F9D8AD:\\ \\ \\ \\ \\ \\ \\ \\ <color #853A27>**<html><font size="4">6</font></html>**</color>  |<del>Tiu Keng Tei\\ 照鏡地</del>|:::|:::||:::|
+|:::|<del>Tiu Keng Shan\\ 照鏡山</del>|:::|:::||:::|
+|:::|<del>Chou Wai\\ 草圍</del>|:::|  [[lrt_410|{{410.png?40&direct}}]] [[lrt_492|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]]  ||10 February 2023|
+|:::|<del>Bamboo Hill\\ 竹山腳</del>|:::|:::||:::|
+|:::|<del>Ma Tau Peninsula\\ 碼頭半島</del>|:::|:::||:::|
+|:::|<del>Temple\\ 寺廟</del>|:::|:::||:::|
+|:::|<del>Yin Pan Tsuen\\ 然噴泉</del>|Resort|:::||:::|
+|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Jonathan's Resort\\ 裝奶粉渡假村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_483p|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||7 November 2022|
 |:::|:::|:::|  Jonathan’s Resort  |  <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|Kwun Wu\\ 觀湖|:::|  [[lrt_492|{{492.png?40&direct}}]]  ||10 February 2023|
 |:::|Melody Garden\\ 美樂|:::|:::||:::|
@@ -51,15 +92,20 @@ According to "Lilac Light Rail Reform Plan 2023", Route 633 will remain unchange
 |  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Humugath\\ 洪穆伽思|New Buckingham|  [[lrt_804|{{804.png?40&direct}}]]  ||:::|
 |:::|Taipa\\ 氹仔|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||:::| 
 |:::|:::|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
+^  Remarks  ^^^^^^
+|- <del>Crossed-out station name</del> means that the station will be served by 633P in the future but not 633.||||||
 </WRAP>
 =====Fare Zones=====
 - <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Humugath ⇄ Taipa
 \\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Qiuyou Yanji ⇄ Wing Palace
+\\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4A: Belvedere ⇄ Mount Lindbergh North (Only suitable for route 633P)
 \\ - <color /#734B8A><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 5: Jonathan’s Resort ⇄ Oculus Center
-\\ Route 633 can meet up with other routes: 410, 482P, 483P, 492, 804, 882
+\\ - <color /#853A27 ><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 6: Tiu Keng Tei ⇄ Yin Pan Tsuen (Only suitable for route 633P)
+\\ Route 633, 633P can meet up with other routes: 405, 410, 482P, 483P, 492, 804, 882
 =====Independent Sections=====
 - Track section between Melody Garden and Yurine
-\\ - Track section between Oculus Center and Taipa
+\\ - Track section between Oculus Center and Humugath
+\\ - Track section between Tiu Keng Shan and Chou Wai
 =====Reference Pages=====
 - [[lilac_light_rail]]
 \\ - [[lrt_410]]
