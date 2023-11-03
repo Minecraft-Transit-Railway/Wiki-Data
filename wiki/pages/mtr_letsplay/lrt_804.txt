@@ -1,5 +1,5 @@
 ======Lilac Light Rail Route 804======
-**Lilac Light Rail Route 804** (Chinese: **麗蓮輕鐵804綫**) is a [[lilac_light_rail]] route connecting Jonathan’s Resort stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+**Lilac Light Rail Route 804** (Chinese: **麗蓮輕鐵804綫**) is a [[lilac_light_rail]] route connecting Light Rail Depot stop and Taipa stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 804</font></html>\\ <html><font size = "4">麗蓮輕鐵804綫</font></html>  ^^
 |@#517BFF:||
