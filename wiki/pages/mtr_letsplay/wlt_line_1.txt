@@ -30,7 +30,7 @@
 | **Line Length** | 5.8 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
-| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Northern Snow Village - Hung Ngai Tung)//
+| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Northern Snow Village - Hung Ngai Tung)// |
 | **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
