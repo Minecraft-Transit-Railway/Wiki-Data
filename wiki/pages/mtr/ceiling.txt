@@ -1,29 +1,81 @@
 ====== Ceiling - Needs Updating ======
 
-The ceiling is a decorative block that has a [[https://minecraft.gamepedia.com/Light|light level]] of 15.
+<WRAP right>
 
-There are three variants of ceilings: 
+|  @#00C42A: **Ceiling**  ||
+| {{ :mtr:ceiling.png?200 }} ||
+|  Render of a ceiling block with light.  ||
+|  {{ :mtr:ceiling_no_light.png?200 }}  ||
+|  Render of a ceiling block without light.  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+
+</WRAP>
+
+The ceiling is a decorative block. Except Ceiling (No Light), they have a [[https://minecraft.wiki/w/Light#Light_level|Light Level]] of 15.
+
+There are three variants of ceilings:
+
   * Ceiling
   * Ceiling (Light)
   * Ceiling (No Light)
-They differ by the behaviour in having or not having lights. 
+
+They differ by the behaviour in having or not having lights.
+
+===== Obtaining =====
+
+==== Breaking ====
+
+Ceiling blocks require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2.
+
+==== Crafting ====
+
+=== Base Recipe ===
 
 <markdown>
-# Obtaining
 
-## Breaking
 
-Ceiling blocks require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
 
-## Crafting
 
-| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Ceiling | [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot) + [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust)<br><br>_Shaped Recipe_ | ![Platform Screen Doors Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/ceiling.png) |
+| Ceiling × 64 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:ceiling_crafting_recipe_1.png" width=200> |
 
-# Usage
+#### Conversion Recipes (Same Type)
 
-The placement direction of the ceiling block depends on the player orientation. The horizontal beams of the block will be placed parallel to the direction where the player is facing.
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
+| --- | --- | --- |
+| Ceiling (Light) | Ceiling<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:ceiling_crafting_recipe_2.png" width=200> |
+| Ceiling (No Light) | Ceiling (Light)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:ceiling_crafting_recipe_3.png" width=200> |
+| Ceiling | Ceiling (No Light)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:ceiling_crafting_recipe_4.png" width=200> |
+
 </markdown>
 
-The ceiling without specifying light will have light when the x position((When facing=false, i.e., north-south facing)) or z position((When facing=true, i.e., east-west facing)) is a multiple of 3. Ceiling (Light) always has light while ceiling (no light) never has light.
+===== Usage =====
+
+The placement direction of the ceiling block depends on the player orientation. The horizontal beams of the block will be placed parallel to the direction where the player is facing.
+
+The ceiling without specifying light will have light when the x position((
+When facing=false, i.e., north-south facing
+)) or z position((
+When facing=true, i.e., east-west facing
+)) is a multiple of 3. Ceiling (Light) always has light while ceiling (no light) never has light.
+
+===== Changelog =====
+
+Unknown: Added.
+
+%%Beta-8-prerelease-2: Dedicated ceiling blocks with light or no light is added, and the old ceiling block is now marked with "AUTO" in the icon.%%
+
