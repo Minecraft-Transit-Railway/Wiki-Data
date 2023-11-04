@@ -7,7 +7,12 @@
 |  {{:mtr:pids_2.png?200}}  ||
 |  {{:mtr:pids_3.png?200}}  ||
 | {{ :mtr:pids_4_1.png?100 }} | {{ :mtr:pids_4_1.png?100 }} |
-|   ||
+|  Render of all types of PIDS.((
+|  Type 1  ||
+|  Type 2  ||
+|  Type 3  ||
+|  Type 4  |  Type 4-1  |
+))  ||
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
 | **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
@@ -17,6 +22,12 @@
 | **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
+| ::: | [[mtr_community:lx862|LX86]]((
+Type 3 only.
+)) |
+| ::: | Epicpuppy613((
+Type 4 and Type 4-1 only.
+)) |
 
 </WRAP>
 
@@ -43,6 +54,12 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 <markdown>
 
 
+
+
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Passenger Information Display System (Type 1) × 8 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Clock](https://minecraft.wiki/w/Clock)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_1.png" width=200/> |
@@ -52,6 +69,12 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 === Conversion Recipes ===
 
 <markdown>
+
+
+
+
+
+
 
 
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
@@ -73,4 +96,8 @@ If placed close to a platform rail and the platform has upcoming train arrivals,
 If there are trains of different car lengths approacing the platform, the number of cars will be shown as well.
 
 When right clicked with a brush, a custom message can be displayed. Custom messages can also be set to replace existing arrivals. Platform(s) in the same station can be also assigned, this will override the automatic detection.
+
+===== Changelog =====
+
+2.1.2: Added PIDS. It is referred as "%%next train prediction system" in the changelog, and "%%Platform Information Display System" in game%%.%%
 
