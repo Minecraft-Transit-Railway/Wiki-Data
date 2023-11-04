@@ -1,0 +1,57 @@
+======Lilac Light Rail Route 717/718======
+**Lilac Light Rail Route 717/718** (Chinese: **麗蓮輕鐵717/ 718綫**) are 2 circular routes jointly owned by [[qingli_railways|Qingli Railways]] and [[lilypad_rail]], set up in Tempest and Sunrise area. Routes 717 and 718 are actually the same route, but in different directions. Route 717 is in clockwise direction; while Route 718 is in anti-clockwise direction.
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 717/718</font></html>\\ <html><font size = "4">麗蓮輕鐵717/ 718綫</font></html>  ^^
+|@#2B91CF:||
+|@#99C83A:||
+|  {{717_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest\\ Sunrise|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Terminus**|Sunrise|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|32|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Sunrise Light Rail Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|9 July 2023|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+=====History=====
+On 2 April 2023, [[lilypad_rail]] proposed route 717 going from Tempest to the west and turn north at Boundary Island stop.
+
+On 9 April 2023, route 717 is proposed to further extend to Sunrise and then back to Tempest to form a circular route. Different directions of route 717 has been split into routes 717 and 718.
+
+On 9 July 2023, the loop is completed and routes 717 and 718 has been fully operational since then.
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #2B91CF , #99C83A)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 717/718</b></p></font></div></body></html>  ||||||
+|  @#C3C3C3:\\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Tempest\\ 坦派斯特|Tempest|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
+|:::|Yamaura\\ 山內|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]]  ||9 July 2023|
+|:::|Alpha\\ 阿爾法|:::| ||:::|
+|:::|Beta\\ 貝塔|:::|:::||:::|
+|:::|Gamma\\ 伽瑪|:::|:::||:::|
+|:::|Delta\\ 德爾塔|:::|:::||:::|
+|:::|Kuk Wu\\ 曲湖|:::|:::||:::|
+|:::|Tam Ling\\ 潭陵|Sunrise|:::||:::|
+|:::|Hattari\\ 虛幻|:::|:::||:::|
+|:::|Kaixa\\ 凱撒|:::|:::||:::|
+|:::|Tai Wai\\ 堤圍|:::|  [[lrt_735|{{735.png?40&direct}}]]  ||:::|
+|:::|Kennedy\\ 堅尼地|:::|:::||:::|
+|:::|Sunrise\\ 晨輝|:::|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|Kimberly\\ 金伯利|:::|  [[lrt_736|{{736.png?40&direct}}]]  ||:::|
+|:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
+|:::|Cascade\\ 級聯|:::|:::||:::|
+|:::|Evening Spring\\ 暮春|:::|:::||:::|
+|:::|Lucky Dog\\ 幸運狗|:::|:::||:::|
+</WRAP>
