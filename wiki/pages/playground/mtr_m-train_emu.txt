@@ -39,7 +39,9 @@
 | **%%Height%%** | 3910mm |
 | **Floor Height** | 1100mm |
 | **Doors** | 5 sets Double-leaf per side, hanging doors |
-| ::: | 3 sets Double-leaf per side, hanging doors (DRL unis only) |
+| ::: | 3 sets Double-leaf per side, hanging doors((
+Disney Resort Line units only.
+)) |
 | **Maximum Speed** | Designed: 90km/h |
 | ::: | Service: 80km/h |
 | **Traction system** | DRL units: GEC G313BZ |
@@ -51,17 +53,23 @@
 | **Bogies** | Duewag%% %%SF2100 |
 | **Braking system(s)** | Regenerative and air brake |
 | **Safety System(s)** | SACEM |
-|   | SelTrac (DRL Sets only) |
+|   | SelTrac |
 | **Coupling system** | BSI |
 | **Track gauge** | 1432mm (and 1435mm) |
 |  **Information above are from Wikipedia and ERTHK with addition of the editor's understanding.**  ||
 |  @#999999:  **MTR mod Overview**  ||
 | **Available from** | Unknown |
-| ::: | %%Beta-9-unofficial-2 %%(DRL M-train only) |
+| ::: | %%Beta-9-unofficial-2 %%((
+Disney Resort Line units only.
+)) |
 | **Creator** | Jonathan |
-| ::: | Eric (DRL M-train only) |
+| ::: | Eric((
+Disney Resort Line units only.
+)) |
 | **Colour Code** | @#999999: #999999  |
-| ::: | @#F287B7: #F287B7 (DRL M-train only) |
+| ::: | @#F287B7: #F287B7((
+Disney Resort Line units only.
+))  |
 | **Identifiers** | **''%%m_train%%''** |
 | ::: | **''%%m_train_small%%''** |
 | ::: | **''%%m_train_mini%%''** |
@@ -76,7 +84,9 @@
 | **Floor Height** | 1m |
 | **Doors** | 5 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Standard M-train only) |
 | ::: | 4 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Small M-train only) |
-| ::: | 3 sets Double-leaf per side, hanging doors, SLOW doors (DRL M-train only) |
+| ::: | 3 sets Double-leaf per side, hanging doors, SLOW doors ((
+Disney Resort Line units only.
+)) |
 | ::: | 2 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Mini M-train only) |
 | **Maximum Speed** | 300km/h (%%186.41%%mph) |
 | **%%Weight%%** | N/A |
@@ -89,4 +99,6 @@
 | **Track gauge** | MTR Standard |
 
 </WRAP>
+
+The MTR M-Train EMU is a train that is available in the Minecraft Transit Railway mod.
 
