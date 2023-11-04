@@ -1,0 +1,31 @@
+======Lilac Light Rail Route 721/722======
+**Lilac Light Rail Route 721/722** (Chinese: **麗蓮輕鐵721/ 722綫**) are 2 circular routes jointly owned by [[qingli_railways|Qingli Railways]] and [[lilypad_rail]], set up in Tempest area. Routes 721 and 722 are actually the same route, but in different directions. Route 717 is in clockwise direction; while Route 718 is in anti-clockwise direction.
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 721/722</font></html>\\ <html><font size = "4">麗蓮輕鐵721/ 722綫</font></html>  ^^
+|@#FE14E5:||
+|@#7DB554:||
+|  {{722_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Terminus**|Tao Tung|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|18|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750V DC\\ Overhead wire cable|
+|**Depot**|Daimon North Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|9 July 2023|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[lilypad_rail]]|
+</WRAP>
+=====History=====
+On 9 April 2023, apart from [[lrt_717_8|routes 717 and 718]], [[lilypad_rail]] proposed another 2 circular routes which has a smaller circle than the former routes, namely the "Tempest South Circular". The smaller circle is included in the Southwest of the big circle, taking up about one quarter of the area of it.
+
+On 9 July 2023, routes 721 and 722 were completed together with the whole Tempest light rail network
