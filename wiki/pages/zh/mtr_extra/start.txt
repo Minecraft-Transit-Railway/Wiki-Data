@@ -15,7 +15,7 @@
 
 某些资源包不是以这种格式打包的。对于这些情况，你应该打开文件，看看里面是否有ZIP文件。如果你直接在pack中找到pack.mcmeta，你应该把它解压到resourcepacks文件夹中的一个文件夹中。
 
-有关使用资源包的其他问题，请参阅[[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]]了解更多信息。
+有关使用资源包的其他问题，请参阅 [[zh:mtr_extra:resourcepack|使用资源包]] 了解更多信息。
 
 ===== 制作资源包 =====
 请参阅[[zh:mtr_extra:resourcepack:make|制作资源包]]。
