@@ -98,8 +98,9 @@ According to "Lilac Light Rail Reform Plan 2023", route 882 will once again term
 |:::|Tin Yiu\\ 天耀|:::|:::||:::|
 |:::|Tin Yau\\ 天佑|:::|:::||:::|
 |:::|Heung Yuen Wai\\ 香園圍|:::|:::||:::|
-|:::|Airport South\\ 機場南|:::|:::||:::|
+|:::|Airport South\\ 機場南|:::|  Heung Fan Liu  |  <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|**Airport North\\ 機場北**|:::|  [[lrt_720|{{720.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Heung Fan Liu  |  <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 ^  Remarks  ^^^^^^
 |- **Bold station name** means that the station is served by 482P but not 882||||||
 
