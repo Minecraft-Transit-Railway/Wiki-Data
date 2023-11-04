@@ -56,6 +56,8 @@ Platform blocks require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
 | Platform Block (Hong Kong) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye) + [White Dye](https://minecraft.gamepedia.com/White_Dye)<br><br>_Shapeless Recipe_ | ![Hong Kong Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_1.png) |
@@ -72,6 +74,8 @@ The platform block should be placed next to or one block away from a rail. It wi
 When [[/trains|trains]] arrive at a platform, the platform blocks by the rail will allow the train to open its doors.
 
 <markdown>
+
+
 
 
 
@@ -125,6 +129,8 @@ When [[/platform_screen_doors|platform screen doors]] or [[/automatic_platform_g
 
 
 
+
+
 > <img alt="Platform Screen Doors on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/psd-on-platform.png" width=512/><br>Platform screen doors placed on top of platform blocks will change the texture of the platform block to a blueish marble.
 
 > <img alt="Automatic Platform Gates on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/apg-on-platform.png" width=512/><br>Automatic platform gates placed on top of platform blocks will change the texture of the platform block to a yellowish marble.
@@ -139,5 +145,9 @@ Unknown: Added.
 
 %%3.0.0-Beta-8-unofficial-4: Added the North American variants of platform blocks.%%
 
-%%3.0.0-Beta-8-unofficial-8: Added the United Kingdom platform blocks, and indented versions of all platform blocks.%%
+%%3.0.0-Beta-8-unofficial-8: Added the United Kingdom((
+
+Was described as "London Underground" platform blocks in the changelog.
+
+)) platform blocks, and indented versions of all platform blocks.%%
 
