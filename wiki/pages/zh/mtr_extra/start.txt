@@ -23,5 +23,3 @@
 ===== 我在哪里能找到 =====
 [[https://discord.gg/PVZ2nfUaTW|MTR Discord服务器]]中有一个专用频道，你还可以在[[https://mtrbbs.top|MTRBBS论坛]]找到更多社区人士制作的资源包。
 
-~~NOCACHE~~
-<nspages-textPages=“”-h1-exclude>
