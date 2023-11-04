@@ -1,0 +1,77 @@
+======Lilac Light Rail Route 720======
+**Lilac Light Rail Route 720** (Chinese: **麗蓮輕鐵720綫**) is a [[lilac_light_rail]] route connecting Daimon North stop and Heung Fan Liu Airport North stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]]. 
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 720</font></html>\\ <html><font size = "4">麗蓮輕鐵720綫</font></html>  ^^
+|@#53B7E8:||
+^  Overview  ^^
+|**Operate location**|Tempest\\ Eastwich\\ Resort|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Daimon North|
+|**Terminus**|Airport North|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|80km/h|
+|**Number of stations**|9|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Daimon North Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|4 March 2023|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History=====
+Route 720 was first proposed by [[qingli_railways|Qingli Railways]] on 26 December 2022. In this plan, Route 720 ran straight down from Tempest stop, but did not connect to the rest of the light rail system. 
+
+On 25 January 2023, the light rail connection to tempest is replaced by [[lrt_761|route 761]], which connects Tempest stop and Daimon North stop.
+
+On 3 February 2023, [[qingli_railways|Qingli Railways]] dropped the "Qingli LRT Extension Plan", and Route 720 is one of the routes proposed in this plan, running from Daimon North to Heung Fan Liu Airport, thus connecting the Tempest light rail network to the rest of the Qingli/Lilypad light rail system. The construction of route 720 commenced on 19 February 2023 together with the extension of [[lrt_882|route 882]].
+
+On 4 March 2023, route 720 is completed and fully operational.
+
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023". According to plan, route 720 will be extended to Jonathan’s Resort stop to replace the section between Heung Fan Liu Airport and Jonathan’s Resort of [[lrt_882|route 882]] and [[lrt_882|route 482P]].
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#53B7E8:**<color white>Lilac Light Rail Route 720</color>**  ||||||
+|  @#C0D7F7:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #043989 >**<html><font size="4">8</font></html>**</color>  |Daimon North\\ 大門北|Tempest|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|Ginga\\ 銀河|:::|  [[lrt_719|{{715.png?40&direct}}]]  ||4 March 2023|
+|:::|Chimera\\ 奇美拉|:::|:::||:::|
+|:::|Sand Farm\\ 沙田|Eastwich|:::||:::|
+|:::|Inner Harbour Ferry Terminal\\ 內海客運碼頭|:::|  [[lrt_719|{{715.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kallos Ferry  ||:::|
+|:::|<del>Eastwich-on-sea\\ 伊斯威奇海邊</del>|:::|  [[lrt_719|{{715.png?40&direct}}]]  ||N/A|
+|:::|Tsing Fung\\ 清風|:::|:::||4 March 2023|
+|:::|San Fat\\ 新發|:::|:::||:::|
+|  @#BBD3D7:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  |San Shek Wan\\ 散石灣|:::| ||:::|
+|:::|Airport North\\ 機場北|Resort|  [[lrt_882|{{482p.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Heung Fan Liu  |  <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::^  Extended Part (Proposed)  ^^^^^
+|:::|Heung Yuen Wai\\ 香園圍|Resort|  [[lrt_882|{{482p.png?40&direct}}]]  ||4 March 2023|
+|:::|Tin Yau\\ 天佑|:::|:::||:::|
+|:::|Tin Yiu\\ 天耀|:::|:::||:::|
+|:::|Chun Ming\\ 晉名|:::|:::||:::|
+|:::|Chun Wang Village\\ 俊宏村|:::|:::||:::|
+|:::|Sky Tower West\\ 傲雲峰西|:::|:::||:::|
+|  @#C2BED6:\\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  |Resort North Village\\ 度假北村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_492|{{483p.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||7 November 2022|
+|:::|Jonathan’s Resort\\ 裝奶粉渡假村|:::|  [[lrt_882|{{482p.png?40&direct}}]] [[lrt_492|{{483p.png?40&direct}}]] [[lrt_492|{{492.png?40&direct}}]] [[lrt_633|{{633.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Jonathan’s Resort  |  <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+^  Remarks  ^^^^^^
+|- Eastwich-on-sea stop is not yet in service||||||
+</WRAP>
+=====Fare Zones=====
+- <color /#236F74><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 7: San Shek Wan ⇄ Airport North
+\\ - <color /#043989><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 8: Daimon North ⇄ Sun Fat
+\\ Route 720 can meet up with other routes: 482P, 483P, 492, 633, 715, 761, 882
+=====Independent Sections=====
+- Track section between Sun Fat and Airport North
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_492]]
+\\ - [[lrt_719]]
+\\ - [[lrt_761]]
+\\ - [[lrt_882]]
