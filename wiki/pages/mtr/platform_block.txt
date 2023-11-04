@@ -19,6 +19,9 @@
 | **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
+| ::: | ExtremeMakerX((
+North American variants only.
+)) |
 
 </WRAP>
 
@@ -40,6 +43,8 @@ Platform blocks require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to
 ==== Crafting ====
 
 <markdown>
+
+
 
 
 
@@ -87,6 +92,8 @@ When [[/trains|trains]] arrive at a platform, the platform blocks by the rail wi
 
 
 
+
+
 > <img alt="Platform Next To Rail" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/platform-next-to-rail.png" width=512/><br>Platform blocks should be next to or one block away from rails.
 
 > <img alt="Train Doors Open" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/train-doors-open.png" width=512/><br>When a platform block is next to or one block away from platform rails, incoming trains will open its doors.
@@ -96,6 +103,8 @@ When [[/trains|trains]] arrive at a platform, the platform blocks by the rail wi
 When [[/platform_screen_doors|platform screen doors]] or [[/automatic_platform_gates|automatic platform gates]] are placed on top of platform blocks, the texture of the platform blocks will change to a blueish or yellowish marble. Queueing arrows will also appear.
 
 <markdown>
+
+
 
 
 
