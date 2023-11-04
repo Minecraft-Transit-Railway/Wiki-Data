@@ -49,7 +49,8 @@ On 9 July 2023, the loop is completed and routes 717 and 718 has been fully oper
 |:::|Tai Wai\\ 堤圍|:::|  [[lrt_735|{{735.png?40&direct}}]]  ||:::|
 |:::|Kennedy\\ 堅尼地|:::|:::||:::|
 |:::|Sunrise\\ 晨輝|:::|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|Kimberly\\ 金伯利|:::|  [[lrt_736|{{736.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
+|:::|Kimberly\\ 金伯利|:::|  [[lrt_736|{{736.png?40&direct}}]]  ||:::|
 |:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
 |:::|Cascade\\ 級聯|:::|:::||:::|
 |:::|Evening Spring\\ 暮春|:::|:::||:::|
