@@ -3,6 +3,7 @@
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 720</font></html>\\ <html><font size = "4">麗蓮輕鐵720綫</font></html>  ^^
 |@#53B7E8:||
+|  {{720_scrn.png?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Tempest\\ Eastwich\\ Resort|
 |**Transit type**|Light Rail Transit|
