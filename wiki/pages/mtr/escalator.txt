@@ -51,6 +51,8 @@ Escalators require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] to be mined, i
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Escalator × 8 | [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Stone Brick Stairs](https://minecraft.wiki/w/Stairs) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:escalator_crafting_recipe.png" width=200/> |
@@ -85,7 +87,7 @@ Building the escalator can be tricky. In the following series of images, the cur
 
 7. Point the cursor at the white step of the previous piece. Create the top landing of the escalator by placing down one last piece as shown.
 
-{{:mtr:2023-11-03_23.08.32.png?350}}
+{{:mtr:2023-11-03_23.08.46.png?350}}
 
 8. //(Optional)// Right click the escalator step (the moving part) with a brush to switch the direction of movement.
 
