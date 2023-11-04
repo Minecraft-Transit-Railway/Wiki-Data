@@ -92,7 +92,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 882 will once again term
 |:::|:::|:::|  Jonathan’s Resort  |  <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
 |:::|Resort North Village\\ 度假北村|:::|  [[lrt_483p|{{483p.png?40&direct}}]]  ||:::|
 |:::|Badsand Beach\\ 紅沙海岸|:::|:::||:::|
-|  @#BBD3D7:\\ \\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  |Sky Tower West\\ 傲雲峰西|:::| ||4 February 2023|
+|  @#BBD3D7:\\ \\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  |Sky Tower West\\ 傲雲峰西|:::| ||4 March 2023|
 |:::|Chun Wang Village\\ 俊宏村|:::|:::||:::|
 |:::|Chun Ming\\ 晉名|:::|:::||:::|
 |:::|Tin Yiu\\ 天耀|:::|:::||:::|
