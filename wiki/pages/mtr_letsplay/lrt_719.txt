@@ -21,7 +21,7 @@
 |**Number of stations**|2|
 |**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
 |**Electrification**|750 DC Third Rail|
-|**Depot**|Kallos Light Rail Depot|
+|**Depot**|Daimon North Depot|
 |**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
 |**Number of cars**|2|
 ^  Service  ^^
