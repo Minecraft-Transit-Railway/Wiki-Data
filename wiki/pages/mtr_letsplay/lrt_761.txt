@@ -1,0 +1,69 @@
+======Lilac Light Rail Route 761======
+**Lilac Light Rail Route 761** (Chinese: **麗蓮輕鐵761綫**) is a [[lilac_light_rail]] route connecting Tempest stop and Daimon North stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 761</font></html>\\ <html><font size = "4">麗蓮輕鐵761綫</font></html>  ^^
+|@#019551:||
+|  {{761_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Tempest|
+|**Terminus**|Daimon North|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|10|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750V DC\\ Overhead wire cable|
+|**Depot**|Taipa Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|5 February 2023, 9 months ago|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History=====
+On 25 January 2023, route 761 was proposed to be the first light rail route connecting Tempest station, replacing the original [[lrt_720|route 720]] plan. This route is planned to be the first route using overhead wire cable instead of third rail electrification in the Qingli Light Rail system.((The first route to use overhead wire cable electrification in the Lilac Light Rail system is [[lrt_505|route 505]].)) The construction commenced on the same day.
+
+On 5 February 2023, route 761 is completed and fully operational.
+
+On 20 October 2023, [[qingli_railways|Qingli Railways]] released the "Lilac Light Rail Reform Plan 2023". According to the plan, route 761 will be merged with [[lrt_736|route 736P]] such that it’s eastern terminus will be moved from Tempest to Tao Tung. Also, route 761 will be further extended from Daimon North to Daimon Island via Ginga, to provide connections to [[kallos_express]], Effirt Express and Llanmara Express. 
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#019551:**<color white>Lilac Light Rail Route 761</color>**  ||||||
+|  @#C3C3C3:\\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Tempest\\ 坦派斯特|Tempest|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]]  ||5 February 2023|
+|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
+|:::|Jura Forest\\ 朱拉森林|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Badlands Forest\\ 惡土森林|:::|:::||:::|
+|:::|Dry Plains Cable Car Stop\\ 乾草園纜車站|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
+|:::|Eastern Garden Lake\\ 東園湖|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|:::|Sidebay Ferry Pier\\ 邊灣碼頭|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kallos Ferry  ||:::|
+|:::|Boundary Island\\ 邊境島|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|:::|Hung Sum (East)\\ 洪森（東）|:::| ||:::|
+|:::|Hung Sum (West)\\ 洪森（西）|:::|:::||:::|
+|  @#C0D7F7:\\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  |Daimon North\\ 大門北|:::|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_720|{{720.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
+|:::^  Extended Part (Proposed)  ^^^^^
+|:::|Ginga\\ 銀河|Tempest|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_720|{{720.png?40&direct}}]]  ||4 March 2023|
+|:::|Daimon Island\\ 大門島|:::|  Daimon Island  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |N/A|
+</WRAP>
+=====Fare Zones=====
+- <color /#043989><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 8: Daimon North
+\\ - <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Badlands Forest ⇄ Hung Sum (West)
+\\ - <color /#585858><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 10: Tempest ⇄ Jura Forest
+\\ Route 761 can meet up with other routes: 715, 717, 718, 720, 721, 722, 736, 736P
+=====Independent Sections=====
+- Track section between Boundary Island and Daimon North
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_717_8]]
+\\ - [[lrt_719]]
+\\ - [[lrt_720]]
+\\ - [[lrt_721_2]]
+\\ - [[lrt_736]]
