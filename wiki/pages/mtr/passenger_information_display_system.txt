@@ -1,12 +1,13 @@
 ====== Passenger Information Display System ======
 
-|  @#00C42A: **Automatic Platform Gates**  ||
-| {{ :mtr:apg_door.png?200 }} ||
-|  Icon of the Automatic Platform Gates (Door).  ||
-|  {{ :mtr:apg_glass.png?200 }}  ||
-|  Icon of the Automatic Platform Gates (Glass).  ||
-|  {{ :mtr:apg_glass_end.png?200 }}  ||
-|  Icon of the Automatic Platform Gates (End).  ||
+<WRAP right>
+
+|  @#00C42A: **Passenger Information Display System**  ||
+|  {{:mtr:pids_1.png?200}}  ||
+|  {{:mtr:pids_2.png?200}}  ||
+|  {{:mtr:pids_3.png?200}}  ||
+| {{ :mtr:pids_4_1.png?100 }} | {{ :mtr:pids_4_1.png?100 }} |
+|   ||
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
 | **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
@@ -17,30 +18,53 @@
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
 
-The passenger information display system (PIDS) is a block that will show the estimated time of arrival (ETA) of trains on a certain platform.
+</WRAP>
 
-There are currently three types of passenger information display systems in the mod:
+The **Passenger Information Display System (PIDS)** is a block that will show the estimated time of arrival (ETA) of trains on a certain platform.
 
-  * Type 1: Shows an animation and one train arrival
-  * Type 2: Shows the next three train arrivals
-  * Type 3: Shows the next two train arrivals, with the approaching train arrival in green
+There are currently five types of passenger information display systems in the mod:
+
+  * Type 1: Shows an animation and one train arrival.
+  * Type 2: Shows the next three train arrivals.
+  * Type 3: Shows the next two train arrivals, with the approaching train arrival in green.
+  * Type 4: Vertical PIDS, Shows the next eight train arrivals.
+  * Type 4-1: Vertical PIDS, Shows the next train arrival, and display all stops that it will stop.
 
 ===== Obtaining =====
 
 ==== Breaking ====
 
-Passenger information display systems require a [pickaxe]([[https://minecraft.gamepedia.com/Pickaxe]]) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness]([[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness]]) of 2.
+Passenger information display systems require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2.
 
 ==== Crafting ====
+
+=== Base Recipes ===
+
 <markdown>
-| Name | Ingredients | [Crafting]([[https://minecraft.gamepedia.com/Crafting]]) Recipe |
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Passenger Information Display System (Type 1) | [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]]) + [Glowstone Dust]([[https://minecraft.gamepedia.com/Glowstone_Dust]]) + [Clock]([[https://minecraft.gamepedia.com/Clock]])<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 1]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_1_1.png]]) |
-| Passenger Information Display System (Type 1) | Passenger Information Display System (Type 3)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 2]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_1_2.png]]) |
-| Passenger Information Display System (Type 2) | Passenger Information Display System (Type 1)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 3]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_2.png]]) |
-| Passenger Information Display System (Type 3) | Passenger Information Display System (Type 2)<br><br>_Shapeless Recipe_ | ![Passenger Information Display System Crafting Recipe 3]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/pids_3.png]]) |
+| Passenger Information Display System (Type 1) × 8 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Clock](https://minecraft.wiki/w/Clock)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_1.png" width=200/> |
+
 </markdown>
-=====Usage=====
+
+=== Conversion Recipes ===
+
+<markdown>
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
+| --- | --- | --- |
+| Passenger Information Display System (Type 1) | Passenger Information Display System (Type 4-1)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_6.png" width=200/> |
+| Passenger Information Display System (Type 2) | Passenger Information Display System (Type 1)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_2.png" width=200/> |
+| Passenger Information Display System (Type 3) | Passenger Information Display System (Type 2)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_3.png" width=200/> |
+| Passenger Information Display System (Type 4) | Passenger Information Display System (Type 3)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_4.png" width=200/> |
+| Passenger Information Display System (Type 4-1) | Passenger Information Display System (Type 4)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_5.png" width=200/> |
+
+</markdown>
+
+===== Usage =====
 
 The passenger information display system automatically detects any  platform rail within four blocks horizontally and at most five blocks below.
 
@@ -49,6 +73,4 @@ If placed close to a platform rail and the platform has upcoming train arrivals,
 If there are trains of different car lengths approacing the platform, the number of cars will be shown as well.
 
 When right clicked with a brush, a custom message can be displayed. Custom messages can also be set to replace existing arrivals. Platform(s) in the same station can be also assigned, this will override the automatic detection.
-
-
 
