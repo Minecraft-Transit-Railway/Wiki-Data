@@ -6,7 +6,7 @@
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 633</font></html>\\ <html><font size = "4">麗蓮輕鐵633綫</font></html>  ^^
 |@#00A9A6:||
-|  {{lrt633.png?300&direct}}  ||
+|  {{633_scrn.png?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Resort\\ Oculus\\ New Buckingham|
 |**Transit type**|Light Rail Transit|
