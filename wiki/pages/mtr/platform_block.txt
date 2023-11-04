@@ -145,7 +145,7 @@ Unknown: Added.
 
 %%3.0.0-Beta-8-unofficial-4: Added the North American variants of platform blocks.%%
 
-%%3.0.0-Beta-8-unofficial-8: Added the United Kingdom((
+3.0.0-Beta-8-unofficial-8: Added the United Kingdom((
 Was described as "London Underground" platform blocks in the changelog.
-)) platform blocks, and indented versions of all platform blocks.%%
+)) platform blocks, and indented versions of all platform blocks.
 
