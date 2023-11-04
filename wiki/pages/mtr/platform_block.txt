@@ -1,5 +1,27 @@
 ====== Platform Block ======
 
+<WRAP right>
+
+|  @#00C42A: **Platform Block**  ||
+| {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_.png?100 }} | {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_1.png?100 }} |
+|  {{ :mtr:2023-11-04_17.09.10_platform_north_america_.png?100 }}  |  {{ :mtr:2023-11-04_17.09.11_platform_north_america_.png?100 }}  |
+| {{ :mtr:2023-11-04_17.09.11_platform_north_america_1.png?100 }} | {{ :mtr:2023-11-04_17.09.12_platform_north_america_.png?100 }} |
+| {{ :mtr:2023-11-04_17.09.12_platform_united_kingdom_.png?100 }} | {{ :mtr:2023-11-04_17.09.13_platform_united_kingdom_.png?100 }} |
+|  Render of all Platforms Block variants.((
+| Hong Kong (No indent) | Hong Kong (With indent) |
+| North American (No indent) | North American (With indent) |
+| North American 2 (No indent) | North American 2 (With indent) |
+| UK (No indent) | UK (With indent) |
+))  ||
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+
+</WRAP>
+
 The platform block marks the edge of the platform. There are four types of platform blocks available:
 
   * Hong Kong
@@ -7,7 +29,7 @@ The platform block marks the edge of the platform. There are four types of platf
   * North America (Type 2)
   * United Kingdom
 
-For each type, there is an indented variant which leaves a small space below the platform edge. 
+For each type, there is an indented variant which leaves a small space below the platform edge.
 
 ===== Obtaining =====
 
@@ -16,13 +38,26 @@ For each type, there is an indented variant which leaves a small space below the
 Platform blocks require a [[https://minecraft.gamepedia.com/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness|hardness]] of 2.
 
 ==== Crafting ====
+
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
 | Platform Block (Hong Kong) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye) + [White Dye](https://minecraft.gamepedia.com/White_Dye)<br><br>_Shapeless Recipe_ | ![Hong Kong Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_1.png) |
 | Platform Block (North America, Type 1) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye)<br><br>_Shapeless Recipe_ | ![North America Type 2 Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_2.png) |
 | Platform Block (North America, Type 2) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Black Dye](https://minecraft.gamepedia.com/Black_Dye)<br><br>_Shapeless Recipe_ | ![North America Type 2 Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_3.png) |
 | Platform Block (United Kingdom) | [Stone Bricks](https://minecraft.gamepedia.com/Stone_Bricks) + [Black Dye](https://minecraft.gamepedia.com/Black_Dye) + [Yellow Dye](https://minecraft.gamepedia.com/Yellow_Dye) + [White Dye](https://minecraft.gamepedia.com/White_Dye)<br><br>_Shapeless Recipe_ | ![United Kingdom Platform Block Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/platform_4.png) |
+
 </markdown>
 
 ===== Usage =====
@@ -32,14 +67,68 @@ The platform block should be placed next to or one block away from a rail. It wi
 When [[/trains|trains]] arrive at a platform, the platform blocks by the rail will allow the train to open its doors.
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > <img alt="Platform Next To Rail" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/platform-next-to-rail.png" width=512/><br>Platform blocks should be next to or one block away from rails.
 
 > <img alt="Train Doors Open" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/train-doors-open.png" width=512/><br>When a platform block is next to or one block away from platform rails, incoming trains will open its doors.
+
 </markdown>
+
 When [[/platform_screen_doors|platform screen doors]] or [[/automatic_platform_gates|automatic platform gates]] are placed on top of platform blocks, the texture of the platform blocks will change to a blueish or yellowish marble. Queueing arrows will also appear.
+
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > <img alt="Platform Screen Doors on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/psd-on-platform.png" width=512/><br>Platform screen doors placed on top of platform blocks will change the texture of the platform block to a blueish marble.
 
 > <img alt="Automatic Platform Gates on Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/apg-on-platform.png" width=512/><br>Automatic platform gates placed on top of platform blocks will change the texture of the platform block to a yellowish marble.
 
 </markdown>
+
+===== Changelog =====
+
+Unknown: Added.
+
+%%3.0.0-Beta-7-unofficial-1: Platform blocks can now be placed in any direction.%%
+
+%%3.0.0-Beta-8-unofficial-4: Added the North American variants of platform blocks.%%
+
+%%3.0.0-Beta-8-unofficial-8: Added the United Kingdom platform blocks, and indented versions of all platform blocks.%%
+
