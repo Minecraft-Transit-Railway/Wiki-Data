@@ -60,6 +60,8 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Passenger Information Display System (Type 1) × 8 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Clock](https://minecraft.wiki/w/Clock)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_1.png" width=200/> |
@@ -69,6 +71,8 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 === Conversion Recipes ===
 
 <markdown>
+
+
 
 
 
@@ -100,4 +104,42 @@ When right clicked with a brush, a custom message can be displayed. Custom messa
 ===== Changelog =====
 
 2.1.2: Added PIDS. It is referred as "%%next train prediction system" in the changelog, and "%%Platform Information Display System" in game%%.%%
+
+3.0.0-Beta-6-unofficial-2: The "Type 2" of PIDS is added.
+
+3.0.0-Beta-7-depot-snapshot-4: Fixed PIDSs so that they can function normally.
+
+3.0.0-Beta-7-depot-snapshot-4-hotfix: Fixed PIDS won't show arrivals for certain platforms.
+
+3.0.0-%%Beta-8-unofficial-1: %%The "Type 3" of PIDS by LX86 is added. It is referred as "%%West Rail PIDS" in the changelog.%%
+
+3.0.0-%%Beta-8-unofficial-2: All PIDS will now show route number for certain routes that is in a "Light Rail mode".%%
+
+3.0.0-%%Beta-8-unofficial-2: All PIDS will now show car lengths if trains of different number of carriages are running on a route.%%
+
+3.0.0-%%Beta-8-unofficial-7: PIDS now count down even if trains are waiting at the depot.%%
+
+3.0.0-%%Beta-8-unofficial-7: Fixed sounds not playing and PIDS not cycling between languages when the gamerule %%''doDaylightCycle''%% is %%''false''.
+
+3.0.0-%%Beta-8-unofficial-8-hotfix: PIDS is a bit more accurate.%%
+
+3.0.0-%%Beta-8-unofficial-8-hotfix-2: PIDS is a bit more accurate (again).%%
+
+3.0.0-%%Beta-8-unofficial-11: PIDS messages can now be customised by right clicking the PIDS with a brush.%%
+
+3.0.0-%%Beta-8-unofficial-13: Custom text for PIDS can be configured to hide arrivals entirely.%%
+
+3.0.0-%%Beta-9-unofficial-1-hotfix-1: Fixed PIDS detecting the wrong platform.%%
+
+3.0.0-%%Beta-9-prerelease-1: Range where PIDS can detect platform rails is increased by one block%%
+
+3.0.0-%%Beta-9-prerelease-2: PIDS will now show more detail for circular routes, for example "Clockwise via Green Horizons" rather than just the last stop of the route.%%
+
+%%3.1.0-unofficial-4: Fixed Forge tile entities rendering not outside the camera view (Which PIDS is affected).%%
+
+%%3.1.0-unofficial-5: Improved PIDS display for trains still in the siding%%
+
+%%3.1.7: PIDS can now be configured to display arrivals from certain platforms.%%
+
+3.2.2: The "Type 4" and "Type 4-1" of PIDS is added. It is referred as "%%Vertical PIDS" in the changelog.%%
 
