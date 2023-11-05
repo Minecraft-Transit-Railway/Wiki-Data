@@ -17,7 +17,7 @@
 ^  Technical  |^
 | **Character** | At-grade\\ Underground |
 | **Maximum speed** | 60km/h |
-| **Number of stations** | 8 |
+| **Number of stations** | 9|
 | **Track gauge** | 1435mm\\ (4 ft 0.5 in)\\ standard gauge |
 | **Electrification** | 750 DC Third Rail |
 | **Depot** | Taipa Depot |
@@ -48,13 +48,13 @@ On 3 November 2023, Hong Sing Mountain Base station was retrofitted to allow con
 
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  |^  Opened  ^
 |  @#517BFF:<color white>**Lilac Light Rail Route 804**</color>  ||||||
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot\\ 輕鐵車廠 | Kallos |  [[lrt_483P|{{483p.png?40}}]] [[lrt_801|{{801.png?40}}]] [[lrt_802|{{802.png?40}}]] [[lrt_810|{{810.png?40}}]] [[lrt_882|{{882.png?40}}]]  || 10 October 2022 |
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot\\ 輕鐵車廠 | Kallos |  [[lrt_483P|{{483p.png?40}}]] [[lrt_801|{{801.png?40}}]] [[lrt_802|{{802.png?40}}]] [[lrt_810|{{810.png?40}}]] [[lrt_882|{{882.png?40}}]]  || 10 October 2022 |
 | ::: | ::: | ::: |  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  | ::: |
 | ::: | Kallos\\ 麗灣 | ::: |  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  | 5 August 2022 |
 | ::: | Royal Park\\ 皇家園 | ::: |  [[lrt_483P|{{483p.png?40}}]] [[lrt_801|{{801.png?40}}]] [[lrt_802|{{802.png?40}}]] [[lrt_810|{{810.png?40}}]] [[lrt_882|{{882.png?40}}]]  || 29 October 2023 |
 | ::: | Mou Lun\\ 霧巒 | ::: |  || 2 November 2023 |
 | ::: | Casper Lake\\ 急蛇湖 | ::: | ::: | ::: | ::: |
-| ::: | Hong Sing Mountain Base\\ 寒星山腳 | New Buckingham | Hong Sing Mountain Village Cable Car || 3 November 2023 |
+| ::: | Hong Sing Mountain Base\\ 寒星山腳 | New Buckingham |  Hong Sing Mountain Village Cable Car  || 3 November 2023 |
 | ::: | Pai Kok\\ 排角 | ::: | || 2 November 2023 |
 | ::: | Humugath\\ 洪穆伽思 | ::: |  [[lrt_633|{{633.png?40}}]]  || 7 May 2023 |
 | ::: | Taipa\\ 氹仔 | ::: |  [[lrt_633|{{633.png?40}}]]  || ::: |
