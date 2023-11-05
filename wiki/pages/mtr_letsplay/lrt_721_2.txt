@@ -28,4 +28,42 @@
 =====History=====
 On 9 April 2023, apart from [[lrt_717_8|routes 717 and 718]], [[lilypad_rail]] proposed another 2 circular routes which has a smaller circle than the former routes, namely the "Tempest South Circular". The smaller circle is included in the Southwest of the big circle, taking up about one quarter of the area of it.
 
-On 9 July 2023, routes 721 and 722 were completed together with the whole Tempest light rail network
+On 9 July 2023, routes 721 and 722 were completed together with the whole Tempest light rail network.
+
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023". According to the plan, route 721/722 will be removed as it cannot bring too much efficiency to the light rail system after the modification of routes. The resources left behind will be used to set up [[lrt_719|routes 719, 719P]] and [[lrt_601|route 601]].
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #FE14E5 , #7DB554)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 721/722</b></p></font></div></body></html>  ||||||
+|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D >**<html><font size="4">9</font></html>**</color>  |Tao Tung\\ 頭痛|Tempest|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736p.png?40&direct}}]]  ||9 July 2023|
+|:::|Dynamic\\ 耷捺蜜|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]]  ||:::|
+|:::|Silver Dollar\\ 銀圓|:::|:::||:::|
+|:::|Morning Star\\ 晨星|:::|:::||:::|
+|:::|Deer Hollow\\ 鹿谷地|:::|:::||:::|
+|:::|Boundary Island\\ 邊境島|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|Sidebay Ferry Pier\\ 邊灣碼頭|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Kallos Ferry  ||:::|
+|:::|Eastern Garden Lake\\ 東園湖|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|Dry Plains Cable Car Stop\\ 乾草園纜車站|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
+|:::|Badlands Forest\\ 惡土森林|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_718_8|{{718.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]   ||:::|
+|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Jura Forest\\ 朱拉森林|:::|:::||:::|
+|:::|Tempest\\ 坦派斯特|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
+|:::|Yamaura\\ 山內|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]]  ||9 July 2023|
+|:::|Satoyana\\ 里山|:::|  [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736p.png?40&direct}}]]  ||:::|
+|:::|Siu Shek Tam\\ 小石潭|:::|:::||:::|
+|:::|Silicon Valley\\ 硅谷|:::|:::||:::|
+|  @#E3DBD1:\\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Toodeepic Ocean\\ 太深洋|:::|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736p.png?40&direct}}]]  ||:::|
+|:::|One-man Island\\ 一人島|:::|:::||:::|
+</WRAP>
+=====Fare Zones=====
+- <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Toodeepic Ocean ⇄ Badlands Forest
+\\ - <color /#585858><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 10: Jura Forest ⇄ Silicon Valley
+\\ Route 721/722 can meet up with other routes: 717, 718, 735, 736, 736P, 761
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_717_8]]
+\\ - [[lrt_735]]
+\\ - [[lrt_736]]
+\\ - [[lrt_761]]
