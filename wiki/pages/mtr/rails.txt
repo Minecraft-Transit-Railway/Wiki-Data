@@ -5,11 +5,9 @@
 |  @#00C42A: **Nodes**  ||
 | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:airplane_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:boat_node.webp?100 }}  |
 |  Render of Railway((
-1. Connecting to nothing
-
-2. Connecting to a rail
+ 1. Connecting to nothing 2. Connecting to a rail
 )) and Boat((
-
+ 1. Connecting to nothing 2. Connecting to a rail
 )) nodes.  ||
 | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:cable_car_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:railnode.webp?100 }}  |
 |  Render of Cable Car((
@@ -19,7 +17,7 @@
 
 3. Station
 )) and Airplane((
-
+ 1. Connecting to nothing 2. Connecting to a rail
 )) nodes.  ||
 | **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
@@ -78,18 +76,6 @@ Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pi
 Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail connectors and the rail remover can only be obtained by crafting.
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -139,16 +125,6 @@ The rail, boat, cable car and airplane node is a block that is used to mark wher
 Each of the rail connector items serve a different purpose.
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
 | Rail Connector Type | Function |
 | --- | --- |
 | Wooden | Sets a passing train's speed to 20 km/h. |
@@ -198,6 +174,18 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
