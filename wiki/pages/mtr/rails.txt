@@ -106,9 +106,24 @@ Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail c
 
 ===== Usage =====
 
-The rail and boat node is a block that is used to mark where a section of rail starts and ends. The rail connector item is used to create the actual rail between two nodes.
+The rail, boat, cable car and airplane node is a block that is used to mark where a section of rail starts and ends. The rail connector item is used to create the actual rail between two nodes.
 
-1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids.  1. Place down another node in the world, at least several blocks away from the first one.  1. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory.  1. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the [Valid Rail Configurations](#valid-rail-configurations) section for more information. Different node types cannot be connected to each other.
+1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids.
+
+{{:mtr:2023-11-05_20.31.52.png?400}}
+
+2. Place down another node in the world, at least several blocks away from the first one.
+
+{{:mtr:2023-11-05_20.32.57.png?400}}
+
+3. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory.
+
+{{:mtr:2023-11-05_20.33.16.png?400}}
+
+4. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the Valid Rail Configurations (below) section for more information. Different node types cannot be connected to each other.
+
+{{:mtr:2023-11-05_20.33.43.png?400}}
+
 
 ==== Types of Rail Connectors ====
 
