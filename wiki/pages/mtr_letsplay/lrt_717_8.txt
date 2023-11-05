@@ -73,8 +73,8 @@ On 9 July 2023, the loop is completed and routes 717 and 718 has been fully oper
 |  @#C3C3C3:<color #585858>**<html><font size="4">10</font></html>**</color>  |Jura Forest\\ 朱拉森林|:::|:::||:::|
 </WRAP>
 =====Fare Zones=====
-- <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Jura Forest ⇄ Cascade
-\\ - <color /#585858><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 10: Evening Spring ⇄ Badlands Forest
+- <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Evening Spring ⇄ Badlands Forest
+\\ - <color /#585858><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 10: Jura Forest ⇄ Cascade
 \\ Route 717/718 can meet up with other routes: 721, 722, 735, 736, 736P, 761
 =====Independent Sections=====
 - Track section between Yamaura and Tai Wai
