@@ -1,0 +1,59 @@
+=====Lilac Light Rail Route 735=====
+**Lilac Light Rail Route 735** (Chinese: **麗蓮輕鐵735綫**) is a [[lilac_light_rail]] route connecting Tao Tung stop and Sunrise stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 735</font></html>\\ <html><font size = "4">麗蓮輕鐵735綫</font></html>  ^^
+|@#F71719:||
+|  {{735_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest\\ Sunrise|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Tao Tung|
+|**Terminus**|Sunrise|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|80km/h|
+|**Number of stations**|10|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750V DC third rail|
+|**Depot**|Daimon North Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|9 July 2023, 4 months ago|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History=====
+On 9 May 2023, Route 735 was added to the Tempest light rail system project together with [[lrt_736|route 736]]. This route was suggested by [[qingli_railways|Qingli Railways]] to connect Sunrise station to Tao Tung stop through the horizontal diameter in the circle of [[lrt_717_8|route 717/718]]. Apart from the route itself, 4 new stations were planned between Tai Wai stop and Toodeepic Ocean stop.
+
+On 9 July 2023, route 735 is completed and fully operational together with the whole Tempest light rail network. 
+
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023". According to the plan, Route 735 will be extended to Daimon North stop in order to replace the connection of [[lrt_721_2|route 721/722]] between Toodeepic Ocean, Dynamic, and places in the south of that. The line color of route 735 will also be changed to a darker color as the current color is too similar to that of [[lrt_410|route 410]].
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#F71719:**<color white>Lilac Light Rail Route 735</color>**  ||||||
+|  @#C0D7F7:<color #043989>**<html><font size="4">8</font></html>**</color>  |<del>Daimon North\\ 大門北</del>|Tempest|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_720|{{720.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
+|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D >**<html><font size="4">9</font></html>**</color>  |<del>Hung Sum (West)\\ 洪森（西）</del>|:::|  [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|<del>Hung Sum (East)\\ 洪森（東）</del>|:::|:::||:::|
+|:::|<del>Deer Hollow\\ 鹿谷地</del>|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_722_2|{{722.png?40&direct}}]]  ||9 July 2023|
+|:::|<del>Morning Star\\ 晨星</del>|:::|:::||:::|
+|:::|<del>Silver Dollar\\ 銀圓</del>|:::|:::||:::|
+|:::|<del>Dynamic\\ 耷捺蜜</del>|:::|:::||:::|
+|:::|Tao Tung\\ 頭痛|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736p.png?40&direct}}]]  ||:::|
+|:::|One-man Island\\ 一人島|:::|:::||:::|
+|:::|Toodeepic Ocean\\ 太深洋|:::|:::||:::|
+|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Dawa\\ 達瓦|Sunrise| ||:::|
+|:::|Shui Sheung\\ 水上|:::|:::||:::|
+|:::|Copper Grove\\ 銅林|:::|:::||:::|
+|:::|Shan King\\ 山景|:::|:::||:::|
+|:::|Tai Wai\\ 堤圍|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]]  ||:::|
+|:::|Kennedy\\ 堅尼地|:::|:::||:::|
+|:::|Sunrise\\ 晨輝|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  |:::|
+|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
+^  Remarks  ^^^^^^
+|- <del>Crossed-out station name</del> means that the station is a part of the extension and is not yet in service||||||
+</WRAP>
