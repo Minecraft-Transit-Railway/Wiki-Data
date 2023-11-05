@@ -162,9 +162,17 @@ The NTE addon also allows for rail curves, inclines, and appearances to be edite
 
 The rail remover works just like the rail connectors, except that it is used to remove existing connections.
 
-  - Find two rail nodes that have been previously connected. {{:mtr:2023-11-05_20.33.43.png?400}}
-  - Right click on one of the rail nodes with the rail remover. The rail remover item should start flashing in the inventory. {{:mtr:2023-11-05_20.36.35.png?400}}
-  - Right click on the other rail node with the same rail remover item. An existing rail connecting the two nodes will be removed.{{:mtr:2023-11-05_20.33.16.png?400}}
+1. Find two rail nodes that have been previously connected.
+
+{{:mtr:2023-11-05_20.33.43.png?400}}
+
+2. Right click on one of the rail nodes with the rail remover. The rail remover item should start flashing in the inventory.
+
+{{:mtr:2023-11-05_20.36.35.png?400}}
+
+3. Right click on the other rail node with the same rail remover item. An existing rail connecting the two nodes will be removed.
+
+{{:mtr:2023-11-05_20.33.16.png?400}}
 
 Note that existing coloured signal blocks will be removed.
 
