@@ -35,7 +35,7 @@ On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Ligh
 <WRAP left>
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
 |  @#F71719:**<color white>Lilac Light Rail Route 735</color>**  ||||||
-|  @#C0D7F7:<color #043989>**<html><font size="4">8</font></html>**</color>  |<del>Daimon North\\ 大門北</del>|Tempest|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_720|{{720.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|  @#C0D7F7:\\ <color #043989>**<html><font size="4">8</font></html>**</color>  |<del>Daimon North\\ 大門北</del>|Tempest|  [[lrt_719|{{715.png?40&direct}}]] [[lrt_720|{{720.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
 |:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
 |  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D >**<html><font size="4">9</font></html>**</color>  |<del>Hung Sum (West)\\ 洪森（西）</del>|:::|  [[lrt_761|{{761.png?40&direct}}]]  ||:::|
 |:::|<del>Hung Sum (East)\\ 洪森（東）</del>|:::|:::||:::|
@@ -46,14 +46,25 @@ On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Ligh
 |:::|Tao Tung\\ 頭痛|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736p.png?40&direct}}]]  ||:::|
 |:::|One-man Island\\ 一人島|:::|:::||:::|
 |:::|Toodeepic Ocean\\ 太深洋|:::|:::||:::|
-|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Dawa\\ 達瓦|Sunrise| ||:::|
+|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Dawa\\ 達瓦|Sunrise| ||:::|
 |:::|Shui Sheung\\ 水上|:::|:::||:::|
 |:::|Copper Grove\\ 銅林|:::|:::||:::|
 |:::|Shan King\\ 山景|:::|:::||:::|
 |:::|Tai Wai\\ 堤圍|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]]  ||:::|
 |:::|Kennedy\\ 堅尼地|:::|:::||:::|
-|:::|Sunrise\\ 晨輝|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  |:::|
+|:::|Sunrise\\ 晨輝|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
 ^  Remarks  ^^^^^^
 |- <del>Crossed-out station name</del> means that the station is a part of the extension and is not yet in service||||||
 </WRAP>
+=====Fare Zones=====
+- <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Tao Tung ⇄ Toodeepic Ocean
+\\ - <color /#585858><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 10: Dawa ⇄ Sunrise
+\\ Route 735 can meet up with other routes: 717, 718, 721, 722, 736, 736P
+=====Independent Sections=====
+- Track section between Toodeepic Ocean and Tai Wai
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_717_8]]
+\\ - [[lrt_721_2]]
+\\ - [[lrt_736]]
