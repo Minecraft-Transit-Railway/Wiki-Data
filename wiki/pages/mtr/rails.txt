@@ -80,6 +80,10 @@ Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail c
 
 
 
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -124,12 +128,15 @@ The rail, boat, cable car and airplane node is a block that is used to mark wher
 
 {{:mtr:2023-11-05_20.33.43.png?400}}
 
-
 ==== Types of Rail Connectors ====
 
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
+
+
 
 
 | Rail Connector Type | Function |
@@ -176,12 +183,15 @@ The rail remover works just like the rail connectors, except that it is used to 
 
 Note that existing coloured signal blocks will be removed.
 
-
 ===== Valid Rail Configurations =====
 
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
+
+
 
 
 
@@ -196,4 +206,12 @@ The following table shows the possible configurations for two rail nodes to be c
 | S Shape Turn | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-05_20.44.11.png" width=200> | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-05_20.44.20.png" width=200> |
 
 </markdown>
+
+==== Changelog ====
+
+%%3.0.0-Beta-5: %%
+
+%%3.0.0-Beta-5: Added 90 degree, smooth slope, and S-shape rails.%%
+
+%%3.0.0-Beta-5: The old %%Platform Rail%% is removed, and the use of vanilla rails is discontinued.%%
 
