@@ -7,7 +7,7 @@
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 715</font></html>\\ <html><font size = "4">麗蓮輕鐵715綫</font></html>  ^^
 |@#025057:||
-|  {{715_scrn.png?300&direct}}  ||
+|  {{715_scrn.pn?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Tempest\\ Eastwich|
 |**Transit type**|Light Rail Transit|
