@@ -104,7 +104,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 719 is tentatively decid
 
 ^  Fare Zone  ^  Name  ^  District  ^  Connections  |^  Opened  ^
 |  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #025057, #FE14E5, #DD571C)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 715, 719, 719P</b></p></font></div></body></html>  ||||||
-|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  | <del>Tao Tung</del>\\ <del>頭痛</del> | Tempest |  [[lrt_721_2|{{721.png?40}}]] [[lrt_721_2|{{722.png?40}}]] [[lrt_735|{{735.png?40}}]] [[lrt_736|{{736.png?40}}]]  || 9 July 2023 |
+|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  | <del>Tao Tung</del>\\ <del>頭痛</del> | Tempest |  [[lrt_721_2|{{721.png?40}}]] [[lrt_721_2|{{722.png?40}}]] [[lrt_735|{{735.png?40}}]] [[lrt_736|{{736.png?40}}]] [[lrt_736|{{736p.png?40&direct}}]]  || 9 July 2023 |
 | ::: | <del>Dynamic</del>\\ <del>耷捺蜜</del> | ::: |  [[lrt_717_8|{{717.png?40}}]] [[lrt_717_8|{{718.png?40}}]] [[lrt_721_2|{{721.png?40}}]] [[lrt_721_2|{{722.png?40}}]]  || ::: |
 | ::: | <del>Silver Dollar</del>\\ <del>銀圓</del> | ::: | ::: | ::: | ::: |
 | ::: | <del>Morning Star</del>\\ <del>晨星</del> | ::: | ::: | ::: | ::: |
@@ -130,6 +130,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 719 is tentatively decid
 ===== Fare Zones =====
 
 - <color /#236F74><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 7: East San Shek Wan ⇄ Loyalty Hills \\ - <color /#043989><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 8: Daimon North ⇄ Sun Fat \\ - <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Tao Tung ⇄ Hung Sum (West) (Only suitable for route 719, 719P)
+\\ Route 715, 719, 719P can meet up with other routes: 717, 718, 720, 721, 722, 735, 736, 736P, 761
 
 ===== Independent Sections =====
 
