@@ -10,7 +10,7 @@
 
 ^  <html><font size = "4">Lilac Light Rail Route 715</font></html>\\ <html><font size = "4">麗蓮輕鐵715綫</font></html>  |^
 | @#025057: ||
-|  {{mtr_letsplay:715_scrn.png?400}}  ||
+|  {{mtr_letsplay:715_scrn.png?300}}  ||
 ^  Overview  |^
 | **Operate location** | Tempest\\ Eastwich |
 | **Transit type** | Light Rail Transit |
@@ -120,7 +120,7 @@ According to "Lilac Light Rail Reform Plan 2023", route 719 is tentatively decid
 | ::: | <del>Eastwich-on-sea</del>\\ <del>伊斯威奇海邊</del> | ::: |  [[lrt_720|{{720.png?40}}]]  || N/A |
 | ::: | Tsing Fung\\ 清風 | ::: | ::: | ::: | 4 March 2023 |
 | ::: | San Fat\\ 新發 | ::: | ::: | ::: | ::: |
-|  @#BBD3D7:\\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  | East San Shek Wan\\ 東散石灣 | ::: |  || 23 October 2023 |
+|  @#BBD3D7:\\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  | East San Shek Wan\\ 東散石灣 | ::: |   || 23 October 2023 |
 | ::: | Loyalty Hills\\ 忠丘陵 | ::: |  Loyalty Hills  |  <color white/#22A045>**<html>&nbspMarble Line&nbsp</html>**</color>  | ::: |
 ^  Remarks  |||||^
 | - <del>Crossed-out station name</del> means that the station will be served by route 719 or 719P in the future but not 715 ||||||
