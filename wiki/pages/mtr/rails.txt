@@ -3,13 +3,13 @@
 <WRAP right>
 
 |  @#00C42A: **Nodes**  ||
-| {{ :mtr:airplane_node.webp?100 }}  |   |
+|   |   |
 |  Render of Railway((
 
 )) and Boat((
 
 )) nodes.  ||
-| {{ :mtr:cable_car_nodes.webp?100 }}  |   |
+|   |   |
 |  Render of Cable Car((
 1. Upper
 
@@ -78,6 +78,8 @@ Rail connectors and the rail remover can only be obtained by crafting.
 <markdown>
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_4.png" width=200> |
@@ -106,6 +108,8 @@ The rail and boat node is a block that is used to mark where a section of rail s
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
 
 
 
@@ -159,6 +163,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 | Description | Before Connecting | After Connecting |
