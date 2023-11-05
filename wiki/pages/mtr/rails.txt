@@ -1,44 +1,86 @@
 ====== Rails ======
 
-[[/trains|Trains]] require rails to run on. As of version 3.0.0-beta-5, trains no longer use the default Minecraft tracks. Instead, custom rails with custom shapes can be created.
+===== Cargo Loaders =====
 
-There are two parts for rail creation: the rail node and the rail connector item. A third component, the rail remover item, can be used to remove rails if a mistake was made. <markdown>
+<WRAP right>
 
-## Breaking
+|  @#00C42A: **Nodes**  ||
+|  |  |
+| Icons of Railway and Boat Dashboard. ||
+|  |  |
+| Icons of Cable Car and Flight Dashboard. ||
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
 
-Rail and boat nodes require a [pickaxe]([[https://minecraft.gamepedia.com/Pickaxe]]) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness]([[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness]]) of 2.
+|  @#00C42A: **Rails**  ||
+| {{ :mtr:railway_dashboard.png?100 }} | {{ :mtr:boat_dashboard.png?100 }} |
+|  Icons of Railway and Boat Dashboard.  ||
+|  {{ :mtr:cable_car_dashboard.png?100 }}  |  {{ :mtr:airplane_dashboard.png?100 }}  |
+|  Icons of Cable Car and Flight Dashboard.  ||
+| **[[https://minecraft.wiki/w/Rarity|Rarity colour]]** | Common |
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | No |
+| **Created by** | %%Jonathan%% |
+| ::: | [[mtr_community:bdark000|BDark000]] |
 
-Rail connectors and the rail remover can only be obtained by crafting
+</WRAP>
 
-## Crafting
+[[trains|Trains]], boat, cable car and airplane (on the ground) require **rails **to run on. As of version 3.0.0-beta-5, trains no longer use the default Minecraft tracks. Instead, custom rails with custom shapes can be created.
 
-| Name | Ingredients | [Crafting]([[https://minecraft.gamepedia.com/Crafting]]) Recipe |
+There are two parts for rail creation: the rail node and the rail connector item. A third component, the rail remover item, can be used to remove rails if a mistake was made.
+
+===== Breaking =====
+
+Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2.
+
+Rail connectors and the rail remover can only be obtained by crafting.
+
+===== Crafting =====
+
+<markdown>
+
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Rail Node | [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]]) + [Iron Block]([[https://minecraft.gamepedia.com/Block_of_Iron]]) + [Log]([[https://minecraft.gamepedia.com/Log]])<br><br>_Shaped Recipe_ | ![Rail Node Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_node.png]]) |
-| Boat Node | [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]]) + [Iron Block]([[https://minecraft.gamepedia.com/Block_of_Iron]]) + [Log]([[https://minecraft.gamepedia.com/Log]])<br><br>_Shaped Recipe_ | ![Boat Node Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/boat_node.png]]) |
-| Rail Connector (Wooden) | [Log]([[https://minecraft.gamepedia.com/Log]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Wooden) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_1_wooden.png]]) |
-| Rail Connector (Stone) | [Stone]([[https://minecraft.gamepedia.com/Stone]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Stone) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_2_stone.png]]) |
-| Rail Connector (Emerald) | [Emerald Block]([[https://minecraft.gamepedia.com/Block_of_Emerald]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Emerald) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_7_emerald.png]]) |
-| Rail Connector (Iron) | [Iron Block]([[https://minecraft.gamepedia.com/Block_of_Iron]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Iron) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_3_iron.png]]) |
-| Rail Connector (Obsidian) | [Obsidian]([[https://minecraft.gamepedia.com/Obsidian]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Obsidian) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_4_obsidian.png]]) |
-| Rail Connector (Blaze) | [Blaze Rod]([[https://minecraft.gamepedia.com/Blaze_Rod]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Blaze) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_5_blaze.png]]) |
-| Rail Connector (Quartz) | [Quartz Block]([[https://minecraft.gamepedia.com/Block_of_Quartz]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Quartz) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_8_quartz.png]]) |
-| Rail Connector (Diamond) | [Diamond Block]([[https://minecraft.gamepedia.com/Block_of_Diamond]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Diamond) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_6_diamond.png]]) |
-| Rail Connector (Platform) | [Redstone Block]([[https://minecraft.gamepedia.com/Block_of_Redstone]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Connector (Platform) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_platform.png]]) |
-| Rail Remover | [Lava Bucket]([[https://minecraft.gamepedia.com/Lava_Bucket]]) + [Rail]([[https://minecraft.gamepedia.com/Rail]]) + [Iron Ingot]([[https://minecraft.gamepedia.com/Iron_Ingot]])<br><br>_Shaped Recipe_ | ![Rail Remover Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_remover.png]]) |
+| Rail Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | ![Rail Node Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_node.png) |
+| Boat Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | ![Boat Node Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/boat_node.png) |
+| Rail Connector (Wooden) | [Log](https://minecraft.wiki/w/Log) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Wooden) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_1_wooden.png) |
+| Rail Connector (Stone) | [Stone](https://minecraft.wiki/w/Stone) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Stone) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_2_stone.png) |
+| Rail Connector (Emerald) | [Emerald Block](https://minecraft.wiki/w/Block_of_Emerald) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Emerald) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_7_emerald.png) |
+| Rail Connector (Iron) | [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Iron) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_3_iron.png) |
+| Rail Connector (Obsidian) | [Obsidian](https://minecraft.wiki/w/Obsidian) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Obsidian) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_4_obsidian.png) |
+| Rail Connector (Blaze) | [Blaze Rod](https://minecraft.wiki/w/Blaze_Rod) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Blaze) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_5_blaze.png) |
+| Rail Connector (Quartz) | [Quartz Block](https://minecraft.wiki/w/Block_of_Quartz) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Quartz) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_8_quartz.png) |
+| Rail Connector (Diamond) | [Diamond Block](https://minecraft.wiki/w/Block_of_Diamond) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Diamond) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_6_diamond.png) |
+| Rail Connector (Platform) | [Redstone Block](https://minecraft.wiki/w/Block_of_Redstone) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Connector (Platform) Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_connector_platform.png) |
+| Rail Remover | [Lava Bucket](https://minecraft.wiki/w/Lava_Bucket) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Rail Remover Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_remover.png) |
 
-# Usage
+</markdown>
+
+===== Usage =====
 
 The rail and boat node is a block that is used to mark where a section of rail starts and ends. The rail connector item is used to create the actual rail between two nodes.
 
-1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids. 
-1. Place down another node in the world, at least several blocks away from the first one. 
-1. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory. 
-1. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the [Valid Rail Configurations](#valid-rail-configurations) section for more information. Different node types cannot be connected to each other.
+1. Place down a rail node in the world. Boat nodes can only be placed on top of fluids.  1. Place down another node in the world, at least several blocks away from the first one.  1. Right click on one of the nodes with any of the rail connector items. The rail connector item should start flashing in the inventory.  1. Right click on the other node with the same rail connector item. If the nodes are oriented logically, they will be joined. See the [Valid Rail Configurations](#valid-rail-configurations) section for more information. Different node types cannot be connected to each other.
 
-## Types of Rail Connectors
+==== Types of Rail Connectors ====
 
 Each of the rail connector items serve a different purpose.
+
+<markdown>
+
+
+
+
+
 
 | Rail Connector Type | Function |
 | --- | --- |
@@ -53,6 +95,7 @@ Each of the rail connector items serve a different purpose.
 | Platform | <li>Creates a platform (visible on [dashboards]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards]]) <li>Slows a passing train to a stop if the train is set to stop at the platform <li>Keeps a passing train at the same speed if the train is decelerating but not set to stop at the platform |
 
 </markdown>
+
 Each node can have multiple rail types (except for the platform and siding rail type) connected to it. Only one platform or siding rail may be connected to each node.
 
 If a rail connector is used over an existing section of rail, its type will be replaced with the type of the new rail connector. For example, using an iron rail connector over two rail nodes already connected with a stone rail connector will overwrite it, creating an iron rail of exactly the same shape.
@@ -70,10 +113,17 @@ The rail remover works just like the rail connectors, except that it is used to 
   - Right click on the other rail node with the same rail remover item. An existing rail connecting the two nodes will be removed.
 
 Note that existing coloured signal blocks will be removed.
-<markdown>
-## Valid Rail Configurations
+
+===== Valid Rail Configurations =====
 
 The following table shows the possible configurations for two rail nodes to be connected.
+
+<markdown>
+
+
+
+
+
 
 | Description | Before Connecting | After Connecting |
 | --- | --- | --- |
@@ -82,3 +132,4 @@ The following table shows the possible configurations for two rail nodes to be c
 | S-Shape Curve | ![S-Shape Curve Before Connecting]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/rails/s-1.png]]) | ![S-Shape Curve After Connecting]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/rails/s-2.png]]) |
 
 </markdown>
+
