@@ -69,13 +69,17 @@ There are two parts for rail creation: the rail node and the rail connector item
 
 ===== Breaking =====
 
-Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2.
-
-Rail connectors and the rail remover can only be obtained by crafting.
+Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. Airplane nodes can only be obtained by breaking.
 
 ===== Crafting =====
 
+Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail connectors and the rail remover can only be obtained by crafting.
+
 <markdown>
+
+
+
+
 
 
 
@@ -138,6 +142,10 @@ Each of the rail connector items serve a different purpose.
 
 
 
+
+
+
+
 | Rail Connector Type | Function |
 | --- | --- |
 | Wooden | Sets a passing train's speed to 20 km/h |
@@ -175,6 +183,10 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
+
+
 
 
 
