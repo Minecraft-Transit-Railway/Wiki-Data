@@ -5,7 +5,9 @@
 |  @#00C42A: **Nodes**  ||
 | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:airplane_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:boat_node.webp?100 }}  |
 |  Render of Railway((
+1. Connecting to nothing
 
+2. Connecting to a rail
 )) and Boat((
 
 )) nodes.  ||
@@ -86,6 +88,8 @@ Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail c
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -143,6 +147,8 @@ Each of the rail connector items serve a different purpose.
 
 
 
+
+
 | Rail Connector Type | Function |
 | --- | --- |
 | Wooden | Sets a passing train's speed to 20 km/h. |
@@ -192,6 +198,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 
