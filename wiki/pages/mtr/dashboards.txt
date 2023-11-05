@@ -39,6 +39,8 @@ Except Flight Dashboard, all dashboards are able to be made via [[https://minecr
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
@@ -73,6 +75,8 @@ The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 
 
+
+
 | Tab | Functionality |
 | --- | --- |
 | Stations | <li>Create a station with the `Add Station` button<li>Edit a station's name, colour, or area<li>Delete a station<li>List platforms in a station and edit the dwell time and platform number for each listed platform |
@@ -89,7 +93,7 @@ If left blank, the station or route will default to "Untitled".
 
 ==== Station / Route / Depot Colour Field ====
 
-When ''Add Station'' or ''Add Route'', or ''Add Depot'' is clicked or when a station, route, or siding is being edited, the "colour" field text box will appear at the bottom, next to the "name" field. This text box accepts a RGB six-character hex code, composed of numbers or the letters A-F. Use a [colour picker]([[https://www.w3schools.com/colors/colors_picker.asp]]) to easily generate a hex code.
+When ''Add Station'' or ''Add Route'', or ''Add Depot'' is clicked or when a station, route, or siding is being edited, the "colour" field text box will appear at the bottom, next to the "name" field. This text box accepts a RGB six-character hex code, composed of numbers or the letters A-F. Use a [[https://www.w3schools.com/colors/colors_picker.asp|colour picker]] to easily generate a hex code.
 
 If left blank, a random colour will be chosen.
 
@@ -97,7 +101,7 @@ If left blank, a random colour will be chosen.
 
 Most of the time, a train line will have trains running in more than one direction. For example, a single line through a city will probably have trains running both outbound and inbound. In the game, an inbound and outbound route will have to be defined, creating two routes for a single line! Therefore, it is important to be able to group routes together.
 
-When two or more routes share the same exact colour (same RGB hex code), they will be grouped together. On [railway signs]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign]]) and [route signs]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Route-Sign]]), the routes will be grouped into only one line name.
+When two or more routes share the same exact colour (same RGB hex code), they will be grouped together. On [[mtr:railway_sign]] and [[mtr:route_sign]], the routes will be grouped into only one line name.
 
 Two pipe characters, ''||'', are used to add notes to the end of each route. The notes will not be shown in any signs; they will only appear in the dashboard.
 
@@ -122,6 +126,8 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 
 
 
+
+
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
@@ -132,6 +138,8 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 When the ''Depots'' tab is selected and while not editing a depot, a siding on the map can be clicked on to bring up a siding configuration screen. The following properties for a siding can then be edited:
 
 <markdown>
+
+
 
 
 
@@ -213,6 +221,8 @@ Stations can be created and shared across all dashboards, but platforms, routes,
 ===== Gallery =====
 
 <markdown>
+
+
 
 
 
