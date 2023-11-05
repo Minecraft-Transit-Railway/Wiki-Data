@@ -76,24 +76,14 @@ Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pi
 Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail connectors and the rail remover can only be obtained by crafting.
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
-| Rail Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_screen_doors_crafting_recipe_4.png" width=200> |
-| Boat Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ |  |
+| Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
+| Boat Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:boat_node_recipe.png" width=200> |
+| Cable Car Node (Lower) × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:cc_recipe_1.png" width=200> |
+| Cable Car Node (Upper) | Cable Car Node (Lower)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:cc_recipe_2.png" width=200> |
+| Cable Car Node (Station) | Cable Car Node (Upper)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:cc_recipe_3.png" width=200> |
+| Cable Car Node (Lower) | Cable Car Node (Station)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:cc_recipe_4.png" width=200> |
 | Rail Connector (Wooden) | [Log](https://minecraft.wiki/w/Log) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ |  |
 | Rail Connector (Stone) | [Stone](https://minecraft.wiki/w/Stone) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ |  |
 | Rail Connector (Emerald) | [Emerald Block](https://minecraft.wiki/w/Block_of_Emerald) + [Rail](https://minecraft.wiki/w/Rail) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ |  |
@@ -118,6 +108,8 @@ The rail and boat node is a block that is used to mark where a section of rail s
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
 
 
 
@@ -183,6 +175,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 
