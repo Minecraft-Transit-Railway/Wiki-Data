@@ -59,7 +59,9 @@
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | No |
 | **Created by** | %%Jonathan%% |
-| ::: | [[mtr_community:bdark000|BDark000]] |
+| ::: | [[mtr_community:bdark000|BDark000]]((
+Emerald and Quartz Rail Connector only.
+)) |
 
 </WRAP>
 
@@ -76,6 +78,8 @@ Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pi
 Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail connectors and the rail remover can only be obtained by crafting.
 
 <markdown>
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -125,6 +129,8 @@ The rail, boat, cable car and airplane node is a block that is used to mark wher
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
 | Rail Connector Type | Function |
 | --- | --- |
 | Wooden | Sets a passing train's speed to 20 km/h. |
@@ -174,6 +180,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 
