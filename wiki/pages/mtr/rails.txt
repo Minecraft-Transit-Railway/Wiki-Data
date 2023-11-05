@@ -1,14 +1,14 @@
 ====== Rails ======
 
-===== Cargo Loaders =====
-
 <WRAP right>
 
 |  @#00C42A: **Nodes**  ||
-|  |  |
-| Icons of Railway and Boat Dashboard. ||
-|  |  |
-| Icons of Cable Car and Flight Dashboard. ||
+|   |   |
+|  Render of Railway and Boat nodes.  ||
+|   |   |
+|  Render of Cable Car((
+
+)) and Airplane nodes.  ||
 | **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
 | **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
@@ -45,9 +45,6 @@ Rail connectors and the rail remover can only be obtained by crafting.
 
 
 
-
-
-
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | ![Rail Node Crafting Recipe]([[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/rail_node.png) |
@@ -76,6 +73,8 @@ The rail and boat node is a block that is used to mark where a section of rail s
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
 
 
 
@@ -119,6 +118,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 
