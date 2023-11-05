@@ -84,6 +84,8 @@ Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail c
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -133,6 +135,8 @@ The rail, boat, cable car and airplane node is a block that is used to mark wher
 Each of the rail connector items serve a different purpose.
 
 <markdown>
+
+
 
 
 
@@ -196,6 +200,8 @@ The following table shows the possible configurations for two rail nodes to be c
 
 
 
+
+
 | Description | Before Connecting | After Connecting |
 | --- | --- | --- |
 | Straight Line | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-05_20.43.04.png" width=200> | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-05_20.43.17.png" width=200> |
@@ -209,9 +215,41 @@ The following table shows the possible configurations for two rail nodes to be c
 
 ==== Changelog ====
 
-%%3.0.0-Beta-5: %%
+%%3.0.0-Beta-5-unofficial-1: Added Wooden, Stone, Iron, Obsidian, Blaze and Diamond Rail Connectors, and rail node.%%
 
-%%3.0.0-Beta-5: Added 90 degree, smooth slope, and S-shape rails.%%
+%%3.0.0-Beta-5-unofficial-1: Added 90 degree, smooth slope, and S-shape rails.%%
 
-%%3.0.0-Beta-5: The old %%Platform Rail%% is removed, and the use of vanilla rails is discontinued.%%
+%%3.0.0-Beta-5-unofficial-1: The old %%Platform Rail%% is removed, and the use of vanilla rails is discontinued.%%
+
+3.0.0-%%Beta-5-unofficial-8: Added recipes for the rail connectors and rail node.%%
+
+3.0.0-%%Beta-7-unofficial-1: Rails are now stored as part of the world save data, not in the block entity data of the nodes.%%
+
+3.0.0-%%Beta-7-unofficial-2: Fixed rails disappearing off screen in the last version.%%
+
+3.0.0-%%Beta-7-depot-snapshot: Adding Siding Rail Connector in response of the depot update.%%
+
+3.0.0-%%Beta-7-depot-snapshot-2: Adding Turnback Rail Connector.%%
+
+3.0.0-%%Beta-7-depot-snapshot-3: Siding rail can now spawn unlimited trains.%%
+
+3.0.0-%%Beta-7-depot-snapshot-4-hotfix: Fixed platform and siding rail placement glitches.%%
+
+3.0.0-%%Beta-7-depot-snapshot-6: One-way rails have been added.%%
+
+3.0.0-Beta-8-unofficial-9: %%Siding rail can now spawn%% a finite number of trains.
+
+3.0.0-%%Beta-8-unofficial-13: Rail nodes can now be oriented in 22.5 (and 45) degree increments.%%
+
+%%3.0.0-Beta-9-unofficial-2: Added Emerald and Quartz Rail Connectors by BDark000.%%
+
+%%3.0.0-Beta-9-unofficial-2: Added Boat Node in response of the boat update.%%
+
+%%3.0.1-unofficial-1: Added Cable Car Nodes and Cable Car connector in response of the cable car update.%%
+
+%%3.0.1-unofficial-3: Optimised rail rendering.%%
+
+%%3.1.0-unofficial-3: Fixed rails rendering with transparency.%%
+
+%%3.1.10: Added Runway Rail Connector in response of the airplane update.%%
 
