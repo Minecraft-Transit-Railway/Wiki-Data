@@ -1,0 +1,5 @@
+====== All Icons and Tiles in the core mod of Railway Signs ======
+
+^ Icon ^ Text ^ Preview ^ Old icons (if any) ^ Added version ^
+|   |   |   |   |   |
+
