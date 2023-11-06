@@ -1,7 +1,7 @@
 ====== All Icons and Tiles in the core mod of Railway Signs ======
 
 ^  Icon  ^  Text  ^  Added version  ^
-| {{:mtr:left.png?50}}  | N/A  |  3.0.0-beta-4  |
+| {{:mtr:left.png?50}}  | N/A  | 3.0.0-beta-4  |
 | {{:mtr:right.png?50}}  | N/A  | ::: |
 | {{:mtr:up.png?50}}  | N/A  | ::: |
 | {{:mtr:down.png?50}}  | N/A  | ::: |
@@ -104,9 +104,9 @@ Rendered with an orange background.
 )) | ::: |
 | {{:mtr:ttc.png?142}} | ''往機場列車|Trains to Airport'' | ::: |
 | {{:mtr:ttcf.png?142}} | ''往機場列車|Trains to Airport'' | ::: |
-| {{:mtr:exit1.png?142}}  | ''出口|Exit'' |  3.0.0-beta-7-depot-snapshot-5 |
+| {{:mtr:exit1.png?142}}  | ''出口|Exit'' | 3.0.0-beta-7-depot-snapshot-5  |
 | {{:mtr:exit1f.png?142}}  | ''出口|Exit'' | ::: |
-| {{:mtr:tcoup.png?142}}  | ''直上大堂|To Concourse Only'' | 3.0.0-bets-8-unofficial-11  |
+| {{:mtr:tcoup.png?142}}  | ''直上大堂|To Concourse Only'' | 3.0.0-beta-8-unofficial-11  |
 | {{:mtr:tcoupf.png?142}}  | ''直上大堂|To Concourse Only'' | ::: |
 | {{:mtr:tcodown.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
 | {{:mtr:tcodownf.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
