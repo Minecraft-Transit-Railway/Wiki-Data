@@ -103,14 +103,17 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 ===== Availability =====
 
-The page below shows all signs that are added to the mod and from which version they were added. (WIP)
+The link below will bring you to a page that shows all the signs that were added to the mod and from which version they were added.
 
 [[mtr:all_icons_and_tiles_in_the_core_mod_of_railway_signs]]
+
 <WRAP center round important 90%>
 
 **This page contains lots of images, and user is recommended to open the page in a place with good Wi-Fi connection.**
 
 </WRAP>
+
+
 ===== Changelog =====
 
 3.0.0-Beta-4: Added signs.
