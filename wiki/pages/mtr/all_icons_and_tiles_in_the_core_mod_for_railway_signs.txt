@@ -1,4 +1,4 @@
-====== All Icons and Tiles in the core mod of Railway Signs ======
+====== All Icons and Tiles in the core mod for Railway Signs ======
 
 ^  Icon  ^  Text  ^  Added version  ^
 | {{:mtr:left.png?50}}  | N/A  | 3.0.0-beta-4  |
