@@ -1,5 +1,24 @@
 ====== Railway Sign ======
 
+<WRAP right>
+
+|  @#00C42A: **Nodes**  ||
+|    ||
+|    ||
+|    ||
+|    ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From bare hands |
+| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+
+</WRAP>
+
 Railway signs are decorative items that inform passengers where things are in the railway. They can help people get to platforms, exits, escalators, and more. The signs come in different lengths and have a [[https://minecraft.wiki/w/Light]] of 15.
 
 ===== Obtaining =====
@@ -11,11 +30,6 @@ Railway signs require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined
 ==== Crafting ====
 
 <markdown>
-
-
-
-
-
 
 
 
@@ -55,7 +69,17 @@ The `Edit` buttons on the top row is used for editing each unit of the sign. For
 
 
 
-> <img alt="Railway Sign Configuration Screen" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/gui.png" width=512/><br>The railway configuration screen for a sign with a length of 5
+
+
+
+
+
+
+
+
+
+
+> <img alt="Railway Sign Configuration Screen" src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-06_17.08.27.png" width=512/><br>The railway configuration screen for a sign with a length of 5
 
 </markdown>
 
@@ -70,6 +94,16 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 ===== Gallery =====
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
 
 
 
