@@ -76,66 +76,22 @@
 | {{:mtr:noentryf.png?142}}  | ''不准進入|No Entry'' | ::: |
 | {{:mtr:mtrt.png?142}}  | ''我的世界鐵路|Minecraft Transit Railway'' | ::: |
 | {{:mtr:mtrtf.png?142}}  | ''我的世界鐵路|Minecraft Transit Railway'' | ::: |
-| {{:mtr:whitehead.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
+| {{:mtr:whitehead.png?50}}  | N/A  | 3.0.0-beta-5  |
+| {{:mtr:whtrain.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:whtrainf.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:sp1900.png?50}}  | N/A  | %%3.0.0-Beta-6-prerelease%%  |
+| {{:mtr:sp1900t.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:sp1900tf.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:itc.png?142}}  | ''市區預辦登機|In-town Check-in'' | ::: |
+| {{:mtr:itcf.png?142}}  | ''市區預辦登機|In-town Check-in'' | ::: |
+| {{:mtr:cip.png?142}}  | ''登機乘客|Check-in Passengers'' | ::: |
+| {{:mtr:cipf.png?142}}  | ''登機乘客|Check-in Passengers'' | ::: |
+| {{:mtr:emergencyexit.png?142}}  | ''緊急出口|Emergency Exit'' | ::: |
+| {{:mtr:emergencyexitf.png?142}}  | ''緊急出口|Emergency Exit'' | ::: |
+| {{:mtr:fwh.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot'' | ::: |
+| {{:mtr:fwhf.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot'' | ::: |
+| {{:mtr:whtrain.png?142}}  | ''列車|Trains'' |   |
+| {{:mtr:whtrainf.png?142}}  | ''列車|Trains'' |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
