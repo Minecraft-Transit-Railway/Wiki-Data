@@ -41,6 +41,8 @@ Railway signs require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe | Notes |
 | --- | --- | --- | --- |
 | Railway Sign × 32 <br>_Length: 2_<br>_Orientation: Even_ | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Sign](https://minecraft.wiki/w/Sign)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rs_crafing_recipe.webp" width=200> | This is the base recipe for crafting any of the railway signs. |
@@ -77,6 +79,8 @@ The `Edit` buttons on the top row is used for editing each unit of the sign. For
 
 
 
+
+
 > <img alt="Railway Sign Configuration Screen" src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-06_17.08.27.png" width=512/><br>The railway configuration screen for a sign with a length of 5
 
 </markdown>
@@ -93,8 +97,8 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 The table below shows all signs that are added to the mod and from which version they were added. (WIP)
 
-| Icon | Text | Preview | Added version |
-|  |  |  |  |
+| Icon | Text | Preview | Old icons (if any) | Added version |
+|   |   |   |  |   |
 
 ===== Changelog =====
 
@@ -135,6 +139,8 @@ The table below shows all signs that are added to the mod and from which version
 ===== Gallery =====
 
 <markdown>
+
+
 
 
 > <img alt="Centown 1" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-1.png" width=512/><br>Examples of railway signs in the station
