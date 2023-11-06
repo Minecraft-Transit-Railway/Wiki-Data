@@ -36,8 +36,12 @@
 | {{:mtr:mtrlogo.png?50}}  | N/A  | ::: |
 | {{:mtr:platnew.png?142}}  | ''月台|Platform''  | ::: |
 | {{:mtr:platnew.png?142}}  | ''月台|Platform'' | ::: |
-| {{:mtr:rtblocknew.png?142}}  | ''路綫|Route''Rendered with a background of the route's colour | ::: |
-| {{:mtr:rtblocknewf.png?142}}  | ''路綫|Route''Rendered with a background of the route's colour | ::: |
+| {{:mtr:rtblocknew.png?142}}  | ''路綫|Route ''((
+Rendered with a background of the route's colour.
+)) | ::: |
+| {{:mtr:rtblocknewf.png?142}}  | ''路綫|Route ''((
+Rendered with a background of the route's colour.
+)) | ::: |
 | {{:mtr:lift.png?142}}  | ''升降機|Lift''  | ::: |
 | {{:mtr:liftf.png?142}}  | ''升降機|Lift'' | ::: |
 | {{:mtr:lift1.png?142}}  | ''升降機|Lift'' | ::: |
@@ -86,10 +90,18 @@
 | {{:mtr:itcf.png?142}}  | ''市區預辦登機|In-town Check-in'' | ::: |
 | {{:mtr:cip.png?142}}  | ''登機乘客|Check-in Passengers'' | ::: |
 | {{:mtr:cipf.png?142}}  | ''登機乘客|Check-in Passengers'' | ::: |
-| {{:mtr:emergencyexit.png?142}}  | ''緊急出口|Emergency Exit'' | ::: |
-| {{:mtr:emergencyexitf.png?142}}  | ''緊急出口|Emergency Exit'' | ::: |
-| {{:mtr:fwh.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot'' | ::: |
-| {{:mtr:fwhf.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot'' | ::: |
+| {{:mtr:emergencyexit.png?142}}  | ''緊急出口|Emergency Exit ''((
+Rendered with a green background.
+)) | ::: |
+| {{:mtr:emergencyexitf.png?142}}  | ''緊急出口|Emergency Exit ''((
+Rendered with a green background.
+)) | ::: |
+| {{:mtr:fwh.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot ''((
+Rendered with an orange background.
+)) | ::: |
+| {{:mtr:fwhf.png?142}}  | ''免費Wi-Fi熱點|Free Wi-Ft Hotspot ''((
+Rendered with an orange background.
+)) | ::: |
 | {{:mtr:ttc.png?142}} | ''往機場列車|Trains to Airport'' | ::: |
 | {{:mtr:ttcf.png?142}} | ''往機場列車|Trains to Airport'' | ::: |
 | {{:mtr:exit1.png?142}}  | ''出口|Exit'' |  3.0.0-beta-7-depot-snapshot-5 |
