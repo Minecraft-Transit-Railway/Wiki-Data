@@ -9,7 +9,7 @@
 |  Render of all lengths of an odd Railway Sign.  ||
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
-| **[[https://minecraft.wiki/w/Tool|Tool]]** | From bare hands |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
 | **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | Yes  |
 | **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
@@ -33,6 +33,8 @@ Railway signs require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined
 ==== Crafting ====
 
 <markdown>
+
+
 
 
 
@@ -89,6 +91,8 @@ The `Edit` buttons on the top row is used for editing each unit of the sign. For
 
 
 
+
+
 > <img alt="Railway Sign Configuration Screen" src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-06_17.08.27.png" width=512/><br>The railway configuration screen for a sign with a length of 5
 
 </markdown>
@@ -112,7 +116,6 @@ The link below will bring you to a page that shows all the signs that were added
 **This page contains lots of images, and user is recommended to open the page in a place with good Wi-Fi connection.**
 
 </WRAP>
-
 
 ===== Changelog =====
 
@@ -153,6 +156,8 @@ The link below will bring you to a page that shows all the signs that were added
 ===== Gallery =====
 
 <markdown>
+
+
 
 
 
