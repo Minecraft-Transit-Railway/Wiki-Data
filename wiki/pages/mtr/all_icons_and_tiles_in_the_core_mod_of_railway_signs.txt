@@ -1,6 +1,6 @@
 ====== All Icons and Tiles in the core mod of Railway Signs ======
 
-^ Icon ^ Text ^ Added version ^
+^  Icon  ^  Text  ^  Added version  ^
 | {{:mtr:left.png?50}}  | N/A  |  3.0.0-beta-4  |
 | {{:mtr:right.png?50}}  | N/A  | ::: |
 | {{:mtr:up.png?50}}  | N/A  | ::: |
@@ -94,10 +94,35 @@
 | {{:mtr:ttcf.png?142}} | ''往機場列車|Trains to Airport'' | ::: |
 | {{:mtr:exit1.png?142}}  | ''出口|Exit'' |  3.0.0-beta-7-depot-snapshot-5 |
 | {{:mtr:exit1f.png?142}}  | ''出口|Exit'' | ::: |
-| {{:mtr:left.png?50}}  | toheaven: b8u11  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
+| {{:mtr:tcoup.png?142}}  | ''直上大堂|To Concourse Only'' | 3.0.0-bets-8-unofficial-11  |
+| {{:mtr:tcoupf.png?142}}  | ''直上大堂|To Concourse Only'' | ::: |
+| {{:mtr:tcodown.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
+| {{:mtr:tcodownf.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
+| {{:mtr:ferry.png?50}}  | N/A  | 3.0.0-beta-9-unofficial-3 |
+| {{:mtr:ferryt.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
+| {{:mtr:ferrytf.png?142}}  | ''直落大堂|To Concourse Only'' | ::: |
+| {{:mtr:cc.png?50}}  | N/A  | 3.0.1-unofficial-3 |
+| {{:mtr:cct.png?142}}  | ''纜車|Cable Car'' | ::: |
+| {{:mtr:cctf.png?142}}  | ''纜車|Cable Car'' | ::: |
+| {{:mtr:station.png?142}}  | ''車站|Station'' | 3.1.1 |
+| {{:mtr:stationf.png?142}}  | ''車站|Station'' | ::: |
+| {{:mtr:airplaneup.png?50}}  | N/A  | 3.1.10 |
+| {{:mtr:airplanew.png?50}}  | N/A  | ::: |
+| {{:mtr:airplanee.png?50}}  | N/A  | ::: |
+| {{:mtr:airplanenw.png?50}}  | N/A  | ::: |
+| {{:mtr:airplanene.png?50}}  | N/A  | ::: |
+| {{:mtr:airport.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:airportf.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:airportw.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:airporte.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:airportnw.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:airportne.png?142}}  | ''機場|Airport'' | ::: |
+| {{:mtr:arrivalse.png?142}}  | ''抵港|Arrivals'' | ::: |
+| {{:mtr:arrivalsw.png?142}}  | ''抵港|Arrivals'' | ::: |
+| {{:mtr:departurenw.png?142}}  | ''離港|Departures'' | ::: |
+| {{:mtr:departurene.png?142}}  | ''離港|Departures'' | ::: |
+| {{:mtr:transfer.png?142}}  | ''轉機|Transfer'' | ::: |
+| {{:mtr:transferf.png?142}}  | ''轉機|Transfer'' | ::: |
+| {{:mtr:bc.png?142}}  | ''提取行李|Baggage Claim'' | ::: |
+| {{:mtr:bcf.png?142}}  | ''提取行李|Baggage Claim'' | ::: |
 
