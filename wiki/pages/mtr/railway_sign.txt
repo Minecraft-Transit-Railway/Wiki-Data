@@ -16,8 +16,8 @@
 | **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
-|  | %%TwinkleSprinkle%%((
-
+| ::: | %%TwinkleSprinkle%%((
+Icons only.
 )) |
 
 </WRAP>
@@ -33,6 +33,8 @@ Railway signs require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined
 ==== Crafting ====
 
 <markdown>
+
+
 
 
 
@@ -69,6 +71,8 @@ The `Edit` buttons on the top row is used for editing each unit of the sign. For
 
 
 
+
+
 > <img alt="Railway Sign Configuration Screen" src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-06_17.08.27.png" width=512/><br>The railway configuration screen for a sign with a length of 5
 
 </markdown>
@@ -89,6 +93,8 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 
 
+
+
 > <img alt="Centown 1" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-1.png" width=512/><br>Examples of railway signs in the station
 
 > <img alt="Centown 2" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-2.png" width=512/><br>A railway sign pointing towards two platforms
@@ -97,7 +103,7 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 </markdown>
 
-==== Changelog ====
+===== Changelog =====
 
 3.0.0-Beta-4: Added signs.
 
@@ -108,4 +114,28 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 3.0.0-beta-6-unofficial-2: fixed bugs for crashes when editing signs.
 
 3.0.0-beta-6-prerelease: More icons for signs added by TwinkleSprinkle.
+
+3.0.0-%%Beta-7-depot-snapshot-5: Added exit signs in response of the Exits update.%%
+
+3.0.0-%%Beta-7-prerelease-2: Fixed an old bug where breaking a railway sign will also sometimes break the one next to it.%%
+
+3.0.0-beta-8-unofficial-9: %%Added pages for railway sign selection.%%
+
+3.0.0-beta-9-unofficial-3: Added %%Ferry signs in response of the Boat update.%%
+
+3.0.0-beta-9-unofficial-5: %%Fixed signs disappearing when standing too close and at certain angles.%%
+
+%%3.0.1-unofficial-3: Added cable car icons on railway signs.%%
+
+%%3.1.0-unofficial-1: Railway signs now use cached rendering for better performance.%%
+
+%%3.1.0-unofficial-4: Fixed Forge tile entities rendering not outside the camera view (Which Railway Signs are affected).%%
+
+%%3.1.1: Current station and connected stations tile is added.%%
+
+%%3.1.2: Fixed station connection railway sign (flipped) not able to be configured.%%
+
+%%3.1.9: Data logging is experimentally logged in a CSV file.%%
+
+%%3.1.13: Custom fonts for signs can now be loaded through resource packs%%
 
