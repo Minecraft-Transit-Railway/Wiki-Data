@@ -19,6 +19,9 @@
 )) and Airplane((
  1. Connecting to nothing 2. Connecting to a rail
 )) nodes.  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From bare hands |
 | **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
 | **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
@@ -71,7 +74,7 @@ There are two parts for rail creation: the rail node and the rail connector item
 
 ===== Breaking =====
 
-Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. Airplane nodes can only be obtained by breaking.
+Rail, boat, cable car and airplane nodes require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, it can also drop itself. It has a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. Airplane nodes can only be obtained by breaking.
 
 ===== Crafting =====
 
