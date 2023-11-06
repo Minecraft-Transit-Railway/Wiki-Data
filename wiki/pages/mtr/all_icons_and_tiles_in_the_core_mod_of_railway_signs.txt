@@ -1,45 +1,82 @@
 ====== All Icons and Tiles in the core mod of Railway Signs ======
 
 ^ Icon ^ Text ^ Added version ^
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:right.png?50}}  | N/A  |   |
-| {{:mtr:up.png?50}}  | N/A  |   |
-| {{:mtr:down.png?50}}  | N/A  |   |
-| {{:mtr:nw.png?50}}  | N/A  |   |
-| {{:mtr:ne.png?50}}  | N/A  |   |
-| {{:mtr:sw.png?50}}  | N/A  |   |
-| {{:mtr:se.png?50}}  | N/A  |   |
-| {{:mtr:exit.png?50}}  | N/A  |   |
-| {{:mtr:exitm1.png?50}}  | N/A  |   |
-| {{:mtr:exitm2.png?50}}  | N/A  |   |
-| {{:mtr:esclr.png?50}}  | N/A  |   |
-| {{:mtr:escrl.png?50}}  | N/A  |   |
-| {{:mtr:stairlr.png?50}}  | N/A  |   |
-| {{:mtr:stairrl.png?50}}  | N/A  |   |
-| {{:mtr:elevator1.png?50}}  | N/A  |   |
-| {{:mtr:elevator2.png?50}}  | N/A  |   |
-| {{:mtr:wc.png?50}}  | N/A  |   |
-| {{:mtr:mf.png?50}}  | N/A  |   |
-| {{:mtr:f.png?50}}  | N/A  |   |
-| {{:mtr:m.png?50}}  | N/A  |   |
-| {{:mtr:mtr.png?50}}  | N/A  |   |
-| {{:mtr:ael.png?50}}  | N/A  |   |
-| {{:mtr:lrt.png?50}}  | N/A  |   |
-| {{:mtr:lrtbg.png?50}}  | N/A  |   |
-| {{:mtr:kcrlrt.png?50}}  | N/A  |   |
-| {{:mtr:kcrlrtbg.png?50}}  | N/A  |   |
-| {{:mtr:hsr.png?50}}  | N/A  |   |
-| {{:mtr:hsrblack.png?50}}  | N/A  |   |
-| {{:mtr:e44.png?50}}  | N/A  |   |
-| {{:mtr:e44bg.png?50}}  | N/A  |   |
-| {{:mtr:batu.png?50}}  | N/A  |   |
-| {{:mtr:mtrlogo.png?50}}  | N/A  |   |
+| {{:mtr:left.png?50}}  | N/A  |  3.0.0-beta-4  |
+| {{:mtr:right.png?50}}  | N/A  | ::: |
+| {{:mtr:up.png?50}}  | N/A  | ::: |
+| {{:mtr:down.png?50}}  | N/A  | ::: |
+| {{:mtr:nw.png?50}}  | N/A  | ::: |
+| {{:mtr:ne.png?50}}  | N/A  | ::: |
+| {{:mtr:sw.png?50}}  | N/A  | ::: |
+| {{:mtr:se.png?50}}  | N/A  | ::: |
+| {{:mtr:exit.png?50}}  | N/A  | ::: |
+| {{:mtr:exitm1.png?50}}  | N/A  | ::: |
+| {{:mtr:exitm2.png?50}}  | N/A  | ::: |
+| {{:mtr:esclr.png?50}}  | N/A  | ::: |
+| {{:mtr:escrl.png?50}}  | N/A  | ::: |
+| {{:mtr:stairlr.png?50}}  | N/A  | ::: |
+| {{:mtr:stairrl.png?50}}  | N/A  | ::: |
+| {{:mtr:elevator1.png?50}}  | N/A  | ::: |
+| {{:mtr:elevator2.png?50}}  | N/A  | ::: |
+| {{:mtr:wc.png?50}}  | N/A  | ::: |
+| {{:mtr:mf.png?50}}  | N/A  | ::: |
+| {{:mtr:f.png?50}}  | N/A  | ::: |
+| {{:mtr:m.png?50}}  | N/A  | ::: |
+| {{:mtr:mtr.png?50}}  | N/A  | ::: |
+| {{:mtr:ael.png?50}}  | N/A  | ::: |
+| {{:mtr:lrt.png?50}}  | N/A  | ::: |
+| {{:mtr:lrtbg.png?50}}  | N/A  | ::: |
+| {{:mtr:kcrlrt.png?50}}  | N/A  | ::: |
+| {{:mtr:kcrlrtbg.png?50}}  | N/A  | ::: |
+| {{:mtr:hsr.png?50}}  | N/A  | ::: |
+| {{:mtr:hsrblack.png?50}}  | N/A  | ::: |
+| {{:mtr:e44.png?50}}  | N/A  | ::: |
+| {{:mtr:e44bg.png?50}}  | N/A  | ::: |
+| {{:mtr:batu.png?50}}  | N/A  | ::: |
+| {{:mtr:mtrlogo.png?50}}  | N/A  | ::: |
+| {{:mtr:platnew.png?142}}  | ''月台|Platform''  | ::: |
+| {{:mtr:platnew.png?142}}  | ''月台|Platform'' | ::: |
+| {{:mtr:rtblocknew.png?142}}  | ''路綫|Route''Rendered with a background of the route's colour | ::: |
+| {{:mtr:rtblocknewf.png?142}}  | ''路綫|Route''Rendered with a background of the route's colour | ::: |
+| {{:mtr:lift.png?142}}  | ''升降機|Lift''  | ::: |
+| {{:mtr:liftf.png?142}}  | ''升降機|Lift'' | ::: |
+| {{:mtr:lift1.png?142}}  | ''升降機|Lift'' | ::: |
+| {{:mtr:lift1f.png?142}}  | ''升降機|Lift''  | ::: |
+| {{:mtr:toilet.png?142}}  | ''洗手間|Toilets'' | ::: |
+| {{:mtr:toiletflip.png?142}}  | ''洗手間|Toilets'' | ::: |
+| {{:mtr:toiletf.png?142}}  | ''女洗手間|Female Toilet'' | ::: |
+| {{:mtr:toiletff.png?142}}  | ''女洗手間|Female Toilet'' | ::: |
+| {{:mtr:toiletm.png?142}}  | ''男洗手間|Male Toilet'' | ::: |
+| {{:mtr:toiletmf.png?142}}  | ''男洗手間|Male Toilet'' | ::: |
+| {{:mtr:trains.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:trainsf.png?142}}  | ''列車|Trains'' | ::: |
+| {{:mtr:aelt.png?142}}  | ''往機場列車|Trains to Airport'' | ::: |
+| {{:mtr:aeltf.png?142}}  | ''往機場列車|Trains to Airport'' | ::: |
+| {{:mtr:lrtt.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:lrttf.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:lrtb.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:lrtbf.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:kcrlrtt.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:kcrlrttb.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:kcrlrtb.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:kcrlrtbf.png?142}}  | ''輕鐵|Light Rail'' | ::: |
+| {{:mtr:hsrt.png?142}}  | ''高速鐵路|High Speed Rail'' | ::: |
+| {{:mtr:hsrtf.png?142}}  | ''高速鐵路|High Speed Rail'' | ::: |
+| {{:mtr:hsrb.png?142}}  | ''高速鐵路|High Speed Rail'' | ::: |
+| {{:mtr:hsrbf.png?142}}  | ''高速鐵路|High Speed Rail'' | ::: |
+| {{:mtr:e44t.png?142}}  | ''火車|Trains'' | ::: |
+| {{:mtr:e44f.png?142}}  | ''火車|Trains'' | ::: |
+| {{:mtr:e44bgt.png?142}}  | ''火車|Trains'' | ::: |
+| {{:mtr:e44bgtf.png?142}}  | ''火車|Trains'' | ::: |
+| {{:mtr:csc.png?142}}  | ''客務中心|Customer Service Centre'' | ::: |
+| {{:mtr:cscf.png?142}}  | ''客務中心|Customer Service Centre'' | ::: |
+| {{:mtr:ticket.png?142}}  | ''車票|Tickets'' | ::: |
+| {{:mtr:ticketsf.png?142}}  | ''車票|Tickets'' | ::: |
+| {{:mtr:noentry.png?142}}  | ''不准進入|No Entry'' | ::: |
+| {{:mtr:noentryf.png?142}}  | ''不准進入|No Entry'' | ::: |
+| {{:mtr:mtrt.png?142}}  | ''我的世界鐵路|Minecraft Transit Railway'' | ::: |
+| {{:mtr:mtrtf.png?142}}  | ''我的世界鐵路|Minecraft Transit Railway'' | ::: |
 | {{:mtr:whitehead.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
-| {{:mtr:left.png?50}}  | N/A  |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
 | {{:mtr:left.png?50}}  | N/A  |   |
