@@ -6,7 +6,7 @@
 |  {{:mtr:pids_1.png?200}}  ||
 |  {{:mtr:pids_2.png?200}}  ||
 |  {{:mtr:pids_3.png?200}}  ||
-| {{ :mtr:pids_4_1.png?100 }} | {{ :mtr:pids_4_1.png?100 }} |
+| {{ :mtr:pids_4_1.png?100x200 }} | {{ :mtr:pids_4_1.png?100x200 }} |
 |  Render of all types of PIDS.((
 |  Type 1  ||
 |  Type 2  ||
@@ -62,6 +62,8 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Passenger Information Display System (Type 1) × 8 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Clock](https://minecraft.wiki/w/Clock)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:pids_crafting_recipe_1.png" width=200/> |
@@ -71,6 +73,8 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 === Conversion Recipes ===
 
 <markdown>
+
+
 
 
 
