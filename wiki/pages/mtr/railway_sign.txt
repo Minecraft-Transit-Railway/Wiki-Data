@@ -16,6 +16,9 @@
 | **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
+|  | %%TwinkleSprinkle%%((
+
+)) |
 
 </WRAP>
 
@@ -34,17 +37,12 @@ Railway signs require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined
 
 
 
-
-
-
-
-
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe | Notes |
 | --- | --- | --- | --- |
-| Railway Sign<br>_Length: 2_<br>_Orientation: Even_ | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Sign](https://minecraft.wiki/w/Sign)<br><br>_Shaped Recipe_ | ![Railway Sign 2 Even Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_2_even.png) | This is the base recipe for crafting any of the railway signs. |
-| Railway Sign<br>_Upgrading Recipe_ | Railway Sign + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Sign](https://minecraft.wiki/w/Sign)<br><br>_Shapeless Recipe_ | ![Railway Sign Upgrading Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_6_even.png) | To increase the length of the sign by one, add an iron ingot and a sign to it. This only works for signs with an even orientation. |
-| Railway Sign<br>_Even to Odd Conversion Recipe_ | Railway Sign<br>_Orientation: Even_<br><br>_Shapeless Recipe_ | ![Railway Sign Even to Odd Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_5_odd.png) | A railway sign with an even orientation can be changed to a railway sign with an odd orientation of the same length. |
-| Railway Sign<br>_Odd to Even Conversion Recipe_ | Railway Sign<br>_Orientation: Odd_<br><br>_Shapeless Recipe_ | ![Railway Sign Odd to Even Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/railway_sign_4_even.png) | A railway sign with an odd orientation can be changed to a railway sign with an even orientation of the same length. |
+| Railway Sign × 32 <br>_Length: 2_<br>_Orientation: Even_ | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Block of Iron](https://minecraft.wiki/w/Block_of_Iron) + [Sign](https://minecraft.wiki/w/Sign)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rs_crafing_recipe.webp" width=200> | This is the base recipe for crafting any of the railway signs. |
+| Railway Sign<br>_Upgrading Recipe_ | Railway Sign + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Sign](https://minecraft.wiki/w/Sign)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rs_upgrade_recipe_1.png" width=200> | To increase the length of the sign by one, add an iron ingot and a sign to it. This only works for signs with an even orientation. |
+| Railway Sign<br>_Even to Odd Conversion Recipe_ | Railway Sign<br>_Orientation: Even_<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rs_convert_recipe_1.png" width=200> | A railway sign with an even orientation can be changed to a railway sign with an odd orientation of the same length. |
+| Railway Sign<br>_Odd to Even Conversion Recipe_ | Railway Sign<br>_Orientation: Odd_<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rs_convert_recipe_2.png" width=200> | A railway sign with an odd orientation can be changed to a railway sign with an even orientation of the same length. |
 
 </markdown>
 
@@ -71,26 +69,6 @@ The `Edit` buttons on the top row is used for editing each unit of the sign. For
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > <img alt="Railway Sign Configuration Screen" src="https://wiki.minecrafttransitrailway.com/_media/mtr:2023-11-06_17.08.27.png" width=512/><br>The railway configuration screen for a sign with a length of 5
 
 </markdown>
@@ -111,25 +89,6 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > <img alt="Centown 1" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-1.png" width=512/><br>Examples of railway signs in the station
 
 > <img alt="Centown 2" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-2.png" width=512/><br>A railway sign pointing towards two platforms
@@ -137,4 +96,16 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 > <img alt="Centown 3" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/railway-sign/centown-3.png" width=512/><br>A railway sign pointing towards two routes
 
 </markdown>
+
+==== Changelog ====
+
+3.0.0-Beta-4: Added signs.
+
+3.0.0-beta-5-unofficial-1: Signs now render with full brightness, as if they're illuminated.
+
+3.0.0-beta-5-prerelease: Signs can now show multiple platforms and routes.
+
+3.0.0-beta-6-unofficial-2: fixed bugs for crashes when editing signs.
+
+3.0.0-beta-6-prerelease: More icons for signs added by TwinkleSprinkle.
 
