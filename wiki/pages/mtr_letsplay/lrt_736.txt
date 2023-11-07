@@ -61,28 +61,28 @@ On 9 July 2023, route 736 and 736P are completed and fully operational together 
 On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023". According to the plan, Route 736 will be unchanged, but Route 736P will be merged with route 761 such that the southern terminus of the route will be extended to Daimon North.
 =====Stations=====
 <WRAP left>
-^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #CBBCF4 , #A019DB)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 736, 736P</b></p></font></div></body></html>  ||||||
-|  @#C3C3C3:\\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  | Tempest\\ 坦派斯特|Tempest|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
-|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
-|:::|Yamaura\\ 山內|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||9 July 2023|
-|:::|Satoyana\\ 里山|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
-|:::|Siu Shek Tam\\ 小石潭|:::|:::||:::|
-|:::|Silicon Valley\\ 硅谷|:::|:::||:::|
-|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Toodeepic Ocean\\ 太深洋|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_735|{{735.png?40&direct}}]]  ||:::|
-|:::|One-man Island\\ 一人島|:::|:::||:::|
-|:::|Tao Tung\\ 頭痛|:::|:::||:::|
-|:::|Butterfly Interchange\\ 蝴蝶轉車站|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]]  ||:::|
-|:::|McHenry\\ 麥亨利|:::|:::||:::|
-|:::|Little Stick\\ 小棍|:::|:::||:::|
-|:::|Big Stick\\ 大棍|:::|:::||:::|
-|:::|Lucky Dog\\ 幸運狗|:::|:::||:::|
-|:::|Evening Spring\\ 暮春|:::|:::||:::|
-|  @#C3C3C3:\\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Cascade\\ 級聯|Sunrise|:::||:::|
-|:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
-|:::|Kimberly\\ 金伯利|:::|:::||:::|
-|:::|Sunrise\\ 晨輝|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_737|{{735.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
+^ ^^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #CBBCF4 , #A019DB)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 736, 736P</b></p></font></div></body></html>  ||||||||
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |  @#C3C3C3:\\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  | Tempest\\ 坦派斯特|Tempest|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|:::|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |:::|Yamaura\\ 山內|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||9 July 2023|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |:::|Satoyana\\ 里山|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |:::|Siu Shek Tam\\ 小石潭|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |:::|Silicon Valley\\ 硅谷|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Toodeepic Ocean\\ 太深洋|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_735|{{735.png?40&direct}}]]  ||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |  @#A019DB:{{wd.png?7&direct}}  |:::|One-man Island\\ 一人島|:::|:::||:::|
+|:::|  @#A019DB:{{wd.png?7&direct}}  |:::|Tao Tung\\ 頭痛|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  | |:::|Butterfly Interchange\\ 蝴蝶轉車站|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]]  ||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|McHenry\\ 麥亨利|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Little Stick\\ 小棍|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Big Stick\\ 大棍|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Lucky Dog\\ 幸運狗|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Evening Spring\\ 暮春|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|  @#C3C3C3:\\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Cascade\\ 級聯|Sunrise|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Kimberly\\ 金伯利|:::|:::||:::|
+|  @#CBBCF4:{{wd.png?7&direct}}  |:::|:::|Sunrise\\ 晨輝|:::|  [[lrt_717_8|{{717.png?40&direct}}]] [[lrt_717_8|{{718.png?40&direct}}]] [[lrt_737|{{735.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
 </WRAP>
 =====Fare Zones=====
 - <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Toodeepic Ocean ⇄ Evening Spring (Butterfly Interchange ⇄ Evening Spring only suitable for route 736)
