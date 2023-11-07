@@ -45,7 +45,8 @@ On 29 October 2023, Royal Park stop is added to route serving Light Rail Depot s
 |:::|Kallos Ferry Pier\\ 麗灣碼頭|:::|  Kallos Ferry  ||:::|
 |:::|Puketeraki\\ 普基蒂拉基|Toitoi|  [[lrt_115|{{115.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||10 September 2022|
 |:::|:::|:::|  Puketeraki  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>  |:::|
-|  @#B9E0ED:\\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Makki Memorial Village\\ 瑪奇紀念村莊|:::|  [[lrt_505|{{505.png?40&direct}}]]  ||9 January 2023|
+|  @#B9E0ED:\\ \\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Wo Tin\\ 和田|:::| ||N/A|
+|:::|Makki Memorial Village\\ 瑪奇紀念村莊|:::|  [[lrt_505|{{505.png?40&direct}}]]  ||9 January 2023|
 |:::|:::|:::|  Makki Memorial Village  |  <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>  |:::|
 |:::|South Memorial\\ 南紀念|:::|  [[lrt_505|{{505.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  South Memorial  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
