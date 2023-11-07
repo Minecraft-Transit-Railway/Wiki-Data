@@ -11,13 +11,13 @@
 |  Render of the Cargo Loader block.((
 Courtesy of [[https://static.chaofan.io/blockRenderer/]] .
 ))  ||
-| **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
-| **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Stone Pickaxe |
-| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
-| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
-| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
-| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Stone Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%gsimba98%% |
 
@@ -31,9 +31,9 @@ The chest can not be under the cargo loader since in Minecraft, you can't open a
 
 ===== Changelog =====
 
-%%3.0.0-Beta-9-unofficial-1:  Added%%
+%%3.0.0-Beta-9-unofficial-1:  Added.%%
 
-%%3.1.0-unofficial-5: Small NBT tag fix%%
+%%3.1.0-unofficial-5: Small NBT tag fix.%%
 
 -
 
@@ -58,13 +58,13 @@ The chest can not be under the cargo loader since in Minecraft, you can't open a
 |  Render of the Cargo Loader block.((
 Courtesy of [[https://static.chaofan.io/blockRenderer/]] .
 ))  ||
-| **[[https://minecraft.fandom.com/wiki/Renewable_resource|Renewable]]** | Yes |
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
-| **[[https://minecraft.fandom.com/wiki/Tool|Tool]]** | From Stone Pickaxe |
-| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
-| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | No  |
-| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
-| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Stone Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%gsimba98%% |
 
@@ -84,7 +84,7 @@ If you would like to load all items from the chest, you should consider putting 
 
 ===== Changelog =====
 
-3.0.0-Beta-9-unofficial-1: Added
+3.0.0-Beta-9-unofficial-1: Added.
 
-3.1.0-unofficial-5: Small NBT tag fix
+3.1.0-unofficial-5: Small NBT tag fix.
 
