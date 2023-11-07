@@ -1,0 +1,61 @@
+======Lilac Light Rail Route 736, 736P======
+**Lilac Light Rail Route 736** (Chinese: **麗蓮輕鐵736綫**) is a [[lilac_light_rail]] route connecting Tempest stop and Sunrise stop, and is jointly owned by [[lilypad_rail]] and [[qingli_railways|Qingli Railways]].
+
+**Lilac Light Rail Route 736P** (Chinese: **麗蓮輕鐵736P綫**) is the local version of route 736, connecting Tempest stop and Tao Tung stop.
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 736</font></html>\\ <html><font size = "4">麗蓮輕鐵736綫</font></html>  ^^
+|@#CBBCF4:||
+|  {{736_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest\\ Sunrise|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Tempest|
+|**Terminus**|Sunrise|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|80km/h|
+|**Number of stations**|17|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750V DC third rail|
+|**Depot**|Daimon North Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|9 July 2023, 4 months ago|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+
+^  <html><font size = "4">Lilac Light Rail Route 736P</font></html>\\ <html><font size = "4">麗蓮輕鐵736P綫</font></html>  ^^
+|@#A019DB:||
+|  {{736p_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Tempest\\ Sunrise|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Tempest|
+|**Terminus**|Tao Tung|
+^  Technical  ^^
+|**Character**|At-grade\\ Underground|
+|**Maximum speed**|80km/h|
+|**Number of stations**|8|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750V DC third rail|
+|**Depot**|Daimon North Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|9 July 2023, 4 months ago|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History=====
+On 9 May 2023, Route 736 was added to the Tempest light rail system project together with [[lrt_735|route 735]]. This route was suggested by [[qingli_railways|Qingli Railways]] to connect Tempest station to Sunrise through the upper loop of [[lrt_717_8|route 717/718]].
+
+On 19 May 2023, Route 736P was proposed to be the local route of route 736, terminating at Tao Tung stop instead of going up the McHenry link to Sunrise.
+
+On 9 July 2023, route 736 and 736P are completed and fully operational together with the whole Tempest light rail network.
+
+On 20 October 2023, [[qingli_railways|Qingli Railways]] proposed the "Lilac Light Rail Reform Plan 2023". According to the plan, Route 736 will be unchanged, but Route 736P will be merged with route 761 such that the southern terminus of the route will be extended to Daimon North.
