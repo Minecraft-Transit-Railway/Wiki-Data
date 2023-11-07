@@ -104,7 +104,7 @@ Trains are all serving from Northern Snow Village to Providence. Services from P
 ^  Average Train Intervals (in mins)  |^
 |  @#EB7AE9:  ||
 |  **Time Session**  \\  (in UTC)  |  **WLT Line 1 Phase 1**  |
-|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 5.25  |
+|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 5.3  |
 |<html>&nbsp</html>\\ Off Peak\\ <html>&nbsp</html>|:::|
 
 </WRAP>
