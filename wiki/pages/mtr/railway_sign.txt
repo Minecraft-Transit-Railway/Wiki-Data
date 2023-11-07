@@ -10,10 +10,10 @@
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
 | **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
-| **[[https://minecraft.fandom.com/wiki/Explosion#Blast_resistance|Blast resistance]]** | TBC |
-| **[[https://minecraft.fandom.com/wiki/Light|Luminous]]**  | Yes  |
-| **[[https://minecraft.fandom.com/wiki/Opacity|Transparent]]**  | No  |
-| **[[https://minecraft.fandom.com/wiki/Fire#Burning_blocks|Flammable]]**  | No  |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
 | ::: | %%TwinkleSprinkle%%((
@@ -109,7 +109,7 @@ The last button, `Reset Sign`, clears the unit being currently edited. If all un
 
 The link below will bring you to a page that shows all the signs that were added to the mod and from which version they were added.
 
-[[mtr:all_icons_and_tiles_in_the_core_mod_of_railway_signs]]
+[[mtr:all_icons_and_tiles_in_the_core_mod_for_railway_signs]]
 
 <WRAP center round important 90%>
 
