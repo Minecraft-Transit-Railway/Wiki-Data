@@ -49,9 +49,11 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 
 ==== Crafting ====
 
-=== Base Recipes ===
+=== Base Recipe ===
 
 <markdown>
+
+
 
 
 
@@ -73,6 +75,8 @@ Passenger information display systems require a [[https://minecraft.wiki/w/Picka
 === Conversion Recipes ===
 
 <markdown>
+
+
 
 
 
