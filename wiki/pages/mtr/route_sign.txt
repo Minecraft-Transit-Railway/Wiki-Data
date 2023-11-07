@@ -1,16 +1,43 @@
+====== Route Sign ======
+
+<WRAP right>
+
+|  @#00C42A: **Route Sign**  ||
+|   |   |
+|  Render of all lengths of an even Railway Sign.  ||
+|   |   |
+|  Render of all lengths of an odd Railway Sign.  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+| ::: | %%TwinkleSprinkle%%((
+Icons only.
+)) |
+
+</WRAP>
+
+Route signs are two-block high structures that tell passengers where a train from a specified platform will go. There are four variants, but they are functionally the same. All route signs have a [light level]([[https://minecraft.gamepedia.com/Light]]) of 15.
+
+===== Obtaining =====
+
+==== Breaking ====
+
+Route signs require a [pickaxe]([[https://minecraft.gamepedia.com/Pickaxe]]) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness]([[https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness]]) of 2.
+
+==== Crafting ====
+
 <markdown>
 
-# Route Sign
 
-Route signs are two-block high structures that tell passengers where a train from a specified platform will go. There are four variants, but they are functionally the same. All route signs have a [light level](https://minecraft.gamepedia.com/Light) of 15.
 
-# Obtaining
 
-## Breaking
 
-Route signs require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2.
-
-## Crafting
 
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
@@ -20,14 +47,26 @@ Route signs require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be m
 | Route Sign (Wall, Light) | Route Sign (Standing, Metal)<br><br>_Shapeless Recipe_ | ![Route Sign Wall Light Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_wall_light.png) |
 | Route Sign (Wall, Metal) | Route Sign (Wall, Light)<br><br>_Shapeless Recipe_ | ![Route Sign Wall Metal Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_wall_metal.png) |
 
-# Usage
+</markdown>
 
-The route sign should be placed inside an existing station. Stations areas are defined with the [railway dashboard](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Dashboard).
+===== Usage =====
+
+The route sign should be placed inside an existing station. Stations areas are defined with the [railway dashboard]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Dashboard]]).
 
 Right clicking the white portion of the route sign with a brush will bring up a selection screen of existing platforms in the station. Right clicking the black portion (at the top) with a brush will toggle the arrow directions.
 
-# Gallery
+===== Changelog =====
+
+===== Gallery =====
+
+<markdown>
+
+
+
+
+
 
 > <img alt="All Route Signs" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/route-sign/all-route-signs.png" width=512/><br>All four route signs side by side at a [light rail](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) stop
 
 </markdown>
+
