@@ -3,9 +3,9 @@
 <WRAP right>
 
 |  @#00C42A: **Route Sign**  ||
-|   |   |
+| {{ :mtr:sls.png?100x200 }}  | {{ :mtr:sms.png?100x200 }} |
 |  Render of all lengths of an even Railway Sign.  ||
-|   |   |
+| {{ :mtr:wls.png?100x200 }} | {{ :mtr:wms.png?100x200 }} |
 |  Render of all lengths of an odd Railway Sign.  ||
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | Yes (64) |
@@ -16,9 +16,6 @@
 | **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
-| ::: | %%TwinkleSprinkle%%((
-Icons only.
-)) |
 
 </WRAP>
 
@@ -32,7 +29,11 @@ Route signs require a [pickaxe]([[https://minecraft.gamepedia.com/Pickaxe]]) to 
 
 ==== Crafting ====
 
+=== Base recipe ===
+
 <markdown>
+
+
 
 
 
@@ -41,11 +42,27 @@ Route signs require a [pickaxe]([[https://minecraft.gamepedia.com/Pickaxe]]) to 
 
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
-| Route Sign (Standing, Light) | [Glowstone Dust](https://minecraft.gamepedia.com/Glowstone_Dust) + [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot)<br><br>_Shaped Recipe_ | ![Route Sign Standing Light Crafting Recipe 1](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_standing_light_1.png) |
-| Route Sign (Standing, Light) | Route Sign (Wall, Metal)<br><br>_Shapeless Recipe_ | ![Route Sign Standing Light Crafting Recipe 2](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_standing_light_2.png) |
-| Route Sign (Standing, Metal) | Route Sign (Standing, Light)<br><br>_Shapeless Recipe_ | ![Route Sign Standing Metal Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_standing_metal.png) |
-| Route Sign (Wall, Light) | Route Sign (Standing, Metal)<br><br>_Shapeless Recipe_ | ![Route Sign Wall Light Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_wall_light.png) |
-| Route Sign (Wall, Metal) | Route Sign (Wall, Light)<br><br>_Shapeless Recipe_ | ![Route Sign Wall Metal Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/route_sign_wall_metal.png) |
+| Route Sign (Standing, Light) | [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:route_sign_recipe_1.png" width=200/> |
+
+</markdown>
+
+=== Conversion Recipes ===
+
+<markdown>
+
+
+
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Route Sign (Standing, Light) | Route Sign (Wall, Metal)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:route_sign_recipe_5.png" width=200/> |
+| Route Sign (Standing, Metal) | Route Sign (Standing, Light)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:route_sign_recipe_2.png" width=200/> |
+| Route Sign (Wall, Light) | Route Sign (Standing, Metal)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:route_sign_recipe_3.png" width=200/> |
+| Route Sign (Wall, Metal) | Route Sign (Wall, Light)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:route_sign_recipe_4.png" width=200/> |
 
 </markdown>
 
@@ -57,9 +74,17 @@ Right clicking the white portion of the route sign with a brush will bring up a 
 
 ===== Changelog =====
 
+%%3.0.0-beta-4: Added.%%
+
+%%3.0.0-beta-7-unofficial-3: Improved train door animations and added door status lights on the sides of most trains.%%
+
+%%3.0.0-Beta-9-unofficial-1: Route maps on route signs will now combine lines if they share common stations.%%
+
 ===== Gallery =====
 
 <markdown>
+
+
 
 
 
