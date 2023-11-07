@@ -3,7 +3,7 @@
 <WRAP 400px right>
 
 |  @#1797d6:  <color #ffffff>**Navi**</color>  ||
-| {{ :mtr_community:navi_lx9702_render.png?380 }}Navi's avatar "[[https://fireemblemwiki.org/wiki/Roy|Roy]]: The day he plays with [[https://fireemblemwiki.org/wiki/Lilina|Lilina]] as of 12/10/2023. (credits: nameMC)  ||
+| {{ :mtr_community:navi_lx9702_render.png?200 }}Navi's avatar "[[https://fireemblemwiki.org/wiki/Roy|Roy]]: The day he plays with [[https://fireemblemwiki.org/wiki/Lilina|Lilina]] as of 12/10/2023. (credits: nameMC)  ||
 |  @#1797d6:  <color #ffffff>**Overview**</color>  ||
 | **Known as ** | LX9702_UV6921 |
 | ::: | LX((
