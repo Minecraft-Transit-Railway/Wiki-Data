@@ -42,6 +42,8 @@ Automatic platform gates require a [[https://minecraft.wiki/w/Pickaxe|Pickaxe]] 
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Automatic Platform Gates (Door Section) × 8 | [Redstone Block](https://minecraft.wiki/w/Block_of_Redstone) + [Iron Door](https://minecraft.wiki/w/Iron_Door) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:automatic_platform_gates_crafting_recipe_1.png" width=200> |
@@ -100,6 +102,8 @@ Unknown: Added.
 %%3.0.0-Beta-7-prerelease-2: Terminating lines no longer show up on route maps.%%
 
 %%3.0.0-Beta-8-unofficial-8-hotfix-2: Fixed APG slamming for a fraction of a second in 1.17.%%
+
+%%3.0.0-Beta-9-unofficial-1: Route maps on automatic platform gates will now combine lines if they share common stations.%%
 
 %%3.0.0-Beta-9-unofficial-1-hotfix-1: Fixed APG detecting the wrong platform.%%
 
