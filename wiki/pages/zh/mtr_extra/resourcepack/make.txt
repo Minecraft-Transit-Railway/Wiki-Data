@@ -142,16 +142,20 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
 </WRAP>
 
 ==== 2、使用资源包创建器 ====
+
 <WRAP center round info 60%>
 
 这是一个较为简单的方法，不需要自己创建资源包
 
 并且它没有局限性！你可以制作地铁、公交、轮船、飞机、缆车各种追加包！
-</WRAP>
-<WRAP center round important 60%>
-**本方法难度系数较高，初学者暂时不要使用！**
+
 </WRAP>
 
+<WRAP center round important 60%>
+
+**本方法难度系数较高，初学者暂时不要使用！**
+
+</WRAP>
 
 为了追求真实感，大部分追加都是使用资源包创建器进行制作的。你可以自己建模、自己画贴图！不再受原版列车的拘束！
 
@@ -164,13 +168,16 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
   - 设置模型部件的**外部**、**内部**和**灯**
   - 设置显示屏等物件
   - 导出！
+
 <WRAP center round info 60%>
+
 外部：车辆外壳，不发光
 
 灯、灯（常亮）：灯（常亮）永远发光，灯在运行时发光，在车厂时熄灭
 
 内部：运行时亮，在车厂时为正常亮度
+
 </WRAP>
 
+恭喜你完成了资源包的制作！接下来让我们看看各种[[zh:mtr_extra:start|资源包]]吧！
 
-恭喜你完成了追加包的制作！接下来让我们看看各种追加包吧！[[zh:mtr_extra:resourcepack|]]
