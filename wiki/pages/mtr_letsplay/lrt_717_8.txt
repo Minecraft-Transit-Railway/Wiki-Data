@@ -33,44 +33,44 @@ On 9 April 2023, route 717 is proposed to further extend to Sunrise and then bac
 On 9 July 2023, the loop is completed and routes 717 and 718 has been fully operational since then.
 =====Stations=====
 <WRAP left>
-^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #2B91CF , #99C83A)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 717/718</b></p></font></div></body></html>  ||||||
-|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Tempest\\ 坦派斯特|Tempest|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
-|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
-|:::|Yamaura\\ 山內|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]]  ||9 July 2023|
-|:::|Alpha\\ 阿爾法|:::| ||:::|
-|:::|Beta\\ 貝塔|:::|:::||:::|
-|:::|Gamma\\ 伽瑪|:::|:::||:::|
-|:::|Delta\\ 德爾塔|:::|:::||:::|
-|:::|Kuk Wu\\ 曲湖|:::|:::||:::|
-|:::|Tam Ling\\ 潭陵|Sunrise|:::||:::|
-|:::|Hattari\\ 虛幻|:::|:::||:::|
-|:::|Kaixa\\ 凱撒|:::|:::||:::|
-|:::|Tai Wai\\ 堤圍|:::|  [[lrt_735|{{735.png?40&direct}}]]  ||:::|
-|:::|Kennedy\\ 堅尼地|:::|:::||:::|
-|:::|Sunrise\\ 晨輝|:::|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
-|:::|Kimberly\\ 金伯利|:::|  [[lrt_736|{{736.png?40&direct}}]]  ||:::|
-|:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
-|:::|Cascade\\ 級聯|:::|:::||:::|
-|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Evening Spring\\ 暮春|Tempest|:::||:::|
-|:::|Lucky Dog\\ 幸運狗|:::|:::||:::|
-|:::|Big Stick\\ 大棍|:::|:::||:::|
-|:::|Little Stick\\ 小棍|:::|:::||:::|
-|:::|McHenry\\ 麥亨利|:::|:::||:::|
-|:::|Butterfly Interchange\\ 蝴蝶轉車站|:::|:::||:::|
-|:::|Dynamic\\ 耷捺蜜|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
-|:::|Silver Dollar\\ 銀圓|:::|:::||:::|
-|:::|Morning Star\\ 晨星|:::|:::||:::|
-|:::|Deer Hollow\\ 鹿谷地|:::|:::||:::|
-|:::|Boundary Island\\ 邊境島|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
-|:::|Sidebay Ferry Pier\\ 邊灣碼頭|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Kallos Ferry  ||:::|
-|:::|Eastern Garden Lake\\ 東園湖|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
-|:::|Dry Plains Cable Car Stop\\ 乾草園纜車站|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
-|:::|Badlands Forest\\ 惡土森林|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]   ||:::|
-|  @#C3C3C3:<color #585858>**<html><font size="4">10</font></html>**</color>  |Jura Forest\\ 朱拉森林|:::|:::||:::|
+^ ^^  Fare\\ Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #2B91CF , #99C83A)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 717/718</b></p></font></div></body></html>  ||||||||
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  |Tempest\\ 坦派斯特|Tempest|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|:::|:::|:::|:::|:::|  Tempest  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>  |:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Yamaura\\ 山內|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]] [[lrt_736|{{736P.png?40&direct}}]]  ||9 July 2023|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Alpha\\ 阿爾法|:::| ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Beta\\ 貝塔|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Gamma\\ 伽瑪|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Delta\\ 德爾塔|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Kuk Wu\\ 曲湖|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Tam Ling\\ 潭陵|Sunrise|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Hattari\\ 虛幻|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Kaixa\\ 凱撒|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Tai Wai\\ 堤圍|:::|  [[lrt_735|{{735.png?40&direct}}]]  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Kennedy\\ 堅尼地|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Sunrise\\ 晨輝|:::|  [[lrt_735|{{735.png?40&direct}}]] [[lrt_736|{{736.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|:::|  Sunrise  |  <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>  |:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Kimberly\\ 金伯利|:::|  [[lrt_736|{{736.png?40&direct}}]]  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Shek Wan Tsuen\\ 石溫泉|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Cascade\\ 級聯|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  |Evening Spring\\ 暮春|Tempest|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Lucky Dog\\ 幸運狗|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Big Stick\\ 大棍|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Little Stick\\ 小棍|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|McHenry\\ 麥亨利|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Butterfly Interchange\\ 蝴蝶轉車站|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Dynamic\\ 耷捺蜜|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]]  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Silver Dollar\\ 銀圓|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Morning Star\\ 晨星|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Deer Hollow\\ 鹿谷地|:::|:::||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Boundary Island\\ 邊境島|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||5 February 2023|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Sidebay Ferry Pier\\ 邊灣碼頭|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|:::|  Kallos Ferry  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Eastern Garden Lake\\ 東園湖|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Dry Plains Cable Car Stop\\ 乾草園纜車站|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|:::|  Tempest Skyisland Cable Car  ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#99C38A:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↑</font></html>**</color>  |:::|Badlands Forest\\ 惡土森林|:::|  [[lrt_721_2|{{721.png?40&direct}}]] [[lrt_721_2|{{722.png?40&direct}}]] [[lrt_761|{{761.png?40&direct}}]]   ||:::|
+|  @#2B91CF:{{wd.png?7&direct}}  |  @#99C38A:{{wd.png?7&direct}}  |  @#C3C3C3:<color #585858>**<html><font size="4">10</font></html>**</color>  |Jura Forest\\ 朱拉森林|:::|:::||:::|
 </WRAP>
 =====Fare Zones=====
 - <color /#65411D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 9: Evening Spring ⇄ Badlands Forest
