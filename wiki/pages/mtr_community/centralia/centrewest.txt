@@ -1,0 +1,51 @@
+====== Centrewest ======
+
+<WRAP right>
+|  @#0008AC: <color white>**Centrewest**</color>  ||
+| {{:mtr_community:centrewest_3_wide.png?250}} ||
+|  @#0008AC: <color white>**Overview**</color>  ||
+| **Owner** | [[mtr_community:vakarain|Vako]] |
+| **Based at** | Evesham |
+| **Transit type** | Light Rail |
+| **Train models** | 1 |
+| **Number of lines** | 4 |
+</WRAP>
+
+===== Info =====
+
+The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be confused with  Centrewest Buses), is a light rail operator in Western Centralia operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the [[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]], RCC Tramways had its system completely demolished and reworked from the ground up. The [[mtr_community:centralia:centrewest|The Centrewest Light Railway]] consists of four routes, which all meet at [[mtr_community:centralia:stations:hibiki|Hibiki]] station. The [[mtr_community:centralia:centrewest:greenroute|Green Route]], due to its path, runs two services, one between the depot at Gull Ruins to [[mtr_community:centralia:stations:headstone|Headstone]], and one between [[mtr_community:centralia:stations:headstone|Headstone]] and [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]].
+
+===== Lines =====
+
+|  @#0008AC: <color white>**Line Name**</color>  |  @#0008AC: <color white>**Status**</color>  |  @#0008AC: <color white>**Starting Station**</color>  |  @#0008AC: <color white>**Terminus Station**</color>  |
+|  @#FF5656:Centrewest Red Route  |  Operational  |  [[mtr_community:centralia:stations:evesham|Evesham]]  |  [[mtr_community:centralia:stations:armourcitywest|Armour City West]]  |
+|  @#0008AC:<color white>Centrewest Blue Route</color>  |  Operational  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#6FFF82:Centrewest Green Route  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
+|  @#FAEC90:Centrewest Yellow Route  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
+|  @#DA3443:RCC 1  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
+|  @#800200:<color white>RCC 2</color>   |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
+|  @#0092FF:AILR B1  |  Permanently Suspended  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#0092FF:AILR B2  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
+
+===== Fleet =====
+
+|  @#0008AC: <color white>**Train Model**</color>  |  @#0008AC: <color white>**Operating on**</color>  |  @#0008AC: <color white>**Depot Location**</color>  |
+|  CLR B90 (Centrewest)  |  @#FF5656:Centrewest Red Route  |  Evesham Light Rail Depot  |
+|  :::  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+|  :::  |  @#FAEC90:Centrewest Yellow Route  |  Gull Ruins Sidings  |
+|  CLR B90 (Centrewest Lightblue)  |  @#0008AC:<color white>Centrewest Blue Route</color>  |  Old Kent Docks Depot  |
+|  CLR B90 (AILR)  |  @#0008AC:<color white>Centrewest Blue Route</color>  |  Old Kent Docks Depot  |
+|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+
+
+===== Screenshots =====
+
+|{{:mtr_community:centralia:ailr_ace.png?600|}}|
+|//  Armour Island Light Rail B90 approaching the eastern entry of Armour City.  //|
+
+|{{:mtr_community:centralia:lakerhosyngardd.png?600|}}|
+|//  Lake Rhosyngardd station, accompanied by a RCC B90 and a distant Dennis Trident.  //|
+
+|{{:mtr_community:centralia:memorialpark.png?600|}}|
+|//  Memorial Park, one of the stations with the highest arrival frequency in Centralia.  //|
