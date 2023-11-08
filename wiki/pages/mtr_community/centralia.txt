@@ -1,6 +1,6 @@
 ====== Server - Centralia & The Centraliaverse ======
 
-Centralia is a Minecraft transit & city project that has been going on since 2016.
+[[mtr_community:centralia|Centralia]] is a Minecraft transit & city project that has been going on since 2016.
 
 <WRAP right>
 |  @#04388B: <color #FFFFFF>**Centralia**</color>  ||
@@ -10,30 +10,55 @@ Centralia is a Minecraft transit & city project that has been going on since 201
 | **Project Director** | [[mtr_community:szandorthe13th|szandorthe13th]] |
 | **Transit type** | All |
 | **Style/Inspiration** | British, Japanese, American, (Dutch) |
-| **Number of railway operators** | 3 |
+| **Number of railway operators** | 6 |
 | **Number of lines** | 32 |
 </WRAP>
 
 ==== History ====
 
-The City of [[mtr_community:centralia|Centralia]] originally started out as Central & Suburbia, and the names were merged to create [[mtr_community:centralia|Centralia]]. The central [[mtr_community:centralia|Centralia]] city area is made up of a merger of two former independent cities by the names of Haruna and Sendai, of which you can still see the names in a few stations, such as Haruna Shrine and Sendai Tower. Originally, it was a 1.7.10 singleplayer Minecraft world using the RealTrainMod, but as the world evolved and the Minecraft version was updated, it was transferred from RealTrainMod to the [[mtr:start|Minecraft Transit Railway]] mod it uses today. An advantage of this change was that rails now supported 45 degree rotations, and an old trace of the 90 degree-limited track beds is still visible between [[mtr_community:centralia:stations:banksheath|Banks Heath]] and Sendai Parkway stations, which coincidentally sported the first railway connection. Years later, it was opened as a server, with multiple users working on railways within the world at once, which significantly boosted the development of the city. Many buildings built by others are still visible to this day, even after the server was unfortunately closed down due to internal disputes between [[mtr_community:vakarain|Vako]] and Centralia staff members at the time. The world kept developing for a while after, and in early 2023, reopened once more to a selected group of active and trusted people. Unfortunately, due to multiple different factors, mainly including a lack of motivation, the server was once again closed and the project was immediately put on an indefinite hiatus. The state in which the server closed was released as Centralia version 1.1.5, also known as the EOD (End Of Development) release. However, interest remained high in the eyes of other members, including [[mtr_community:szandorthe13th|szandorthe13th]], who transformed his discord server, which was previously in a zombie state from the former Moszyan Railways server it ran, into a server dedicated to finishing the work he had started on Centralia in the short time he had access to the server. He would stay in contact with [[mtr_community:vakarain|Vako]], receiving lots of useful information and assistance in his continuation of the project. Eventually, because of the significantly higher activity on this originally unaffiliated side-project, and around the opening of this very wiki you are reading from right now, [[mtr_community:szandorthe13th|szandorthe13th]] recieved the green light to fully step into the role of representing the Centralia project. However, to prevent confusion between the two versions of Centralia that had split from each other by now, [[mtr_community:szandorthe13th|szandorthe13th]]'s version would be known as "Szandor's Centraliaverse", as every person who downloads the map and starts their own journey on it, creates their own Centraliaverse, so to speak. Due to Centralia's inactivity however, most information on this wiki page will come from the Centraliaverse version of Centralia, unless stated otherwise.
+The City of [[mtr_community:centralia|Centralia]] originally started out as Central & Suburbia, and the names were merged to create [[mtr_community:centralia|Centralia]]. The central [[mtr_community:centralia|Centralia]] city area is made up of a merger of two former independent cities by the names of Haruna and Sendai, of which you can still see the names in a few stations, such as Haruna Shrine and Sendai Tower. Originally, it was a 1.7.10 singleplayer Minecraft world using the RealTrainMod, but as the world evolved and the Minecraft version was updated, it was transferred from RealTrainMod to the [[mtr:start|Minecraft Transit Railway]] mod it uses today. An advantage of this change was that rails now supported 45 degree rotations, and an old trace of the 90 degree-limited track beds is still visible between [[mtr_community:centralia:stations:banksheath|Banks Heath]] and Sendai Parkway stations, which coincidentally sported the first railway connection. Years later, it was opened as a server, with multiple users working on railways within the world at once, which significantly boosted the development of the city. Many buildings built by others are still visible to this day, even after the server was unfortunately closed down due to internal disputes between [[mtr_community:vakarain|Vako]] and [[mtr_community:centralia|Centralia]] staff members at the time. The world kept developing for a while after, and in early 2023, reopened once more to a selected group of active and trusted people. Unfortunately, due to multiple different factors, mainly including a lack of motivation, the server was once again closed and the project was immediately put on an indefinite hiatus. The state in which the server closed was released as [[mtr_community:centralia|Centralia]] version 1.1.5, also known as the EOD (End Of Development) release. However, interest remained high in the eyes of other members, including [[mtr_community:szandorthe13th|szandorthe13th]], who transformed his discord server, which was previously in a zombie state from the former Moszyan Railways server it ran, into a server dedicated to finishing the work he had started on [[mtr_community:centralia|Centralia]] in the short time he had access to the server. He would stay in contact with [[mtr_community:vakarain|Vako]], receiving lots of useful information and assistance in his continuation of the project. Eventually, because of the significantly higher activity on this originally unaffiliated side-project, and around the opening of this very wiki you are reading from right now, [[mtr_community:szandorthe13th|szandorthe13th]] recieved the green light to fully step into the role of representing the [[mtr_community:centralia|Centralia]] project. However, to prevent confusion between the two versions of [[mtr_community:centralia|Centralia]] that had split from each other by now, [[mtr_community:szandorthe13th|szandorthe13th]]'s version would be known as "Szandor's Centraliaverse", as every person who downloads the map and starts their own journey on it, creates their own Centraliaverse, so to speak. Due to [[mtr_community:centralia|Centralia]]'s inactivity however, most information on this wiki page will come from the Centraliaverse version of [[mtr_community:centralia|Centralia]], unless stated otherwise.
 
 ==== Operators ====
 
-{{:mtr_community:crlogostripe.png?50}} [[mtr_community:centralia:cr|Centralia Rail (CR)]]
-{{:mtr_community:cmrmetropolitan.png?50}} [[mtr_community:centralia:cmr|Centralia Metropolitan Rail (CMR)]]
-{{:mtr_community:mosyzan_logo.png?50}} [[mtr_community:centralia:mrw|Moszyan Railways (MRW)]]
+{{:mtr_community:crlogostripe.png?50}} [[mtr_community:centralia:cr|Centralia Rail]]
+{{:mtr_community:cmrmetropolitan.png?50}} [[mtr_community:centralia:cmr|Centralia Metropolitan Rail]]
+{{:mtr_community:centralia_wf.png?50}} [[mtr_community:centralia:warringtonflyer|Warrington Flyer]]
+{{:mtr_community:centralia_rcc.png?50}} [[mtr_community:centralia:rcc|Rhosyngardd City Council]]
+{{:mtr_community:centrewest_3_wide.png?50}} [[mtr_community:centralia:centrewest|Centrewest]]
+{{:mtr_community:mosyzan_logo.png?50}} [[mtr_community:centralia:mrw|Moszyan Railways]]
 
 ==== The System ====
 === Szandor's Centraliaverse ===
-{{:mtr_community:centralia_cr_map.png?1000}}
+{{:mtr_community:centralia_cr_map.png?1000|}}
 
-//A map of all Centralia Rail services. Moszyan Railways' Trident Line is included until their network expands.//
+//A map of all [[mtr_community:centralia:cr|Centralia Rail]] services. [[mtr_community:centralia:mrw|Moszyan Railways]]' [[mtr_community:centralia:mrw:tridentline|Trident Line]] is included until their network expands.//
 
 {{:mtr_community:centralia_cmr_map.png?1000}}
 
-//A map of all Centralia Metropolitan Rail services. The CR-owned Central & Junction line is included as a reference to the Waterloo & City Line's appearance on the London Underground rail map.//
+//A map of all [[mtr_community:centralia:cmr|Centralia Metropolitan Rail]] services. The CR-owned [[mtr_community:centralia:cr:centralandjunctionline|Central & Junction Line]] is included as a reference to the Waterloo & City Line's appearance on the London Underground rail map.//
 
 {{:mtr_community:centralia_lrt_map.png?1000}}
 
-//A map of all Light Rail services in Centralia. Currently includes the Warrington Flyer, Rhosyngardd Palace Line and the Centrewest Light Rail network.//
+//A map of all Light Rail services in [[mtr_community:centralia|Centralia]]. Currently includes the [[mtr_community:centralia:warringtonflyer|Warrington Flyer]], [[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]] and the [[mtr_community:centralia:centrewest|Centrewest Light Rail]] network.//
+
+{{:mtr_community:centralia_map_scv.png?1000}}
+
+//The full system map of Szandor's Centraliaverse as of November 8th, 2023.//
+
+=== [[mtr_community:centralia|Centralia]] End Of Development version 1.1.5 ===
+
+{{:mtr_community:centralia_map_eod.png?1000}}
+
+//The system map of [[mtr_community:centralia|Centralia]] at the time the server was closed and development by [[mtr_community:vakarain|Vako]] ended.//
+
+=== [[mtr_community:centralia|Centralia]] version 1.1 ===
+
+{{:mtr_community:centralia_map_1.png?1000}}
+
+//The system map of [[mtr_community:centralia|Centralia]] from the 1.1 release.//
+
+=== [[mtr_community:centralia|Centralia]] version 1.0 ===
+
+{{:mtr_community:centralia_map_0.png?1000}}
+
+//The system map of [[mtr_community:centralia|Centralia]] from the 1.0 release, the oldest publicly available version of the map.//
