@@ -30,7 +30,7 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 | **Track gauge** | 1435mm\\ (4 ft 0.5 in)\\ standard gauge |
 | **Electrification** | 750V DC\\ (overhead wire and\\ third rail) |
 ^  Route Map  |^
-|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:sleepy_sapph|sleepy_sapph]], as of 20 Oct. 2023. //  ||
+|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:sleepy_sapph|sleepy_sapph]],//as of 20 Oct. 2023. //  ||
 
 <WRAP right>
 
