@@ -1,6 +1,29 @@
-<markdown>
-
 # Station Name - Needs Updating
+
+<WRAP right>
+
+|  @#00C42A: **Platform Block**  ||
+| {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_.png?100 }} | {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_1.png?100 }} |
+|  {{ :mtr:2023-11-04_17.09.10_platform_north_america_.png?100 }}  |  {{ :mtr:2023-11-04_17.09.11_platform_north_america_.png?100 }}  |
+| {{ :mtr:2023-11-04_17.09.11_platform_north_america_1.png?100 }} | {{ :mtr:2023-11-04_17.09.12_platform_north_america_.png?100 }} |
+| {{ :mtr:2023-11-04_17.09.12_platform_united_kingdom_.png?100 }} | {{ :mtr:2023-11-04_17.09.13_platform_united_kingdom_.png?100 }} |
+|  Render of all Platforms Block variants.((
+| Hong Kong (No indent) | Hong Kong (With indent) |
+| North American (No indent) | North American (With indent) |
+| North American 2 (No indent) | North American 2 (With indent) |
+| UK (No indent) | UK (With indent) |
+))  ||
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | Yes  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | %%Jonathan%% |
+| ::: | ExtremeMakerX((
+North American variants only.
+)) |
+
+</WRAP>
 
 The station name blocks are decorative blocks that inform passengers of the name of the current station. There are four variants, two of which will show  the station colour as well.
 
@@ -11,14 +34,14 @@ The station name blocks are decorative blocks that inform passengers of the name
 Each of the station name variants require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, they drop nothing. They have a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2. For the station name (wall) and station name (entrance) block, if the block behind it is broken, the station name (wall) is dropped.
 
 ## Crafting
-
+<markdown>
 | Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
 | --- | --- | --- |
 | Station Name (Wall) | [Sign](https://minecraft.gamepedia.com/Sign) + [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot)<br><br>_Shapeless Recipe_ | ![Station Name (Wall) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_wall.png) |
 | Station Name (Tall Block) | Station Name (Wall) + [Stone](https://minecraft.gamepedia.com/Stone) + Station Pole<br><br>_Shapeless Recipe_ | ![Station Name (Tall Block) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_tall_block.png) |
 | Station Name (Tall Wall) | Station Name (Wall) + [Stone](https://minecraft.gamepedia.com/Stone)<br><br>_Shapeless Recipe_ | ![Station Name (Tall Wall) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_tall_wall.png) |
 | Station Name (Entrance) | Station Name (Wall) + MTR Logo<br><br>_Shapeless Recipe_ | ![Station Name (Entrance) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_entrance.png) |
-
+</markdown>
 # Usage
 
 When any of the station name blocks are placed within a defined station area, they will display the station name. Stations areas are defined with any [dashboard](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards). When right clicked with a brush, the colour of the text and/or the style of the block will change.
@@ -27,4 +50,3 @@ The station name (wall), station name (tall wall), and station name (entrance) b
 
 The station name (tall wall) and station name (tall block) blocks are three blocks high. They will show the station colour if placed within a defined station area.
 
-</markdown>
