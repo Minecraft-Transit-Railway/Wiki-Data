@@ -8,7 +8,7 @@
 | **Based at** ||
 | TMT Complex, Mayrowe-Anemone ||
 | **Transit type** | Overground Trains |
-| **Train models** | 2 |
+| **Train models** | 3 |
 | **Number of lines** | 2 |
 </WRAP>
 
@@ -16,13 +16,23 @@
 
 [[mtr_community:centralia:mrw|Moszyan Railways]] is the youngest operator in the city of [[mtr_community:centralia|Centralia]], being the only currently active one created in 2023. It was created after [[mtr_community:szandorthe13th|szandorthe13th]] took over the [[mtr_community:centralia:cr:maidsmoretonline|Maids Moreton Line]] from [[mtr_community:centralia:cr|Centralia Rail]] to extend it and turn it into a full line. This line would end up being the [[mtr_community:centralia:mrw:tridentline|Trident Line]]. Due to this identity, the operator originally had called itself "Trident Railways" as well. This can still be seen on the EOD release of [[mtr_community:centralia|Centralia]], where the [[mtr_community:centralia:mrw:tridentline|Trident Line]] is referred to with the prefix "TR". After construction of [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]], with new signage for all of the previous stations on the line, it was officially renamed to [[mtr_community:centralia:mrw|Moszyan Railways]]. [[mtr_community:centralia:mrw|Moszyan Railways]] also co-owns the section of the [[mtr_community:centralia:cmr:eulaline|Eula Line]] between [[mtr_community:centralia:stations:garbeck|Garbeck]] and [[mtr_community:centralia:stations:anemonebay|Anemone Bay]], as the extension of the line moved the sidings over to the TMT Complex, which happens to be [[mtr_community:centralia:mrw|Moszyan Railways]]' headquarters.
 
+===== Lines =====
+
+|  @#FF7F00: **Line Name**  |  @#FF7F00: **Status**  |  @#FF7F00: **Starting Station**  |  @#FF7F00: **Terminus Station**  |
+|  @#4D77CB:Trident Line West Tooth  |  Incomplete  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
+|  @#4D77CB:Trident Line Central Tooth  |  Operational  |  [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
+|  @#4D77CB:Trident Line East Tooth  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:lendertonisland|Lenderton Island]]  |
+|  @#0098D8:Eula Line (Stopper)  |  Operational  |  [[mtr_community:centralia:stations:anemonebay|Anemone Bay]]  |  [[mtr_community:centralia:stations:astley|Astley]]  |
+|  @#0098D8:Eula Line (Express)  |  Operational  |  [[mtr_community:centralia:stations:lendertonbridge|Lenderton Bridge]]  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |
+
 ===== Fleet =====
 
 |  @#FF7F00:**Train Model**  |  @#FF7F00:**Operating on**  |  @#FF7F00:**Depot Location**  |
 |  LU 1996 Stock (Eula Line)  |  @#0098D8:Eula Line (Stopper)  |  TMT Complex Sidings  |
 | ::: |  @#0098D8:Eula Line (Express)  | ::: |
-|  Class 378 (Moszyan Railways)  |  @#4D77CB:Trident Line  |  TMT Complex Depot  |
-|  Class 378 (Trident Line)  |  @#4D77CB:Trident Line  |  TMT Complex Depot  |
+|  CR Class 508 (Trident Line)  |  Returned to CR  ||
+|  MRW Class 378  |  @#4D77CB:Trident Line  |  TMT Complex Depot  |
+|  MRW Class 378 (Trident Line)  |  @#4D77CB:Trident Line  |  TMT Complex Depot  |
 
 ===== Screenshots =====
 
