@@ -9,7 +9,7 @@
 |  {{:mtr:station_name_tall_block_double_sided.png?100}}  |  {{:mtr:station_name_entrance.png?100}}  |
 |  Icons of all Station Name variants.((
 | Wall text, Black | Wall Text, Grey |
-| Wall text, White | ::: |
+| Wall text, White ||
 | Tall Wall Text | Tall Block |
 | Tall Block, double-sided | Station Entrance |
 ))  ||
@@ -52,6 +52,10 @@ Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|p
 
 
 
+
+
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Station Name (Wall, White) | [Sign](https://minecraft.wiki/w/Sign) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_1.png" width=200/> |
@@ -65,6 +69,10 @@ Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|p
 === Conversion Recipe ===
 
 <markdown>
+
+
+
+
 
 
 
