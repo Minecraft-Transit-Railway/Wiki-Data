@@ -1,52 +1,117 @@
-# Station Name - Needs Updating
+====== Station Name - Needs Updating ======
 
 <WRAP right>
 
 |  @#00C42A: **Platform Block**  ||
-| {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_.png?100 }} | {{ :mtr:2023-11-04_17.09.09_platform_hong_kong_1.png?100 }} |
-|  {{ :mtr:2023-11-04_17.09.10_platform_north_america_.png?100 }}  |  {{ :mtr:2023-11-04_17.09.11_platform_north_america_.png?100 }}  |
-| {{ :mtr:2023-11-04_17.09.11_platform_north_america_1.png?100 }} | {{ :mtr:2023-11-04_17.09.12_platform_north_america_.png?100 }} |
-| {{ :mtr:2023-11-04_17.09.12_platform_united_kingdom_.png?100 }} | {{ :mtr:2023-11-04_17.09.13_platform_united_kingdom_.png?100 }} |
-|  Render of all Platforms Block variants.((
-| Hong Kong (No indent) | Hong Kong (With indent) |
-| North American (No indent) | North American (With indent) |
-| North American 2 (No indent) | North American 2 (With indent) |
-| UK (No indent) | UK (With indent) |
+|  {{:mtr:station_name_wall_black.png?100x50}}  |  {{:mtr:station_name_wall_gray.png?100x50}}  |
+|  {{:mtr:station_name_wall_white.png?200x100}}  ||
+|  {{:mtr:station_name_tall_wall.png?100}}  |  {{:mtr:station_name_tall_block.png?100}}  |
+|  {{:mtr:station_name_tall_block_double_sided.png?100}}  |  {{:mtr:station_name_entrance.png?100}}  |
+|  Icons of all Station Name variants.((
+| Wall text, Black | Wall Text, Grey |
+| Wall text, White | ::: |
+| Tall Wall Text | Tall Block |
+| Tall Block, double-sided | Station Entrance |
 ))  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From bare hands |
 | **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
 | **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | Yes  |
 | **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
 | **Catches fire from lava** | No |
 | **Created by** | %%Jonathan%% |
-| ::: | ExtremeMakerX((
-North American variants only.
-)) |
 
 </WRAP>
 
 The station name blocks are decorative blocks that inform passengers of the name of the current station. There are four variants, two of which will show  the station colour as well.
 
-# Obtaining
+===== Obtaining =====
 
-## Breaking
+==== Breaking ====
 
-Each of the station name variants require a [pickaxe](https://minecraft.gamepedia.com/Pickaxe) to be mined, in which case it drops itself. When mined without a pickaxe, they drop nothing. They have a [hardness](https://minecraft.gamepedia.com/Breaking#Blocks_by_hardness) of 2. For the station name (wall) and station name (entrance) block, if the block behind it is broken, the station name (wall) is dropped.
+Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, they will still drop itself. They have a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. For the station name (wall) and station name (entrance) block, if the block behind it is broken, the station name (wall) is dropped.
 
-## Crafting
+==== Crafting ====
+
+=== Base Recipe ===
+
 <markdown>
-| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
-| --- | --- | --- |
-| Station Name (Wall) | [Sign](https://minecraft.gamepedia.com/Sign) + [Iron Ingot](https://minecraft.gamepedia.com/Iron_Ingot)<br><br>_Shapeless Recipe_ | ![Station Name (Wall) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_wall.png) |
-| Station Name (Tall Block) | Station Name (Wall) + [Stone](https://minecraft.gamepedia.com/Stone) + Station Pole<br><br>_Shapeless Recipe_ | ![Station Name (Tall Block) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_tall_block.png) |
-| Station Name (Tall Wall) | Station Name (Wall) + [Stone](https://minecraft.gamepedia.com/Stone)<br><br>_Shapeless Recipe_ | ![Station Name (Tall Wall) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_tall_wall.png) |
-| Station Name (Entrance) | Station Name (Wall) + MTR Logo<br><br>_Shapeless Recipe_ | ![Station Name (Entrance) Crafting Recipe](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/recipes/station_name_entrance.png) |
-</markdown>
-# Usage
 
-When any of the station name blocks are placed within a defined station area, they will display the station name. Stations areas are defined with any [dashboard](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards). When right clicked with a brush, the colour of the text and/or the style of the block will change.
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
+| --- | --- | --- |
+| Station Name (Wall, White) | [Sign](https://minecraft.wiki/w/Sign) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_1.png" width=200/> |
+| Station Name (Tall Block) | Station Name (Wall, White) + [Stone](https://minecraft.wiki/w/Stone) + Station Pole<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_5.png" width=200/> |
+| Station Name (Tall Block, double-sided) | Station Name (Wall, White) × 2 + [Stone](https://minecraft.wiki/w/Stone) + Station Pole<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_8.png" width=200/> |
+| Station Name (Tall Wall) | Station Name (Wall, White) + [Stone](https://minecraft.wiki/w/Stone)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_6.png" width=200/> |
+| Station Name (Entrance) × 2 | Station Name (Wall, White) + MTR Logo<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_7.png" width=200/> |
+
+</markdown>
+
+=== Conversion Recipe ===
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
+| --- | --- | --- |
+| Station Name (Wall, Grey) | Station Name (Wall, White)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_2.png" width=200/> |
+| Station Name (Wall, Black) | Station Name (Wall, Grey)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_3.png" width=200/> |
+| Station Name (Wall, White) | Station Name (Wall, Black)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_4.png" width=200/> |
+
+</markdown>
+
+===== Usage =====
+
+When any of the station name blocks are placed within a defined station area, they will display the station name. Stations areas are defined with any [[mtr:dashboards]]. When right clicked with a brush, the colour of the text and/or the style of the block will change.
 
 The station name (wall), station name (tall wall), and station name (entrance) blocks are meant to be placed on the sides of other blocks. The station name (tall block) is freestanding.
 
 The station name (tall wall) and station name (tall block) blocks are three blocks high. They will show the station colour if placed within a defined station area.
+
+===== Changelog =====
+
+Unknown: Added station name(Wall Text, Tall Block and Tall Wall Text).
+
+%%3.0.0-beta-3: Added station name (entrance).%%
+
+%%3.0.1-unofficial-1: Station name wall blocks can now be put next to each other and combined, just like station name entrance signs.%%
+
+%%3.0.1-unofficial-1: Added station name (%%Wall Text, White, grey and black%%), and removed the feature that the station name changes colour by right clicking with a brush.%%
+
+%%3.0.1-unofficial-2: Fixed freeze when breaking tiled station name signs.%%
+
+%%3.0.1-unofficial-3: Added %%Station Name (Tall Block, double-sided).
+
+3.1.0-unofficial-4: Fixed Forge tile entities rendering not outside the camera view (Which Station names are affected).
+
+%%3.1.6: Fixed station name entrance signs misaligned.%%
+
+3.1.7: %%Improved Station Name (Entrance) and exit sign rendering.%%
 
