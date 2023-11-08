@@ -1,0 +1,45 @@
+====== Rhosyngardd City Council ======
+
+<WRAP right>
+|  @#800021: <color white>**Rhosyngardd City Council**</color>  ||
+| {{:mtr_community:centralia_rcc.png?250|}} ||
+|  @#800021: <color white>**Overview**</color>  ||
+| **Owner** | Public |
+| **Based at** | Rhosyngardd |
+| **Transit type** | Light Rail |
+| ::: | Overground Train |
+| **Train models** | 4 |
+| **Number of lines** | 3 |
+</WRAP>
+
+===== Info =====
+
+The [[mtr_community:centralia:rcc|Rhosyngardd City Council]] is a Open Access Rail Operator only operating trains for tourism. Their lines typically branch out from [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]. [[mtr_community:centralia:rcc|RCC]] is known for being the only ones to have put up a serious restriction in the world, which is to keep trains from entering the [[mtr_community:centralia:buses:cityofrhosyngardd|Rhosyngardd City]] walls at all costs. They used to operate light rail in the [[mtr_community:centralia:stations:hibiki|Hibiki]] area, but after RCC Tramways merged with AIRL to create the [[mtr_community:centralia:centrewest|Centrewest]] network, all that remains is a few B90s with [[mtr_community:centralia:rcc|RCC]] livery on the [[mtr_community:centralia:centrewest:greenline|Centrewest Green Line]].
+
+===== Lines =====
+
+|  @#800021: <color white>**Line Name**</color>  |  @#800021: <color white>**Status**</color>  |  @#800021: <color white>**Starting Station**</color>  |  @#800021:<color white>**Terminus Station**</color>  |
+|  @#800021: <color white>Rhosyngardd Express</color>  |  Operational  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#800021: <color white>Rhosyngardd Palace Line</color>  |  Operational  |  [[mtr_community:centralia:stations:rhosyngarddpalace|Rhosyngardd Palace]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#6FFF82:Centrewest Green Route  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
+
+===== Fleet =====
+
+|  @#800021: <color white>**Train Model**</color>  |  @#800021: <color white>**Operating on**</color>  |  @#800021: <color white>**Depot Location**</color>  |
+|  BR Class 377  |  @#800021:<color white>Rhosyngardd Express</color>  |  Tachyon Street Siding  |
+|  S43-Tec LRT 2002  |  @#800021:<color white>Rhosyngardd Palace Line</color>  |  Rhosyngardd Palace Siding  |
+|  Innovia APM 100  |  Scrapped  ||
+|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+
+
+===== Screenshots =====
+
+|{{:mtr_community:centralia:rccexpress.png?600|}}|
+|//  An RCC Express train leaving Rhosyngardd Central.  //|
+
+|{{:mtr_community:centralia:lakerhosyngardd.png?600|}}|
+|//  Lake Rhosyngardd station, accompanied by a RCC B90 and a distant Dennis Trident.  //|
+
+|{{:mtr_community:centralia:palaceline.png?600|}}|
+|//  The Rhosyngardd Palace Line takes you along the very edge of the iconic city walls!  //|
