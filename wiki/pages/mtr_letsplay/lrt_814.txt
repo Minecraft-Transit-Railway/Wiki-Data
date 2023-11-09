@@ -1,0 +1,28 @@
+======Lilac Light Rail Route 801P======
+''This page is introducing the second generation of route 801P. For the first generation, please visit [[lrt_802]].''
+**Lilac Light Rail Route 801P** (Chinese: **麗蓮輕鐵801P綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Winry stop, and is jointly owned by Qingli Railways and Lilypad Rail. This route is proposed in the "Lilac Light Rail Reform Plan 2023" and is a extended version of [[lrt_801|route 801]].
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 801P</font></html>\\ <html><font size = "4">麗蓮輕鐵801P綫</font></html>  ^^
+|@#FDA4BA:||
+|  {{801p_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Kallos\\ Eden\\ Yankton|
+|**Service type**|Light Rail Transit|
+|**System**|[[mtr_letsplay:lilac_light_rail|Lilac Light Rail]]|
+|**Status**|Operational|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Winry|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum Speed**|80km/h|
+|**Number of stations**|19|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase II|
+|**Number of cars**|2|
+^  Service  ^^
+|**Opened**|8 November 2023|
+|**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
