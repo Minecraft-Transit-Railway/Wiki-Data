@@ -1,6 +1,6 @@
 ======Lilac Light Rail Route 801P======
 ''This page is introducing the second generation of route 801P. For the first generation, please visit [[lrt_802]].''
-**Lilac Light Rail Route 801P** (Chinese: **麗蓮輕鐵801P綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Winry stop, and is jointly owned by Qingli Railways and Lilypad Rail. This route is proposed in the "Lilac Light Rail Reform Plan 2023" and is a extended version of [[lrt_801|route 801]].
+\\ **Lilac Light Rail Route 801P** (Chinese: **麗蓮輕鐵801P綫**) is a [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]] route connecting Light Rail Depot stop and Winry stop, and is jointly owned by Qingli Railways and Lilypad Rail. This route is proposed in the "Lilac Light Rail Reform Plan 2023" and is a extended version of [[lrt_801|route 801]].
 <WRAP right>
 ^  <html><font size = "4">Lilac Light Rail Route 801P</font></html>\\ <html><font size = "4">麗蓮輕鐵801P綫</font></html>  ^^
 |@#FDA4BA:||
@@ -25,4 +25,47 @@
 |**Opened**|8 November 2023|
 |**Owner(s)**|[[qingli_railways|Qingli Railways]]\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|[[qingli_railways|Qingli Railways]]|
+</WRAP>
+=====History=====
+On 20 November 2023, [[qingli_railways|Qingli Railways]] released the "Lilac Light Rail Reform Plan 2023". The second generation of route 801P is included in the plan, running between Winry and Light Rail Depot. Route 801P is a part of Phase 1 of the plan, which will enter service when the rebuild of Kallos Light Rail Depot is completed.
+
+On 8 November 2023, the trackage part of the new Kallos Light Rail Depot is completed. Route 801P is fully operational.
+
+On 9 November 2023, Route 801P is proposed to further extend to Taipa stop, and the route number will be changed to 814.
+=====Stations=====
+<WRAP left>
+^ ^^^  Fare\\ Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#FDA4BA:**Lilac Light Rail Route 801P**  |||||||||
+| |||  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Taipa\\ 氹仔|New Buckingham|  [[lrt_633|{{633.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]]  ||7 May 2023|
+|:::|||:::|:::|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  | :::|
+|:::|||:::|Humugath\\ 洪穆伽思|:::|  [[lrt_633|{{633.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]]  ||:::|
+|:::|||:::|Pai Kok\\ 排角|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||2 November 2023|
+|:::|||:::|Hon Sing Mountain Base\\ 寒星山腳|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||3 November 2023|
+|:::|||:::|:::|:::|  Hon Sing Mountain Village Cable Car  ||:::|
+|:::|||:::|Casper Lake\\ 急蛇湖|Kallos|  [[lrt_804|{{804.png?40&direct}}]]  ||2 November 2022|
+|:::|||:::|Mou Lun\\ 霧巒|:::|:::||:::|
+|  @#FDA4BA:{{wd.png?7&direct}}  |||:::|Light Rail Depot\\ 輕鐵車廠|:::|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
+|@#FDA4BA:| |  @#FDA4BA:<color white>**<html><font size = "4">↓</font></html>**</color>  | ::: | ::: | ::: |  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  | ::: |
+|  @#FDA4BA:<color white>**<html><font size = "4">↑</font></html>**</color>  |:::|  @#FDA4BA:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |:::|Royal Park\\ 皇家園|:::|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
+|@#FDA4BA:|  @#FDA4BA:<color white><-</color>  |  @#FDA4BA:{{wd.png?7&direct}}  |:::|Kallos West\\ 麗灣西|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||5 August 2022|
+| ||@#FDA4BA:|:::|:::|:::|  Kallos  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>  |:::|
+|:::||:::|:::|Karest Lake (East)\\ 麗林湖 (東)|:::|:::||:::|
+|:::|Kwai Lam\\ 葵林|:::|:::||:::|
+|:::|Karest Lake (West)\\ 麗林湖 (西)|:::|:::||:::|
+|:::|Karest Lake Beach\\ 麗林湖沙灘|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||11 August 2022|
+|:::|Spruce Forest\\ 杉木林|:::|:::|:::|20 August 2022|
+|  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |New Red Leaves\\ 新紅葉|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  New Red Leaves  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+|:::|Purple Leaves\\ 紫葉|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+|:::|Yi Sin\\ 伊茜|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]]  ||:::|
+|:::|Yi Lok\\ 伊樂|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
+|:::|Yi Yao\\ 伊瑤|:::|  [[lrt_101_2|{{101.png?40&direct}}]] [[lrt_101_2|{{102.png?40&direct}}]] [[lrt_115|{{115.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Eden\\ 伊甸|:::|  Eden  |  <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
+|:::|<del>Yi Nam\\ 伊南</del>|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||10 May 2023|
+|:::|<del>Ishima\\ 伊島</del>|Yankton|  [[lrt_115|{{115.png?40&direct}}]]  ||6 May 2023|
+|:::|:::|:::|  Ishima  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
+|:::|:::|:::|  Ikawa  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color>  |:::|
+|  @#ECB3D4:<color #CD378D>**<html><font size="4">2A</font></html>**</color>  |<del>Winry\\ 冬浮島</del>|:::|  [[lrt_115|{{115.png?40&direct}}]] {{blau_lrt.png?40&direct}}  ||:::|
 </WRAP>
