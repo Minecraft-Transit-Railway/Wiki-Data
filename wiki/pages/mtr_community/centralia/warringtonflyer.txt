@@ -1,0 +1,45 @@
+====== Warrington Flyer ======
+
+<WRAP right>
+|  @#C72DAC: **Warrington Flyer**  ||
+| {{:mtr_community:centralia_wf.png?260|}} ||
+|  @#C72DAC: **Overview**  ||
+| **Last Owner** | [[mtr_community:ellipticbark|EllipticBark]] |
+| **Based at** | Sendai Tower, Floor 37 |
+| **Transit type** | Underground APM |
+| **Train models** | 1 |
+| **Number of lines** | 3 |
+</WRAP>
+
+===== Info =====
+
+The [[mtr_community:centralia:warringtonflyer|Warrington Flyer]] isn't really an operator, but more a system of lines under no real ownership. The system is seen by many operators as arbitrary, with most of the line serving no real purpose apart from the branch to [[mtr_community:centralia:stations:warringtonpond|Warrington Pond]]. The lines lost their last bit of usefulness in the Centraliaverse when Bus Routes [[mtr_community:centralia:buses:route45|45]] and [[mtr_community:centralia:buses:route72|72]] were created, which stopped at Warrington Grove bus stop, located just 150 metres west of Warrington Pond station, which stands isolated in a forest.
+The system is abandoned, but still operational. Due to its decreasing purpose, it is under threat of being completely demolished.
+
+===== Lines =====
+
+|  @#C72DAC: **Line Name**  |  @#C72DAC: **Status**  |  @#C72DAC: **Starting Station**  |  @#C72DAC: **Terminus Station**  |
+|  @#C72DAC:WF1  |  Operational  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |  [[mtr_community:centralia:stations:warringtonpond|Warrington Pond]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:warringtonpond|Warrington Pond]]  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |
+|  @#C72DAC:WF2  |  Operational  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |  [[mtr_community:centralia:stations:venatorpoint|Venator Point]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:venatorpoint|Venator Point]]  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |
+|  @#C72DAC:WF3  |  Operational  |  [[mtr_community:centralia:stations:venatorpoint|Venator Point]]  |  [[mtr_community:centralia:stations:warringtonpond|Warrington Pond]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:warringtonpond|Warrington Pond]]  |  [[mtr_community:centralia:stations:venatorpoint|Venator Point]]  |
+
+===== Fleet =====
+
+|  @#C72DAC:**Train Model**  |  @#C72DAC:**Operating on**  |  @#C72DAC:**Depot Location**  |
+|  [[mtr_community:centralia:vehicles:apm100|APM 100 (WF1)]]  |  @#C72DAC:WF1  |  Banks Heath Sidings  |
+|  :::  |  :::  |  Warrington Pond Sidings  |
+|  [[mtr_community:centralia:vehicles:apm100|APM 100 (WF2)]]  |  @#C72DAC:WF2  |  Banks Heath Sidings  |
+|  :::  |  :::  |  Venator Point Sidings  |
+|  [[mtr_community:centralia:vehicles:apm100|APM 100 (WF3)]]  |  @#C72DAC:WF3  |  Venator Point Sidings  |
+|  :::  |  :::  |  Warrington Pond Sidings  |
+
+===== Screenshots =====
+
+|{{:mtr_community:centralia:wfwarrington.png?600}}|
+|//  Two Warrington Flyer trains standing at the platforms under Warrington.  //|
+
+|{{:mtr_community:centralia:wfwarringtonsouth.png?600}}|
+|//  The entry to Warrington South's. The Warrington Flyer stations are known for their bright pink color scheme. //|
