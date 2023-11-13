@@ -2,9 +2,9 @@
 
 <WRAP right>
 
-|  @#1797d6: <color #40D668>**apache**</color>  ||
+|  @#40D668: <color #FFFFFF>**apache**</color>  ||
 | {{ :mtr_community:apache_skin.png?400 }} ||
-|  @#1797d6: <color #40D668>**Overview**</color>  ||
+|  @#40D668: <color #FFFFFF>**Overview**</color>  ||
 | **Also known as** | apec |
 | ::: | oregano |
 | ::: | fox gaming (MY FUCKING 2018 ROBLOX USERNAME) |
