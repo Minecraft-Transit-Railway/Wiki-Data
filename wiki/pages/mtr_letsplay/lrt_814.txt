@@ -40,8 +40,8 @@ On 9 November 2023, Route 801P is proposed to further extend to Taipa stop, and 
 |:::|||:::|:::|:::|  Taipa South  |  <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  | :::|
 |:::|||:::|Humugath\\ 洪穆伽思|:::|  [[lrt_633|{{633.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]]  ||:::|
 |:::|||:::|Pai Kok\\ 排角|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||2 November 2023|
-|:::|||:::|Hon Sing Mountain Base\\ 寒星山腳|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||3 November 2023|
-|:::|||:::|:::|:::|  Hon Sing Mountain Village Cable Car  ||:::|
+|:::|||:::|Hong Sing Mountain Base\\ 寒星山腳|:::|  [[lrt_804|{{804.png?40&direct}}]]  ||3 November 2023|
+|:::|||:::|:::|:::|  Hong Sing Mountain Village Cable Car  ||:::|
 |:::|||:::|Casper Lake\\ 急蛇湖|Kallos|  [[lrt_804|{{804.png?40&direct}}]]  ||2 November 2022|
 |:::|||:::|Mou Lun\\ 霧巒|:::|:::||:::|
 |  @#FDA4BA:{{wd.png?7&direct}}  |||:::|Light Rail Depot\\ 輕鐵車廠|:::|  [[lrt_492|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_810|{{810.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
