@@ -35,7 +35,7 @@
 
 **Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 and QLR North Coast Line. 
 
-The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the red colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of WLT Line 1 Phase 1((Magenta mixing with yellow forms red)).
+The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of WLT Line 1 Phase 1((Magenta mixing with yellow forms red)).
 
 ===== History =====
 
