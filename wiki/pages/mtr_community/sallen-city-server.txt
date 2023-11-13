@@ -1,4 +1,4 @@
-====== Server - The City of Sallen [WIP, APACHE + AGENTDEVV WIP DO NOT TOUCH] ======
+====== Server - The City of Sallen [WIP] ======
 
 The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023.
 
@@ -182,4 +182,10 @@ ApacheRail's development was split into phases, with a total of 9 phases before 
 ApacheRail featured a unique feature that no other company utilized: Custom Announcements. These were used on the W, X, Y, and Z lines before they were phased out on the V line.
 
 In Early-August, proposals were created to expand ApacheRail to handle higher capacity, creating 4 more phases. Phase 6 proposed an extension North of Great Plains to Winstree, served by the proposed U and Z lines.
+
+===== ApacheRail (New) =====
+
+//Not to be confused with ApacheRail (SMT)//
+
+WIP
 
