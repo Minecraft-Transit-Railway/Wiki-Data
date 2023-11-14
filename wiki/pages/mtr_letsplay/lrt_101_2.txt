@@ -1,9 +1,9 @@
-======Lilac Light Rail Route 101/102======
-**Lilac Light Rail Route 101/102** (Chinese: **麗蓮輕鐵101/ 102綫**) are 2 circular routes jointly owned by Qingli Railways and [[lilypad_rail]], set up in Eden area, mainly connecting transit hubs within the Eden area, but not stop at Eden stop. Routes 101 and 102 are actually the same route, but in different directions. Route 101 is in clockwise direction; while Route 102 is in anti-clockwise direction. 
+======Lilac Light Rail Route 102/101======
+**Lilac Light Rail Route 101/102** (Chinese: **麗蓮輕鐵102/ 101綫**) are 2 circular routes jointly owned by Qingli Railways and [[lilypad_rail]], set up in Eden area, mainly connecting transit hubs within the Eden area, but not stop at Eden stop. Routes 101 and 102 are actually the same route, but in different directions. Route 101 is in clockwise direction; while Route 102 is in anti-clockwise direction. Route 101 is discontinued since the full operation of [[lrt_814|route 801P]].
 <WRAP right>
-^  <html><font size = "4">Lilac Light Rail Route 101/102</font></html>\\ <html><font size = "4">麗蓮輕鐵101/ 102綫</font></html>  ^^
-|@#4CEDD3:||
+^  <html><font size = "4">Lilac Light Rail Route 102/101</font></html>\\ <html><font size = "4">麗蓮輕鐵102/ 101綫</font></html>  ^^
 |@#4D4BEE:||
+|@#4CEDD3:||
 |  {{101_scrn.png?300&direct}}  ||
 ^  Overview  ^^
 |**Operate location**|Eden|
@@ -17,11 +17,12 @@
 |**Number of stations**|4|
 |**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
 |**Electrification**|750 DC Third Rail|
-|**Depot**|Kallos Light Rail Depot|
-|**Rolling stock**|Railway Vision MPL 85|
+|**Depot**|Eden Light Rail Depot|
+|**Rolling stock**|Light Rail Phase I|
 |**Number of cars**|2|
 ^  Service  ^^
 |**Opened**|20 August 2022, 1 year ago|
+|**Discontinued**|(101) 8 November 2023| 
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
 </WRAP>
@@ -35,20 +36,22 @@ On 15 November 2022, MPL 85 trains start to run on this route. The original Ligh
 
 According to "Lilac Light Rail Reform Plan 2023", Route 101 will be removed when [[lrt_801|route 801P]] goes into operation, as it’s use can be replaced by alternate transportation methods. Route 102 will be kept to service some important connections. The MPL 85 trains are planned to be replaced by Light Rail Phase 1 trains with CLR livery. The MPL 85 trains will be moved to run on Sei Mei APM.
 
+On 8 November 2023, as [[lrt_814|route 814]] went fully operational, 101 is removed. At the same time, the Railway Vision MPL 85 train in route 102 is changed to Centown Livery Light Rail Phase I.
+
 =====Stations=====
-^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
-|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #4CEDD3 , #4D4BEE)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 101/102</b></p></font></div></body></html>  ||||||
-|  @#FEFCE5:\\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Yi Sin\\ 伊茜|Kallos|  [[lrt_801|{{801.png?40&direct}}]]  ||20 August 2022|
-|:::|Yi Lok\\ 伊樂|:::|  [[lrt_801|{{801.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
-|:::|Yi Yao\\ 伊瑤|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_115|{{115.png?40&direct}}]]  ||:::|
-|:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
-|:::|Izu\\ 伊茲|:::|  [[lrt_115|{{115.png?40&direct}}]]  ||:::|
-
+^ ^  Fare\\ Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#EEEEEE:<html><head><style>#grad1 {height:22px;background-image: linear-gradient(to right, #4D4BEE , #4CEDD3)}</style></head><body><div id="grad1"><font color="white"; size="3.5"><b>Lilac Light Rail Route 102/101</b></p></font></div></body></html>  |||||||
+|  @#4D4BEE:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |  @#FEFCE5:\\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  |Yi Sin\\ 伊茜|Kallos|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||20 August 2022|
+|  @#4D4BEE:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |:::|Yi Lok\\ 伊樂|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|  Yi Lok  |  <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>  |:::|
+|  @#4D4BEE:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |:::|Yi Yao\\ 伊瑤|:::|  [[lrt_115|{{115.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||:::|
+|:::|:::|:::|:::|  Yi Yao  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|  @#4D4BEE:{{wd.png?7&direct}}\\ <color white>**<html><font size = "4">↓</font></html>**</color>  |:::|Izu\\ 伊茲|:::|  [[lrt_115|{{115.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||:::|
 =====Independent Sections=====
-- Track section between Yi Sin and Izu
+- Track section from Yi Sin to Izu
+\\ - Track section from Yi Lok to Yi Yao
 
-=====Fare Zones of stations along route 101/102=====
-- <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Yi Lok ⇄ Izu ⇄ Yi Lok
-\\ Route 101/102 can meet up with other light rail routes: 115, 801
+=====Fare Zones of stations along route 102=====
+- <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Yi Lok -> Yi Yao -> Yi Lok
+\\ Route 102 can meet up with other light rail routes: 115, 801, 801P
 
