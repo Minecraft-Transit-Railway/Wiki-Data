@@ -9,7 +9,7 @@
 | TMT Complex, Mayrowe-Anemone ||
 | **Transit type** | Overground Trains |
 | **Train models** | 3 |
-| **Number of lines** | 2 |
+| **Active lines** | 2 |
 </WRAP>
 
 ===== Info =====
