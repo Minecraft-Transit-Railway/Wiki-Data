@@ -9,7 +9,7 @@
 | **Transit type** | Light Rail |
 | ::: | Overground Train |
 | **Train models** | 4 |
-| **Number of lines** | 3 |
+| **Active lines** | 3 |
 </WRAP>
 
 ===== Info =====
