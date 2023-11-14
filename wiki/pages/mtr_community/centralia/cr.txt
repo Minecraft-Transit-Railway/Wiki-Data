@@ -8,8 +8,8 @@
 | **Based at** | Sendai Tower |
 | **Transit type** | Overground Trains |
 | ::: | High-speed Trains |
-| **Train models** | 5 |
-| **Number of lines** | 9 |
+| **Train models** | 7 |
+| **Active lines** | 10 |
 </WRAP>
 
 ===== Info =====
@@ -24,10 +24,12 @@
 |  @#FC211A:Denham Line  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:bowerstonemillfields|Bowerstone Millfields]]  |
 |  :::  |  Only in EOD  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:kannagan|Kannagan]]  |
 |  @#FC211D:Eastern Mainline  |  Operational  |  [[mtr_community:centralia:stations:greatcentral|Great Central]]  |  [[mtr_community:centralia:stations:foxborough|Foxborough]]  |
+|  @#FC212E:Foscott Line  |  Demolished  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:foscott|Foscott]]  |
 |  @#FC211D:Hibiki Express  |  Operational  |  [[mtr_community:centralia:stations:greatcentral|Great Central]]  |  [[mtr_community:centralia:stations:hibikinewtown|Hibiki New Town]]  |
 |  @#FC212C:Island Line  |  Operational  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |  [[mtr_community:centralia:stations:crimoniaisland|Crimonia Island]]  |
 |  :::  |  Abandoned  |  [[mtr_community:centralia:stations:banksheath|Banks Heath]]  |  [[mtr_community:centralia:stations:crimoniaisland|Crimonia Pier]]  |
 |  @#FC212D:Kannagan Shuttle  |  Only in EOD  |  [[mtr_community:centralia:stations:busley|Busley]]  |  [[mtr_community:centralia:stations:kannagan|Kannagan]]  |
+|  @#FC211E:Maids Moreton Line  |  Replaced  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:maidsmoreton|Maids Moreton]]  |
 |  @#FC211D:Outer Centralia Line  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:kannagan|Kannagan]]  |
 |  :::  |  Only in EOD  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:bowerstonemillfields|Bowerstone Millfields]]  |
 |  @#FC211D:Southern Mainline  |  Operational  |  [[mtr_community:centralia:stations:greatcentral|Great Central]]  |  [[mtr_community:centralia:stations:bremertontown|Bremerton Town]]  |
