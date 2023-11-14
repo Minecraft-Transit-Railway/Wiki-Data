@@ -48,6 +48,7 @@
 |  CR MLR (CRE)  |  @#FC211D:Hibiki Express  |  Hibiki New Town Sidings  |
 |  CR MLR (NSE)  |  @#FC211D:Eastern Mainline  |  Telford North Siding  |
 |  :::  |  @#FC211D:Southern Mainline  |  Bremerton Town Siding  |
+|  LU 1995 Stock (NSE)  |  @#FB211D:Central & Junction Line  |  Bank Street Siding  |
 
 
 ===== Screenshots =====
