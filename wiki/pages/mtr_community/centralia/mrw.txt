@@ -19,7 +19,7 @@
 ===== Lines =====
 
 |  @#FF7F00: **Line Name**  |  @#FF7F00: **Status**  |  @#FF7F00: **Starting Station**  |  @#FF7F00: **Terminus Station**  |
-|  @#4D77CB:Trident Line West Tooth  |  Incomplete  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
+|  @#4D77CB:Trident Line West Tooth  |  Planned  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
 |  @#4D77CB:Trident Line Central Tooth  |  Operational  |  [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
 |  @#4D77CB:Trident Line East Tooth  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:lendertonisland|Lenderton Island]]  |
 |  @#0098D8:Eula Line (Stopper)  |  Operational  |  [[mtr_community:centralia:stations:anemonebay|Anemone Bay]]  |  [[mtr_community:centralia:stations:astley|Astley]]  |
@@ -28,7 +28,7 @@
 ===== Fleet =====
 
 |  @#FF7F00:**Train Model**  |  @#FF7F00:**Operating on**  |  @#FF7F00:**Depot Location**  |
-|  LU 1996 Stock (Eula Line)  |  @#0098D8:Eula Line (Stopper)  |  TMT Complex Sidings  |
+|  LU 1995 Stock (Eula Line)  |  @#0098D8:Eula Line (Stopper)  |  TMT Complex Sidings  |
 | ::: |  @#0098D8:Eula Line (Express)  | ::: |
 |  CR Class 508 (Trident Line)  |  Returned to CR  ||
 |  MRW Class 378  |  @#4D77CB:Trident Line  |  TMT Complex Depot  |
