@@ -8,12 +8,12 @@
 | **Based at** | Evesham |
 | **Transit type** | Light Rail |
 | **Train models** | 1 |
-| **Number of lines** | 4 |
+| **Active Lines** | 4 |
 </WRAP>
 
 ===== Info =====
 
-The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be confused with  Centrewest Buses), is a light rail operator in Western Centralia operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the [[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]], RCC Tramways had its system completely demolished and reworked from the ground up. The [[mtr_community:centralia:centrewest|The Centrewest Light Railway]] consists of four routes, which all meet at [[mtr_community:centralia:stations:hibiki|Hibiki]] station. The [[mtr_community:centralia:centrewest:greenroute|Green Route]], due to its path, runs two services, one between the depot at Gull Ruins to [[mtr_community:centralia:stations:headstone|Headstone]], and one between [[mtr_community:centralia:stations:headstone|Headstone]] and [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]].
+The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be confused with  Centrewest Buses), is a light rail operator in Western [[mtr_community:centralia|Centralia]] operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the [[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]], RCC Tramways had its system completely demolished and reworked from the ground up. The [[mtr_community:centralia:centrewest|The Centrewest Light Railway]] consists of four routes, which all meet at [[mtr_community:centralia:stations:hibiki|Hibiki]] station. The [[mtr_community:centralia:centrewest:greenroute|Green Route]], due to its path, runs two services, one between the depot at Gull Ruins to [[mtr_community:centralia:stations:headstone|Headstone]], and one between [[mtr_community:centralia:stations:headstone|Headstone]] and [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]].
 
 ===== Lines =====
 
@@ -25,7 +25,7 @@ The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be c
 |  @#FAEC90:Centrewest Yellow Route  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
 |  @#DA3443:RCC 1  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
 |  @#800200:<color white>RCC 2</color>   |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
-|  @#0092FF:AILR B1  |  Permanently Suspended  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#0092FF:AILR B1  |  Replaced  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
 |  @#0092FF:AILR B2  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
 
 ===== Fleet =====
