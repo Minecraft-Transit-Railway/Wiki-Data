@@ -9,7 +9,7 @@ The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_co
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:agentdevv|agentdevv]] |
 | **Transit type** | All |
-| **Number of companies** | 11 |
+| **Number of companies** | 10 |
 | **Real-Life Inspiration** | [[wp>New_York_City|New York City]] |
 
 </WRAP>
