@@ -10,7 +10,7 @@
 | **Transit type** | Underground Trains |
 | ::: | Overground Trains |
 | **Train models** | 8 |
-| **Number of lines** | 6 |
+| **Active lines** | 6 |
 
 </WRAP>
 
