@@ -48,7 +48,7 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 |:::|Purple Leaves\\ 紫葉|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||:::|
 |:::|New Red Leaves\\ 新紅葉|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  New Red Leaves  |  <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>  |:::|
-|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Spruce Forest\\ 杉木林|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801.png?40&direct}}]]  ||20 August 2022|
+|  @#F7D0C9:\\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Spruce Forest\\ 杉木林|:::|  [[lrt_801|{{801.png?40&direct}}]] [[lrt_814|{{801p.png?40&direct}}]]  ||20 August 2022|
 |:::|Puketeraki\\ 普基帝拉基|Toitoi|  [[lrt_802|{{802.png?40&direct}}]]  ||10 September 2022|
 |  @#B9E0ED:\\ \\ \\ \\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  |Toitoi\\ 泰太|:::|  [[lrt_762|{{762.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]]  ||:::|
 |:::|:::|:::|  Toitoi  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>  |:::|
@@ -59,7 +59,7 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 |- {{blau_lrt.png?40&direct}} : **Blau LRT**\\ - {{schwarzlr.png?40&direct}} : **Schwarz LRT**||||||
 </WRAP>
 =====Fare Zones=====
-- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Spruce Forest ⇄ Puketeraki\\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Ishima ⇄ New Red Leaves\\ - <color /#CD378D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2A: Winry\\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Hot Springs\\ Route 115 can meet up with other routes: 101, 102, 762, 801, 802
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Spruce Forest ⇄ Puketeraki\\ - <color /#E7893F><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2: Ishima ⇄ New Red Leaves\\ - <color /#CD378D><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 2A: Winry\\ - <color /#017DBA><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 3: Toitoi ⇄ Hot Springs\\ Route 115 can meet up with other routes: 101, 102, 762, 801, 801P, 802
 =====Independent Sections=====
 - Track section between Spruce Forest and Puketeraki
 \\ - Track section between Yi Yao and Winry
@@ -78,7 +78,7 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 ^  Technical  ^^
 |**Character**|At-grade\\ Underground|
 |**Maximum speed**|60km/h|
-|**Number of stations**|13|
+|**Number of stations**|4|
 |**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
 |**Electrification**|750 DC Third Rail|
 |**Depot**|Yi Long Depot|
