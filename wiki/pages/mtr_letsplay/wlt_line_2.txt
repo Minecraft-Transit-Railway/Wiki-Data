@@ -66,7 +66,9 @@ Before the line is fully ready, a special shuttle service already started betwee
 
 Similar to WLT Line 1, since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 
 
-Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, cyanex livery C-Train is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB traction instead of CRRC Times tpower-tn3 traction or Alstom Optonix traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
+There are also 1 set of M-Train and 3 sets of K-Train has started serving passengers. 
+
+Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, cyanex livery C-Train is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix// traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
 
 ===== Operations =====
 
