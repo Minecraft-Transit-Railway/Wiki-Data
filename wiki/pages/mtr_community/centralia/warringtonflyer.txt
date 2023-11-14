@@ -8,7 +8,7 @@
 | **Based at** | Sendai Tower, Floor 37 |
 | **Transit type** | Underground APM |
 | **Train models** | 1 |
-| **Number of lines** | 3 |
+| **Active lines** | 3 |
 </WRAP>
 
 ===== Info =====
