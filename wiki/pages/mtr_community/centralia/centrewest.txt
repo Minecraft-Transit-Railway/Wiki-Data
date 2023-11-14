@@ -8,7 +8,7 @@
 | **Based at** | Evesham |
 | **Transit type** | Light Rail |
 | **Train models** | 1 |
-| **Active Lines** | 4 |
+| **Active lines** | 4 |
 </WRAP>
 
 ===== Info =====
