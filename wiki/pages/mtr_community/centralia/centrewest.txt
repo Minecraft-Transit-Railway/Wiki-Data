@@ -18,25 +18,28 @@ The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be c
 ===== Lines =====
 
 |  @#0008AC: <color white>**Line Name**</color>  |  @#0008AC: <color white>**Status**</color>  |  @#0008AC: <color white>**Starting Station**</color>  |  @#0008AC: <color white>**Terminus Station**</color>  |
-|  @#FF5656:Centrewest Red Route  |  Operational  |  [[mtr_community:centralia:stations:evesham|Evesham]]  |  [[mtr_community:centralia:stations:armourcitywest|Armour City West]]  |
-|  @#0008AC:<color white>Centrewest Blue Route</color>  |  Operational  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
-|  @#6FFF82:Centrewest Green Route  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Operational  |  [[mtr_community:centralia:stations:evesham|Evesham]]  |  [[mtr_community:centralia:stations:armourcitywest|Armour City West]]  |
+|  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Operational  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
 |  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
-|  @#FAEC90:Centrewest Yellow Route  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
-|  @#DA3443:RCC 1  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
-|  @#800200:<color white>RCC 2</color>   |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
-|  @#0092FF:AILR B1  |  Replaced  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
-|  @#0092FF:AILR B2  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
+|  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
+|  @#DA3443:[[mtr_community:centralia:abandoned:rcca1|RCC A1]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
+|  @#800200:[[mtr_community:centralia:abandoned:rcca2|RCC A2]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
+|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B1]]  |  Replaced  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B2]]  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
 
 ===== Fleet =====
 
 |  @#0008AC: <color white>**Train Model**</color>  |  @#0008AC: <color white>**Operating on**</color>  |  @#0008AC: <color white>**Depot Location**</color>  |
-|  CLR B90 (Centrewest)  |  @#FF5656:Centrewest Red Route  |  Evesham Light Rail Depot  |
-|  :::  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
-|  :::  |  @#FAEC90:Centrewest Yellow Route  |  Gull Ruins Sidings  |
-|  CLR B90 (Centrewest Lightblue)  |  @#0008AC:<color white>Centrewest Blue Route</color>  |  Old Kent Docks Depot  |
-|  CLR B90 (AILR)  |  @#0008AC:<color white>Centrewest Blue Route</color>  |  Old Kent Docks Depot  |
-|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+|  CLR B90 (Centralia)  |  Unused  ||
+|  CLR B90 (Centrewest)  |  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Evesham Light Rail Depot  |
+|  :::  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
+|  :::  |  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Gull Ruins Sidings  |
+|  CLR B90 (Lightblue)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
+|  CLR B90 (AILR)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
+|  CLR B90 (RCC)  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
+|  RCC LRT  |  Scrapped  ||
+|  AILR LRT  |  Unused  |  ???  |
 
 
 ===== Screenshots =====
