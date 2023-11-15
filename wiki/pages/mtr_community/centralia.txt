@@ -9,9 +9,12 @@
 | **Creator** | [[mtr_community:vakarain|Vako]] |
 | **Project Director** | [[mtr_community:szandorthe13th|szandorthe13th]] |
 | **Transit type** | All |
-| **Style/Inspiration** | British, Japanese, American, (Dutch) |
-| **Number of railway operators** | 6 |
-| **Number of lines** | 32 |
+| **Style/Inspiration** | British |
+| ::: | Japanese |
+| ::: | American |
+| ::: | Dutch |
+| **Transport Operators** | 6 |
+| **Active lines** | 32 |
 </WRAP>
 
 ==== History ====
