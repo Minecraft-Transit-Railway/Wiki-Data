@@ -7,7 +7,7 @@
 | **Owner** | Public |
 | **Based at** | Rhosyngardd |
 | **Transit type** | Light Rail |
-| ::: | Overground Train |
+| ::: | Overground Trains |
 | **Train models** | 4 |
 | **Active lines** | 3 |
 </WRAP>
@@ -19,18 +19,18 @@ The [[mtr_community:centralia:rcc|Rhosyngardd City Council]] is a Open Access Ra
 ===== Lines =====
 
 |  @#800021: <color white>**Line Name**</color>  |  @#800021: <color white>**Status**</color>  |  @#800021: <color white>**Starting Station**</color>  |  @#800021:<color white>**Terminus Station**</color>  |
-|  @#800021: <color white>Rhosyngardd Express</color>  |  Operational  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
-|  @#800021: <color white>Rhosyngardd Palace Line</color>  |  Operational  |  [[mtr_community:centralia:stations:rhosyngarddpalace|Rhosyngardd Palace]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
-|  @#6FFF82:Centrewest Green Route  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#800021:[[mtr_community:centralia:rcc:rhosyngarddexpress|Rhosyngardd Express]]  |  Operational  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#800021:[[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]]  |  Operational  |  [[mtr_community:centralia:stations:rhosyngarddpalace|Rhosyngardd Palace]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
 |  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
 
 ===== Fleet =====
 
 |  @#800021: <color white>**Train Model**</color>  |  @#800021: <color white>**Operating on**</color>  |  @#800021: <color white>**Depot Location**</color>  |
-|  BR Class 377  |  @#800021:<color white>Rhosyngardd Express</color>  |  Tachyon Street Siding  |
-|  S43-Tec LRT 2002  |  @#800021:<color white>Rhosyngardd Palace Line</color>  |  Rhosyngardd Palace Siding  |
-|  Innovia APM 100  |  Scrapped  ||
-|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+|  RCC Class 377  |  @#800021:[[mtr_community:centralia:rcc:rhosyngarddexpress|Rhosyngardd Express]]  |  Tachyon Street Siding  |
+|  S43-Tec LRT 2002  |  @#800021:[[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]]  |  Rhosyngardd Palace Siding  |
+|  APM 100 (RCC)  |  Scrapped  ||
+|  CLR B90 (RCC)  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
 
 
 ===== Screenshots =====
