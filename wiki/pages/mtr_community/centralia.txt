@@ -30,6 +30,9 @@ The City of [[mtr_community:centralia|Centralia]] originally started out as Cent
 {{:mtr_community:centrewest_3_wide.png?50}} [[mtr_community:centralia:centrewest|Centrewest]]
 {{:mtr_community:mosyzan_logo.png?50}} [[mtr_community:centralia:mrw|Moszyan Railways]]
 
+==== Stations ====
+The stations table has its own page, click **[[mtr_community:centralia:stations|here]]** to view it.
+
 ==== The System ====
 === Szandor's Centraliaverse ===
 {{:mtr_community:centralia_cr_map.png?1000|}}
