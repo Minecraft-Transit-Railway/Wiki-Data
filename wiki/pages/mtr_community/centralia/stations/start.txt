@@ -1,0 +1,7 @@
+====== Stations ======
+
+The table below is planned to contain all stations past and present in [[mtr_community:centralia|Centralia]]. It will show all stations that currently have a wiki page ready.
+
+|  @#04388B: <color white>**Station Name**</color>  |  @#04388B: <color white>**Code**</color>  |  @#04388B: <color white>**State**</color>  |
+|  Example  |  XXX  |  Example  |
+
