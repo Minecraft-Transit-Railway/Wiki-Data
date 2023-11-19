@@ -1,2 +1,9 @@
 ====== PÄRAIL ======
-**PäRail** is a Quasi-Nationalized Mühävian Railway Network
+<WRAP right>
+|  @#900000: <color #FFFFFF>**PäRail**</color>  ||
+| **Operators** | 8 |
+| **Transit type** | Intercity, Regional, High Speed. |
+| **Founding** | 1994 |
+</WRAP>
+
+**PäRail** is a Quasi-Nationalized Mühävian Railway Network. It is Split into Mulbible Operators. It was formed in 1994 in the Downfall of Mühävian Railways. There are 8 Operators and Provides it's own High Speed and Freight Services
