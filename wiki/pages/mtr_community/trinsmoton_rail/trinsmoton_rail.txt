@@ -2,11 +2,13 @@
 
 |  @#E00000: <color #FFFFFF>**Trinsmoton Rail**</color>  ||
 | {{:mtr_community:trinsmoton_rail:trinsmotonrail.png?200x100|Trinsmoton Rail Logo}}  ||
+|↑ Trinsmoton Rail Logo||
 | **Sectors** | 2 |
 | **Sector names** | Regional, High Speed |
 | **Founded** | 1956 |
 | **Total Operators** | 8 |
-
+| {{:mtr_community:trinsmoton_rail:trinsmotonrail.png?200x100|Trinsmoton Rail Logo}}  ||
+|↑ Regional Logo||
 </WRAP>
 
 ====== Trinsmoton Rail ======
