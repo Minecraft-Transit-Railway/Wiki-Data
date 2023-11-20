@@ -1,0 +1,10 @@
+<WRAP right>
+
+|  @#FF0000: <color #FFFFFF>**New Croydon Transit Railway**</color>  ||
+| {{ :mtr_community:trinsmoton_rail:nctr.png?222x180 |Trinsmoton Rail Logo}}  ||
+| ↑ NCTR Logo ||
+| **Routes** | 1 |
+| **Founded** | 1982 |
+
+</WRAP>
+
