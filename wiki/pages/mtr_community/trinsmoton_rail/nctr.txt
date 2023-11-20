@@ -19,7 +19,8 @@
 
 <WRAP right>
 
-e{{:mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_18.34.13.png?200x400}}
+|{{:mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_18.34.13.png?200x400}}|
+|Lorem Ipsum Line map, taken at Ocean Bay|
 
 </WRAP>
 
