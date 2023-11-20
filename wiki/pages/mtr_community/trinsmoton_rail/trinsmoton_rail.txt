@@ -1,0 +1,17 @@
+<WRAP right>
+
+|  @#E00000: <color #FFFFFF>**Trinsmoton Rail**</color>  ||
+| {{:mtr_community:trinsmoton_rail:trinsmotonrail.png?200x100|Trinsmoton Rail Logo}}  ||
+| **Sectors** | 2 |
+| **Sector names** | Regional, Fast |
+| **Founded** | 1956 |
+| **Total Operators** | 8 |
+
+</WRAP>
+
+====== Trinsmoton Rail ======
+
+The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]]
+
+====== Regional ======
+
