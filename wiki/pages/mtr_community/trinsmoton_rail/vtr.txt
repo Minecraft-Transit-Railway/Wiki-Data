@@ -1,6 +1,6 @@
 <WRAP right>
 
-|  @#FF0000: <color #FFFFFF>**Vexton Transit Railway**</color>  ||
+|  @#6600FF: <color #FFFFFF>**Vexton Transit Railway**</color>  ||
 | {{ :mtr_community:trinsmoton_rail:vtrrail.png?237x168 |Trinsmoton Rail Logo}}  ||
 | ↑ VTR Logo ||
 | **Sectors** | [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway|VTR]], [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]] |
