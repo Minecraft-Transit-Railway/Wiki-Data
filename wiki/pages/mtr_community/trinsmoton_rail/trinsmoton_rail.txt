@@ -11,9 +11,13 @@
 
 ====== Trinsmoton Rail ======
 
-The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail:trinsmoton_rail#High Speed|High Speed]]
+The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail:trinsmoton_rail#High Speed|High Speed]]. The company will serve the Eastern Region of Trinsmoton as the other routes around Trinsmoton are currently operated by seperate transport companies.
 
 ====== Regional ======
 
+**Regional **is a sector of Trinsmoton Rail, serving all stations around the east Trinsmoton.
+
 ====== High Speed ======
+
+**High Speed **is a sector of Trinsmoton Rail, it's a faster varient of [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] as it doesn't stop at rural areas or villages.
 
