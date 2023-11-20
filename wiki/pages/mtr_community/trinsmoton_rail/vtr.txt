@@ -3,6 +3,7 @@
 |  @#FF0000: <color #FFFFFF>**Vexton Transit Railway**</color>  ||
 | {{ :mtr_community:trinsmoton_rail:vtrrail.png?237x168 |Trinsmoton Rail Logo}}  ||
 | ↑ VTR Logo ||
+| **Sectors** | [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway|VTR]], [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]] |
 | **Routes** | 1 (Proposed) |
 | **Founded** | 2012 |
 | {{ :mtr_community:trinsmoton_rail:croydonrail.png?211x172 |Trinsmoton Rail Logo}}  ||
@@ -18,13 +19,22 @@ The **Vexton Transit Railway (VTR)** is a public transport company in Trinsmoton
 
 ====== Croydon Railway ======
 
-VTR began its life as **Croydon Railway (CR)**, which ran from Spawn to Jungle Wood. Following refurbishment of the company, the route was sold to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] for 20 motons.
+VTR began its life as **Croydon Railway (CR)**, now a defunct sector which ran from Spawn to Jungle Wood. Following refurbishment of the company, the route was sold to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] for 20 motons.
 
 ====== Vexton Transit Railway Crossrail ======
 
-The **VTR Crossrail** is a company also managed by VTR and is made for crossrail lines.
+The **VTR Crossrail** is a sector of VTR and connects different places of the Northern Region of Trinsmoton.
 
 ====== Centrelink ======
 
 **Centrelink** as of now is not constructed or has began constructed but it is a crossrail line that will run North to South and the branches will split off to East and the West.
+
+====== Rolling Stock ======
+
+| **Current Rolling Stock** |||||
+| **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 323]]** |   | **100mph (160km/h)** | **9** | **VTR Crossrail** |
+| **Former Rolling Stock** |||||
+| **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 377]]** | {{:mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?166x141}}  | **100mph (160km/h)** | **5** | **Croydon Rail** |
 
