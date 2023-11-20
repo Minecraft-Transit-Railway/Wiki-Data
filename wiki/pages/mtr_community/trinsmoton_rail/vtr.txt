@@ -33,8 +33,8 @@ The **VTR Crossrail** is a sector of VTR and connects different places of the No
 
 | **Current Rolling Stock** |||||
 | **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
-| **[[mtr_community:trinsmoton_rail:class323|Class 323]]** |   | **100mph (160km/h)** | **9** | **VTR Crossrail** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 323]]** |   | **100mph (160km/h)** | **9** | **[[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]]** |
 | **Former Rolling Stock** |||||
 | **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
-| **[[mtr_community:trinsmoton_rail:class323|Class 377]]** | {{:mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?166x141}}  | **100mph (160km/h)** | **5** | **Croydon Rail** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 377]]** | {{:mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?166x141}}  | **100mph (160km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Croydon Railway|Croydon Rail]]** |
 
