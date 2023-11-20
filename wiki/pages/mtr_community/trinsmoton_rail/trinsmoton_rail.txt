@@ -25,14 +25,26 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 **High Speed **is a planned sector of Trinsmoton Rail, it will be a faster varient of [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] as it doesn't stop at any rural areas or villages unlike Regional.
 
 ====== Other operators ======
+
 [[mtr_community:trinsmoton_rail:vtr|Vexton Transit Railway]]
+
 [[mtr_community:trinsmoton_rail:nctr|New Croydon Transit Railway]]
-[[mtr_community:trinsmoton_rail:northern|Northern Rail]]
-[[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Rail]]
-[[mtr_community:trinsmoton_rail:underground|Underground]]
-[[mtr_community:trinsmoton_rail:overground|Overground]]
+
+ [[mtr_community:trinsmoton_rail:northern|Northern Rail]]
+
+ [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Rail]]
+
+ [[mtr_community:trinsmoton_rail:underground|Underground]]
+
+ [[mtr_community:trinsmoton_rail:overground|Overground]]
+
 [[mtr_community:trinsmoton_rail:zr|ZenRail]]
-[[mtr_community:trinsmoton_rail:trams|Trams]]
-[[mtr_community:trinsmoton_rail:cablecar|CableCar]]
+
+ [[mtr_community:trinsmoton_rail:trams|Trams]]
+
+ [[mtr_community:trinsmoton_rail:cablecar|CableCar]]
+
 [[mtr_community:trinsmoton_rail:riverferries|River Ferries]]
-[[mtr_community:trinsmoton_rail:buses|Buses]]
+
+ [[mtr_community:trinsmoton_rail:buses|Buses]]
+
