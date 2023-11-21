@@ -3,7 +3,7 @@
 |  @#FF0000: <color #FFFFFF>**New Croydon Transit Railway**</color>  ||
 | {{ :mtr_community:trinsmoton_rail:nctr.png?222x180 |Trinsmoton Rail Logo}}  ||
 | ↑ NCTR Logo ||
-| **Routes** | 1 |
+| **Routes** | 2 |
 | **Founded** | 1982 |
 
 |{{:mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_18.34.13.png?200x400}}|
@@ -13,7 +13,7 @@
 
 ====== NCTR ======
 
-**New Croydon Transit Railway (NCTR) **is a long distance rapid transit system serving mostly the southern region of Trinsmoton. It currently has 1 line open: Lorem Ipsum Line, which takes passengers from Ocean Bay to the Sierra District.
+**New Croydon Transit Railway (NCTR) **is a long distance rapid transit system serving mostly the southern region of Trinsmoton.
 
 ====== Rolling Stock ======
 
