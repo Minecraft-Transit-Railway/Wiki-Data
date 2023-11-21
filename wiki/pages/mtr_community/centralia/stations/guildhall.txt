@@ -1,0 +1,23 @@
+====== Guildhall ======
+
+The station at the [[mtr_community:centralia:stations:guildhall|Guildhall]] is one of the older, but yet more unique-looking stations on the map. It is the first station the player encounters when they first launch the world, as the spawn is set to the [[mtr_community:centralia:stations:guildhall|Guildhall]] itself, with the station located just outside it. The station lives in the shadow of the Centralia [[mtr_community:centralia:stations:guildhall|Guildhall]] which was the main defense during the Dragon Era, today it's a museum. At first, the station was just a simple overpass with stairs down to two platforms, but the station was completely overhauled in v1.1.5, when the [[mtr_community:centralia:cmr:sendailine|Sendai Line]] was extended into new underground platforms and a bus loop was added.
+The station building is very loosely based off Park Royal Station.
+
+<WRAP right>
+|  @#DC211F: **Guildhall**  ||
+|  {{ guildhall.png?300 }}//Guildhall station in its current state//  ||
+|  {{ guildhallold.png?300 }}//Guildhall station prior to the big overhaul//  ||
+|  @#DC211F: **Information**  ||
+|  **County/Area**  |  **Station Code**  |
+|  Warden  |  GLH  |
+|  **Orientation**  |  **Platforms**  |
+|  W/E + N/S  |  4  |
+</WRAP>
+
+==== Platform Information ====
+|  @#DC211F: **Platform**  |  @#DC211F: **Service Direction**  |  @#DC211F: **Line(s)**  |  @#DC211F: **Next Station(s)**  ||
+|  1  |  West  |  @#FC212C:[[mtr_community:centralia:cr:islandline|Island Line]]  |  Denham Road  ||
+|  2  |  East  |  @#FC212C:[[mtr_community:centralia:cr:islandline|Island Line]]  |  Banks Heath  ||
+|  3  |  North  |  @#FF6700:[[mtr_community:centralia:cmr:sendailine|Sendai Line]]  |  Rhodes  ||
+|  4  |  South  |  @#FF6700:[[mtr_community:centralia:cmr:sendailine|Sendai Line]]  |  Sendai Tower  ||
+|  A  |  North  |  @#DEDEDE:[[mtr_community:centralia:buses:route45|Bus Line 45]]  |  Guildhall Road  |  Warden Valley  |
