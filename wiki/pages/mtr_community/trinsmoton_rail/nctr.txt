@@ -19,3 +19,4 @@
 
 | **Train Class** |   | **Top Speed** | **Carriages** | **Built** |
 | **[[mtr_community:trinsmoton_rail:class_1900|Class 1900]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_17.51.17.png?354x245 |Trinsmoton Rail Logo}} | 100mph (160km/h) | 3-5 | 2000-2002 |
+| **[[mtr_community:trinsmoton_rail:class_1254|Class 1254]]** || 75mph (120km/h) | 3 | 2010 |
