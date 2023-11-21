@@ -29,6 +29,12 @@ The **VTR Crossrail** is a sector of VTR and connects different places of the No
 
 **Centrelink** as of now is not constructed or has began constructed but it is a crossrail line that will run North to South and the branches will split off to East and the West.
 
+====== Routes ======
+
+| **//Current Routes//** |||
+| **Route name** | **Route map** | **Rolling stocks** |
+| Jungle Wood Line | Spawn <-> Ocean Bay <-> Jungle Island <-> Jungle Wood | [[mtr_community:trinsmoton_rail:class377|Class 377]] |
+
 ====== Rolling Stock ======
 
 | **Current Rolling Stock** |||||
