@@ -32,4 +32,4 @@ Northern Rail was founded as part of Areeta in 2014 during the final days of Are
 | **Train Class** |   | **Top Speed** | **Carriages** |
 | **[[mtr_community:trinsmoton_rail:class357|Class 357]]** |   | **100mph (160km/h)** | **5** |
 | **[[mtr_community:trinsmoton_rail:class371|Class 371]]** |   | **100mph (160km/h)** | **5** |
-
+| **[[mtr_community:trinsmoton_rail:class158|Class 158]]** |   | **100mph (160km/h)** | **5** |
