@@ -100,7 +100,7 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
 **
   - Download Paint 3D [Because it supports transparency]
   - go to [[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/master/resources/common/normal/assets/mtr/textures/entity]] and download you´r wanted train texture
-  - open Paint 3D and select Open
+  - open Paint 3D and select Open (on Windows, on mac you can install any software that supports transparency)
   - go to you´r folder where you have saved the texture
   - start editing
   - after painting put the textures into you´r image folder in the RP
