@@ -7,8 +7,6 @@
 | **Sector names** | Regional, High Speed |
 | **Founded** | 1956 |
 | **Total Operators** | 8 |
-| {{ :mtr_community:trinsmoton_rail:trregional.png?150x150&nolink |Trinsmoton Rail Logo}}  ||
-| ↑ Regional Logo ||
 
 </WRAP>
 
