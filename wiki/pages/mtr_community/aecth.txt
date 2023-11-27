@@ -2,20 +2,14 @@
 
 <WRAP right>
 
-|  @#900000:  **Æçħ**  ||
+|  @#900000:  <color white>**Æçħ**</color>  ||
 |  {{ :mtr_community:dragon_skin.png?150 }}//Dragon's Skin//\\ //As Seen on NameMC//  ||
-|  @#900000:  **Overview**  ||
+|  @#900000:  <color white>**Overview**</color>  ||
 | **Also known as** | Dragon |
-| ::: | Aecth((
-Spelt Phenetocly
-)) |
+| ::: | Aecth((Spelled Phonetically)) |
 | ::: | Europa((WOF OC)) |
-| ::: | UsaDragon22((
-Minecraft Username
-)) |
-| **Date Joining**\\ **MTR Mod Discord** | 6 December, 2022((
-Rejoined many Times, Original Date lost to time. The Latest is shown here.
-)) |
+| ::: | UsaDragon22((Minecraft Username)) |
+| **Date Joining**\\ **MTR Mod Discord** | 6 December, 2022((Rejoined many Times, Original Date lost to time. The Latest is shown here.)) |
 | **Roles** | Resource Pack Authors |
 | ::: | Modders |
 | ::: | Train Operators |
@@ -26,15 +20,15 @@ Rejoined many Times, Original Date lost to time. The Latest is shown here.
 
 **Æçħ**, Also known as **Dragon**, Is a Resource Pack Developer known for his Medium-Quality Models. He Originates from the United states of America. He is known for being a Fan of the [[https://en.wikipedia.org/wiki/Wings_of_Fire_(novel_series)|Wings of Fire Book Series]].
 
-====== THE PÄRAIL PACK PROJECT ======
+===== The PäRail Pack Project =====
 
 The PäRail Pack((Known Shortly as the PRL Pack)) is one of Dragon's Projects. It is mainly for Mainline Railway Units.
 
-====== OUTSIDE MTR ======
+===== Outside MTR =====
 
 Dragon is Mainly known outside of MTR For his Art and Love of the Wings of Fire book Series. 
 
-====== HISTORY IN COMMUNITY ======
+===== History In Community =====
 
 **2021-The Inspiron Era**
 Dragon joined the MTR Community around May 2021, Most intonation from this era is lost, But remaining posts show the beginning of an early version of PCMA.
@@ -46,5 +40,5 @@ Along with the previous era, Information from 2022 is Limited. What's known is t
 
 **Late 2023-The Ideapad Era**
 
-====== THIS PAGE IS STILL A WORK IN PROGRESS ======
+===== THIS PAGE IS STILL A WORK IN PROGRESS =====
 
