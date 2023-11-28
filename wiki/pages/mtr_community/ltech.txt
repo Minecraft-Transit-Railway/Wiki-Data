@@ -1,9 +1,9 @@
-====== User - Ltech ======
+====== User - 1Ltech ======
 <WRAP right>
 
-|  @#1797d6: <color #FFFFFF>**1Ltech**</color>  ||
+|  @#28c700: <color #FFFFFF>**1Ltech**</color>  ||
 | {{ :mtr_community:ltech_skin.png?400 }}Ltech's avatar. Custom made by Ltech||
-|  @#1797d6: <color #FFFFFF>**Overview**</color>  ||
+|  @#28c700: <color #FFFFFF>**Overview**</color>  ||
 | **Also known as** | 1Ltech |
 | ::: | Ltech |
 | ::: | bulletbait((Ltech's OG Minecraft username)) |
@@ -18,19 +18,30 @@
 | **Nationality** | Japanese |
 | **Region** | [[https://en.wikipedia.org/wiki/Kanagawa_Prefecture|Kanagawa Prefecture/神奈川県]] |
 | ::: | [[https://en.wikipedia.org/wiki/Japan|Japan/日本]] |
+| **Faveorite Color** | <color #28c700>**Green**</color>  ||
 
 
 </WRAP>
 
 ===== About Ltech =====
-- annoying as fu-
-- Pings everyone every like 5 minutes
-- Doesnt absolutely do anything to his own server (except adding unused Plug-Ins)
-- Lives in Japan (Tokio, West of City Centre)
+- Has ADHD
+- Pings everyone in Helensburgh a lot
+- Owner of Helensburgh
+- Lives in Japan
 
 ===== LtechTown =====
 ===== Helensburgh =====
 [[mtr_community:helensburgh|Helensburgh]] was founded by Ltech on December 24th 2022, Helensburgh was the successor to LtechTown
 ===== History =====
 ===== Involvement in other projects =====
+=== Intercity ===
+Current Server Operator in Intercity, added in-game chat to Discord.
+=== Caston MTR Server | 卡斯頓地鐵伺服器 ===
+Admin in Caston since the server's opening, the second MTR server that Ltech joined.
+=== Kingsbugh ===
+Applied for builder twice and got rejected once because of "🐙", the first MTR server Ltech joined
+=== Centrallia ===
+Ltech made a thread, got banned raged the server with his army of alts, decided it was a bad idea, and stopped. Slight contribution to Vako's retirement?
+=== UCR ===
+Ltech accidentally posted an uncensored photo of a Japanese man committing suicide and got banned.
 ~~NOTOC~~
