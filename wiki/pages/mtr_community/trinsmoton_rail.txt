@@ -12,7 +12,7 @@
 
 ====== Server - Trinsmoton Rail* ======
 
-The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail:trinsmoton_rail#High Speed|High Speed]]. The company will serve the Eastern Region of Trinsmoton as the other routes around Trinsmoton are currently operated by seperate transport companies.
+The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail#High Speed|High Speed]]. The company will serve the Eastern Region of Trinsmoton as the other routes around Trinsmoton are currently operated by seperate transport companies.
 
 ====== Regional ======
 
@@ -20,7 +20,7 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
 ====== High Speed ======
 
-**High Speed **is a planned sector of Trinsmoton Rail, it will be a faster varient of [[mtr_community:trinsmoton_rail:trinsmoton_rail#Regional|Regional]] as it doesn't stop at any rural areas or villages unlike Regional.
+**High Speed **is a planned sector of Trinsmoton Rail, it will be a faster varient of [[mtr_community:trinsmoton_rail#Regional|Regional]] as it doesn't stop at any rural areas or villages unlike Regional.
 
 ====== Other operators ======
 
