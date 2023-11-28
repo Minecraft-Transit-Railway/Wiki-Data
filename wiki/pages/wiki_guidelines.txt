@@ -29,9 +29,9 @@
     * Google Drive
     * OneDrive
     * MEGA
+  - Banned users cannot make community pages.
 
-You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change. 
+You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change.
 
-For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page. 
-
+For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page.
 
