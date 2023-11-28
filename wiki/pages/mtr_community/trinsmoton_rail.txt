@@ -10,7 +10,7 @@
 
 </WRAP>
 
-====== Server - Trinsmoton Rail* ======
+====== Server - Trinsmoton Rail ======
 
 The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail#High Speed|High Speed]]. The company will serve the Eastern Region of Trinsmoton as the other routes around Trinsmoton are currently operated by seperate transport companies.
 
@@ -45,4 +45,8 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 [[mtr_community:trinsmoton_rail:riverferries|River Ferries]]
 
  [[mtr_community:trinsmoton_rail:buses|Buses]]
+
+====== Notes ======
+
+The Trinsmoton Rail sercer is currently in its test stage. This test stage is used for testing the building skills of different builders until the main server comes out. So the information may change after the release of the main server.
 
