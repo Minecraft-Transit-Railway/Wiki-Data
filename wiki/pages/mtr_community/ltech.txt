@@ -2,7 +2,7 @@
 <WRAP right>
 
 |  @#1797d6: <color #FFFFFF>**1Ltech**</color>  ||
-| {{ :mtr_community:ltech_skin.png?400 }}Ltech's avatar custom made by Ltech. The second skin||
+| {{ :mtr_community:ltech_skin.png?400 }}Ltech's avatar. Custom made by Ltech||
 |  @#1797d6: <color #FFFFFF>**Overview**</color>  ||
 | **Also known as** | 1Ltech |
 | ::: | Ltech |
