@@ -83,6 +83,8 @@ Rail, boat, cable car and airplane nodes may be obtained by crafting, and rail c
 <markdown>
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Rail Node × 32 | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Iron Block](https://minecraft.wiki/w/Block_of_Iron) + [Log](https://minecraft.wiki/w/Log)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:rail_node_recipe.png" width=200> |
@@ -134,6 +136,8 @@ Each of the rail connector items serve a different purpose.
 <markdown>
 
 
+
+
 | Rail Connector Type | Function |
 | --- | --- |
 | Wooden | Sets a passing train's speed to 20 km/h. |
@@ -147,8 +151,8 @@ Each of the rail connector items serve a different purpose.
 | Platform | <li>Creates a platform (visible on dashboard). <li>Slows a passing train to a stop if the train is set to stop at the platform. <li>Keeps a passing train at the same speed if the train is decelerating but not set to stop at the platform. |
 | Siding | <li>Creates a siding (visible on dashboard) <li> Allows trains to be spawned within it. |
 | Turnback | Allows a train to reverse in the section of a this type of rail. |
-| Cable Car | Allows cable cars to run with it. All cable car rail is one-way only. |
-| Runway | Allows an airplane to taxi or land on it. |
+| Cable Car | Allows cable cars to run with it (30 km/h). All cable car rail is one-way only. |
+| Runway | Allows an airplane to taxi or land on it (300 km/h). |
 
 </markdown>
 
@@ -183,6 +187,8 @@ Note that existing coloured signal blocks will be removed.
 The following table shows the possible configurations for two rail nodes to be connected.
 
 <markdown>
+
+
 
 
 
