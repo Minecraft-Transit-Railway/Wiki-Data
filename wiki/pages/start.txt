@@ -18,6 +18,7 @@ Welcome to the MTR wiki!
 ===== Multiplayer Servers =====
 
   * [[mtr_letsplay:start|Let's Play Server]] - the official server of the MTR mod
+  * [[mtr:mtr_community|MTR Communities]] - the other community made servers and more
 
 ===== Contributing to Wiki =====
 
