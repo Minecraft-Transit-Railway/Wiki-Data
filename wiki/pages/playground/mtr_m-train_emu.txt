@@ -58,7 +58,7 @@ Disney Resort Line units only.
 | **Track gauge** | 1432mm (and 1435mm) |
 |  **Information above are from Wikipedia and ERTHK with addition of the editor's understanding.**  ||
 |  @#999999:  **MTR mod Overview**  ||
-| **Available from** | Unknown |
+| **Available from** | 3.0.0 Beta-1 (1.12.2 Railcraft addon) |
 | ::: | %%Beta-9-unofficial-2 %%((
 Disney Resort Line units only.
 )) |
