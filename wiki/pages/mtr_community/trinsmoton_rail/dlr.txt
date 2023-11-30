@@ -1,0 +1,17 @@
+<WRAP right>
+| Devonsfield Light Railway ||
+| ||
+| **Routes** | 5 |
+| **Operated by** | Trinsmoton Transport |
+| **Stops** | 31 |
+| **Top speed** | 50mph (80km/h) |
+</WRAP>
+====== Devonsfield Light Railway ======
+**Devonsfield Light Railway (DLR)** is a light rail system that covers the central Trinsmoton.
+===== History =====
+==== Jungle Circle Line ====
+DLR started as a small budget railway around Jungle Island before the [[mtr_community:trinsmoton_rail:underground|Underground]] serves that area with Pentraolis Line. It was called the **Jungle Island Circular Light Railway**, as the line runs as a circle line. The line is now known as the Jungle Circle Line.
+==== Drypstensvagtklippe Line & Pentium and Valley Line ====
+In 1986, another light railway is being constructed. Known as the **Drypsten and Spawn LRT**. The line goes from South Drypstensvagtklippe, at that time only served by Areeta, to Spawn Railway Station, a giant rail hub. After the success of the line DSLR decided to make a smaller line that branches out from Pentium Hills East to Krille Valley, a small village located on an island nearby. The line got plenty of success and attracted the [[mtr_community:trinsmoton_rail:river|River Ferries]] to make a service from Ocean Bay to Krille Valley.
+==== Multi-biome Line ====
+In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]].
