@@ -1,7 +1,16 @@
 ====== User - levisniceguy ======
 
-
 **levisniceguy** is a Train Operator in the [[mtr:start|Minecraft Transit Railway]] discord. Joined the community on March 10th, 2023. Owner of Intercity server, from 13th of June, 2023.
+<WRAP right>
+
+|  @#000099:  <color blue>**levisniceguy**</color>  ||
+| 
+|  @#000099:  <color blue>**Overview**</color>  ||
+| **Also known as** | Lev |
+| **Date Joining**\\ **MTR Mod Discord** | 10th of March, 2023)) |
+| **Roles** | Train Operator |
+| **Pronoun(s)** | He/Him |
+| **Homeland** | Russia |
 
 ====== First appearence ======
 
@@ -19,8 +28,6 @@ After foundation of Intercity server, levisniceguy was one of the Moderators the
 ===== Failed or unfinished projects =====
 
 levisniceguy is known among Intercity's community for failed or unfinished projects. Besides the original stations and line concepts, they've been never came to what expected. Fuji Shinkansen is one of them. It supposed to connect spawn area of Seaford with ski-resort and tourist attraction Fuji-Chuo via the main Shinkansen line (Seaford <> Shin-Fuji) and the branch shared with Fuji Commuter Rail (Shin-Fuji <> Fujimachi). Besides the line was opened, but really unfinished. Some stations appeared to not have exits. Later, the line was abondoned.  {{:mtr_community:fuji_shinkansen.png?400&nocache |Fuji Shinkansen train at Fuji Tunnel station}}
-
-
 
 ====== As an Owner in Intercity ======
 
