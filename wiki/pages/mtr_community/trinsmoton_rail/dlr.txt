@@ -23,7 +23,9 @@ DLR started as a small budget railway around Jungle Island before the [[mtr_comm
 
 In 1986, another light railway is being constructed. Known as the **Drypsten and Spawn LRT**. The line goes from South Drypstensvagtklippe, at that time only served by Areeta, to Spawn Railway Station, a giant rail hub. After the success of the line DSLR decided to make a smaller line that branches out from Pentium Hills East to Krille Valley, a small village located on an island nearby. The line got plenty of success and attracted the [[mtr_community:trinsmoton_rail:river|River Ferries]] to make a service from Ocean Bay to Krille Valley.
 
-==== Multi-biome Line ====
+==== Multi-biome Line & Vendover Line ====
+
+In 1999 DSLR opened a new small line known as the **Vendover Shuttle**. The line goes from Vendover to Ashton, where it connects with the [[mtr_community:trinsmoton_rail:underground|Underground]]. Later Dischbury Park was opened in 2000 and is now called the **Vendover Line**.
 
 In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After opening the line ULR renames their brand to **Devonsfield Light Railway**.
 
