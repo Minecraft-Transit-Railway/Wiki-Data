@@ -1,0 +1,31 @@
+====== Modpack ======
+
+To join our server you need to install some associated mods. They are distributed as a **modpack**. Once installed, the modpack automatically updates itself whenever we upgrade mods on the server.
+
+===== Supported Launchers =====
+
+The launchers that are capable of installing the modpack includes **PrismLauncher, MultiMC, ATLauncher **and **Hello Minecraft! Launcher**.
+
+If you are using the official launcher or one of the other launchers, I'd personally recommend trying out PrismLauncher. Although the first impression may be a bit visually unappealing, its rich functionalities and clutter-free experience really makes it a compelling choice. It's also free and open-source.
+
+===== Tutorial for Installing =====
+
+==== The Link ====
+
+The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
+
+<code ->
+https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
+</code>
+
+==== Instructions for PrismLauncher and MultiMC ====
+
+Credit: [[https://joban.tk|The District of Joban]] staff
+
+{{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?nocache}}
+
+==== Instructions for PrismLauncher and MultiMC ====
+
+Credit: [[https://joban.tk|The District of Joban]] staff
+
+{{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?nocache}}
