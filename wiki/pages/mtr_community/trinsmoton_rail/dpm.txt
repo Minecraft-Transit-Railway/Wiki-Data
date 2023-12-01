@@ -1,3 +1,9 @@
+====== Airport People Mover (DLR) ======
 
-====== Airport People Mover (DLR)======
 The **DLR Airport People Mover (DPM)** is a proposed light railway that serves the Spawn International Airport area. Unlike the [[mtr_community:trinsmoton_rail:dlr|DLR]], the DPM is operated and managed by [[mtr_community:trinsmoton_rail:vtr|VTR Rail]] instead of Trinsmoton Transport.
+
+===== Rolling Stock =====
+
+| **Proposed** |  | **Top Speed** | **Carriages** |
+| [[mtr_community:trinsmoton_rail:b19|B19]] | {{ :mtr_community:trinsmoton_rail:1459bea6-4a79-41cc-8cf3-1548fd52447c.jpeg?400x200 }} | 80km/h(50mph) | 4 |
+
