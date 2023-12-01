@@ -29,7 +29,7 @@ In 1999 DSLR opened a new small line known as the **Vendover Shuttle**. The line
 
 ==== Multi-biome Line ====
 
-In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After opening the line ULR renames their brand to **Devonsfield Light Railway**.
+In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After the opening of Multi-biome ULR renames their brand to **Devonsfield Light Railway**.
 ===== Rolling Stock =====
 | **Current Rolling Stock** ||||
 | **Train model** | | **Top Speed** | **Carriages** | **Runs on** |
