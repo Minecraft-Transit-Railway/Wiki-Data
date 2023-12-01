@@ -1,7 +1,7 @@
 <WRAP right>
 
 |  @#00b2a9: <color #FFFFFF>**Devonsfield Light Railway**</color>  ||
-| {{ https://en.wikipedia.org/wiki/File:DLR_roundel.svg?200x200&nolink }}  ||
+| {{ :mtr_community:trinsmoton_rail:sas.png?240x200&nolink }}  ||
 | **Routes** | 5 |
 | **Operated by** | Trinsmoton Transport |
 | **Stops** | 31 |
