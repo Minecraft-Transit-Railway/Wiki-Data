@@ -1,6 +1,6 @@
 <WRAP right>
 
-|  @#00b2a9: **Devonsfield Light Railway**  ||
+|  @#00b2a9: <color #FFFFFF> **Devonsfield Light Railway** </color> ||
 | {{ :mtr_community:trinsmoton_rail:sas.png?240x200&nolink }}  ||
 | **Routes** | 5 |
 | **Operated by** | Trinsmoton Transport |
