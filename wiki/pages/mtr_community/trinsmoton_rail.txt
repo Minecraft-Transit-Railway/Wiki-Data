@@ -42,7 +42,7 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
 [[mtr_community:trinsmoton_rail:cablecar|CableCar]]
 
-[[mtr_community:trinsmoton_rail:riverferries|River Ferries]]
+[[mtr_community:trinsmoton_rail:river|River Ferries]]
 
  [[mtr_community:trinsmoton_rail:buses|Buses]]
 
