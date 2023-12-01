@@ -1,6 +1,6 @@
 <WRAP right>
 
-| **B19 Stock** ||
+|  **B19 Stock**  ||
 | {{ :mtr_community:trinsmoton_rail:df927268-34b4-47de-8a47-c1585d1ad263.jpeg?400x400 |Artist’s impression on the B19 stock}}  ||
 | **Top Speed** | 80km/h(50mph |
 | **Length** | 9 blocks (9m) |
