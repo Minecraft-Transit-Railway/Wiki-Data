@@ -22,10 +22,23 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 Credit: [[https://joban.tk|The District of Joban]] staff
 
-{{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?nocache}}
+{{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
 
-==== Instructions for PrismLauncher and MultiMC ====
+==== Instructions for ATLauncher ====
 
 Credit: [[https://joban.tk|The District of Joban]] staff
 
-{{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?nocache}}
+{{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?500&nocache}}
+
+===== Additional Mods =====
+
+The pack already contains some quality-of-life mods, such as Sodium, Iris, and WorldEdit CUI. If you want to install additional mods, simply drop them into the mods folder. The updater knows which files are added by you and won't delete them.
+
+Some mods you might be interested in:
+
+  * Distant Horizons
+  * ... or, Bobby
+  * Xaero's Minimap & Xaero's World Map
+  * Fabric-Carpet (for CreativeNoClip)
+  * MiniHud (& Malilib as dependency)
+  * Continuity
