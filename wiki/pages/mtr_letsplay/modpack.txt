@@ -6,7 +6,7 @@ To join our server you need to install some associated mods. They are distribute
 
 The launchers that are capable of installing the modpack includes **PrismLauncher, MultiMC, ATLauncher **and **Hello Minecraft! Launcher**.
 
-If you are using the official launcher or one of the other launchers, I'd personally recommend trying out PrismLauncher. Although the first impression may be a bit visually unappealing, its rich functionalities and clutter-free experience really makes it a compelling choice. It's also free and open-source.
+If you are using the official launcher or one of the other launchers, I'd personally recommend trying out PrismLauncher. Although the first impression may be a bit visually unappealing, its rich functionalities and clutter-free experience really makes it a compelling choice. It's also free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
 
 ===== Tutorial for Installing =====
 
