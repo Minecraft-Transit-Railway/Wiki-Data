@@ -17,15 +17,25 @@
 
 ==== Jungle Circle Line ====
 
-DLR started as a small budget railway around Jungle Island before the [[mtr_community:trinsmoton_rail:underground|Underground]] serves that area with Pentraolis Line. It was called the **Jungle Island Circular Light Railway**, as the line runs as a circle line. The line is now known as the Jungle Circle Line.
+DLR started as a small budget railway around Jungle Island before the [[mtr_community:trinsmoton_rail:underground|Underground]] serves that area with Pentraolis Line in 1985. It was called the **Jungle Island Circular Light Railway**, as the line runs as a circle line. The line is now known as the Jungle Circle Line.
 
 ==== Drypstensvagtklippe Line & Pentium and Valley Line ====
 
 In 1986, another light railway is being constructed. Known as the **Drypsten and Spawn LRT**. The line goes from South Drypstensvagtklippe, at that time only served by Areeta, to Spawn Railway Station, a giant rail hub. After the success of the line DSLR decided to make a smaller line that branches out from Pentium Hills East to Krille Valley, a small village located on an island nearby. The line got plenty of success and attracted the [[mtr_community:trinsmoton_rail:river|River Ferries]] to make a service from Ocean Bay to Krille Valley.
 
-==== Multi-biome Line & Vendover Line ====
+==== Vendover Line ====
 
 In 1999 DSLR opened a new small line known as the **Vendover Shuttle**. The line goes from Vendover to Ashton, where it connects with the [[mtr_community:trinsmoton_rail:underground|Underground]]. Later Dischbury Park was opened in 2000 and is now called the **Vendover Line**.
 
-In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After opening the line ULR renames their brand to **Devonsfield Light Railway**.
+==== Multi-biome Line ====
 
+In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After opening the line ULR renames their brand to **Devonsfield Light Railway**.
+===== Rolling Stock =====
+| **Current Rolling Stock** ||||
+| **Train model** | | **Top Speed** | **Carriages** | **Runs on** |
+| [[mtr_community:trinsmoton_rail:b86|B86]] | | 38mph(60km/h) | 2 | Pentium & Valley Line |
+| [[mtr_community:trinsmoton_rail:b90|B92]] | | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
+| **Proposed Rolling Stock** |||
+| **Train model** | | **Top Speed** | **Carriages** |
+| [[mtr_community:trinsmoton_rail:b07|B07]] | | 50mph(80km/h) | 2 * 2 | Multi-biome Line |
+| [[mtr_community:trinsmoton_rail:b19|B19]] | | 50mph(80km/h) | 2 * 2 | [[mtr_community:trinsmoton_rail:dpm|DPM]] |
