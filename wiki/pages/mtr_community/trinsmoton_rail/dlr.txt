@@ -30,12 +30,15 @@ In 1999 DSLR opened a new small line known as the **Vendover Shuttle**. The line
 ==== Multi-biome Line ====
 
 In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railways**. ULR plans to have a line that goes to Three Borders via Devonsfield, a brand new station that’s proposed by [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]. After the opening of Multi-biome ULR renames their brand to **Devonsfield Light Railway**.
+
 ===== Rolling Stock =====
-| **Current Rolling Stock** ||||
-| **Train model** | | **Top Speed** | **Carriages** | **Runs on** |
-| [[mtr_community:trinsmoton_rail:b86|B86]] | | 38mph(60km/h) | 2 | Pentium & Valley Line |
-| [[mtr_community:trinsmoton_rail:b90|B92]] | | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
-| **Proposed Rolling Stock** |||
-| **Train model** | | **Top Speed** | **Carriages** |
-| [[mtr_community:trinsmoton_rail:b07|B07]] | | 50mph(80km/h) | 2 * 2 | Multi-biome Line |
-| [[mtr_community:trinsmoton_rail:b19|B19]] | | 50mph(80km/h) | 2 * 2 | [[mtr_community:trinsmoton_rail:dpm|DPM]] |
+
+| **Current Rolling Stock** ||||  |
+| **Train model** |  | **Top Speed** | **Carriages** | **Runs on** |
+| [[mtr_community:trinsmoton_rail:b86|B86]] |  | 38mph(60km/h) | 2 | Pentium & Valley Line |
+| [[mtr_community:trinsmoton_rail:b90|B92]] |  | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
+| **Proposed Rolling Stock** |||  |  |
+| **Train model** |  | **Top Speed** | **Carriages** |  |
+| [[mtr_community:trinsmoton_rail:b07|B07]] |  | 50mph(80km/h) | 2 * 2 | Multi-biome Line |
+| [[mtr_community:trinsmoton_rail:b19|B19]] | {{ :mtr_community:trinsmoton_rail:1459bea6-4a79-41cc-8cf3-1548fd52447c.jpeg?400x200&nolink |B19 Concept Art}} | 50mph(80km/h) | 2 * 2 | [[mtr_community:trinsmoton_rail:dpm|DPM]] |
+
