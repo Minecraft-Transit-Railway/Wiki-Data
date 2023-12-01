@@ -41,4 +41,3 @@ Some mods you might be interested in:
   * Xaero's Minimap & Xaero's World Map
   * Fabric-Carpet (for CreativeNoClip)
   * MiniHud (& Malilib as dependency)
-  * Continuity
