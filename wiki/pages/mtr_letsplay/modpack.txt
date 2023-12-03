@@ -18,6 +18,8 @@ The following instructions will involve copying and pasting a link into your lau
 https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
+(Use this link instead should you live in mainland China: ''%%https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip%%'' )
+
 ==== Instructions for PrismLauncher and MultiMC ====
 
 Credit: [[https://joban.tk|The District of Joban]] staff
