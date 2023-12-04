@@ -100,6 +100,8 @@ Shimano MTR ([[wp>Chinese_language|Chinese]]: 縞野MTR, Common Notation: SMTR) 
 * [[11-000_series#section11500|11-400 Series]]
 
 * [[11-000_series#section11500|11-500 Series]]
+
+* [[11-000_series#section11600700800|11-600 Series]]
 ===Jigglypuff Line===
 * [[13-000 Series]]
 
@@ -158,11 +160,15 @@ Shimano MTR ([[wp>Chinese_language|Chinese]]: 縞野MTR, Common Notation: SMTR) 
 ===Sprigatito Line===
 * [[2300 Series]]
 
-===Cinderace Line===
-* [[11-000_series#section11600700800|11-600 Series]]
-
 ===Decidueye Line===
 * [[12-000 Series]]
+
+===SMTR Lines(Routes to be introduced are undecided)===
+Note:Temporary name
+
+* 7500 Series
+
+* 9500 Series
 
 ===Shimano LRT===
 * [[LRV 1943]]
