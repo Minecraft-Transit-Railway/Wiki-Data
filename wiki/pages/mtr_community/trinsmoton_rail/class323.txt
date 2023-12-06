@@ -2,6 +2,7 @@
 
 | **//Trinsmoton Rail Class 323 (BR)//** ||
 | {{ :mtr_community:trinsmoton_rail:24eec813-4ac3-43f1-ac30-deb6f536534e.jpeg?300x200 }}{{ :mtr_community:trinsmoton_rail:8573926c-2865-4613-84c4-2dbe609beae4.jpeg?300x200 }} ||
+| **Built** | 1988(/1), 1994(/0) |
 | **Top Speed**  | 160km/h(100mph) |
 | **Operators** | [[mtr_community:trinsmoton_rail:northern|Northern]], [[mtr_community:trinsmoton_rail|Regional]], [[mtr_community:trinsmoton_rail:vtr|VTR Crossrail]] |
 | **Carriages** | 3-5 |
