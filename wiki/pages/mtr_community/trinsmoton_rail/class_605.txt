@@ -17,4 +17,4 @@ The Trinsmoton Rail Classes 605 and 606 are Electric Multiple Units designed and
 
 ===== History =====
 
-In 1999, [[mtr_community:trinsmoton_rail:nctr|New Croydon Transit Railway (NCTR)]] ordered 7 Electric Multiple Units to be used for the upcoming Lorem Ipsum Line. The trains were supposedly 5 carriages long but due to maintenance cost being too high for that time it was decided that the new trains will be 4 carriages long instead. In 2000-2001 the trains were shipped from Japan to the Spawn International Port and were put in service in 2002.
+In 1999, [[mtr_community:trinsmoton_rail:nctr|New Croydon Transit Railway (NCTR)]] ordered 7 Electric Multiple Units to be used for the upcoming Lorem Ipsum Line. The trains were supposedly 5 carriages long but due to maintenance cost being too high for that time it was decided that the new trains will be 4 carriages long instead. These will become the Class 605 units. In 2000-2001 the trains were shipped from Japan to the Spawn International Port and were put in service in 2002.
