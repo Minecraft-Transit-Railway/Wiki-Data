@@ -1,0 +1,74 @@
+FIXME **Эта страница пока что не переведена полностью. Пожалуйста, не мешайте завершению перевода.**\\ //(Сотрите это сообщение по окончании перевода.)//
+
+====== MTR дополнения ======
+
+MTR дополнения это дополнительные моды , которые добавляют новый функционал (такие как блоки или *** ) //(such as blocks or features)// //on top of MTR//. Они устанавливаются , как и другие моды, таким же способом, как и MTR.
+
+===== Как мне установить дополнительные моды для MTR? =====
+
+Ниже представлены примеры дополнений для MTR:
+
+==== MSD (то есть: Station Decoration Addon) ====
+
+[[mtr_addon:msd:start|Station Decoration Addon]] это декоративный мод, добавляющий новые знаки, PIDS и контактную сеть.
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/station-decoration]]
+
+</WRAP>
+
+==== NTE (то есть: Nemo´s Transit Expansion) ====
+
+[[mtr_addon:nte:start|Nemo's Transit Expansion]] это дополнение, которое добавляет экспериментальные функции в MTR мод, такие как поддержка .obj-моделей и программирование поездов с использованием JS.
+
+{{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/mtr-nte]]
+
+</WRAP>
+
+==== JCM (то есть: Joban Client Mod) ====
+
+[[mtr_addon:jcm:start|Joban Client Mod]] это дополнение , базированное на MTR , добавляющее различные блоки из Hong Kong MTR и блоки, которые значительно улучшат ваш мир. Некоторые из блоков, добавленные модом добавляют такие вещи ,  как: Статический Сигнальный Свет, Машина для экономии тарифов, Железнодорожное видение PIDS и многие другие блоки, помогающие построить свою собственную железнодорожную систему!
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/jcm]]
+
+</WRAP>
+
+==== Reality City Construction ====
+
+[[mtr_addon:rcc:start|Reality City Construction]] is a module created by Yaoxiansen and MSnj, named after Yaoxiansen. After a year of production, the module has been basically improved.
+
+The module adds blocks for lines and urban construction, tactile paving, platform blocks, etc. In the future, domestic subway facilities such as gates and security checkpoints will also be added.
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/reality-c-c]]
+
+</WRAP>
+
+==== The Tube (aka: London Underground) ====
+
+[[mtr_addon:lu:start|The Tube addon]] provides blocks to create Tunnels and Stations and station signage. Other great additions include a London Underground themed Platform Information Display and a red/green tunnel signal! There are also some great ambient sound effects to bring your tube stations to life!
+
+<WRAP center round download 90%>
+
+[[https://www.curseforge.com/minecraft/mc-mods/the-tube]]
+
+</WRAP>
+
+==== Russian Metro Addon ====
+
+[[mtr_addon:rma:start|Russian Metro Addon]] is an addon that adds features from Russian Metros.
+
+<WRAP center round download 90%>
+
+[[https://modrinth.com/mod/russian-metro-addon]]
+
+</WRAP>
+
