@@ -1,0 +1,15 @@
+<WRAP right>
+
+| **Class 250 //Commutra//** ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-10-28_at_12.09.46.png?400x200 |Class 250/1 at Forest-by-Jungle station.}}  ||
+| **Built** | 2012-2014 |
+| **Top Speed** | 160km/h (100mph) |
+| **Manufacterer** | Alton Motors, Movin-cammel |
+| **Carriages** | 2(/2),3(/0),4(/1) |
+| **Length** | 14 blocks |
+| **Operators** | [[mtr_community:trinsmoton_rail:overground|Overground]] |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 250 ======
+The **Trinsmoton Rail Class 250** is a [[https://en.wikipedia.org/wiki/Third_rail|Third Rail]] Electric Multiple Unit that runs on [[mtr_community:trinsmoton_rail:overground|Overground]] lines.
