@@ -2,22 +2,21 @@
 
 <WRAP right>
 
-|  @#6D59A0:  **SzandorThe13th**  ||
-| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023.  ||
-|  @#6D59A0:  **Profile**  ||
-| **Known as ** | Szandor |
-| ::: | Szan((
-i stopped asking people not to shorten my name like this after a while
-)) |
-| **MTR Discord Join Date** | January 2nd, 2023 |
-| **Roles** | Modders |
-| ::: | Resource Pack Authors |
-| ::: | Train Operators |
-| **Date of Birth** | May 5th, 2004 |
-| **Gender** | Male |
-| **Nationality** | Dutch |
-| **Timezone** | CET (GMT+1) |
-| ::: | CEST (GMT+2) |
+|  @#6D59A0:  **SzandorThe13th**  |||
+| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023.  |||
+|  @#6D59A0:  **Profile**  |||
+| **Known as ** | Szandor ||
+| ::: | Szan((i stopped asking people not to shorten my name like this after a while)) ||
+| **MTR Discord Join Date** | January 2nd, 2023 ||
+| **Roles** | Train Operators | (02/01/2023) |
+| ::: | Resource Pack Authors | (23/06/2023) |
+| ::: | Modders | (23/06/2023) |
+| ::: | Let's Play Members | (09/12/2023) |
+| **Date of Birth** | May 5th, 2004 ||
+| **Gender** | Male ||
+| **Nationality** | Dutch ||
+| **Timezone** | CET (GMT+1) ||
+| ::: | CEST (GMT+2) ||
 
 </WRAP>
 
