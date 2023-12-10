@@ -7,13 +7,13 @@
 | **Manufacterer** | Alton Motors, Movin-cammel |
 | **Carriages** | 2(/2),3(/0),4(/1) |
 | **Length** | 14 blocks |
-| **Operators** | [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| **Operators** | [[mtr_community:trinsmoton_rail:overground|Overground]], [[mtr_community:trinsmoton_rail#Regional|Regional]] |
 
 </WRAP>
 
 ====== Trinsmoton Rail Class 250 ======
 
-The **Trinsmoton Rail Class 250** is a [[https://en.wikipedia.org/wiki/Third_rail|Third Rail]] Electric Multiple Unit that runs on [[mtr_community:trinsmoton_rail:overground|Overground]] lines.
+The **Trinsmoton Rail Class 250** is a [[https://en.wikipedia.org/wiki/Third_rail|Third Rail]] Electric Multiple Unit that runs on [[mtr_community:trinsmoton_rail:overground|Overground]] lines and [[mtr_community:trinsmoton_rail#Regional|Regional]] routes.
 
 <WRAP right>
 
