@@ -9,6 +9,7 @@
 | **Total Carriages** | 2-12 |
 | **Operates on** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
 | **Car length** | 24 blocks (Class 605), 20 blocks (Class 606) |
+| **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606) |
 | **Top Speed** | 160km/h (100mph) |
 
 </WRAP>
