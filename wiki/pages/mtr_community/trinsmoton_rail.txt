@@ -18,6 +18,17 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
 **Regional **is a sector of Trinsmoton Rail, serving all stations around the east Trinsmoton.
 
+===== Routes =====
+
+| **Route Name** | **Stops at** |
+| Harroash Line | Harroash <-> Harroash Road <-> Swampfields <-> Verton-on-the-hill <-> Markham Woods <-> Summerville <-> Spawn |
+| Verton Branch | Spawn <-> Summerville <-> Markham Woods <-> West Verton |
+
+===== Rolling Stock =====
+
+| **Current Rolling Stock** |  | **Top Speed** | **Carriages** | **Runs on** |
+| [[mtr_community:trinsmoton_rail:class_250|Class 250]] |  | 160km/h (100mph) | 2-4 | Harroash Line, Verton Branch |
+
 ====== High Speed ======
 
 **High Speed **is a planned sector of Trinsmoton Rail, it will be a faster varient of [[mtr_community:trinsmoton_rail#Regional|Regional]] as it doesn't stop at any rural areas or villages unlike Regional.
