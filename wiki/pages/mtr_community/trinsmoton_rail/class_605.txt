@@ -15,6 +15,13 @@
 
 </WRAP>
 
+<WRAP right>
+
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_17.51.17.png?250x150 }} |
+| Class 605 in [[mtr_community:trinsmoton_rail:nctr|NCTR]] Blue Livery. |
+
+</WRAP>
+
 The Trinsmoton Rail Classes 605, 606 and 607 are Electric Multiple Units designed and built by Misoba Motors. These units are intended for regional and metro services.
 
 ===== History =====
