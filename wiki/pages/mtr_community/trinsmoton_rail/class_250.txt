@@ -12,4 +12,13 @@
 </WRAP>
 
 ====== Trinsmoton Rail Class 250 ======
+
 The **Trinsmoton Rail Class 250** is a [[https://en.wikipedia.org/wiki/Third_rail|Third Rail]] Electric Multiple Unit that runs on [[mtr_community:trinsmoton_rail:overground|Overground]] lines.
+
+<WRAP right>
+
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-10-25_at_22.32.16.png?250x150 }} |
+| Class 250/2 at Southern Island station. |
+
+</WRAP>
+
