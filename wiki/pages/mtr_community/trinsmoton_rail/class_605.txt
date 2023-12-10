@@ -2,15 +2,16 @@
 
 <WRAP right>
 
-| **//Classes 605, 606 & 607//** ||
-| {{:mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_17.51.17.png?400x200}}  ||
-| **In service** | 2001 - present |
-| **Manufacturer** | Misoba Motors |
-| **Total Carriages** | 2-12 |
-| **Operates on** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
-| **Car length** | 24 blocks (Class 605), 20 blocks (Class 606), 12 blocks (Class 607) |
-| **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606), 2 pairs (Class 607) |
-| **Top Speed** | 160km/h (100mph) |
+| **//Classes 605, 606 & 607//** |||
+| {{:mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_13.36.05.png?300x200}} | {{:mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_13.36.32.png?300x200}}  | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_13.37.08.png?200x200 }} |
+| ^ Class 605 | ^ Class 606 | ^ Class 607 |
+| **In service** | 2001 - present ||
+| **Manufacturer** | Misoba Motors ||
+| **Total Carriages** | 2-12 ||
+| **Operates on** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] ||
+| **Car length** | 24 blocks (Class 605), 20 blocks (Class 606), 12 blocks (Class 607) ||
+| **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606), 2 pairs (Class 607) ||
+| **Top Speed** | 160km/h (100mph) ||
 
 </WRAP>
 
@@ -19,3 +20,4 @@ The Trinsmoton Rail Classes 605, 606 and 607 are Electric Multiple Units designe
 ===== History =====
 
 In 1999, [[mtr_community:trinsmoton_rail:nctr|New Croydon Transit Railway (NCTR)]] ordered 7 Electric Multiple Units to be used for the upcoming Lorem Ipsum Line. The trains were supposedly 5 carriages long but due to maintenance cost being too high for that time it was decided that the new trains will be 4 carriages long instead. These will become the Class 605 units. In 2000-2001 the trains were shipped from Japan to the Spawn International Port and were put in service in 2002.
+
