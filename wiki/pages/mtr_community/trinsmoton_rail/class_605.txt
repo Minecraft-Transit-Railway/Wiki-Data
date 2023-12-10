@@ -1,20 +1,20 @@
-====== Trinsmoton Rail Classes 605, 606 ======
+====== Trinsmoton Rail Classes 605, 606 and 607 ======
 
 <WRAP right>
 
-| **//Classes 605, 606//** ||
+| **//Classes 605, 606 & 607//** ||
 | {{:mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_17.51.17.png?400x200}}  ||
 | **In service** | 2001 - present |
 | **Manufacturer** | Misoba Motors |
 | **Total Carriages** | 2-12 |
 | **Operates on** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
-| **Car length** | 24 blocks (Class 605), 20 blocks (Class 606) |
-| **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606) |
+| **Car length** | 24 blocks (Class 605), 20 blocks (Class 606), 12 blocks (Class 607) |
+| **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606), 2 pairs (Class 607) |
 | **Top Speed** | 160km/h (100mph) |
 
 </WRAP>
 
-The Trinsmoton Rail Classes 605 and 606 are Electric Multiple Units designed and built by Misoba Motors. These units are intended for regional and metro services.
+The Trinsmoton Rail Classes 605, 606 and 607 are Electric Multiple Units designed and built by Misoba Motors. These units are intended for regional and metro services.
 
 ===== History =====
 
