@@ -1,4 +1,4 @@
-====== User - Autobusfahrer (Work in Progress. Come back later) ======
+====== User - Autobusfahrer ======
 
 <WRAP right>
 
