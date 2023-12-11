@@ -2,17 +2,17 @@
 
 <WRAP right>
 
-|  @#1797d6: <color #FFFFFF>**Autobusfahrer**</color>  ||
+|  @#3498db: <color #FFFFFF>**Autobusfahrer**</color>  ||
 | {{ :mtr_community:Autobusfahrer.png?200 }} ||
-|  @#1797d6: <color #FFFFFF>**Overview**</color>  ||
+|  @#3498db: <color #FFFFFF>**Overview**</color>  ||
 | **Also known as** | Jasmien Komugi |
 | ::: | Jasko |
 | ::: | aubufa |
 | **Date Joining**\\ **MTR Mod Discord** | 7 June 2021 |
-| **Roles** | Staff |
+| **Roles** | @#3498db: <color #FFFFFF>%% %%Staff </color> |
 | ::: | Modders |
 | ::: | Let's Play Members |
-| ::: | OG 500 GANG |
+| ::: | @#76cf7b: <color #FFFFFF> OG 500 GANG</color> |
 | ::: | Train Operators |
 | **Pronouns** | she/her |
 | **Languages** | German & English |
