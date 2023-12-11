@@ -6,7 +6,7 @@
 | **Sectors** | 2 |
 | **Sector names** | Regional, High Speed |
 | **Founded** | 1956 |
-| **Total Operators** | 8 |
+| **Total Operators** | 13 |
 
 </WRAP>
 
