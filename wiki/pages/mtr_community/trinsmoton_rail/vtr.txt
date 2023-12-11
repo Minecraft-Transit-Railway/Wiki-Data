@@ -4,7 +4,7 @@
 | {{ :mtr_community:trinsmoton_rail:vtrrail.png?237x168 |Trinsmoton Rail Logo}}  ||
 | ↑ VTR Logo ||
 | **Sectors** | [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway|VTR]], [[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]] |
-| **Routes** | 1 (Proposed) |
+| **Routes** | 3 (1 Proposed) |
 | **Founded** | 2012 |
 | {{ :mtr_community:trinsmoton_rail:croydonrail.png?211x172 |Trinsmoton Rail Logo}}  ||
 | ↑ Croydon Rail Logo ||
