@@ -36,16 +36,17 @@ The **VTR Crossrail** is a sector of VTR and connects different places of the No
 
 | **//Current Routes//** |||
 | **Route name** | **Route map** | **Rolling stocks** |
-| Jungle Wood Line | Spawn <-> Ocean Bay <-> Jungle Island <-> Jungle Wood | [[mtr_community:trinsmoton_rail:class377|Class 377]] |
-| Sierra High Speed | Spawn <-> Sierra de Alpino | [[mtr_community:trinsmoton_rail:class802|Class 802]] |
+| Jungle Wood Line | Spawn <-> Ocean Bay <-> Jungle Island <-> Jungle Wood | [[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS)]] |
+| Sierra High Speed | Spawn <-> Sierra de Alpino | [[mtr_community:trinsmoton_rail:class802|Class 802 (BRHS)]] |
 
 ====== Rolling Stock ======
 
 | **Current Rolling Stock** |||||
 | **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
-| **[[mtr_community:trinsmoton_rail:class323|Class 323]]** |   | **100mph (160km/h)** | **9** | **[[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]]** |
-| **[[mtr_community:trinsmoton_rail:class377|Class 377]]** |   | **100mph (160km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway|VTR]]** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 323 (BR)]]** |   | **100mph (160km/h)** | **9** | **[[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway Crossrail|VTR Crossrail]]** |
+| **[[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS)]]** |   | **100mph (160km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Vexton Transit Railway|VTR]]** |
+| **[[mtr_community:trinsmoton_rail:class802|Class 802 (BRHS)]]** |   | **125mph (200km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Sierra High Speed|Sierra High Speed]]** |
 | **Former Rolling Stock** |||||
 | **Train Class** |   | **Top Speed** | **Carriages** | **Sector** |
-| **[[mtr_community:trinsmoton_rail:class377|Class 377]]** | {{:mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?166x141}}  | **100mph (160km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Croydon Railway|Croydon Rail]]** |
+| **[[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS)]]** | {{:mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?166x141}}  | **100mph (160km/h)** | **5** | **[[mtr_community:trinsmoton_rail:vtr#Croydon Railway|Croydon Rail]]** |
 
