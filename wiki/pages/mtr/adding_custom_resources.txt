@@ -15,26 +15,29 @@ The file ''mtr_custom_resources.json'' is the main file that will get loaded. Th
 ==== Adding Texture Variants for Existing Trains ====
 
 To add texture variants, the ''custom_trains'' JSON object should be added to ''mtr_custom_resouces.json''. Each JSON object under ''custom_trains'', representing a texture variant for a train, should have a unique key and serveral required entries.
+
 <markdown>
-| Key | Data Type | Description | Notes |
+
+
+| Key | Data Type | Description | Required? | Default value if not specified | Notes |
 | --- | --- | --- | --- |
-| `name` | String | The name to be shown on [dashboards](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards) when selecting trains for a route | Required |
-| `color` | String (colour hex code) | The colour to be shown on [dashboards](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards) when selecting trains for a route | Optional, defaults to the colour black if none specified |
-| `base_train_type` | String (train ID) | The train model to apply the texture on | Required(If bbmodel is not used.), see [the trains page](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) for a list of train identifiers |
-| `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |
-| `description` | String | A brief description of this train can be added. Newline code (\n) available. | Optional |
-| `wikipedia_article` | String | You can cite the English Wikipedia article. If it is too long, it will be omitted in the middle. | Optional |
-| `train_barrier_id` | String | Train barriers will be installed at the end of the car. If not specified, it will not be displayed. | Optional |
-| `gangway_connection_id` | String | Gangway will be placed at the end of the car. If not specified, a Gangway of SP1900 will be shown.| Optional |
-| `has_gangway_connection` | Boolean |Selects whether the gangway can be passed through if false, the gangway will be transparent and the `gangway_connection_id` specification will be ignored.| Optional, Default is true (can pass through)|
-| `door_animation_type` | String | The following door animations can be specified. Must be written in CAPITAL LETTERS.<br><br>STANDARD<br>STANDARD_SLOW<br>CONSTANT<br>PLUG_FAST<br>PLUG_SLOW<br>BOUNCY_1<br>BOUNCY_2<br>MLR<br>R179<br>R211| Optional, Default is set to the door animation specified by train ID, if BBmodel is used, it is set to the STANDARD (SP1900) animation. CONSTANT only 32 (max) regardless of train door width.|
-| `model` | String | Specify BBmodel file by file path.| Required if BBmodel is used.|
-| `model_properties` | String | Specify Model Properties file(.json) by file path.| Required if BBmodel is used.|
-| `speed_sound_base_id` | String | Specifies the ID of a conventional running sound, which can be either the default train ID or one defined in sounds.json.|Optional, If not specified, the sound will be silent.|
-| `speed_sound_count` |Number|Specify the number of ogg files in the acceleration or deceleration folder within the folder specified in speed_sound_base_id above. If not specified correctly, files above a certain speed will be silent.|Optional, If not set, the number of sounds specified by Train ID is set.|
-| `door_sound_base_id` | String | Specifies the ID of a conventional door sound, which can be either the default train ID or one defined in sounds.json.|Optional, If not specified, the sound will be silent.|
-| `door_close_sound_time` |Number|Specifies the offset of the door sound; cannot be greater than 1 or less than 0 due to limitations on the MTR side.|Optional, Default is 0.5|
-| `bve_sound_base_id` | String |Specifies the ID of a BVE sound, which can be either the default train ID or one defined in sounds.json. See here for how it is defined. [MTR:Custom_BVE_Train_Sound](https://www.joban.tk/wiki/MTR:Custom_BVE_Train_Sound)|Optional, If specified, conventional format sound will not be available.|
+| `name` | String | The name to be shown on [dashboards](https://wiki.minecrafttransitrailway.com/mtr:dashboards) when selecting trains for a route | Required| N/A ||
+| `color` | String (colour hex code) | The colour to be shown on [dashboards](https://wiki.minecrafttransitrailway.com/mtr:dashboards) when selecting trains for a route | Optional |Black (`#000000`)||
+| `base_train_type` | String (train ID) | The train model to apply the texture on | Required(If bbmodel is not used.) | N/A | See [the trains page](https://wiki.minecrafttransitrailway.com/mtr:trains) for a list of train identifiers |
+| `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |N/A||
+| `description` | String | A brief description of this train can be added. Newline code (\n) available. | Optional |N/A||
+| `wikipedia_article` | String | You can cite the English Wikipedia article. If it is too long, it will be omitted in the middle. | Optional |N/A||
+| `train_barrier_id` | String | Train barriers will be installed at the end of the car. If not specified, it will not be displayed. | Optional |N/A||
+| `gangway_connection_id` | String | Gangway will be placed at the end of the car. If not specified, a Gangway of SP1900 will be shown.| Optional |`mtr:textures/entity/sp1900`||
+| `has_gangway_connection` | Boolean |Selects whether the gangway can be passed through if false, the gangway will be transparent and the `gangway_connection_id` specification will be ignored.| Optional|`true`||
+| `door_animation_type` | String | The following door animations can be specified. Must be written in CAPITAL LETTERS.<br><br>STANDARD<br>STANDARD_SLOW<br>CONSTANT<br>PLUG_FAST<br>PLUG_SLOW<br>BOUNCY_1<br>BOUNCY_2<br>MLR<br>R179<br>R211| Optional|`STANDARD`|CONSTANT only 32 (max) regardless of train door width.|
+| `model` | String | Specify BBmodel file by file path.| Required if BBmodel is used.|N/A||
+| `model_properties` | String | Specify Model Properties file(.json) by file path.| Required if BBmodel is used.|N/A||
+| `speed_sound_base_id` | String | Specifies the ID of a conventional running sound, which can be either the default train ID or one defined in sounds.json.|Optional|N/A|If not specified, the sound will be silent.|
+| `speed_sound_count` |Number|Specify the number of ogg files in the acceleration or deceleration folder within the folder specified in speed_sound_base_id above. If not specified correctly, files above a certain speed will be silent.|Optional|The number of sounds specified by Train ID (if any)||
+| `door_sound_base_id` | String | Specifies the ID of a conventional door sound, which can be either the default train ID or one defined in sounds.json.|Optional|N/A|If not specified, the sound will be silent.|
+| `door_close_sound_time` |Number|Specifies the offset of the door sound; cannot be greater than 1 or less than 0 due to limitations on the MTR side.|Optional|`0.5`||
+| `bve_sound_base_id` | String |Specifies the ID of a BVE sound, which can be either the default train ID or one defined in sounds.json. See here for how it is defined. [MTR:Custom_BVE_Train_Sound](https://www.joban.tk/wiki/MTR:Custom_BVE_Train_Sound)|Optional|N/A|If specified, conventional format sound will not be available.|
 
 An example is shown below.
 
@@ -55,7 +58,7 @@ An example is shown below.
 
 To add new [railway signs](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) textures or text, the `custom_signs` JSON object should be added to `mtr_custom_resouces.json`. Each JSON object under `custom_signs`, representing a new sign, should have a unique key and serveral required entries.
 
-| Key | Data Type | Description | Notes |
+| Key | Data Type | Description | Required? |
 | --- | --- | --- | --- |
 | `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |
 | `flip_texture` | Boolean | If `true`, the texture will be flipped horizontally | Optional |
@@ -81,11 +84,18 @@ An example is shown below.
 }
 ```
 ## Model Properties file
+
 </markdown>
+
 <WRAP center round todo 60%>
+
 This section is currently unwritten.
+
 </WRAP>
+
 <markdown>
+
+
 
 The Model Properties file can be edited by the Resource Pack Creator or directly in a text editor, for example.
 
