@@ -60,7 +60,9 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
 [[mtr_community:trinsmoton_rail:dpm|DLR - Airport People Mover]]
 
+[[mtr_community:trinsmoton_rail:nr|Network Rail]]
+
 ====== Notes ======
 
-The Trinsmoton Rail sercer is currently in its test stage. This test stage is used for testing the building skills of different builders until the main server comes out. So the information may change after the release of the main server.
+The Trinsmoton Rail server is currently in its test stage. This test stage is used for testing the building skills of different builders until the main server comes out. So the information may change after the release of the main server.
 
