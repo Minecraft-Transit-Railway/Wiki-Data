@@ -28,7 +28,7 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
 | **Current Rolling Stock** |   | **Top Speed** | **Carriages** | **Runs on** |
 | [[mtr_community:trinsmoton_rail:class_250|Class 250]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_17.20.22.png?300x150 }}  | 160km/h (100mph) | 2-4 | Harroash Line |
-| [[mtr_community:trinsmoton_rail:class_420|Class 420]] |  | 160km/h (100mph) | 2 | Verton Branch |
+| [[mtr_community:trinsmoton_rail:class_420|Class 420]] |  | 120km/h (75mph) | 2 | Verton Branch |
 
 ====== High Speed ======
 
