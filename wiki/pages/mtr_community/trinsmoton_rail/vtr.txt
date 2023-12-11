@@ -29,11 +29,15 @@ The **VTR Crossrail** is a sector of VTR and connects different places of the No
 
 **Centrelink** as of now is not constructed or has began constructed but it is a crossrail line that will run North to South and the branches will split off to East and the West.
 
+====== Sierra High Speed ======
+**Sierra High Speed** is a High Speed Railway connecting Snow District and Spawn in fast speeds. It’s very similar to [[mtr_community:trinsmoton_rail:nctr|NCTR]] Lorem Ipsum Line however the Sierra High Speed does not call at any stations along the way to Sierra de Alpino and is fully Underground.
+
 ====== Routes ======
 
 | **//Current Routes//** |||
 | **Route name** | **Route map** | **Rolling stocks** |
 | Jungle Wood Line | Spawn <-> Ocean Bay <-> Jungle Island <-> Jungle Wood | [[mtr_community:trinsmoton_rail:class377|Class 377]] |
+| Sierra High Speed | Spawn <-> Sierra de Alpino | [[mtr_community:trinsmoton_rail:class802|Class 802]] |
 
 ====== Rolling Stock ======
 
