@@ -3,7 +3,7 @@
 <WRAP right>
 
 |  @#1797d6: <color #FFFFFF>**Autobusfahrer**</color>  ||
-| {{ :mtr_community:sleepysapphskin.png?400 }} ||
+| {{ :mtr_community:Autobusfahrer.png?200 }} ||
 |  @#1797d6: <color #FFFFFF>**Overview**</color>  ||
 | **Also known as** | Jasmien Komugi |
 | ::: | Jasko |
@@ -15,9 +15,15 @@
 | ::: | OG 500 GANG |
 | ::: | Train Operators |
 | **Pronouns** | she/her |
+| **Languages** | German & English |
+| **Country** | Austria |
 
 </WRAP>
 
-Hi! I'm Lily! I'm %%one of the staff members in the %%[[mtr:start|Minecraft Transit Railway]]%% community. I'm one of the more active members of the %%[[mtr_letsplay:start|Let's Play Server]]%%, and I'm the founder of %%[[mtr_letsplay:lilypad_rail]]%%. My favourite colour is lavender.%%
+Hey there. I'm Jasmien! One of the Staff of the MTR Discord and responsible for moderation across the Discord aswell as managment of smaller aspects of the Server like the monthly Banner Vote.
+
+I started building on bigger projects like MetroCAD and Centralia when these first appeared.
+
+These days I focus more on the Discord Server and the experience for our Community and very rarly you can even see a glimps of me in the Lets Play. I also speak german so if you have inquiries and questions or complaints but can only voice them in german im happy to help and answear questions. ^^
 
 ~~NOTOC~~
