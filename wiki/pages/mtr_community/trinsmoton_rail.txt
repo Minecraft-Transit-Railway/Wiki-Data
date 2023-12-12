@@ -48,7 +48,7 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
  [[mtr_community:trinsmoton_rail:overground|Overground]]
 
- [[mtr_community:trinsmoton_rail:zr|ZenRail]]
+ [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]
 
  [[mtr_community:trinsmoton_rail:trams|Trams]]
 
@@ -65,4 +65,11 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 ====== Notes ======
 
 The Trinsmoton Rail server is currently in its test stage. This test stage is used for testing the building skills of different builders until the main server comes out. So the information may change after the release of the main server.
+
+====== All rolling stocks ======
+
+| **Current** | | **Top Speed** | **Operates on** |
+| [[mtr_community:trinsmoton_rail:class_250|Class 250]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail#Regional|Regional]], [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| [[mtr_community:trinsmoton_rail:class_250|Class 251]] | | 120km/h (75mph) | [[mtr_community:trinsmoton_rail:zenrail|ZenRail]] |
+
 
