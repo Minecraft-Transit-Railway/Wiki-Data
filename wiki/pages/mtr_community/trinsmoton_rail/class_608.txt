@@ -1,0 +1,16 @@
+<WRAP right>
+
+| **//Class 608//** ||
+| {{ :mtr_community:trinsmoton_rail:tuen_ma_line_c-train_202103.jpg?400x200 }} ||
+| **Built by** | Chang Li Motors |
+| **In service** | 2016 - Present |
+| **Length** | 24 |
+| **Carriages** | 4,6 |
+| **Top Speed** | 160km/h (100mph) |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 608 ======
+
+The **Trinsmoton Rail Class 608** is an Electric Multiple Unit that is used on the Lorem Ipsum Line alongside the [[mtr_community:trinsmoton_rail:class_605|Class 605]]s. These trains are built by Chang Li motors, whose factory is based in Hong Kong. The trains have shorter seat spaces to increase accessibility.
+
