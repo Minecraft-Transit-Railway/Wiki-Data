@@ -7,7 +7,7 @@
 | ↑ Class 605 | ↑ Class 606 | ↑ Class 607 |
 | **In service** | 2001 - present ||
 | **Manufacturer** | Misoba Motors ||
-| **Total Carriages** | 2-12 ||
+| **Total Carriages** | 2-8 ||
 | **Operates on** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] ||
 | **Car length** | 24 blocks (Class 605), 20 blocks (Class 606), 12 blocks (Class 607) ||
 | **Doors per side** | 5 pairs (Class 605), 4 pairs (Class 606), 2 pairs (Class 607) ||
