@@ -76,6 +76,6 @@ There are different rolling stocks in different routes as there are multiple dep
 
 ===== Routes =====
 
-There are currently 3 routes in the Hi-sko Light Rail system.  \\ **Normal Services:** \\ {{101.png?50&direct}} : Weiss \\ {{102.png?50&direct}} : Schwarz\\ {{115.png?50&direct}} : Blau
+There are currently 3 routes in the Hi-sko Light Rail system.  \\ **Normal Services:** \\ {{mtr_letsplay:weissexp.png?50&direct}} : Red Leaves - Icesert Estate (to Icesert Estate via Carmine City) \\ {{mtr_letsplay:schwarzlr.png?50&direct}} : Icesert Estate - Hot Springs (to Hot Springs via Tuff Village)\\ {{mtr_letsplay:blau_lrt.png?50&direct}} : Wintry Forest - Winry
 
 ~~NOTOC~~
