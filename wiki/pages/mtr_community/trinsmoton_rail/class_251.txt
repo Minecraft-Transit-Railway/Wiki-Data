@@ -1,0 +1,17 @@
+<WRAP right>
+
+| //**Class 251 Commutra Z**// ||
+| ||
+| **Built** | 2012 |
+| **Family Name** | [[mtr_community:trinsmoton_rail:commutra|Commutra]] |
+| **Top Speed** | 120km/h (75mph) |
+| **Carriages** | 4 |
+| **Power from** | Third Rail |
+| **Acceleration Speed** | 1.2m/s |
+| **Length** | 14 blocks |
+| **Operated by** | [[mtr_community:trinsmoton_rail:zenrail|ZenRail Regional]] |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 251 Commutra ======
+
