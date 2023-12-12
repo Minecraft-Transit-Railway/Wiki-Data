@@ -1,0 +1,81 @@
+====== Hisko Transport Holding AG (!Work in progress!) ======
+
+Copy taken from Lilac Light Rail Wiki page
+
+Hisko Transport Holding AG (also known simply as %%Hi-sko) %%is a smaller operator founded by Historybutt and Jasmien Komugi
+
+<WRAP right>
+
+| @#D3A80A: ||
+
+^  (Hisko Transport Holding AG) Hi-sko  |^
+
+| @#D3A80A: ||
+
+|  {{de:mtr_community:hisko_operated_by_transparent.png?300}}\\ Operated by: Hi-sko Logo with the sun above ths sko  ||
+
+^  Overview  |^
+
+| **Status** | Operational |
+
+| **Owner** | Self Operated |
+
+| **Locale** | Spawn\\ Kallos\\ Mou Tapu\\ Resort\\ Taipa\\ Eastwich\\ Llanmara\\ Tempest\\ Sunrise |
+
+| **Connecting lines** | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#385E15>**<html>&nbspSnowie Line&nbsp</html>**</color>\\ <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>\\ **<color white/#E31A56><html>&nbspOc</html></color><color white/#405F8E>uli</color><color white/#FCA500><html>nk&nbsp</html></color>**\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color white/#673AB7>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>\\ <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color>\\ <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color> |
+
+| **Stations** | 134 |
+
+| **Color on map** | <color /#D3A80A><html>&nbsp&nbsp&nbsp&nbsp</html></color><html>&nbsp&nbspWarm Yellow</html> |
+
+^  Service  |^
+
+| **Type** | Light Rail |
+
+| **Depot(s)** | Kallos\\ Eden\\ Winry\\ Taipa\\ Bridge Bay\\ Heung Fan Liu\\ Daimon North\\ Sunrise\\ Llanmara\\ Memorial Village |
+
+| **Rolling stock** | 2-car light rail vehicles |
+
+^  History  |^
+
+^  Technical  |^
+
+| **Line Length** | 51.6km |
+
+| **Track gauge** | 1435mm\\ (4 ft 0.5 in)\\ standard gauge |
+
+| **Electrification** | 750V DC\\ (overhead wire and\\ third rail) |
+
+^  Route Map  |^
+
+|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:sleepy_sapph|sleepy_sapph]], //\\ //as of 20 Oct. 2023. //  ||
+
+<WRAP right>
+
+</WRAP>
+
+</WRAP>
+
+===== History =====
+
+===== Rolling Stock =====
+
+There are different rolling stocks in different routes as there are multiple depots.
+
+===== Stops and Routes =====
+
+=== Stops ===
+
+^  Fare Zone  ^  Name  ^  Routes  ^  District  ^  Connections  ^  Opened  ^
+
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot | [[lrt_483p|483P]], [[lrt_801|801]], [[lrt_802|802]], [[lrt_804|804]], [[lrt_810|810]], [[lrt_882|882]] | Kallos | <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color> | 10 October 2022 |
+
+|   | Royal Park |   |   | <color white/#6B4799>**<html>&nbspElizabeth Line (Proposed)&nbsp</html>**</color> | 29 October 2023 |
+
+|   | Shek Ai | 483P, 810, 882 |   | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color> | 10 October 2022 |
+
+===== Routes =====
+
+There are currently 3 routes in the Hi-sko Light Rail system.  \\ **Normal Services:** \\ {{101.png?50&direct}} : Weiss \\ {{102.png?50&direct}} : Schwarz\\ {{115.png?50&direct}} : Blau
+
+~~NOTOC~~
