@@ -10,4 +10,4 @@
 </WRAP>
 
 ====== Trinsmoton Rail Class 524 ======
-The **Trinsmoton Rail Class 524** is a driverless Electric Multiple Unit that runs on the [[mtr_community:trinsmoton_rail:nctr#Buckington Line|Buckington Line]] for [[mtr_community:trinsmoton_rail:nctr|NCTR]].
+The **Trinsmoton Rail Class 524** is a driverless Electric Multiple Unit that runs on the [[mtr_community:trinsmoton_rail:nctr#History#Buckington Line|Buckington Line]] for [[mtr_community:trinsmoton_rail:nctr|NCTR]].
