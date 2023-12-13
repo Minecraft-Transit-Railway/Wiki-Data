@@ -10,15 +10,16 @@
  Named after his childhood favourite train, the [[https://en.wikipedia.org/wiki/British_Rail_Class_377|Class 377 Electrostar]].
 )) |
 | **Name Inspiration** | The [[https://en.wikipedia.org/wiki/Bombardier_Electrostar|Bombardier Electrostar]] family of trains|
-| **Discord Join Date** | 27th December 2021 |
 | **Roles** | @#3498db: <color #FFFFFF>%% %%Staff </color> |
 | ::: | @#FF73FA: <color #FFFFFF>%% %%Server Boosters </color> |
 | ::: | Let's Play Members |
 | ::: | Train Operators |
+| **Languages Spoken** | English |
+| ::: | German |
 | **Let's Play Lines** | @#AE0D3F: <color #FFFFFF>%% %%CrossCountry </color> |
 | ::: | @#E20177: <color #FFFFFF>%% %%Great Western </color> |
 | ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail </color> |
-
+| **Joined Discord** | 27th December 2021 |
 
 
 </WRAP>
