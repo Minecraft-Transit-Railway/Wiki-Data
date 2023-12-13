@@ -15,6 +15,12 @@
 
 **New Croydon Transit Railway (NCTR) **is a long distance rapid transit system serving mostly the southern region of Trinsmoton.
 
+===== History =====
+
+==== Lorem Ipsum Line ====
+
+==== Buckington Line ====
+
 ====== Rolling Stock ======
 
 | **Train Class** |   | **Top Speed** | **Carriages** | **Built** |
