@@ -83,15 +83,21 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 
 ^  Car Formation of SP1900 Trains  |||||^
+|//<- To Kwong Chow//|||  //To Northern Snow Village ->//|||
+|  D1xx(odd) - P1xx(odd) + M1xx(even) - P1xx(even) - D1xx(even)  ||||||
+|  //xx refers to any number from 07 to 82//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
 |  **D1xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
-|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**((Only for odd numbers (Car 2 to Providence/Kwong Chow) ))  |
+|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**((Only for odd numbers))  |
 |  **M1xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 
 ^  Car Formation of MLR Trains  |||||^
+|//<- To Kwong Chow//|||  //To Northern Snow Village ->//|||
+|  D1xx(odd) - P1xx(odd) + L1xx(even) - P1xx(even) - D1xx(even)  ||||||
+|  //xx refers to any number from 01 to 06//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
 |  **D1xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
-|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**((Only for odd numbers (Car 2 to Providence/Kwong Chow) ))  |
+|  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**((Only for odd numbers))  |
 |  **L1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
 
 
