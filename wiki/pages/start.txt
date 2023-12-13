@@ -9,7 +9,7 @@ Welcome to the MTR wiki!
   * [[mtr_extra:start|Resource Packs]] - Introduction about resource packs for MTR
   * [[mtr_extra:resourcepack:make|Making a Resource Pack]] - How to make a resource pack
     * [[mtr_extra:resourcepack:make:texture|Texturing Trains]] - How to retexture existing trains
-    * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - How to put your own model
+    * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - How to add in your own model
     * [[mtr_extra:resourcepack:make:others|Others]] - How to add signs, sounds, etc. to your resource pack
   * [[mtr_extra:resourcepack:faq|Frequently Asked Questions]] - Some questions about resource packs
   * [[mtr_addon:start|Using Addon Mods]] - Overview of additional MTR addon mods
@@ -18,7 +18,7 @@ Welcome to the MTR wiki!
 ===== Multiplayer Servers =====
 
   * [[mtr_letsplay:start|Let's Play Server]] - the official server of the MTR mod
-  * [[mtr_community:start|MTR Communities]] - the other community made servers and more
+  * [[mtr_community:start|MTR Communities]] - the other community made servers, and more
 
 ===== Contributing to Wiki =====
 
