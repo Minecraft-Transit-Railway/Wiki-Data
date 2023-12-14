@@ -4,7 +4,7 @@
 | {{ :mtr_community:trinsmoton_rail:nr323321.png?400x200 }} ||
 | **Built** | 1988(/1), 1994(/0) |
 | **Top Speed**  | 160km/h(100mph) |
-| **Operators** | [[mtr_community:trinsmoton_rail:northern|Northern]], [[mtr_community:trinsmoton_rail|Regional]], [[mtr_community:trinsmoton_rail:vtr|VTR Crossrail]] |
+| **Operators** | [[mtr_community:trinsmoton_rail:northern|Northern]], [[mtr_community:trinsmoton_rail:vtr|VTR Crossrail]] |
 | **Carriages** | 3-5 |
 
 </WRAP>
