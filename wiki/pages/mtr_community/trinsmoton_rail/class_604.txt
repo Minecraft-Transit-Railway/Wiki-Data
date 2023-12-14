@@ -1,0 +1,15 @@
+<WRAP right>
+
+| **//Classes 603, 604//** ||
+|   ||
+| **Top Speed** | 160km/h (100mph) |
+| **In service** | 1983 - Present |
+| **Carriages** | 3-6 |
+| **Operator** | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
+
+</WRAP>
+
+====== Trinsmoton Rail Classes 603, 604 ======
+
+The **Trinsmoton Rail Classes 603, 604** are Electric Multiple Units running on the Lorem Ipsum Line and the Line Line on the [[mtr_community:trinsmoton_rail:nctr|NCTR]]. The Class 603 was built in 1983 and the Class 604 was built in 1997, both manufactured by Movin-Cammel.
+
