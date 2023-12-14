@@ -1,0 +1,17 @@
+<WRAP right>
+
+|  @#FF0000: <color #FFFFFF>**Underground**</color>  ||
+| {{ :mtr_community:trinsmoton_rail:underground.svg.png?330x270&nolink&nocache }} ||
+| **Routes** | 2 |
+| **Stations** | 12 |
+| **Electrification** | [[https://en.wikipedia.org/wiki/Railway_electrification#Fourth_rail|Fourth Rail]] |
+
+</WRAP>
+
+====== Trinsmoton Underground ======
+The **Trinsmoton Underground** or the **Underground** is an underground rail system that runs around the Central and Southwest parts of Trinsmoton.
+
+===== Routes =====
+
+| **Name** | **Stops at** |
+| **Pentraolis Line** | Spawn <-> Rock Valley Harbour <-> Dongton Isle <-> Jungle Docks <-> Jungle Harbour <-> Pentraolis South |
