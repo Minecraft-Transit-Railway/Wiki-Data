@@ -2,6 +2,8 @@
 
 The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023.
 
+NOTE: The server is currently down due to a corrupted mod file. While executives are working hard on fixing the issue, it is not guaranteed that the server will return soon.
+
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City**  ||
@@ -75,6 +77,16 @@ Modern-day Sallen City Transit is arguably the most reliable way to get across S
 ==== What's next? ====
 
 Sallen City Transit is getting closer and closer to completion, with the newest addition of the Crosstown Lines (7) <7>! It's the fastest growing company on the server, and it won't stop! Watch out, SCT could be coming to your local neighborhood.
+
+==== Routes ====
+
+SCT's (A) line was the first line (along with the C) to be created in New Sallen, running along Hamilton Blvd via the Express tracks. Originally, it ran from Fort Yasuko (Nexus Promenade) to Edgeword, however an extension was planned later on to extend the route in both directions. The (A) line now runs from Hillside Quay to Fairwoods, also known as the northernmost station in the server.
+
+SCT's (C) line was the first line (along with the A) to be created in New Sallen, running along Hamilton Blvd via the Local track. Originally, it ran the same route as the (A) via the local tracks between Fort Yasuko and Edgeword, however when the Hamilton Blvd Lines were extended, the (C) was also extended to Berkley, the station directly south of Fairwoods.
+
+SCT's (E) line is considered one of the newer lines in Sallen, also running along Hamilton Blvd in its Northern portion via the Local track, however switches branches south of Holyoke. After a brief stop at Ashlan Park-Great Plains, it meets up with the (F), (M), and (R) lines at the Calgary Street branch via the Express tracks to the Madison Center.
+
+SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay.
 
 <WRAP right>
 
@@ -167,25 +179,13 @@ Sallen Metro Transit, or SMT was one of the four original companies in new Salle
 
 Initially, lines were given two different names based off the direction they were going in, similar to how [[wp>Grand_Theft_Auto_IV|GTA IV]]'s metro system worked. The (1) was named the 1/2, the (2) was named the 3/4, the (3) was named the 5/6, and so on and so forth.
 
-In July 2023, the SMT 5/6 (now the 3) lines were constructed from Liberty Plaza to Wabash, stopping at Devinstown, Barnesville, Riverton Village, Great Plains, Holyoke, Edgeword, and Wabash. This was the only SMT line (before the merge) to go north of and not primarily serve Clinton.
-
-In August 2023, the SMT 11/12 (now the 6) was finished, codenamed the "Great Plains Loop". This line served now-major transit hubs such as Great Plains, Myrtle-Kennedy, Maple Park, and the Nexus Promenade.
+In July 2023, the SMT 5/6 (now the 3) lines were constructed from Liberty Plaza to Wabash, stopping at Devinstown, Barnesville, Riverton Village, Great Plains, Holyoke, Edgeword, and Wabash. This was the only SMT line (before the merge) to go north of and not primarily serve Clinton. __Underlined Text__In August 2023, the SMT 11/12 (now the 6) was finished, codenamed the "Great Plains Loop". This line served now-major transit hubs such as Great Plains, Myrtle-Kennedy, Maple Park, and the Nexus Promenade. This
 
 ==== ApacheRail ====
 
-ApacheRail was the fourth original company in New Sallen, owned by apache. It was created in Early-June, with provisions for three lines to be constructed: X, Y, and Z. All three lines would terminate at Great Plains, running right under the SCT Hamilton Lines.
+ApacheRail was the fourth original company in New Sallen, owned by apache. It was created in Early-June, with provisions for three lines to be constructed: X, Y, and Z. All three lines would terminate at Great Plains, running right under the SCT Hamilton Lines. In Mid-June, ApacheRail purchased two abandoned stations from SCT in Lakeshore, named North Beach and Breen K. Sallen Road. North Beach was renamed to Downtown-Lakeshore to avoid confusion with the SMART Transit station.
 
-In Mid-June, ApacheRail purchased two abandoned stations from SCT in Lakeshore, named North Beach and Breen K. Sallen Road. North Beach was renamed to Downtown-Lakeshore to avoid confusion with the SMART Transit station.
+ApacheRail's development was split into phases, with a total of 9 phases before its shutdown. After Breen K. Sallen Road, Phase 2 began construction to Sallen Pier on the X Line, stopping at Sallen International Airport, Hillside, Woodmere, Oceanside, Boardwalk, and Sallen Pier. Boardwalk was later abandoned due to the close proximity to Sallen Pier. ApacheRail featured a unique feature that no other company utilized: Custom Announcements. These were used on the W, X, Y, and Z lines before they were phased out on the V line.
 
-ApacheRail's development was split into phases, with a total of 9 phases before its shutdown. After Breen K. Sallen Road, Phase 2 began construction to Sallen Pier on the X Line, stopping at Sallen International Airport, Hillside, Woodmere, Oceanside, Boardwalk, and Sallen Pier. Boardwalk was later abandoned due to the close proximity to Sallen Pier.
-
-ApacheRail featured a unique feature that no other company utilized: Custom Announcements. These were used on the W, X, Y, and Z lines before they were phased out on the V line.
-
-In Early-August, proposals were created to expand ApacheRail to handle higher capacity, creating 4 more phases. Phase 6 proposed an extension North of Great Plains to Winstree, served by the proposed U and Z lines.
-
-===== ApacheRail (New) =====
-
-//Not to be confused with ApacheRail (SMT)//
-
-WIP
+In Early-August, proposals were created to expand ApacheRail to handle higher capacity, creating 4 more phases. Phase 6 proposed an extension North of Great Plains to Winstree, served by the proposed U and Z lines. After completion of this project, attention was lost to ApacheRail as [[mtr_community:apache|apache]] started utilizing the B&C mod and collaborated with SCT (Sallen City Transit). ApacheRail was eventually sold off to [[mtr_community:starjunction|starjunction] and SMT.
 
