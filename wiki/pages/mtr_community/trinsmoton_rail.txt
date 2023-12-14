@@ -81,6 +81,7 @@ The Trinsmoton Rail server is currently in its test stage. This test stage is us
 | [[mtr_community:trinsmoton_rail:class_608|Class 608]] |  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
 | [[mtr_community:trinsmoton_rail:class_190|Class 190]] |  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:overground|Overground]] |
 | [[mtr_community:trinsmoton_rail:class_420|Class 420]] |   | 120km/h (75mph) | [[mtr_community:trinsmoton_rail#Regional|Regional]], [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| [[mtr_community:trinsmoton_rail:class_203|Class 203]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
 | [[mtr_community:trinsmoton_rail:1996_stock|1996 Stock]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
 | [[mtr_community:trinsmoton_rail:cx100|CX100]] |   | 80km/h (50mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
 
