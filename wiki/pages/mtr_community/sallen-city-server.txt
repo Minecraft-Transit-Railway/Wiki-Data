@@ -86,7 +86,13 @@ SCT's (C) line was the first line (along with the A) to be created in New Sallen
 
 SCT's (E) line is considered one of the newer lines in Sallen, also running along Hamilton Blvd in its Northern portion via the Local track, however switches branches south of Holyoke. After a brief stop at Ashlan Park-Great Plains, it meets up with the (F), (M), and (R) lines at the Calgary Street branch via the Express tracks to the Madison Center.
 
-SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay.
+SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay. The incline between BKS Bay and Cedar Springs is infamous for being incredibly sharp(("also mmmm incline" - lily)). At Hillside Quay, it meets with the (R), and the (M) at Broadview. Although the portion between Hillside and Myrtle Viaduct is technically not part of Calgary Street, it is still counted as part of the branch itself. After the (M) and (R) terminate at Greenland-Manor, it will run local until branching off at Oculus Plaza, in which it runs alone to Octavia Square. 
+
+SCT's (L) line was an incomplete collaboration with SMART Transit's Stelham Streetcar (SMART C, E), in which SMART LRT runs trams on the local tracks, where SCT runs the (L) on the express tracks.
+
+SCT's (R) line was the newest addition to SCT, proposed to run from Greenland-Manor to Joralemon Street. From Greenland-Manor to Hillside Quay, it runs on Calgary Street via the local tracks, however meets with the (N) and (W) to run crosstown until reaching Millford Avenue with the (Q). From there, it will run along Millford Avenue to its terminus on the local tracks, along with the (W). The (N) and (Q) will run via the express tracks.
+
+SCT's (1) line was the first IRT route in SCT, initially running from Westfield Airport (formerly Northwest Klein Airport) to Holyoke, however was then extended to Washington-Arlington Streets via Jabeur Av with the now closed down <1> line.
 
 <WRAP right>
 
