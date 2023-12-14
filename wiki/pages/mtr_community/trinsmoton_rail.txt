@@ -75,6 +75,7 @@ The Trinsmoton Rail server is currently in its test stage. This test stage is us
 | [[mtr_community:trinsmoton_rail:class_600|Class 600]] | | 224km/h (140mph) | [[mtr_community:trinsmoton_rail:zenrail|ZenRail]] |
 | [[mtr_community:trinsmoton_rail:class323|Class 323 (BR)]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:northern|Northern Rail]] |
 | [[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS) ]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:northern|Northern Rail]] |
+| [[mtr_community:trinsmoton_rail:class_604|Class 604]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
 | [[mtr_community:trinsmoton_rail:class_605|Class 605]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
 | [[mtr_community:trinsmoton_rail:class_608|Class 608]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
 | [[mtr_community:trinsmoton_rail:class_190|Class 190]] | | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:overground|Overground]] |
