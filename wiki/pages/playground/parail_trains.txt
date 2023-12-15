@@ -1,0 +1,21 @@
+====== PÄRAIL TRAINS ADDON ======
+
+<WRAP right>
+
+|  @#900000:  <color white>**PäRail Trains Addon**</color>  ||
+|  {{ :mtr_community:dragon_skin.png?150 }}//Placey Holey 9000//\\ //Bottom Text//  ||
+|  @#900000:  <color white>**Overview**</color>  ||
+| **Creator** | [[mtr_community:aecth]] |
+| Trains | 29 |
+| TBA 2 | Europa((WOF OC)) |
+| TBA 3 | UsaDragon22((Minecraft Username)) |
+| **Date Joining**\\ **MTR Mod Discord** | 6 December, 2022((Rejoined many Times, Original Date lost to time. The Latest is shown here.)) |
+| **Latest Version** | 1.0.1 |
+| TBA 4 | Modders |
+| TBA 5 | Train Operators |
+| **Initial Release** | October 5th, 2022 |
+| **Basis** | Florida, United States of America |
+
+</WRAP>
+
+The **PäRail Trains Addon** is a Fictional Resource Pack for the Minecraft Transit Railway Mod.
