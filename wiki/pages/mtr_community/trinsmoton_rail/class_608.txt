@@ -1,7 +1,7 @@
 <WRAP right>
 
 | **//Class 608//** ||
-| {{ :mtr_community:trinsmoton_rail:tuen_ma_line_c-train_202103.jpg?400x200 }} ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-15_at_16.43.48.png?400x200 }} ||
 | **Built by** | Chang Li Motors |
 | **In service** | 2016 - Present |
 | **Length** | 24 |
