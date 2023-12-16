@@ -127,4 +127,19 @@ Originally, there will be a rename once the line extends to Yanjiang Mineshaft. 
 
 The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope region. 
 
-===== Stations =====
+===== Stations(WIP) =====
+
+|  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
+|  English  ||  Chinese  | ::: | ::: | ::: |
+|  @#eb7ae9: <color #ffffff>**WLT Line 1 Phase 1**</color>  ||||||
+|  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  15 August, 2022\\ (TBC)  |  Northern Snowland  |
+| ::: | ::: | ::: |  @#805000:  <color #ffffff>Furret Line</color>  | ::: | ::: |
+|  @#ffffff:  |  [[/hung_ngai_tung_station|Haruka Island]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
+|  @#ffffff:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]]  |  26th August, 2022  | ::: |
+|  @#ffffff:  |  [[mtr_letsplay:sw_plains_station|SW Plains]]  |  %%西南曠野%%  |  @#6b4799:<color #ffffff>Elizabeth Line</color>  |  12th August, 2022  | ::: |
+| ::: | ::: | ::: |  @#a5c83b:  CyanEX Sumeru Line  | ::: | ::: |
+|  @#3bf443:  |  [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]]  |  %%石灘島%%  |  None  |  9th August, 2022  |  Ishikari and Lake City  |
+|  @#0e51b9:  |  [[mtr_letsplay:lake_city_station|Lake City]]  |  %%湖城%%  |  @#19dfde: Lakeside Mystic Line  |  8th August, 2022  | ::: |
+| ::: | ::: | ::: |  @#89ac76: Cin Gyun Line  | ::: | ::: |
+| ::: | ::: | ::: |  @#036afa: <color #ffffff>Circulator IP</color>  | ::: | ::: |
+| ::: | ::: | ::: |  @#EE771E: Overground  | ::: | ::: |
