@@ -66,10 +66,55 @@ Before the line is fully ready, a special shuttle service already started betwee
 
 Similar to WLT Line 1, since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 
 
-There are also 1 set of M-Train and 3 sets of K-Train has started serving passengers. 
+There are also 1 set of M-Train (phase 2A) and 3 sets of K-Train has started serving passengers. 
 
-Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, cyanex livery C-Train is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix// traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
+Originally, the fleet was planned to include 3 to 5 sets of Shanghai Metro Trains previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system, as DC motor is harder to maintenance and consume more electricity. 
 
+Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, Cyanex Rapid Transit CXD104 is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix1500// traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
+
+^  Car Formation of M-Trains (phase 2A)  ||||^
+|//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
+|  A2xx(odd) - C2xx(odd) + E2xx(even) + C2xx(even) - A2xx(even)  |||||
+|  //xx refers to any number from 00 to 09//  |||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Hostler  ^
+|  **A2xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |
+|  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+|  **E2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+
+^  Car Formation of M-Trains (phase 2C)  ||||^
+|//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
+|  A2xx(odd) - C2xx(odd) + D2xx(even) + C2xx(even) - A2xx(even)  |||||
+|  //xx refers to any number from 10 to 19//  |||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Hostler  ^
+|  **A2xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |
+|  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+|  **D2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |
+
+^  Car Formation of K-Trains  ||||^
+|//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
+|  A2xx(odd) - C2xx(odd) + B2xx(even) - C2xx(even) - A2xx(even)  |||||
+|  //xx refers to any number from 20 to 39//  |||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Hostler  ^
+|  **A2xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**((Only for odd numbers))  |
+|  **B2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |
+
+^  Car Formation of C-Trains  ||||^
+|//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
+|  A2xx(odd) - C2xx(odd) + B2xx(even) - C2xx(even) - A2xx(even)  |||||
+|  //xx refers to any number from 40 to 49//  |||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Hostler  ^
+|  **A2xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**((Only for odd numbers))  |
+|  **B2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |
+
+^  Car Formation of CXD104  ||||^
+|//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
+|  A2xx(odd) - C2xx(odd) + C2xx(even) - A2xx(even)  |||||
+|  //xx refers to any number from 50 to 99//  |||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Hostler  ^
+|  **A2xx**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |
+|  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 ===== Operations =====
 
 Trains are all serving from Kwong Chow to Sai Mo Island without intermediate stops. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
