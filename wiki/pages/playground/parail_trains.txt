@@ -3,7 +3,7 @@
 <WRAP right>
 
 |  @#900000:  <color white>**PäRail Trains Addon**</color>  ||
-|  {{ :mtr_community:dragon_skin.png?150 }}//Placey Holey 9000//\\ //Bottom Text//  ||
+|  {{:playground:parail_1_0_1.png?400}} //Modrinth Banner//  ||
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Creator** | [[mtr_community:aecth]] |
 | Trains | 29 |
@@ -18,4 +18,8 @@
 
 </WRAP>
 
-The **PäRail Trains Addon** is a Fictional Resource Pack for the Minecraft Transit Railway Mod.
+The **PäRail Trains Addon** is a Fictional Resource Pack for the Minecraft Transit Railway Mod. It contains almost 30 trains.
+
+===== Class 144 =====
+The Päsow National Class 144 ACER was a Diesel-Mechanical Multible Unit Designed for the Commuter Services Along the Päsow River. The Unit was First Designed in 1975 and Intended to Be Replaced by the Term of the Melenium. It was Later Replaced by the PCMA 760 in 2017.
+
