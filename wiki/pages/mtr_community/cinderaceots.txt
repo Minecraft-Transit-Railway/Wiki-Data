@@ -20,4 +20,10 @@
 
 **CinderaceOTS**(Same as Minecraft ID and Discord) is a member of the Minecraft Transit Railway Discord community. He claims he was the first Japanese to start playing MTR mods in October 2021, and is probably the first Japanese member to join the Discord community. He is also the owner of Shimano MTR and Terralith Rapid Transit, a railroad company that operates on [[mtr_letsplay:start|Let's Play servers]].
 
-Also, before joining the Let's Play server, he was building a large railway line with vanilla and MTR.
+Also, before joining the Let's Play server, he was building a large railway line with vanilla and MTR. 
+===Activities before starting MTR===
+
+===Activities in the Let's Play server builder.===
+
+===Activities at Crowdin===
+I am in charge of Japanese localization for MTR's Crowdin. I localized and corrected almost all items.
