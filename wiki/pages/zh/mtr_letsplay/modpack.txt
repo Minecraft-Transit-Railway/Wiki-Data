@@ -4,7 +4,7 @@
 
 ===== 支持的启动器 =====
 
-这个模组包支持的启动器包括 **HMCL、PCL2**(请用最新版；可能有些版本)**、PrismLauncher、MultiMC** 和 **ATLauncher**。
+这个模组包支持的启动器包括 **HMCL、PCL2、PrismLauncher、MultiMC** 和 **ATLauncher**。
 
 在官方启动器或者其他一些启动器上设置模组包可能不那么直观，这种情况下我建议使用列表中的启动器，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
 
