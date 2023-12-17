@@ -1,3 +1,0 @@
-====== Trinsmoton Rail Home Page ======
-
-~~REDIRECT>mtr_community:trinsmoton_rail~~
