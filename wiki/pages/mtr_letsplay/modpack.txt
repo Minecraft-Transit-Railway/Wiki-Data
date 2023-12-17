@@ -1,12 +1,12 @@
 ====== Modpack ======
 
-To join our server you need to install some associated mods. They are distributed as a **modpack**. Once installed, the modpack automatically updates itself whenever we upgrade mods on the server.
+To join our server you need to install some associated mods. They are distributed as a **modpack**. Once installed, the modpack automatically updates itself whenever we upgrade mods on the server, there's no need to manually update mods.
 
 ===== Supported Launchers =====
 
 The launchers that are capable of installing the modpack includes **PrismLauncher, MultiMC, ATLauncher **and **Hello Minecraft! Launcher**.
 
-If you are using the official launcher or one of the other launchers, I'd personally recommend trying out PrismLauncher. Although the first impression may be a bit visually unappealing, its rich functionalities and clutter-free experience really makes it a compelling choice. It's also free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
+Setting up modpacks isn't quite as straight-forward on the official Mojang launcher or some other launchers, in which case I'd recommend using a launcher in that list, such as PrismLauncher. It's sorta easy to get used to and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
 
 ===== Tutorial for Installing =====
 
@@ -43,3 +43,11 @@ Some mods you might be interested in:
   * Xaero's Minimap & Xaero's World Map
   * Fabric-Carpet (for CreativeNoClip)
   * MiniHud (& Malilib as dependency)
+
+===== Moving your previous stuff over =====
+
+In case you've been previously playing and want to keep your Map, Distant Horizons data etc., simply move the associated folders inside ''%%.minecraft%%'' over. These might include ''%%Distant_Horizons_server_data%%'', ''%%XaeroWorldMap%%'', ''%%XaeroWaypoints%%'', etc.
+
+===== I'm a builder and want to hide WorldEdit CUI =====
+
+Having the selection always showing up is pretty annoying indeed, but WorldEdit CUI allows you to bind a hotkey for the deselection action. Just assign it in control settings, press that key when you're done with WorldEdit stuff and the selection will be gone.
