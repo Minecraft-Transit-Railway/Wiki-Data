@@ -134,12 +134,11 @@ The line will become one of the important, fast and convenient north-south conne
 |  @#eb7ae9: <color #ffffff>**WLT Line 1 Phase 1**</color>  ||||||
 |  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  15 August, 2022\\ (TBC)  |  Northern Snowland  |
 | ::: | ::: | ::: |  @#805000:  <color #ffffff>Furret Line</color>  | ::: | ::: |
-|  @#ffffff:  |  [[/hung_ngai_tung_station|Haruka Island]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
-|  @#ffffff:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]]  |  26th August, 2022  | ::: |
-|  @#ffffff:  |  [[mtr_letsplay:sw_plains_station|SW Plains]]  |  %%西南曠野%%  |  @#6b4799:<color #ffffff>Elizabeth Line</color>  |  12th August, 2022  | ::: |
-| ::: | ::: | ::: |  @#a5c83b:  CyanEX Sumeru Line  | ::: | ::: |
-|  @#3bf443:  |  [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]]  |  %%石灘島%%  |  None  |  9th August, 2022  |  Ishikari and Lake City  |
-|  @#0e51b9:  |  [[mtr_letsplay:lake_city_station|Lake City]]  |  %%湖城%%  |  @#19dfde: Lakeside Mystic Line  |  8th August, 2022  | ::: |
-| ::: | ::: | ::: |  @#89ac76: Cin Gyun Line  | ::: | ::: |
-| ::: | ::: | ::: |  @#036afa: <color #ffffff>Circulator IP</color>  | ::: | ::: |
-| ::: | ::: | ::: |  @#EE771E: Overground  | ::: | ::: |
+|  @#ffffff:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
+|  @#ffffff:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  @#22FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
+| ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
+|  @#ffffff:  |  [[/providence_station|Providence]]  |  %%公積%%  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
+|  @#51C7FA:  |  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
+|  @#ffffff:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  TBA  | ::: |
+|  @#EB4881:  |  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
+| ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
