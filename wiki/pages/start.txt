@@ -26,6 +26,3 @@ We want all people who know a lot about the mod to share their knowledge, if you
 
   * Make sure you read the [[wiki_guidelines|Wiki Guidelines]] and [[edit_guideline|Edit Guidelines]].
 
-You can create a page below, make sure you read all guidelines and make sure the page doesn't exist before making it:
-
-{{NEWPAGE}}
