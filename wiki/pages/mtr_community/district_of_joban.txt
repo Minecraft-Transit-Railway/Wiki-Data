@@ -13,9 +13,9 @@
 | ::: | Heavy Rail |
 | ::: | Light Rail |
 | ::: | Bus (Decoration only) |
-| **Transit operators** | 5 |
-| **Routes** | 30 |
-| **Stations** | ~125 |
+| **Transit operators** | 6 |
+| **Routes** | 24 |
+| **Stations** | ~105 |
 
 </WRAP>
 
@@ -33,7 +33,7 @@ The District of Joban sometimes runs on a fork of other mods (e.g. Slideshow((
 [[https://github.com/DistrictOfJoban/Slideshow]]
 ))) to better facilitates it's builder with the tools they need.
 
-Other server-side mod are also created to assist the day-to-day management of the Minecraft server, including [[https://github.com/Kenny-Hui/Svrutil|SvrUtil]] and [[https://modrinth.com/mod/transitmanager|TransitManager]].
+Other server-side mod are also created to assist the day-to-day management of the Minecraft server, including [[https://github.com/Kenny-Hui/Svrutil|SvrUtil]] and [[https://modrinth.com/mod/transitmanager|TransitManager]] and are also released to the public.
 
 ===== Active World =====
 
