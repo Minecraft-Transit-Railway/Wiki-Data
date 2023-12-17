@@ -1,6 +1,32 @@
 FIXME **This page hasnt been fully completed. Please help with the Creation.**\\ //(remove this note when the page is completed)//
 
-**Unknown for now**,
+====== Version 4.0.X ======
 
-still undergoing developement!
+The Minecraft Transit Railway v4.0 is an upcoming major update to the Minecraft Transit Railway mod, and are currently in development.
+
+===== Releases =====
+
+  * No official release has been published yet as MTR 4 is still in development.
+
+===== Player-facing Changes =====
+
+To be done...
+
+===== Technical Changes =====
+
+==== Minecraft-Mappings ====
+
+The [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]] project has been rewritten, allowing for easier development between multiple Minecraft version and across modloaders. This replaces the need for **Architectury** for multi-platform, which were previously in use by MTR 3.
+
+==== Rendering Optimizations ====
+
+Rendering optimizations from the [[mtr_addon:nte:start|NTE Addon]] has been integrated to the **Minecraft-Mappings** project, which are also in-use by MTR 4.0. This should offer substantial frame-rate improvements during gameplay.((
+ Source%% needed%%
+))
+
+==== Transport-Simulation-Core ====
+
+On MTR 3, MTR is a self-contained mod responsible for handling everything from block configurations to simulation of the automated in-game network.
+
+On MTR 4, the simulation part has been split off to [[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]. This allows for easier integration of the network simulation part to another external application (i.e. Outside of Minecraft). The simulation now also runs on it's own dedicated thread when used with the MTR Mod, as such it can reduce Minecraft server lags caused by simulating the transit network.
 
