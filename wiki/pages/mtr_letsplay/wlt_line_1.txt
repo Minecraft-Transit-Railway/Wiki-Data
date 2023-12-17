@@ -127,12 +127,12 @@ Originally, there will be a rename once the line extends to Yanjiang Mineshaft. 
 
 The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope region. 
 
-===== Stations(WIP) =====
+===== Stations =====
 
 |  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
 |  English  ||  Chinese  | ::: | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**WLT Line 1 Phase 1**</color>  ||||||
-|  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  15 August, 2022\\ (TBC)  |  Northern Snowland  |
+|  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
 | ::: | ::: | ::: |  @#805000:  <color #ffffff>Furret Line</color>  | ::: | ::: |
 |  @#ffffff:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
 |  @#ffffff:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  @#22FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
