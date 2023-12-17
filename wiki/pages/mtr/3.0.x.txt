@@ -11,7 +11,7 @@ TODO: add links
 === Beta-2 ===
 
   * Improved train dismounting position checks
-  * Added the clock block
+  * Added the [[mtr:clock|Clock]] block
   * Flattened textures to reduce file size
   * Fixed OptiFine crash when breaking PSD/APG
   * Increased maximum speed on most trains
@@ -22,7 +22,7 @@ TODO: add links
   * Added the Light Rail (Phase 1) train
   * Added 9 new station colour blocks, including quartz and purpur
   * Added the ticket machine, glass fence, and the station name entrance block
-  * Optimised the escalator (#11)
+  * Optimised the escalator ([[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/issues/11|#11]])
   * Don't show repeated destinations or terminating destination on the PSD/APG
   * Increased train speeds
   * Improved train movement
@@ -37,7 +37,7 @@ TODO: add links
   * Fixed GUI crashing from null pointer exceptions when rendering background
   * Fixed model and texture z-fighting with 1.16.5
   * Renamed mtr:textures/signs to mtr:textures/sign
-  * For resourcepack authors: Moved logo.png from mtr:textures/block to mtr:textures/sign
+  * For resource pack authors: Moved logo.png from mtr:textures/block to mtr:textures/sign
 
 === Beta-5 ===
 
@@ -49,9 +49,9 @@ TODO: add links
 === Beta-6 ===
 
   * Fixed dashboard conflicts
-  * Added [[mtr:ticket_barrier|Ticket Barrier]]s
+  * Added [[mtr:ticket_barrier|Ticket Barrier]]
   * Added a new type of [[mtr:passenger_information_display_system|PIDS]]
-  * Added [[mtr:arrival_projector|Arrival Projector]]s
+  * Added [[mtr:arrival_projector|Arrival Projectors]]
   * Added the Tung Chung Line CAF train
   * Added the Airport Express train
   * A new type of [[mtr:platform_screen_doors|PSD]] ([[mtr_community:choco|Choco]])
@@ -65,7 +65,7 @@ TODO: add links
   * Added the K-train
   * Added [[mtr:depot|Depots]]
   * Added turn back rails
-  * Added ticket processors ([[mtr_community:lx86|LX86]])
+  * Added ticket processors ([[mtr_community:lx862|LX86]])
   * Added station exits
   * Added one-way rails
   * Added Light Rail Phase 2 and 3 trains ([[mtr_community:eric|Eric]])
@@ -78,7 +78,7 @@ TODO: add links
   * Added the MLR train
   * Added the R179 train
   * Added the Light Rail Phase 5 train ([[mtr_community:eric|Eric]])
-  * Added another type of PIDS ([[mtr_community:lx86|LX86]])
+  * Added another type of PIDS ([[mtr_community:lx862|LX86]])
   * Added [[mtr:platform_blocks|platform block]] variants
   * Added the KCR E44 "Yellow Head"
   * Added clockwise and counterclockwise to circle lines
@@ -86,20 +86,20 @@ TODO: add links
   * Added blue and sandy marble blocks ([[mtr_community:kettlekettle|Kettle]])
   * Added the online system map
   * Added blockbench model loading
-  * Added the tactile map ([[mtr_community:snc|Snc]], [[mtr_community:lx86|LX86]], and [[mtr_community:bosco|Bosco]])
+  * Added the tactile map ([[mtr_community:snc|Snc]], [[mtr_community:lx862|LX86]], and [[mtr_community:bosco|Bosco]])
   * Added signals & signal related blocks
   * Added 22.5 and 45 degree rail node angles
   * Added the train schedule sensor ([[mtr_community:cherbert|Cherbert]])
-  * Added sign, [[passenger_information_display_system|PIDS]], and clock poles ([[mtr_community:lx86|LX86]])
+  * Added sign, [[passenger_information_display_system|PIDS]], and clock poles ([[mtr_community:lx862|LX86]])
   * Added ceiling blocks with light or no light
-  * Added custom [[passenger_information_display_system|PIDS]] messages ([[mtr_community:lx86|LX86]])
+  * Added custom [[passenger_information_display_system|PIDS]] messages ([[mtr_community:lx862|LX86]])
   * Added old and fictional liveries to light rail trains ([[mtr_community:pz_hoshiyomi|PZ Hoshiyomi]] and [[mtr_community:account_disabled|Account Disabled]])
   * Added C-Train ([[mtr_community:eric|Eric]])
   * Added 4-door trains ([[mtr_community:bdark000|BDark000]])
 
 === Beta-9 ===
 
-  * Added cargo loader and unloader ([[mtr_community:simba|Simba]])
+  * Added [[mtr:cargo_loaders_and_unloaders|cargo loader and unloader]] ([[mtr_community:simba|Simba]])
   * Added the Disneyland Resort Line train ([[mtr_community:eric|Eric]])
   * Added the tunnel, bridge, and tunnel wall creator
   * Added boats
@@ -108,7 +108,7 @@ TODO: add links
   * Added route finder to the online system map
   * Added the CM-train
   * Added the S-Train ([[mtr_community:aozoramarcus|AozoraMarcus]])
-  * Added hidden routes ([[mtr_community:lx86|LX86]])
+  * Added hidden routes ([[mtr_community:lx862|LX86]])
   * Added a separate block for the top of PSDs
   * Added arrival projector route filtering
   * Added the R211 train ([[mtr_community:eric|Eric]])
@@ -122,11 +122,11 @@ TODO: add links
   * New trains: London Underground D78, London Underground 1996, S-Train, unrefurbished M-Train, R211, British Rail Class 802
   * Route maps on route signs, platform screen doors, and automatic platform gates will now combine lines if they share common stations
   * Certain signs will now show text using the custom font (without crashing)
-  * Added new functional blocks: [[mtr:cargoloader_unloader|Cargo Loaders & Unloaders]]
+  * Added new functional blocks: [[mtr:cargo_loaders_and_unloaders|Cargo Loaders & Unloaders]]
   * Bridge creator, tunnel creator, and tunnel wall creator items
   * Boats
   * Train rendering ratio option
-  * Optifine compatibility
+  * OptiFine compatibility
   * Smooth scrolling for the online system map
   * Partial Vivecraft support
   * Railway data is now saved as individual files instead of through the NBT
@@ -141,7 +141,7 @@ TODO: add links
   * Arrival projectors can now be configured to only show certain arrivals
   * Marble and station coloured slabs
   * Players riding trains no longer jitter
-  * Dashboard colour picker
+  * Added dashboard colour picker
   * Increased the range where PIDS can detect platform rails by one block
   * For circular routes, the PIDS and online map will now show more detail, for example "Clockwise via Green Horizons" rather than just the last stop of the route
 
