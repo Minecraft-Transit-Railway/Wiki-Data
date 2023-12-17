@@ -29,7 +29,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 ==== PCL2 的操作说明 ====
 
   - [[https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip|下载整合包的 ZIP 文件]]。
-  - 打开 PCL2，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
+  - 打开 PCL2 (**请确保您使用的是最新版！旧版本的 PCL2 安装不了此整合包**)，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
   - 等待下载完成。
   - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。然后等待更新器下载模组。游戏启动后，还需要再下载资源文件，请继续稍等。
   - 进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
