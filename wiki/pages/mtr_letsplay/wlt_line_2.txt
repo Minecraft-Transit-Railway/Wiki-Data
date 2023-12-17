@@ -13,7 +13,7 @@
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|WLT Line 1 Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Future Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#000000:<color white>Hana-Koshi Line</color> |
-| ::: | @#000000:<color white>Elizabeth Line</color> |
+| ::: | @#6B4799:<color white>Elizabeth Line</color> |
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
