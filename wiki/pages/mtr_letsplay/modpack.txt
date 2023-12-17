@@ -22,15 +22,13 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 ==== Instructions for PrismLauncher and MultiMC ====
 
-Credit: [[https://joban.tk|The District of Joban]] staff
-
 {{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
 
 ==== Instructions for ATLauncher ====
 
-Credit: [[https://joban.tk|The District of Joban]] staff
-
 {{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?500&nocache}}
+
+(Images courtesy of [[https://lx862.com|LX86]] at [[https://joban.tk|The District of Joban]])
 
 ===== Additional Mods =====
 
