@@ -53,10 +53,25 @@ This Train is a Modified Mix of the MLR and Class 802. The MLR Became the Locomo
 | **Top Speed** | 120 km/h |
 | **Prime Mover** | DCCR PCRV-30FG V16 |
 | **Wheel Arrangement((AAR))** | B-B |
-| **Horsepower** | 4250 |
-| **Prime Mover** | DCCR PCRV-30FG |
+| **Power Output** | 4250 Horsepower |
 | **Unit Length**  | 17 Meters |
 
 </WRAP>
 
 The Class 51 is an All-Purpose Locomotive Part of the Universal Series of Locomotives Manufactured in 1985. The Locomotive Contains a 4250 Horsepower DCCR PCRV-30FG Prime Mover. The Top Speed is 120 km/h. The Locomotive is used on Most Freight Runs Across Muchav, And the Passenger Variant is Coupled to the L12 Coaches. The coaches are Low-Floor boarding, but standard height seating((1 Meter)). The Locomotive is based on the [[wp>EMD_SD40-2|Electro-Motive Division (EMD) SD40-2]]. Beyond Freight and Passengers, the units are also used as for Maintenance, Pilots for Shunting, Rescue Operations, and Bankers due to their power.
+
+===== Class 96 =====
+
+<WRAP right>
+
+^ **PäRail Class 96** ^ ::: ^
+| **Manufactured** | 1991-2001 |
+| **Manufacturer** | Selmara Rail Company (SRC)  |
+| **Top Speed** | 200 km/h |
+| **Wheel Arrangement((AAR))** | B-B |
+| **Horsepower** | 4250 |
+| **Unit Length**  | 19 Meters |
+
+</WRAP>
+
+The PäRail Class 96 is a High-Speed Electric Locomotive made by SRC, or the Selmana Rail Company In 1999. The top speed of this locomotive is 200 km/h, But the design speed is 250 km/h. Power is supplied via OHLE. Signaling is both Absolute Block and MHSRBS((Muchavian High Speed Rail Block Signaling))
