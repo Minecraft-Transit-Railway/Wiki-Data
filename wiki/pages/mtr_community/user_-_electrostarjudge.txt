@@ -39,13 +39,13 @@ Great Western is a project that provides a regional suburban service between New
 
 **CrossCountry**
 
-CrossCountry, or XC in it's short form name, operates long distance services across the Let's Play map, starting with services from Einsburg Central to Zuidbaai, via Marylebone and Denthrope Hauptbahnhof. The operator uses Diesel-only Class 802 units, as it does not always work across electrified lines, and Hitachi's bi-mode reliability is too poor for the operator to utilise the overhead line equipment where it is available. In future, it is hoped to massively expand the XC network, via collaboration with other builders and to operate joint services with their respective Operating Companies.
+CrossCountry, or XC in its short form name, operates long distance services across the Let's Play map, starting with services from Einsburg Central to Zuidbaai, via Marylebone and Denthrope Hauptbahnhof. The operator uses Diesel-only Class 802 units, as it does not always work across electrified lines, and Hitachi's bi-mode reliability is too poor for the operator to utilise the overhead line equipment where it is available. In future, it is hoped to massively expand the XC network, via collaboration with other builders and to operate joint services with their respective Operating Companies.
 
 ===== Reskins =====
 
 "I often make reskins, taking real world liveries and giving them fictional applications on UK trains. From the BR423 recieving South West Trains' Suburban colours, to ÖBB's RailJet scheme transferred onto an 802, or the CrossCountry IETs in Virgin guise as well as Arriva, I like reskinning!" Below are (will be) some of the liveries Electrostar has brought onto new canvases in the form of uniquely repainted units
 
-**fill in once home from work**
+**fill in once you have time**
 
 ===== Fun Electrostar Facts =====
 
