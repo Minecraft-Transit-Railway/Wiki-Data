@@ -35,7 +35,8 @@ In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railw
 
 | **Current Rolling Stock** ||||   |
 | **Train model** |   | **Top Speed** | **Carriages** | **Runs on** |
-| [[mtr_community:trinsmoton_rail:b86|B86]] |   | 38mph(60km/h) | 2 | Pentium & Valley Line |
+| [[mtr_community:trinsmoton_rail:b86|B86]] |   | 50mph(80km/h) | 2 | Drypstensvagtklippe Line |
+| [[mtr_community:trinsmoton_rail:class_202|Class 202]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_12.59.46.png?400x200&nolink&nocache }}  | 25mph(40km/h) | 1 | Pentium and Valley Line |
 | [[mtr_community:trinsmoton_rail:b90|B92]] |   | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
 | **Proposed Rolling Stock** |||   |   |
 | **Train model** |   | **Top Speed** | **Carriages** | **Runs on** |
@@ -49,3 +50,4 @@ In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railw
 | Pentium & Valley Line | Pentium Hills East, Krille Valley |
 | Vendover Line | Ashton, Dischbury Park, Vendover |
 | Multi-biome Line | Park Road (Pentium Hills), Ashton, Llama House, Southwest Drypstensvagtklippe, East Jungleton, Sandolly, Lake Devonsfield, Devonsfield, Wheatland-by-the-river (Limited stop), Apex Bridge, Sunder, Three Borders/Old Temple |
+
