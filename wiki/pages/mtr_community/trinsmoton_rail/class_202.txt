@@ -1,0 +1,17 @@
+<WRAP right>
+
+|  **//Class 202 Metro People Mover//**  ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_12.59.46.png?400x200&nolink&nocache }} ||
+| **Converted from** | [[mtr_community:trinsmoton_rail:class_200|Class 201 Metro Runner]] |
+| **Top Speed** | 40km/h (25mph) |
+| **Seats** | 2 longitudinal |
+| **Operator** | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
+| **Carriages** | 1-2 |
+| **Length** | 9 blocks |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 202 Metro People Mover ======
+
+The **Trinsmoton Rail Class 202** is a single carriage Third Rail Electric Multiple Unit intended for small shuttle services. In 1986 following the Class 201’s introduction [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]] ordered a smaller variant of Class 201 for the use on the Pentium and Valley Line, as the standard B86 stock trains can’t fit on the short platforms. And in 1987 the first Class 202, 202001 got into service on the route.
+
