@@ -37,7 +37,7 @@ In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railw
 | **Train model** |   | **Top Speed** | **Carriages** | **Runs on** |
 | [[mtr_community:trinsmoton_rail:b86|B86]] |   | 50mph(80km/h) | 2 | Drypstensvagtklippe Line |
 | [[mtr_community:trinsmoton_rail:class_202|Class 202]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_12.59.46.png?400x200&nolink&nocache }}  | 25mph(40km/h) | 1 | Pentium and Valley Line |
-| [[mtr_community:trinsmoton_rail:b90|B92]] |   | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
+| [[mtr_community:trinsmoton_rail:b92|B92]] |   | 50mph(80km/h) | 2 * 2 | Jungle Circle Line, Drypstensvagtklippe Line, Multi-biome Line, Vendover Line |
 | **Proposed Rolling Stock** |||   |   |
 | **Train model** |   | **Top Speed** | **Carriages** | **Runs on** |
 | [[mtr_community:trinsmoton_rail:b07|B07]] |   | 50mph(80km/h) | 2 * 2 | Multi-biome Line |
