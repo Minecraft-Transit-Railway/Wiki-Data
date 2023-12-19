@@ -26,7 +26,7 @@ Requirements: Windows 10 21H1 or later.
 }
 </file>
 
-<WRAP center round info 60%>
+<WRAP center round info 90%>
 The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\
 However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\
 If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
@@ -77,7 +77,10 @@ If you have more than one (you cannot simply duplicate the piece above, as this 
 }
 </file>
 
-<WRAP center round tip 100%>
+<WRAP center round important 90%>
+Make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
+</WRAP>
+<WRAP center round tip 90%>
 Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
 </WRAP>
 
@@ -105,7 +108,7 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
   - Make sure you use the correct base train type. These types can for now be found on the github itself, as the model files have the same names, but in the future, there will be a page for it on this very wiki.
   - All that is left is to put it in your resourcepacks folder and start your MTR installation!
 
-<WRAP center round tip 100%>
+<WRAP center round tip 90%>
 You can also use blockbench to retexture trains! To do so however, you must first also download the train bbmodel file from the following link: \\
 [[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/4.0.0/models]]
 </WRAP>
@@ -119,4 +122,12 @@ https://bit.ly/MtrExampleLink
 </WRAP>
 
 ==== Sound files ====
-WIP
+  * Download Audacity, its optional, but it makes it easier if you want to record a sound yourself.
+  * Record any sound file, or perhaps download one from an external source. Make sure its in .ogg format and the filename doesnt contain any uppercase letters.
+<WRAP center round info 90%>
+Do you want the sound to play in the player's ears or from the source that plays the sound?
+Make sure your sound file is **stereo** (player's ear) or **mono** (source). This can be changed in Audacity.
+</WRAP>
+  * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', then paste in the sound file.
+  * 
+ 
