@@ -1,15 +1,19 @@
 <WRAP right>
 
-| **//B86 Stock//** ||
+| **//B85, B86 Stock//** ||
 | {{ https://live.staticflickr.com/5198/5805857372_9414dd0123_b.jpg?400x200&nolink&nocache }} ||
 | **Top Speed** | 80km/h (50mph) |
-| **Built** | 1986 - 1987 |
-| **Carriages** | 2 |
+| **Built** | 1985 - 1987 |
+| **Carriages** | 2 (Original), 3 (Refurbished) |
 | **Operator** | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
 
 </WRAP>
 
-====== DLR B86 Stock ======
+====== DLR B85 & B86 Stock ======
 
-The **B86 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]].
+The **DLR B85 & B86 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were the first trains to be used on the DLR and is built by Movin-cammel. Hence the different motor comparing to its little brother: The [[mtr_community:trinsmoton_rail:b92|B92 stock]].
+
+===== History =====
+
+In 1985 and 1986 two new light rail companies were formed: The **Jungle Island Circular Light Railway (JICLR)** and the **Drypsten and Spawn LRT (DSLRT)**. Both which needed a train to be used for the 2 railways. The trains were delivered on time in Mid-1986 to their respective railways and went into service in October that year. The trains on the JICLR are 2 carriages while the DSLRT variant was 4 carriages long by linking 2 B86 stocks together. In 1992 the B86 stock trains on the DSLRT was replaced by the brand new [[mtr_community:trinsmoton_rail:b92|B92 stock]] which has better acceleration speeds than the B86 stocks. In 2012, the B85 stocks on the Jungle Circle Line got a refurbishment. This includes a new motor, and 1 new carriage in between. The trains are painted in a lime green and dark green livery, representing Jungle Island's famous tall green trees.
 
