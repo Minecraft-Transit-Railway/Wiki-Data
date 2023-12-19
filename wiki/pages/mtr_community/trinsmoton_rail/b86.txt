@@ -1,0 +1,15 @@
+<WRAP right>
+
+| **//B86 Stock//** ||
+| {{ https://live.staticflickr.com/5198/5805857372_9414dd0123_b.jpg?400x200&nolink&nocache }} ||
+| **Top Speed** | 80km/h (50mph) |
+| **Built** | 1986 - 1987 |
+| **Carriages** | 2 |
+| **Operator** | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
+
+</WRAP>
+
+====== DLR B86 Stock ======
+
+The **B86 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]].
+
