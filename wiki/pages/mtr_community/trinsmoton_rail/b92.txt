@@ -1,0 +1,15 @@
+<WRAP right>
+
+| **//B92 Stock//** ||
+| {{ https://upload.wikimedia.org/wikipedia/commons/6/62/Electric_Tube_London.jpg?300x300&nolink&nocache }} ||
+| **Top Speed** | 80km/h (50mph) |
+| **Built** | 1990 - 1992 |
+| **Carriages** | 2 per car |
+| **Operator** | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
+
+</WRAP>
+
+====== DLR B92 Stock ======
+
+The **DLR B92 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were built by PDZ, hence the different motor comparing to its brothers: The [[mtr_community:trinsmoton_rail:b86|B85 & B86 stocks]].
+
