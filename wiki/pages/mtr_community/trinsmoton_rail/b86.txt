@@ -11,7 +11,7 @@
 
 ====== DLR B85 & B86 Stock ======
 
-The **DLR B85 & B86 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were the first trains to be used on the DLR and is built by Movin-cammel. Hence the different motor comparing to its little brother: The [[mtr_community:trinsmoton_rail:b92|B92 stock]].
+The **DLR B85 & B86 Stocks** are dual carriage Third Rail Electric Multiple Units running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were the first trains to be used on the DLR and is built by Movin-cammel. Hence the different motor comparing to its little brother: The [[mtr_community:trinsmoton_rail:b92|B92 stock]].
 
 ===== History =====
 
