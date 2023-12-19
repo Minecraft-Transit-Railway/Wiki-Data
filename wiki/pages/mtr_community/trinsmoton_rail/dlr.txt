@@ -46,7 +46,7 @@ In 2003 the 2 railways: JICLR and DSLR merged to become the **United Light Railw
 
 | **Route Name** | **Stops at** |
 | Jungle Circle Line | Jungle Wood, Jungle Beach, Dongton Isle |
-| Drypstensvagtklippe Line | Spawn, Old Spawn, Ocean Bay, Ocean Harbour, Pentium Hills, Pentium Hills East, Isle of Beaches, Forest-by-Jungle (Limited Stop), Acacia Hills, South Drypstensvagtklippe |
+| Drypstensvagtklippe Line | Spawn, Old Spawn, Ocean Bay, Ocean Harbour, Pentium Hills, Pentium Hills East, Isle of Beaches, Forest-by-Jungle (Limited Stop), Acacia Hills, S. Drypstensvagtklippe |
 | Pentium & Valley Line | Pentium Hills East, Krille Valley |
 | Vendover Line | Ashton, Dischbury Park, Vendover |
 | Multi-biome Line | Park Road (Pentium Hills), Ashton, Llama House, Southwest Drypstensvagtklippe, East Jungleton, Sandolly, Lake Devonsfield, Devonsfield, Wheatland-by-the-river (Limited stop), Apex Bridge, Sunder, Three Borders/Old Temple |
