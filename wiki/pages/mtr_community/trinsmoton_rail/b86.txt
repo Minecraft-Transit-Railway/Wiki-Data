@@ -1,7 +1,7 @@
 <WRAP right>
 
 | **//B85, B86 Stock//** ||
-| {{ https://live.staticflickr.com/5198/5805857372_9414dd0123_b.jpg?400x200&nolink&nocache }} ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-20_at_22.07.17.png?400x200&nolink&nocache }} ||
 | **Top Speed** | 80km/h (50mph) |
 | **Built** | 1985 - 1987 |
 | **Carriages** | 2 (Original), 3 (Refurbished) |
