@@ -1,7 +1,7 @@
 <WRAP right>
 
 | **//B92 Stock//** ||
-| {{ https://upload.wikimedia.org/wikipedia/commons/6/62/Electric_Tube_London.jpg?300x300&nolink&nocache }} ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-10-07_at_14.18.31.png?400x200&nolink&nocache }} ||
 | **Top Speed** | 80km/h (50mph) |
 | **Built** | 1990 - 1992 |
 | **Carriages** | 2 per car |
