@@ -1,9 +1,11 @@
 ====== Resource Packs ======
+
 There are several built-in vehicles and signs in this mod. For many people, it's enough, but for some special users, such as servers, open saves, or realistic projects, it's usually not enough.
 
 For solving this, MTR supports custom resource packs. Right now, it supports to add new vehicles and signs. Besides, you can also moderate something like decoration blocks in vanilla way.
 
 ===== What is a Resource pack ? =====
+
 Basically, a Resource pack is a zip-file which, if activated, can change or add new textures, models, music, sounds, languages, texts, without editing Minecraft, or mods directly.
 
 In the context of the mod, Resource packs can provide new sign textures, new trains textures and/or models and/or sounds.
@@ -18,10 +20,14 @@ For other questions about using resourcepacks, see [[https://minecraft.wiki/wiki
 
 ===== Making Resource Packs =====
 
-See [[mtr_extra:resourcepack:make|Making a Resource Pack]].
+For creating custom trains and signage, see [[mtr_extra:resourcepack:make|Making a Resource Pack]].
+
+For importing custom train running sound from BVE4/OpenBVE to an existing MTR custom train, see [[mtr:dev:custom_bve_sound|Custom BVE Train Sound]].
 
 ===== Where can I find one ? =====
+
 There is a dedicated channel in the [[https://discord.gg/PVZ2nfUaTW|MTR Discord server]]. Some packs have a page on this wiki, they are listed down below:
 
+ <nspages -textPages="" -h1 -exclude>
+
 ~~NOCACHE~~
-<nspages -textPages="" -h1 -exclude>
