@@ -59,5 +59,5 @@ Panini Line is a proposed line that goes to the South of Trinsmoton. Not much is
 
 | **Train Class** |   | **Top Speed** | **Carriages** | **Built** |
 | **[[mtr_community:trinsmoton_rail:class_605|Class 605]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-11-20_at_17.51.17.png?354x245 |Trinsmoton Rail Logo}} | 100mph (160km/h) | 3-5 | 2000-2002 |
-| **[[mtr_community:trinsmoton_rail:class_524|Class 524]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-11-21_at_19.40.08.png?354x245 }} | 75mph (120km/h) | 3 | 2010 |
+| **[[mtr_community:trinsmoton_rail:class_524|Class 524]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-11-21_at_19.40.08.png?354x245 }} | 75mph (120km/h) | 3 | 2016 |
 
