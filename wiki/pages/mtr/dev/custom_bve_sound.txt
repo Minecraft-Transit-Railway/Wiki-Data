@@ -14,20 +14,20 @@ You may help improving the page by filling in the missing knowledge.
 
 ===== Prerequisite =====
 
-  - Basic knowledge of adding custom Minecraft sound, train livery via resource pack, and the JSON format.
+  - Basic knowledge of adding custom Minecraft sound, [[mtr_extra:resourcepack:make|custom trains via resource pack]], and the JSON format.
   - An existing BVE4/OpenBVE Train
-  - An custom MTR Mod Train made with Resource Pack(Livery works as well).
+  - An custom MTR Mod train added with Resource Pack (Livery works as well).
   - Software that is capable of exporting **.ogg** file (e.g. [[https://www.audacityteam.org|Audacity]])
-  - (Optional, but makes life way easier) Bulk renaming software (**PowerRename** from [[https://github.com/microsoft/PowerToys|PowerToys]], [[https://apps.kde.org/krename/|KRename]] on Linux, etc.)
+  - //(Optional, but makes life way easier)// Bulk renaming software (**PowerRename** from [[https://github.com/microsoft/PowerToys|PowerToys]], [[https://apps.kde.org/krename/|KRename]] on Linux, etc.)
 
 ===== Process =====
 
-  - Make a copy of your BVE/OpenBVE Train folder, **you should only add/modify/delete files within the newly made copy.**
-  - Find the folder where train sounds are located, they're either located right in the root BVE Train folder, or there might be another Sound Folder within the train folder. (They usually contains bunch of **.wav/.flac** file)
-  - //If you do find another sound folder//, just put all the sound file inside to the root BVE Train Folder
+  - Make a copy of your BVE/OpenBVE Train folder, **only make changes within the newly made copy, not your original one!**
+  - Find the folder where the train sound are located. They're either located right in the main train folder (bunch of sound files), or there might be another //sound// folder within the train folder. (They usually contains bunch of **.wav/.flac** file)
+  - //If you do find another sound folder//, just put all the sound file inside to the main train folder
   - Delete all other files except ***.wav, *.flac**, **train.dat** and **sound.cfg**
   - Rename **all files** **(Including sound.cfg and train.dat)** in that folder to __lowercase letter file name__. You can do it with most bulk renaming software, or you can manually renaming each one of them
-  - Add the following to sound.cfg, below ''Version 1.0:''<code - sound.cfg>
+  - Edit the **sound.cfg** file, by adding the following below the line ''Version 1.0:''<code - sound.cfg>
 [MTR]
 MotorNoiseDataType = 4
 MotorVolumeMultiply = 1
