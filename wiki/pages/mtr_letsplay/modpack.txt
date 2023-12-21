@@ -32,15 +32,16 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 ===== Additional Mods =====
 
-The pack already contains some quality-of-life mods, such as Sodium, Iris, and WorldEdit CUI. If you want to install additional mods, simply drop them into the mods folder. The updater knows which files are added by you and won't delete them.
+The pack only contains the basic stuff needed to join our server, leaving you more space for customizing your experience. To install additional mods, simply drop them into the mods folder. The updater knows which files are added by you and won't delete them.
 
-Some mods you might be interested in:
+The pack already contains optimization mods including Sodium and Iris. \\
+You might be interested in adding some quality-of-life mods for a smoother experience. As a tip, here are a few mods that might be useful, you can choose as per your preference.
 
-  * Distant Horizons
-  * ... or, Bobby
-  * Xaero's Minimap & Xaero's World Map
-  * Fabric-Carpet (for CreativeNoClip)
-  * MiniHud (& Malilib as dependency)
+^ Name & Download ^ Usage ^
+| **[[https://modrinth.com/mod/distanthorizons/versions?l=fabric&g=1.19.2|Distant Horizons]]** | Renders simplified terrain past Minecraft's default view distance \\ - See farther while still getting good performance. |
+| **[[https://modrinth.com/mod/xaeros-world-map/versions?l=fabric&g=1.19.2|Xaero's World Map]]** | Full-screen map. |
+| **[[https://modrinth.com/mod/xaeros-minimap/versions?l=fabric&g=1.19.2|Xaero's MiniMap]]** | Adds marker supports to Xaero's World Map. |
+| **[[https://modrinth.com/mod/carpet/versions?l=fabric&g=1.19.2|Fabric-Carpet]]** | Allows you to no-clip when flying in creative mode. |
 
 ===== Moving your previous stuff over =====
 
