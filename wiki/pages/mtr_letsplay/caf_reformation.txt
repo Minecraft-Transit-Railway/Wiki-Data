@@ -1,0 +1,7 @@
+====== CAF-Train Reformation Programme for Line 3 (Cyan Gray Line) [WIP] ======
+
+
+Type A1: TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx
+ (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 11
+Type A2: AEL E1xx-F1xx remove E1xx driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
+Type B: AEL K4xx change to TCL spec (install windows, remove lugagge racks), J4xx 
