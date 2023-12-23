@@ -4,5 +4,4 @@
 Type A1: TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx
  (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 11
 Type A2: AEL E1xx remove driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
-Type B: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx
-Type C: TCL Y7xx install driver's cabin, renumber to V3xx (odd)
+Type B: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx changes to TCL spec (ibstall 3 doors and lateral seats, remove coach seats), renumber to Z3xx (even), TCL Y7xx install driver's cabin, renumber to V3xx (odd), W7xx install coupler, renumber to Z3xx (odd), AEL E1xx remove driver's cabin, renumber to G3xx (odd), F1xx install coupler, renumber to F3xx (odd) - Total 10
