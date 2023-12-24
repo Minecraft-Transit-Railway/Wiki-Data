@@ -41,12 +41,14 @@ You might be interested in adding some quality-of-life mods for a smoother exper
 | **[[https://modrinth.com/mod/distanthorizons/versions?l=fabric&g=1.19.2|Distant Horizons]]** | Renders simplified terrain past Minecraft's default view distance \\ - See farther while still getting good performance. |
 | **[[https://modrinth.com/mod/xaeros-world-map/versions?l=fabric&g=1.19.2|Xaero's World Map]]** | Full-screen map. |
 | **[[https://modrinth.com/mod/xaeros-minimap/versions?l=fabric&g=1.19.2|Xaero's MiniMap]]** | Adds marker supports to Xaero's World Map. |
+| **[[https://modrinth.com/mod/zoomify/versions?l=fabric&g=1.19.2|Zoomify]]** | Push to zoom in, customizable zoom levels, useful for looking at PIDS. |
+| **[[https://modrinth.com/mod/continuity/versions?l=fabric&g=1.19.2|Continuity]]** | Connected glass pane textures. \\ After installing it's not on by default, you need to enable its resource packs. |
+| **[[https://modrinth.com/mod/freecam/versions?l=fabric&g=1.19.2|Freecam]]** | View builds from a top-down perspective. |
+^ Builders' Utility ^^
+| **[[https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files?page=1&pageSize=20&version=1.19.2&gameVersionTypeId=4|WorldEdit CUI]]** | A graphical user interface for WorldEdit. \\ (Having the selection always showing up is pretty annoying indeed, \\ but WorldEdit CUI allows you to bind a hotkey for the deselection action. \\ Just assign it in control settings, press that key when you're done \\ with WorldEdit stuff and the selection will be gone.) |
 | **[[https://modrinth.com/mod/carpet/versions?l=fabric&g=1.19.2|Fabric-Carpet]]** | Allows you to no-clip when flying in creative mode. |
 
 ===== Moving your previous stuff over =====
 
 In case you've been previously playing and want to keep your Map, Distant Horizons data etc., simply move the associated folders inside ''%%.minecraft%%'' over. These might include ''%%Distant_Horizons_server_data%%'', ''%%XaeroWorldMap%%'', ''%%XaeroWaypoints%%'', etc.
 
-===== I'm a builder and want to hide WorldEdit CUI =====
-
-Having the selection always showing up is pretty annoying indeed, but WorldEdit CUI allows you to bind a hotkey for the deselection action. Just assign it in control settings, press that key when you're done with WorldEdit stuff and the selection will be gone.
