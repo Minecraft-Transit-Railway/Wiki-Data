@@ -48,7 +48,7 @@ Setting it up on the official Mojang launcher is a bit more complicated. I'd rec
 <code ->
 -javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
 </code>
-  * You might want to change the "-Xmx2G" part of this to a larger value, like "-Xmx4G" or "-Xmx8G". It's not the larger the better, but if you have a powerful PC with like 16GB of memory, setting it to 8G would be better.
+  * If you see "-Xmx2G" in JVM arguments, you might want to change it to a larger value, like "-Xmx4G" or "-Xmx8G". It's not the larger the better, you should consider how much RAM your PC has and leave a few GiBs of memory to spare. but if you have a powerful PC with like 16GB of memory, setting it to 8G would be better.
 
 
 
