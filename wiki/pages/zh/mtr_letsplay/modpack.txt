@@ -2,23 +2,15 @@
 
 要加入我们的服务器，您需要安装一些相关的模组。我们把这些模组打成了 **模组整合包** 的形式分发。一旦安装，这个模组包会在我们服务器上升级的时候自动更新，不需要任何手动操作。
 
-===== 支持的启动器 =====
-
-这个模组包支持的启动器包括 **HMCL、PCL2、PrismLauncher、MultiMC** 和 **ATLauncher**。
-
-在官方启动器或者其他一些启动器上设置模组包可能不那么直观，这种情况下我建议使用列表中的启动器，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
-
 ===== 安装教程 =====
 
-==== 链接 ====
+<tabbox HMCL> 
 
 以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
 
 <code ->
 https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
-
-==== HMCL 的操作说明 ====
 
   - 打开 HMCL，点击左侧的 “版本列表”。
   - 点击左下方的 “安装整合包”，选择 “从互联网下载整合包”，将上述的链接粘贴进去，点击确认。
@@ -27,20 +19,35 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
   - 游戏启动后，还需要再下载资源文件。会有一个菜单请您选择从哪个服务器下载，直接回车即可。然后请继续稍等。
   - 进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
 
-==== PCL2 的操作说明 ====
+<tabbox PCL2> 
 
+  - **请确保您使用的是最新版 PCL2！旧版本的 PCL2 安装不了此整合包**。要查看使用的是否是最新版，在 PCL2 中前往 设置->启动器->检查更新。
   - [[https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip|下载整合包的 ZIP 文件]]。
-  - 打开 PCL2 (**请确保您使用的是最新版！旧版本的 PCL2 安装不了此整合包**)，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
+  - 打开 PCL2，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
   - 等待下载完成。
   - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。然后等待更新器下载模组。
   - 游戏启动后，还需要再下载资源文件。会有一个菜单请您选择从哪个服务器下载，直接回车即可。然后请继续稍等。
   - 进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
 
-==== PrismLauncher 和 MultiMC 的操作说明 ====
+<tabbox PrismLauncher/MultiMC> 
+
+以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
+
+<code ->
+https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
+</code>
 
 {{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
 
 （图片由 [[https://joban.tk|The District of Joban]] 服务器的 [[https://lx862.com|LX86]] 提供）
+
+<tabbox 其他启动器>
+
+在其他一些启动器上设置模组包可能不那么直观，这种情况下建议使用列表中的启动器，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
+
+</tabbox>
+
+您需要购买到 Minecraft 国际版正版账号才可以加入。离线（“盗版”）登录是不支持的，也加不进来。
 
 ===== 额外的模组 =====
 
