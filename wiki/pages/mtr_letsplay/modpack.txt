@@ -4,8 +4,6 @@ To join our server you need to install some associated mods. They are distribute
 
 ===== Tutorial for Installing =====
 
-==== Instructions ====
-
 <tabbox PrismLauncher/MultiMC> 
 
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
