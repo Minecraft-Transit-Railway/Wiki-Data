@@ -2,15 +2,11 @@
 
 To join our server you need to install some associated mods. They are distributed as a **modpack**. Once installed, the modpack automatically updates itself whenever we upgrade mods on the server, there's no need to manually update mods.
 
-===== Supported Launchers =====
-
-The launchers that are capable of installing the modpack includes **PrismLauncher, MultiMC, ATLauncher **and **Hello Minecraft! Launcher**.
-
-Setting up modpacks isn't quite as straight-forward on the official Mojang launcher or some other launchers, in which case I'd recommend using a launcher in that list, such as PrismLauncher. It's sorta easy to get used to and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
-
 ===== Tutorial for Installing =====
 
-==== The Link ====
+==== Instructions ====
+
+<tabbox PrismLauncher/MultiMC> 
 
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
 
@@ -18,17 +14,52 @@ The following instructions will involve copying and pasting a link into your lau
 https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
-(Use this link instead should you live in mainland China: ''%%https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip%%'' )
-
-==== Instructions for PrismLauncher and MultiMC ====
-
 {{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
 
-==== Instructions for ATLauncher ====
+(Images courtesy of [[https://lx862.com|LX86]] at [[https://joban.tk|The District of Joban]])
+
+
+
+<tabbox ATLauncher> 
+
+The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
+
+<code ->
+https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
+</code>
 
 {{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?500&nocache}}
 
 (Images courtesy of [[https://lx862.com|LX86]] at [[https://joban.tk|The District of Joban]])
+
+
+
+<tabbox Minecraft Launcher>
+
+Setting it up on the official Mojang launcher is a bit more complicated. I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
+
+  * Download the [[https://fabricmc.net/use/installer/|Fabric Installer]] and install Fabric Loader for Minecraft 1.19.2.
+  * Start the Minecraft Installer, go to "Minecraft: Java Edition", and select the "Installations" page.
+  * Find the "fabric-loader-1.19.2" installation. If you needs to change its "Game Directory", change it now.
+
+  * Click on the folder button to open its game directory. Download [[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/packwiz-installer.zip|This ZIP archive containing JARs for Packwiz-Installer]], and extract the JARs into this game directory. They need to be in this directory, don't extract them into a sub-directory.
+  * Click the three-dots button besides the "fabric-loader-1.19.2" installation, select edit, and select "more options".
+  * Prepend the following text to "JVM arguments": \\ (Leave a space between the end of "toml" and the rest of the existing texts! Like: ...toml -Xmx, Not like: ...toml-Xmx)
+<code ->
+-javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
+</code>
+  * You might want to change the "-Xmx2G" part of this to a larger value, like "-Xmx4G" or "-Xmx8G". It's not the larger the better, but if you have a powerful PC with like 16GB of memory, setting it to 8G would be better.
+
+
+
+<tabbox Others>
+
+I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
+
+Also, you must own a geniune Minecraft account purchased from Mojang in order to join our server. Offline ("cracked") login is not supported and won't work.
+  
+</tabbox>
+
 
 ===== Additional Mods =====
 
