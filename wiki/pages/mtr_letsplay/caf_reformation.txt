@@ -2,8 +2,14 @@
 
 
 Type A1: TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx
- (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 11
+ (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 8
 
-Type A2: AEL E1xx remove driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
+Type A2: AEL E1xx remove driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
 
-Type B: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx changes to TCL spec (ibstall 3 doors and lateral seats, remove coach seats), renumber to Z3xx (even), TCL Y7xx install driver's cabin, renumber to V3xx (odd), W7xx install coupler, renumber to Z3xx (odd), AEL E1xx remove driver's cabin, renumber to G3xx (odd), F1xx install coupler, renumber to F3xx (odd) - Total 10
+Type A3: Same as Type A1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF - Total 3
+
+Type B1: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx changes to TCL spec (install 3 doors and lateral seats, remove coach seats), renumber to Z3xx (even), TCL Y7xx install driver's cabin renumber to V3xx (odd), W7xx install coupler, renumber to Z3xx (odd), AEL E1xx remove driver's cabin, renumber to G3xx (odd), F1xx install coupler, renumber to F3xx (odd) - Total 7
+
+Type B2: Same as Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF - Total 3
+
+Type C: AEL K4xx change to TCL spec renumber to V3xx (even), J4xx rotate 180° renumber to F3xx (odd), TCL one Y7xx install driver's cabin renumber to V3xx (odd), one W7xx install coupler renumber to Z3xx (odd), another Y7xx change to AEL spec renumber to G3xx (odd), another W7xx rotate 180° and install coupler renumber to Z3xx (even) - Total 1
