@@ -15,21 +15,32 @@
 
 There are in broad 3 types of reformation, named **Type A**, **Type B** and **Type C**. Types A and B are further split into **Type A1**, **Type A2**, **Type A3**, **Type B1** and **Type B2**. 
 
-^  Original\\ Car Number  ^  Changes  ^  New\\ Car Number  ^
+^  Original\\ Car Number  ^  Change(s)  ^  New\\ Car Number  ^
 ^  Type A1  ||^
+|  TCL V8xx  |  No Change  |  V3xx (odd)  |
+|  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
+|  AEL H2xx  |  No Change  |  G3xx (odd)  |
+|  AEL F2xx  |  Install automatic coupler  |  F3xx (odd)  |
+|  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
+|  TCL V6xx  |  No Change  |  V3xx (even)  |
 ^  Type A2  ||^
+|  TCL V8xx  |  No Change  |  V3xx (odd)  |
+|  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
+|  AEL E1xx  |  Uninstall driver's cabin  |  G3xx (odd)  |
+|  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
+|  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
+|  TCL V6xx  |  No Change  |  V3xx (even)  |
 ^  Type A3  ||^
 |  Similar to Type A1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
 ^  Type B1  ||^
+|  TCL Y7xx  |  Install driver's cabin  |  V3xx (odd)  |
+|  TCL W7xx  |  Install automatic coupler  |  Z3xx (odd)  |
+|  AEL E1xx  |  Uninstall driver's cabin  |  G3xx (odd)  |
+|  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
+|  AEL J4xx  |  
 ^  Type B2  ||^
 |  Similar to Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
 ^  Type C  ||^
-
-
-Type A1: TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx
- (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 8
-
-Type A2: AEL E1xx remove driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
 
 Type B1: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx changes to TCL spec (install 3 doors and lateral seats, remove coach seats), renumber to Z3xx (even), TCL Y7xx install driver's cabin renumber to V3xx (odd), W7xx install coupler, renumber to Z3xx (odd), AEL E1xx remove driver's cabin, renumber to G3xx (odd), F1xx install coupler, renumber to F3xx (odd) - Total 7
 
