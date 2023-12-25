@@ -1,6 +1,6 @@
 ====== CAF-Train Reformation Programme for Line 3 (Cyan Gray Line) [WIP] ======
 
-**[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's CAF-Train solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on Tung Chung Line and 11 trainsets running on the Airport Express need reforming to get the 23 desired trainsets.
+**[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's [[wp>MTR_Adtranz_CAF_EMU|CAF-Train]] solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on [[wp>tung_chung_line|Tung Chung Line]] (TCL) and 11 trainsets running on the [[wp>airport_express|Airport Express]] (AEL) need reforming to get the 23 desired trainsets.
 
 
 ^  Car Formation of CAF-Trains after reformation  |||||^
@@ -13,7 +13,7 @@
 |  **F3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 |  **G3xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
 
-There are in board 3 types of reformation，named **Type A**, **Type B** and **Type C**. Types A and B are further split into **Type A1**, **Type A2**, **Type A3**, **Type B1** and **Type B2**. 
+There are in broad 3 types of reformation, named **Type A**, **Type B** and **Type C**. Types A and B are further split into **Type A1**, **Type A2**, **Type A3**, **Type B1** and **Type B2**. 
 
 ^  Original\\ Car Number  ^  Changes  ^  New\\ Car Number  ^
 ^  Type A1  ||^
