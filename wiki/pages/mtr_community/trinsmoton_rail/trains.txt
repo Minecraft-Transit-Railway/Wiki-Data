@@ -1,0 +1,21 @@
+====== All rolling stocks of Trinsmoton Rail ======
+
+| **Current** |   | **Top Speed** | **Operates on** |
+| [[mtr_community:trinsmoton_rail:class_250|Class 250]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-10-28_at_12.09.46.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail#Regional|Regional]], [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| [[mtr_community:trinsmoton_rail:class_251|Class 251]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_13.03.42.png?400x200&nolink&nocache }}  | 120km/h (75mph) | [[mtr_community:trinsmoton_rail:zenrail|ZenRail]] |
+| [[mtr_community:trinsmoton_rail:class_210|Classes 210, 211]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_13.10.10.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:zenrail|ZenRail]] |
+| [[mtr_community:trinsmoton_rail:class_600|Class 600]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-09_at_10.07.10.png?400x200&nolink&nocache }}  | 224km/h (140mph) | [[mtr_community:trinsmoton_rail:zenrail|ZenRail]] |
+| [[mtr_community:trinsmoton_rail:class323|Class 323 (BR)]] | {{ :mtr_community:screenshot_2023-10-12_at_17.43.01.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:northern|Northern Rail]] |
+| [[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS) ]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:northern|Northern Rail]] |
+| [[mtr_community:trinsmoton_rail:class_604|Class 603]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-15_at_16.48.50.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:northern|Northern]] |
+| [[mtr_community:trinsmoton_rail:class_604|Class 604]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
+| [[mtr_community:trinsmoton_rail:class_605|Class 605]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_13.36.05.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
+| [[mtr_community:trinsmoton_rail:class_608|Class 608]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-15_at_16.43.48.png?400x200&nolink&nocache }}  | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:nctr|NCTR]] |
+| [[mtr_community:trinsmoton_rail:class_191|Class 191]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| [[mtr_community:trinsmoton_rail:class_420|Class 420]] | {{ :mtr_community:trinsmoton_rail:class420tr.png?400x200&nolink&nocache }}  | 120km/h (75mph) | [[mtr_community:trinsmoton_rail#Regional|Regional]], [[mtr_community:trinsmoton_rail:overground|Overground]] |
+| [[mtr_community:trinsmoton_rail:class_203|Class 203]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
+| [[mtr_community:trinsmoton_rail:1996_stock|1996 Stock]] |   | 160km/h (100mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
+| [[mtr_community:trinsmoton_rail:cx100|CX100]] |   | 80km/h (50mph) | [[mtr_community:trinsmoton_rail:underground|Underground]] |
+| [[mtr_community:trinsmoton_rail:b86|B86]] |   | 80km/h (50mph) | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
+| [[mtr_community:trinsmoton_rail:b92|B92]] |   | 80km/h (50mph) | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
+| [[mtr_community:trinsmoton_rail:class_202|Class 202]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-16_at_12.59.46.png?400x200&nolink&nocache }}  | 40km/h (25mph) | [[mtr_community:trinsmoton_rail:dlr|DLR]] |
