@@ -1,15 +1,36 @@
 ====== CAF-Train Reformation Programme for Line 3 (Cyan Gray Line) [WIP] ======
 
+**[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's CAF-Train solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on Tung Chung Line and 11 trainsets running on the Airport Express need reforming to get the 23 desired trainsets.
+
+
+^  Car Formation of CAF-Trains after reformation  |||||^
+|//<- To West Lake & Mita-Shiro//|||  //To Llanmara & Airport ->//|||
+|  V3xx(odd) - Z3xx(odd) + G3xx(odd) - F3xx (odd) + Z3xx(even) - V3xx(even)  ||||||
+|  //xx refers to any number from 01 to 46//  ||||||
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cyan Car\\ (Premium class seating)  ^  Automatic Coupler  ^
+|  **V3xx**  |  **O**  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **Z3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
+|  **F3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
+|  **G3xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
+
+There are in board 3 types of reformation，named **Type A**, **Type B** and **Type C**. Types A and B are further split into **Type A1**, **Type A2**, **Type A3**, **Type B1** and **Type B2**. 
+
+^  Original\\ Car Number  ^  Changes  ^  New\\ Car Number  ^
+^  Type A1  ||^
+^  Type A2  ||^
+^  Type A3  ||^
+|  Similar to Type A1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
+^  Type B1  ||^
+^  Type B2  ||^
+|  Similar to Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
+^  Type C  ||^
+
 
 Type A1: TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx
  (even), AEL H2xx-F2xx install coupler on F2xx, renumber to G3xx-F3xx (odd) - Total 8
 
 Type A2: AEL E1xx remove driver's cabin, install coupler on F1xx, renumber to G3xx-F3xx (odd), TCL V8xx-Z8xx renumber V3xx-Z3xx (odd), V6xx-W6xx install coupler on W6xx renumber V3xx-Z3xx (even) - Total 1
 
-Type A3: Same as Type A1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF - Total 3
-
 Type B1: AEL K4xx change to TCL spec (install windows, remove lugagge racks) renumber to V3xx (even), J4xx changes to TCL spec (install 3 doors and lateral seats, remove coach seats), renumber to Z3xx (even), TCL Y7xx install driver's cabin renumber to V3xx (odd), W7xx install coupler, renumber to Z3xx (odd), AEL E1xx remove driver's cabin, renumber to G3xx (odd), F1xx install coupler, renumber to F3xx (odd) - Total 7
-
-Type B2: Same as Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF - Total 3
 
 Type C: AEL K4xx change to TCL spec renumber to V3xx (even), J4xx rotate 180° renumber to F3xx (odd), TCL one Y7xx install driver's cabin renumber to V3xx (odd), one W7xx install coupler renumber to Z3xx (odd), another Y7xx change to AEL spec renumber to G3xx (odd), another W7xx rotate 180° and install coupler renumber to Z3xx (even) - Total 1
