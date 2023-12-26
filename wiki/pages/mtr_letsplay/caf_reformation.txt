@@ -1,13 +1,13 @@
 ====== CAF-Train Reformation Programme for Line 3 (Cyan Gray Line) [WIP] ======
 
-**[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's [[wp>MTR_Adtranz_CAF_EMU|CAF-Train]] solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on [[wp>tung_chung_line|Tung Chung Line]] (TCL) and 11 trainsets running on the [[wp>airport_express|Airport Express]] (AEL) need reforming to get the 23 desired trainsets.
+**[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's [[wp>MTR_Adtranz–CAF_EMU|CAF-Train]] solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on [[wp>Tung_Chung_Line|Tung Chung Line]] (TCL) and 11 trainsets running on the [[wp>Airport_Express_(MTR)|Airport Express]] (AEL) need reforming to get the 23 desired trainsets.
 
 
 ^  Car Formation of CAF-Trains after reformation  |||||^
 |//<- To West Lake & Mita-Shiro//|||  //To Llanmara & Airport ->//|||
 |  V3xx(odd) - Z3xx(odd) + G3xx(odd) - F3xx (odd) + Z3xx(even) - V3xx(even)  ||||||
 |  //xx refers to any number from 01 to 46//  ||||||
-^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cyan Car\\ (Premium class seating)  ^  Automatic Coupler  ^
+^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cyan Car\\ (Premium class / coach seats)  ^  Automatic Coupler  ^
 |  **V3xx**  |  **O**  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
 |  **Z3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
 |  **F3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
