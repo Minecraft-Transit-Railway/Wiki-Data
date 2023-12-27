@@ -1,10 +1,13 @@
 <WRAP right>
 
 | **//Trinsmoton Rail Class 377 (BRETS)//** ||
-| {{ :mtr_community:trinsmoton_rail:screenshot_2023-09-27_at_20.33.39.png?400x200 }} ||
+| {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_17.06.03.png?400x200&nolink&nocache }} ||
+| **Carriages** | 3-5 |
 | **Top Speed** | 100mph(160km/h) |
+| **In service** | 2003 - present |
+| **Operates on** | [[mtr_community:trinsmoton_rail:northern|Northern]], [[mtr_community:trinsmoton_rail:vtr|VTR]] |
 
 </WRAP>
 
 ====== Trinsmoton Rail Class 377 (BRETS) ======
-
+The **Trinsmoton Rail Class 377 (BRETS)** is an electric multiple unit that is built by [[https://en.wikipedia.org/wiki/Bombardier_Transportation|Bombardier Transportation]].
