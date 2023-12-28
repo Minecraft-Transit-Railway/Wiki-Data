@@ -18,20 +18,20 @@
 | ::: | German |
 | **Let's Play Lines** | @#AE0D3F: <color #FFFFFF>%% %%CrossCountry </color> |
 | ::: | @#E20177: <color #FFFFFF>%% %%Great Western </color> |
-| ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail </color> |
+| ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail (Defunct) </color> |
 | **Joined Discord** | 27th December 2021 |
 
 </WRAP>
 
-**ElectrostarJudge** is a staff member in the [[mtr:start|Minecraft Transit Railway]] Discord community. He joined in December 2021 and became a member of the Staff Team as a Moderator in July 2022, before subsequently being the final person promoted to Staff before the Moderator role was dissolved and merged with the Staff role. Electrostar started out as just a member of the Centralia server, where his friendship with HistoryButt and [[mtr_community:autobusfahrer|autobusfahrer]] began, before the unfortunate demise of the now mych missed Centralia. Electrostar also owns the namesake operator Electrostar Rail, his first large project, Great Western, a regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the [[mtr_letsplay:start|Let's Play Server]] to connect cities in the similar style to the real life [[https://en.wikipedia.org/wiki/CrossCountry|CrossCountry Trains]] operator.
+**ElectrostarJudge** is a staff member in the [[mtr:start|Minecraft Transit Railway]] Discord community. He joined in December 2021 and became a member of the Staff Team as a Moderator in July 2022, before subsequently being the final person promoted to Staff before the Moderator role was dissolved and merged with the Staff role. Electrostar started out as just a member of the Centralia server, where his friendship with HistoryButt and [[mtr_community:autobusfahrer|autobusfahrer]] began, before the unfortunate demise of the now much missed Centralia. Electrostar also owns the namesake operator Electrostar Rail (now defunct), his first large project, Great Western, a regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the [[mtr_letsplay:start|Let's Play Server]] to connect cities in the similar style to the real life [[https://en.wikipedia.org/wiki/CrossCountry|CrossCountry Trains]] operator, and East Midlands Railway, a suburban operator as well as operating long distance regional services.
 
 Electrostar is British, and therefore has a decent knowledge of UK trains, which he can often be found giving incredibly biased opinions on or firing off random photos of trains into the #train-talk channel of the discord. As well as this, he's also into motorsport, especially sportscars, and can sometimes be located in #off-topic complaining about the teams he supports getting taken out or retiring, and lauding praise on them if they get a good result.
 
 ===== Let's Play Server =====
 
-**Electrostar Rail**
+**Electrostar Rail (Defunct)**
 
-Electrostar Rail was the first major project Electro worked on within the Lets Play Server. The operator runs alongside Riverside Line services between Llanmara St Devota and Benfleet stations, before venturing out to Ilford Island via Kirkenkessie Gateway. Some services are diverted from Llanmara St Devota to Hampton West after Winbeck, as well as having an additional station call at Red Creek. These trains provide local connections to DLR routes from Kirkenkessie Bank station, as well as for High Speed services to Einsburg Central & Twyford. It also provides a shuttle service between Ilford Island and Ilford Parkway, connecting Overground trains with the Wilds Railway Hoku-Hoku Line, Einsburg Line, Wadern Branch and mainline Electrostar Rail services.
+Electrostar Rail was the first major project Electro worked on within the Lets Play Server. The operator ran alongside Riverside Line services between Llanmara St Devota and Benfleet stations, before venturing out to Ilford Island via Kirkenkessie Gateway. Some services were diverted from Llanmara St Devota to Hampton West after Winbeck, as well as having an additional station call at Red Creek. These trains provided local connections to DLR routes from Kirkenkessie Bank station, as well as for High Speed services to Einsburg Central & Twyford. It also provided a shuttle service between Ilford Island and Ilford Parkway, connecting Overground trains with the Wilds Railway Hoku-Hoku Line, Einsburg Line, Wadern Branch and mainline Electrostar Rail services. This operator has now been superseded by East Midlands Railway, starting an overhaul of the ex-Electrostar Rail infrastructure and fleet.
 
 **Great Western**
 
