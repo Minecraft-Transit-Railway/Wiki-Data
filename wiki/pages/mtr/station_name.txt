@@ -31,7 +31,7 @@ The station name blocks are decorative blocks that inform passengers of the name
 
 ==== Breaking ====
 
-Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, they will still drop itself. They have a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. For the station name (wall) and station name (entrance) block, if the block behind it is broken, the station name (wall) is dropped.
+Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be mined, in which case it drops itself. When mined without a pickaxe, they will still drop itself. They have a [[https://minecraft.wiki/w/Breaking#Blocks_by_hardness|hardness]] of 2. For the station name (wall) and station name (entrance) block, if the block behind it is broken, the station name (wall / entrance) is dropped.
 
 ==== Crafting ====
 
