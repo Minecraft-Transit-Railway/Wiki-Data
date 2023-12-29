@@ -12,9 +12,9 @@ The following instructions will involve copying and pasting a link into your lau
 https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
-{{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
-
-(Images courtesy of [[https://lx862.com|LX86]] at [[https://joban.tk|The District of Joban]])
+  * Click the **Add Instance** button on the top-left corner.
+  * Click **Import from ZIP** on the left side, then paste the link into the field on the right. And then click OK.
+  * Double click the new instance.
 
 
 
@@ -26,9 +26,9 @@ The following instructions will involve copying and pasting a link into your lau
 https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
-{{https://media.discordapp.net/attachments/1094974067934777556/1129372596941639771/Modpack_install_at_new.png?500&nocache}}
-
-(Images courtesy of [[https://lx862.com|LX86]] at [[https://joban.tk|The District of Joban]])
+  * Click the **Instance** tab on the right, then click the **Import** button on the top-left corner.
+  * Paste the link into the field next to "URL:", and click Import.
+  * Click the "Play" button on the new instance.
 
 
 
@@ -38,15 +38,16 @@ Setting it up on the official Mojang launcher is a bit more complicated. I'd rec
 
   * Download the [[https://fabricmc.net/use/installer/|Fabric Installer]] and install Fabric Loader for Minecraft 1.19.2.
   * Start the Minecraft Installer, go to "Minecraft: Java Edition", and select the "Installations" page.
-  * Find the "fabric-loader-1.19.2" installation. If you needs to change its "Game Directory", change it now.
+  * Find the "fabric-loader-1.19.2" installation. If you needs to change its "Game Directory", change it now. You can also rename it to your preference.
 
   * Click on the folder button to open its game directory. Download [[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/packwiz-installer.zip|This ZIP archive containing JARs for Packwiz-Installer]], and extract the JARs into this game directory. They need to be in this directory, don't extract them into a sub-directory.
-  * Click the three-dots button besides the "fabric-loader-1.19.2" installation, select edit, and select "more options".
+  * Click the three-dots button besides this installation, select edit, and select "more options".
   * Prepend the following text to "JVM arguments": \\ (Leave a space between the end of "toml" and the rest of the existing texts! Like: ...toml -Xmx, Not like: ...toml-Xmx)
 <code ->
 -javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
 </code>
   * If you see "-Xmx2G" in JVM arguments, you might want to change it to a larger value, like "-Xmx4G" or "-Xmx8G". It's not the larger the better, you should consider how much RAM your PC has and leave a few GiBs of memory to spare. but if you have a powerful PC with like 16GB of memory, setting it to 8G would be better.
+  * Get back to the Installations screen, and click the Play button next to this installation.
 
 
 
@@ -59,23 +60,23 @@ Also, you must own a geniune Minecraft account purchased from Mojang in order to
 </tabbox>
 
 
+===== Optional Mods =====
+
+After launching the game, you may see a window like this. These are several mods that can enhance the gaming experience, but they are not directly installed by default because people may have different preferences. Click on each item to view its features. Please choose according to your preference and check the box in front of the mods you want to install.
+
+{{:mtr_letsplay:packwiz_optional_mods.png?400|}}
+
+If you want to modify options, you can come back to install or remove them later, by clicking "Optional mods..." when starting the game.
+
+===== Joining the Server =====
+
+After launching the game, the resource pack will be downloaded. A menu will appear for you to choose which server to download from — simply press Enter. Then, please wait a moment.\\
+After entering the Minecraft main menu, adjust the language as needed, and enter "Multiplayer". The server address has already been pre-set in the list, so click on it to join.
+
+
 ===== Additional Mods =====
 
-The pack only contains the basic stuff needed to join our server, leaving you more space for customizing your experience. To install additional mods, simply drop them into the mods folder. The updater knows which files are added by you and won't delete them.
-
-The pack already contains optimization mods including Sodium and Iris. \\
-You might be interested in adding some quality-of-life mods for a smoother experience. As a tip, here are a few mods that might be useful, you can choose as per your preference.
-
-^ Name & Download ^ Usage ^
-| **[[https://modrinth.com/mod/distanthorizons/versions?l=fabric&g=1.19.2|Distant Horizons]]** | Renders simplified terrain past Minecraft's default view distance \\ - See farther while still getting good performance. |
-| **[[https://modrinth.com/mod/xaeros-world-map/versions?l=fabric&g=1.19.2|Xaero's World Map]]** | Full-screen map. |
-| **[[https://modrinth.com/mod/xaeros-minimap/versions?l=fabric&g=1.19.2|Xaero's MiniMap]]** | Adds marker supports to Xaero's World Map. |
-| **[[https://modrinth.com/mod/zoomify/versions?l=fabric&g=1.19.2|Zoomify]]** | Push to zoom in, customizable zoom levels, useful for looking at PIDS. |
-| **[[https://modrinth.com/mod/continuity/versions?l=fabric&g=1.19.2|Continuity]]** | Connected glass pane textures. \\ After installing it's not on by default, you need to enable its resource packs. |
-| **[[https://modrinth.com/mod/freecam/versions?l=fabric&g=1.19.2|Freecam]]** | View builds from a top-down perspective. |
-^ Builders' Utility ^^
-| **[[https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files?page=1&pageSize=20&version=1.19.2&gameVersionTypeId=4|WorldEdit CUI]]** | A graphical user interface for WorldEdit. \\ (Having the selection always showing up is pretty annoying indeed, \\ but WorldEdit CUI allows you to bind a hotkey for the deselection action. \\ Just assign it in control settings, press that key when you're done \\ with WorldEdit stuff and the selection will be gone.) |
-| **[[https://modrinth.com/mod/carpet/versions?l=fabric&g=1.19.2|Fabric-Carpet]]** | Allows you to no-clip when flying in creative mode. |
+To install more additional mods that you prefer, simply drop them into the mods folder. The updater knows which files are added by you and won't delete them.
 
 ===== Moving your previous stuff over =====
 
