@@ -15,9 +15,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
   - 打开 HMCL，点击左侧的 “版本列表”。
   - 点击左下方的 “安装整合包”，选择 “从互联网下载整合包”，将上述的链接粘贴进去，点击确认。
   - 等待下载完成，然后点击 “安装”，然后继续稍等。
-  - 返回 HMCL 主界面，点击右下方的 “启动游戏”。然后等待更新器下载模组。
-  - 游戏启动后，还需要再下载资源文件。会有一个菜单请您选择从哪个服务器下载，直接回车即可。然后请继续稍等。
-  - 进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
+  - 返回 HMCL 主界面，点击右下方的 “启动游戏”。
 
 <tabbox PCL2> 
 
@@ -25,9 +23,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
   - [[https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip|下载整合包的 ZIP 文件]]。
   - 打开 PCL2，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
   - 等待下载完成。
-  - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。然后等待更新器下载模组。
-  - 游戏启动后，还需要再下载资源文件。会有一个菜单请您选择从哪个服务器下载，直接回车即可。然后请继续稍等。
-  - 进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
+  - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。
 
 <tabbox PrismLauncher/MultiMC> 
 
@@ -49,22 +45,24 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 您需要购买到 Minecraft 国际版正版账号才可以加入。离线（“盗版”）登录是不支持的，也加不进来。
 
-===== 额外的模组 =====
+===== 可选模组 =====
 
-本模组包已经包含了一些提升游戏体验的模组，如 Sodium、Iris 和 WorldEdit CUI。如果您想再安装额外的模组，只需将它们放入 mods 文件夹中。更新器知道哪些文件是您添加的，不会删除它们。
+游戏启动后，您可能会看到这样的一个窗口。这是几个可以提升游戏体验的模组，不过因为不同人有不同偏好，没有直接默认安装。点击每一项可以查看功能说明，请您按照自己的喜好来选择，在想要安装的模组前打勾即可安装。
 
-一些您可能感兴趣的模组：
+{{:mtr_letsplay:packwiz_optional_mods.png?400|}}
 
-  * Distant Horizons
-  * ... 或者，Bobby
-  * Xaero's Minimap 和 Xaero's World Map
-  * Fabric-Carpet（用于 CreativeNoClip）
-  * MiniHud（及其依赖项 Malilib）
+如果想要修改选项，稍后再启动游戏时，点击 "Optional mods..." 即可回来再安装或者卸载它们。
+
+===== 加入服务器 =====
+
+游戏启动后，还需要再下载资源文件。会有一个菜单请您选择从哪个服务器下载，直接回车即可。然后请继续稍等。\\
+进入 Minecraft 主界面后，按需调整语言，进入 “多人游戏”。服务器地址已经被我们预先设定在列表里了，直接点击即可加入。
+
+===== 额外再安装模组 =====
+
+本模组包已经包含了一些提升游戏体验的模组。如果您想再安装额外的模组，只需将它们放入 mods 文件夹中。更新器知道哪些文件是您添加的，不会删除它们。
 
 ===== 迁移您以前的内容 =====
 
-如果您以前已经在玩游戏并希望保留您的大地图、Distant Horizons 数据等，只需将关联的文件夹移到 ''%%.minecraft%%'' 中。这些文件夹包括 ''%%Distant_Horizons_server_data%%''、''%%XaeroWorldMap%%''、''%%XaeroWaypoints%%'' 等。
+如果您以前已经在玩游戏并希望保留您的大地图、Distant Horizons 数据等，只需将关联的文件夹移到 ''%%.minecraft%%'' 中。这些文件夹包括 ''%%Distant_Horizons_server_data%%''、''%%XaeroWorldMap%%''、''%%XaeroWaypoints%%'' 等。 
 
-===== 我是建筑师，想要隐藏 WorldEdit CUI =====
-
-一直显示着选区框确实很烦人，但是 WorldEdit CUI 有为取消选择操作绑定热键的功能。只需在控制设置中绑定键位，在使用完 WorldEdit 后按下该键，选择框就会消失。
