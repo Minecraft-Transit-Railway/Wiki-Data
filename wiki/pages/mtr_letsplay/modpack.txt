@@ -71,7 +71,10 @@ If you want to modify options, you can come back to install or remove them later
 
 ===== Joining the Server =====
 
-After launching the game, the resource pack will be downloaded. A menu will appear for you to choose which server to download from — simply press Enter. Then, please wait a moment.\\
+Wait a while - it might take a few minutes until the game window appears.
+
+After launching the game, the resource pack will be downloaded. A menu will appear for you to choose which server to download from — simply press Enter. Then, please wait a moment.
+
 After entering the Minecraft main menu, adjust the language as needed, and enter "Multiplayer". The server address has already been pre-set in the list, so click on it to join.
 
 
