@@ -33,9 +33,9 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
-{{https://media.discordapp.net/attachments/1094974067934777556/1129372544047251608/Modpack_install_new.png?500&nocache}}
-
-（图片由 [[https://joban.tk|The District of Joban]] 服务器的 [[https://lx862.com|LX86]] 提供）
+  * 点击左上角的 **添加实例** 按钮。
+  * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
+  * 双击新出现的实例图标。
 
 <tabbox 其他启动器>
 
