@@ -16,7 +16,7 @@
 | ::: |@#036afa: [[/circulator_ip|Circulator IP]] |
 | ::: |@#19dfde: [[/lakeside_mystic_line|Lakeside Mystic Line]] |
 | ::: |@#6b4799: [[/elizabeth_line|Elizabeth Line]] |
-| ::: |@#EB7AE9: [[wlt_line_1|WLT Line 1 Phase 1]] |
+| ::: |@#EB7AE9: [[wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
 | ::: |@#0fbfe5: [[/wr_bus_service|WR Bus Service]] |
 | ::: |@#a5c83b: [[/cyanex_sumeru_line|CyanEX Sumeru Line]] |
 | **Line Color** | @#0FBFE4: #0FBFE4 //Champion Blue// |
@@ -99,7 +99,7 @@ No other further plans are set for SW Plains Line as Navi has to focus on other 
 |  @#59d8ce:  |  [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]]  |  %%倉鼠洲%%  |  @#0fbfe5:  WR Bus Rt. 1  |  Unknown  |  Jinnapak  |
 | ::: | ::: | ::: |  @#575085:  <color #ffffff>LPR Busways Rt. 1P</color>  | ::: | ::: |
 |  @#89b239:  |  [[mtr_letsplay:hakura_island_station|Haruka Island]]  |  %%遥島%%  |  None  | ::: |  West Lake  |
-|  @#51C7FA:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|WLT Line 1 Phase 1]]  |  26th August, 2022  | ::: |
+|  @#51C7FA:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  26th August, 2022  | ::: |
 |  @#0591bb:  |  [[mtr_letsplay:sw_plains_station|SW Plains]]  |  %%西南曠野%%  |  @#6b4799:<color #ffffff>Elizabeth Line</color>  |  12th August, 2022  | ::: |
 | ::: | ::: | ::: |  @#a5c83b:  CyanEX Sumeru Line  | ::: | ::: |
 |  @#3bf443:  |  [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]]  |  %%石灘島%%  |  None  |  9th August, 2022  |  Ishikari and Lake City  |
