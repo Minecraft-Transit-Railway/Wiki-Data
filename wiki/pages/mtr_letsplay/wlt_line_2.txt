@@ -10,7 +10,7 @@
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
 | **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
-| **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|WLT Line 1 Phase 1]]</color> |
+| **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Future Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#000000:<color white>Hana-Koshi Line</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
@@ -35,7 +35,7 @@
 
 **Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 and QLR North Coast Line. 
 
-The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of WLT Line 1 Phase 1((Magenta mixing with yellow forms red)).
+The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line) Phase 1((Magenta mixing with yellow forms red)).
 
 ===== History =====
 
@@ -64,7 +64,7 @@ Before the line is fully ready, a special shuttle service already started betwee
 
 ===== Rolling Stocks =====
 
-Similar to WLT Line 1, since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 
+Similar to Line 1 (Meyan Line), since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 
 
 There are also 1 set of M-Train (phase 2A) and 3 sets of K-Train has started serving passengers. 
 
@@ -124,9 +124,9 @@ Trains are all serving from Kwong Chow to Sai Mo Island without intermediate sto
 ^  Average Train Intervals (in mins)  |^
 |  @#FFDA33:  ||
 |  **Time Session**  \\  (in UTC)  |  **Line 2 (Kwong Chow - North Coast Line)**  |
-|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 3 - 5  |
-|Off Peak\\ (3 am - 12 pm) \\ (3 pm - 7 pm)| ::: |
-| (9 pm - 3 am) |  5 - 7  |
+| \\ 1 am - 3 pm\\ <html>&nbsp</html>|  \\ 3 - 5  |
+|\\ 3 pm - 7 pm|  \\ 5 - 7  |
+|9 pm - 1 am\\ <html>&nbsp</html>| ::: |
 
 </WRAP>
 
