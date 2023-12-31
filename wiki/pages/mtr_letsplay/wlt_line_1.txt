@@ -1,12 +1,12 @@
-====== WLT Line 1 Phase 1 ======
+====== Line 1 (Meyan Line) Phase 1 ======
 
 <WRAP right>
 
-^  WLT Line 1 Phase 1\\ 西湖交通一號綫一期  |^
+^  Line 1 (Meyan Line) Phase 1\\ 一號 (美岩) 綫一期  |^
 |  @#EB7AE9:  ||
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
-| **Status** | Operational\\ //(Northern Snow Village - Providence)//\\ Under renovation\\  //(Providence - Kwong Chow)// |
+| **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
@@ -17,28 +17,28 @@
 | ::: | @#7091FF:<color white>[[sightseeing_express|Sightseeing Express]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2]]\\ [[/wlt_line_2|(Kwong Chow - North Coast Line)]]</color> |
-| **Stations** | 7 //(1 work in progress)// |
+| **Stations** | 7 |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 24/7 |
-| **Frequency** | Every 5m15s |
+| **Service Hours** | 20:35 - next day 19:00\\ //(UTC)// |
+| **Frequency** | Every 3 - 11 mins |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ After renovation:\\ TBA |
+| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//|
 ^  Technical  |^
 | **Line Length** | 5.8 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
-| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Northern Snow Village - Hung Ngai Tung)// |
+| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Providence - Kwong Chow)// |
 | **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  {{/line_1_p1_n_rm.png?330}}  ||
+|  //(pending)//  ||
 
 </WRAP>
 
-**WLT Line 1 Phase 1** (Chinese: //西湖交通一號綫一期//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale.
+**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), originally known as **WLT Line 1 Phase 1**, is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale.
 
 The line is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
 
@@ -60,7 +60,11 @@ After the north part connection is done, the main part starts construction. Alon
 
 Hung Ngai Tung station is done after 3 months and starts serving passengers. Meanwhile, the only service between [[/denthrope|Denthrope]] and Spawn Kowloon Commuter (now [[/hillside_line|Hillside Line]]) has been shut down by the operator [[/ERInc|ERInc]] for a while. Some R2C players complain they have to make a detour via [[/Llanmara|Llanmara]], and because of a lack of fast and direct service between Denthrope and Llanmara, they are disadvantageous comparing to other directions in similar radius. WLT offers to help by operating a special service southbound from Mesa station, close to Denthrope area, still WIP but able to open for events((Most electrical applainces except automatic platform gates and ticket barriers are not installed)). Although, when realized they are losing passengers, ERInc quickly resumes the service of Kowloon Commuter several hours later. Yet the travelling time on the temporary R2C service from Mesa station to Spawn station only takes 2 stops, 1 interchange and around 6-10 mins((Changing to [[/furret_line|Furret Line]] at Northern Snow Village station)), is still faster than Kowloon Commuter, given the starting point is not right at [[/denthrope_hauptbahnhof|Denthrope Hauptbahnhof]]. 
 
-In 2023 July, the new update and server installation of NTE brings in changeable vertical radius and constant inclination which is important to WLT creating smoother train rides, changing speed on slopes and tweaking rail alignments. Since [[/line_2_kwong_chow_-_north_coast_line|WLT Line 2]] has already operated a special shuttle service between Kwong Chow and Sai Mo Island before, along with the new bus route 4S connecting Sai Mo Island to [[/spawn_-_cyan_heights_metropolis|Spawn-Cyan Height Metropolis]]((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)), WLT Line 1 Phase 1 brings in the first service reduction after confirming alternatives are available. Mesa station and the sections until Northern Snow Village are closed for further construction, and the sections between Providence and Kwong Chow are also closed for renovation. Trains cross over to upbound track, and turn back to Northern Snow Village after departing from Sakura Stream Junction and arriving at Providence. 
+In 2023 July, the new update and server installation of NTE brings in changeable vertical radius and constant inclination which is important to WLT creating smoother train rides, changing speed on slopes and tweaking rail alignments. Since [[/line_2_kwong_chow_-_north_coast_line|WLT Line 2]] has already operated a special shuttle service between Kwong Chow and Sai Mo Island before, along with the new bus route 4S connecting Sai Mo Island to [[/spawn_-_cyan_heights_metropolis|Spawn-Cyan Height Metropolis]]((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)), WLT Line 1 Phase 1 brings in the first service reduction after confirming alternatives are available. Mesa station and the sections until Northern Snow Village are closed for further construction, and the sections between Providence and Kwong Chow were also closed for renovation. Trains crossed over to upbound track, and turn back to Northern Snow Village after departing from Sakura Stream Junction and arriving at Providence. 
+
+The sections from Providence station to Kwong Chow station reopens at the end of 2023. At the same time, Chung Kwo Kok station starts serving passengers. Sections between Northern Snow Village station and Hung Ngai Tung station had closed down before for switchover and another wave of renovation. 
+
+Originally, the rename would be done when the line extends to Yanjiang Mineshaft. However, since WLT has opened up Mesa station a while for R2C special service, and provided a sneak peek at Yanjiang Mineshaft station, therefore , it is renamed to **Line 1 (Meyan Line) Phase 1** as to couple up the naming logic of three rapid transit lines together. 
 
 ==== Timeline ====
   * 26 July, 2022: First proposal of a light rail shuttle service.
@@ -72,14 +76,16 @@ In 2023 July, the new update and server installation of NTE brings in changeable
   * 11 February, 2023: [[/hung_ngai_tung_station|Hung Ngai Tung]] station is open.
   * 24 April, 2023: [[/mesa_station|Mesa]] station, which would be the future northern terminus, is temporarily open for R2C purpose.
   * 10 July, 2023: Mesa station is closed for remaining construction works. Sections from Providence station to Kwong Chow station are also closed for renovation.
+  * 29 December 2023: Sections from Northern Snow Village station to Hung Ngai Tung station are closed for renovation. Line 1 temporarily stops service for 2 days.
+  * 31 December 2023: Sections from Providence station to Kwong Chow station reopens. Chung Kwo Kok station opens and starts serving passengers. Line renames from **WLT Line 1 Phase 1** to **Line 1 (Meyan Line) Phase 1**. 
 
 ===== Rolling Stocks =====
 
-Because of the small turn radius((A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station)) in some sections in West Lake Area, WLT Line 1 is never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections. 
+Because of the small turn radius((A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station)) in some sections in West Lake Area, Line 1 (Meyan Line) is never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections. 
 
 Currently 15 sets of SP1900 Trains and 2 sets of MLR Trains are available for use and park in [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]. Since the expected usage of fleet will be keeping low at around 50%, a plan to install on-train passengers information system is announced. It is first decided to get reference from the MTR dynamic route map or Shenzhen Metro passenger information system above each door, but switched to utilize the TV as it allows larger font size, more information and tidier layouts. 
 
-It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trains will arrive before Phase 2 opens. Finally, there will be 10 more sets of SP1900 Trains as the last batch, making up a fleet of 38 sets of SP1900 Trains and 3 sets of MLR Trains, for more frequent trains on the fully done WLT Line 1. 
+It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trains will arrive before Phase 2 opens. Finally, there will be 10 more sets of SP1900 Trains as the last batch, making up a fleet of 38 sets of SP1900 Trains and 3 sets of MLR Trains, for more frequent trains on the fully done Line 1 (Meyan Line). 
 
 
 ^  Car Formation of SP1900 Trains  |||||^
@@ -103,27 +109,24 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 ===== Operations =====
 
-Trains are all serving from Northern Snow Village to Providence. Services from Providence to Kwong Chow are suspended until renovation works are done.
+Trains are all serving from Hung Ngai Tung to Kwong Chow. Services to and from Northern Snow Village are suspended until renovation works are done.
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
 |  @#EB7AE9:  ||
-|  **Time Session**  \\  (in UTC)  |  **WLT Line 1 Phase 1**  |
-|Peak\\ (12 pm - 3 pm)|  \\ <html>&nbsp</html>\\ 5.3  |
-|<html>&nbsp</html>\\ Off Peak\\ <html>&nbsp</html>|:::|
+|  **Time Session**  \\  (in UTC)  |  **Line 1 (Meyan Line) Phase 1**  |
+| \\ 9 pm - 1 am\\ <html>&nbsp</html>|  \\ 6.5  |
+| \\ 1 am - 3 pm\\ <html>&nbsp</html>|  \\ 3.9  |
+| \\ 3 pm - 7 pm|  may reduce to\\ 8 - 12\\ <html>&nbsp</html>  |
 
 </WRAP>
 
 ===== Future Plans =====
 
-The first batch of renovation from Providence to Kwong Chow is expected to complete at 2023 Q4. [[/chung_kwo_kok_station|Chung Kwo Kok]] station will open along with the renovated sections. 
-
 Sections from Kwong Chow to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //2000 years later//. However, some information <del>from the rubbish bin of WLT temporary office at Spawn Tower 18/F</del> points out the section will open early depending on the progress.
 
 In the meantime, the far north extension to Mesa is also WIP and is likely to open together with the forementioned section. 
-
-Originally, there will be a rename once the line extends to Yanjiang Mineshaft. However, since WLT has opened up Mesa station a while for R2C special service, a possibility of early rename is discussed as to couple up the naming logic of three rapid transit lines together.
 
 The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope region. 
 
@@ -131,7 +134,7 @@ The line will become one of the important, fast and convenient north-south conne
 
 |  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
 |  English  ||  Chinese  | ::: | ::: | ::: |
-|  @#eb7ae9: <color #ffffff>**WLT Line 1 Phase 1**</color>  ||||||
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1**</color>  ||||||
 |  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
 | ::: | ::: | ::: |  @#805000:  <color #ffffff>Furret Line</color>  | ::: | ::: |
 |  @#ffffff:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
@@ -139,6 +142,6 @@ The line will become one of the important, fast and convenient north-south conne
 | ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
 |  @#ffffff:  |  [[/providence_station|Providence]]  |  %%公積%%  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
 |  @#51C7FA:  |  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
-|  @#ffffff:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  TBA  | ::: |
+|  @#ffffff:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
 |  @#EB4881:  |  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
 | ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
