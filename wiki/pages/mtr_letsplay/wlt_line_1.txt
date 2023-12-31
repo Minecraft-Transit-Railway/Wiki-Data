@@ -21,11 +21,11 @@
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 20:35 - next day 19:00\\ //(UTC)// |
-| **Frequency** | Every 3 - 11 mins |
+| **Frequency** | Every 4 - 7 mins((May reduce to 8 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]])) |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//|
+| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//|
 ^  Technical  |^
 | **Line Length** | 5.8 km |
 | **Number of**\\ **Tracks** | Double Track |
@@ -42,7 +42,7 @@
 
 The line is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
 
-Now sections from south Sakura Stream Area [[/providence_station|Providence]] station to West Lake Area Kwong Chow station are under renovation. Trains only run from Northern Snow Village station to Providence station. 
+Now sections from north Sakura Stream Area [[/hung_ngai_tung_station|Hung Ngai Tung]] station to Northern Snowland Area Northern Snow Village station are under renovation. Trains only run from Hung Ngai Tung station to Kwong Chow station. 
 
 The line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
 
@@ -64,7 +64,7 @@ In 2023 July, the new update and server installation of NTE brings in changeable
 
 The sections from Providence station to Kwong Chow station reopens at the end of 2023. At the same time, Chung Kwo Kok station starts serving passengers. Sections between Northern Snow Village station and Hung Ngai Tung station had closed down before for switchover and another wave of renovation. 
 
-Originally, the rename would be done when the line extends to Yanjiang Mineshaft. However, since WLT has opened up Mesa station a while for R2C special service, and provided a sneak peek at Yanjiang Mineshaft station, therefore , it is renamed to **Line 1 (Meyan Line) Phase 1** as to couple up the naming logic of three rapid transit lines together. 
+Originally, the rename would be done when the line extends to Yanjiang Mineshaft. However, since WLT has opened up Mesa station a while for R2C special service, and provided a sneak peek at Yanjiang Mineshaft station, therefore, it is renamed to **Line 1 (Meyan Line) Phase 1** as to couple up the naming logic of three rapid transit lines together. 
 
 ==== Timeline ====
   * 26 July, 2022: First proposal of a light rail shuttle service.
@@ -118,7 +118,7 @@ Trains are all serving from Hung Ngai Tung to Kwong Chow. Services to and from N
 |  **Time Session**  \\  (in UTC)  |  **Line 1 (Meyan Line) Phase 1**  |
 | \\ 9 pm - 1 am\\ <html>&nbsp</html>|  \\ 6.5  |
 | \\ 1 am - 3 pm\\ <html>&nbsp</html>|  \\ 3.9  |
-| \\ 3 pm - 7 pm|  may reduce to\\ 8 - 12\\ <html>&nbsp</html>  |
+| \\ 3 pm - 7 pm\\ <html>&nbsp</html>|  \\ 8 - 12((May reduce to 8 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]]))  |
 
 </WRAP>
 
