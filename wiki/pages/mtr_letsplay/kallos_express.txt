@@ -37,7 +37,7 @@
 
 </WRAP>
 
-The **Kallos Express** (Chinese: 麗灣特快) is one of the five metro lines of the [[/Qingli_Railways|Qingli Railways]] (QLR) system in the [[/:Category:Let's_Play|Let’s Play Server]]. Kallos Express was the only railway line of the [[/New_Harmony_Railways|New Harmony Railways]] before the construction of [[lilac_light_rail|Kallos LRT]] [[mtr_lp:route_801|Route 801]], thus the first transportation route to connect to the [[/Kallos|Kallos]] District. This line runs from Yanjiang Mineshaft in the Spawn area to Tempest in the Northeastern area, passing through the server’s important interchanging stops on the eastern side such as Jonathan’s Resort, and connecting them to the built-up areas in the Northeast.
+The **Kallos Express** (Chinese: 麗灣特快) is one of the five metro lines of the [[/Qingli_Railways|Qingli Railways]] (QLR) system in the [[/:Category:Let's_Play|Let’s Play Server]]. Kallos Express was the only railway line of the [[qingli_railways|New Harmony Railways]] before the construction of [[lilac_light_rail|Kallos LRT]] [[mtr_lp:route_801|Route 801]], thus the first transportation route to connect to the [[/Kallos|Kallos]] District. This line runs from Yanjiang Mineshaft in the Spawn area to Tempest in the Northeastern area, passing through the server’s important interchanging stops on the eastern side such as Jonathan’s Resort, and connecting them to the built-up areas in the Northeast.
 
 The line first opened on 1 August 2022. As of 2023 it travels 23.2 kilometres (14.4 mi) in 14 minutes along its route, serving 7 stations. The line is indicated by the colour greenish-blue on the Let’s Play System Map.
 
@@ -92,7 +92,7 @@ This is a list of stations on the Kallos Express
 |  @#01B5CC:<color white>**Kallos Express (KXP)**</color>  |||||
 |@#5A5A5A:|岩漿礦坑 Yanjiang Mineshaft|@#9E0FE4:<color white>WR Yanyu Line</color>|June 2022|Spawn|
 |:::|:::|@#0CAF35:<color white>Spawn Grand Circular</color>|:::|:::|
-|:::|:::|@#EB7AE9:<color white>[[wlt_line_1|WLT Line 1]] (proposed)</color>|:::|:::|
+|:::|:::|@#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line)]] (WIP)</color>|:::|:::|
 |@#7CB06D:|伊甸 Eden|@#385E15:<color white>Snowie Line</color>|1 August 2022|Kallos|
 |:::|:::|{{lrtlogo.png?17}}  **Eden:**\\ <color /#F08A2D>**<html>&nbsp801&nbsp</html>**</color>|:::|:::|
 |@#EFEEE9:|麗灣 Kallos|@#0075DC:<color white>AT Metro</color>|:::|:::|
