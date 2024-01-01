@@ -17,7 +17,7 @@
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 20:48 - next day 19:15 \\ //(UTC)//|
+| **Service Hours** | 04:31 - next day 03:22 \\ //([[wp>UTC+08:00|UTC+8]])//|
 | **Frequency** | Every 3 - 7 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)|
@@ -123,10 +123,10 @@ Trains are all serving from Kwong Chow to Sai Mo Island without intermediate sto
 
 ^  Average Train Intervals (in mins)  |^
 |  @#FFDA33:  ||
-|  **Time Session**  \\  (in UTC)  |  **Line 2 (Kwong Chow - North Coast Line)**  |
-| \\ 1 am - 3 pm\\ <html>&nbsp</html>|  \\ 3 - 5  |
-|\\ 3 pm - 7 pm|  \\ 5 - 7  |
-|9 pm - 1 am\\ <html>&nbsp</html>| ::: |
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Chow - North Coast Line)**  |
+| \\ 5 am - 9 am\\ <html>&nbsp</html>|  \\ 6 - 7  |
+| \\ 9 am - 11 pm\\ <html>&nbsp</html>|  \\ 3 - 5  |
+| \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 5 - 7  |
 
 </WRAP>
 
