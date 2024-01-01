@@ -54,6 +54,12 @@ Here are the steps to set it up on the official Mojang launcher if you prefer us
 
 
 
+<tabbox HMCL/PCL2>
+
+来看 [[zh:mtr_letsplay:modpack|中文说明]]。
+
+
+
 <tabbox Others>
 
 I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
