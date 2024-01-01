@@ -12,7 +12,7 @@
 | **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Future Line 3 (Cyan Gray Line)]]</color> |
-| ::: | @#000000:<color white>Hana-Koshi Line</color> |
+| ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
