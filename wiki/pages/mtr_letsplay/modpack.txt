@@ -36,6 +36,8 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 Setting it up on the official Mojang launcher is a bit more complicated. I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
 
+Here are the steps to set it up on the official Mojang launcher if you prefer using it anyways:
+
   * Download the [[https://fabricmc.net/use/installer/|Fabric Installer]] and install Fabric Loader for Minecraft 1.19.2.
   * Start the Minecraft Installer, go to "Minecraft: Java Edition", and select the "Installations" page.
   * Find the "fabric-loader-1.19.2" installation. If you needs to change its "Game Directory", change it now. You can also rename it to your preference.
