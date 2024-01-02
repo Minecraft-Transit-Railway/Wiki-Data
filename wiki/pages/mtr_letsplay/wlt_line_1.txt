@@ -10,9 +10,9 @@
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
-| **Connecting**\\ **Lines** | @#B0D0FF:<color black>Shinx Line</color> |
-| ::: | @#805000:<color white>Furret Line</color> |
-| ::: | @#22FFFF:<color black>Azalea Cyan Line</color> |
+| **Connecting**\\ **Lines** | @#7BACF6:<color black>Shinx Line</color> |
+| ::: | @#9C5E31:<color white>Furret Line</color> |
+| ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#7091FF:<color white>Sightseeing Local Line</color> |
 | ::: | @#7091FF:<color white>[[sightseeing_express|Sightseeing Express]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
@@ -135,13 +135,13 @@ The line will become one of the important, fast and convenient north-south conne
 |  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
 |  English  ||  Chinese  | ::: | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1**</color>  ||||||
-|  @#ffffff:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#B0D0FF:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
-| ::: | ::: | ::: |  @#805000:  <color #ffffff>Furret Line</color>  | ::: | ::: |
-|  @#ffffff:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
-|  @#ffffff:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  @#22FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
+|  @#583700:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#7BACF6:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
+| ::: | ::: | ::: |  @#9C5E31:  <color #ffffff>Furret Line</color>  | ::: | ::: |
+|  @#F62B11:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
+|  @#00EBFF:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
 | ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
-|  @#ffffff:  |  [[/providence_station|Providence]]  |  %%公積%%  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
+|  @#A8DFF0:  |  [[/providence_station|Providence]]  |  %%公積%%  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
 |  @#51C7FA:  |  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
-|  @#ffffff:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
+|  @#F4B829:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
 |  @#EB4881:  |  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
 | ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
