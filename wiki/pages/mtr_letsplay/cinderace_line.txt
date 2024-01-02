@@ -14,7 +14,7 @@
 | **Real-Life Inspiration** | [[wp>Toei_Ōedo_Line|Toei_Ōedo_Line]] |
 | **Colour on map** | Fire Orange (#BB492B) |
 |  @#BB492B:  **Service & Operation**  ||
-| **Began passenger operation** | September 2022 |
+| **Began passenger operation** | October 2022 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
 | **Train length** | 9 vehicles per trainset |
 |  @#BB492B:  **Technical**  ||
@@ -44,4 +44,50 @@
 
 The Cinderace Line ([[wp>Chinese_language|Chinese]]: 閃焰王牌綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network and runs in a figure 6 through the northwestern area of Spawn and through [[Llanmara]].
 
+===== History =====
+Planning for this line began in August 2022, and a sign announcing its existence was installed at Extreme Hot Springs Station.
+
+A Cinderace Line reservation platform was also installed at Shirokaba Mansion Station, which was completed in September 2022.
+
+Construction began at Azalea Station in September 2022, and Line S11T opened between Azalea Station and Extreme Hot Springs Station in October 2022.
+
+In November 2022, Line S11 will open between Kurokusa Mansion Station and Shirokaba Mansion Station.
+
+Line S11T opened in early December 2022 between Extreme Hot Spring Station and Ying Chuk Station, and between Ying Chuk Station and Cinderace Station.
+
+It will open between Azalea Station and Kurokaba Mansion Station in early January 2023. Line S11T has been merged into Line S11 and has been discontinued.
+
+At the same time, a permanent depot was constructed approximately 1.5 km east of Ying chuk station.
+
+It was extended from Ying Chuk station to Black Lea station in March 2023.
+
+Queen Elizabeth II Station opens in July 2023.
+
+In early August 2023, the entire loop line section opened from Shirokaba Mansion Station to Cinderace Station.
+
+The final section, between Black Lea and Llanmara stations, will open in late August 2023. All sections are now open except for Twynn Station along the way.
+
+===== Rolling Stocks =====
+See [[mtr_letsplay:11-000_series|Terralith Rapid Transit 11-000 Series]].
+===== Operations =====
+
+All trains operate in 9-car formations. All trains run clockwise from Ying Chuk, return to Ying Chuk, and continue towards Llanmara.
+
+AtAt the time of opening, the train frequency was 2.5 minutes, same as other SMTR lines, but from December 30, 2023, the train frequency will be 6 minutes for a limited time.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#BB492B:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S11)Cinderace Line**  |
+| \\ All hours \\ <html>&nbsp</html>|  \\ 6 - 7 |
+
+</WRAP>
+
+===== Future Plans =====
+The only unopened Twynn station is currently under construction.
+
+Refreshment work is currently underway to gradually update the old style tunnels to obj model tunnels.
+
+===== Stations =====
 
