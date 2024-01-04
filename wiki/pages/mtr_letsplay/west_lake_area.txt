@@ -21,7 +21,7 @@ The first project done is [[/kwong_chow_grand_canal_and_heritage|Kwong Chow Gran
 ===== Transport Services =====
 
   * [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]
-  * [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]((Only special shuttle service between [[/kwong_chow_station|Kwong Chow]] station and [[/sai_mo_island_station|Sai Mo Island]] station is open as the replacement of WLT Line 1 Phase 1 under renovation))
+  * [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] (W. Section Temp Shuttle)
   * [[/wr_sw_plains_line|WR SW Plains Line]]
   * [[/bus_route_4s|SLCBus Route 4S]]
 
