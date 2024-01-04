@@ -75,3 +75,18 @@ The Class 51 is an All-Purpose Locomotive Part of the Universal Series of Locomo
 </WRAP>
 
 The PäRail Class 96 is a High-Speed Electric Locomotive made by SRC, or the Selmana Rail Company In 1999. The top speed of this locomotive is 200 km/h, But the design speed is 250 km/h. Power is supplied via OHLE. Signaling is both Absolute Block and MHSRBS((Muchavian High Speed Rail Block Signaling))
+
+===== Class 381 =====
+
+<WRAP right>
+
+^ **PäRail Class 381** ^ ::: ^
+| **Manufactured** | 2002-2007 |
+| **Manufacturer** | Kiton Railcars (KTRC)  |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement((AAR))** | B-B |
+| **Unit Length**  | 22 Meters |
+
+</WRAP>
+
+The PäRail Class 381 is a Intercity EMU Made for Regional Services Across Northeast Muchav. This unit was Built By Kiton Railcars in 2002. It's Top Speed is 160 km/h
