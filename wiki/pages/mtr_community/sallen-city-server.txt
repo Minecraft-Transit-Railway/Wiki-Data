@@ -44,7 +44,7 @@ Old Sallen had three different transportation systems, even before MTR. The orig
 
 - Sallen City Regional Transportation Authority (SCRTA) by [[mtr_community:Sir_MMK|Sir_MMK]]
 
-====== Rail Companies in Sallen ======
+====== Rail Companies in Sallen (OUTDATED, WILL UPDATE SOON) ======
 
 <WRAP right>
 
@@ -86,7 +86,9 @@ SCT's (C) line was the first line (along with the A) to be created in New Sallen
 
 SCT's (E) line is considered one of the newer lines in Sallen, also running along Hamilton Blvd in its Northern portion via the Local track, however switches branches south of Holyoke. After a brief stop at Ashlan Park-Great Plains, it meets up with the (F), (M), and (R) lines at the Calgary Street branch via the Express tracks to the Madison Center.
 
-SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay. The incline between BKS Bay and Cedar Springs is infamous for being incredibly sharp(("also mmmm incline" - lily)). At Hillside Quay, it meets with the (R), and the (M) at Broadview. Although the portion between Hillside and Myrtle Viaduct is technically not part of Calgary Street, it is still counted as part of the branch itself. After the (M) and (R) terminate at Greenland-Manor, it will run local until branching off at Oculus Plaza, in which it runs alone to Octavia Square. 
+SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay. The incline between BKS Bay and Cedar Springs is infamous for being incredibly sharp((
+"also mmmm incline" - lily
+)). At Hillside Quay, it meets with the (R), and the (M) at Broadview. Although the portion between Hillside and Myrtle Viaduct is technically not part of Calgary Street, it is still counted as part of the branch itself. After the (M) and (R) terminate at Greenland-Manor, it will run local until branching off at Oculus Plaza, in which it runs alone to Octavia Square.
 
 SCT's (L) line was an incomplete collaboration with SMART Transit's Stelham Streetcar (SMART C, E), in which SMART LRT runs trams on the local tracks, where SCT runs the (L) on the express tracks.
 
