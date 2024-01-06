@@ -15,6 +15,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
   - 打开 HMCL，点击左侧的 “版本列表”。
   - 点击左下方的 “安装整合包”，选择 “从互联网下载整合包”，将上述的链接粘贴进去，点击确认。
   - 等待下载完成，然后点击 “安装”，然后继续稍等。
+  - 注：建议开游戏之前关一关其他程序。如果想自己调整最低内存分配的话，建议至少给 6GB，但是请注意不是越多越好，最好留出来至少 4GB 的余量。
   - 返回 HMCL 主界面，点击右下方的 “启动游戏”。
 
 <tabbox PCL2> 
@@ -23,6 +24,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
   - [[https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip|下载整合包的 ZIP 文件]]。
   - 打开 PCL2，点击 “版本选择”，点击 “导入整合包”，然后选择刚刚下载的 MTR-LetsPlay.zip 。
   - 等待下载完成。
+  - 注：建议开游戏之前关一关其他程序。如果想自己调整内存分配的话，建议至少给 6GB，但是请注意不是越多越好，最好留出来至少 4GB 的余量。
   - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。
 
 <tabbox PrismLauncher/MultiMC> 
@@ -35,6 +37,7 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
   * 点击左上角的 **添加实例** 按钮。
   * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
+  * 建议为 Java 分配 6 GiB 或更多运行内存。要进行编辑，请选择新出现的实例图标，单击右侧的 “编辑” 按钮，选择左侧的 “设置”，勾选 “内存” 复选框，并将 “最大内存分配” 设置为至少 6144 MiB。 \\ 但是这并不是“越多越好”，最好留出来至少 4GB 的余量。
   * 双击新出现的实例图标。
 
 <tabbox 其他启动器>
