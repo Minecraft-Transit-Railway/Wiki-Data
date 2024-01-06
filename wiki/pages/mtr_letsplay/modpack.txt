@@ -14,6 +14,7 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
   * Click the **Add Instance** button on the top-left corner.
   * Click **Import from ZIP** on the left side, then paste the link into the field on the right. And then click OK.
+  * Assigning 6 GiB or more to Java is recommended. To edit that, select the new instance, click the "edit" button on the right, select "Settings" on the left, tick the "Memory" checkbox and set "Maximum memory allocation" to at least 6144 MiB. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
   * Double click the new instance.
 
 
@@ -48,7 +49,7 @@ Here are the steps to set it up on the official Mojang launcher if you prefer us
 <code ->
 -javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
 </code>
-  * If you see "-Xmx2G" in JVM arguments, you might want to change it to a larger value, like "-Xmx4G" or "-Xmx8G". It's not the larger the better, you should consider how much RAM your PC has and leave a few GiBs of memory to spare. but if you have a powerful PC with like 16GB of memory, setting it to 8G would be better.
+  * Assigning 6 GiB or more to Java is recommended. To edit that, replace the "-Xmx*G" (for example -Xmx2G) part in the existing JVM arguments with "-Xmx6G" or more. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
 
   * Get back to the Installations screen, and click the Play button next to this installation.
 
