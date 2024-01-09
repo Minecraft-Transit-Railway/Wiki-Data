@@ -48,8 +48,6 @@ https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
 您需要购买到 Minecraft 国际版正版账号才可以加入。离线（“盗版”）登录是不支持的，也加不进来。
 
-===== 可选模组 =====
-
 游戏启动后，您可能会看到这样的一个窗口。这是几个可以提升游戏体验的模组，不过因为不同人有不同偏好，没有直接默认安装。点击每一项可以查看功能说明，请您按照自己的喜好来选择，在想要安装的模组前打勾即可安装。
 
 {{:mtr_letsplay:packwiz_optional_mods.png?400|}}
