@@ -70,8 +70,6 @@ Also, you must own a geniune Minecraft account purchased from Mojang in order to
 </tabbox>
 
 
-===== Optional Mods =====
-
 After launching the game, you may see a window like this. These are several mods that can enhance the gaming experience, but they are not directly installed by default because people may have different preferences. Click on each item to view its features. Please choose according to your preference and check the box in front of the mods you want to install.
 
 {{:mtr_letsplay:packwiz_optional_mods.png?400|}}
