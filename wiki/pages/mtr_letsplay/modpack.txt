@@ -15,7 +15,7 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
   * Click the **Add Instance** button on the top-left corner.
   * Click **Import from ZIP** on the left side, then paste the link into the field on the right. And then click OK.
   * Assigning 6 GiB or more to Java is recommended. To edit that, select the new instance, click the "edit" button on the right, select "Settings" on the left, tick the "Memory" checkbox and set "Maximum memory allocation" to at least 6144 MiB. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
-  * Double click the new instance.
+  * Double click the new instance. Wait a bit and you'll see a window like this:
 
 
 
@@ -29,7 +29,7 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
   * Click the **Instance** tab on the right, then click the **Import** button on the top-left corner.
   * Paste the link into the field next to "URL:", and click Import.
-  * Click the "Play" button on the new instance.
+  * Click the "Play" button on the new instance. Wait a bit and you'll see a window like this:
 
 
 
@@ -51,7 +51,7 @@ Here are the steps to set it up on the official Mojang launcher if you prefer us
 </code>
   * Assigning 6 GiB or more to Java is recommended. To edit that, replace the "-Xmx*G" (for example -Xmx2G) part in the existing JVM arguments with "-Xmx6G" or more. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
 
-  * Get back to the Installations screen, and click the Play button next to this installation.
+  * Get back to the Installations screen, and click the Play button next to this installation. Wait a bit and you'll see a window like this:
 
 
 
@@ -69,18 +69,17 @@ Also, you must own a geniune Minecraft account purchased from Mojang in order to
   
 </tabbox>
 
-
-After launching the game, you may see a window like this. These are several mods that can enhance the gaming experience, but they are not directly installed by default because people may have different preferences. Click on each item to view its features. Please choose according to your preference and check the box in front of the mods you want to install.
-
 {{:mtr_letsplay:packwiz_optional_mods.png?400|}}
 
-If you want to modify options, you can come back to install or remove them later, by clicking "Optional mods..." when starting the game.
+These are several mods that can enhance the gaming experience, but they are not directly installed by default because people may have different preferences. Click on each item to view its features. Please choose according to your preference and check the box in front of the mods you want to install.
+
+You can also later come back to install or remove them in the future, by clicking "Optional mods..." after starting the game.
 
 ===== Joining the Server =====
 
 Wait a while - it might take a few minutes until the game window appears.
 
-After launching the game, the resource pack will be downloaded. A menu will appear for you to choose which server to download from — simply press Enter. Then, please wait a moment.
+After launching the game, the resource pack will be downloaded. A menu will appear for you to choose which server to download from — simply press Enter. Then, please allow a few minutes for the resource pack to be prepared.
 
 After entering the Minecraft main menu, adjust the language as needed, and enter "Multiplayer". The server address has already been pre-set in the list, so click on it to join.
 
