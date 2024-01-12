@@ -11,5 +11,5 @@
 
 ====== DLR B92 Stock ======
 
-The **DLR B92 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were built by PDZ, hence the different motor comparing to its brothers: The [[mtr_community:trinsmoton_rail:b86|B85 & B86 stocks]].
+The **DLR B92 Stock** is a dual carriage Third Rail Electric Multiple Unit running on the [[mtr_community:trinsmoton_rail:dlr|Devonsfield Light Railway]]. These units were built by Movin-Cammel, hence the different motor comparing to its brothers: The [[mtr_community:trinsmoton_rail:b86|B85 & B86 stocks]].
 
