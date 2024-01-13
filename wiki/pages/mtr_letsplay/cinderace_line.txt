@@ -6,10 +6,10 @@
 | {{ :mtr_letsplay:line_s11.png?200 |}} ||
 |  @#BB492B:  **Overview**  ||
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
-| **Area Served** | (Wide Area) |
+| **Area Served** | Hana-koshi, Llanmara |
 | **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
 | **Line Number** | S11 |
-| **Number of stations** | 33(Current) |
+| **Number of stations** | 48(Current) |
 |  | 49(Plan) |
 | **Real-Life Inspiration** | [[wp>Toei_Ōedo_Line|Toei_Ōedo_Line]] |
 | **Colour on map** | Fire Orange (#BB492B) |
