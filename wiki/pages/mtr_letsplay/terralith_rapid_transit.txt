@@ -1,0 +1,18 @@
+======[WIP]Terralith Rapid Transit======
+<WRAP 400px right>
+|  @#EFEEF0:  **Terralith Rapid Transit**  ||
+| {{ mtr_letsplay:trt.png?250 }} ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+| **Established** | 2022 |
+| **Area Served** | (Wide area) |
+| **Transit type** | [[Rapid Transit]]etc. |
+| **Number of lines** |  |
+| **Number of stations** |  |
+| **Real-Life Inspiration** | [[wp>Kōbe_Rapid_Transit_Railway|Kōbe Rapid Transit Railway]] |
+|  |  |
+| **Colour on map** | Blue Gray (#2e4460) |
+|  @#EFEEF0:  **Service & Operation**  ||
+| **Began passenger operation** | August 2022 |
+| **Operator(s)** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+</WRAP>
