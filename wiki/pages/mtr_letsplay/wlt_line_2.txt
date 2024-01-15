@@ -17,7 +17,7 @@
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:31 - next day 03:22 \\ //([[wp>UTC+08:00|UTC+8]])//|
+| **Service Hours** | 04:32 - next day 03:22 \\ //([[wp>UTC+08:00|UTC+8]])//|
 | **Frequency** | Every 3 - 7 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)|
