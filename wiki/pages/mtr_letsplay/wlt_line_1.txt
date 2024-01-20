@@ -78,7 +78,7 @@ Originally, the rename would be done when the line extends to Yanjiang Mineshaft
   * 10 July, 2023: Mesa station is closed for remaining construction works. Sections from Providence station to Kwong Chow station are also closed for renovation.
   * 29 December 2023: Sections from Northern Snow Village station to Hung Ngai Tung station are closed for renovation. Line 1 temporarily stops service for 2 days.
   * 31 December 2023: Sections from Providence station to Kwong Chow station reopens. Chung Kwo Kok station opens and starts serving passengers. Line renames from **WLT Line 1 Phase 1** to **Line 1 (Meyan Line) Phase 1**. 
-
+  * 16 January 2024: Mesa station reopens and runs N. Section Temp Shuttle to Northern Snow Village station in accordance to the long Denthrope Hauptbahnhof renovation. 
 ===== Rolling Stocks =====
 
 Because of the small turn radius((A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station)) in some sections in West Lake Area, Line 1 (Meyan Line) is never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections. 
