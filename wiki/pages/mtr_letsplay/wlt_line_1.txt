@@ -110,16 +110,29 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 ===== Operations =====
 
-Trains are all serving from Hung Ngai Tung to Kwong Chow. Services to and from Northern Snow Village are suspended until renovation works are done.
+For **Phase 1 S. Section**, trains are all serving from Hung Ngai Tung to Kwong Chow. Services between Northern Snow Village and Hung Ngai Tung are suspended until renovation works are done.
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
 |  @#EB7AE9:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line) Phase 1**  |
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1 S. Section**  |
 | \\ 5 am - 9 am\\ <html>&nbsp</html>|  \\ 6.5  |
 | \\ 9 am - 11 pm\\ <html>&nbsp</html>|  \\ 3.9  |
 | \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 8 - 12((May reduce to 8 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]]))  |
+
+</WRAP>
+
+For **N. Section Temp Shuttle**, train service is available in single direction from Mesa to Northern Snow Village. 
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#EB7AE9:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **N. Section Temp Shuttle**  |
+| \\ 5 am - 4 pm\\ <html>&nbsp</html>|  \\ 4.2  |
+| \\ 4 pm - 5 pm\\ <html>&nbsp</html>|  \\ 2 - 5  |
+| \\ 5 pm - 3 am\\ <html>&nbsp</html>|  \\ 3 - 6  |
 
 </WRAP>
 
