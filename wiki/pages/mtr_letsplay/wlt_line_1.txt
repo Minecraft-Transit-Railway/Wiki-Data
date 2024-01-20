@@ -1,16 +1,17 @@
-====== Line 1 (Meyan Line) Phase 1 ======
+====== Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle ======
 
 <WRAP right>
 
-^  Line 1 (Meyan Line) Phase 1\\ 一號 (美岩) 綫一期  |^
+^  Line 1 (Meyan Line) - Phase 1 & Nm Section Temp Shuttle\\ 一號 (美岩) 綫 - 一期及北段特別穿梭  |^
 |  @#EB7AE9:  ||
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
-| **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
+| **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow,\\ Mesa to Northern Snow Village)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
-| **Connecting**\\ **Lines** | @#7BACF6:<color black>Shinx Line</color> |
+| **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line (WIP)</color> |
+| ::: | @#7BACF6:<color black>Shinx Line</color> |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#7091FF:<color white>Sightseeing Local Line</color> |
@@ -25,22 +26,22 @@
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//|
+| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
 ^  Technical  |^
-| **Line Length** | 5.8 km |
+| **Line Length** | 5.8 km //(Phase 1)//\\ 4.1 km //(N. Section Temp Shuttle)// |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
 | **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Providence - Kwong Chow)// |
-| **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
+| **Operating**\\ **Speed** | Phase 1:\\ Average: 40 km/h (11.1 m/s)\\ Maximum: 120 km/h (33.3 m/s)\\ N. Section Temp Shuttle:\\ Average: 80 km/h (22.2 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
 |  //(pending)//  ||
 
 </WRAP>
 
-**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), originally known as **WLT Line 1 Phase 1**, is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale.
+**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), originally known as **WLT Line 1 Phase 1**, is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale. And **Line 1 (Meyan Line) N. Section Shuttle** (Chinese: //一號 (美岩) 綫󠄁北段特別穿梭//) is providing one-way southbound passengers service from [[/mesa_station|Mesa]] station to Northern Snow Village station. 
 
-The line is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
+**Line 1 (Meyan Line) Phase 1** is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
 
 Now sections from north Sakura Stream Area [[/hung_ngai_tung_station|Hung Ngai Tung]] station to Northern Snowland Area Northern Snow Village station are under renovation. Trains only run from Hung Ngai Tung station to Kwong Chow station. 
 
@@ -146,16 +147,21 @@ The line will become one of the important, fast and convenient north-south conne
 
 ===== Stations =====
 
-|  **%%Livery and Station Name%%**  |||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
-|  English  ||  Chinese  | ::: | ::: | ::: |
-|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1**</color>  ||||||
-|  @#583700:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  @#7BACF6:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
-| ::: | ::: | ::: |  @#9C5E31:  <color #ffffff>Furret Line</color>  | ::: | ::: |
-|  @#F62B11:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |    |  11 February, 2023  |  Sakura Stream  |
-|  @#00EBFF:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
-| ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
-|  @#A8DFF0:  |  [[/providence_station|Providence]]  |  %%公積%%  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
-|  @#51C7FA:  |  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
-|  @#F4B829:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
-|  @#EB4881:  |  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
-| ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
+|  **%%Livery and Station Name%%**  ||||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
+|  English  ||  Chinese  |  Abbreviation((Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]))  | ::: | ::: | ::: |
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle**</color>  |||||||
+|  @#FFFFFF:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line (WIP)</color>  |  24 April, 2023  |  Western Denthrope (Mesa)  |
+| ::: | ::: | ::: | ::: |  @#94d1d1:  Line 3 (Cyan Gray Line) (WIP)  | ::: | ::: |
+|  @#FFFFFF:  |  <color #808080>//Chi Chuk//</color>((Not finished construction and not open))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  | | |  The Biomes  |
+|  @#FFFFFF:  |  <color #808080>//Ying Mo//</color>((Not finished construction and not open))  |  <color #808080>//%%櫻暮%%//</color>  |  <color #808080>//YIM//</color>  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  | | ::: |
+|  @#FFFFFF:  |  <color #808080>//Tung Yuen//</color>((Not finished construction and not open))  |  <color #808080>//%%凍原%%//</color>  |  <color #808080>//TUY//</color>  | | |  The Biomes\\ Northern Snowland  |
+|  @#583700:  |  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  NSV  |  @#7BACF6:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
+| ::: | ::: | ::: | ::: |  @#9C5E31:  <color #ffffff>Furret Line</color>  | ::: | ::: |
+|  @#F62B11:  |  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |  HNT  |    |  11 February, 2023  |  Sakura Stream  |
+|  @#00EBFF:  |  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  SAS  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
+| ::: | ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
+|  @#A8DFF0:  |  [[/providence_station|Providence]]  |  %%公積%%  |  PVD  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
+|  @#51C7FA:  |  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  BIH  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
+|  @#F4B829:  |  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  CKK  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
+|  @#EB4881:  |  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
+| ::: | ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
