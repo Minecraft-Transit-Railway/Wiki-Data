@@ -150,7 +150,7 @@ The line will become one of the important, fast and convenient north-south conne
 |  **%%Livery and Station Name%%**  ||||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
 |  English  ||  Chinese  |  Abbreviation((Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]))  | ::: | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle**</color>  |||||||
-|  @#FFFFFF:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line (WIP)</color>  |  24 April, 2023  |  Western Denthrope (Mesa)  |
+|  @#FFFFFF:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line (WIP)</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
 | ::: | ::: | ::: | ::: |  @#94d1d1:  Line 3 (Cyan Gray Line) (WIP)  | ::: | ::: |
 |  @#FFFFFF:  |  <color #808080>//Chi Chuk//</color>((Not finished construction and not open))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  | | |  The Biomes  |
 |  @#FFFFFF:  |  <color #808080>//Ying Mo//</color>((Not finished construction and not open))  |  <color #808080>//%%櫻暮%%//</color>  |  <color #808080>//YIM//</color>  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  | | ::: |
