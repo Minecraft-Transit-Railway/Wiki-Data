@@ -1,0 +1,67 @@
+====== Yankton Station ======
+
+<WRAP 400px right>
+
+|   @#0F84DE:  <color #ffffff>**Yankton**</color>   ||
+| @#375E14: ||
+| @#FF98F2: ||
+| @#151C69: ||
+| @#19DFDE: ||
+| @#65411D: ||
+| @#E7792B: ||
+^   **Overview**   ^^
+| **Operators** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
+| ::: | [[mtr_letsplay:qingli_railways|New Harmony Railways]] |
+| ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
+| **Lines** | [[mtr_letsplay:snowie_line|Snowie Line]] |
+| ::: | [[mtr_letsplay:snowtral_line|Snowtral Line]] |
+| ::: | [[mtr_letsplay:wanton_line|Wanton Line]] |
+| ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
+| ::: | [[mtr_letsplay:south_continental_line|South Continental Line]] |
+| ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] |
+| ::: | [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] |
+| ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
+| **Owners** | [[mtr_community:StrongerLock|Stronger Lock]] |
+| **Region** | [[mtr_letsplay:yankton_region|Yankton]] |
+| **Platforms** | 15+4 (14 island, 1 dock, 4 dock APM) |
+| **Tracks** | 19 |
+| **Coordinates** | (3022, 5091) |
+^   **Translations**   ^^
+| **Traditional** | 楊克頓 |
+| **Simplified** | 楊克頓 |
+^   **Colors**   ^^
+| @#0F84DE:  | Blue |
+| @#ffffff:  | White |
+^   **Station**   ^^
+| **Type** | Underground |
+| **Phases** | 2 |
+| **Floors** | - |
+| **Platform Floors** | 5 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | YAN |
+| **Opened** | 27 September, 2022 |
+| **Electrification** | - |
+
+
+</WRAP>
+
+**Yankton Station** (//Chinese: 楊克頓站//) is a station of 7 lines, including [[mtr_letsplay:snowie_line|Snowie Line]], [[mtr_letsplay:snowtral_line|Snowtral Line]], [[mtr_letsplay:wanton_line|Wanton Line]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:south_continental_line|South Continental Line]], [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]], [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]]. It is one of the most busiest and nostalgic station in the Let's Play Server.
+
+The station is split into 2 phases, the Main Metro Phase and the High Speed Railway Phase. There is APM Service and passageway connected both phases.
+
+There is a station art, "Yankton Circuit", in the middle of the main concourse where it shows the line colours passing through Yankton Station. An interesting fact is that although HSR platforms are in underground, it is designed to be the look of ground platforms.
+
+===== History =====
+
+  * **18 August, 2022**: Snowie Line starts construction. [[mtr_community:StrongerLock|Stronger Lock]] (Yankton Railway) is responsible for this work. On the same day, Yankton Station starts construction.
+  * **24 August, 2022**: Lakeside Mystic Line extends its service via Yankton, uses platforms 7-8.
+  * **11 September, 2022**: Yankton Station platforms 1-10 are finished, while concourse is not yet constructed. This station is introduced by [[/User:Jonafanho|Jonathan]] on the Let's Play Series Season 1 Episode 9.
+  * **27 September, 2022**: Snowie Line is offically opened to public, Wanton Line (On Hau - Gulaton) and Snowtral Line (Yankton - Gulaton) opens temporary service for testing.
+  * **Unknown November, 2022**: Yankton HSR Phase starts construction, adding platforms 11-15 and a pair of passing track. APM service is connected between Main Concourse, HSR Concourse and Yanktei Station. Temporary passegeway is built in the main concourse for connecting metro side.
+  * **14 November, 2022**: [[/User:Jonafanho|Jonathan]] connected HSR railway, Northern Heights Line, to Yankton HSR Phase, passengers can take trains to Spawn and Llanmara directly in platform 15.
+  * **24 March, 2023**: Metro Phase Concourse (L2) is officially opened, Exit A is connected to HSR Phase, passengers can directly walk to HSR platforms. Exits B-E and Exit J is opened. There is a VIP Longue in Main Concourse, and a Resting Room in Wanton Line platforms, providing comfortable rest for busy Yankton passengers. 
+  * **7 June, 2023**: South Continental Line extends its service and terminates in Yankton, uses platforms 9-10.
+  * **10 August, 2023**: HSR Southern Cross starts its service in platform 15, connected to Danielston Memorial Station. Northern Heights Line trains moves its service in platform 14.
+
+===== Layout =====
+TODO
