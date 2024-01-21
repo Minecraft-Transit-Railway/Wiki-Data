@@ -2,7 +2,7 @@
 
 <WRAP 400px right>
 
-|   @#0F84DE:  <color #ffffff>**Yankton**</color>   ||
+|   @#0F84DE: <color #ffffff>**Yankton**</color>   ||
 | @#375E14: ||
 | @#FF98F2: ||
 | @#151C69: ||
