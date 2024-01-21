@@ -6,6 +6,7 @@
 |  @#FFDA33:  ||
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
+| **Abbreviation** | L2 (KNL) |
 | **Status** | Special shuttle\\ //(Kwong Chow, Sai Mo Island)//\\ Under construction\\  //(Sha Tsui - West Lake)//\\ //(Sai Mo Island - Spawn)//\\ Awaiting integration\\ //(Spawn - Makki Memorial Village)//|
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
