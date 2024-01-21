@@ -6,6 +6,7 @@
 |  @#EB7AE9:  ||
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
+| **Abbreviation** | L1 (MEL) |
 | **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow,\\ Mesa to Northern Snow Village)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
@@ -17,7 +18,7 @@
 | ::: | @#7091FF:<color white>Sightseeing Local Line</color> |
 | ::: | @#7091FF:<color white>[[sightseeing_express|Sightseeing Express]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
-| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2]]\\ [[/wlt_line_2|(Kwong Chow - North Coast Line)]]</color> |
+| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
 | **Stations** | 7 |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
