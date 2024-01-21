@@ -13,54 +13,58 @@ Minecraft Transit Railway mod は、BVE TrainsimとOpenBVEからの電車のサ�
 不足している知識を補うことで、ページの改善に役立つ可能性があります。
 
 </WRAP>
+<WRAP center round important 60%>
+BVE用に作成した車両は、作者によってはBVE外の使用を禁止している場合があります。
+各車両の利用規約をご確認ください。
+</WRAP>
 
-===== 前提条件 =====
+===== 必要なもの =====
 
-- カスタム Minecraft サウンド、[[mtr_extra:resourcepack:make|リソース パック経由のカスタム列車]]、および JSON 形式の追加に関する基本的な知識。
-   - 既存の BVE4/OpenBVE トレイン
-   - リソース パックで追加されたカスタム MTR Mod トレイン (Livery も機能します)。
-   - **.ogg** ファイルをエクスポートできるソフトウェア (例: [[https://www.audacityteam.org|Audacity]])
-   - //(オプションですが、作業が非常に簡単になります)// 一括名前変更ソフトウェア ([[https://github.com/microsoft/PowerToys|PowerToys]] の **PowerRename**、[[https://apps. Linux では kde.org/krename/|KRename]] など)
+   - カスタム Minecraft サウンド、[[mtr_extra:resourcepack:make|リソース パックを使用したカスタム列車]]、および JSON 形式の追加に関する基本的な知識。
+   - BVE2/4/OpenBVE用の列車
+   - リソース パックで追加されたカスタムMTR Modの電車(リテクスチャができているか確認)。
+   - モノラルの**.ogg** ファイルをエクスポートできるソフトウェア (例: [[https://www.audacityteam.org|Audacity]])
+   -  一括名前変更ソフトウェア//(任意だが、あると便利)// ([[https://github.com/microsoft/PowerToys|PowerToys]] の **PowerRename**、[[https://apps. Linux では kde.org/krename/|KRename]] など)
 
-===== Process =====
+===== 手順 =====
 
-  - Make a copy of your BVE/OpenBVE Train folder, **only make changes within the newly made copy, not your original one!**
-  - Find the folder where the train sound are located. They're either located right in the main train folder (bunch of sound files), or there might be another //sound// folder within the train folder. (They usually contains bunch of **.wav/.flac** file)
-  - //If you do find another sound folder//, just put all the sound file inside to the main train folder
-  - Delete all other files except ***.wav, *.flac**, **train.dat** and **sound.cfg**
-  - Rename **all files** **(Including sound.cfg and train.dat)** in that folder to __lowercase letter file name__. You can do it with most bulk renaming software, or you can manually renaming each one of them
-  - Edit the **sound.cfg** file, by adding the following below the line ''Version 1.0:''<code - sound.cfg>
+   - BVE/OpenBVE Train フォルダーのコピーを作成します。**元のフォルダーではなく、新しく作成したコピー内でのみ変更を加えてください。**
+   - 電車の音が入っているフォルダーを探します。 これらはメインのtrainフォルダーに直接配置されているか、trainフォルダー内に別の//sound//フォルダーがある可能性があります。 (通常、**.wav/.flac** ファイルが含まれています)
+   - //別のサウンド フォルダーを見つけた場合は、// 中にあるすべてのサウンドファイルをメインのtrainフォルダーに入れてください。
+   - ***.wav、*.flac**、**train.dat**、**sound.cfg** を除く他のファイルをすべて削除します。
+   - そのフォルダー内の **すべてのファイル** **(sound.cfg と train.dat を含む)** のファイル名を __アルファベット小文字__ に変更します。 ほとんどの一括名前変更ソフトウェアで実行できますが、それぞれのファイル名を手動で変更することもできます。
+   - **sound.cfg** ファイルを編集します。次の行を「Version 1.0」の下に追加します。
+<code - sound.cfg> 
 [MTR]
 MotorNoiseDataType = 4
 MotorVolumeMultiply = 1
 DoorCloseSoundLength = 1
 </code>
-  - **Explanation of the above config:**
-    - ''MotorNoiseDataType = 4'' indicates that this is a BVE4/OpenBVE format (train.dat) motor sound data.
-    - ''MotorVolumeMultiply = 1'' requires some further explanation. Due to the different nature of the two games, sometimes the volume setting used by the train's creator in BVE is a bit quiet when used in Minecraft, so this setting is introduced to "multiply" the volume. However, Minecraft puts a clamp of 100% on the volume that MTR can programatically assign, which makes things complex.So, if the volume assigned in train.dat is moderate, but it's the WAV sound clips themselves that are quiet, then this settings won't have effect. (Let's say the originally assigned volume is 90%, you want to double it to get 180% by this setting, but Minecraft clamps it to 100%, and nearly no boost can be achieved by tweaking this setting.) In this case you need to dial up the volume of the WAV sound clips by the means of sound editing softwares like Audition.On the other hand, if the WAV sound clips are loud enough, but very low volumes are assigned in train.dat, then dialing up this setting would be the way to go. (10% doubled will give you the correct 20%. without hitting the clamp.) 1 represents 100% the original volume, 2 for 200%, etc.
-    - ''DoorCloseSoundLength = 1'' is used to determine the time that the door closing sound should start playing. This should be the length of the sound in seconds. However, due to MTR's limitations, value longer than 1s are not accepted.
-  - The end result of sound.cfg should look something like this:
+  - **上記構成の説明**
+     - ''MotorNoiseDataType = 4'' は、これが BVE2/4/OpenBVE 形式 (train.dat) のモーターサウンドデータであることを認識します。
+     - ''MotorVolumeMultiply = 1''については、さらに説明が必要です。 2 つのゲームの性質が異なるため、電車の作成者が BVE で使用した音量設定が Minecraft で使用すると少し静かになる場合があるため、この設定は音量を増幅させるために導入されています。 ただし、Minecraft では、MTR がプログラムで割り当てることができる音量に 100%のクランプが設定されているため、状況が複雑になります。したがって、train.datで割り当てられた音量が適度であっても、WAVサウンド自体の音量が小さい場合は、設定しても効果はありません。 (最初に割り当てられたボリュームが 90% であるとします。この設定で 2 倍にして 180% にしたいとします。しかし、Minecraft はそれを 100% に固定しており、この設定を微調整しても音量の増幅はできません。) この場合、次のことが必要です。 Audacityなどのサウンド編集ソフトウェアを使用して、WAVサウンドの音量を増幅します。一方、WAV サウンドの音量は十分であるが、train.dat で非常に低い音量が割り当てられている場合は、この設定を変更します。  (クランプを叩かなくても、10% を 2 倍にすると正しい 20% が得られます。) 1 は元のボリュームの 100% を表し、2 は 200% を表します。
+    - ''DoorCloseSoundLength = 1'' は、ドアが閉まる音の再生を開始する時間を決定するために使用されます。 これはサウンドの長さを秒単位で指定する必要があります。 ただし、MTR の制限により、1より長い値は設定できません。
+  - sound.cfgを設定すると下記のようになります。
     - {{:mtr:dev:mtr-bve1.png}}
-  - Rename your BVE **train folder** to be lowercase and without space. (You may use underscore to replace space), this will be your **Train sound ID** to reference later on!
-  - Import all the .**wav/.flac** sound to an audio editor and convert them to **Mono Channel**
-  - Export all the **.wav/.flac** file to **.ogg** file (For Audacity user, use **File > Export > Export Multiple**, and choose ''Ogg Vorbis Files'')
-  - Copy the train folder to ''Your Resource Pack/assets/mtr/sounds''. (Make the folder if it doesn't exist)
-  - Make a sound.json file in ''Your Resource Pack/assets/mtr'' if you haven't already, an example could be found [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/0daf388b7f62868502753c55a3264c545b5dd569/resources/common/normal/assets/mtr/sounds.json|here]].
-  - Make a sound entry in sound.json of every file in ''sound.cfg'', the sound ID to put should be ''trainSoundID_filename''
-  - Your sound.json in the end should look something like this (I used ''kksp'' as my train directory name):
+  - BVE **train** フォルダの名前をスペースを含まない小文字に変更します。 (スペースの代わりにアンダースコア(_)を使用できます)。これは、後で参照するための **車両のサウンドID** になります。
+  - すべての .**wav/.flac** サウンドを編集ソフトにインポートし、**モノラル** に変換します。これを行わないと距離が離れていても音が減衰しません。
+  - すべての **.wav/.flac** ファイルを **.ogg** ファイルにエクスポートします (Audacity ユーザーの場合は、**ファイル>書き出し>複数ファイルの書き出し** を使用し、「Ogg Vorbis ファイル」を選択します)
+  - train フォルダーを「<自分のリソースパック>/assets/mtr/sounds」にコピーします。 (フォルダが無い場合は作成してください)
+  - まだ作成していない場合は、「<自分のリソースパック>/assets/mtr」に sound.json ファイルを作成します。例は[[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/0daf388b7f62868502753c55a3264c545b5dd569/resources/common/normal/assets/mtr/sounds.json|ここ]]にあります。
+  - ''sound.cfg'' 内のすべてのファイルをsound.jsonへサウンドイベントとして作成します。入力するサウンドIDは ''<車両のサウンドID>_<ファイル名>'' にする必要があります。
+  - 最終的なsound.jsonは次のようになります (車両のフォルダ名として ''kksp'' を使用しました)。
     - {{:mtr:dev:mtr-bve2.png?600}}
-  - Finally, add the following line to your custom train entry in ''mtr_custom_resources.json'', replace ''soundID'' with your actual sound ID/Train Folder Name:
+  - 最後に、「mtr_custom_resources.json」のカスタム車両に次の行を追加し、作成した車両のサウンドIDを入力します。
     - ''"bve_sound_base_id": "soundID"''
 
-Your train in ''mtr_custom_resources.json'' should now look something like this:
+''mtr_custom_resources.json'' は次のようになります。
 
 {{:mtr:dev:mtr-bve3.png}}
 
-Now start your game, and everything should hopefully work.
+ここでゲームを開始して正常にサウンドが動作すれば完了です。
 
-===== Note / Troubleshooting =====
+===== 注意/トラブルシューティング =====
 
-  - **You will need to re-select the train in the siding, or restart the client if you have made any changes to the sound config.**
-  - ''point.ogg'' is played whenever the train crosses a rail node, which is different from BVE's behavior (Crossing a junction). If you feel the sound doesn't fit, please remove it in sound.json
-  - Small motor noises may be heard even when the train is coasting, this is to simulate train adding small bits of power to maintain it's speed.
-
+   - **サウンド設定に変更を加えた場合は、車庫線で列車を再選択するか、リソースパックを再読み込みする必要があります。**
+   - 列車がノードを通過するたびに分岐器のサウンド(point.ogg)が再生されますが、これは BVE の動作 (分岐器を通過する場合) とは異なります。 音が合わないと感じた場合はsound.json内で削除してください。
+   - 列車が惰性走行しているときでも、小さなモーター音が聞こえる場合があります。これは、列車の速度を維持するために若干の力行を行うようなシミュレートをするためです。
