@@ -64,4 +64,45 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
   * **10 August, 2023**: HSR Southern Cross starts its service in platform 15, connected to Danielston Memorial Station. Northern Heights Line trains moves its service in platform 14.
 
 ===== Layout =====
-TODO
+
+<WRAP left>
+
+**Metro Phase**
+| **G** | Exits | Exit B-E |
+| **L1** | Shops | Exit B-E Passageway |
+| **L2** | **Concourse** | VIP Lonuge, Gates, Exit A, Exit J Passageway |
+| **L3** | @#FF98F2: **[[mtr_letsplay:snowie_line|Snowie Line]] Platforms** ||
+| ::: | @#375E14: **[[mtr_letsplay:snowtral_line|Snowtral Line]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: | Platform **3** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **4** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+
+**HSR Phase**
+| **G** | Exits | Exit J |
+| **M** | Passageway | Exit J Passageway|
+| **L2** | **Concourse** | VIP Lonuge, Gates, Exit A, Exit J Passageway |
+| **L3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
+| ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: | Platform **3** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **4** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| **L3** | Plant Room ||
+| **L4** | Transfer Lobby ||
+| **L5** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: |   Side Platform   ||
+| ::: | Platform **3** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
+| ::: | Platform **4** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+| ::: |   Side Platform   ||
+</WRAP>
