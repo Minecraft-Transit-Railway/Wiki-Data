@@ -11,7 +11,7 @@
 | @#E7792B: ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
-| ::: | [[mtr_letsplay:qingli_railways|New Harmony Railways]] |
+| ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
 | ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
 | **Lines** | [[mtr_letsplay:snowie_line|Snowie Line]] |
 | ::: | [[mtr_letsplay:snowtral_line|Snowtral Line]] |
