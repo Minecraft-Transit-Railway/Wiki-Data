@@ -26,7 +26,7 @@
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, //\\ //except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
+| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
 ^  Technical  |^
 | **Line Length** | 5.8 km //(Phase 1)//\\ 4.1 km //(N. Section Temp Shuttle)// |
 | **Number of**\\ **Tracks** | Double Track |
@@ -35,7 +35,7 @@
 | **Operating**\\ **Speed** | Phase 1:\\ Average: 40 km/h (11.1 m/s)\\ Maximum: 120 km/h (33.3 m/s)\\ N. Section Temp Shuttle:\\ Average: 80 km/h (22.2 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  {{/line1_p1_s.png}}\\ //Phase 1//\\ {{/line1_p1_n_temp.png}}\\ //N. Section Temp Shuttle//  ||
+|  {{/line1_p1_s.png?420}}\\ //Phase 1//\\ {{/line1_p1_n_temp.png?420}}\\ //N. Section Temp Shuttle//  ||
 
 </WRAP>
 
