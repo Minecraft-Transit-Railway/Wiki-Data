@@ -2,7 +2,7 @@
 
 <WRAP right>
 
-^  Line 1 (Meyan Line) - Phase 1 & Nm Section Temp Shuttle\\ 一號 (美岩) 綫 - 一期及北段特別穿梭  |^
+^  Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle\\ 一號 (美岩) 綫 - 一期及北段特別穿梭  |^
 |  @#EB7AE9:  ||
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
