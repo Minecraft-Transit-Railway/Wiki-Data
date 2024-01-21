@@ -37,7 +37,7 @@ To add texture variants, the ''custom_trains'' JSON object should be added to ''
 | `speed_sound_count` |Number|Specify the number of ogg files in the acceleration or deceleration folder within the folder specified in speed_sound_base_id above. If not specified correctly, files above a certain speed will be silent.|Optional|The number of sounds specified by Train ID (if any)||
 | `door_sound_base_id` | String | Specifies the ID of a conventional door sound, which can be either the default train ID or one defined in sounds.json.|Optional|N/A|If not specified, the sound will be silent.|
 | `door_close_sound_time` |Number|Specifies the offset of the door sound; cannot be greater than 1 or less than 0 due to limitations on the MTR side.|Optional|`0.5`||
-| `bve_sound_base_id` | String |Specifies the ID of a BVE sound, which can be either the default train ID or one defined in sounds.json. See here for how it is defined. [MTR:Custom_BVE_Train_Sound](https://www.joban.tk/wiki/MTR:Custom_BVE_Train_Sound)|Optional|N/A|If specified, conventional format sound will not be available.|
+| `bve_sound_base_id` | String |Specifies the ID of a BVE sound, which can be either the default train ID or one defined in sounds.json. See here for how it is defined. [MTR:Custom_BVE_Train_Sound](https://wiki.minecrafttransitrailway.com/mtr:dev:custom_bve_sound)|Optional|N/A|If specified, conventional format sound will not be available.|
 
 An example is shown below.
 
