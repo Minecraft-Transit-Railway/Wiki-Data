@@ -62,7 +62,7 @@ After Navi communicates with BDark the plan is then modified. SW Plains, [[/birc
 
 The route uses 11 4 cars SP1900 EMUs from WR's parent company, //Suzuran Railways//' 1900-1000 trains. Each train is coloured with different colours and cabs are modified so that passengers may look through the front of the train. The trains are manufactured by .
 
-4 cars of trailers are modified for adding cabs to the train due to lack of cab trailers in the //Suzuran Railways//' fleet, and are marked with a suffix of K.
+4 cars of trailers are modified for adding cabs to the train as no more cab trailers are available in the //Suzuran Railways//' fleet, and are marked with a suffix of K.
 
 3 of the formations (Z3/Z4/Z5) also operates on  by  with prior approval from Navi.
 
