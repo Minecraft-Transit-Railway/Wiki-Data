@@ -86,17 +86,18 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 **HSR Phase**
 | **G** | Exits | Exit J |
 | **M** | Passageway | Exit J Passageway|
-| **L3** | @#E7792B: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
+| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] Platforms** ||
 | ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
-| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: | Passing Track -> ||
+| ::: | <- Passing Track ||
+| ::: | Platform **11** | Reserved Platform -> |
 | ::: |   Island Platform   ||
-| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
-| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
+| ::: | Platform **12** | Reserved Platform -> |
+| ::: | Platform **13** | <- Reserved Platform |
 | ::: |   Island Platform   ||
-| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
-| ::: | Platform **3** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
-| ::: |   Island Platform   ||
-| ::: | Platform **4** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
+| ::: | Platform **14** | <- [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] to [[mtr_letsplay:llanmara_saint_ann_station|Llanmara Saint Ann's]] |
+| ::: | Platform **15** | <- [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to [[mtr_letsplay:rikkashi_station|Rikkashi]] |
+| ::: |   Side Platform   ||
 | **L2** | **Exit Concourse** | Exit Gates, HSR Transfer Lobby |
 | **L3** | Entrance Lobby | Exit A Passageway, Entrance gates |
 | **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
