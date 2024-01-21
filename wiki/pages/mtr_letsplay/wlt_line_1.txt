@@ -35,7 +35,7 @@
 | **Operating**\\ **Speed** | Phase 1:\\ Average: 40 km/h (11.1 m/s)\\ Maximum: 120 km/h (33.3 m/s)\\ N. Section Temp Shuttle:\\ Average: 80 km/h (22.2 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  //(pending)//  ||
+|  {{/line1_p1_s.png}}\\ //Phase 1//\\ {{/line1_p1_n_temp.png}}\\ //N. Section Temp Shuttle//  ||
 
 </WRAP>
 
