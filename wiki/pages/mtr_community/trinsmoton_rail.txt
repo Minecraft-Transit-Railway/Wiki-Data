@@ -1,40 +1,10 @@
-<WRAP right>
-
-|  @#E00000: <color #FFFFFF>**Trinsmoton Rail**</color>  ||
-| {{ :mtr_community:trinsmoton_rail:trinsmotonrail.png?200x100 |Trinsmoton Rail Logo}}  ||
-| ↑ Trinsmoton Rail Logo ||
-| **Sectors** | 2 |
-| **Sector names** | Regional, High Speed |
-| **Founded** | 1956 |
-| **Total Operators** | 13 |
-
-</WRAP>
-
 ====== Server - Trinsmoton Rail ======
 
-The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It consists of 2 sectors: [[mtr_community:trinsmoton_rail#Regional|Regional]] and [[mtr_community:trinsmoton_rail#High Speed|High Speed]]. The company will serve the Eastern Region of Trinsmoton as the other routes around Trinsmoton are currently operated by seperate transport companies.
+The **Trinsmoton Rail Server **is a Minecraft server that uses the Minecraft Transit Railway mod and its addons. The server is currently in its test stage and is used for testing the building skills of different builders until the main server comes out. The main server is proposed to be opened to public before February 2024.
 
-====== Regional ======
+===== Operators =====
 
-**Regional **is a sector of Trinsmoton Rail, serving all stations around the east Trinsmoton.
-
-===== Routes =====
-
-| **Route Name** | **Stops at** |
-| Harroash Line | Harroash <-> Harroash Road <-> Swampfields <-> Verton-on-the-hill <-> Markham Woods <-> Summerville <-> Spawn |
-| Verton Branch | Spawn <-> Summerville <-> Markham Woods <-> West Verton |
-
-===== Rolling Stock =====
-
-| **Current Rolling Stock** |   | **Top Speed** | **Carriages** | **Runs on** |
-| [[mtr_community:trinsmoton_rail:class_250|Class 250]] | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_17.20.22.png?300x150 }}  | 160km/h (100mph) | 2-4 | Harroash Line |
-| [[mtr_community:trinsmoton_rail:class_420|Class 420]] |   | 120km/h (75mph) | 2 | Verton Branch |
-
-====== High Speed ======
-
-**High Speed **is a planned sector of Trinsmoton Rail, it will be a faster varient of [[mtr_community:trinsmoton_rail#Regional|Regional]] as it doesn't stop at any rural areas or villages unlike Regional.
-
-====== Other operators ======
+[[mtr_community:trinsmoton_rail:tr|Trinsmoton Rail]]
 
 [[mtr_community:trinsmoton_rail:vtr|Vexton Transit Railway]]
 
@@ -50,23 +20,21 @@ The **Trinsmoton Rail (TR) **is a public transport company in Trinsmoton. It con
 
  [[mtr_community:trinsmoton_rail:zenrail|ZenRail]]
 
- [[mtr_community:trinsmoton_rail:trams|Trams]]
-
-[[mtr_community:trinsmoton_rail:cablecar|CableCar]]
-
 [[mtr_community:trinsmoton_rail:river|River Ferries]]
 
  [[mtr_community:trinsmoton_rail:buses|Buses]]
-
-[[mtr_community:trinsmoton_rail:dpm|DLR - Airport People Mover]]
 
 [[mtr_community:trinsmoton_rail:nr|Network Rail]]
 
 [[mtr_community:trinsmoton_rail:cr|CommuteR]]
 
-====== Notes ======
+==== Proposed operators ====
 
-The Trinsmoton Rail server is currently in its test stage. This test stage is used for testing the building skills of different builders until the main server comes out. So the information may change after the release of the main server.
+[[mtr_community:trinsmoton_rail:dpm|DLR - Airport People Mover]]
+
+[[mtr_community:trinsmoton_rail:trams|Trams]]
+
+[[mtr_community:trinsmoton_rail:cablecar|CableCar]]
 
 ===== Links =====
 [[mtr_community:trinsmoton_rail:trains|All Rolling Stocks]]
