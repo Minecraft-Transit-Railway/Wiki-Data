@@ -4,7 +4,7 @@
 
 |  @#999999:  **MTR M-Train EMU**  ||
 |  {{ :playground:2023-10-20_00.04.07.png?380 |Standard size of urban and Disneyland Resort Line M-trains in a Superflat World}}Standard size of urban and Disneyland Resort Line M-trains in a Superflat World  ||
-|  @#999999:  **Real-live Overview**  ||
+|  @#999999:  **Real-life Overview**  ||
 | **In service** | 1st October, 1979 - Present |
 | **Manufacturer** | [[wp>Metro_Cammell|Metro Cammell]] |
 | **Built at** | Washwood Heath, Birmingham |
@@ -56,13 +56,13 @@ Disneyland Resort Line units only.
 |   | SelTrac |
 | **Coupling system** | BSI |
 | **Track gauge** | 1432mm (and 1435mm) |
-|  **Information above are from Wikipedia and ERTHK with addition of the editor's understanding.**  ||
+|  **Information above sourced from Wikipedia, ERTHK, and the editor's knowledge.**  ||
 |  @#999999:  **MTR mod Overview**  ||
 | **Available from** | 3.0.0 Beta-1 (1.12.2 Railcraft addon) |
 | ::: | %%Beta-9-unofficial-2 %%((
 Disneyland Resort Line units only.
 )) |
-| **Creator** | Jonathan |
+| **Creators** | Jonathan |
 | ::: | Eric((
 Disneyland Resort Line units only.
 )) |
@@ -74,8 +74,8 @@ Disneyland Resort Line units only.
 | ::: | **''%%m_train_small%%''** |
 | ::: | **''%%m_train_mini%%''** |
 | ::: | **''%%drl%%''** |
-|  @#999999:**  MTR (and [[mtr_letsplay:start]]) %%Specifications%%**  ||
-| **%%Car body construction%%** | Aluminium |
+|  @#999999:**  MTR Mod (and [[mtr_letsplay:start]]) %%Specifications%%**  ||
+| **%%Car Body Construction%%** | Aluminium |
 | **Car Length** | 24m (Standard) |
 | ::: | 19m (Small) |
 | ::: | 9m (Mini) |
@@ -92,10 +92,10 @@ Disneyland Resort Line units only.
 | **%%Weight%%** | N/A |
 | **Traction motors** | Jon's motor sound system - M-train |
 | **Bogies** | MTR Standard |
-| **Braking system(s)** | ? |
+| **Braking system(s)** | Standard MTR (Tied to acceleration value) |
 | **Safety System(s)** | Jon's Signalling |
-| **Coupling system** | Unknown |
-| **Multiple working** | Any trains (from 4.0.0 |
+| **Gangway** | Yes |
+| **Multiple working** | Any trains (from 4.0.0 onwards) |
 | **Track gauge** | MTR Standard |
 
 </WRAP>
