@@ -28,8 +28,9 @@
 
 ==== History ====
 
-Before MTR Crafters was founded, 
-The server was created when the founder of Centown, Bosco, decided to join forces with Kinson Studio Community to recreate MTR in Minecraft. However, due to some incident, Kinson is now the only remaining owner of the server. The server originally used 1:2 of HK due to technical issues generating an actual 1:1 map. But that map was put to an end after 1 year of hard grinding by spdfNerd and isaaclao, the 1:1 map was officially implemented on 27/12/2022. 
+Before MTR Crafters was founded, Kinson Studio already made a public Minecraft Vinalla Server named MCMTR, which features 1:10 ratio of HK map and MTR stations. However the development of MCMTR was getting slower after the opening of Tuen Ma Line in June 2021. Kinson needs new ideas to attract more users and keep his reputation. Bosco invited Kinson to create a new server together, featuring 1:1 scale of HK Map using MTR Mod.
+
+The server was created when the founder of Centown, Bosco, with inspector Jonathan and server administrator Isaac, decided to join forces with Kinson Studio Community to recreate MTR in Minecraft. The staff team in MTR Crafters is a mixture of both servers. However, due to Centown's inactivity, there is a break of relation between Centown... Kinson is now the only remaining owner of the server. The server originally used 1:2 of HK due to technical issues generating an actual 1:1 map. But that map was put to an end after 1 year of hard grinding by spdfNerd and isaaclao, the 1:1 map was officially implemented on 27/12/2022. 
 
 ==== Information ====
 
