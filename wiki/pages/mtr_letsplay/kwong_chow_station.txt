@@ -38,24 +38,28 @@ The station gets featured for a couple of times in Jonathan's videos((Including 
 
 ===== Layout =====
 
-There are in total of 3 floors in the station. One lift is serving between north concourse and the platforms, while another is serving between south concourse and the platforms. 
+Not counting exits, there are a total of 3 floors in the station. One lift is serving between north concourse and the platforms, while another is serving between south concourse and the platforms. 
 
 <WRAP left>
 
-| **G** | //Under Construction// | Exit A |
-| **L1** | **Concourse** | Exit B: Birch Forest |
-| **L2** | @#EB7AE9: **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] Platforms** ||
-| ::: |   Side Platform   ||
-| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> |
-| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:kwong_chow_station|Kwong Chow]] |
-| ::: |   Side Platform   ||
-| **L3** | Plant Room ||
-| **L4** | Transfer Lobby ||
-| **L5** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
-| ::: |   Side Platform   ||
-| ::: | Platform **3** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
-| ::: | Platform **4** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
-| ::: |   Side Platform   ||
+| **U1** |**South Side Exits**|**North Side Exits**|
+| ::: | Exit A2 | |
+| **G** |**South Side Exits** | **North Side Exits** | 
+| ::: | Exit A1, Exit B | Exit C, Exit D | 
+| **L1** | **South Concourse** | **North Concourse** |
+| ::: | Customer Service Centre, Tickets ||
+| **L2** | **Upper Platforms** ||
+| ::: | @#EB7AE9: ||
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to [[mtr_letsplay:hung_ngai_tung_station|Hung Ngai Tung]] -> (Doors open on the right) |
+| ::: |   Island Platform   ||
+| ::: | Platform **3** | <- [[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] terminating (Doors open on the right)|
+| ::: | @#FFDA33: ||
+| **L3** | **Lower Platforms**||
+| ::: | @#EB7AE9: ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] terminating (Doors open on the left) |
+| ::: |   Island Platform   ||
+| ::: | Platform **4** | [[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] W. Section Temp Shuttle to [[/sai_mo_island_station|Sai Mo Island]] -> (Doors open on the left) |
+| ::: | @#FFDA33: ||
 
 </WRAP>
 
