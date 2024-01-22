@@ -40,7 +40,7 @@ Project Lantau Island Railways started after the opening ceremony of West Rail L
 
 Admiralty Station is mainly finished in 31 December 2023.
 
-<WRAP right>
+<WRAP 400px right>
 
 |  @#c0e0af:  **StrongerLock1268**  ||
 |  {{ :mtr_community:strongerlock.png?150 }}//StrongerLock1268's Minecraft skin ||
