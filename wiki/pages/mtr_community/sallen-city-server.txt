@@ -1,8 +1,8 @@
-====== Server - The City of Sallen [WIP] ======
+====== Server - The City of Sallen ======
 
 The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023.
 
-NOTE: The server is currently down due to a corrupted mod file. While executives are working hard on fixing the issue, it is not guaranteed that the server will return soon.
+NOTE: This entire page is outdated due to a server restart. The server will reopen in the next few months, so keep an eye out for an announcement!
 
 <WRAP right>
 
