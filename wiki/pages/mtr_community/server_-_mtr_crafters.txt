@@ -7,7 +7,7 @@
 |  **Overview**  ||
 | **State** | Opened |
 | **President** | Kinson |
-| **Admin** | Karson |
+| **Admin** | Yoshi |
 | ::: | Isaac |
 | ::: | Stronger |
 | ::: | Anson |
@@ -28,6 +28,7 @@
 
 ==== History ====
 
+Before MTR Crafters was founded, 
 The server was created when the founder of Centown, Bosco, decided to join forces with Kinson Studio Community to recreate MTR in Minecraft. However, due to some incident, Kinson is now the only remaining owner of the server. The server originally used 1:2 of HK due to technical issues generating an actual 1:1 map. But that map was put to an end after 1 year of hard grinding by spdfNerd and isaaclao, the 1:1 map was officially implemented on 27/12/2022. 
 
 ==== Information ====
