@@ -1,0 +1,58 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Server - MTR Crafters ======
+
+<WRAP right>
+
+|  **MTR Crafters**  ||
+| {{ :mtr_community:mtr_crafters_logo.png?180 }}  ||
+|  **Overview**  ||
+| **State** | Opened |
+| **President** | Kinson |
+| **Admin** | Karson |
+| ::: | Isaac |
+| ::: | Stronger |
+| ::: | Anson |
+| ::: | BloodEarth |
+| ::: | Forest |
+| ::: | Stellania |
+| **Transit Type**  | Heavy Rail |
+| ::: | Light Rail |
+| ::: | Bus (Decoration only) |
+| ::: | Airplane (Decoration only) |
+| **Official Language** | Chinese/Cantonese |
+| ::: | English |
+| ::: | Hoggish |
+
+</WRAP>
+
+**MTR Crafters** is a Minecraft server that uses the Minecraft Transit Railway mod to recreate the Hong Kong MTR System (and possibly the city itself) in a 1:1 scale.
+
+
+==== History ====
+
+The server was created when the founder of Centown, Bosco, decided to join forces with Kinson Studio Community to recreate MTR in Minecraft. However, due to some incident, Kinson is now the only remaining owner of the server. The server originally used 1:2 of HK due to technical issues generating an actual 1:1 map. But that map was put to an end after 1 year of hard grinding by spdfNerd and isaaclao, the 1:1 map was officially implemented on 27/12/2022. 
+
+==== Information ====
+
+**Current services**
+
+**Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line** is fully operational.
+**Tuen Ma Line** (Tuen Mun - Hung Hom) section is opened while the remaining section is under construction.
+**LRT 505, 507, 614P, 615P** is fully operational.
+Others are NOT publicly opened, **DO NOT TRESPASS** into respective areas.
+
+//For lines and stations' descriptions, you may take a look in MTR Fandom Pages.//
+
+**Rules and Websites**
+
+Please visit MTR Crafters Page.
+
+**Ways to Join Server**
+
+Please refer the steps provided in Kinson Studio Youtube Video, and join the server with the modpack, resources pack and server ip provided in MTR Crafters Discord Channels. 
+
+**Builder Application and Ban Appeals**
+
+Please refer to the application links provided in MTR Crafters Discord Channels.
+Ban Appeals Form is provided in MTR Crafters Page.[[https://forms.gle/AquGiCkBkfGgrSHY7]]
