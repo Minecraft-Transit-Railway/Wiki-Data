@@ -71,8 +71,8 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 | **G** | Exits | Exit B-E |
 | **U1** | Shops | Exit B-E Passageway |
 | **U2/UC** | **Concourse** | VIP Lonuge, Gates, Exit A, Exit J Passageway |
-| **U3** | @#FF98F2: **[[mtr_letsplay:snowie_line|Snowie Line]] Platforms** ||
-| ::: | @#375E14: **[[mtr_letsplay:snowtral_line|Snowtral Line]] <color #ffffff>Platforms</color>** ||
+| **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
+| ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
 | ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:divillage_island_station|Divillage Island]] |
