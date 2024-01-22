@@ -1,6 +1,6 @@
 ====== User - Stronger Lock ======
 
-<WRAP 400px right>
+<WRAP right>
 
 |  @#0F84DE:  **StrongerLock1268**  ||
 |  {{ :mtr_community:strongerlock.png?150 }}//StrongerLock1268's Minecraft skin //||
