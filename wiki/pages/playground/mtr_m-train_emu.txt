@@ -52,8 +52,7 @@ Disneyland Resort Line units only.
 | **Current collector(s)** | Pantograph |
 | **Bogies** | Duewag%% %%SF2100 |
 | **Braking system(s)** | Regenerative and air brake |
-| **Safety System(s)** | SACEM |
-|   | SelTrac |
+| **Safety System(s)** | SACEM, SelTrac |
 | **Coupling system** | BSI |
 | **Track gauge** | 1432mm (and 1435mm) |
 |  **Information above sourced from Wikipedia, ERTHK, and the editor's knowledge.**  ||
