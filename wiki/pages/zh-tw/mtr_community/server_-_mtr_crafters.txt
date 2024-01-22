@@ -7,21 +7,22 @@
 |  **MTR Crafters**  ||
 | {{ :mtr_community:mtr_crafters_logo.png?180 }}  ||
 |  **Overview**  ||
-| **State** | Opened |
-| **President** | Kinson |
-| **Admin** | Karson |
+| **狀況** | Opened |
+| **主席** | Kinson |
+| **管理員** | Karson |
 | ::: | Isaac |
 | ::: | Stronger |
 | ::: | Anson |
 | ::: | BloodEarth |
 | ::: | Forest |
 | ::: | Stellania |
-| **Transit Type**  | Heavy Rail |
-| ::: | Light Rail |
-| ::: | Bus (Decoration only) |
-| ::: | Airplane (Decoration only) |
-| **Official Language** | Chinese/Cantonese |
-| ::: | English |
+| **
+運輸類型**  | 重鐵 |
+| ::: | 輕鐵 |
+| ::: | 巴士 (目前僅限於裝飾用途) |
+| ::: | 飛機 (目前僅限於裝飾用途) |
+| **官方語言** | 中文/廣東話 |
+| ::: | 英文 |
 | ::: | Hoggish |
 
 </WRAP>
