@@ -2,8 +2,7 @@
 
 |  @#FF0000: <color #FFFFFF>**New Croydon Transit Railway**</color>  ||
 | {{ :mtr_community:trinsmoton_rail:nctr.png?222x180 |Trinsmoton Rail Logo}}  ||
-| {{ :mtr_community:trinsmoton_rail:nctrsystemmap.png?430x250&nolink&nocache }} ||
-| ↑ NCTR System Map ||
+| {{ :mtr_community:trinsmoton_rail:nctrsystemmap.png?430x250&nolink&nocache }}↑ NCTR System Map ||
 | **Routes** | 2, 8 planned |
 | **Founded** | 1982 |
 
