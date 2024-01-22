@@ -3,7 +3,7 @@
 <WRAP 400px right>
 
 |  @#999999:  **MTR M-Train EMU**  ||
-|  {{ :playground:2023-10-20_00.04.07.png?380 |Standard size of urban and Disney Line M-trains in a Superflat World}}Standard size of urban and Disney Line M-trains in a Superflat World  ||
+|  {{ :playground:2023-10-20_00.04.07.png?380 |Standard size of urban and Disneyland Resort Line M-trains in a Superflat World}}Standard size of urban and Disneyland Resort Line M-trains in a Superflat World  ||
 |  @#999999:  **Real-live Overview**  ||
 | **In service** | 1st October, 1979 - Present |
 | **Manufacturer** | [[wp>Metro_Cammell|Metro Cammell]] |
@@ -29,7 +29,7 @@
 | ::: | [[wp>Kwun_Tong_Line|Kwun Tong Line]] |
 | ::: | [[wp>Island_line_(MTR)|Island Line]] |
 | ::: | [[wp>Tseung_Kwan_O_line|Tseung Kwan O line]]  |
-| ::: | [[wp>Disney_Resort_Line|Disney Resort Line]]  |
+| ::: | [[wp>Disneyland_Resort_Line|Disneyland Resort Line]]  |
 |  @#999999:**  Real-live %%Specifications%%**  ||
 | **%%Car body construction%%** | Aluminium |
 | **Car Length** | A cars: 22850mm |
@@ -40,7 +40,7 @@
 | **Floor Height** | 1100mm |
 | **Doors** | 5 sets Double-leaf per side, hanging doors |
 | ::: | 3 sets Double-leaf per side, hanging doors((
-Disney Resort Line units only.
+Disneyland Resort Line units only.
 )) |
 | **Maximum Speed** | Designed: 90km/h |
 | ::: | Service: 80km/h |
@@ -60,15 +60,15 @@ Disney Resort Line units only.
 |  @#999999:  **MTR mod Overview**  ||
 | **Available from** | 3.0.0 Beta-1 (1.12.2 Railcraft addon) |
 | ::: | %%Beta-9-unofficial-2 %%((
-Disney Resort Line units only.
+Disneyland Resort Line units only.
 )) |
 | **Creator** | Jonathan |
 | ::: | Eric((
-Disney Resort Line units only.
+Disneyland Resort Line units only.
 )) |
 | **Colour Code** | @#999999: #999999  |
 | ::: | @#F287B7: #F287B7((
-Disney Resort Line units only.
+Disneyland Resort Line units only.
 ))  |
 | **Identifiers** | **''%%m_train%%''** |
 | ::: | **''%%m_train_small%%''** |
@@ -85,7 +85,7 @@ Disney Resort Line units only.
 | **Doors** | 5 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Standard M-train only) |
 | ::: | 4 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Small M-train only) |
 | ::: | 3 sets Double-leaf per side, hanging doors, SLOW doors ((
-Disney Resort Line units only.
+Disneyland Resort Line units only.
 )) |
 | ::: | 2 sets Double-leaf per side, hanging doors, BOUNCY_1 doors (Mini M-train only) |
 | **Maximum Speed** | 300km/h (%%186.41%%mph) |
