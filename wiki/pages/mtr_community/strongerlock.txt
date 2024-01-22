@@ -1,5 +1,23 @@
 ====== User - Stronger Lock ======
 
+<WRAP 400px right>
+
+|  @#0F84DE:  **StrongerLock1268**  ||
+|  {{ :mtr_community:strongerlock.png?150 }}//StrongerLock1268's Minecraft skin //||
+|  @#0F84DE:  **Overview**  ||
+| **Also known as** | Stronger |
+| ::: | Stronga |
+| ::: | Stronks |
+| ::: | Kueng Zhong Sin Sang |
+| **Date Joining\\ MTR Mod Discord** | 13 April, 2021 |
+| **Roles** | Staff |
+| ::: | Let's Play Members |
+| ::: | OG 500 GANG |
+| ::: | Train Operators |
+| **Pronoun(s)** | He/Him |
+
+</WRAP>
+
 **StrongerLock1268** aka **Stronger**, is one of the staff in the [[mtr:start|Minecraft Transit Railway]] Discord community. He is also one of the builders and the founder/PIC of [[mtr_letsplay:yankton_railway|Yankton Railway]] (YNM) and [[mtr_letsplay:los_sants_pacific_airways|Los Sants Pacific Airways]] (SL/LSP) in the [[mtr_letsplay:start|Let's Play server]]. 
 
 ==== Before Joining MTR Community ====
@@ -39,26 +57,3 @@ After 1:1 Map is released in October 2022, Stronger thought a new idea on curve 
 Project Lantau Island Railways started after the opening ceremony of West Rail Line. Stronger is the main builder of the project and aimed to build accurately. Tung Chung Line and Disneyland Resort Line is opened to public in 12 August 2023.
 
 Admiralty Station is mainly finished in 31 December 2023.
-
-<WRAP 400px right>
-
-|  @#c0e0af:  **StrongerLock1268**  ||
-|  {{ :mtr_community:strongerlock.png?150 }}//StrongerLock1268's Minecraft skin ||
-|  @#c0e0af:  **Overview**  ||
-| **Also known as** | Stronger |
-| ::: | Stronga |
-| ::: | Stronks |
-| ::: | Kueng Zhong Sin Sang |
-| **Date Joining\\ MTR Mod Discord** | 13 April, 2021 |
-| **Roles** | Staff |
-| ::: | Let's Play Members |
-| ::: | OG 500 GANG |
-| ::: | Train Operators |
-| **Pronoun(s)** | He/Him |
-
-</WRAP>
-
-<WRAP 400px right>
-|   @#0F84DE: <color #ffffff>**Yankton**</color>   ||
-
-</WRAP>
