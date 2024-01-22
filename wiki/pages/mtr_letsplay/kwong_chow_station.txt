@@ -37,13 +37,16 @@
 
 </WRAP>
 **Kwong Chow Station** (Chinese: 光州站) is a station in the [[mtr_letsplay:west_lake_area|West Lake Area]] built by [[mtr_community:bdark000|BDark000]]. It is the western terminus of [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] and the southern terminus of [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]. It will become a mid-way stop of Line 1 (Meyan Line) after the phase 2 is done. 
+The station gets featured for a couple of times in Jonathan's videos((Including [[https://youtu.be/viNwYsPHCMM?si=CPl1iiftCtc7TQSZ|Let's Play S2 Finale]] //(starting from 1:07:30)//, [[https://youtu.be/iWnGgoS7Dhc?si=6a7sSB-QkK0uO_YZ|5 Amazing Minecraft Train Stations]] //(starting from 12:12)// and [[https://youtu.be/mlC4KZOtOEM?si=FBrL7nl0qZpJz1ZH|Let's Play S3E25]] //(starting from 54:18)// )). 
 
 ===== History =====
 
-  * early September, 2022: Station starts designing. It was originally designed to be a wide island platform serving Line 1 (Meyan Line) separated with a pair of stacked tracks of Line 2 (Kwong Chow - North Coast Line). 
-
+  * early September, 2022: Station starts designing. It was originally designed to be a island platform with at least 27m wide, serving Line 1 (Meyan Line), with a pair of stacked tracks of Line 2 (Kwong Chow - North Coast Line) crossing in the middle. Passengers alighting from Line 2 (Kwong Chow - North Coast Line), can exit on either side to change to Line 1 (Meyan Line) trains for the two directions on the opposite, or exit the station. Conversely, passengers changing from both directions of Line 1 (Meyan Line) can enjoy a "cross platform interchange" to Line 2 (Kwong Chow - North Coast Line).  
+  * early December, 2023: A small renovation on the stairs is done. Most of the staircases in the station are extended and leave a small space in the middle for better safety and passengers experience. Also, the downward escalator from south concourse to platforms 1 has been removed and become part of the staircase for better crowd control. 
 
 ===== Layout =====
+
+There are in total of 3 floors in the station. One lift is serving between north concourse and the platforms, while another is serving between south concourse and the platforms. 
 
 <WRAP left>
 
@@ -63,3 +66,12 @@
 | ::: |   Side Platform   ||
 
 </WRAP>
+
+===== Exits =====
+
+  * A: BDark Kwong Chow Castle
+    * A1: BDark Kwong Chow Castle
+    * A2: Yu Kwong Village
+  * B: Sai Wan (has lift)
+  * C: BDark's Bridge
+  * D: Kwong Chow Pier (has lift)
