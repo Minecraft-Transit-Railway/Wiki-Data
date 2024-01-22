@@ -27,14 +27,6 @@
 | **Electrification** | 25kV Overhead Cable AC (WIP)\\ //(Line 1 (Meyan Line) Phase 1)// |
 | ::: | 1.5kV Overhead Cable DC (WIP)\\ //(Line 2 (Kwong Chow - North Coast Line))// |
 
-| @#EB7AE9:  **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]** || | @#FFDA33:  **[[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]** ||
-| ⇅ | [[mtr_letsplay:northern_snow_village_station|Northern Snow Village]]**Kwong Chow** |  | ⇅ |  |
-| ⇅ | [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] | ::: | ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
-| ◉ | Birch Hill | ::: | ◉ | Birch Hill |
-| ⇅ | [[mtr_letsplay:providence_station|Providence]] | ::: | ⇅ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
-| ⇅ | ... | ::: | ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
-| ⇅ |  | ::: | ||
-
 </WRAP>
 **Kwong Chow Station** (Chinese: 光州站) is a station in the [[mtr_letsplay:west_lake_area|West Lake Area]] built by [[mtr_community:bdark000|BDark000]]. It is the western terminus of [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] and the southern terminus of [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]. It will become a mid-way stop of Line 1 (Meyan Line) after the phase 2 is done. 
 The station gets featured for a couple of times in Jonathan's videos((Including [[https://youtu.be/viNwYsPHCMM?si=CPl1iiftCtc7TQSZ|Let's Play S2 Finale]] //(starting from 1:07:30)//, [[https://youtu.be/iWnGgoS7Dhc?si=6a7sSB-QkK0uO_YZ|5 Amazing Minecraft Train Stations]] //(starting from 12:12)// and [[https://youtu.be/mlC4KZOtOEM?si=FBrL7nl0qZpJz1ZH|Let's Play S3E25]] //(starting from 54:18)// )). 
@@ -79,3 +71,15 @@ There are in total of 3 floors in the station. One lift is serving between north
   * D: Kwong Chow Pier (has lift)
     * D1: Kwong Chow Pier
     * D2: Welcome Cape
+
+===== Train Services =====
+
+Passengers may take Line 1 (Meyan Line) Phase 1 heading towards Sakura Stream Area or Line 2 (Kwong Chow - North Coast Line) heading towards Spawn Area. Incoming passengers can change to another line to continue their journey on the opposite platform. 
+
+| @#EB7AE9:  **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]** || | @#FFDA33:  **[[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]** ||
+| ⇅ | [[mtr_letsplay:northern_snow_village_station|Northern Snow Village]]**Kwong Chow** |  | ⇅ |  |
+| ⇅ | [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] | ::: | ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| ◉ | Birch Hill | ::: | ◉ | Birch Hill |
+| ⇅ | [[mtr_letsplay:providence_station|Providence]] | ::: | ⇅ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
+| ⇅ | ... | ::: | ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+| ⇅ |  | ::: | ||
