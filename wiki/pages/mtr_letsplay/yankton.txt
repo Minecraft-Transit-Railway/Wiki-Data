@@ -9,7 +9,7 @@
 | @#19DFDE: ||
 | @#65411D: ||
 | @#E7792B: ||
-|  {{ :mtr_community:yankton.png?150 }}//"Yankton Circuit"//\\ //Station Art in Yankton Station//  ||
+|  {{ :mtr_community:yankton.png?200 }}//"Yankton Circuit"//\\ //Station Art in Yankton Station//  ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
