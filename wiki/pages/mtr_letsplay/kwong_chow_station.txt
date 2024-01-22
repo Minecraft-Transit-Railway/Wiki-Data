@@ -38,7 +38,11 @@ The station gets featured for a couple of times in Jonathan's videos((Including 
 
 ===== Layout =====
 
-Not counting exits, there are a total of 3 floors in the station. One lift is serving between north concourse and the platforms, while another is serving between south concourse and the platforms. 
+Not counting exits, there are a total of 3 floors in the station. **L1** is concourse and is separated into north and south part not directly accessible to each other, due to [[/kwong_chow_grand_canal|the Grand Canal]] in between. North part connects Exit C, D while south part connects Exit A, B. **L2** and **L3** are platforms under the canal. 
+
+Platforms 1, 3 stack on top of platforms 2, 4 on the two sides. In between is the core structure. Under the concourse on two ends, it consists of walls, passages, staircases and escalators. Under the canal, it has the famous high ceiling spacious and open design, with chandeliers hung between the pillars. To facilitate the interchange at the upper platforms, a passageway in the middle is built to further connect up platforms 1 and 3. And since future interchange between [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line)]] south of Kwong Chow and [[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] requires going down from upper platforms to lower platforms, a staircase and two escalators connecting the two floors are also built. 
+
+One lift is serving between north concourse and the platforms, while another is serving between south concourse and the platforms. The lift serving south concourse is larger due to a higher anticipated passengers flow and capacity needed. 
 
 <WRAP left>
 
