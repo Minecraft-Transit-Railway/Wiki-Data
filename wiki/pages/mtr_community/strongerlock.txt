@@ -57,3 +57,8 @@ Admiralty Station is mainly finished in 31 December 2023.
 | **Pronoun(s)** | He/Him |
 
 </WRAP>
+
+<WRAP 400px right>
+|   @#0F84DE: <color #ffffff>**Yankton**</color>   ||
+
+</WRAP>
