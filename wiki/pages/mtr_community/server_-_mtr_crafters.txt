@@ -1,3 +1,30 @@
+====== Server - MTR Crafters ======
+
+<WRAP right>
+
+|  **MTR Crafters**  ||
+| {{ :mtr_community:mtr_crafters_logo.png?180 }}  ||
+|  **Overview**  ||
+| **State** | Opened |
+| **President** | Kinson |
+| **Admin** | Karson |
+| ::: | Isaac |
+| ::: | Stronger |
+| ::: | Anson |
+| ::: | BloodEarth |
+| ::: | Forest |
+| ::: | Stellania |
+| **Transit Type**  | Heavy Rail |
+| ::: | Light Rail |
+| ::: | Bus (Decoration only) |
+| ::: | Airplane (Decoration only) |
+| ::: | High Speed Rail (?) |
+| **Official Language** | Chinese/Cantonese |
+| ::: | English |
+| ::: | Hoggish |
+
+</WARP>
+
 **MTR Crafters** is a Minecraft server that uses the Minecraft Transit Railway mod to recreate the Hong Kong MTR System (and possibly the city itself) in a 1:1 scale.
 
 
