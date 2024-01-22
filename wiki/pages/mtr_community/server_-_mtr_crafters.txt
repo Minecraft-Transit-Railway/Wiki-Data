@@ -8,7 +8,7 @@
 | **State** | Opened |
 | **President** | Kinson |
 | **Admin** | Yoshi |
-| ::: | [[mtr_community:isaaclao|Isaac]] |
+| ::: | [[mtr_community:_isaaclao|Isaac]] |
 | ::: | [[mtr_community:StrongerLock|Stronger Lock]] |
 | ::: | Anson |
 | ::: | BloodEarth |
