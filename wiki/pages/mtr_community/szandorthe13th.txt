@@ -34,7 +34,6 @@ The server was however lost through a short-lived conflict with the owner, and s
 In a singleplayer world, I build my first-ever MTR station by the name of //Pondem Village//. After this I spent many nights working on the amazing Greenfield map to make its existing transit systems work.
 
 Singleplayer was getting boring after this, and after knowing and having watched Jonathan's tutorial videos to learn how to set everything up in the Greenfield save, I joined the discord server on the 2nd of January 2023.
-My first message was a rather creepy "there always that voice in your head chanting JUMP. JUMP. JUMP. JUMP." on the 7th of January.
 I was looking for a server to build on, and since I was very new to the mod at the time, I looked upon finding a server with a low entry bar.
 
 This server would end up being Caston, which I joined on the 19th of January.
@@ -53,9 +52,9 @@ During this whole ordeal I also joined [[mtr_community:centralia|Centralia]] and
 Unfortunately, due to the owner's studies, [[mtr_community:unitedcitiesrailways|United Cities Railways]] went down for some time, and because of that I was seeking a new server to build on.
 This prompted me to join [[mtr_community:sallen-city-server|Sallen City]] on September 9th.
 In this time I became more acquainted with MTR staff members [[mtr_community:sleepy_sapph|Lily]] and [[mtr_community:javascript_es1|Dooji]], who were also builders there at the time.
-My interest in [[mtr_community:sallen-city-server|Sallen City]] kind of dwindled as time went on, and the final nail in the coffin was an incident relating one of the staff members that caused both [[mtr_community:sleepy_sapph|Lily]] and [[mtr_community:javascript_es1|Dooji]] to leave the builder team entirely.
-Luckily in this time I kept contact with all parties involved, which in my opinion probably assisted with what happened next.
-You see, while I was on [[mtr_community:sallen-city-server|Sallen City]], I had already been talking to [[mtr_community:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of me being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:sallen-city-server|Sallen City]] incident only seems to have boosted the progression of this possibility, and on the 8th of December, I was sent the application form. I was accepted into the builders team the very next day.
+My interest in [[mtr_community:sallen-city-server|Sallen City]] kind of dwindled as time went on, and the final nail in the coffin was when the bits and chisels mod broke, leaving the server to either have to restart entirely or rebuild everything almost from scratch, of which the former was chosen. This caused many builders to lose their motivation, some of which opted to leave the builder team entirely.
+I kept in touch with everyone from this builder team, which may have been a help to what happened next.
+You see, while I was on [[mtr_community:sallen-city-server|Sallen City]], I had already been talking to [[mtr_community:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of me being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:sallen-city-server|Sallen City]] thing only seems to have boosted the progression of this possibility, and on the 8th of December, I was sent the application form. I was accepted into the builders team the very next day.
 
 Around this time, it had also become apparent that [[mtr_community:unitedcitiesrailways|United Cities Railways]] was going to end season 2 due to increasing conflicts regarding unfitting railway infrastructure.
 All of this together gave me the bright idea of making sure I had a single brand across all servers I was on. This brand became //Moszyan Railways//, and can by now be found on the [[mtr_letsplay:start|Let's Play Server]], [[mtr_community:unitedcitiesrailways|United Cities Railways]] (formerly CityLink/CTP) and [[mtr_community:centralia|Centralia]] (formerly Trident Railways). My rolling stock fleet now features a single design style.
