@@ -47,10 +47,10 @@ Lines opened in 1:2 Server:
 
 **Current services**
 
-**Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line** is fully operational.
-**Tuen Ma Line** (Tuen Mun - Hung Hom) section is opened while the remaining section is under construction.
-**LRT 505, 507, 614P, 615P** is fully operational.
-Others are NOT publicly opened, **DO NOT TRESPASS** into respective areas.
+ * **Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line** is fully operational.
+ * **Tuen Ma Line** (Tuen Mun - Hung Hom) section is opened while the remaining section is under construction.
+ * **LRT 505, 507, 614P, 615P** is fully operational.
+ * Others are NOT publicly opened, **DO NOT TRESPASS** into respective areas.
 
 //For lines and stations' descriptions, you may take a look in MTR Fandom Pages.//
 
