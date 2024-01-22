@@ -26,13 +26,13 @@ Northern Rail was founded as part of Areeta in 2014 during the final days of Are
 
 | **Current Rolling Stock** ||||
 | **Train Class** |   | **Top Speed** | **Carriages** |
-| **[[mtr_community:trinsmoton_rail:class323|Class 323 (BR)]]** | {{ :mtr_community:trinsmoton_rail:nr323321.png?250x150 }}  | **100mph (160km/h)** | **5** |
-| **[[mtr_community:trinsmoton_rail:class377|Class 377 (BRETS)]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_17.06.03.png?250x150 }}  | **100mph (160km/h)** | **5** |
+| **[[mtr_community:trinsmoton_rail:class323|Class 323]]** | {{ :mtr_community:trinsmoton_rail:nr323321.png?250x150 }}  | **100mph (160km/h)** | **5** |
+| **[[mtr_community:trinsmoton_rail:class377|Class 377]]** | {{ :mtr_community:trinsmoton_rail:screenshot_2023-12-10_at_17.06.03.png?250x150 }}  | **100mph (160km/h)** | **5** |
 | **Proposed Rolling Stock** ||||
 | **Train Class** |   | **Top Speed** | **Carriages** |
-| **[[mtr_community:trinsmoton_rail:class357|Class 357 (BRETS)]]** |   | **100mph (160km/h)** | **5** |
-| **[[mtr_community:trinsmoton_rail:class371|Class 371 (NBR)]]** |   | **100mph (160km/h)** | **5** |
-| **[[mtr_community:trinsmoton_rail:class158|Class 158 (BS)]]** |   | **100mph (160km/h)** | **2** |
-| **[[mtr_community:trinsmoton_rail:class155|Class 155 (BS)]]** |   | **75mph (120km/h)** | **2** |
-| **[[mtr_community:trinsmoton_rail:class153|Class 153 (BS)]]** |   | **75mph (120km/h)** | **1** |
+| **[[mtr_community:trinsmoton_rail:class357|Class 357]]** |   | **100mph (160km/h)** | **5** |
+| **[[mtr_community:trinsmoton_rail:class371|Class 371]]** |   | **100mph (160km/h)** | **5** |
+| **[[mtr_community:trinsmoton_rail:class158|Class 158)]]** |   | **100mph (160km/h)** | **2** |
+| **[[mtr_community:trinsmoton_rail:class155|Class 155]]** |   | **75mph (120km/h)** | **2** |
+| **[[mtr_community:trinsmoton_rail:class153|Class 153]]** |   | **75mph (120km/h)** | **1** |
 
