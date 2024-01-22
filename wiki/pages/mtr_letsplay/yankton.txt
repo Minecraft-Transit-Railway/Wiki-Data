@@ -1,6 +1,6 @@
 ====== Yankton Station ======
 
-<WRAP 400px right>
+<WRAP right>
 
 |   @#0F84DE: <color #ffffff>**Yankton**</color>   ||
 | @#375E14: ||
