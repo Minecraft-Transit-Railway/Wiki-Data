@@ -24,8 +24,7 @@
 
 </WRAP>
 
-**MTR Crafters** is a Minecraft server that uses the Minecraft Transit Railway mod to recreate the Hong Kong MTR System (and possibly the city itself) in a 1:1 scale.
-
+**MTR Crafters** is a Minecraft server that uses the Minecraft Transit Railway mod to recreate the Hong Kong MTR System (and possibly the city itself) in a 1:1 scale. It has a strict standard, where builders would build stations according to their real looks by site visits, photos taken and videos recorded by other Youtubers. This provides stations with accurate locations and facilities, and make sure the stations look realistic while passengers taking the MTR in the server.
 
 ==== History ====
 
