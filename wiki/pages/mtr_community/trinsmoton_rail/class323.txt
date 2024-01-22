@@ -1,6 +1,6 @@
 <WRAP right>
 
-| **//Trinsmoton Rail Class 323 (BR)//** ||
+| **//Trinsmoton Rail Class 323//** ||
 | {{ :mtr_community:trinsmoton_rail:nr323321.png?400x200 }} ||
 | **Built** | 1988(/1), 1994(/0) |
 | **Top Speed**  | 160km/h(100mph) |
@@ -9,7 +9,7 @@
 
 </WRAP>
 
-====== Trinsmoton Rail Class 323 (BR) ======
+====== Trinsmoton Rail Class 323 ======
 
-The **Trinsmoton Rail Class 323 (BR)** is an electric multiple unit that operates on various routes. The first trains were ordered by [[mtr_community:trinsmoton_rail#Regional|Trinsmoton Rail]] for the usage on the Harroash Line as the /1 series. The trains were sent to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] after the trains were replaced by [[mtr_community:trinsmoton_rail:class_250|Class 250 Commutras]] which have a higher acceleration speed. In 1994, the demand for more trains on the [[mtr_community:nnw|Network Northwest]] mainline routes is needed. Therefore the /0s are made which have a completely different motor comparing to its /1 counterpart. A few trains were also donated to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] and some to [[mtr_community:trinsmoton_rail:vtr|VTR Crossrail]].
+The **Trinsmoton Rail Class 323 ** is an electric multiple unit that operates on various routes. The first trains were ordered by [[mtr_community:trinsmoton_rail#Regional|Trinsmoton Rail]] for the usage on the Harroash Line as the /1 series. The trains were sent to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] after the trains were replaced by [[mtr_community:trinsmoton_rail:class_250|Class 250 Commutras]] which have a higher acceleration speed. In 1994, the demand for more trains on the [[mtr_community:nnw|Network Northwest]] mainline routes is needed. Therefore the /0s are made which have a completely different motor comparing to its /1 counterpart. A few trains were also donated to [[mtr_community:trinsmoton_rail:northern|Northern Rail]] and some to [[mtr_community:trinsmoton_rail:vtr|VTR Crossrail]].
 
