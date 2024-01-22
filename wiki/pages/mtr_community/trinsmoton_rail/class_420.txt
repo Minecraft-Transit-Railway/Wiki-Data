@@ -12,6 +12,6 @@
 
 </WRAP>
 
-====== Trinsmoton Rail Class 420 ======
+====== Trinsmoton Rail Class 420 Commutra ======
 
 The **Trinsmoton Rail Class 420 Commutra-B** is a Battery Electric Multiple Unit that runs on most commuter, suburban and short-distance regional services. The trains consist of 2 or 3 carriages and can be coupled up with the [[mtr_community:trinsmoton_rail:class_250|Class 250]] and [[mtr_community:trinsmoton_rail:class_251|Class 251]] Commutras. They currently serve the Island Rail.
