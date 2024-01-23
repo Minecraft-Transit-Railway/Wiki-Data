@@ -17,8 +17,7 @@ Before the [[mtr_community:trinsmoton_rail:mainserver|Main Server]] came along T
 
 <WRAP right>
 
-| {{ :mtr_community:trinsmoton_rail:oldspawnstationroofold.png?400x200&nolink&nocache }} |
-| //The earliest image on the test server, showing the refurbished roof of Spawn((This version of Spawn has been demolished as it was nowhere close to the actual Spawnpoint and too close to Ocean Bay. It was replaced by Old Spawn DLR station instead.)) station.// |
+|  {{ :mtr_community:trinsmoton_rail:oldspawnstationroofold.png?400x200&nolink&nocache }}//The earliest image on the test server, showing the refurbished roof of Spawn((This version of Spawn has been demolished as it was nowhere close to the actual Spawnpoint and too close to Ocean Bay. It was replaced by Old Spawn DLR station instead.)) station.//  |
 
 </WRAP>
 
