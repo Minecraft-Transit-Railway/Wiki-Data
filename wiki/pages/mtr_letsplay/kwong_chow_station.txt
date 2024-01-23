@@ -88,10 +88,10 @@ One lift is serving between north concourse and the platforms, while another is 
 
 Passengers may take Line 1 (Meyan Line) Phase 1 heading towards Sakura Stream Area or Line 2 (Kwong Chow - North Coast Line) heading towards Spawn Area. Incoming passengers can change to another line to continue their journey on the opposite platform. 
 
-| @#EB7AE9:  **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]** || | @#FFDA33:  **[[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]** ||
-| ⇅ | [[mtr_letsplay:northern_snow_village_station|Northern Snow Village]]**Kwong Chow** |  | ⇅ |  |
-| ⇅ | [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] | ::: | ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
-| ◉ | Birch Hill | ::: | ◉ | Birch Hill |
-| ⇅ | [[mtr_letsplay:providence_station|Providence]] | ::: | ⇅ | [[mtr_letsplay:hakura_island_station|Hakura Island]] |
-| ⇅ | ... | ::: | ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
-| ⇅ |  | ::: | ||
+|  **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]**  |
+| @#EB7AE9: |
+|  //<color gray>Northern Snow Village</color>// - [[/hung_ngai_tung_station|Hung Ngai Tung]] - [[/sakura_stream_junction_station|Sakura Stream Junction]] - [[mtr_letsplay:providence_station|Providence]] - [[/birch_hill_station|Birch Hill]] - [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] - **Kwong Chow**  |
+
+|  **[[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle]]**  |
+| @#FFDA33: |
+|  **Kwong Chow** - //<color gray>Sha Tsui</color>// - //<color gray>West Lake</color>// - [[/sai_mo_island_station|Sai Mo Island ]]  |
