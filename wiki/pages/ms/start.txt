@@ -1,0 +1,30 @@
+FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
+
+Selamat datang ke laman wiki MTR!
+
+===== Minecraft Transit Railway =====
+
+  * [[mtr:start|Minecraft Transit Railway]] - Maklumat mengenai mod sendiri
+
+===== Bahan Tambahan =====
+
+  * [[mtr_extra:start|Resource Packs]] - Pengenalan kepada pek sumber untuk MTR
+  * [[mtr_extra:resourcepack:make|Making a Resource Pack]] - Cara menghasilkan pek sumber
+    * [[mtr_extra:resourcepack:make:texture|Texturing Trains]] - Cara menghasilkan tekstur baharu untuk kereta api sedia ada
+    * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - Cara menambah model kereta api sendiri
+    * [[mtr_extra:resourcepack:make:others|Others]] - Cara menambah papan tanda, bunyi dsb. kepada pek sumber anda
+  * [[mtr_extra:resourcepack:faq|Frequently Asked Questions]] - Beberapa soalan mengenai pek sumber
+  * [[mtr_addon:start|Using Addon Mods]] - Kesimpulan mod tambahan untuk MTR
+
+
+===== Pelayan Berbilang Pemain =====
+
+  * [[mtr_letsplay:start|Let's Play Server]] - pelayan rasmi mod MTR
+  * [[mtr_community:start|MTR Communities]] - pelayan yang dianjur oleh warga komuniti mod MTR dan sebagainya
+
+===== Menyumbang Kepada Laman Wiki =====
+
+Kami mahu semua ahli yang mempunyai pengetahuan yang luas mengenai mod ini until berkongsi pengetahuan tersebut, jika anda mempunyai sesuatu yang ingin disumbangkan, anda dialu-alukan untuk berbuat demikian!
+
+  * Pastikan anda membaca laman-laman [[wiki_guidelines|Wiki Guidelines]] dan [[edit_guideline|Edit Guidelines]].
+
