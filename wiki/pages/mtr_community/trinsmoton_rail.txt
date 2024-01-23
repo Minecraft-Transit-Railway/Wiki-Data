@@ -1,6 +1,6 @@
 ====== Server - Trinsmoton Rail ======
 
-The **Trinsmoton Rail Server **is a Minecraft server that uses the Minecraft Transit Railway mod and its addons. The server is currently in its test stage and is used for testing the building skills of different builders until the main server comes out. The main server is proposed to be opened to public before February 2024.
+The **Trinsmoton Rail Server **is a Minecraft server that uses the Minecraft Transit Railway mod and its addons. The server is currently in its [[mtr_community:trinsmoton_rail:testserver|test stage]] and is used for testing the building skills of different builders until the [[mtr_community:trinsmoton_rail:mainserver|main server]] comes out. The [[mtr_community:trinsmoton_rail:mainserver|main server]] is proposed to be opened to public before February 2024.
 
 ===== Operators =====
 
