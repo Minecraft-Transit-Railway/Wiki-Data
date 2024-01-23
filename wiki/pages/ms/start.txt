@@ -12,7 +12,7 @@ Selamat datang ke laman wiki MTR!
     * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - Cara menambah model kereta api sendiri
     * [[mtr_extra:resourcepack:make:others|Others]] - Cara menambah papan tanda, bunyi dsb. kepada pek sumber anda
   * [[mtr_extra:resourcepack:faq|Frequently Asked Questions]] - Beberapa soalan mengenai pek sumber
-  * [[mtr_addon:start|Using Addon Mods]] - Kesimpulan mod tambahan untuk MTR
+  * [[ms:mtr_addon:start|Menggunakan mod tambahan untuk MTR]] - Kesimpulan mod tambahan untuk MTR
 
 
 ===== Pelayan Berbilang Pemain =====
