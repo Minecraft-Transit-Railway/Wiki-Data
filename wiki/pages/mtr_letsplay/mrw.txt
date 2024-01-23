@@ -1,0 +1,34 @@
+====== Moszyan Railways (Let's Play) ======
+
+<WRAP right>
+|  @#B0B0BE: **Moszyan Railways**  ||
+| {{:mtr_community:mosyzan_logo.png?250}} ||
+|  @#B0B0BE: **Overview**  ||
+| **Owner** | [[mtr_community:szandorthe13th|szandorthe13th]] |
+| **Based at** ||
+| Mayrowe-Anemone, Centralia ||
+| **Transit type** | Railway Transport |
+| **Train models** | 6 |
+| **Active lines** | 0 |
+</WRAP>
+
+===== Info =====
+
+[[mtr_community:centralia:mrw|Moszyan Railways]] is a railway operator originating in [[mtr_community:centralia|Centralia]]. It was established as a union of the former CityLink and Trident Railways, to ensure a consistent designs across all forms of transport it operates. It was granted entry to the Let's Play network on December 9th 2023. Currently in its early phase, the company is focusing on starting construction of its upcoming overground mainline railway network.
+
+===== Services =====
+
+|  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  [[mtr_letsplay:mrw:mainline:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:mrw:stations:froastepoarte|Froastepoarte]]  |  [[mtr_letsplay:mrw:stations:hylkemare|Hylkemare]]  |
+
+===== Fleet =====
+
+|  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
+|  LRC  |  S43-Tec LRV 2010  |    |    |
+|  GNUS  |  BVG Class H  |    |    |
+|  OHS  |  BR Class 508  |    |    |
+|  OLS  |  BR Class 378  |    |    |
+|  RMS  |  Stadler FLIRT 3  |    |  Froastepoarte  |
+|  ICFR  |  Yuunitetsu 701  |    |    |
+
+===== Screenshots =====
