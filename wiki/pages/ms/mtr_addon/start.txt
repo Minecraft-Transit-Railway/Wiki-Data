@@ -1,0 +1,41 @@
+
+
+====== Mod tambahan MTR ======
+Mod-mod tersebut bertujuan menambah kefungsian baharu kepada mod asas MTR, seperti blok atau ciri-ciri baharu. Mereka dipasang dengan cara yang sama dengan mod-mod lain bahkan mod MTR.
+
+===== Bagaimana cara saya memasang mod tambahan untuk mod MTR? =====
+Berikut adalah beberapa mod tambahan untuk MTR:
+
+==== MSD (juga dikenali sebagai Station Decoration Addon) ====
+[[mtr_addon:msd:start|Station Decoration Addon]] adalah mod penghiasan yang menambah papan-papan tanda, Sistem Paparan Maklumat (Passenger Information Display System, PIDS) dan sistem elektrifikasi katenari.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/station-decoration
+</WRAP>
+
+==== NTE (Nemo´s Transit Expansion) ====
+[[mtr_addon:nte:start|Nemo's Transit Expansion]] adalah mod yang menambah ciri-ciri berunsur eksperimentasi kepada mod MTR, seperti sokongan model berformat .obj dan penulisan skrip kereta api menggunakan JS.
+</WRAP>
+
+==== Reality City Construction ====
+[[mtr_addon:rcc:start|Reality City Construction]] adalah modul yang dihasilkan oleh Yaoxiansen and MSnj, dan dinama sempena Yaoxiansen. Setelah proses penghasilan selama setahun, modul ini telah ditambahbaik.
+
+Modul ini menambah blok untuk laluan dan pembinaan dalam bandar, seperti blok sentuhan, blok platform dsb. Dalam masa depan, kemudahan metro tempatan seperti sekatan tiket dan kawasan pemeriksaa keselamatan juga akan ditambah.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/reality-c-c
+</WRAP>
+
+==== The Tube (juga dikenali sebagai London Underground) ====
+[[mtr_addon:lu:start|Mod tambahan The Tube]] menyediakan blok untuk mencipta terowong, stesen dan papan-papan tanda stesen. Penambahan lain yang bagus termasuklah Sistem Paparan Maklumat bertemakan London Underground dan semboyan terowong berwarna merah dan hijau! Terdapat juga efek bunyi ambien untuk merealisasikan stesen Tube anda! 
+
+<WRAP center round download 90%>
+https://www.curseforge.com/minecraft/mc-mods/the-tube
+</WRAP>
+
+==== Russian Metro Addon ====
+[[mtr_addon:rma:start|Russian Metro Addon]] adalah mod tambahan yang menambahkan ciri-cirt daripada Metro Russia.
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/russian-metro-addon
+</WRAP>
