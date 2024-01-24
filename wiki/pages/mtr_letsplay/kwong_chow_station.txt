@@ -75,11 +75,11 @@ One lift is serving between north concourse and the platforms, while another is 
   * A: BDark Kwong Chow Castle
     * A1: BDark Kwong Chow Castle
     * A2: Yu Kwong Village
-  * B: Sai Wan (has lift)
+  * B: Sai Wan {{mtr:elevator2.png?24x24}}
   * C: BDark's Bridge
     * C1: BDark's Bridge
     * C2: Kwong Chow North Area
-  * D: Kwong Chow Pier (has lift)
+  * D: Kwong Chow Pier {{mtr:elevator2.png?24x24}}
     * D1: Kwong Chow Pier
     * D2: Welcome Cape
 
