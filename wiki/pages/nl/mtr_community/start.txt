@@ -1,0 +1,9 @@
+====== MTR Community ======
+
+Hieronder is een lijst van alle communitypagina's. Deze kunnen gerelateerd zijn aan gebruikers, externe servers en bronpaketten. Voor meer informatie, lees de [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] and [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]].
+
+===== Communitypagina's =====
+
+ <nspages -textPages="" -title -exclude>
+
+~~NOCACHE~~
