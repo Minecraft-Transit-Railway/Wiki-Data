@@ -30,55 +30,7 @@ Old Facebook account name.
 
 ===== User Chronicles =====
 
-==== Before joining the MTR Community ====
-
-Navi claimed to be playing MTR mod from 2018, which the MTR mod is still in 2.0.0 generation. No other information is given afterwards. Until he got an official license of Minecraft in February 2021 (He uses demo version of Minecraft before), he had once joined the server, but quitted later((
-[[https://discord.com/channels/763273460465270816/763273461060599852/809395461772410929]]
-)). He then official joined in 23 May, 2021, making him the 250th member to join the MTR discord Server.
-
-==== After joining the MTR Community - Perplex Period (5/2021 ~ 6/2021) ====
-
-During this time Navi is in a state of learning the new features, and start building the **Suzuran City**, a city based on mostly [[wp>Puyo_Puyo_7|Puyo Puyo 7]], and [[wp>Puyo_Puyo_Chronicle|Puyo Puyo Chronicle]]. The plan is later scrapped as Navi dislikes the plan. The newly started Suzuran City starts building in June 2021, where he rushed every station to be built in a day. This also makes his stations to be ugly in the old era.
-
-==== After joining the MTR Community - ZF Period (7/2021 ~ 9/2021) ====
-
-During this period Navi is still perplexing for what to contribute, most notable creations he made includes:
-
-1. MTR Fare Saver (Which is later added in [[mtr_addon:start?s[]=jcm|JCM]])
-
-2. LRT PIDS (Never added)
-
-3. Thorn Transit Systems ticket gates (Never added)
-
-In this period he found his interest on [[wp>The_Legend_of_Zelda|The Legend of Zelda]] and [[wp>fire_emblem|Fire Emblem]], which he abbreviate it as "ZF". The features from these 2 Nintendo franchises are then also added into his city, such as the [[https://zeldawiki.wiki/wiki/Koholint Island|Koholint Island]] and [[https://fireemblemwiki.org/wiki/Lycia|Lycia]]. Although he might still rushed every station to be built in a day, a busy Summer Holiday schedule makes him hard to maintain the 1 day per station "policy".
-
-==== After joining the MTR Community - New Computer Period (9/2021 ~ 11/2021) ====
-
-In this period, Navi is still active as usual in MTR community, however being not too perplexing, and his passion towards Fire Emblem fades away as he starts to concentrate on his railway development, Zelda and academic stuff. He still have attempts on contributing the mod, but always led to failure.
-
-==== After joining the MTR Community - Improving Period (11/2021 ~ 2/2022) ====
-
-As Navi starts to lost motivation in his own city, he starts to allocate more time to chat with other members in the community and watching YouTube. He still sometimes work on his station, but showed a improvement from "tofu stations" he built before.
-
-==== After joining the MTR Community - Exploring new servers (3/2022 ~ 7/2022) ====
-
-As a member that seldom to never played multiplayer servers, Navi starts to play in some big servers with MTR mod, however he never applied for builder. he is now still the one to hold the record of R2F in Joban for beating the game within 6 minutes. In this period, he also created the KMB Dennis Trident with interior, the biggest project that Navi made.
-
-==== After joining the MTR Community - As a Let's Play Builder (7/2022 ~ 11/2022) ====
-
-Navi was invited to be a Let's Play member in late July as "Chosen ones". He then start to plan the SW Wild Line, which becomes the [[mtr_letsplay:wr_sw_plains_line]]. More lines are also planned during this period. In this period, he also created the [[mtr_extra:british_rail_class_508]], the 2nd biggest project that Navi made.
-
-==== After joining the MTR Community - Moderator (11/2022 ~ 1/2023) ====
-
-Navi acquired the role of being a moderator at approx. 16/11/2022. He also marks as the last ever Moderator to join, as the moderator role is later merged back into staff role. In Let's Play he starts to put his scope of development to the Northern Area, which is started by Sleepy with the Greater Llanmara region.
-
-==== After joining the MTR Community - As a Staff and the approach of his exams (1/2023 ~ 7/2023) ====
-
-Starting from January 2023 the exams starts to come near to him and Electrostarjudge, another staff who has the same age as Navi. Even so he still contribute stuff to MTR mod server with Electrostarjudge, mainly for the new Epping project and WR Hoku Hoku Line.
-
-==== After joining the MTR Community - Return to FE (7/2023 ~ Present) ====
-
-When GCSE is over, Navi starts to lost motivation from Let's Play. Even so, he still contributed the HHL Extensions and Zelda Light Rail. However he yet start to lost motivation to build them as he starts to being interested on [[wp>fire_emblem|Fire Emblem]] over Zelda.
+Nah.
 
 ===== Message from Navi =====
 
