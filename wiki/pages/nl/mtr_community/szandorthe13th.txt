@@ -29,18 +29,18 @@ Het lijkt er ook op dat ik lokaal bekend ben geworden om mijn liefde for de [[ht
 Ik moedig je aan om een gesprek met me te starten, maar laat alsjeblieft die reply ping aan want ik zit in VEEL servers en zie anders waarschijnlijk je bericht niet.
 
 ==== History ====
-I have always had some sort of interest in trains, but it never really came up until me and a few friends started a server using the Create mod. This is where I created my first-ever train station called //Windacre//.
-The server was however lost through a short-lived conflict with the owner, and shortly after, I discovered the Minecraft Transit Railway mod.
-In a singleplayer world, I build my first-ever MTR station by the name of //Pondem Village//. After this I spent many nights working on the amazing Greenfield map to make its existing transit systems work.
+Ik heb altijd al een interesse in treinen gehad, maar het kwam nooit echt op totdat ik en een paar vriended een server startte met de Create mod. Dit is waar ik mijng eerste station ooit bouwde met de naam //Windacre//.
+De server was helaas verloren in een kort conflict met de eigenaar, en kort daarna ontdekte ik de Minecraft Transit Railway mod.
+In een singleplayer wereld maakte ik mijn eerste MTR station, //Pondem Village//. Hierna spendeerde ik veel nachten aan het werken aan de geweldige Greenfield map om de bestaande systemen aan het werk te krijgen.
 
-Singleplayer was getting boring after this, and after knowing and having watched Jonathan's tutorial videos to learn how to set everything up in the Greenfield save, I joined the discord server on the 2nd of January 2023.
-I was looking for a server to build on, and since I was very new to the mod at the time, I looked upon finding a server with a low entry bar.
+Hierna werd singleplayer ietwat saai, en nadat ik eerder al Jonathan's tutorialvideo's gekeken had om te leren hoe ik alles voor elkaar kreeg in de Greenfield wereld, vond ik de discord server op 2 Januari 2023.
+Ik zocht naar een server om op te bouwen, en omdat ik erg nieuw was met de mod, zocht ik een server met een lage lat.
 
-This server would end up being Caston, which I joined on the 19th of January.
-Unfortunately Caston never saw much activity, and all that happened was me extending the mainline from Spawn to a new station called //Desert Oasis//.
-Because of that, and via one of the server's members, I joined [[mtr_community:helensburgh|Helensburgh]], which had greater aspirations at the time.
-On the first world, I became known for the small area I had built with railways through stations by the names of //Dalry, Cirrane, Cirrane East, Crescent Mangrove, Dornwich, Windermere, Aysgarth, Pinella Pass, Mansion, Eelry and Croydon-Lewes//.
-Unfortunately the first server came to an end in an attempt to put new systems in place to better regulate railway lines and country areas. This idea never took off as activity became very low due to the server's constant modpack and performance issues. In my attemps to help with the country system, I became a mod, then staff, then a manager.
+Deze server zou uiteindelijk Caston zijn, die ik joinde op 19 Januari.
+Helaas zou deze server erg leeg blijven, en alles wat ik deed was de hoofdlijn verlengen van Spawn naar een nieuw station met de naam //Desert Oasis//.
+Daardor zou ik via een van de members [[mtr_community:helensburgh|Helensburgh]] die grotere ambities had.
+In de eerste wereld zou ik bekend worden om het kleine gebied dat ik spoorwegen in gebouwd had met de stations //Dalry, Cirrane, Cirrane East, Crescent Mangrove, Dornwich, Windermere, Aysgarth, Pinella Pass, Mansion, Eelry en Croydon-Lewes//.
+Helaas kwam de eerste server aan zijn einde in een poging om nieuwe systemen in plaats te brengen om spoorlijnen en landengebieden beter onder controle te houden. Dit idee is nooit geweldig gegroeid en activiteit werd steeds minder doordat de server constant problemen had met de modpack en prestatie. In mijn poging om te helpen met het landensysteem ben ik een mod geworden en later staff, dan een manager.
 
 Somewhere along the way, on the 27th of February, I discovered [[mtr_community:unitedcitiesrailways|United Cities Railways]], a server I immediately joined because of the use of the Greenfield map, something I was already pretty familiar with at that point.
 Together with 2 other signups, I created a company called the City Transit Project (CTP). I ended up being the only one of the three to really do much work.
