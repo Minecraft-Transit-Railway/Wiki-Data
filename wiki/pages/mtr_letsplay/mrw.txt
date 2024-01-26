@@ -1,5 +1,7 @@
 ====== Moszyan Railways (Let's Play) ======
 
+(not the same as [[mtr_community:centralia:mrw|Moszyan Railways (Centralia)]] and [[mtr_community:unitedcitiesrailways:mrw|Moszyan Railways (United Cities Railways)]])
+
 <WRAP right>
 |  @#B0B0BE: **Moszyan Railways**  ||
 | {{:mtr_community:mosyzan_logo.png?250}} ||
