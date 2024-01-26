@@ -1,27 +1,25 @@
 ====== Server - United Cities Railways [WIP] ======
 
-<WRAP right>
+**United Cities Railways** is one of many Minecraft servers using the Minecraft Transit Railway mod to build railways, running on Fabric 1.19.2. The server has the unique disposition of using prebuilt city maps, usually downloaded from planetminecraft, to connect with custom railways.
+Furthermore, the server is also one of very limited amount to have both a line proposal and line review system. This was put into place to prioritise the quality of the railways and stations over the speed of their construction.
 
+<WRAP right>
 |  @#EFEEF0:  **United Cities Railways**  ||
-| {{ .png?250 }} ||
+| {{ucr.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:AIEMERIC|AIEMERIC]] |
 | **Transit type** | Mixed |
 | **Number of companies** | 10 |
-
 </WRAP>
 
-**United Cities Railways **is a Minecraft server using the MTR Mod to connect prebuilt cities together, running on Fabric 1.19.2. Its recently released 'Season 3' introduces a more organized Company System, line reviews, a mayor system, and an improved immersive experience like never before.
+==== History ====
+**United Cities Railways** started out as a small group of a few people with interest in the Minecraft Transit Railway mod, using the mod to make existing railway systems work in cities such as Greenfield and Sayama.
+Season 2 sought to broaden the reach of people beyond just the french, and the server saw significant growth in people from all over, but mainly europe.
+The railways constructed in season 2 went through better planning than before, but towards the end of the season, it became clear that too many oversights had caused the system to become messy, as well as the fact that the amount of companies was problematic as no new companies could easily integrate.
+Season 3 aims to put a new mayor system to use to try and bring a bit of fun and (hopefully) cooperative realism to the world.
 
-====== UCR's Season 3 - Bigger and better than ever ======
-
-===== Companies =====
-
-==== UrbanExpress ====
-
-Placeholder Text
-
-====== UCR's Season 2 - Pioneering the future ======
-
-====== UCR's Season 1 - Humble Beginnings ======
+==== Operators ====
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH UE LOGO}} [[mtr_community:unitedcitiesrailways:urbanexpress|UrbanExpress]]
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH RELEAF LOGO}} [[mtr_community:unitedcitiesrailways:releaf|Releaf]]
+{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} [[mtr_community:unitedcitiesrailways:mrw|Moszyan Transport]]
 
