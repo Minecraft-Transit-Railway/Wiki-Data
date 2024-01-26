@@ -1,8 +1,8 @@
-====== 官方 Let's Play 服務器 ======
+====== 官方 Let's Play 伺服器 ======
 
-官方 Let's Play (“齊齊玩”) 服務器是由 [[mtr:start|MTR Mod]] 作者 [[/User:Jonafanho|Jonathan]] 所有及運營的 1.19.2 Minecraft 服務器，於 2022 年 6 月成立。此服務器使用 Minecraft 1.18+ 的新地形，並加入了 Terralith mod 所提供的的更多樣的生物群系。主世界內明麗的景色及 Jonathan 製作的 [[/Let's_Play_Series|Let's Play 實況系列]] 吸引了許多參觀者，其中一部分稍後參與了建築工作。
+官方 Let's Play (“齊齊玩”) 伺服器是由 [[mtr:start|MTR Mod]] 作者 [[mtr_community:jonafanho|Jonathan]] 所有及營運的 1.19.2 Minecraft 伺服器，於 2022 年 6 月成立。此伺服器使用 Minecraft 1.18+ 的新地形，並加入了 Terralith mod 所提供的更多樣的生物群系。主世界內美麗的景色及 Jonathan 製作的 [[/Let's_Play_Series|Let's Play 實況系列]] 吸引了許多參觀者，其中一部分稍後參與了建築工作。
 
-服務器建設工作發展迅速。至 2022 年 12 月 2 日時，[[mtr_letsplay:start|Let's Play 服務器]] 已有超過 70 條鐵路線路，及連接了 [[/Spawn|重生區]], [[/Llanmara|灣堡城]], [[kallos|麗灣]] 和 [[yankton|楊克頓]] 等的高速鐵路網絡。線網單程最長耗時約 50 分鐘。
+伺服器建築工作發展迅速。至 2022 年 12 月 2 日時，**Let's Play 伺服器** 已有超過 70 條鐵路路線，及連接了 [[/Spawn|重生區]], [[/Llanmara|灣堡城]], [[kallos|麗灣]] 和 [[yankton|楊克頓]] 等的高速鐵路網絡。線網單程最長耗時約 50 分鐘。
 
-===== Let's Play 服務器相關文章 =====
+===== Let's Play 伺服器相關文章 =====
 <nspages -textPages="" -title -exclude>
