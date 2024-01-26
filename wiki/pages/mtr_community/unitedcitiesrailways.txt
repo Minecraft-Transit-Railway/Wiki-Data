@@ -1,0 +1,27 @@
+====== Server - United Cities Railways [WIP] ======
+
+<WRAP right>
+
+|  @#EFEEF0:  **United Cities Railways**  ||
+| {{ .png?250 }} ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[mtr_community:AIEMERIC|AIEMERIC]] |
+| **Transit type** | Mixed |
+| **Number of companies** | 10 |
+
+</WRAP>
+
+**United Cities Railways **is a Minecraft server using the MTR Mod to connect prebuilt cities together, running on Fabric 1.19.2. Its recently released 'Season 3' introduces a more organized Company System, line reviews, a mayor system, and an improved immersive experience like never before.
+
+====== UCR's Season 3 - Bigger and better than ever ======
+
+===== Companies =====
+
+==== UrbanExpress ====
+
+Placeholder Text
+
+====== UCR's Season 2 - Pioneering the future ======
+
+====== UCR's Season 1 - Humble Beginnings ======
+
