@@ -169,4 +169,4 @@ Note:Temporary name
 * [[LRV 1943]]
 
 =====Related page=====
-* [[Shimano MTR]](SMTR), [[Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
+* [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
