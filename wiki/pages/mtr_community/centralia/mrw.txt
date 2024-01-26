@@ -1,9 +1,11 @@
 ====== Moszyan Railways (Centralia) ======
 
+(not the same as [[mtr_community:unitedcitiesrailways:mrw|Moszyan Railways (United Cities Railways)]] and [[mtr_letsplay:mrw|Moszyan Railways (Let's Play)]])
+
 <WRAP right>
-|  @#FF7F00: **Moszyan Railways**  ||
+|  @#B0B0BE: **Moszyan Railways**  ||
 | {{:mtr_community:mosyzan_logo.png?250}} ||
-|  @#FF7F00: **Overview**  ||
+|  @#B0B0BE: **Overview**  ||
 | **Owner** | [[mtr_community:szandorthe13th|szandorthe13th]] |
 | **Based at** ||
 | TMT Complex, Mayrowe-Anemone ||
@@ -18,7 +20,7 @@
 
 ===== Lines =====
 
-|  @#FF7F00: **Line Name**  |  @#FF7F00: **Status**  |  @#FF7F00: **Starting Station**  |  @#FF7F00: **Terminus Station**  |
+|  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
 |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line West Tooth]]  |  Planned  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
 |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line Central Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
 |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line East Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:lendertonisland|Lenderton Island]]  |
@@ -27,7 +29,7 @@
 
 ===== Fleet =====
 
-|  @#FF7F00:**Train Model**  |  @#FF7F00:**Operating on**  |  @#FF7F00:**Depot Location**  |
+|  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
 |  LU 1995 Stock (Eula Line)  |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Stopper)]]  |  TMT Complex Sidings  |
 | ::: |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Express)]]  | ::: |
 |  CR Class 508 (Trident Line)  |  Returned to CR  ||
