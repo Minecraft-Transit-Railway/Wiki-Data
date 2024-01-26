@@ -16,3 +16,157 @@
 | **Began passenger operation** | August 2022 |
 | **Operator(s)** | [[mtr_community:cinderaceots|CinderaceOTS]] |
 </WRAP>
+
+=====Routes=====
+====In operation====
+* (S1)[[Shinx Line]]
+
+* (S2)[[Sprigatito Line]]
+
+* (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
+
+* (S8)[[Zacyan Line]]
+
+* (S10)[[Furret Line]]
+
+* (S11)[[Cinderace Line]]
+
+* (S13)[[Jigglypuff Line]]
+
+====Under Construction & Planning====
+* (S12)[[Decidueye Line]]
+
+====Abolition====
+* (S2T)[[Sprigatito Line]]
+
+* (S11T)[[Cinderace Line]]
+
+====Others====
+* [[Cinderace Light Railway]]
+
+* [[Shimano LRT]]
+
+* [[Kamaboko LRT]]
+
+* [[In-Station Transit (SMTR)|In-Station Transit]]
+
+* [[Spring-Autumn Shuttle]]
+
+=====Rolling Stocks=====
+====Current====
+===Shinx Line===
+* [[1000 Series]]
+
+* [[1100 Series]]
+
+* [[1200 Series]]
+
+===Sprigatito Line===
+* [[2000 Series]]
+
+* [[2100 Series]]
+
+===Shimano Line===
+* [[3000 Series]]
+
+* [[3100 Series]]
+
+* [[3200 Series]]
+
+* [[3300 Series]]
+
+* [[3300R Series]]
+
+===Zacian Line===
+* [[8000 Series]]
+
+===Furret Line===
+* [[10-000 Series]]
+
+===Cinderace Line===
+* [[11-000_series|11-000 Series]]
+
+* [[11-000_series#section11100|11-100 Series]]
+
+* [[11-000_series#section11200|11-200 Series]]
+
+* [[11-000_series#section11300|11-300 Series]]
+
+* [[11-000_series#section11500|11-400 Series]]
+
+* [[11-000_series#section11500|11-500 Series]]
+
+* [[11-000_series#section11600700800|11-600 Series]]
+===Jigglypuff Line===
+* [[13-000 Series]]
+
+===Shimano LRT===
+* [[LRV 1928]]
+
+* [[LRV 1975]]
+
+* [[LRV 1980]]
+
+* [[LRV 1980R]]
+
+* [[LRV 1987]]
+
+* [[LRV 1995]]
+
+* [[LRV 2002]]
+
+* [[LRV 2010]]
+
+* [[LRV 2020]]
+
+* [[LRV 2024]]
+
+
+===Kamaboko LRT===
+* [[LRV 1975]]
+
+===CLR===
+* [[CLR B90]]
+
+===in-Station Transit===
+* [[LRV 2002]]
+
+* [[Yutong U12]](Bus)
+
+* [[CLR B90]]
+
+====Former====
+===Shinx Line===
+* [[8000 Series]](Trial operation)
+
+===Kamaboko LRT===
+* [[1992 Stock]]
+
+* [[1995 Stock]]
+
+* [[1996 Stock]]
+
+* [[BVG Crass H]](Trial operation)
+
+===in-Station Transit===
+* [[Lightrail Phase 3]]
+
+====Feature====
+===Sprigatito Line===
+* [[2300 Series]]
+
+===Decidueye Line===
+* [[12-000 Series]]
+
+===SMTR Lines(Routes to be introduced are undecided)===
+Note:Temporary name
+
+* 7500 Series
+
+* 9500 Series
+
+===Shimano LRT===
+* [[LRV 1943]]
+
+=====Related page=====
+* [[Shimano MTR]](SMTR), [[Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
