@@ -15,3 +15,7 @@ GTA Red Line
 Cascadia:
 
 No lines in operation at the moment.
+
+<WRAP center round alert 60%>
+The translations of this page are not fully accurate. Any translation mistakes are expected. I don't know German.
+</WRAP>
