@@ -19,7 +19,15 @@
 
 ===== Operators =====
 
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH UE LOGO}} [[mtr_community:unitedcitiesrailways:urbanexpress|UrbanExpress]] {{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH RELEAF LOGO}} [[mtr_community:unitedcitiesrailways:releaf|Releaf]] {{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} [[mtr_community:unitedcitiesrailways:mrw|Moszyan Transport]] {{:mtr_community:mosyzan_logo.png?50|PLACEHOLDER, REPLACE LATER WITH SMART LOGO}} [[mtr_community:unitedcitiesrailways:smart|SMART Transit]] {{:mtr_community:mosyzan_logo.png?50|PLACEHOLDER, REPLACE LATER WITH YORKSHIRE LOGO}} [[mtr_community:unitedcitiesrailways:yorkshire|Yorkshire Airways]]
+{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|U}} [[mtr_community:unitedcitiesrailways:urbanexpress|UrbanExpress]]
+{{:mtr_community:unitedcitiesrailways:releaf.png?50|Refeal}} [[mtr_community:unitedcitiesrailways:releaf|Releaf]] 
+{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} [[mtr_community:unitedcitiesrailways:mrw|Moszyan Transport]]
+{{:mtr_community:st_logo.png?50|SMART Transit}} [[mtr_community:unitedcitiesrailways:smart|SMART Transit]] 
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH YORKSHIRE LOGO}} [[mtr_community:unitedcitiesrailways:yorkshire|Yorkshire Airways]]
 
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH UE LOGO}} [[mtr_community:unitedcitiesrailways:sprinttransit|SprintTransit]] {{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH NAT EXP LOGO}} [[mtr_community:unitedcitiesrailways:natexpress|National Express]] {{:mtr_community:mosyzan_logo.png?50|PLACEHOLDER, REPLACE LATER WITH NEXWAY LOGO}} [[mtr_community:unitedcitiesrailways:nexway|NexWay Transport]] {{:mtr_community:mosyzan_logo.png?50|PLACEHOLDER, REPLACE LATER WITH CLK LOGO}} [[mtr_community:unitedcitiesrailways:countrylink|CountryLink]] {{:mtr_community:mosyzan_logo.png?50|PLACEHOLDER, REPLACE LATER WITH MAINLINE LOGO}} [[mtr_community:unitedcitiesrailways:mainlinerailways|Mainline Railways]]
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH SPRINTTRANSIT LOGO}} [[mtr_community:unitedcitiesrailways:sprinttransit|SprintTransit]] 
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH NAT EXP LOGO}} [[mtr_community:unitedcitiesrailways:natexpress|National Express]] 
+{{:mtr_community:unitedcitiesrailways:nexway.png?50|Nexway}} [[mtr_community:unitedcitiesrailways:nexway|NexWay Transport]] 
+{{:mtr_community:unitedcitiesrailways:countrylink.png?50|CountryLink}} [[mtr_community:unitedcitiesrailways:countrylink|CountryLink]]
+{{:mtr_community:unitedcitiesrailways:mainlinerailways.png?50|Mainline Railways}} [[mtr_community:unitedcitiesrailways:mainlinerailways|Mainline Railways]]
 
