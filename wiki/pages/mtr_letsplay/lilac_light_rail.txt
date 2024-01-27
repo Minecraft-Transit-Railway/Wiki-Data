@@ -273,7 +273,7 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Hot Springs | ::: | Spawn | <color white/#0EADDD>**<html>&nbspSchwarz LRT&nbsp</html>**</color> | 24 August 2022 |
 |  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #25A353>**<html><font size="4">4</font></html>**</color>  | Wing Palace | 633 | Oculus |   | 6 May 2023 |
 | ::: | No Hideokamon | ::: | ::: | ::: | ::: |
-| ::: | Shuangmen Xuegui | ::: | ::: | ::: | ::: |
+| ::: | Froastpoarte | ::: | ::: | ::: | ::: |
 | ::: | Qiuyou Yanji | ::: | ::: | ::: | ::: |
 | ::: | Kaijin Ferry Pier | 410, 483P, 882 | ::: | ::: | 7 November 2022 |
 | ::: | Aoraki North | ::: | ::: | ::: | ::: |
@@ -321,7 +321,7 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | San Shek Wan | 720 | Eastwich |   | ::: |
 | ::: | East San Shek Wan | 715 | ::: | ::: | 23 October 2023 |
 | ::: | Loyalty Hills | 715 | ::: | <color white/#22A045>**<html>&nbspMarble Line&nbsp</html>**</color>  | ::: |
-|  @#C0D7F7:\\ \\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  | Sun Fat | 715, 720 | ::: |  | 4 March 2023 |
+|  @#C0D7F7:\\ \\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  | Sun Fat | 715, 720 | ::: |   | 4 March 2023 |
 | ::: | Tsing Fung | ::: | ::: | ::: | ::: |
 | ::: | <del>Eastwich-on-sea</del> (Proposed) | ::: | ::: | ::: | N/A |
 | ::: | Inner Harbour Ferry Terminal | ::: | ::: | Kallos Ferry | 4 March 2023 |
