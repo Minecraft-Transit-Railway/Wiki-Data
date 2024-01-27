@@ -1,4 +1,4 @@
-====== User - javascript_es1 ======
+====== javascript_es1 ======
 
 <WRAP right>
 
