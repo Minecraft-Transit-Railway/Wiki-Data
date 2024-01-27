@@ -134,7 +134,7 @@ For **N. Section Temp Shuttle**, train service is available in single direction 
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **N. Section Temp Shuttle**  |
 | \\ 5 am - 4 pm\\ <html>&nbsp</html>|  \\ 4.2  |
 | \\ 4 pm - 5 pm\\ <html>&nbsp</html>|  \\ 2 - 5  |
-| \\ 5 pm - 3 am\\ <html>&nbsp</html>|  \\ 3 - 6  |
+| \\ 5 pm - 3 am\\ <html>&nbsp</html>|  \\ 4 - 5  |
 
 </WRAP>
 
