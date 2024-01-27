@@ -6,6 +6,24 @@
 |  @#279cbd: **Overview**  ||
 | **City** ||
 | London, England ||
-| **Account Age** | 3 years |
+| **Account Age** | 4 years |
 | **Pages on Wiki** | [[mtr_community:unitedcitiesrailways:mainlinerailways|]] |
+| **Nationality** | **British/English**
 </WRAP>
+
+===== Welcome =====
+
+Hello! Thanks for being here! I'm TruckManiac, a beginner to YouTube and a fan of the MTR mod. I first found it via Modern Elevators and Escalators and quickly forgot about the mod as I really had no idea how to work it and had no patience to watch a 3 minute video on how to do it. I know, bit strange.
+
+===== The Start =====
+
+I started YouTube 3 months before my Minecraft account was made, or in other words, September 2020. I made it during [[https://en.wikipedia.org/wiki/COVID-19_lockdown_in_the_United_Kingdom: Lockdown in the UK|]] thinking that that was the best time to start making videos. I knew it was not going to be that easy, and it was. But, not only was I trying out YouTube, a few years down the line, I found MTR. Since I was a car geek watching Top Gear every day, I decided to try out a different type of transport, trains. At that point, it was trains and boats, at least I think. Then, I just started spending so much time trying to figure it out and when I did, I didn't stop playing that mod for weeks. It was probably the only thing in my CurseForge mod list:
+Fabric 1.19.2
+Fabric 1.19.2
+Fabric 1.19.2 constantly. That's what my CurseForge modpack list was.
+
+===== My First Encounter with Community MTR Servers =====
+
+I found [[mtr_community:unitedcitiesrailways:|United Cities Railways]] first, via the MTR-Servers channel on the MTR discord. I joined when the server was down, so fast forward 4 - 6 months and here we are at the UCR Season 3 announcement. I applied for builder as I thought:
+"//There is no way I'm getting builder role on UCR//".
+Then I did. And at that moment, I realised that I needed a company name. And that name was Mainline Railways.
