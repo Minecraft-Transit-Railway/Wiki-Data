@@ -1,10 +1,20 @@
-
 ====== Mainline Railways ======
 
-
+<WRAP right>
+|  @#B0B0BE: **Moszyan Railways**  ||
+| {{:mtr_community:unitedcitiesrailways:mainlinerailwaysfull.png?400|}} ||
+|  @#B0B0BE: **Overview**  ||
+| **Owner** | [[mtr_community:TruckManiac|TruckManiac]] |
+| **Based at** ||
+| Cascadia City, Cascadia ||
+| **Transit type** | Railway Transport |
+| **Train models** | 7 |
+| **Active lines** | 0 |
+</WRAP>
 Mainline Railways, originating in United Cities Railways (UCR), was established on the 1st January 2024. However, on 18th January 2024, Mainline Railways expanded to Cascadia. Mainline Railways operates a few lines and makes a few buildings across Cascadia and UCR, mostly following a metro style for train routes and a semi-modern style for city buildings. Mainline Railways follows a reasonably realistic style for train usage, tunnel and station design.
 
 ===== Staff =====
+
 Mainline Railways was founded by [[mtr_community:truckmaniac|TruckManiac]]. The team consists of [[mtr_community:truckmaniac|TruckManiac]], henreth and Dave.
 
 ===== Routes =====
