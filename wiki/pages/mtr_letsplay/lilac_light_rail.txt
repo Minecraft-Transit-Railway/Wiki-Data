@@ -236,11 +236,11 @@ Route 804  is using Phase I and Phase II trains.
 === Stops ===
 
 ^  Fare Zone  ^  Name  ^  Routes  ^  District  ^  Connections  ^  Opened  ^
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot |[[lrt_483p|483P]], [[lrt_801|801]], [[lrt_802|802]], [[lrt_804|804]], [[lrt_810|810]], [[lrt_882|882]]| Kallos | <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color> | 10 October 2022 |
-|:::|Royal Park|:::|:::|<color white/#6B4799>**<html>&nbspElizabeth Line (Proposed)&nbsp</html>**</color>|29 October 2023|
+|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot | [[lrt_483p|483P]], [[lrt_801|801]], [[lrt_802|802]], [[lrt_804|804]], [[lrt_810|810]], [[lrt_882|882]] | Kallos | <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color> | 10 October 2022 |
+| ::: | Royal Park | ::: | ::: | <color white/#6B4799>**<html>&nbspElizabeth Line (Proposed)&nbsp</html>**</color> | 29 October 2023 |
 | ::: | Shek Ai | 483P, 810, 882 | ::: | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color> | 10 October 2022 |
 | ::: | Kallos | [[lrt_804|804]] | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color> | 5 August 2022 |
-| ::: | Kallos West | [[lrt_801|801]], [[lrt_802|802]]| ::: | ::: | ::: |
+| ::: | Kallos West | [[lrt_801|801]], [[lrt_802|802]] | ::: | ::: | ::: |
 | ::: | Karest Mountain Forest | ::: | ::: |   | ::: |
 | ::: | Karest Lake (East) | ::: | ::: | ::: | ::: |
 | ::: | Kwai Lam | ::: | ::: | ::: | ::: |
@@ -249,10 +249,10 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Puketeraki | 115, 802 | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color> | 10 September 2022 |
 | ::: | Karest Lake Beach | [[lrt_801|801]] | ::: |   | 11 August 2022 |
 | ::: | Spruce Forest | 115, [[lrt_801|801]] | ::: | ::: | 20 August 2022 |
-|:::|Mou Lun|[[lrt_804|804]]|:::|:::|2 November 2023|
-|:::|Casper Lake|:::|:::|:::|:::|
-|:::|Pai Kok|:::|New Buckingham|:::|:::|
-| ::: | Humugath | [[lrt_633|633]], [[lrt_804|804]] |:::| ::: | 6 May 2023 |
+| ::: | Mou Lun | [[lrt_804|804]] | ::: | ::: | 2 November 2023 |
+| ::: | Casper Lake | ::: | ::: | ::: | ::: |
+| ::: | Pai Kok | ::: | New Buckingham | ::: | ::: |
+| ::: | Humugath | [[lrt_633|633]], [[lrt_804|804]] | ::: | ::: | 6 May 2023 |
 | ::: | Taipa | ::: | ::: | <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color> | ::: |
 |  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  | New Read Leaves | 115, [[lrt_801|801]] | Kallos | <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color> | 20 August 2022 |
 | ::: | Purple Leaves | ::: | ::: |   | ::: |
@@ -319,9 +319,9 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Airport South | ::: | ::: | <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color> | ::: |
 | ::: | Airport North | 482P, 720 | ::: | ::: | ::: |
 | ::: | San Shek Wan | 720 | Eastwich |   | ::: |
-|:::|East San Shek Wan|715|:::|:::|23 October 2023|
-|:::|Loyalty Hills|715|:::|  <color white/#22A045>**<html>&nbspMarble Line&nbsp</html>**</color>  |:::|
-|  @#C0D7F7:\\ \\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  | Sun Fat |715, 720| ::: | |4 March 2023|
+| ::: | East San Shek Wan | 715 | ::: | ::: | 23 October 2023 |
+| ::: | Loyalty Hills | 715 | ::: | <color white/#22A045>**<html>&nbspMarble Line&nbsp</html>**</color>  | ::: |
+|  @#C0D7F7:\\ \\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  | Sun Fat | 715, 720 | ::: |  | 4 March 2023 |
 | ::: | Tsing Fung | ::: | ::: | ::: | ::: |
 | ::: | <del>Eastwich-on-sea</del> (Proposed) | ::: | ::: | ::: | N/A |
 | ::: | Inner Harbour Ferry Terminal | ::: | ::: | Kallos Ferry | 4 March 2023 |
@@ -379,6 +379,7 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Badgerstown | ::: | ::: | ::: | ::: |
 | ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
 |   | Sah Tou Emergency Platform | when service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P | Chou Wai |   | 10 February 2023 |
+
 
 ===== Routes =====
 
