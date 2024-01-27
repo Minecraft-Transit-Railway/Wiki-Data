@@ -2,7 +2,7 @@
 
 <WRAP right>
 |  @#279cbd: **TruckManiac**  ||
-| {{:mtr_community:truckmaniacanimatedskin.png?600|}} ||
+| {{:mtr_community:truckmaniacanimatedskin.png?400|}} ||
 |  @#279cbd: **Overview**  ||
 | **City** ||
 | London, England ||
