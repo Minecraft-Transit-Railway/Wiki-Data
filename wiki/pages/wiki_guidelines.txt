@@ -23,15 +23,19 @@
     * BAD: //Added more information and images.//
     * GOOD: //Added more information to the History category. Added 2 images for the Rolling Stock category.//
   - Do not vandalise pages, including adding irrelevant and/or harmful images and text.
-  - Custom content and external servers are limited to one entry per. Each Discord server may only have one page, and should be placed in the correct category per the Edit Guideline. Each collection of resource packs may only have one page, and it is suggested that you link all of your resource packs in your user page to keep the Wiki concise. You must not use any link shorteners such as Bitly. You may not upload files directly to the Wiki. Download links may only lead to following sites, and exceptions are possible if approved by an Admin or a Staff member if site doesn't have any ads, shady and dubious content, or malware //and// doesn't require to sign up to download resource packs:
-    * Modrinth
-    * CurseForge
-    * Google Drive
-    * OneDrive
-    * MEGA
+  - Custom content and external servers are limited to one entry per.
+    * 7.a. Each Discord server may only have one page, and should be placed in the correct category per the Edit Guideline. Server pages may NOT have subpages. All content must be kept to one page; the Wiki is not your personal server's almanac.
+    * 7.b. Using non-neutral language, particularly for the sake of making one's server seem more favourable than others, is considered a violation not only of Wiki rule 4, but of Discord rule 5. Staff reserve the right to request changes to language in order to maintain neutrality, and compliance is expected.
+    * 7.c. Each collection of resource packs may only have one page. Please condense collections as much as possible. Staff reserve the right to request further consolodation and compliance is expected.
+    * 7.d. You must not use any link shorteners such as Bitly. You may not upload files, namely resource pack files, directly to the Wiki. Download links may only lead to following sites, and exceptions are possible if approved by an Admin or a Staff member if site doesn't have any ads, shady and dubious content, or malware and doesn't require to sign up to download resource packs: //Modrinth, Curseforge, Google Drive, OneDrive, MEGA//.
   - Banned users cannot make community pages.
+  - Adopting the philosophy from Wikipedia, be as concise as possible. Pages should not be extensive biographies, and footnotes should be used for superfluous clarification.
+  - Adopting the philosophy form Wikipedia, pages must not contradict one another. The community's view cannot simultaneously be "A" and "not A". Outside drama and superfluous indulgence in particular incidents is not permitted, and in any given case, Staff reserve the right to moderate and decide on a position should there by a point of disagreement.
+  - Aside from members of the Staff team, users may not create their own user pages.
 
 You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change.
+
+//These version of the guidelines were drafted on 22 January 2024, adopted 27 January 2024, and will take affect 30 January 2024 at 02:00 HKT.//
 
 For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page.
 
