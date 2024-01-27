@@ -2,12 +2,16 @@
 
 A number of tutorial videos are available on [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|Jonathan's YouTube channel]] for your viewing pleasure. If you prefer to learn via video as opposed to via reading, this medium is available to you. Many if not all of the basics of the mod are available via the video tutorials. They are listed below with their contents listed as well.
 
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|   | **Title**  | **Published**  | **Contents** |
+| **Episode 1**  | Getting Started  | 26 July 2021  | - How to use platform and siding connectors \\ - How to use platform blocks in conjunction with platform rails \\ - Basics of the Railway Dashboard including station areas, creating routes, and depot areas |
+| **Episode 2**  | Upgrading the System  | 26 July 2021  | - Creating a more complex system based on the design of the previous video \\ - Using the rail remover \\ - Adding more sidings to an existing depot \\ - Expanding existing stations \\ - How to use turnback rail \\ - How to use one-way rails \\ - Creating new lines and introducing the concept of multiple "routes" assigned to one line |
+| **Episode 3**  | Station Facilities  | 10 August 2021  |   |
+| **Episode 4**  | Escalators and Custom Resources  | 23 September 2021  |   |
+| **Episode 5**  | Signals, Sensors, and the Dynamic System Map  | 10 December 2021  |   |
+| **Episode 6**  | Boats and Building Tools  | 22 April 2022  |   |
+| **Episode 8**  | Cable Cars  | 23 June 2022  |   |
+| **Episode 9**  | Vehicle Driving and Real-time Scheduling  | 18 September 202  |   |
+| **Episode 10**  | (New) Elevator Mechanics and Custom Destinations  | 30 October 2022  |   |
+| **Christmas Special** | Automated Airplanes in Minecraft? | 25 December 2022 |   |
+| **Episode 11** | Your Top Five Questions! | 19 March 2023 |   |
 
