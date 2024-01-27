@@ -20,7 +20,6 @@ First, the page needs an English title like "Edit Guideline," then, you need to 
 | mtr_addon->nte | Nemo's Transit Expansion Addon |
 | mtr_addon->msd | MTR Station Decoration Addon |
 | mtr_community:server | Server pages for the Community |
-| mtr_community:resourcepack | Resource Packs for the Community |
 | mtr_community:staff | Staff user pages |
 | playground | If you just want to try out the functions |
 
