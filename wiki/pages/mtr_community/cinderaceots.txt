@@ -1,7 +1,9 @@
 ====== User - CinderaceOTS ======
+<WRAP center round box 60%>
+DELETEME This article will be deleted due to the revision of [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] that will take effect from 30 January 2024 02:00.
+</WRAP>
 
 <WRAP 400px right>
-
 |  @#BB492B:  **CinderaceOTS**  ||
 | {{ :playground:cinderaceots_fm.png?320 }}CinderaceOTS's avatar "[[wp>Pokémon_Sword_and_Shield|Pokémon SwSh]] [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]]" as of 2023/5/17.  ||
 |  @#BB492B:  **Overview**  ||
