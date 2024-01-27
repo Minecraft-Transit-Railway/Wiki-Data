@@ -1,7 +1,7 @@
 ====== Mainline Railways ======
 
 <WRAP right>
-|  @#B0B0BE: **Moszyan Railways**  ||
+|  @#B0B0BE: **Mainline Railways**  ||
 | {{:mtr_community:unitedcitiesrailways:mainlinerailwaysfull.png?400|}} ||
 |  @#B0B0BE: **Overview**  ||
 | **Owner** | [[mtr_community:TruckManiac|TruckManiac]] |
