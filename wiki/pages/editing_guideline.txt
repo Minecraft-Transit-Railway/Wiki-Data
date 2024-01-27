@@ -13,13 +13,15 @@ If your preferred language is not included, please contact the admins.
 First, the page needs an English title like "Edit Guideline," then, you need to choose a category for the page to be in:
 
 | mtr | The base MTR mod for the player |
-| mtr->dev | Addon or resource pack development for MTR |
+| mtr_dev | Addon or resource pack development for MTR |
 | mtr_letsplay | MTR Let's Play Server |
 | mtr_extra | Community Resource Packs |
 | mtr_addon->lu | The London Underground Addon |
 | mtr_addon->nte | Nemo's Transit Expansion Addon |
 | mtr_addon->msd | MTR Station Decoration Addon |
-| mtr_community | Members of the community and server pages |
+| mtr_community:server | Server pages for the Community |
+| mtr_community:resourcepack | Resource Packs for the Community |
+| mtr_community:staff | Staff user pages |
 | playground | If you just want to try out the functions |
 
 After you create the page, there will be a big box for you to enter text in and a bunch of icons on the top.
@@ -42,26 +44,7 @@ You can create a page below:
 
 For the [[wiki_guidelines|Wiki Guidelines]], please visit the corresponding page.
 
-When using the **mtr_community** namespace, we ask that you include ONE of the following prefixes to your page title for the sake of categorisation and navigability:
-
-  * "Server - " //i.e. "Server - Galwick Community City//"
-  * "User - " //i.e. "User - jonafanho//"
-
-Only the page title located at the top should be named as such. The page ID, which is located in the URL and in the "rename page" button on the left, should remain without the prefix. For example:
-
-  * Page title: //Server - Galwick Community City//
-  * Page ID: //mtr_community:galwick_community_city//
-
-Or
-
-  * Page title: //User - jonafanho//
-  * Page ID: //mtr_community:jonafanho//
-
-To name a page in this style, simply add a H1 Header to the top of a page.
-
-<code ->
-====== Page Title ======
-</code>
+As per the new rules drafted 22 January 2024, adopted 27 January 2024, taking affect 30 January 2024 at 02:00 HKT, server pages should no longer have the "Server -" prefix, as they now have their own sub-namespace under mtr_community, that being mtr_community:server. Please update your pages accordingly during the transitional period. Thereafter, Staff will change the namespaces automatically. The same rule applies to Staff user pages dropping the "User -" prefix and resource pack pages dropping the "Resource Pack -" prefix.
 
 If you have any questions, please ask for help in the #wiki-discussion channel in [[https://discord.gg/xvTgJ3PbrP|Discord]]. As per the Wiki Guidelines, Admins and Staff reserve the right to modify any pages as necessary to fit the guidelines. Please make sure to check back on this page ever so often, as editing requirements may be added and/or changed
 
