@@ -1,7 +1,10 @@
 ====== User - SzandorThe13th ======
 
-<WRAP right>
+<WRAP center round important 60%>
+Due to an unfortunate change in regulations regarding the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]], this article will be deleted on 30 January 2024 02:00 HKT. It's been fun, but this shouldn't be how it ends.
+</WRAP>
 
+<WRAP right>
 |  @#6D59A0:  **SzandorThe13th**  |||
 | {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023, bibi hat and all.  |||
 |  @#6D59A0:  **Profile**  |||
@@ -17,8 +20,8 @@
 | **Nationality** | Dutch ||
 | **Timezone** | CET (GMT+1) ||
 | ::: | CEST (GMT+2) ||
-
 </WRAP>
+
 ==== Introduction ====
 Hello! I'm **Szandor**! I'm one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community, my goal is to help people, but my task sometimes seems to be acting as the voice of reason in a group of people. You might know me from the [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin I published in the public resourcepacks channel, but you will probably also know me as the guy who hasn't stopped yapping about [[mtr_community:centralia|Centralia]] since the day I joined the project.
 
@@ -51,10 +54,10 @@ During this whole ordeal I also joined [[mtr_community:centralia|Centralia]] and
 
 Unfortunately, due to the owner's studies, [[mtr_community:unitedcitiesrailways|United Cities Railways]] went down for some time, and because of that I was seeking a new server to build on.
 This prompted me to join [[mtr_community:sallen-city-server|Sallen City]] on September 9th.
-In this time I became more acquainted with MTR staff members [[mtr_community:sleepy_sapph|Lily]] and [[mtr_community:javascript_es1|Dooji]], who were also builders there at the time.
+In this time I became more acquainted with MTR staff members [[mtr_community:staff:sleepy_sapph|Lily]] and [[mtr_community:staff:javascript_es1|Dooji]], who were also builders there at the time.
 My interest in [[mtr_community:sallen-city-server|Sallen City]] kind of dwindled as time went on, and the final nail in the coffin was when the bits and chisels mod broke, leaving the server to either have to restart entirely or rebuild everything almost from scratch, of which the former was chosen. This caused many builders to lose their motivation, some of which opted to leave the builder team entirely.
 I kept in touch with everyone from this builder team, which may have been a help to what happened next.
-You see, while I was on [[mtr_community:sallen-city-server|Sallen City]], I had already been talking to [[mtr_community:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of me being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:sallen-city-server|Sallen City]] thing only seems to have boosted the progression of this possibility, and on the 8th of December, I was sent the application form. I was accepted into the builders team the very next day.
+You see, while I was on [[mtr_community:sallen-city-server|Sallen City]], I had already been talking to [[mtr_community:staff:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of me being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:sallen-city-server|Sallen City]] thing only seems to have boosted the progression of this possibility, and on the 8th of December, I was sent the application form. I was accepted into the builders team the very next day.
 
 Around this time, it had also become apparent that [[mtr_community:unitedcitiesrailways|United Cities Railways]] was going to end season 2 due to increasing conflicts regarding unfitting railway infrastructure.
 All of this together gave me the bright idea of making sure I had a single brand across all servers I was on. This brand became //Moszyan Railways//, and can by now be found on the [[mtr_letsplay:start|Let's Play Server]], [[mtr_community:unitedcitiesrailways|United Cities Railways]] (formerly CityLink/CTP) and [[mtr_community:centralia|Centralia]] (formerly Trident Railways). My rolling stock fleet now features a single design style.
