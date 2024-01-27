@@ -1,0 +1,22 @@
+<WRAP right>
+
+^  **Class 252 Super Commutra**  |^
+|   ||
+|  **In operation**  |  Soon  |
+|  **Top Speed**  |  200km/h (125mph)  |
+|  **Carriages**  |  3 - 8  |
+|  **Type**  |  Electric Multiple Unit  |
+|  **Power from**  |  Diesel, Overhead wires((
+Only for /0 variant
+)), Third Rail((
+Only for /1 variant
+))  |
+|  **Length**  |  16 blocks  |
+|  **Can be coupled with**  |  [[mtr_community:trinsmoton_rail:class_250|Class 250]]  |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 252 Commutra ======
+
+The **Trinsmoton Rail Class 252 Super Commutra** is a proposed Bi-Mode Electric Multiple Unit that is designed to run on Intercity services. The trains consist of 3-8 carriages and can be coupled up with the [[mtr_community:trinsmoton_rail:class_250|Class 250]] Commutras. They will serve the High Speed Sector of Trinsmoton Rail.
+
