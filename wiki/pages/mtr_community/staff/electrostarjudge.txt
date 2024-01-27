@@ -1,0 +1,45 @@
+====== ElectrostarJudge (Work In Progress) ======
+
+<WRAP 400px right>
+
+|  @#1797d6:  <color #ffffff>**ElectrostarJudge**</color>  ||
+| {{ mtr_user:electrostarskin.jpg?200 }}ElectrostarJudge's avatar ||
+|  @#1797d6:  <color #ffffff>**Overview**</color>  ||
+| **Known as ** | Electro |
+| ::: | Electrostar((
+ Named after his childhood favourite train, the [[https://en.wikipedia.org/wiki/British_Rail_Class_377|Class 377 Electrostar]].
+)) |
+| **Name Inspiration** | The [[https://en.wikipedia.org/wiki/Bombardier_Electrostar|Bombardier Electrostar]] family of trains |
+| **Roles** | @#3498db: <color #FFFFFF>%% %%Staff </color> |
+| ::: | @#FF73FA: <color #FFFFFF>%% %%Server Boosters </color> |
+| ::: | Let's Play Members |
+| ::: | Train Operators |
+| **Languages Spoken** | English |
+| ::: | German |
+| **Let's Play Lines** | @#AE0D3F: <color #FFFFFF>%% %%CrossCountry </color> |
+| ::: | @#E20177: <color #FFFFFF>%% %%Great Western </color> |
+| ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail (Defunct) </color> |
+| **Joined Discord** | 27th December 2021 |
+
+</WRAP>
+
+**ElectrostarJudge** is a staff member in the [[mtr:start|Minecraft Transit Railway]] Discord community. He joined in December 2021 and became a member of the Staff Team as a Moderator in July 2022. %%Electrostar owned the namesake operator Electrostar Rail (now defunct), his first large project. He owns Great Western, a regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the %%Let's Play Server%% to connect cities in the similar style to the real life %%CrossCountry Trains%% operator, and East Midlands Railway, a suburban operator as well as operating long distance regional services. %%Electrostar is primarily interested in trains and sportscar racing. He is also a parkrunner (100, v100) and a squash player (250pts)
+
+===== Let's Play Server =====
+
+**Electrostar Rail (Defunct)**
+
+Electrostar Rail was the first major project Electro worked on within the Lets Play Server. The operator ran alongside Riverside Line services between Llanmara St Devota and Benfleet stations, before venturing out to Ilford Island via Kirkenkessie Gateway. Some services were diverted from Llanmara St Devota to Hampton West after Winbeck, as well as having an additional station call at Red Creek. This operator has now been superseded by East Midlands Railway, starting an overhaul of the ex-Electrostar Rail infrastructure and fleet.
+
+**Great Western**
+
+Great Western is a project that provides a regional suburban service between New Victoria and Marylebone, via either Ridgeside North or Wanborough. The operator platform shares with Overground services to Pawtecket and Ridgeside Line services to Denthrope at New Victoria. The line also shares tracks with CrossCountry services between Marylebone and Wanborough. Class 171 "Turbostar" units are also used.
+
+**CrossCountry**
+
+CrossCountry, or XC in its short form name, operates long distance services across the Let's Play map, starting with services from Einsburg Central to Zuidbaai, via Marylebone and Denthrope Hauptbahnhof. The operator is unique in that it is the only one to operate Diesel-only Class 802 units. In future, it is hoped to massively expand the XC network, via collaboration with other builders and to operate joint services with their respective Operating Companies.
+
+**East Midlands Railway**
+
+EMR is the successor to the now defunct Electrostar Rail operation. Services are planned to operate from Teufort to Hampton West initially, through Montauk, Ilford Island and Kirkenkessie gateway. Currently, the services operated are Llanmara St Devota to Ilford Island, via Benfleet, and Hampton West to Ilford Island via either Benfleet or Mt Dencradle.
+
