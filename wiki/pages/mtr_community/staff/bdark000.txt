@@ -23,13 +23,13 @@
 
 ===== Major Contributing Areas =====
 
-  - [[mtr_letsplay:start|Let's Play Server]] enquiries and moderation
-  - [[mtr_letsplay:start|Let's Play Server]] [[mtr_letsplay:west_lake_transport_authority|WLT]] stations and network
-  - Discord server moderation
-  - [[mtr:start|Minecraft Transit Railway Wiki]] content and moderation
+  * [[mtr_letsplay:start|Let's Play Server]] enquiries and moderation
+  * [[mtr_letsplay:start|Let's Play Server]] [[mtr_letsplay:west_lake_transport_authority|WLT]] stations and network
+  * Discord server moderation
+  * [[mtr:start|Minecraft Transit Railway Wiki]] content and moderation
 
 ===== Past Contributions =====
 
-  - Addition of 60 km/h and 200 km/h rail connector w/ Jonathan
-  - Addition of disable next station announcement by route w/ Jonathan
-  - Centown Classic moderation, follow-ups of some unfinished projects (e.g. Tin Sha station) and track renovation of some lines (e.g. CHR On Shan Rail)
+  * Addition of 60 km/h and 200 km/h rail connector w/ Jonathan
+  * Addition of disable next station announcement by route w/ Jonathan
+  * Centown Classic moderation, follow-ups of some unfinished projects (e.g. Tin Sha station) and track renovation of some lines (e.g. CHR On Shan Rail)
