@@ -15,6 +15,11 @@ https://modrinth.com/mod/station-decoration
 
 ==== NTE (Nemo´s Transit Expansion) ====
 [[mtr_addon:nte:start|Nemo's Transit Expansion]] adalah mod yang menambah ciri-ciri berunsur eksperimentasi kepada mod MTR, seperti sokongan model berformat .obj dan penulisan skrip kereta api menggunakan JS.
+
+{{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
+
+<WRAP center round download 90%>
+https://modrinth.com/mod/mtr-nte
 </WRAP>
 
 ==== Reality City Construction ====
