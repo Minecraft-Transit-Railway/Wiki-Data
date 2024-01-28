@@ -3,7 +3,7 @@
 ====== Mod tambahan MTR ======
 Mod-mod tersebut bertujuan menambah kefungsian baharu kepada mod asas MTR, seperti blok atau ciri-ciri baharu. Mereka dipasang dengan cara yang sama dengan mod-mod lain bahkan mod MTR.
 
-===== Bagaimana cara saya memasang mod tambahan untuk mod MTR? =====
+===== Bagaimanakah cara memasang mod tambahan untuk mod MTR? =====
 Berikut adalah beberapa mod tambahan untuk MTR:
 
 ==== MSD (juga dikenali sebagai Station Decoration Addon) ====
