@@ -1,0 +1,123 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+====== リソースパックの作成 ======
+
+この記事では、リソース パックを作成するためのファイル構造を設定する方法について説明します。
+
+要件: Windows 10 21H1 以降。
+
+===== やり方 =====
+==== フォルダー構造 ====
+   - //.minecraft//フォルダー(個別でゲームディレクトリを設定している場合はそのゲームディレクトリへ)に移動します。 {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}}
+   - 次に、//resourcepacks// フォルダー {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} を見つけます。
+   - 任意の名前でフォルダーを作成します (例: My Custom M-Train) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+   - 既存のフォルダー内に「assets」という名前の新しいフォルダーを作成します。
+   - Pack.png をフォルダーにアップロードします。この画像はリソースパックの選択画面に表示され、128x128 である必要があります。
+   - このテンプレート Pack.mcmeta をダウンロードし、リソースパック フォルダーに置きます。
+<file json pack.mcmeta>
+{
+    "pack": {
+        "description": "put your pack description here",
+        "pack_format": 9,
+    }
+}
+</file>
+
+<WRAP center round info 90%>
+パックフォーマットは、パックが対応する Minecraftのバージョンです。 MTR モデルまたはテクスチャを追加するだけの場合、これは重要ではありません。 \\
+ただし、番号を追加する必要がある場合は、それぞれバージョン 1.18 と 1.19 に対応する 8 または 9 を使用することをお勧めします。 \\
+パックに「新しいor古いバージョン向けに制作」と表示された場合、変更されるのはこの数値だけなので、実際にはあまり意味がないことを覚えておいてください。
+</WRAP>
+
+
+   * assetsフォルダー内に MTR という名前の新しいフォルダーを作成します。
+   * 「mtr_custom_resources.json」という名前のフォルダー内にテキストファイルを作成します。
+==== JSONファイル ====
+JSONファイルを作成するには、値の一部をコピー、貼り付け、編集するだけです。 メインのコードは次のとおりです。
+
+電車が1種類だけの場合:
+<file json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "My Custom Train Name",
+			"color": "#66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</file>
+
+複数ある場合 (json形式が複雑化するため、上記の部分を単純に複製することはできません):
+<file json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		},
+		
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</file>
+
+<WRAP center round important 90%>
+ファイル名やリソースパック内の ID には大文字や2バイト文字((漢字に代表する日本語表記など))を**決して**含まないでください。 これらを使用すると、デフォルトのテクスチャで表示されてしまいます。
+</WRAP>
+<WRAP center round tip 90%>
+さらに詳しいヘルプが必要な場合は、MTR Github Wiki を参照してください。 [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
+</WRAP>
+
+<WRAP center round box 60%>
+**JSON の説明:**
+
+   * **"name":** MTRが車庫線メニューで表示する名前。
+   * **"color":** MTRが車庫線メニューで表示するHEXカラーコード。
+   * **"base_train_type":** リテクスチャする列車の種類。
+   * **"texture_id":** 列車が生成されたときに表示されるカスタムテクスチャのパス。
+ 
+**上記を参考に作成されたスクリーンショット:**
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?nolink&200 |}}
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?nolink&200 |}}
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?nolink&200 |}}
+{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?nolink&200 |}}
+</WRAP>
+
+==== 電車のテクスチャ ====
+   - 透明度(アルファチャンネル)が使える、任意の画像編集ソフトウェアをダウンロードします。 ペイント3DとGIMPは、どちらも無料で比較的使いやすいのでおすすめです。 MSペイントは**透明度(アルファチャンネル)をサポートしていない**ため、**使用しないでください**。テクスチャの透明な部分がすべて白くなってしまいます。
+   - [[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/4.0.0/resources/common/normal/assets/mtr/textures/entity]]に移動し、必要なテクスチャ ファイルをダウンロードします。 
+   - 画像編集ソフトウェアを開き、編集したいテクスチャを見つけて、それを開いて編集を開始します。
+   - 完了したら、テクスチャ ファイルをPNGとしてリソースパックにエクスポートし、適切なフォルダーに置きます (方法と場所がわからない場合は、リソースパックの作成に関する上記のセクションをもう一度読んでください)
+   - 上記のように、すべての正しい手順に従ってリソースパックを作成します。
+   - 正しい"base_train_type"を使用していることを確認してください。 モデル ファイルの名前が同じであるため、これらのタイプは今のところ github 自体で見つけることができますが、将来的にはこのwikiにそのページが作成される予定です。
+   - 残っているもの、それをresourcepacksフォルダーに入れて読み込みます。
+
+<WRAP center round tip 90%>
+ブロックベンチを使用して電車をリテクスチャすることもできます。 ただし、これを行うには、まず次のリンクから列車のbbmodelファイルもダウンロードする必要があります。 \\
+[[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/4.0.0/models]]
+</WRAP>
+これで基本的な操作は完了です。
+<WRAP center round box 60%>
+リソース パックのサンプルは以下からダウンロードできます。
+<WRAP center round download 60%>
+https://bit.ly/MtrExampleLink
+</WRAP>
+</WRAP>
+
+==== Sound files ====
+   * Audacity をダウンロードします。これは任意ですが、自分でサウンドを録音したい場合は、これを使用すると簡単になります。
+   * サウンド ファイルを録音するか、外部ソースからダウンロードすることもできます。 モノラルの.ogg形式であり、ファイル名に大文字が含まれていないことを確認してください。
+   * リソースパック内の「mtr」フォルダーに戻り、その中に「sounds」という名前の新しいフォルダーを作成し、サウンドファイルを貼り付けます。
+ 
