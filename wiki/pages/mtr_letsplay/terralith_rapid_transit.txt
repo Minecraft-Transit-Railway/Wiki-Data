@@ -3,19 +3,30 @@
 |  @#EFEEF0:  **Terralith Rapid Transit**  ||
 | {{ mtr_letsplay:trt.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:cinderaceots|CinderaceOTS]] |
-| **Established** | 2022 |
+| **Owner** | CinderaceOTS |
+| **Established** | August 2022 |
 | **Area Served** | (Wide area) |
 | **Transit type** | [[Rapid Transit]]etc. |
 | **Number of lines** |  |
 | **Number of stations** |  |
 | **Real-Life Inspiration** | [[wp>Kōbe_Rapid_Transit_Railway|Kōbe Rapid Transit Railway]] |
-|  |  |
 | **Colour on map** | Blue Gray (#2e4460) |
-|  @#EFEEF0:  **Service & Operation**  ||
-| **Began passenger operation** | August 2022 |
-| **Operator(s)** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+
+|  @#b0c4de:  **Terralith Rapid Transit**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 泰瑞斯捷運 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 泰瑞斯捷运 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | tài ruì sī jié yùn|
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | taai seuih sī jiht wahn|
+| [[wp>Jyutping|JyutPing]] | taai3 seoi6 si1 zit6 wan6  |
 </WRAP>
+Terralith Rapid Transit([[wp>Chinese_language|Chinese]]: 泰瑞斯捷運, Common Notation: TRT) is a management company that manages lines and trains such as [[mtr_letsplay:shimanomtr|Shimano MTR]].
+
+======Overview=====
+This is a management company ((a company equivalent to a Category-3 Operator (第三種鉄道事業者) in Japan)) that manages lines and trains established by CinderaceOTS ((Sprigatito OTS as of August 2022)) when it joined the Let's Play server.
+We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shimanolrt|Shimano LRT]] lines and trains. The operation of the trains is outsourced to companies such as [[mtr_letsplay:shimanomtr|Shimano MTR]].
 
 =====Routes=====
 ====In operation====
@@ -44,7 +55,7 @@
 ====Others====
 * [[Cinderace Light Railway]]
 
-* [[Shimano LRT]]
+* [[shimanolrt]]
 
 * [[Kamaboko LRT]]
 
