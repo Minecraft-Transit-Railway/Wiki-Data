@@ -1,0 +1,74 @@
+====== MTR Crafters ======
+
+<WRAP right>
+
+|  **MTR Crafters**  ||
+| {{ :mtr_community:mtr_crafters_logo.png?180 }}  ||
+|  **Overview**  ||
+| **State** | Opened |
+| **President** | Kinson |
+| **Admin** | Yoshi |
+| ::: | [[mtr_community:staff:isaaclao|Isaac]] |
+| ::: | [[mtr_community:staff:strongerlock|Stronger Lock]] |
+| ::: | Anson |
+| ::: | BloodEarth |
+| ::: | Forest |
+| ::: | Stellania |
+| **Transit Type**  | Heavy Rail |
+| ::: | Light Rail |
+| ::: | Bus (Decoration only) |
+| ::: | Airplane (Decoration only) |
+| **Official Language** | Chinese/Cantonese |
+| ::: | English |
+| ::: | Hoggish |
+
+</WRAP>
+
+**MTR Crafters** is a Minecraft server that uses the Minecraft Transit Railway mod to recreate the Hong Kong MTR System (and possibly the city itself) in a 1:1 scale. It has a strict standard, where builders would build stations according to their real looks by site visits, photos taken and videos recorded by other Youtubers. This provides stations with accurate locations and facilities, and make sure the stations look realistic while passengers taking the MTR in the server.
+
+==== History ====
+
+Before MTR Crafters was founded, Kinson Studio already made a public Minecraft Vanilla Server named MCMTR, which features 1:10 ratio of HK map and MTR stations. However the development of MCMTR was getting slower after the opening of Tuen Ma Line in June 2021. Kinson needed new ideas to attract more users and keep his reputation. Bosco invited Kinson to create a new server together, featuring 1:1 scale of HK Map using MTR Mod.
+
+The server was created when the founder of Centown, Bosco, with inspector Jonathan and server administrator Isaac, decided to join forces with Kinson Studio Community to recreate MTR in Minecraft. The staff team in MTR Crafters is a mixture of both servers. However, due to Centown's inactivity, adding the arrival of Let's Play Server, MTR Mod Community is no longer a partnership with Centown. MTR Crafters had switched the main partnership to the official Minecraft Transit Railway mod server and had broke off our partnership with Centown, meaning Kinson is now the only remaining owner of the server. 
+
+The server originally used 1:2 map of HK due to technical issues generating an actual 1:1 map. But that map was put to an end after 1 year of hard grinding by spdfNerd and isaaclao, the 1:1 map was officially implemented on 27/12/2022. In 1:2 Map, it original decided to use 4-car platforms instead of 8-car platforms, in order to fit the actual map size. However it is built as 8-car platforms at last, and decided to move stations' schematics to 1:1 server directly.
+
+This server was a partnership with Stellania's server, raised by Bosco. However partnership server is inactive till now.
+
+Lines opened in 1:2 Server:
+  * **South Island Line**: Admiralty - South Horizons
+  * **Tuen Ma Line**: Hung Hom - Tuen Mun
+  * **Tung Chung Line**: Nam Cheong - Hong Kong
+  * **Island Line**: Kennedy Town - Sheung Wan
+  * **Tuen Mun - Kennedy Town HSR (Imaginary Line)**: Tuen Mun - Kennedy Town - Ocean Park
+
+==== Information ====
+
+**Current services**
+
+  * **Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line** is fully operational.
+  * **Tuen Ma Line** (Tuen Mun - Hung Hom) section is opened while the remaining section is under construction.
+  * **LRT 505, 507, 614P, 615P** is fully operational.
+  * Others are NOT publicly opened, **DO NOT TRESPASS** into respective areas.
+
+//For lines and stations' descriptions, you may take a look in MTR Fandom Pages.//
+
+**Future plans**
+
+**South Island Line**, **Kwun Tong Line** is planned to open before June 2024. While **Tuen Ma Line [HUH-CIO]** is planned to open in late or mid-2024.
+
+//Please check our construction progress in MTR Crafters Trello Page.[[https://trello.com/b/5zRbQu9s]]//
+
+**Rules and Websites**
+
+Please visit MTR Crafters Page.[[https://mtrcrafters.github.io/Website/]]
+
+**Ways to Join Server**
+
+Please refer the steps provided in Kinson Studio Youtube Video, and join the server with the modpack, resources pack and server ip provided in MTR Crafters Discord Channels. 
+
+**Builder Application and Ban Appeals**
+
+Please refer to the application links provided in MTR Crafters Discord Channels.[[https://discord.gg/m5VSHPdY2y]]
+Ban Appeals Form is provided in MTR Crafters Page.[[https://forms.gle/AquGiCkBkfGgrSHY7]]
