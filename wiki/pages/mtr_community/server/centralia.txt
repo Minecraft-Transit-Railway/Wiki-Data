@@ -4,7 +4,7 @@
 
 <WRAP right>
 |  @#04388B: <color #FFFFFF>**Centralia**</color>  ||
-| {{ ..:centralia.png?300 }} ||
+| {{mtr_community:centralia.png?300}} ||
 |  @#04388B: <color #FFFFFF>**Overview**</color>  ||
 | **Creator** | Vako |
 | **Project Director** | szandorthe13th |
@@ -26,7 +26,7 @@ The City of [[mtr_community:server:centralia|Centralia]] originally started out 
 
 <WRAP right>
 |  @#FC211D: **Centralia Rail**  ||
-| {{:mtr_community:crlogostripe.png?250}} ||
+| {{mtr_community:crlogostripe.png?250}} ||
 |  @#FC211D: **Overview**  ||
 | **Owner** | [[mtr_community:server:centralia|Centralia]] |
 | **Based at** | Sendai Tower |
@@ -80,7 +80,7 @@ Centralia Rail is a publicly owned rail company which serves the Central and Sub
 
 <WRAP right>
 |  @#9B0058: <color white>**Centralia Metropolitan Rail**</color>  ||
-| {{:mtr_community:cmrmetropolitan.png?250}} ||
+| {{mtr_community:cmrmetropolitan.png?250}} ||
 |  @#9B0058: <color white>**Overview**</color>  ||
 | **Owner** | Vako |
 | **Based at** | Sendai Tower |
@@ -131,7 +131,7 @@ Centralia Metropolitan Railway Company is wholly owned subsidiary of Centralia T
 
 <WRAP right>
 |  @#C72DAC: **Warrington Flyer**  ||
-| {{:mtr_community:centralia_wf.png?260}} ||
+| {{mtr_community:centralia_wf.png?260}} ||
 |  @#C72DAC: **Overview**  ||
 | **Last Owner** | EllipticBark |
 | **Based at** | Sendai Tower |
@@ -165,7 +165,7 @@ The system is abandoned, and no longer operational.
 
 <WRAP right>
 |  @#800021: <color white>**Rhosyngardd City Council**</color>  ||
-| {{:mtr_community:centralia_rcc.png?250}} ||
+| {{mtr_community:centralia_rcc.png?250}} ||
 |  @#800021: <color white>**Overview**</color>  ||
 | **Owner** | Public |
 | **Based at** | Rhosyngardd |
@@ -199,7 +199,7 @@ The Rhosyngardd City Council is a Open Access Rail Operator only operating train
 
 <WRAP right>
 |  @#0008AC: <color white>**Centrewest**</color>  ||
-| {{:mtr_community:centrewest_3_wide.png?250}} ||
+| {{mtr_community:centrewest_3_wide.png?250}} ||
 |  @#0008AC: <color white>**Overview**</color>  ||
 | **Owner** | Vako |
 | **Based at** | Evesham |
@@ -242,13 +242,13 @@ The Centrewest Light Railway (not to be confused with  Centrewest Buses), is a l
 
 <WRAP right>
 |  @#B0B0BE: **Moszyan Railways**  ||
-| {{:mtr_community:mosyzan_logo.png?250}} ||
+| {{mtr_community:mosyzan_logo.png?250}} ||
 |  @#B0B0BE: **Overview**  ||
 | **Owner** | szandorthe13th |
 | **Based at** ||
 | TMT Complex, Mayrowe-Anemone ||
 | **Transit type** | Overground Trains |
-| **Train models** | 3 |
+| **Train models** | 6 |
 | **Active lines** | 2 |
 </WRAP>
 
@@ -259,54 +259,54 @@ Moszyan Railways is the youngest operator in the city of [[mtr_community:server:
 === Lines ===
 
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line West Tooth]]  |  Planned  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
-|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line Central Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
-|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line East Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:lendertonisland|Lenderton Island]]  |
-|  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Stopper)]]  |  Operational  |  [[mtr_community:centralia:stations:anemonebay|Anemone Bay]]  |  [[mtr_community:centralia:stations:astley|Astley]]  |
-|  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Express)]]  |  Operational  |  [[mtr_community:centralia:stations:lendertonbridge|Lenderton Bridge]]  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |
+|  @#4D77CB:Trident Line (West Tooth)  |  Planned  |  Buckingham  |  Black Mesa  |
+|  @#4D77CB:Trident Line (Central Tooth)  |  Operational  |  Mayrowe Central  |  Buckingham  |
+|  @#4D77CB:Trident Line (East Tooth)  |  Operational  |  Buckingham  |  Lenderton Island  |
+|  @#B0B0BE:Southern City Line  |  Operational  |  Lenderton Bridge  |  Great Central  |
 
 === Fleet ===
 
 |  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
-|  LRC  |  S43-Tec LRV 2010  |    |    |
-|  GNUS  |  BVG Class H  |    |    |
-|  OHS  |  BR Class 508  |    |    |
-|  OLS  |  BR Class 378  |    |    |
-|  RMS  |  Stadler FLIRT 3  |    |    |
+|  LRC  |  S43-Tec LRV 2010  |  Unused  ||
+|  GNUS  |  BVG Class H  |  Unused  ||
+|  OHS  |  BR Class 508  |  @#B0B0BE:South City Line  |  Lenderton Bridge Siding  |
+|  OLS  |  BR Class 378  |  @#4D77CB:Trident Line  |  TMT Complex  |
+|  OLS (Trident Line)  |  BR Class 378  |  @#4D77CB:Trident Line  |  TMT Complex  |
+|  RMS  |  Stadler FLIRT 3  |  Unused  ||
 
 
 ===== The System =====
 === Szandor's Centraliaverse ===
-{{:mtr_community:centralia_cr_map.png?1000|}}
+{{mtr_community:centralia_cr_map.png?1000}}
 
 //A map of all [[mtr_community:centralia:cr|Centralia Rail]] services. [[mtr_community:centralia:mrw|Moszyan Railways]]' [[mtr_community:centralia:mrw:tridentline|Trident Line]] is included until their network expands.//
 
-{{:mtr_community:centralia_cmr_map.png?1000}}
+{{mtr_community:centralia_cmr_map.png?1000}}
 
 //A map of all [[mtr_community:centralia:cmr|Centralia Metropolitan Rail]] services. The CR-owned [[mtr_community:centralia:cr:centralandjunctionline|Central & Junction Line]] is included as a reference to the Waterloo & City Line's appearance on the London Underground rail map.//
 
-{{:mtr_community:centralia_lrt_map.png?1000}}
+{{mtr_community:centralia_lrt_map.png?1000}}
 
 //A map of all Light Rail services in [[mtr_community:server:centralia|Centralia]]. Currently includes the [[mtr_community:centralia:warringtonflyer|Warrington Flyer]], [[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]] and the [[mtr_community:centralia:centrewest|Centrewest Light Rail]] network.//
 
-{{:mtr_community:centralia_map_scv.png?1000}}
+{{mtr_community:centralia_map_scv.png?1000}}
 
 //The full system map of Szandor's Centraliaverse as of November 8th, 2023.//
 
 === Centralia End Of Development version 1.1.5 ===
 
-{{:mtr_community:centralia_map_eod.png?1000}}
+{{mtr_community:centralia_map_eod.png?1000}}
 
 //The system map of [[mtr_community:server:centralia|Centralia]] at the time the server was closed and development by [[mtr_community:vakarain|Vako]] ended.//
 
 === Centralia version 1.1 ===
 
-{{:mtr_community:centralia_map_1.png?1000}}
+{{mtr_community:centralia_map_1.png?1000}}
 
 //The system map of [[mtr_community:server:centralia|Centralia]] from the 1.1 release.//
 
 === Centralia version 1.0 ===
 
-{{:mtr_community:centralia_map_0.png?1000}}
+{{mtr_community:centralia_map_0.png?1000}}
 
 //The system map of [[mtr_community:server:centralia|Centralia]] from the 1.0 release, the oldest publicly available version of the map.//
