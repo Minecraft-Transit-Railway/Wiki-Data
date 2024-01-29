@@ -7,6 +7,6 @@ Hieronder is een lijst van alle communitypagina's. Deze kunnen gerelateerd zijn 
 
 [[nl:mtr_community:staff:start|Stafpagina's]]
 
-[[nl:mtr_community:contributors:start|Bijdragerpagina's]]
+[[nl:mtr_community:contributors:start|Bijdragerspagina's]]
 
 [[nl:mtr_community:builders:start|Bouwerpagina's]]
