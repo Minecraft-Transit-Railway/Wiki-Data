@@ -1,7 +1,0 @@
-====== Class 150 (Disambiguation) ======
-
-**Class 150** may refer to:
-
-  * [[mtr_community:trinsmoton_rail:class_150_sprinter|British Rail Class 150 Sprinter]], diesel multiple unit built by BREL
-  * [[mtr_community:trinsmoton_rail:class_150_regionworker|Trinsmoton Rail Class 150 Regionworker]], electric multiple unit built by Movin-Cammel
-
