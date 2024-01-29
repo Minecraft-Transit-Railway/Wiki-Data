@@ -4,7 +4,7 @@ FIXME **このページはまだ完全には、翻訳されません。翻訳の
 MTR向けに作成されたアドオンは、MTRに新しい機能 (ブロックや機能など) を追加する追加のMODです。 これらは他のMODと同じ方法で導入できます。
 
 ==== MSD (aka: Station Decoration Addon) ====
-[[mtr_addon:msd:start|Station Decoration Addon]]は、新しい標識、案内表、架線を追加する装飾MODです。
+[[mtr_addon:msd:start|Station Decoration Addon]]は、新しい標識、サインシステム、架線を追加する装飾MODです。
 
 <WRAP center round download 90%>
 https://modrinth.com/mod/station-decoration
