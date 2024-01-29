@@ -1,4 +1,4 @@
-====== Server - MTR Crafters ======
+====== MTR Crafters ======
 
 <WRAP right>
 
@@ -8,8 +8,8 @@
 | **State** | Opened |
 | **President** | Kinson |
 | **Admin** | Yoshi |
-| ::: | [[mtr_community:user_-_isaaclao|Isaac]] |
-| ::: | [[mtr_community:StrongerLock|Stronger Lock]] |
+| ::: | [[mtr_community:staff:isaaclao|Isaac]] |
+| ::: | [[mtr_community:staff:strongerlock|Stronger Lock]] |
 | ::: | Anson |
 | ::: | BloodEarth |
 | ::: | Forest |
