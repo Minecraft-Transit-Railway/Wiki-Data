@@ -4,7 +4,7 @@
 
 <WRAP right>
 |  @#04388B: <color #FFFFFF>**Centralia**</color>  ||
-| {{ centralia.png?300 }} ||
+| {{ ..:centralia.png?300 }} ||
 |  @#04388B: <color #FFFFFF>**Overview**</color>  ||
 | **Creator** | Vako |
 | **Project Director** | szandorthe13th |
@@ -154,6 +154,13 @@ The system is abandoned, and no longer operational.
 |  @#C72DAC:WF3  |  Abandoned  |  Venator Point  |  Warrington Pond  |
 |  :::  |  :::  |  Warrington Pond  |  Venator Point  |
 
+=== Fleet ===
+
+|  @#C72DAC:**Train Model**  |  @#C72DAC:**Operating on**  |  @#C72DAC:**Depot Location**  |
+|  Innovia APM 100 (WF1)  |  Scrapped  ||
+|  Innovia APM 100 (WF2)  |  Scrapped  ||
+|  Innovia APM 100 (WF3)  |  Scrapped  ||
+
 ==== Rhosyngardd City Council ====
 
 <WRAP right>
@@ -194,7 +201,7 @@ The Rhosyngardd City Council is a Open Access Rail Operator only operating train
 |  @#0008AC: <color white>**Centrewest**</color>  ||
 | {{:mtr_community:centrewest_3_wide.png?250}} ||
 |  @#0008AC: <color white>**Overview**</color>  ||
-| **Owner** | [[mtr_community:vakarain|Vako]] |
+| **Owner** | Vako |
 | **Based at** | Evesham |
 | **Transit type** | Light Rail |
 | **Train models** | 1 |
@@ -203,43 +210,41 @@ The Rhosyngardd City Council is a Open Access Rail Operator only operating train
 
 === Info ===
 
-The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be confused with  Centrewest Buses), is a light rail operator in Western [[mtr_community:server:centralia|Centralia]] operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the [[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]], RCC Tramways had its system completely demolished and reworked from the ground up. The [[mtr_community:centralia:centrewest|The Centrewest Light Railway]] consists of four routes, which all meet at [[mtr_community:centralia:stations:hibiki|Hibiki]] station. The [[mtr_community:centralia:centrewest:greenroute|Green Route]], due to its path, runs two services, one between the depot at Gull Ruins to [[mtr_community:centralia:stations:headstone|Headstone]], and one between [[mtr_community:centralia:stations:headstone|Headstone]] and [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]].
+The Centrewest Light Railway (not to be confused with  Centrewest Buses), is a light rail operator in Western [[mtr_community:server:centralia|Centralia]] operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the Centrewest Blue Route, RCC Tramways had its system completely demolished and reworked from the ground up. The Centrewest Light Railway consists of four routes, which all meet at Hibiki station. The Green Route, due to its path, runs two services, one between the depot at Gull Ruins and Headstone, and one between Headstone and Rhosyngardd Central.
 
 === Lines ===
 
 |  @#0008AC: <color white>**Line Name**</color>  |  @#0008AC: <color white>**Status**</color>  |  @#0008AC: <color white>**Starting Station**</color>  |  @#0008AC: <color white>**Terminus Station**</color>  |
-|  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Operational  |  [[mtr_community:centralia:stations:evesham|Evesham]]  |  [[mtr_community:centralia:stations:armourcitywest|Armour City West]]  |
-|  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Operational  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
-|  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
-|  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
-|  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
-|  @#DA3443:[[mtr_community:centralia:abandoned:rcca1|RCC A1]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
-|  @#800200:[[mtr_community:centralia:abandoned:rcca2|RCC A2]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
-|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B1]]  |  Replaced  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
-|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B2]]  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
+|  @#FF5656:Centrewest Red Route  |  Operational  |  Evesham  |  Armour City West  |
+|  @#0008AC:Centrewest Blue Route  |  Operational  |  Old Kent Docks  |  Hibiki  |
+|  @#6FFF82:Centrewest Green Route  |  Operational  |  Headstone  |  Rhosyngardd Central  |
+|  :::  |  :::  |  South Shields  |  Headstone  |
+|  @#FAEC90:Centrewest Yellow Route  |  Operational  |  South Shields  |  Vale Junction  |
+|  @#DA3443:RCC A1  |  Demolished  |  Hibiki East  |  Gull Ruins  |
+|  @#800200:RCC A2  |  Demolished  |  Hibiki East  |  Circular via Cliffside  |
+|  @#0092FF:AILR B1  |  Replaced  |  Old Kent Docks  |  Hibiki  |
+|  @#0092FF:AILR B2  |  Demolished  |  Gull Ruins  |  Old Kent Docks  |
 
 === Fleet ===
 
 |  @#0008AC: <color white>**Train Model**</color>  |  @#0008AC: <color white>**Operating on**</color>  |  @#0008AC: <color white>**Depot Location**</color>  |
 |  CLR B90 (Centralia)  |  Unused  ||
-|  CLR B90 (Centrewest)  |  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Evesham Light Rail Depot  |
-|  :::  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
-|  :::  |  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Gull Ruins Sidings  |
-|  CLR B90 (Lightblue)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
-|  CLR B90 (AILR)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
-|  CLR B90 (RCC)  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
+|  CLR B90 (Centrewest)  |  @#FF5656:Centrewest Red Route  |  Evesham Light Rail Depot  |
+|  :::  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+|  :::  |  @#FAEC90:Centrewest Yellow Route  |  Gull Ruins Sidings  |
+|  CLR B90 (Lightblue)  |  @#0008AC:Centrewest Blue Route  |  Old Kent Docks Depot  |
+|  CLR B90 (AILR)  |  @#0008AC:Centrewest Blue Route  |  Old Kent Docks Depot  |
+|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
 |  RCC LRT  |  Scrapped  ||
 |  AILR LRT  |  Unused  |  ???  |
 
 ==== Moszyan Railways ====
 
-(not the same as [[mtr_community:unitedcitiesrailways:mrw|Moszyan Railways (United Cities Railways)]] and [[mtr_letsplay:mrw|Moszyan Railways (Let's Play)]])
-
 <WRAP right>
 |  @#B0B0BE: **Moszyan Railways**  ||
 | {{:mtr_community:mosyzan_logo.png?250}} ||
 |  @#B0B0BE: **Overview**  ||
-| **Owner** | [[mtr_community:szandorthe13th|szandorthe13th]] |
+| **Owner** | szandorthe13th |
 | **Based at** ||
 | TMT Complex, Mayrowe-Anemone ||
 | **Transit type** | Overground Trains |
@@ -249,7 +254,7 @@ The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be c
 
 === Info ===
 
-[[mtr_community:centralia:mrw|Moszyan Railways]] is the youngest operator in the city of [[mtr_community:server:centralia|Centralia]], being the only currently active one created in 2023. It was created after [[mtr_community:szandorthe13th|szandorthe13th]] took over the [[mtr_community:centralia:cr:maidsmoretonline|Maids Moreton Line]] from [[mtr_community:centralia:cr|Centralia Rail]] to extend it and turn it into a full line. This line would end up being the [[mtr_community:centralia:mrw:tridentline|Trident Line]]. Due to this identity, the operator originally had called itself "Trident Railways" as well. This can still be seen on the EOD release of [[mtr_community:server:centralia|Centralia]], where the [[mtr_community:centralia:mrw:tridentline|Trident Line]] is referred to with the prefix "TR". After construction of [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]], with new signage for all of the previous stations on the line, it was officially renamed to [[mtr_community:centralia:mrw|Moszyan Railways]]. [[mtr_community:centralia:mrw|Moszyan Railways]] also co-owns the section of the [[mtr_community:centralia:cmr:eulaline|Eula Line]] between [[mtr_community:centralia:stations:garbeck|Garbeck]] and [[mtr_community:centralia:stations:anemonebay|Anemone Bay]], as the extension of the line moved the sidings over to the [[mtr_community:centralia:buses:tmtcomplex|TMT Complex]], which happens to be [[mtr_community:centralia:mrw|Moszyan Railways]]' headquarters.
+Moszyan Railways is the youngest operator in the city of [[mtr_community:server:centralia|Centralia]], being the only currently active one created in 2023. It was created after szandorthe13th took over the Maids Moreton Line from Centralia Rail to extend it and turn it into a full line. This line would end up being the Trident Line. Due to this identity, the operator originally had called itself "Trident Railways" as well. This can still be seen on the EOD release of [[mtr_community:server:centralia|Centralia]], where the Trident Line is referred to with the prefix "TR". After construction of Mayrowe Central, with new signage for all of the previous stations on the line, it was officially renamed to Moszyan Railways. Moszyan Railways also co-owns the section of the Eula Line between Garbeck and Anemone Bay, as the extension of the line moved the sidings over to the TMT Complex, which happens to be Moszyan Railways' headquarters.
 
 === Lines ===
 
@@ -262,12 +267,12 @@ The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be c
 
 === Fleet ===
 
-|  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
-|  LU 1995 Stock (Eula Line)  |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Stopper)]]  |  TMT Complex Sidings  |
-| ::: |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Express)]]  | ::: |
-|  CR Class 508 (Trident Line)  |  Returned to CR  ||
-|  MRW Class 378  |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line]]  |  TMT Complex Depot  |
-|  MRW Class 378 (Trident Line)  |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line]]  |  TMT Complex Depot  |
+|  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
+|  LRC  |  S43-Tec LRV 2010  |    |    |
+|  GNUS  |  BVG Class H  |    |    |
+|  OHS  |  BR Class 508  |    |    |
+|  OLS  |  BR Class 378  |    |    |
+|  RMS  |  Stadler FLIRT 3  |    |    |
 
 
 ===== The System =====
