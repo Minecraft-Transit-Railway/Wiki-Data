@@ -1,0 +1,140 @@
+<WRAP center round important 60%>
+本記事はサンドボックスで作成された下書きの記事です。
+</WRAP>
+
+====== エレベーター ======
+
+<WRAP right>
+
+|  @#00C42A: **エレベーター**  ||
+|  {{ :mtr:elevator.png?200 }}  ||
+|  最小サイズのエレベーターのかご  ||
+| **大きさ**((エレベーターダッシュボードで幅と奥行は1ブロック単位、高さは0.5ブロック単位で変更可能)) | 最小: |
+| ::: | 高さ:2ブロック |
+| ::: | 幅:2ブロック |
+| ::: | 奥行:2ブロック |
+| ::: | 最大: |
+| ::: | 高さ:16ブロック |
+| ::: | 幅:16ブロック |
+| ::: | 奥行:16ブロック |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E4%BD%93%E5%8A%9B|体力]]**| ∞((ガイドレールを破壊しない限り無敵)) |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーターダッシュボード**  ||
+|  {{ :mtr:elevator_refresher_icon.png?200 }}  ||
+|  インベントリ内のエレベーターダッシュボードのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **スタック ** | 不可 |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーター呼び出しボタン連動コネクタ/リムーバー**  ||
+| {{ :mtr:elevator_buttons_link_connector.png?200 }} |{{ :mtr:elevator_buttons_link_remover.png?200 }}|
+|  インベントリ内のコネクターのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **スタック ** | 不可 |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーターガイドレール/エレベーター着床レール**  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  インベントリ内のガイドレールのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **スタック ** | 可 (64) |
+| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **溶岩からの引火 ** | しない |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーター呼び出しボタン**  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  エレベーター呼び出しボタンの外観  ||
+| {{ :mtr:elevator_track.png?200 }} ||
+|  インベントリ内のガイドレールのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **スタック ** | 可 (64) |
+| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **溶岩からの引火 ** | しない |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーターのドア**  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  配置モードの異なるエレベーターのドアの外観  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  インベントリ内のエレベーターのドアのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **スタック ** | 可 (64) |
+| **配置モード ** | 偶数/奇数 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **溶岩からの引火 ** | しない |
+| **作者** | %%Jonathan%% |
+
+|  @#00C42A: **エレベーター階数表示パネル(厚/薄)**  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  エレベーター階数表示パネルの外観  ||
+| {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
+|  インベントリ内のエレベーター階数表示パネルのアイコン  ||
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **スタック ** | 可 (64) |
+| **配置モード ** | 偶数/奇数 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **溶岩からの引火 ** | しない |
+| **作者** | %%LX86%% |
+
+</WRAP>
+
+===== 入手 =====
+==== 破壊 ====
+エレベーター関連のブロックの採掘には木以上のツルハシが必要であり、採掘すると各種アイテムがドロップする。ツルハシ以外で破壊した場合は何もドロップしない。
+
+==== クラフトから ====
+エレベーターに関するすべてのアイテムはクラフトできない。<sup>[要検証]</sup>
+
+===== 用途 =====
+
+
+===== 更新履歴 =====
+
+==== 3.0.1-unofficial-5 ==== 
+  * エレベーターが追加された。当時はダッシュボード式ではなくアイテムである「エレベーターのかご」をガイドレールに直接設置する方式で、大きさは2x2、2x3、2x4、3x2、3x3、3x4、4x2、4x3、4x4のみで、高さは2ブロックで固定だった。
+
+==== 3.0.1-unofficial-6 ====  
+  * スルー型((駅などによく見かける前後にドアがついているエレベーター))のエレベーターが追加された。
+
+==== 3.1.0-unofficial-5 ==== 
+  * エレベーターのドアがロックできるようになったが、エレベーターが着床してもかご側のドアが開く不具合があった。
+  * エレベーターのドアがタイルエンティティ化された。
+
+==== 3.1.0-prerelease-2 ====  
+  * ロックされたエレベーターのドアがある階層に着床してもかご側のドアが開かなくなりました。
+
+==== 3.1.3 ==== 
+  * エレベーターダッシュボードが追加。設置方法が変更され1ブロック単位(高さのみ0.5ブロック)で大きさを設定できるようになった。
+  * エレベーター階数表示パネル(厚)が追加された。当時は配置モードが偶数のみだった。
+
+==== 3.1.4 ====
+  * エレベーター階数表示パネル(薄)が追加された。
+  * 配置モードが奇数のエレベーター階数表示パネル(厚/薄)が追加された。
+  * エレベーター呼び出しボタンをブラシで呼び出しボタンの操作の有効/無効化ができるようになった。
+
+
