@@ -32,5 +32,5 @@ FIXME **このページはまだ完全には、翻訳されません。翻訳の
 
 私たちは、このMODについて詳しいすべての人に、その知識を共有してもらいたいと思っています！
 
-* [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|編集方針]]と[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|運営方針]]を必ずお読みください。※英語
+* [[https://wiki.minecrafttransitrailway.com/editing_guideline|編集方針]]と[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|運営方針]]を必ずお読みください。※英語
 
