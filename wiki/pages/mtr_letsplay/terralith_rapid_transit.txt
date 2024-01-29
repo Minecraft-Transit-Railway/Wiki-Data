@@ -3,7 +3,7 @@
 |  @#EFEEF0:  **Terralith Rapid Transit**  ||
 | {{ mtr_letsplay:trt.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | CinderaceOTS |
+| **Owner** | [[mtr_community:builders:cinderaceots|CinderaceOTS]] |
 | **Established** | August 2022 |
 | **Area Served** | (Wide area) |
 | **Transit type** | [[Rapid Transit]]etc. |
