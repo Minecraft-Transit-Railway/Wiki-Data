@@ -1,13 +1,13 @@
-====== Server - Centralia & The Centraliaverse ======
+====== Centralia & The Centraliaverse ======
 
-[[mtr_community:centralia|Centralia]] is a Minecraft transit & city project that has been going on since 2016.
+[[mtr_community:server:centralia|Centralia]] is a Minecraft transit & city project that has been going on since 2016.
 
 <WRAP right>
 |  @#04388B: <color #FFFFFF>**Centralia**</color>  ||
 | {{ centralia.png?300 }} ||
 |  @#04388B: <color #FFFFFF>**Overview**</color>  ||
-| **Creator** | [[mtr_community:vakarain|Vako]] |
-| **Project Director** | [[mtr_community:szandorthe13th|szandorthe13th]] |
+| **Creator** | Vako |
+| **Project Director** | szandorthe13th |
 | **Transit type** | All |
 | **Style/Inspiration** | British |
 | ::: | Japanese |
@@ -17,23 +17,260 @@
 | **Active lines** | 32 |
 </WRAP>
 
-==== History ====
+===== History =====
 
-The City of [[mtr_community:centralia|Centralia]] originally started out as Central & Suburbia, and the names were merged to create [[mtr_community:centralia|Centralia]]. The central [[mtr_community:centralia|Centralia]] city area is made up of a merger of two former independent cities by the names of Haruna and Sendai, of which you can still see the names in a few stations, such as Haruna Shrine and Sendai Tower. Originally, it was a 1.7.10 singleplayer Minecraft world using the RealTrainMod, but as the world evolved and the Minecraft version was updated, it was transferred from RealTrainMod to the [[mtr:start|Minecraft Transit Railway]] mod it uses today. An advantage of this change was that rails now supported 45 degree rotations, and an old trace of the 90 degree-limited track beds is still visible between [[mtr_community:centralia:stations:banksheath|Banks Heath]] and [[mtr_community:centralia:stations:sendaiparkway|Sendai Parkway]] stations, which coincidentally sported the first railway connection. Years later, it was opened as a server, with multiple users working on railways within the world at once, which significantly boosted the development of the city. Many buildings built by others are still visible to this day, even after the server was unfortunately closed down due to internal disputes between [[mtr_community:vakarain|Vako]] and [[mtr_community:centralia|Centralia]] staff members at the time. The world kept developing for a while after, and in early 2023, reopened once more to a selected group of active and trusted people. Unfortunately, due to multiple different factors, mainly including a lack of motivation, the server was once again closed and the project was immediately put on an indefinite hiatus. The state in which the server closed was released as [[mtr_community:centralia|Centralia]] version 1.1.5, also known as the EOD (End Of Development) release. However, interest remained high in the eyes of other members, including [[mtr_community:szandorthe13th|szandorthe13th]], who transformed his discord server, which was previously in a zombie state from the former Moszyan Railways server it ran, into a server dedicated to finishing the work he had started on [[mtr_community:centralia|Centralia]] in the short time he had access to the server. He would stay in contact with [[mtr_community:vakarain|Vako]], receiving lots of useful information and assistance in his continuation of the project. Eventually, because of the significantly higher activity on this originally unaffiliated side-project, and around the opening of this very wiki you are reading from right now, [[mtr_community:szandorthe13th|szandorthe13th]] recieved the green light to fully step into the role of representing the [[mtr_community:centralia|Centralia]] project. However, to prevent confusion between the two versions of [[mtr_community:centralia|Centralia]] that had split from each other by now, [[mtr_community:szandorthe13th|szandorthe13th]]'s version would be known as "Szandor's Centraliaverse", as every person who downloads the map and starts their own journey on it, creates their own Centraliaverse, so to speak. Due to [[mtr_community:centralia|Centralia]]'s inactivity however, most information on this wiki page will come from the Centraliaverse version of [[mtr_community:centralia|Centralia]], unless stated otherwise.
+The City of [[mtr_community:server:centralia|Centralia]] originally started out as Central & Suburbia, and the names were merged to create [[mtr_community:server:centralia|Centralia]]. The central [[mtr_community:server:centralia|Centralia]] city area is made up of a merger of two former independent cities by the names of Haruna and Sendai, of which you can still see the names in a few stations, such as Haruna Shrine and Sendai Tower. Originally, it was a 1.7.10 singleplayer Minecraft world using the RealTrainMod, but as the world evolved and the Minecraft version was updated, it was transferred from RealTrainMod to the [[mtr:start|Minecraft Transit Railway]] mod it uses today. An advantage of this change was that rails now supported 45 degree rotations, and an old trace of the 90 degree-limited track beds is still visible between Banks Heath and Selsdon Bridge, now Sendai Parkway stations, which coincidentally sported the first railway connection. Years later, it was opened as a server, with multiple users working on railways within the world at once, which significantly boosted the development of the city. Many buildings built by others are still visible to this day, even after the server was unfortunately closed down due to internal disputes between Vako and [[mtr_community:server:centralia|Centralia]] staff members at the time. The world kept developing for a while after, and in early 2023, reopened once more to a selected group of active and trusted people. Unfortunately, due to multiple different factors, mainly including a lack of motivation, the server was once again closed and the project was immediately put on an indefinite hiatus. The state in which the server closed was released as [[mtr_community:server:centralia|Centralia]] version 1.1.5, also known as the EOD (End Of Development) release. However, interest remained high in the eyes of other members, including szandorthe13th, who transformed his discord server, which was previously in a zombie state from the former Moszyan Railways server it ran, into a server dedicated to finishing the work he had started on [[mtr_community:server:centralia|Centralia]] in the short time he had access to the server. He would stay in contact with Vako, receiving lots of useful information and assistance in his continuation of the project. Eventually, because of the significantly higher activity on this originally unaffiliated side-project, and around the opening of this very wiki you are reading from right now, szandorthe13th recieved the green light to fully step into the role of representing the [[mtr_community:server:centralia|Centralia]] project. However, to prevent confusion between the two versions of [[mtr_community:server:centralia|Centralia]] that had split from each other by now, szandorthe13th's version would be known as "Szandor's Centraliaverse", as every person who downloads the map and starts their own journey on it, creates their own Centraliaverse, so to speak. In early 2024, talks began to merge the Centraliaverse map back into the still-in-development main Centralia map. 
 
-==== Operators ====
+===== Operators =====
+==== Centralia Rail ====
 
-{{:mtr_community:crlogostripe.png?50}} [[mtr_community:centralia:cr|Centralia Rail]]
-{{:mtr_community:cmrmetropolitan.png?50}} [[mtr_community:centralia:cmr|Centralia Metropolitan Rail]]
-{{:mtr_community:centralia_wf.png?50}} [[mtr_community:centralia:warringtonflyer|Warrington Flyer]]
-{{:mtr_community:centralia_rcc.png?50}} [[mtr_community:centralia:rcc|Rhosyngardd City Council]]
-{{:mtr_community:centrewest_3_wide.png?50}} [[mtr_community:centralia:centrewest|Centrewest]]
-{{:mtr_community:mosyzan_logo.png?50}} [[mtr_community:centralia:mrw|Moszyan Railways]]
+<WRAP right>
+|  @#FC211D: **Centralia Rail**  ||
+| {{:mtr_community:crlogostripe.png?250}} ||
+|  @#FC211D: **Overview**  ||
+| **Owner** | [[mtr_community:server:centralia|Centralia]] |
+| **Based at** | Sendai Tower |
+| **Transit type** | Overground Trains |
+| ::: | High-speed Trains |
+| **Train models** | 7 |
+| **Active lines** | 10 |
+</WRAP>
 
-==== Stations ====
-The stations table has its own page, click **[[mtr_community:centralia:stations|here]]** to view it.
+=== Info ===
 
-==== The System ====
+Centralia Rail is a publicly owned rail company which serves the Central and Suburb areas of Centralia City and Hibiki Prefecture. It is focused on overground trains, but also owns the underground Central & Junction Line to connect the two main transport hubs of the Central area. It is the second oldest active operator in Centralia, only being outdated by Centralia Metropolitan Rail. As a result of this age, a lot of its lines have changed services over the years, with some being extended, rerouted, or sometimes even shortened. After selling off the Maids Moreton Line to Moszyan Railways, Centralia Rail has mainly being focusing on extending its existing lines to regions outside of the Central and Suburb area. 
+
+=== Lines ===
+
+|  @#FC211D: **Line Name**  |  @#FC211D: **Status**  |  @#FC211D: **Starting Station**  |  @#FC211D: **Terminus Station**  |
+|  @#FB211D:Central & Junction Line  |  Operational  |  Great Central  |  Electric Avenue  |
+|  @#FC211C:Centralia Line  |  Operational  |  Telford  |  Rhosyngardd Central  |
+|  @#FC211A:Denham Line  |  Operational  |  Buckingham  |  Bowerstone Millfields  |
+|  :::  |  Only in EOD  |  :::  |  Busley  |
+|  @#FC211D:Eastern Mainline  |  Operational  |  Great Central  |  Foxborough  |
+|  @#FC212E:Foscott Line  |  Demolished  |  Buckingham  |  Foscott  |
+|  @#FC211D:Hibiki Express  |  Operational  |  Great Central  |  Hibiki New Town  |
+|  @#FC212C:Island Line  |  Operational  |  Banks Heath  |  Crimonia Island  |
+|  :::  |  Abandoned  |  :::  |  Crimonia Pier  |
+|  @#FC212D:Kannagan Shuttle  |  Only in EOD  |  Busley  |  Kannagan  |
+|  @#FC211E:Maids Moreton Line  |  Abandoned  |  Buckingham  |  Maids Moreton  |
+|  @#FC211D:Outer Centralia Line  |  Operational  |  Buckingham  |  Kannagan  |
+|  :::  |  Only in EOD  |  :::  |  Bowerstone Millfields  |
+|  @#FC211D:Southern Mainline  |  Operational  |  Great Central  |  Bremerton Town  |
+|  @#FC212F:St Johns Line  |  Operational  |  Foxborough  |  St Johns  |
+
+=== Fleet ===
+
+|  @#FC211D:**Train Model**  |  @#FC211D:**Operating on**  |  @#FC211D:**Depot Location**  |
+|  CR Class 440 (Old)  |  Scrapped  ||
+|  CR Class 440  |  @#FC211D:Centralia Line  |  Telfort North Siding  |
+|  CR Class 440 (Jaffa Cake)  |  @#FC211D:Outer Centralia Line  |  Buckingham Siding  |
+|  CR Class 440 (Express)  |  Unused  ||
+|  CR Class 433 (St Johns) |  @#FC212F:St Johns Line  |  Foxborough Depot  |
+|  CR Class 434  |  Unused((the Kannagan Shuttle on the EOD version of Centralia uses train 434 001))  |  Rhosyngardd Central Siding  |
+|  CR Class 434 (Buckingham)  |  Unused  |  Maids Moreton Platform 1  |
+|  CR Class 507  |  @#FC212C:Island Line  |  Warrington South Depot  |
+|  CR Class 508  |  @#FC211A:Denham Line  |  Buckingham Siding  |
+|  CR MLR (CRE)  |  @#FC211D:Hibiki Express  |  Hibiki New Town Sidings  |
+|  CR MLR (NSE)  |  @#FC211D:Eastern Mainline  |  Telford North Siding  |
+|  :::  |  @#FC211D:Southern Mainline  |  Bremerton Town Siding  |
+|  LU 1995 Stock (NSE)  |  @#FB211D:Central & Junction Line  |  Bank Street Siding  |
+
+==== Centralia Metropolitan Rail ====
+
+<WRAP right>
+|  @#9B0058: <color white>**Centralia Metropolitan Rail**</color>  ||
+| {{:mtr_community:cmrmetropolitan.png?250}} ||
+|  @#9B0058: <color white>**Overview**</color>  ||
+| **Owner** | Vako |
+| **Based at** | Sendai Tower |
+| **Transit type** | Underground Trains |
+| ::: | Overground Trains |
+| **Train models** | 8 |
+| **Active lines** | 6 |
+</WRAP>
+
+=== Info ===
+
+Centralia Metropolitan Railway Company is wholly owned subsidiary of Centralia Transport, a Transit Authority which runs services within Centralia City and Hibiki Prefecture including Metro trains, Light Metro trains, Light Rail trains and Buses. It is the oldest operator in the area, essentially stemming from the former Haruna & Sendai City Railway, of which you can still see the typical station buildings along the Lakeside Line. Some of its lines are still incomplete, and there are a lot of remnants of old lines left over to this day. Recently, Centralia Metropolitan Railway Company collaborated with Moszyan Railways to create a new underground line connecting the new Lower Centralia area to the centrepoint at Great Central.
+
+=== Lines ===
+
+|  @#9B0058: <color white>**Line Name**</color>  |  @#9B0058: <color white>**Status**</color>  |  @#9B0058: <color white>**Starting Station**</color>  |  @#9B0058: <color white>**Terminus Station**</color>  |
+|  @#FFCE00:Circle Line  |  Operational  |  Newbury Park  |  Haverhill  |
+|  @#FFCE00:Circle Line (Greenvale Shuttle)  |  Operational  |  Newbury Park  |  Greenvale  |
+|  @#0098D8:Eula Line  |  Operational  |  Stanshaw Pass  |  Astley  |
+| ::: |  Only in EOD  |  Raizenbain Park  |  :::  |
+| ::: |  :::  |  :::  |  Electric Avenue  |
+|  @#B26300:Haruna Line  |  Operational  |  Mansion House  |  Denham  |
+| ::: |  Planned  |  Busley High Street((The plan is to extend the line beyond this station, but further names are unknown.))  |  Millennium University  |
+|  @#F4A9BE:Hibiki Line  |  Operational  |  Great Central  |  Hibiki Castle  |
+|  @#00AFAD:Lakeside Line  |  Operational  |  Venator Point  |  Westbourne Lakeside  |
+|  :::  |  :::  |  Thornham  |  St Johns  |
+|  @#01010F:North Line  |  Abandoned  |  Newbury  |  Bank Street  |
+|  @#FF6700:Sendai Line  |  Operational  |  Bremerton Town  |  Rhodes  |
+|  :::  |  :::  |  :::  |  Warrington  |
+|  :::  |  Only in EOD  |  :::  |  Guildhall  |
+|  :::  |  Planned  |  :::  |  Bowerstone Central  |
+|  @#01010F:South Line  |  Abandoned  |  Newbury  |  Old Myrtlewood  |
+
+=== Fleet ===
+
+|  @#9B0058: <color white>**Train Model**</color>  |  @#9B0058: <color white>**Operating on**</color>  |  @#9B0058: <color white>**Depot Location**</color>  |
+|  M-Train (CMR Sendai)  |  Scrapped  ||
+|  LU D78 Stock (CMR Lakeside)  |  @#00AFAD:Lakeside Line  |  Venator Point Depot  |
+|  :::  |  :::  |  Thornham Depot  |
+|  LU D78/2 Stock (CMR Circle)  |  @#FFCE00:Circle Line  |  Newbury Park Sidings  |
+|  H84 Stock (CMR Hibiki)  |  @#F4A9BE:Hibiki Line  |  Hibiki Southern Road Depot  |
+|  LU 1995 Stock (CMR)  |  Unused  ||
+|  LU 1995 Stock (CMR Eula)  |  @#0098D8:Eula Line  |  Stanshaw Pass Siding  |
+|  LU 1995 Stock (CMR Haruna)  |  @#B26300:Haruna Line  |  Mansion House TD  |
+|  LU 1996 Stock  |  @#FF6700:Sendai Line  |  Bremerton Town Siding  |
+
+==== Warrington Flyer ====
+
+<WRAP right>
+|  @#C72DAC: **Warrington Flyer**  ||
+| {{:mtr_community:centralia_wf.png?260}} ||
+|  @#C72DAC: **Overview**  ||
+| **Last Owner** | EllipticBark |
+| **Based at** | Sendai Tower |
+| **Transit type** | Underground APM |
+| **Train models** | 1 |
+</WRAP>
+
+=== Info ===
+
+The Warrington Flyer wasn't really an operator, but more a system of lines under no real ownership. The system was seen by many as arbitrary, with most of the line serving no real purpose apart from the branch to Warrington Pond. The lines lost their last bit of usefulness when Rhodes Cross was constructed, located just 150 metres west of Warrington Pond station, which stands isolated in a forest.
+The system is abandoned, and no longer operational.
+
+=== Lines ===
+
+|  @#C72DAC: **Line Name**  |  @#C72DAC: **Status**  |  @#C72DAC: **Starting Station**  |  @#C72DAC: **Terminus Station**  |
+|  @#C72DAC:WF1  |  Abandoned  |  Banks Heath  |  Warrington Pond  |
+|  :::  |  :::  |  Warrington Pond  |  Banks Heath  |
+|  @#C72DAC:WF2  |  Abandoned  |  Banks Heath  |  Venator Point  |
+|  :::  |  :::  |  Venator Point  |  Banks Heath  |
+|  @#C72DAC:WF3  |  Abandoned  |  Venator Point  |  Warrington Pond  |
+|  :::  |  :::  |  Warrington Pond  |  Venator Point  |
+
+==== Rhosyngardd City Council ====
+
+<WRAP right>
+|  @#800021: <color white>**Rhosyngardd City Council**</color>  ||
+| {{:mtr_community:centralia_rcc.png?250}} ||
+|  @#800021: <color white>**Overview**</color>  ||
+| **Owner** | Public |
+| **Based at** | Rhosyngardd |
+| **Transit type** | Light Rail |
+| ::: | Overground Trains |
+| **Train models** | 4 |
+| **Active lines** | 3 |
+</WRAP>
+
+=== Info ===
+
+The Rhosyngardd City Council is a Open Access Rail Operator only operating trains for tourism. Their lines typically branch out from Rhosyngardd Central. RCC is known for being the only ones to have put up a serious restriction in the world, which is to keep trains from entering the Rhosyngardd City walls at all costs. They used to operate light rail in the Hibiki area, but after RCC Tramways merged with AIRL to create the Centrewest network, all that remains is a few B90s with RCC livery on the Centrewest Green Line.
+
+=== Lines ===
+
+|  @#800021: <color white>**Line Name**</color>  |  @#800021: <color white>**Status**</color>  |  @#800021: <color white>**Starting Station**</color>  |  @#800021:<color white>**Terminus Station**</color>  |
+|  @#800021:Rhosyngardd Express  |  Operational  |  Electric Avenue  |  Rhosyngardd Central  |
+|  @#800021:Rhosyngardd Palace Line  |  Operational  |  Rhosyngardd Palace  |  Rhosyngardd Central  |
+|  @#6FFF82:Centrewest Green Route  |  Operational  |  Headstone  |  Rhosyngardd Central  |
+|  :::  |  :::  |  South Shields  |  Headstone  |
+
+=== Fleet ===
+
+|  @#800021: <color white>**Train Model**</color>  |  @#800021: <color white>**Operating on**</color>  |  @#800021: <color white>**Depot Location**</color>  |
+|  RCC Class 377  |  @#800021:Rhosyngardd Express  |  Tachyon Street Siding  |
+|  S43-Tec LRT 2002  |  @#800021:Rhosyngardd Palace Line  |  Rhosyngardd Palace Siding  |
+|  APM 100 (RCC)  |  Scrapped  ||
+|  CLR B90 (RCC)  |  @#6FFF82:Centrewest Green Route  |  Gull Ruins Sidings  |
+
+==== Centrewest ====
+
+<WRAP right>
+|  @#0008AC: <color white>**Centrewest**</color>  ||
+| {{:mtr_community:centrewest_3_wide.png?250}} ||
+|  @#0008AC: <color white>**Overview**</color>  ||
+| **Owner** | [[mtr_community:vakarain|Vako]] |
+| **Based at** | Evesham |
+| **Transit type** | Light Rail |
+| **Train models** | 1 |
+| **Active lines** | 4 |
+</WRAP>
+
+=== Info ===
+
+The [[mtr_community:centralia:centrewest|Centrewest Light Railway]] (not to be confused with  Centrewest Buses), is a light rail operator in Western [[mtr_community:server:centralia|Centralia]] operated by Centralia Transport formed by the merger of RCC Tramways and Armour Island Light Railway. While most of the Armour Island Light Rail's route was preserved, now as the [[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]], RCC Tramways had its system completely demolished and reworked from the ground up. The [[mtr_community:centralia:centrewest|The Centrewest Light Railway]] consists of four routes, which all meet at [[mtr_community:centralia:stations:hibiki|Hibiki]] station. The [[mtr_community:centralia:centrewest:greenroute|Green Route]], due to its path, runs two services, one between the depot at Gull Ruins to [[mtr_community:centralia:stations:headstone|Headstone]], and one between [[mtr_community:centralia:stations:headstone|Headstone]] and [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]].
+
+=== Lines ===
+
+|  @#0008AC: <color white>**Line Name**</color>  |  @#0008AC: <color white>**Status**</color>  |  @#0008AC: <color white>**Starting Station**</color>  |  @#0008AC: <color white>**Terminus Station**</color>  |
+|  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Operational  |  [[mtr_community:centralia:stations:evesham|Evesham]]  |  [[mtr_community:centralia:stations:armourcitywest|Armour City West]]  |
+|  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Operational  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Operational  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |  [[mtr_community:centralia:stations:rhosyngarddcentral|Rhosyngardd Central]]  |
+|  :::  |  :::  |  [[mtr_community:centralia:stations:southshields|South Shields]]  |  [[mtr_community:centralia:stations:headstone|Headstone]]  |
+|  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Operational  |  [[mtr_community:centralia:stations:southshields:South Shields]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
+|  @#DA3443:[[mtr_community:centralia:abandoned:rcca1|RCC A1]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Gull Ruins  |
+|  @#800200:[[mtr_community:centralia:abandoned:rcca2|RCC A2]]  |  Demolished  |  [[mtr_community:centralia:stations:hibikieast|Hibiki East]]  |  Circular via Cliffside  |
+|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B1]]  |  Replaced  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |  [[mtr_community:centralia:stations:hibiki|Hibiki]]  |
+|  @#0092FF:[[mtr_community:centralia:abandoned:ailrb2|AILR B2]]  |  Demolished  |  Gull Ruins  |  [[mtr_community:centralia:stations:oldkentdocks|Old Kent Docks]]  |
+
+=== Fleet ===
+
+|  @#0008AC: <color white>**Train Model**</color>  |  @#0008AC: <color white>**Operating on**</color>  |  @#0008AC: <color white>**Depot Location**</color>  |
+|  CLR B90 (Centralia)  |  Unused  ||
+|  CLR B90 (Centrewest)  |  @#FF5656:[[mtr_community:centralia:centrewest:redroute|Centrewest Red Route]]  |  Evesham Light Rail Depot  |
+|  :::  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
+|  :::  |  @#FAEC90:[[mtr_community:centralia:centrewest:yellowroute|Centrewest Yellow Route]]  |  Gull Ruins Sidings  |
+|  CLR B90 (Lightblue)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
+|  CLR B90 (AILR)  |  @#0008AC:[[mtr_community:centralia:centrewest:blueroute|Centrewest Blue Route]]  |  Old Kent Docks Depot  |
+|  CLR B90 (RCC)  |  @#6FFF82:[[mtr_community:centralia:centrewest:greenroute|Centrewest Green Route]]  |  Gull Ruins Sidings  |
+|  RCC LRT  |  Scrapped  ||
+|  AILR LRT  |  Unused  |  ???  |
+
+==== Moszyan Railways ====
+
+(not the same as [[mtr_community:unitedcitiesrailways:mrw|Moszyan Railways (United Cities Railways)]] and [[mtr_letsplay:mrw|Moszyan Railways (Let's Play)]])
+
+<WRAP right>
+|  @#B0B0BE: **Moszyan Railways**  ||
+| {{:mtr_community:mosyzan_logo.png?250}} ||
+|  @#B0B0BE: **Overview**  ||
+| **Owner** | [[mtr_community:szandorthe13th|szandorthe13th]] |
+| **Based at** ||
+| TMT Complex, Mayrowe-Anemone ||
+| **Transit type** | Overground Trains |
+| **Train models** | 3 |
+| **Active lines** | 2 |
+</WRAP>
+
+=== Info ===
+
+[[mtr_community:centralia:mrw|Moszyan Railways]] is the youngest operator in the city of [[mtr_community:server:centralia|Centralia]], being the only currently active one created in 2023. It was created after [[mtr_community:szandorthe13th|szandorthe13th]] took over the [[mtr_community:centralia:cr:maidsmoretonline|Maids Moreton Line]] from [[mtr_community:centralia:cr|Centralia Rail]] to extend it and turn it into a full line. This line would end up being the [[mtr_community:centralia:mrw:tridentline|Trident Line]]. Due to this identity, the operator originally had called itself "Trident Railways" as well. This can still be seen on the EOD release of [[mtr_community:server:centralia|Centralia]], where the [[mtr_community:centralia:mrw:tridentline|Trident Line]] is referred to with the prefix "TR". After construction of [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]], with new signage for all of the previous stations on the line, it was officially renamed to [[mtr_community:centralia:mrw|Moszyan Railways]]. [[mtr_community:centralia:mrw|Moszyan Railways]] also co-owns the section of the [[mtr_community:centralia:cmr:eulaline|Eula Line]] between [[mtr_community:centralia:stations:garbeck|Garbeck]] and [[mtr_community:centralia:stations:anemonebay|Anemone Bay]], as the extension of the line moved the sidings over to the [[mtr_community:centralia:buses:tmtcomplex|TMT Complex]], which happens to be [[mtr_community:centralia:mrw|Moszyan Railways]]' headquarters.
+
+=== Lines ===
+
+|  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line West Tooth]]  |  Planned  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:blackmesa|Black Mesa]]  |
+|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line Central Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:mayrowecentral|Mayrowe Central]]  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |
+|  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line East Tooth]]  |  Operational  |  [[mtr_community:centralia:stations:buckingham|Buckingham]]  |  [[mtr_community:centralia:stations:lendertonisland|Lenderton Island]]  |
+|  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Stopper)]]  |  Operational  |  [[mtr_community:centralia:stations:anemonebay|Anemone Bay]]  |  [[mtr_community:centralia:stations:astley|Astley]]  |
+|  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Express)]]  |  Operational  |  [[mtr_community:centralia:stations:lendertonbridge|Lenderton Bridge]]  |  [[mtr_community:centralia:stations:electricavenue|Electric Avenue]]  |
+
+=== Fleet ===
+
+|  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
+|  LU 1995 Stock (Eula Line)  |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Stopper)]]  |  TMT Complex Sidings  |
+| ::: |  @#0098D8:[[mtr_community:centralia:cmr:eulaline|Eula Line (Express)]]  | ::: |
+|  CR Class 508 (Trident Line)  |  Returned to CR  ||
+|  MRW Class 378  |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line]]  |  TMT Complex Depot  |
+|  MRW Class 378 (Trident Line)  |  @#4D77CB:[[mtr_community:centralia:mrw:tridentline|Trident Line]]  |  TMT Complex Depot  |
+
+
+===== The System =====
 === Szandor's Centraliaverse ===
 {{:mtr_community:centralia_cr_map.png?1000|}}
 
@@ -45,7 +282,7 @@ The stations table has its own page, click **[[mtr_community:centralia:stations|
 
 {{:mtr_community:centralia_lrt_map.png?1000}}
 
-//A map of all Light Rail services in [[mtr_community:centralia|Centralia]]. Currently includes the [[mtr_community:centralia:warringtonflyer|Warrington Flyer]], [[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]] and the [[mtr_community:centralia:centrewest|Centrewest Light Rail]] network.//
+//A map of all Light Rail services in [[mtr_community:server:centralia|Centralia]]. Currently includes the [[mtr_community:centralia:warringtonflyer|Warrington Flyer]], [[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]] and the [[mtr_community:centralia:centrewest|Centrewest Light Rail]] network.//
 
 {{:mtr_community:centralia_map_scv.png?1000}}
 
@@ -55,16 +292,16 @@ The stations table has its own page, click **[[mtr_community:centralia:stations|
 
 {{:mtr_community:centralia_map_eod.png?1000}}
 
-//The system map of [[mtr_community:centralia|Centralia]] at the time the server was closed and development by [[mtr_community:vakarain|Vako]] ended.//
+//The system map of [[mtr_community:server:centralia|Centralia]] at the time the server was closed and development by [[mtr_community:vakarain|Vako]] ended.//
 
 === Centralia version 1.1 ===
 
 {{:mtr_community:centralia_map_1.png?1000}}
 
-//The system map of [[mtr_community:centralia|Centralia]] from the 1.1 release.//
+//The system map of [[mtr_community:server:centralia|Centralia]] from the 1.1 release.//
 
 === Centralia version 1.0 ===
 
 {{:mtr_community:centralia_map_0.png?1000}}
 
-//The system map of [[mtr_community:centralia|Centralia]] from the 1.0 release, the oldest publicly available version of the map.//
+//The system map of [[mtr_community:server:centralia|Centralia]] from the 1.0 release, the oldest publicly available version of the map.//
