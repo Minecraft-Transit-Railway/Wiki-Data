@@ -1,4 +1,4 @@
-====== Server - The City of Sallen ======
+====== The City of Sallen ======
 
 The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023.
 
@@ -144,30 +144,7 @@ Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMA
 
 %%In the same month, SallenRail opened the East End Line. The East End Line is a joint line operated by both SMART Transit and Lilypad Rail. With the East End Line and the Mainline rejoining at Great Plains which brings a direct link to Newton Terminal. The Birchwood Line is expected to open in January of 2024 bringing a unique change to how SMART handles its extensions with multiple branches spreading out at Birchwood Junction.%%
 
-<WRAP right>
 
-|  @#EFEEF0:  **Lilypad Rail**  ||
-| {{ lpr_logo.png?250 }} ||
-|  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:sleepy_sapph|sleepy_sapph]] |
-| **Transit type** | American/Asian |
-| **Number of operating lines** | 2 |
-| **Real-Life Inspiration** | Fictional |
-
-</WRAP>
-
-===== Lilypad Rail (Sallen) =====
-
-//Not to be confused with [[mtr_letsplay:lilypad_rail|Lilypad Rail (LPS)]] //
-
-Lilypad Rail's Sallen Division opened on 5 September 2023, just under a year after the founding Let's Play division opened. It consists of 2 lines
-
-  * <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> runs from Worth Street to Liberty Plaza via Myrtle Kennedy, Merrell, and Newton/University
-  * <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color> runs from Myrtle Kennedy to Diamond Creek via Lancet.
-
-Currently, Lilypad Rail also operates the <color white/#FF5DD8><html>&nbspSallenRail East End Line&nbsp</html></color>, which runs from Old Westfield Terminal, then east through the median of the Westfield Highway before dipping underground, running through Edgeword South and East Holyoke before merging with existing SallenRail tracks north of Great Plains. Services operate through SallenRail tracks as far as Newton Terminal, and is planned to extend to Sallen International Airport.
-
-The full Lilypad Rail buildout will see four lines and a light rail network. <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> will extend west from Worth Street to Orchard Park via Langstone. <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color> will continue extending north through Scarsdale until reaching <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> north of the Westfield Highway. <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> will start at Woodhaven, running north of the Westfield Highway until reaching <color white/#E83F6F><html>&nbspLine 2&nbsp</html></color>, it will then dip south below the highway to interchange with the Violet Line and Bayside Line at a station south of the airport. It will continue again to meet the Bayside Line at Anemone station, before turning south through Jade Grove and Langstone until meeting the SCT Moscato lines at Yorktown. <color white/#00916E><html>&nbspLine 4&nbsp</html></color> will run east from Jade Grove, through Palisades and Holyoke, before turning south to meet SCT Calgary lines at Park Slope. <color white/#53D1B3><html>&nbspLine 4B&nbsp</html></color> will operate as a stub of <color white/#00916E><html>&nbspLine 4&nbsp</html></color>, running from Holyoke to meet the PR East Sallen Line at Creighton. The <color white/#44344F><html>&nbspOrchard Park Light Rail&nbsp</html></color> will radiate from the <color white/#4F83E7><html>&nbspLine 1&nbsp</html></color> station at Orchard Park. The plan includes branches to meet <color white/#ECC30B><html>&nbspLine 3&nbsp</html></color> at multiple points, and to meet SMT 7 at Freeport.
 
 <WRAP right>
 
