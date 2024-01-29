@@ -23,6 +23,6 @@ Joking nickname, originated from a typo by Kettle attempting to say "Hi Lily"
 
 </WRAP>
 
-Hi! I'm Lily! I'm %%one of the staff members in the %%[[mtr:start|Minecraft Transit Railway]]%% community. I'm one of the more active members of the %%[[mtr_letsplay:start|Let's Play Server]]%%, and I'm the founder of %%[[mtr_letsplay:lilypad_rail]]%%. My favourite colour is lavender.%%
+Lily is %%one of the staff members in the %%[[mtr:start|Minecraft Transit Railway]]%% community. She is one of the more active members of the %%[[mtr_letsplay:start|Let's Play Server]]%%, and is the founder of %%[[mtr_letsplay:lilypad_rail]]%%. Her favourite colour is lavender.%%
 
 ~~NOTOC~~
