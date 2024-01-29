@@ -1,0 +1,65 @@
+====== User - SzandorThe13th ======
+
+<WRAP center round important 60%>
+Due to an unfortunate change in regulations regarding the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]], this article will be deleted on 30 January 2024 02:00 HKT. It's been fun, but this shouldn't be how it ends.
+</WRAP>
+
+<WRAP right>
+|  @#6D59A0:  **SzandorThe13th**  |||
+| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023, bibi hat and all.  |||
+|  @#6D59A0:  **Profile**  |||
+| **Known as** | Szandor ||
+| ::: | Szan((i stopped asking people not to shorten my name like this after a while)) ||
+| **MTR Discord Join Date** | January 2nd, 2023 ||
+| **Roles** | Train Operators | (02/01/2023) |
+| ::: | Resource Pack Authors | (23/06/2023) |
+| ::: | Modders | (23/06/2023) |
+| ::: | Let's Play Members | (09/12/2023) |
+| **Date of Birth** | May 5th, 2004 ||
+| **Gender** | Male ||
+| **Nationality** | Dutch ||
+| **Timezone** | CET (GMT+1) ||
+| ::: | CEST (GMT+2) ||
+</WRAP>
+
+==== Introduction ====
+Hello! I'm **Szandor**! I'm one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community, my goal is to help people, but my task sometimes seems to be acting as the voice of reason in a group of people. You might know me from the [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin I published in the public resourcepacks channel, but you will probably also know me as the guy who hasn't stopped yapping about [[mtr_community:centralia|Centralia]] since the day I joined the project.
+
+You will find me working on [[mtr_community:centralia|Centralia]], but I can also be found on the servers of [[mtr_community:unitedcitiesrailways|United Cities Railways]] and the [[mtr_letsplay:start|Let's Play]]! On these servers you can see my generally neutral, but sometimes Western-European building style.
+
+I have also seemingly become known around the place for my love for [[https://en.wikipedia.org/wiki/Formula_One|Formula 1]] and [[https://virtualyoutuber.fandom.com/wiki/Hololive|Hololive]] V-tuber [[https://virtualyoutuber.fandom.com/wiki/Tokoyami_Towa|Tokoyami Towa]]. The last more visible, as it has become more prevalent on my profile lately, as I originally only had an animated banner of a snippet of the music video of one of her original songs [[https://youtu.be/TfOx00AOfKo?si=2aBxJcK4YTxZZqlM|Raimei]], but by now most of the time my banner, profile picture, and emote usage is mostly Towa-related.
+
+I encourage you to strike up a conversation with me, and please don't turn the reply ping off, because I'm on a LOT of servers and might not see your message.
+
+==== History ====
+I have always had some sort of interest in trains, but it never really came up until me and a few friends started a server using the Create mod. This is where I created my first-ever train station called //Windacre//.
+The server was however lost through a short-lived conflict with the owner, and shortly after, I discovered the Minecraft Transit Railway mod.
+In a singleplayer world, I build my first-ever MTR station by the name of //Pondem Village//. After this I spent many nights working on the amazing Greenfield map to make its existing transit systems work.
+
+Singleplayer was getting boring after this, and after knowing and having watched Jonathan's tutorial videos to learn how to set everything up in the Greenfield save, I joined the discord server on the 2nd of January 2023.
+I was looking for a server to build on, and since I was very new to the mod at the time, I looked upon finding a server with a low entry bar.
+
+This server would end up being Caston, which I joined on the 19th of January.
+Unfortunately Caston never saw much activity, and all that happened was me extending the mainline from Spawn to a new station called //Desert Oasis//.
+Because of that, and via one of the server's members, I joined [[mtr_community:helensburgh|Helensburgh]], which had greater aspirations at the time.
+On the first world, I became known for the small area I had built with railways through stations by the names of //Dalry, Cirrane, Cirrane East, Crescent Mangrove, Dornwich, Windermere, Aysgarth, Pinella Pass, Mansion, Eelry and Croydon-Lewes//.
+Unfortunately the first server came to an end in an attempt to put new systems in place to better regulate railway lines and country areas. This idea never took off as activity became very low due to the server's constant modpack and performance issues. In my attemps to help with the country system, I became a mod, then staff, then a manager.
+
+Somewhere along the way, on the 27th of February, I discovered [[mtr_community:unitedcitiesrailways|United Cities Railways]], a server I immediately joined because of the use of the Greenfield map, something I was already pretty familiar with at that point.
+Together with 2 other signups, I created a company called the City Transit Project (CTP). I ended up being the only one of the three to really do much work.
+CTP was originally a mess, with not a single line having a train with a CTP livery, despite all lines having custom liveries.
+I became known on the server for stations such as //Grand Lannex, Mall Avenue, Varenburg Altzentrum and Kazias Center//, the latter of which was based on Gouda's railway station.
+
+During this whole ordeal I also joined [[mtr_community:centralia|Centralia]] and after quite a lot of chat about the map and its development, I spent a short time actually building on the server associated with it. Once it went down again, I set out to create my own [[mtr_community:centralia|Centraliaverse]], but even that would eventually end up being merged back into the main server, which honestly is better than two split versions. Anyways, back to [[mtr_community:unitedcitiesrailways|United Cities Railways]].
+
+Unfortunately, due to the owner's studies, [[mtr_community:unitedcitiesrailways|United Cities Railways]] went down for some time, and because of that I was seeking a new server to build on.
+This prompted me to join [[mtr_community:sallen-city-server|Sallen City]] on September 9th.
+In this time I became more acquainted with MTR staff members [[mtr_community:staff:sleepy_sapph|Lily]] and [[mtr_community:staff:javascript_es1|Dooji]], who were also builders there at the time.
+My interest in [[mtr_community:sallen-city-server|Sallen City]] kind of dwindled as time went on, and the final nail in the coffin was when the bits and chisels mod broke, leaving the server to either have to restart entirely or rebuild everything almost from scratch, of which the former was chosen. This caused many builders to lose their motivation, some of which opted to leave the builder team entirely.
+I kept in touch with everyone from this builder team, which may have been a help to what happened next.
+You see, while I was on [[mtr_community:sallen-city-server|Sallen City]], I had already been talking to [[mtr_community:staff:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of me being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:sallen-city-server|Sallen City]] thing only seems to have boosted the progression of this possibility, and on the 8th of December, I was sent the application form. I was accepted into the builders team the very next day.
+
+Around this time, it had also become apparent that [[mtr_community:unitedcitiesrailways|United Cities Railways]] was going to end season 2 due to increasing conflicts regarding unfitting railway infrastructure.
+All of this together gave me the bright idea of making sure I had a single brand across all servers I was on. This brand became //Moszyan Railways//, and can by now be found on the [[mtr_letsplay:start|Let's Play Server]], [[mtr_community:unitedcitiesrailways|United Cities Railways]] (formerly CityLink/CTP) and [[mtr_community:centralia|Centralia]] (formerly Trident Railways). My rolling stock fleet now features a single design style.
+
+I'm not going to go into depth about what I'm doing or planning to do on the [[mtr_letsplay:start|Let's Play Server]] or [[mtr_community:centralia|Centralia]], as most of that will be on their respective pages (hyperlinked).
