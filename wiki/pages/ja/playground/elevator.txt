@@ -17,30 +17,30 @@
 | ::: | 高さ:16ブロック |
 | ::: | 幅:16ブロック |
 | ::: | 奥行:16ブロック |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **[[https://minecraft.fandom.com/ja/wiki/%E4%BD%93%E5%8A%9B|体力]]**| ∞((ガイドレールを破壊しない限り無敵)) |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーターダッシュボード**  ||
 |  {{ :mtr:elevator_refresher_icon.png?200 }}  ||
 |  インベントリ内のエレベーターダッシュボードのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 不可 |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーター呼び出しボタン連動コネクタ/リムーバー**  ||
 | {{ :mtr:elevator_buttons_link_connector.png?200 }} |{{ :mtr:elevator_buttons_link_remover.png?200 }}|
 |  インベントリ内のコネクターのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|再生可能]]** | 不明 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 不可 |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーターガイドレール/エレベーター着床レール**  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のガイドレールのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
 | **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
@@ -56,7 +56,7 @@
 |  エレベーター呼び出しボタンの外観  ||
 | {{ :mtr:elevator_track.png?200 }} ||
 |  インベントリ内のガイドレールのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
 | **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
@@ -72,7 +72,7 @@
 |  配置モードの異なるエレベーターのドアの外観  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のエレベーターのドアのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
 | **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **配置モード ** | 偶数/奇数 |
@@ -89,7 +89,7 @@
 |  エレベーター階数表示パネルの外観  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のエレベーター階数表示パネルのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|希少度]]** | 一般的 |
+| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
 | **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **配置モード ** | 偶数/奇数 |
@@ -111,6 +111,35 @@
 エレベーターに関するすべてのアイテムはクラフトできない。<sup>[要検証]</sup>
 
 ===== 用途 =====
+
+===== 技術的情報 =====
+==== ID ====
+|名称|名前空間ID|ブロックタグ|形態|翻訳キー|
+|||||
+==== ブロック状態 ====
+=== エレベーターガイドレール/エレベーター着床レール ===
+|名前|デフォルト値|取り得る値|説明|
+||||
+=== エレベーター呼び出しボタン ===
+|名前|デフォルト値|取り得る値|説明|
+||||
+=== エレベーター階数表示パネル(厚/薄) ===
+==配置モード:奇数==
+|名前|デフォルト値|取り得る値|説明|
+||||
+
+==配置モード:偶数==
+|名前|デフォルト値|取り得る値|説明|
+||||
+
+=== エレベーターのドア ===
+==配置モード:奇数==
+|名前|デフォルト値|取り得る値|説明|
+||||
+
+==配置モード:偶数==
+|名前|デフォルト値|取り得る値|説明|
+||||
 
 
 ===== 更新履歴 =====
