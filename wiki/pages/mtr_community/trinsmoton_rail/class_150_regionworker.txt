@@ -1,0 +1,14 @@
+<WRAP right>
+
+^  Class 150 Commuter Worker  ^^
+| ||
+| **In service** |  1972 - Present  |
+| **Manufacturer** |  Movin-Cammel  |
+| **Family Name** |  [[mtr_community:trinsmoton_rail:commuterworker|Commuter Worker]]  |
+| **Top Speed** |  120km/h (75mph)  |
+
+</WRAP>
+
+====== Trinsmoton Rail Class 150 Commuter Worker ======
+
+The **Trinsmoton Rail Class 150 Commuter Worker** is a 3rd Rail Electric Multiple Unit built by Movin-Cammel in the 1970s. The train is one of the first trains to use sliding doors, alongside the [[mtr_community:trinsmoton_rail:class_203|Class 203]] and [[mtr_community:trinsmoton_rail:class_146|Class 146 Commuter Worker]] EMU.
