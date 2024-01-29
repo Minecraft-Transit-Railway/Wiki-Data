@@ -20,7 +20,7 @@ BVE用に作成した車両は、作者によってはBVE外の使用を禁止�
 
 ===== 必要なもの =====
 
-   - カスタム Minecraft サウンド、[[mtr_extra:resourcepack:make|リソース パックを使用したカスタム列車]]、および JSON 形式の追加に関する基本的な知識。
+   - カスタム Minecraft サウンド、[[ja:mtr_extra:making_a_resourcepack|リソース パックを使用したカスタム列車]]、および JSON 形式の追加に関する基本的な知識。
    - BVE2/4/OpenBVE用の列車
    - リソース パックで追加されたカスタムMTR Modの電車(リテクスチャができているか確認)。
    - モノラルの**.ogg** ファイルをエクスポートできるソフトウェア (例: [[https://www.audacityteam.org|Audacity]])
