@@ -4,7 +4,7 @@
 |  @#EFEEF0:  **Shimano MTR**  ||
 | {{ smtr_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+| **Owner** | CinderaceOTS |
 | **Established** | 2018 |
 | **Area Served** | (Wide area) |
 | **Transit type** | [[Rapid Transit]]etc. |
@@ -14,7 +14,7 @@
 | **Colour on map** | Navy blue (#000088) |
 |  @#EFEEF0:  **Service & Operation**  ||
 | **Began passenger operation** | August 2022 |
-| **Operator(s)** | [[mtr_community:cinderaceots|CinderaceOTS]] |
+| **Operator(s)** | CinderaceOTS |
 
 |  @#b0c4de:  **Shimano MTR**  ||
 | [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 縞野MTR |
