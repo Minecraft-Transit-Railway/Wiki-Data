@@ -1,6 +1,5 @@
 ====== CinderaceOTS ======
-<WRAP center round box 60%>
-</WRAP>
+
 
 <WRAP 400px right>
 |  @#BB492B:  **CinderaceOTS**  ||
