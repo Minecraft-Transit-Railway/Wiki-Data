@@ -1,10 +1,10 @@
-====== Server - United Cities Railways [WIP] ======
+====== United Cities Railways [WIP] ======
 
 **United Cities Railways** is one of many Minecraft servers using the Minecraft Transit Railway mod to build railways, running on Fabric 1.19.2. The server has the unique disposition of using prebuilt city maps, usually downloaded from PlanetMinecraft, to connect with custom railways. Furthermore, the server is also one of very limited amount to have both a line proposal and line review system. This was put into place to prioritize the quality of the railways and stations over the speed of their construction.
 
 <WRAP right>
 |  @#EFEEF0:  **United Cities Railways**  ||
-| {{ucr.png?250 }} ||
+| {{..:ucr.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | AIEMERIC |
 | **Transit type** | Mixed |
