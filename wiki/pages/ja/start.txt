@@ -4,33 +4,33 @@ FIXME **このページはまだ完全には、翻訳されません。翻訳の
 
 ===== Minecraft Transit Railway =====
 
-* [[mtr:start|Minecraft Transit Railway]] - MOD本体に関する情報
+* [[ja:mtr:start|Minecraft Transit Railway]] - MOD本体に関する情報
 
 ===== 追加コンテンツ =====
 
-* [[mtr_extra:caution|アドオンとMODの警告]] - アドオンやMODを追加する前の重要な注意と警告
+* [[ja:mtr_extra:caution|アドオンとMODの警告]] - アドオンやMODを追加する前の重要な注意と警告
 
-* [[mtr_extra:resourcepack|リソースパックの導入]] - リソースパックの導入方法
+* [[ja:mtr_extra:resourcepack|リソースパックの導入]] - リソースパックの導入方法
 
-* [[mtr_extra:resourcepack:make|リソースパックの作成]] - リソースパックの作成方法
+* [[ja:mtr_extra:making_a_resourcepack|リソースパックの作成]] - リソースパックの作成方法
 
-  * [[mtr_extra:resourcepack:make:texture|列車のテクスチャリング]] - テクスチャファイルの作り方
-  * [[mtr_extra:resourcepack:make:model|列車のモデリング]] - モデルファイルの作り方
-  * [[mtr_extra:resourcepack:make:others|その他]] - サインシステムやサウンドファイルなどの作り方
+  * [[ja:mtr_extra:resourcepack:make:texture|列車のテクスチャリング]] - テクスチャファイルの作り方
+  * [[ja:mtr_extra:resourcepack:make:model|列車のモデリング]] - モデルファイルの作り方
+  * [[ja:mtr_extra:resourcepack:make:others|その他]] - サインシステムやサウンドファイルなどの作り方
 
-* [[mtr_extra:resourcepack:faq|よくある質問]] - リソースパックに関する質問
+* [[ja:mtr_extra:resourcepack:faq|よくある質問]] - リソースパックに関する質問
 
-* [[mtr_addon:start|アドオンMOD]] - 追加MTRアドオンMODのインストール方法
+* [[ja:mtr_addon:start|アドオンMOD]] - 追加MTRアドオンMODのインストール方法
 
 
 
 ===== マルチ鯖 =====
 
-* [[mtr_letsplay:start|Let's Play Server]] - MTR MOD公式サーバー
+* [[ja:mtr_letsplay:start|Let's Play Server]] - MTR MOD公式サーバー
 
 ===== ウィキへの貢献 =====
 
 私たちは、このMODについて詳しいすべての人に、その知識を共有してもらいたいと思っています！
 
-* [[edit_guideline|編集方針]]を必ずお読みください。
+* [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|編集方針]]と[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|運営方針]]を必ずお読みください。※英語
 
