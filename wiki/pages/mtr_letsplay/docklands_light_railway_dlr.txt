@@ -32,7 +32,7 @@
 | **Sound barrier/support block** | Stone Bricks |
 | **Tunnel wall block** | Stone Bricks |
 
-<WRAP right> 
+<WRAP right>
 
 |  @#b0c4de:  **Docklands Light Railway**  ||
 | [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 碼頭輕軌 |
@@ -88,15 +88,19 @@ On 4 July 2023, Waterloo Gate and City Northshore were unceremoniously closed as
 
 On 1 October 2023, service was reinstated on B1 as far as Saint Ann's along with the station's soft reopening.
 
+On 27 January 2024, DLR Route D1 was reinstated, albeit running on a completely different alignment from the original route via Hampton West. The route runs from Winbeck's terminating platform out to the newly refurbished  and  stations for connections to the Northern Line and Victory Line respectively. It is the only line to use the specially branded blue Docklands livery.(( From a lore perspective, it is assumed that these stations and the Docklands area were left abandoned after the Llanmara Docklands Railway closed. However, from a real life timeline perspective, the Docklands area was constructed as apart of the Northern Line proposal, which brought the Victory Line out of the old Llanmara Bay Tunnel and across a new viaduct atop the old right of way ))
+
 ==== The Mainline Connection Integration Plan ====
 
 The DLR released a plan on 2 April 2023 which aimed to connect the new stations along the [[Northern Mainline|Northern Mainline]] for [[Electrostar Rail|Electrostar Rail]] with the DLR stations of similar name. On 11 April 2023, DLR Route F1 opened between Kirkenkessie Bank and [[Mt. Dencradle|Mt. Dencradle]]. It ran to Kirkenkessie Bank until the construction works at [[Dencradle|Dencradle]] were complete, where it was shortened to a new bay platform at the station.
 
 On 7 August 2023, DLR Route F1 was closed and absorbed into DLR Route E1, running from Financial Centre to Dencradle via a new tunnel between Mt. Dencradle and Meilan. The absorption meant that E1 trains had to shorten from 6 car/3 unit sets to 4 car/2 unit sets as per the rest of the DLR network. This makes Meilan and Financial Centre the only stations to have DLR platforms built longer than 4 car/2 unit sets.
 
+On 18 January 2024, DLR Route A3 began operation from the new terminal at [[Faarverness Island|Faarverness Island]] out to Southampton, being the first route to use the track connection direct from Winbeck to Peakwell since the junction was rebuilt.
+
 ===== System Operations =====
 
-The DLR currently serves 23 stations across the centre of Greater Llanmara. There are five branches in addition to the Central Suburban Loop: to the City to the north, to the Lower Islands and [[Southampton|Southampton]] in the south, to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie]] to the west, to [[Hixton Town|Hixton Town]] in the east, and to [[Dencradle|Dencradle ]]in the southwest to the east. Between [[Houton High Street|High Street]] and [[Faarverness Jungle|Faarverness Jungle]], the DLR runs vaguely parallel to the [[Metro Victory Line|Victory Line]]. Between Boulton-on-Mesa and Kirkenkessie Bank, the DLR runs directly parallel to the Victory Line.
+The DLR currently serves 26 stations across the centre of Greater Llanmara. There are five branches in addition to the Central Suburban Loop: to the City to the north, to the Lower Islands and [[Southampton|Southampton]] in the south, to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie]] to the west, to [[Hixton Town|Hixton Town]] in the east, and to [[Dencradle|Dencradle ]]in the southwest to the east. Between [[Houton High Street|High Street]] and [[Faarverness Jungle|Faarverness Jungle]], the DLR runs vaguely parallel to the [[Metro Victory Line|Victory Line]]. Between Boulton-on-Mesa and Kirkenkessie Bank, the DLR runs directly parallel to the Victory Line.
 
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
