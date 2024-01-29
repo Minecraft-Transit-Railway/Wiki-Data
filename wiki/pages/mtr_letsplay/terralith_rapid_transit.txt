@@ -1,4 +1,4 @@
-======[WIP]Terralith Rapid Transit======
+======Terralith Rapid Transit======
 <WRAP 400px right>
 |  @#EFEEF0:  **Terralith Rapid Transit**  ||
 | {{ mtr_letsplay:trt.png?250 }} ||
