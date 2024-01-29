@@ -209,7 +209,7 @@ The Class 358 is an EMU Designed for HRR's North Commuter Rail lines. In 2009, T
 | **Wheel Arrangement** | Bo'+Bo' |
 | **Power Output** | 5000 Horsepower |
 | **Unit Length**  | 18 Meters |
-| **Basis**  | [[https://en.wikipedia.org/wiki/SNCF_Class_BB_22200|SNCR Class BB22200]] |
+| **Basis**  | [[https://en.wikipedia.org/wiki/SNCF_Class_BB_22200|SNCF Class BB22200]] |
 
 </WRAP>
 
