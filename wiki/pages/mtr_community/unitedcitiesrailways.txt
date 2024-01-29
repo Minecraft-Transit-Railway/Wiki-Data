@@ -3,14 +3,12 @@
 **United Cities Railways** is one of many Minecraft servers using the Minecraft Transit Railway mod to build railways, running on Fabric 1.19.2. The server has the unique disposition of using prebuilt city maps, usually downloaded from PlanetMinecraft, to connect with custom railways. Furthermore, the server is also one of very limited amount to have both a line proposal and line review system. This was put into place to prioritize the quality of the railways and stations over the speed of their construction.
 
 <WRAP right>
-
 |  @#EFEEF0:  **United Cities Railways**  ||
 | {{ucr.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:AIEMERIC|AIEMERIC]] |
+| **Owner** | AIEMERIC |
 | **Transit type** | Mixed |
-| **Number of companies** | 10 |
-
+| **Number of companies** | 9 |
 </WRAP>
 
 ===== History =====
@@ -19,15 +17,14 @@
 
 ===== Operators =====
 
-{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|U}} [[mtr_community:unitedcitiesrailways:urbanexpress|UrbanExpress]]
-{{:mtr_community:unitedcitiesrailways:releaf.png?50|Refeal}} [[mtr_community:unitedcitiesrailways:releaf|Releaf]] 
-{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} [[mtr_community:unitedcitiesrailways:mrw|Moszyan Transport]]
-{{:mtr_community:st_logo.png?50|SMART Transit}} [[mtr_community:unitedcitiesrailways:smart|SMART Transit]] 
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH YORKSHIRE LOGO}} [[mtr_community:unitedcitiesrailways:yorkshire|Yorkshire Airways]]
+{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress
+{{:mtr_community:unitedcitiesrailways:releaf.png?50|Releaf}} Releaf
+{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport
+{{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH YORKSHIRE LOGO}} Yorkshire Airways
 
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH SPRINTTRANSIT LOGO}} [[mtr_community:unitedcitiesrailways:sprinttransit|SprintTransit]] 
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH NAT EXP LOGO}} [[mtr_community:unitedcitiesrailways:natexpress|National Express]] 
-{{:mtr_community:unitedcitiesrailways:nexway.png?50|Nexway}} [[mtr_community:unitedcitiesrailways:nexway|NexWay Transport]] 
-{{:mtr_community:unitedcitiesrailways:countrylink.png?50|CountryLink}} [[mtr_community:unitedcitiesrailways:countrylink|CountryLink]]
-{{:mtr_community:unitedcitiesrailways:mainlinerailways.png?50|Mainline Railways}} [[mtr_community:unitedcitiesrailways:mainlinerailways|Mainline Railways]]
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH SPRINTTRANSIT LOGO}} SprintTransit
+{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH NAT EXP LOGO}} National Express
+{{:mtr_community:unitedcitiesrailways:countrylink.png?50|CountryLink}} CountryLink
+{{:mtr_community:unitedcitiesrailways:mainlinerailways.png?50|Mainline Railways}} Mainline Railways
 
