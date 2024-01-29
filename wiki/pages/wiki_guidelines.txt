@@ -31,11 +31,12 @@
   - Banned users cannot make community pages.
   - Adopting the philosophy from Wikipedia, be as concise as possible. Pages should not be extensive biographies, and footnotes should be used for superfluous clarification.
   - Adopting the philosophy form Wikipedia, pages must not contradict one another. The community's view cannot simultaneously be "A" and "not A". Outside drama and superfluous indulgence in particular incidents is not permitted, and in any given case, Staff reserve the right to moderate and decide on a position should there by a point of disagreement.
-  - Aside from members of the Staff team, users may not create their own user pages.
+  - Aside from members of the Staff team, users with the Contributors role, and members of the Let's Play Builders Team, users may not create their own user pages.
+  - All content must be in the third person perspective, particularly pertaining to user pages in accordance with rule 11.
 
 You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change.
 
-//These version of the guidelines were drafted on 22 January 2024, adopted 27 January 2024, and will take affect 30 January 2024 at 02:00 HKT.
+//These version of the guidelines were drafted on 22 January 2024, adopted 27 January 2024, revised 29 January 2024, and will take affect 30 January 2024 at 02:00 HKT.
 We appreciate any and all concerns. As stated above, we reserve the right to continue to make changes to the operations and guidelines of the Wiki as we see fit. //
 
 For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page.
