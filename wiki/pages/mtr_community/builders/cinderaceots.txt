@@ -21,9 +21,20 @@
 **CinderaceOTS**(Same as Minecraft ID and Discord) is a member of the Minecraft Transit Railway Discord community. He claims he was the first Japanese to start playing MTR mods in October 2021, and is probably the first Japanese member to join the Discord community. He is also the owner of Shimano MTR and Terralith Rapid Transit, a railroad company that operates on [[mtr_letsplay:start|Let's Play servers]].
 
 Also, before joining the Let's Play server, he was building a large railway line with vanilla and MTR. 
-===Activities before starting MTR===
+=====Activities before starting MTR=====
+When I first started playing Minecraft in July 2015, the first thing I did was train. However, at that time, it was struggling with the specifications of vanilla Minecart.
+=====Activities in the Let's Play server builder.=====
+From August 2022, we have become a builder of MTR's Let's Play server. We are constructing MRT-class urban high-speed railways and LRT.
 
-===Activities in the Let's Play server builder.===
+Currently, due to my health, I am progressing at a slower pace than when I first started participating.
 
-===Activities at Crowdin===
+=====Activities at Crowdin=====
 I am in charge of Japanese localization for MTR's Crowdin. I localized and corrected almost all items.
+
+=====Activities at MTR wiki=====
+Similar to Crowdin, we are translating existing English articles (with some exceptions) and writing new Japanese articles.
+
+=====Managed MTR railways=====
+  * [[mtr_letsplay:terralith_rapid_transit|Terralith Rapid Transit]] - This is a management company that owns the lines and trains of the following companies that exist on the Let's Play server.
+    * [[mtr_letsplay:shimanomtr|Shimano MTR]] - A railway operator that operates on Let's Play servers, etc.
+    * [[mtr_letsplay:shimanolrt|Shimano LRT]] - SMTR's light rail division.
