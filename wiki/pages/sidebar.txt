@@ -8,3 +8,5 @@
 
 [[mtr_community:start|Community Pages]]
 
+[[mtr_letsplay:modpack|Let's Play Modpack]]
+
