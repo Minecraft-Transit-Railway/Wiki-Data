@@ -6,7 +6,7 @@
 
 [[mtr_letsplay:start|Let's Play Server]]
 
-[[mtr_community:start|Community Pages]]
-
 [[mtr_letsplay:modpack|Let's Play Modpack]]
+
+[[mtr_community:start|Community Pages]]
 
