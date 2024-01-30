@@ -11,8 +11,3 @@ Below is a list of all community pages. These can be related to users, external 
 
 [[mtr_community:builders:start|Builder Pages]]
 
-===== To-be-(re)moved Pages =====
-
- <nspages -textPages="" -title -exclude>
-
-~~NOCACHE~~
