@@ -6,8 +6,7 @@
 |  {{:mtr_extra:parail_1_0_1.png?250}}  ||
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Creator** | [[mtr_community:aecth]] |
-| Trains | 29 |
-| Modrinth Upload | TBA |
+| Trains | 31 |
 | TBA | UsaDragon22 |
 | **Latest Version** | 1.0.1 |
 | **Initial Release** | October 5th, 2022 |
@@ -15,7 +14,7 @@
 
 </WRAP>
 
-The **PäRail Trains Addon** is a Fictional Resource Pack for the Minecraft Transit Railway Mod. It contains almost 30 trains.
+The **PäRail Trains Addon** is a Fictional Resource Pack for the Minecraft Transit Railway Mod. It contains over 30 trains.
 
 ====== History ======
 The Pack was originally releasied on October 5th, 2022. There were originally 2 resource packs, the Multiple Units pack and the Locomotives Packs. They were later merged together on March 18th, 2023.
@@ -24,7 +23,7 @@ The Pack was originally releasied on October 5th, 2022. There were originally 2 
 
 
 ===== Class 144 =====
-The Päsow National Class 144 ACER was a Diesel-Mechanical Multible Unit Designed for the Commuter Services Along the Päsow River. The Unit was First Designed in 1975 and Intended to Be Replaced by the Term of the Melenium. It was Later Replaced by the PCMA 760 in 2017.
+The Päsow National Class 144 ACER was a Diesel-Mechanical Multiple Unit Designed for the Commuter Services Along the Päsow River. The Unit was First Designed in 1975 and Intended to Be Replaced by the Term of the Millennium. It was Later Replaced by the PCMA 760 in 2017.
 
 This Train is a Model Change of the MTR M Train. The changes include: Changing into 2-Coach units, and a changed gangway.
 
