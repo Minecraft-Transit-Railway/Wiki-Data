@@ -115,9 +115,9 @@ The **British Rail Class 508** or **4PER** in Southern Railway, was a Electric M
 
 ====== In Minecraft Transit Railway ======
 
-[[mtr_community:staff:navi_lx9702|Navi]] made the Class 508/1 for Minecraft Transit Railway since September. the train is made and a "prototype" is posted in the screenshots channel in the Discord Server. the screenshot is then attracted many players to give diamonds to it. In 17th September the pack is started to be available for public downloads.
+[[mtr_community:staff:navi_lx9702|Navi]] made the Class 508/1 for Minecraft Transit Railway since September. In 17th September the pack started to be available for public downloads.
 
-Starting form version 1.3 the train is one of the very few train that uses the new BVE sound system.
+Starting form version 1.3 the train is one of the train that uses the new BVE sound system.
 
 ====== In Let's Play server ======
 
