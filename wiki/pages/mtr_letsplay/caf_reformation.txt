@@ -19,15 +19,15 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 ^  Type A1  ||^
 |  TCL V8xx  |  No Change  |  V3xx (odd)  |
 |  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
-|  AEL H2xx  |  Rotate 180°  |  G3xx (odd)  |
-|  AEL\\ F2xx  |  Rotate 180°\\ Install automatic coupler  |  F3xx\\ (odd)  |
+|  AEL H2xx  |  No Change  |  G3xx (odd)  |
+|  AEL F2xx  |  Install automatic coupler  |  F3xx (odd)  |
 |  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL V6xx  |  No Change  |  V3xx (even)  |
 ^  Type A2  ||^
 |  TCL V8xx  |  No Change  |  V3xx (odd)  |
 |  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
 |  AEL\\ E1xx  |  Rotate 180°\\ Uninstall driver's cabin  |  G3xx\\ (odd)  |
-|  AEL\\ F1xx  |  Rotate 180°\\ Install automatic coupler  |  F3xx\\ (odd)  |
+|  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
 |  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL V6xx  |  No Change  |  V3xx (even)  |
 ^  Type A3  ||^
@@ -36,15 +36,15 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 |  AEL\\ K4xx  |  Install windows\\ Remove luggage racks, install lateral seats and poles  |  V3xx\\ (odd)  |
 |  \\ AEL J4xx  |  Change to TCL like configuration:\\ Change 3 windows to 3 doors forming doors 1, 3, 5 \\ Change coach seats to lateral seats and install poles  |  \\ Z3xx (odd)  |
 |  AEL\\ E1xx  |  Rotate 180°\\ Uninstall driver's cabin  |  G3xx\\ (odd)  |
-|  AEL\\ F1xx  |  Rotate 180°\\ Install automatic coupler  |  F3xx\\ (odd)  |
+|  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
 |  TCL W7xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL Y7xx  |  Install driver's cabin  |  V3xx (even)  |
 ^  Type B2  ||^
 |  Similar to Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
 ^  Type C  ||^
 |  AEL\\ K4xx  |  Install windows\\ Remove luggage racks, install lateral seats and poles  |  V3xx\\ (odd)  |
-|  TCL\\ W7xx  |  Rotate 180°\\ Install automatic coupler  |  Z3xx (odd)  |
-|  \\ TCL\\ Y7xx  |  Rotate 180°\\ Change to AEL like configuration:\\ Change doors 1, 3, 5 to windows\\ Change lateral seats to coach seats and remove some poles  |  \\ G3xx\\ (odd)  |
+|  TCL W7xx  |  Install automatic coupler  |  Z3xx (odd)  |
+|  \\ TCL Y7xx  |  Change to AEL like configuration:\\ Change doors 1, 3, 5 to windows\\ Change lateral seats to coach seats and remove some poles  |  \\ G3xx (odd)  |
 |  AEL J4xx  |  No Change  |  F3xx (odd)  |
 |  TCL W7xx  |  Install automatic coupler  |  Z3xx (even)  |
-|  TCL Y7xx  |  Install driver's cabin  |  V3xx (even)  |
+|  TCL\\ Y7xx  |  Rotate 180°\\ Install driver's cabin  |  V3xx (even)  |
