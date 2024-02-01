@@ -22,9 +22,8 @@ I am working on a big project called Creator Minecraft Java [[https://youtu.be/c
 
 ===== Facts =====
 
-  * Beginner to Advanced Java Programmer
-  * I love creating things
-  * I used Unity to learn to make games
+  * Beginner to Advanced Java Programmer.
+  * ExtremeMakerX used Unity to learn to make games.
 
 ===== Things I made for Minecraft Transit Railway =====
 
@@ -48,9 +47,9 @@ I am working on a big project called Creator Minecraft Java [[https://youtu.be/c
 
 {{:mtr_community:contributors:r32_extrememakerx.png?400|}}
 
-New York R32 Body (My first ever train model and was made by in Early 2019). I was a beginner modeller trying to understand Blender.
+New York R32 Body (My first ever train model and was made by in Early 2019). ExtremeMakerX was a beginner modeller trying to understand Blender.
 ----
 {{:mtr_community:contributors:r179.png?400|}}
 
-First ever train model I made for Minecraft. (R179 - Beta Version)
-I was made on July 2021 and then gotten remastered after by Jonathan (jonafanho - MTR Mode Owner)
+First ever train model ExtremeMakerX made for Minecraft. (R179 - Beta Version)
+ExtremeMakerX was made on July 2021 and then gotten remastered after by Jonathan (jonafanho - MTR Mode Owner)
