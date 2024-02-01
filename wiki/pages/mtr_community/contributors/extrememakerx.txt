@@ -3,7 +3,7 @@
 <WRAP right>
 
 ^  ExtremeMakerX  |^
-| {{ :mtr_community:contributors:extrememakerxavatar.png?320 |}} ||
+| {{  :mtr_community:contributors:extrememakerxavatar.png?320 |}} ||
 ^  Overview  |^
 | **Also known as** | Jordan O'Neal((
 Real Name
@@ -12,7 +12,7 @@ Real Name
 Shorter Username
 )) |
 | **MTR Mod Discord Join Date** | 2021-06-22 |
-| **Social Media Platforms** | [[https://www.youtube.com/@ExtremeMakerX|YouTube]] |
+| **Social Media Platforms** | [[https://www.youtube.com/@ExtremeMakerX|YouTube]], [[https://twitter.com/ExtrememakerX|Twitter]] |
 | **Birth Date** | June 6, 2003 |
 | **Discord Roles** | Contributor |
 | ::: | Modders |
@@ -23,5 +23,37 @@ Shorter Username
 
 </WRAP>
 
-In progress...
-The full page should be created tomorrow
+Minecraft Coder and talented 3D modeller. One of the contributor of the [[mtr:start|Minecraft Transit Railway]] Mod.
+I am working on a big project called Creator Minecraft Java [[https://youtu.be/cnV9IBeM1UI?si=uLpmL58Rav5h1OW0|YouTube Video]]
+
+===== Facts =====
+
+  * Beginner to Advanced Java Programmer
+  * I love creating things
+  * I used Unity to learn to make games
+
+===== Things I made for Minecraft Transit Railway =====
+
+==== Trains ====
+
+  * R179 - August 2021
+  * R32 - August 2021 (Canceled due to motivation)
+  * Wmata 7000 - October 2021
+  * Innovia AMP 100 (TPA) - October 2021
+  * BART Legacy Fleet - December 2021
+  * BART Future Fleet - December 2021
+  * R33 - June 2022 (Never released due to it being a bit Project reliant)
+  * 1992 Stock (Still In Progress) - February 2024
+ 
+==== Features ====
+
+  * North American Platforms - August 2021
+  * Train barrier feature - February 2022
+  * World Region Feature - February 2022
+  * Train & Track Limiting - May 2022
+
+----
+
+{{:mtr_community:contributors:r32_extrememakerx.png?400|}}
+
+New York R32 Body (My first ever train model and was made by in Early 2019). I was a beginner modeller trying to understand Blender.
