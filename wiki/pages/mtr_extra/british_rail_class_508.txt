@@ -30,17 +30,13 @@
 | ::: | 508/2 units: 219 |
 | ::: | As refurbished: 192 |
 | **Rolling Stock Owner** | [[wp>Angel_Trains|Angel Trains]] |
-| **Operator(s)** | Current: |
+| **Operator(s)** | Former: |
 | ::: | [[wp>Merseyrail]] |
-| ::: | Former: |
 | ::: | [[wp>British_Rail|British Rail]] |
 | ::: | [[wp>Connex_South_Eastern|Connex South Eastern]] |
 | ::: | [[wp>Southeastern_(train_operating_company_2006–2021)|Southeastern]] |
 | ::: | [[wp>Silverlink|Silverlink]] |
 | ::: | [[wp>London_Overground|London Overground]] |
-| **Line(s) served** | [[wp>Wirral_line|Wirral Line]] |
-| ::: | [[wp>Northern_line_(Merseyrail)|Northern Line]] |
-|  @#EABF23:**  Real-live %%Specifications%%**  ||
 | **%%Car body construction%%** | Steel and Aluminium |
 | **Car Length** | DM cars: 19800mm |
 |   | TSO cars: 19920mm |
