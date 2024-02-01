@@ -52,8 +52,11 @@ I am working on a big project called Creator Minecraft Java [[https://youtu.be/c
   * World Region Feature - February 2022
   * Train & Track Limiting - May 2022
 
-----
-
 {{:mtr_community:contributors:r32_extrememakerx.png?400|}}
 
 New York R32 Body (My first ever train model and was made by in Early 2019). I was a beginner modeller trying to understand Blender.
+----
+{{:mtr_community:contributors:r179.png?400|}}
+
+First ever train model I made for Minecraft. (R179 - Beta Version)
+I was made on July 2021 and then gotten remastered after by Jonathan (jonafanho - MTR Mode Owner)
