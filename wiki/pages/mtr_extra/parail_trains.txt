@@ -493,6 +493,7 @@ The Class 711 is a Commuter Rail EMU Built for KTA by the Selmara Rail Company. 
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 20 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_508|British Rail Class 508]] |
+| **Model Basis**  | [[mtr_extra:british_rail_class_508|Navi's Class 508]] |
 
 </WRAP>
 
