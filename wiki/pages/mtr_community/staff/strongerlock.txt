@@ -22,9 +22,7 @@
 
 ==== Before Joining MTR Community ====
 
-**Stronger** has shown interest in Minecraft as early as 2018 when the Minecraft Pocket Edition was popular. He tried and built small-scale train stations and routes on his first private server, which further engaged his interest in Minecraft railways.
-
-In 2020, Kinson Studio created a public server for Bedrock/Pocket Edition for MCMTR. **Stronger** joined the Discord community in April 2020 and became a builder there. He and Kinson created a new MCMTR Series, 【KS MCPE MTR 伺服器 Server – 車站重建計劃 Station Rebuild Project】, and rebuilt several stations along the Tung Chung Line, Airport Express, and Disneyland Resort Line. He became one of the original staff members.
+**Stronger** joined the Discord community in April 2020, becoming a builder in Kinson MCMTR BE/PE Server, which firstly touched the mtr community. He and Kinson created a new MCMTR Series, 【KS MCPE MTR 伺服器 Server – 車站重建計劃 Station Rebuild Project】, and rebuilt several stations along the Tung Chung Line, Airport Express, and Disneyland Resort Line. He became one of the original staff members.
 
 In early 2021, MCMTR was upgraded to a Java Server, with plugins that allowed BE/PE users to join. Stronger purchased the Java Edition and started discovering Java mods/plugins.
 
@@ -48,7 +46,7 @@ In August 2022, **Stronger** was invited to join the Let's Play Members. He prop
 
 **MTR Crafters Period**
 
-In September 2021, **Stronger** joined [[mtr_community:server_-_mtr_crafters|MTR Crafters]] as an Admin. However, due to academic studies, Centown workload, and map issues in MTR Crafters, he was inactive until 2023.
+In September 2021, **Stronger** joined [[mtr_community:server:mtr_crafters|MTR Crafters]] as an Admin. However, due to academic studies, Centown workload, and map issues in MTR Crafters, he was inactive until 2023.
 
 During the 1:2 Map Period, **Stronger** attempted to investigate curve platforms and build temporary tracks in Central Station. However, the plan failed due to overscaling, and he had to consider alternative plans.
 
