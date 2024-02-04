@@ -22,6 +22,13 @@
 The City of [[mtr_community:server:centralia|Centralia]] originally started out as Central & Suburbia, and the names were merged to create [[mtr_community:server:centralia|Centralia]]. The central [[mtr_community:server:centralia|Centralia]] city area is made up of a merger of two former independent cities by the names of Haruna and Sendai, of which you can still see the names in a few stations, such as Haruna Shrine and Sendai Tower. Originally, it was a 1.7.10 singleplayer Minecraft world using the RealTrainMod, but as the world evolved and the Minecraft version was updated, it was transferred from RealTrainMod to the [[mtr:start|Minecraft Transit Railway]] mod it uses today. An advantage of this change was that rails now supported 45 degree rotations, and an old trace of the 90 degree-limited track beds is still visible between Banks Heath and Selsdon Bridge, now Sendai Parkway stations, which coincidentally sported the first railway connection. Years later, it was opened as a server, with multiple users working on railways within the world at once, which significantly boosted the development of the city. Many buildings built by others are still visible to this day, even after the server was unfortunately closed down due to internal disputes between Vako and [[mtr_community:server:centralia|Centralia]] staff members at the time. The world kept developing for a while after, and in early 2023, reopened once more to a selected group of active and trusted people. Unfortunately, due to multiple different factors, mainly including a lack of motivation, the server was once again closed and the project was immediately put on an indefinite hiatus. The state in which the server closed was released as [[mtr_community:server:centralia|Centralia]] version 1.1.5, also known as the EOD (End Of Development) release. However, interest remained high in the eyes of other members, including szandorthe13th, who transformed his discord server, which was previously in a zombie state from the former Moszyan Railways server it ran, into a server dedicated to finishing the work he had started on [[mtr_community:server:centralia|Centralia]] in the short time he had access to the server. He would stay in contact with Vako, receiving lots of useful information and assistance in his continuation of the project. Eventually, because of the significantly higher activity on this originally unaffiliated side-project, and around the opening of this very wiki you are reading from right now, szandorthe13th recieved the green light to fully step into the role of representing the [[mtr_community:server:centralia|Centralia]] project. However, to prevent confusion between the two versions of [[mtr_community:server:centralia|Centralia]] that had split from each other by now, szandorthe13th's version would be known as "Szandor's Centraliaverse", as every person who downloads the map and starts their own journey on it, creates their own Centraliaverse, so to speak. In early 2024, talks began to merge the Centraliaverse map back into the still-in-development main Centralia map. 
 
 ===== Operators =====
+{{:mtr_community:crlogostripe.png?50}} [[mtr_community:server:centralia#centralia_rail|Centralia Rail]] 
+{{:mtr_community:cmrmetropolitan.png?50}} [[mtr_community:server:centralia#centralia_metropolitan_rail|Centralia Metropolitan Rail]] 
+{{:mtr_community:centralia_wf.png?50}} [[mtr_community:server:centralia#warrington_flyer|Warrington Flyer]] 
+{{:mtr_community:centralia_rcc.png?50}} [[mtr_community:server:centralia#rhosyngardd_city_council|Rhosyngardd City Council]] 
+{{:mtr_community:centrewest_3_wide.png?50}} [[mtr_community:server:centralia#centrewest|Centrewest]] 
+{{:mtr_community:mosyzan_logo.png?50}} [[mtr_community:server:centralia#moszyan_railways|Moszyan Railways]] 
+
 ==== Centralia Rail ====
 
 <WRAP right>
@@ -279,7 +286,7 @@ Moszyan Railways is the youngest operator in the city of [[mtr_community:server:
 === Szandor's Centraliaverse ===
 {{mtr_community:centralia_cr_map.png?1000}}
 
-//A map of all Centralia Rail services. Moszyan Railways' Trident Line is included until their network expands.//
+//A map of all Centralia Rail services. Moszyan Railways' Trident Line and Southern City Line are included until their network expands.//
 
 {{mtr_community:centralia_cmr_map.png?1000}}
 
@@ -291,7 +298,7 @@ Moszyan Railways is the youngest operator in the city of [[mtr_community:server:
 
 {{mtr_community:centralia_map_scv.png?1000}}
 
-//The full system map of Szandor's Centraliaverse as of November 8th, 2023.//
+//The full system map of the world in progress as of February 4th, 2024.//
 
 === Centralia End Of Development version 1.1.5 ===
 
