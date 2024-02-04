@@ -279,15 +279,15 @@ Moszyan Railways is the youngest operator in the city of [[mtr_community:server:
 === Szandor's Centraliaverse ===
 {{mtr_community:centralia_cr_map.png?1000}}
 
-//A map of all [[mtr_community:centralia:cr|Centralia Rail]] services. [[mtr_community:centralia:mrw|Moszyan Railways]]' [[mtr_community:centralia:mrw:tridentline|Trident Line]] is included until their network expands.//
+//A map of all Centralia Rail services. Moszyan Railways' Trident Line is included until their network expands.//
 
 {{mtr_community:centralia_cmr_map.png?1000}}
 
-//A map of all [[mtr_community:centralia:cmr|Centralia Metropolitan Rail]] services. The CR-owned [[mtr_community:centralia:cr:centralandjunctionline|Central & Junction Line]] is included as a reference to the Waterloo & City Line's appearance on the London Underground rail map.//
+//A map of all Centralia Metropolitan Rail services. The CR-owned Central & Junction Line is included as a reference to the Waterloo & City Line's appearance on the London Underground rail map.//
 
 {{mtr_community:centralia_lrt_map.png?1000}}
 
-//A map of all Light Rail services in [[mtr_community:server:centralia|Centralia]]. Currently includes the [[mtr_community:centralia:warringtonflyer|Warrington Flyer]], [[mtr_community:centralia:rcc:palaceline|Rhosyngardd Palace Line]] and the [[mtr_community:centralia:centrewest|Centrewest Light Rail]] network.//
+//A map of all Light Rail services in [[mtr_community:server:centralia|Centralia]]. Currently includes the Warrington Flyer, Rhosyngardd Palace Line and the Centrewest Light Rail network.//
 
 {{mtr_community:centralia_map_scv.png?1000}}
 
@@ -297,7 +297,7 @@ Moszyan Railways is the youngest operator in the city of [[mtr_community:server:
 
 {{mtr_community:centralia_map_eod.png?1000}}
 
-//The system map of [[mtr_community:server:centralia|Centralia]] at the time the server was closed and development by [[mtr_community:vakarain|Vako]] ended.//
+//The system map of [[mtr_community:server:centralia|Centralia]] at the time the server was closed and development by Vako ended.//
 
 === Centralia version 1.1 ===
 
