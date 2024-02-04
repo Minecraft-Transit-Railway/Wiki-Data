@@ -2,6 +2,7 @@
 
 **[[/wlt_line_3|Line 3 (Cyan Gray Line)]]** will have MTR's [[wp>MTR_Adtranz–CAF_EMU|CAF-Train]] solely as the rolling stock. Line 3 is running specially configured 6-car trains instead of the original 8-car arrangement. Therefore, the original 12 trainsets running on [[wp>Tung_Chung_Line|Tung Chung Line]] (TCL) and 11 trainsets running on the [[wp>Airport_Express_(MTR)|Airport Express]] (AEL) need reforming to get the 23 desired trainsets.
 
+===== Reformation Types =====
 
 ^  Car Formation of CAF-Trains after reformation  |||||^
 |//<- To West Lake & Mita-Shiro//|||  //To Llanmara & Airport ->//|||
@@ -48,3 +49,5 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 |  AEL J4xx  |  No Change  |  F3xx (odd)  |
 |  TCL W7xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL\\ Y7xx  |  Rotate 180°\\ Install driver's cabin  |  V3xx (even)  |
+
+===== Timeline =====
