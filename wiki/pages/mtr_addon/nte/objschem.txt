@@ -1,11 +1,15 @@
 <markdown>
-# OBJ model related adaptation
+
+
+
+
+# OBJ Importation Guide
 
 NTE makes adding trains based on OBJ models through resource packs come true.
 
 # # Basic Format
 
-When importing the OBJ train model via NTE, it is written in the mtr_custom_resources.json file and has no difference with using BBMODEL files.
+When importing the OBJ train model via NTE, the writing in ```mtr_custom_resources.json``` has no different in using BBMODEL train model.
 
 ```json
 { 
@@ -22,57 +26,57 @@ When importing the OBJ train model via NTE, it is written in the mtr_custom_reso
 ```
 
 - `model`: Fill in the location of the OBJ file. Remember to use `mtrsteamloco:......` instead of `D:/......`. 
-- `model_properties`: Fill in the resource location of the model property file. 
-- `texture_id`: Replace the resource position of the map.
+- `model_properties`: Fill in the location of the model property file. 
+- `texture_id`: Fill in the location of the texture file.
 
-The OBJ file you use should meet the following requirements: the positive direction of the X axis is to the right, the positive direction of the Y axis is to the top, and the forward direction of Z axis is backward. Each unit is 1 meter in length
-
-</markdown>
-<WRAP center round tip 60%>
-
-Tip: All file names need to be all lowercase. File names can only be a-z, 0-9, `-`, `_`.
-
-</WRAP>
-
-<markdown>
-## Sample File
-
-A sample resource bundle can be downloaded [here](https://www.zbx1425.cn/nautilus/mtr-nte/assets/mtrnte-example.zip).
-
-## Components
-
-There can be ** group ** information in OBJ files. For example,the train door and body are in different groups, so that the door can move independently of the body when opening the door by selecting the part to move. OBJ files can be opened by using any text editing software such as Notepad, Notepad3, VSCode, etc. The `mtllib` command sets the MTL file used by this OBJ file, the `g` command sets the grouping, and the `usemtl` command sets correspondence between each face and material. Most modeling software can choose to export grouping information together when exporting OBJ.
-
-Groups in the OBJ model will be automatically parsed and can then be used in the model properties file. This is the same as the use of components in BBMODEL.
-</markdown>
-
-<WRAP center round tip 60%>
-
-Tip: Only OBJ grouping (`g`) instructions are supported, not object (`o`) instructions. If the model exported by your modeling software has a line beginning with "o " (with a space after o), please replace it with "g " (with a space after g).
-
-</WRAP>
+The OBJ file you use should meet the following requirements: the positive direction of the X axis is to the right, the positive direction of the Y axis is to the top, and the forward direction of Z axis is to the back. Each unit's length is 1m.
 
 
-<markdown>
+Tip: All file names need to be all lowercase. File names can only include a-z, 0-9, `-`, `_`.
+
+
+# # Sample File
+
+A sample resource pack can be downloaded [here](https://www.zbx1425.cn/nautilus/mtr-nte/assets/mtrnte-example.zip).
+
+# # Components
+
+There's ** group(part) ** information in OBJ files. For example,if the train door and body are in different groups(parts), the door can move independently of the body by selecting the part to move. OBJ files can be opened by using any text editing software (such as Notepad, Notepad3, VSCode, etc). The `mtllib` command sets the MTL file used by this OBJ file, the `g` command sets the grouping, and the `usemtl` command sets correspondence between each  and material. Most modeling software can choose to export grouping information together when exporting OBJ.
+
+Groups in the OBJ model will be automatically parsed and can then be used in the model properties file. This is the same as the use of groups in BBMODEL.
+
+Tip: Only OBJ grouping (`g`) instructions are supported, object (`o`) instructions are not supported. If the model exported by your modeling software has a line beginning with "o " (with a space after o), please replace it with "g " (with a space after g).
+
+
+
+
+
 # # Model Properties
 
-MTR has a ** model attribute ** JSON file, in which you can specify which parts are to be moved when the door is opened, which parts are only displayed in some number of cars, and which parts are only displayed when the door is opened, so as to realize the functions like door opening/closing animation, door lights, head and tail cars displaying head parts, middle cars not displaying head parts, and so on.
+MTR has a ** model properties ** JSON file, in which you can specify which parts are to be moved when the door is opened, which parts are only displayed in some number of cars, and which parts are only displayed when the door is opened, so as to realize the functions like door opening/closing animation, door lights, head and tail cars displaying head parts, middle cars not displaying head parts, and so on.
 
-You can edit the model properties file using the ** Resource Bundle Creator ** in MTR mod. In the options of the resource bundle creator, click "Upload" on the right side of "Blockbench File", and then drag in the OBJ file you want to use. If you want to further edit an existing property file, select the property file, otherwise leave it blank.
+You can edit the model properties file using the ** Resource Pack Creator ** in MTR mod. In the options of the resource bundle creator, click "Upload" on the right side of "Blockbench File", and then drag in the OBJ file you want to use. If you want to further edit an existing property file, select the property file, otherwise leave it blank.
 
-You can see the OBJ model you uploaded and the parts it contains. You can select any part to create animated doors, and so on. You may find that your OBJ model is white without any maps. This is normal. NTE does not load maps in the Resource Bundle Creator.
+You can see the OBJ model you uploaded and the parts it contains. You can select any part to create animated doors, and so on. You may find that your OBJ model is white without any maps. This is normal. NTE does not load texture in the Resource Pac Creator.
 
 ** Please merge the parts in advance, such as merging all the immovable parts into one. The more parts, the worse the performance. **
 
 After editing, please select any image as the texture file in the options, and then click "Export Resource Package". You can find the model properties file in the exported archive. It is a JSON file at the same level as a BBMODEL file in an internal folder.
 
-</markdown>
-<WRAP center round tip 60%>
-
 Tip: The resource bundle exported here can only be used to obtain the model properties file. It is incomplete and cannot be used in Minecraft.
 
+</markdown>
+
+<WRAP center round important 60%>
+
+The following texts are translated by google. Wait to be optimized.
+
 </WRAP>
+
 <markdown>
+
+
+
 
 # # Maps
 
@@ -89,12 +93,20 @@ Unlike BBMODEL, which can only use one map, the MTL file itself has the ability 
 This feature allows you to avoid MTL files.
 
 </markdown>
-<WRAP center round important 60%>
 
-The following texts are translated by google. Wait to be optimized.
-
-</WRAP>
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
 - If there ** is ** an "mtllib" instruction in the OBJ model, the mapping will be set according to the "map _ Kd" of the corresponding material in the MTL (it is usually set accordingly when MTL is exported using modeling software). If there is a material of'mat1 'in OBJ and'mat1' has a map _ Kd of 1995default.png 'in MTL, the'1995 default. PNG' will be used as a map. At the same time, the'Kd 'and'd' settings in MTL will also be used.
 
 -You may notice that the map files in OBJ/MTL are all written to death, making it inconvenient to change the paint. For this purpose, NTE specifies that if a map with the file name of default. PNG is used in the above way, it will be replaced with the setting value of texture _ ID in MTR _ custom _ resources. JSON so as to change the paint.
