@@ -1,34 +1,35 @@
-欢迎！
+欢迎来到Minecraft Transit Railway Wiki站！
 
 ===== Minecraft Transit Railway =====
 
-* [[zh:mtr:start|Minecraft Transit Railway 模组]] 本体相关文章
-
+* [[zh:mtr:start|Minecraft Transit Railway 模组]] - 本体相关文章
 
 ===== 更多资源 =====
 
-* 用于 MTR 模组的 [[zh:mtr_extra:start|社区人士制作的资源包]]
+* [[zh:mtr_extra:start|资源包]] - 用于MTR的资源包介绍
 
-* [[zh:mtr_extra:caution|资源包介绍]]
+* [[mtr_extra:making_a_resourcepack|制作资源包]] - 如何制作资源包
+ 
+  * [[mtr_extra:resourcepack:make:texture|更改列车贴图]] - 如何更改已有列车的贴图
 
-* [[zh:mtr_extra:resourcepack]]
+  * [[mtr_extra:resourcepack:make:model|列车建模]] - 如何加入你自己的列车
 
-* [[zh:mtr_extra:resourcepack:make|制作资源包]]
+  * [[mtr_extra:resourcepack:make:others|其他]] - 如何在你的资源包中加入声音、标志等
 
-* [[zh:mtr_addon:lu:start|伦敦地铁扩展]]
+* [[mtr_extra:resourcepack:faq|常见问题]] - 一些关于资源包的问题
 
-* [[zh:mtr_addon:start|其他扩展模组]]
+* [[mtr_addon:start|使用MTR相关模组]] - MTR相关模组概述
 
-[[https://www.zbx1425.cn/nautilus/mtr-nte/|NTE Wiki]]
 
-:
 ===== 多人游戏服务器 =====
 
 * [[zh:mtr_letsplay:start|Let's Play 服务器]] - MTR 模组的官方服务器
 
+* [[mtr_community:start|MTR社区]] - 其他的拥有服务器，以及更多的MTR社区
 
 ===== 在 Wiki 上写文章 =====
 
 Wiki 共笔网站就是要汇聚众多人的见解。注册账号之后，您即可编辑补充本站内容，或增添新内容，以更好地将 MTR 介绍给更多人。
 
-* 请先读 [[edit_guideline|编辑指南]]。
+  * 确保你阅读了 [[wiki_guidelines|维基指南]] 和 [[edit_guideline|编辑指南]].
+
