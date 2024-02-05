@@ -10,7 +10,7 @@
 | **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow,\\ Mesa to Northern Snow Village)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
-| **Termini** | [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
+| **Termini** | [[/mesa_station|Mesa]]\\ [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line (WIP)</color> |
 | ::: | @#7BACF6:<color black>Shinx Line</color> |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
@@ -27,7 +27,7 @@
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened** | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill,//\\ //except Hung Ngai Tung)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow, except Chung Kwo Kok)//\\ 11 February, 2023 \\ //(Hung Ngai Tung)//\\ 24 April, 2023 \\ //(Mesa)//\\ 31 December, 2023\\ //(Chung Kwo Kok)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
+| **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
 ^  Technical  |^
 | **Line Length** | 5.8 km //(Phase 1)//\\ 4.1 km //(N. Section Temp Shuttle)// |
 | **Number of**\\ **Tracks** | Double Track |
@@ -40,7 +40,7 @@
 
 </WRAP>
 
-**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), originally known as **WLT Line 1 Phase 1**, is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] starting from Let's Play Season 1 Finale. And **Line 1 (Meyan Line) N. Section Shuttle** (Chinese: //一號 (美岩) 綫󠄁北段特別穿梭//) is providing one-way southbound passengers service from [[/mesa_station|Mesa]] station to Northern Snow Village station. 
+**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), is a rapid transit service operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]]. And **Line 1 (Meyan Line) N. Section Shuttle** (Chinese: //一號 (美岩) 綫󠄁北段特別穿梭//) is providing one-way southbound passengers service from [[/mesa_station|Mesa]] station to Northern Snow Village station. The name comes from being the first rapid transit line WLT has ever planned, with two future permanent termini Mesa station and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] station. 
 
 **Line 1 (Meyan Line) Phase 1** is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
 
@@ -74,7 +74,7 @@ As Denthrope Hauptbahnhof has been closed for renovation and has stopped all its
   * 7 August, 2022: Revised proposal published.
   * 8 August, 2022: Construction begins at Birch Hill Station.
   * 18 September, 2022: Preliminary construction complete; train testings start on the route between Northern Snow Village and Birch Hill.
-  * 25 September, 2022: Sections between Northern Snow Village - Birch Hill is open, while Hung Ngai Tung Station is not yet in use.
+  * 25 September, 2022: After the streaming of Let's Play Series Season 1 Finale, sections between Northern Snow Village - Birch Hill is generally open, while Hung Ngai Tung Station is not yet in use. 
   * 22 December, 2022: Sections between Birch Hill - Kwong Chow is open, while Chung Kwo Kok Station is not yet in use. Line renames from **WLT Line 1** to **WLT Line 1 Phase 1**.
   * 11 February, 2023: [[/hung_ngai_tung_station|Hung Ngai Tung]] station is open.
   * 24 April, 2023: [[/mesa_station|Mesa]] station, which would be the future northern terminus, is temporarily open for R2C purpose.
