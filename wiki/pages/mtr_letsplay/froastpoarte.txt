@@ -1,5 +1,5 @@
 ====== Froastpoarte Station ======
-**Froastpoarte** is a bi-level overground station with 4 platforms, serving Lilac Light Rail lines 633 and 633P, as well as Moszyan Railways' overground service system. It was rebuilt to look like **Lansingerland-Zoetermeer** station, but with the light and heavy rail platforms swapped. Prior to its reconstruction, it was a generic Lilac Light Rail station by the name of **Shuangmen Xuegui**.
+**Froastpoarte** is a bi-level overground station with 4 platforms, serving Lilac Light Rail lines 633 and 633P, as well as Moszyan Railways' overground service system. It was rebuilt to look like **Lansingerland-Zoetermeer** station, but with the light and heavy rail platforms swapped. Prior to its reconstruction, it was a generic Lilac Light Rail station by the name of **Shuangmen Xuegui** using the "Taipa & South Corridor" station design.
 
 <WRAP right>
 |  @#B0B0BE:  |
