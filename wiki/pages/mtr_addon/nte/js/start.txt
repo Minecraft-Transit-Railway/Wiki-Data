@@ -61,3 +61,6 @@ In addition, NTE pauses the script for 4 seconds and then tries to run it again.
     * Loads and runs another JS file relative to the current JS file.
   * <code javascript>static include(path: ResourceLocation): void</code>
     * Loads and runs the JS file by location in the resource pack. For example, ''include(Resources.id("mtr:path/absolute.js"))''.
+
+===== Source =====
+* https://www.zbx1425.cn/nautilus/mtr-nte/#/js-general
