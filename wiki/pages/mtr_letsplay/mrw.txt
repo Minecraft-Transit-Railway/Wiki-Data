@@ -19,23 +19,23 @@
 ===== Services =====
 
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#0063D3: **Sprinter**  |  Planned  |  [[mtr_letsplay:mrw:stations:hylkemare|Hylkemare]]  |  [[mtr_letsplay:mrw:stations:froastepoarte|Froastepoarte]]  |
+|  @#0063D3: **Sprinter**  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:froastepoarte|Froastepoarte]]  |
 
 ===== Lines =====
 
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  [[mtr_letsplay:mrw:mainline:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:mrw:stations:hylkemare|Hylkemare]]  |  [[mtr_letsplay:mrw:stations:froastepoarte|Froastepoarte]]  |
+|  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:froastepoarte|Froastepoarte]]  |
 
 ===== Fleet =====
 
 |  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
 |  LRC  |  S43-Tec LRV 2010  |    |    |
 |  GNUS  |  BVG Class H  |    |    |
-|  AM  |  S43 Aurora (Metro)  |    |    |
+|  AM  |  S43-Tec Aurora (Metro)  |    |    |
 |  AS  |  S43-Tec Aurora (Suburban)  |    |    |
 |  OHS  |  BR Class 508  |    |    |
 |  OLS  |  BR Class 378  |    |    |
-|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:mrw:mainline:fryskeline|Fryske Line]]  |  Hylkemare  |
+|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Hylkemare  |
 |  ICFR  |  Yuunitetsu 701  |    |  Hylkemare  |
 
 ===== Screenshots =====
