@@ -1,0 +1,141 @@
+====== Utilities ======
+NTE provides a number of helper classes to provide some information or to implement functions more simply.
+
+===== Output of test information =====
+  * <code javascript>
+static print(params: Object...): void
+</code>
+    * This function outputs a message to the Minecraft log (the message is not displayed in the game). Any number of arguments of any type can be passed to the function.
+
+===== Versions =====
+Functions are provided where you can get the version number to ensure compatibility with different versions of mods (if any).
+^ Functions ^ Description ^
+| ''static Resources.getMTRVersion(): String'' | Returns the version of the MTR, for example, ''1.19.2-3.1.1.0-hotfix-1''. |
+| ''static Resources.getNTEVersion(): String'' | Returns the version of the NTE, for example, ''0.4.0+1.19.2''. |
+| ''static Resources.getNTEVersionInt(): int'' | Returns the NTE version as a number for easy comparison. For example, 0.4.0 would be 4000, 1.9.1 would be 19100. |
+| ''static Resources.getNTEProtoVersion(): int'' | Returns the NTE protocol version. |
+
+===== TextUtil =====
+MTR uses the station naming format ''Name in CJK|Name in another language||EXTRA'', so NTE provides functions to separate these parts.
+
+[Translator's note: MTR distinguishes text in CJK languages from the rest to allow them to be displayed nicely. It is not necessary to use CJK languages, e.g. you can easily use the scheme ''Name in Russian|Name in English||EXTRA'' or even use more languages.
+
+For reference, CJK is Chinese, Japanese and Korean].
+
+^ Functions ^ Description ^
+| ''static TextUtil.getCjkParts(src: String): String'' | Returns the CJK parts of the passed string. |
+| ''static TextUtil.getNonCjkParts(src: String): String'' | Returns the non-CJK parts of the passed string. |
+| ''static TextUtil.getExtraParts(src: String): String'' | Returns the extra part of the passed string. |
+| ''static TextUtil.getNonExtraParts(src: String): String'' | Returns everything except the extra part. |
+| ''static TextUtil.getNonCjkAndExtraParts(src: String): String'' | Returns everything except the CJK parts. |
+| ''static TextUtil.isCjk(src: String): String'' | Checks if the string contains CJK characters. [Translator's note: this function is supposed to return a Boolean value]. |
+
+===== Timing =====
+  * <code javascript>
+static Timing.elapsed(): double
+</code>
+    * Returns the running time of the game in seconds. It is constantly increasing. It does not increase during pause.
+  * <code javascript>
+static Timing.delta(): double
+</code>
+    * The time difference between the current ''render'' call and the previous one. This can be used, for example, to calculate the angle by which the wheel have turned during the elapsed time.
+
+===== StateTracker =====
+Sometimes it is necessary to take transition states into account. For example, to play an animation only once when a certain condition is reached (because ''if (...distance < 300) ctx.play...'' would be satisfied every frame after the condition was met, and then play every frame after that, which would result in hundreds of animations), or to play an animation in the first second after a page switch.
+
+Since each train must have its own tracker, you would probably want to store it in the train's ''state''. 
+
+  * <code javascript>
+new StateTracker()
+</code>
+    * Creates StateTracker.
+  * <code javascript>
+StateTracker.setState(value: String): void
+</code>
+    * Sets the new state.
+  * <code javascript>
+StateTracker.stateNow(): String
+</code>
+    * Returns the current state.
+  * <code javascript>
+StateTracker.stateLast(): String
+</code>
+    * Returns the previous state. If it does not exist, ''null'' is returned.
+  * <code javascript>
+StateTracker.stateNowDuration(): double
+</code>
+    * Returns the amount of time the current state lasts.
+  * <code javascript>
+StateTracker.stateNowFirst(): boolean
+</code>
+    * Was the state just changed by the ''setState'' function in this loop or not?
+
+===== CycleTracker =====
+This is a ''StateTracker'' that automatically switches on a cyclic basis by time.
+
+Since each train must have its own tracker, you would probably want to store it in the train's ''state''. 
+
+  * <code javascript>
+new CycleTracker(params: Object[])
+</code>
+    * Creates a CycleTracker. The parameters are the states it will switch through and the duration of each state in seconds. Example: ''new CycleTracker(["route", 5, "nextStation", 5])''.
+  * <code javascript>
+CycleTracker.tick(): void
+</code>
+    * Updates the status based on the current time.
+  * <code javascript>
+CycleTracker.stateNow(): String
+</code>
+    * Returns the current state.
+  * <code javascript>
+CycleTracker.stateLast(): String
+</code>
+    * Returns the previous state. If it does not exist, ''null'' is returned.
+  * <code javascript>
+CycleTracker.stateNowDuration(): double
+</code>
+    * Returns the amount of time the current state lasts.
+  * <code javascript>
+CycleTracker.stateNowFirst(): boolean
+</code>
+    * Was the ''tick'' function called in this loop or not?
+
+===== RateLimit =====
+Some tasks do not require too frequent execution, for example, the display may not be updated every frame, but only 10 times per second. Therefore, you can limit the frequency of their execution to improve performance.
+
+Since each train must have its own data, you would probably want to store it in the train's ''state''. 
+
+  * <code javascript>
+new RateLimit(interval: double)
+</code>
+    * Creates a RateLimit. ''interval'' is the interval in seconds between two triggers, for example, an interval of 0.1 means it should occur ten times per second.
+  * <code javascript>
+RateLimit.shouldUpdate(): boolean
+</code>
+    * Has enough time elapsed between the last triggers? Wrap the necessary code using ''if (state.rateLimitXXX.shouldUpdate()) { ... }'' to limit its execution frequency.
+  * <code javascript>
+RateLimit.resetCoolDown(): void
+</code>
+    * Resets the timer to go off as soon as possible.
+
+===== MTRClientData =====
+Client data from MTR that can be used to read routes, transfers, etc. See the source code of [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/client/ClientData.java|ClientData.java]] from MTR.
+
+===== MinecraftClient =====
+Due to obfuscation, there is no way to directly provide a client class for use. Therefore, several helper methods are created:
+
+  * <code javascript>
+static MinecraftClient.worldIsRaining(): boolean
+</code>
+    * Is it raining in the world?
+  * <code javascript>
+static MinecraftClient.worldIsRainingAt(pos: Vector3f): boolean
+</code>
+    * Is it raining and getting wet in a given chunk?
+  * <code javascript>
+static MinecraftClient.worldDayTime(): int
+</code>
+    * Returns the in-game world time in ticks.
+
+===== Source =====
+* https://www.zbx1425.cn/nautilus/mtr-nte/#/js-util
