@@ -8,6 +8,8 @@
 |  {{mtr_letsplay:hylkemareplatforms.png?400}}  ||
 |  @#B0B0BE:**Zone**  |  @#B0B0BE:**Station Code**  |
 |  Hylkemare  |  HYM((the code HYL is seen by most as the code for Higashi-Yunlong station, hence the slight discrepancy))  |
+|  @#B0B0BE:**Opening Date**  ||
+|  January 29th, 2024  ||
 |  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
 |  Moszyan Transport  |  Moszyan Railways\\ Lilac Right Rail((no active services as of now))  |
 |  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
