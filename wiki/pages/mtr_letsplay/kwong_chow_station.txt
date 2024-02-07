@@ -10,7 +10,7 @@
 ^   **Overview**   ^^
 | **Operator** | [[/west_lake_transport_authority|West Lake Transport Authority]] |
 | **Lines** | [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
-| ::: | [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line]] |
+| ::: | [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] |
 | **Owner** | [[mtr_community:staff:bdark000|BDark000]] |
 | **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | **Platforms** | 4 |
