@@ -7,7 +7,7 @@ The following code implements loading the OBJ model, selecting groups to display
 
 The following models are used: groups ''body'', ''head'', ''end'', ''headlight'', ''taillight'', where ''head'', ''headlight'', ''taillight'' are in the Z- direction and ''end'' is in the Z+ direction; and groups ''doorXNZN'', ''doorXNZP'', ''doorXPZN'', ''doorXPZP'', ''doorlightXN'', ''doorlightXP'' for doors and their indicators.
 
-<code js>
+<code javascript>
 // Load groups from train.obj as Map of RawModel
 var rawModels = ModelManager.loadPartedRawModel(Resources.manager(), Resources.idRelative("train.obj"), null);
 // To upload all the RawModels, I wrote an uploadPartedModels to upload each parted model in the Map one by one.
