@@ -1,8 +1,10 @@
 ====== Train Rendering Example ======
 ===== Based on the existing MTR model =====
-You can simply take the appearance of an existing model and add additional rendering logic using JS.
+You can simply take the appearance of an existing model and add additional rendering logic using JS. It's probably easier to do it that way.
 
 ===== Complete rendering control with JS =====
+It's also possible to use ''base_type'' and not use MTR's built-in model drawing process at all, instead using JS to control it all.
+
 The following code implements loading the OBJ model, selecting groups to display as needed to achieve an effect similar to the original MTR train. Feel free to copy it and modify it.
 
 The following models are used: groups ''body'', ''head'', ''end'', ''headlight'', ''taillight'', where ''head'', ''headlight'', ''taillight'' are in the Z- direction and ''end'' is in the Z+ direction; and groups ''doorXNZN'', ''doorXNZP'', ''doorXPZN'', ''doorXPZP'', ''doorlightXN'', ''doorlightXP'' for doors and their indicators.
