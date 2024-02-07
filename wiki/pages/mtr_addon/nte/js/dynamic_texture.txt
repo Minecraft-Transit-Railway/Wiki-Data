@@ -1,0 +1,92 @@
+====== Dynamic Textures ======
+
+NTE provides a GraphicsTexture class to use JS-controlled textures with dynamic content on models for LCD displays, blinking indicators, scrolling text LED, and so on.
+
+===== GraphicsTexture =====
+
+  * <code javascript>
+new GraphicsTexture(width: int, height: int)
+</code>
+    * To create a dynamic texture, you need to specify the width and height. Since different trains may have displays with different contents, in such cases textures should be created in the ''create'' function and placed in ''state''.
+  * <code javascript>
+GraphicsTexture.close(): void
+</code>
+    * Releases the memory used by this texture. It cannot be used after that. If it was created in the ''create'' train function, it must be deleted in the ''dispose'' function, otherwise it will continue to occupy memory, thus creating a memory leak.
+  * <code javascript>
+GraphicsTexture.bufferedImage: BufferedImage
+</code>
+    * Java AWT's BufferedImage for use as a temporary canvas.
+  * <code javascript>
+GraphicsTexture.graphics: Graphics2D
+</code>
+    * This is the Java AWT's Graphics for this texture. You can call different functions to draw on the bufferedImage.
+  * <code javascript>
+GraphicsTexture.upload(): void
+</code>
+    * Loads the contents of bufferedImage into video memory and immediately displays it on the model. This operation can significantly reduce FPS. It is recommended to use it in combination with ''RateLimit'' to reduce the frequency of texture updates. For example, the screen can be updated only 10 times per second, and it may not be updated at far distances, in some cases the information may not be updated at all.
+  * <code javascript>
+GraphicsTexture.identifier: ResourceLocation
+</code>
+    * The location of the virtual resource of this dynamic texture. Use it to replace the model texture.
+
+===== Example =====
+
+<code javascript>
+importPackage(java.awt);
+importPackage(java.awt.geom);
+
+var rawTrainModel = ModelManager.loadRawModel(Resources.manager(), Resources.idr("train.obj"), null);
+var baseTrainModel = ModelManager.uploadVertArrays(rawTrainModel);
+
+function create(ctx, state, train) {
+    state.pisTexture = new GraphicsTexture(1024, 256);
+    state.trainModel = baseTrainModel.copyForMaterialChanges();
+      state.trainModel.replaceTexture("pis_placeholder.png", state.pisTexture.identifier);
+    state.pisRateLimit = new RateLimit(0.1);
+}
+
+function dispose(ctx, state, train) {
+    state.pisTexture.close();
+}
+
+var serifFont = Resources.getSystemFont("Noto Serif");
+
+function render(ctx, state, train) {
+    if (state.pisRateLimit.shouldUpdate()) {
+         let g = state.pisTexture.graphics;
+        g.setColor(Color.WHITE);
+        g.clearRect(0, 0, 1024, 256);
+        g.setFont(serifFont.deriveFont(Font.BOLD, 32));
+        g.setColor(Color.BLACK);
+        g.drawString("Hello World!", 10, 40);
+        state.pisTexture.upload();
+    }
+    for (i = 0; i < train.trainCars(); i++) {
+        ctx.drawCarModel(state.trainModel, i, null);
+    }
+}
+</code>
+
+===== AWT-related classes =====
+
+You can use the importPackage function from Rhino to satisfy the java.awt dependency when using AWT classes.
+
+You can find some AWT tutorials on the Internet or look at the JavaDoc to see what drawing capabilities are available in Graphics2D:
+
+  * JavaDoc: [[https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics.html|Graphics]] (is a parent class for Graphics2D, which means everything in it can be used in GraphicsTexture.graphics as well)
+  * JavaDoc: [[https://docs.oracle.com/javase/8/docs/api/java/awt/Graphics2D.html|Graphics2D]]
+
+The following functions can be used:
+
+  * ''static Color.decode'', ''Color.WHITE...'', ''new Color''
+  * ''Graphics.setColor'', ''Graphics.setFont'', ''Graphics.setStroke(new BasicStroke(...))''
+  * ''Graphics.drawRect'', ''Graphics.fillRect'', ''Graphics.drawRoundRect'', ''Graphics.fillRoundRect''
+  * ''Graphics.drawImage'', ''Graphics.drawString'', ''Font.deriveFont''
+  * ''Graphics.setPaint(new GradientPaint(...))'', ''Graphics.fill(new Rectangle(...))''
+  * ''Graphics.getTransform'', ''Graphics.transform'', ''Graphics.setTransform'', ''AffineTransform.getTranslateInstance'', ''AffineTransform.getRotateInstance''
+  * ''Graphics.setClip''
+  * ''Graphics.getComposite'', ''Graphics.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_OVER, ...))'', ''Graphics.setComposite''
+
+===== Source =====
+  * https://www.zbx1425.cn/nautilus/mtr-nte/#/js-dynamic-texture
+
