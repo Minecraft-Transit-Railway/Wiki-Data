@@ -1,0 +1,23 @@
+====== Hylkemare Station ======
+**Hylkemare** is a overground railway terminal with 9 platforms, serving Moszyan Railways' overground service system. It was built to look like the dutch **Leeuwarden** station, but with two extra terminus platforms. The station will eventually also serve the Lilac Light Rail, via two external stops called **Hylkemare Plazaside** and **Hylkemare Bayside**, in a similar way to how the U-OV Sneltram has stops on two sides of **Utrecht Centraal**.
+
+<WRAP right>
+|  @#B0B0BE:  ||
+|  **Hylkemare**  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:hylkemareplatforms.png?400}}  ||
+|  @#B0B0BE:**Zone**  |  @#B0B0BE:**Station Code**  |
+|  Hylkemare  |  HYM((the code HYL is seen by most as the code for Higashi-Yunlong station, hence the slight discrepancy))  |
+|  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
+|  Moszyan Transport  |  Moszyan Railways\\ Lilac Right Rail((no active services as of now))  |
+|  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
+|  9  |  10  |
+
+</WRAP>
+
+===== Layout =====
+The main station has 9 platforms, 2 facing west and the remaining 7 facing east. As of right now, only //Sprinter// services are permitted to head west from the station, as the single track to **Hylkemare Wieringawijk** prevents the section from seeing more than just //sprinters//. Out of the 5 eastbound terminus platforms, it is planned to have at least two be used for //Intercity// services, but for the time being, visitors will see Moszyan Railways' //Intercity Frontrunner// and //Regional Modern Stock// simply occupying the platforms with no scheduled departure.
+
+To the east of the main entry is the **Hylkemare Plazaside** light rail stop, which will be essential to all eastbound Lilac Light Rail services.
+
+To the northwest of the station will be **Hylkemare Bayside**, planned to be an important connection for north-south services that cannot stop at **Hylkemare Plazaside**.
