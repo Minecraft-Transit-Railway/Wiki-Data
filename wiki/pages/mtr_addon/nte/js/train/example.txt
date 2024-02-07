@@ -1,0 +1,110 @@
+====== Train Rendering Example ======
+===== Based on the existing MTR model =====
+You can simply take the appearance of an existing model and add additional rendering logic using JS.
+
+===== Complete rendering control with JS =====
+The following code implements loading the OBJ model, selecting groups to display as needed to achieve an effect similar to the original MTR train. Feel free to copy it and modify it.
+
+The following models are used: groups ''body'', ''head'', ''end'', ''headlight'', ''taillight'', where ''head'', ''headlight'', ''taillight'' are in the Z- direction and ''end'' is in the Z+ direction; and groups ''doorXNZN'', ''doorXNZP'', ''doorXPZN'', ''doorXPZP'', ''doorlightXN'', ''doorlightXP'' for doors and their indicators.
+
+<code js>
+// Load groups from train.obj as Map of RawModel
+var rawModels = ModelManager.loadPartedRawModel(Resources.manager(), Resources.idRelative("train.obj"), null);
+// To upload all the RawModels, I wrote an uploadPartedModels to upload each parted model in the Map one by one.
+var models = uploadPartedModels(rawModels);
+// Use this texture for gangways
+var idTexConnector = Resources.idRelative("connector.png");
+
+// We don't need logic in create and dispose, so we don't need to use them.
+
+function render(ctx, state, train) {
+  let matrices = new Matrices();
+  
+  // Process each car in turn
+  for (i = 0; i < train.trainCars(); i++) {
+    // Draw the front and rear ends of the car as desired, as well as headlights or taillights
+    matrices.pushPose();
+    if (train.trainCars() == 1) { // There's only one car in total, showing a double-ended wagon.
+      matrices.rotateY(Math.PI);
+      ctx.drawCarModel(models["head"], i, matrices);
+      ctx.drawCarModel(train.isReversed() ? models["taillight"] : models["headlight"], i, matrices);
+      matrices.popPushPose();
+      ctx.drawCarModel(models["head"], i, matrices);
+      ctx.drawCarModel(train.isReversed() ? models["headlight"] : models["taillight"], i, matrices);
+    } else if (i == 0) { // This is the first car whose head should be in the Z+ direction and whose end should be in the Z- direction, so flip it 180°
+      matrices.rotateY(Math.PI);
+      ctx.drawCarModel(models["head"], i, matrices);
+      ctx.drawCarModel(train.isReversed() ? models["headlight"] : models["taillight"], i, matrices);
+      ctx.drawCarModel(models["end"], i, matrices);
+      matrices.popPushPose();
+    } else if (i == train.trainCars() - 1) { // This is the last car, with the head in the Z- direction and the end in the Z+ direction, so we don't flip it
+      ctx.drawCarModel(models["head"], i, matrices);
+      ctx.drawCarModel(train.isReversed() ? models["taillight"] : models["headlight"], i, matrices);
+      ctx.drawCarModel(models["end"], i, matrices);
+    } else { // Intermediate car, draw two ends
+      matrices.rotateY(Math.PI);
+      ctx.drawCarModel(models["end"], i, matrices);
+      matrices.popPushPose();
+      ctx.drawCarModel(models["end"], i, matrices);
+    }
+    matrices.popPose();
+    
+    // Drawing the body
+    ctx.drawCarModel(models["body"], i, null);
+      
+    // Drawing door indicators
+    if (train.doorLeftOpen[i] && train.doorValue() > 0) {
+        ctx.drawCarModel(models["doorlightXP"], i, null);
+    }
+    if (train.doorRightOpen[i] && train.doorValue() > 0) {
+        ctx.drawCarModel(models["doorlightXN"], i, null);
+    }
+    
+    // Drawing doors
+    let doorX = smoothEnds(0, 0.81, 0, 0.5, train.doorValue());
+    let doorXP = train.doorLeftOpen[i] ? doorX * 0.81 : 0;
+    let doorXN = train.doorRightOpen[i] ? doorX * 0.81 : 0;
+    matrices.pushPose();
+    matrices.translate(0, 0, -doorXN);
+    ctx.drawCarModel(models["doorXNZN"], i, matrices);
+    matrices.popPushPose();
+    matrices.translate(0, 0, doorXN);
+    ctx.drawCarModel(models["doorXNZP"], i, matrices);
+    matrices.popPushPose();
+    matrices.translate(0, 0, -doorXP);
+    ctx.drawCarModel(models["doorXPZN"], i, matrices);
+    matrices.popPushPose();
+    matrices.translate(0, 0, doorXP);
+    ctx.drawCarModel(models["doorXPZP"], i, matrices);
+    matrices.popPose();
+  }
+  
+  // Drawing gangways
+  for (i = 0; i < train.trainCars() - 1; i++) {
+    ctx.drawConnStretchTexture(idTexConnector, i);
+  }
+}
+
+// Uoload each RawModel from the Map obtained from loadRawModels
+function uploadPartedModels(rawModels) {
+  let result = {};
+  for (it = rawModels.entrySet().iterator(); it.hasNext(); ) {
+    entry = it.next();
+    entry.getValue().applyUVMirror(false, true);
+    result[entry.getKey()] = ModelManager.uploadVertArrays(entry.getValue());
+  }
+  return result;
+}
+
+// Door animation copied from MTR
+function smoothEnds(startValue, endValue, startTime, endTime, time) {
+    if (time < startTime) return startValue;
+    if (time > endTime) return endValue;
+    let timeChange = endTime - startTime;
+    let valueChange = endValue - startValue;
+    return valueChange * (1 - Math.cos(Math.PI * (time - startTime) / timeChange)) / 2 + startValue;
+}
+
+// The end!
+
+</code>
