@@ -1,0 +1,24 @@
+====== Hylkemare Wieringawijk Station ======
+**Hylkemare Wieringawijk** is a small overground station with a single track and platform, serving Moszyan Railways' overground service system. Those who are familiar with dutch stations, especially the ones Szandor talks about a lot might recognise a very familiar layout...
+<WRAP right>
+|  @#B0B0BE:  ||
+|  **Hylkemare Wieringawijk**  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:hylkemarewieringawijk.png?400}}  ||
+|  @#B0B0BE:**District**  |  @#B0B0BE:**Station Code**  |
+|  Hylkemare  |  HYW  |
+|  @#B0B0BE:**Opening Date**  ||
+|  February 4th, 2024  ||
+|  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
+|  Moszyan Transport  |  Moszyan Railways  |
+|  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
+|  1  |  1  |
+</WRAP>
+
+===== Layout =====
+The station has a single platform, facing west-east and serving the [[mtr_letsplay:fryskeline|Fryske Line]]. Trains are planned to be relatively frequent on this station as the next stations on both sides have two tracks again, making this the only station on the line to have services in both directions depart from the same platform.
+
+===== Trivia =====
+  * Despite the line only making use of 2 or 4 car RMS units, the platform is long enough for 5 cars.
+  * The station and its adjacent level crossing are a reference to **Boskoop Snijdelwijk**, known for being the station with the lowest usage in South Holland, despite the high frequency of trains.
+  * The length of the station name is a reference to **Leeuwarden Camminghaburen**, with the adjacent **Hylkemare** station itself being entirely based on **Leeuwarden**. **Leeuwarden Cammingaburen** is the longest station name in the Netherlands, only beating **Den Haag Laan van Nieuw Oost-Indië** because of the last three words often being shortened to just **NOI**.
