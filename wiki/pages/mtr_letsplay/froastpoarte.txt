@@ -2,8 +2,26 @@
 **Froastpoarte** is a bi-level overground station with 4 platforms, serving Lilac Light Rail lines 633 and 633P, as well as Moszyan Railways' overground service system. It was rebuilt to look like **Lansingerland-Zoetermeer** station, but with the light and heavy rail platforms swapped. Prior to its reconstruction, it was a generic Lilac Light Rail station by the name of **Shuangmen Xuegui** using the "Taipa & South Corridor" station design.
 
 <WRAP right>
-|  @#B0B0BE:  |
-|  **Froastpoarte**\\ 霜門雪桂  |
-|  @#B0B0BE:  |
-|  {{mtr_letsplay:froastepoarte.png?400}}  |
+|  @#B0B0BE:  ||
+|  **Froastpoarte**\\ 霜門雪桂  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:froastepoarte.png?400}}  ||
+|  @#B0B0BE:**District**  |  @#B0B0BE:**Station Code**  |
+|  Taipa  |  FRP  |
+|  @#B0B0BE:**Opening Date**  |  @#B0B0BE:**Reopening Date**  |
+|  May 4th, 2023  |  January 4th, 2024  |
+|  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
+|  Moszyan Transport  |  Moszyan Railways\\ Lilac Right Rail  |
+|  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
+|  4  |  4  |
 </WRAP>
+
+===== Layout =====
+The station has 4 platforms, two north-south through tracks for the Lilac Light Rail on the lower level, and two eastbound terminus platforms for Moszyan Railways on the upper level. Unlike the rest of the [[mtr_letsplay:fryskeline|Fryske Line]], these upper platforms have grass for a ballast, referencing the real life station's upper platforms originally being light rail platforms.
+
+The relatively short length of the platforms also makes it impossible for longer //Intercity// trains to access the station, limiting service to mostly //Sprinter// trains.
+
+===== Trivia =====
+  * Despite the rename to **Froastpoarte**, the original Chinese name **Shuangmen Xuegui** remains the CJK notation for the station.
+  * The name **Shuangmen Xuegui** is a pun on having the same pronunciation as the term for a double-door refridgerator, and the name **Froastpoarte** was chosen to retain at least the spirit of the pun, translating the first two characters to Frisian.
+  * This station was the first station on the server to have both Dutch //and// Japanese stop markers installed on the platforms.
