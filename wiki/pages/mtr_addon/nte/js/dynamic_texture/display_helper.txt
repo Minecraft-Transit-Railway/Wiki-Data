@@ -1,0 +1,134 @@
+====== Display Helper ======
+If you need to add a display to an existing train, the DisplayHelper class makes it easy to set up the appropriate model and dynamic textures.
+
+===== Example =====
+An explanation of the code is provided in the sections below.
+<code javascript>
+include(Resources.id("mtrsteamloco:scripts/display_helper.js"));
+
+let slotCfg = {
+  "version": 1,
+  "texSize": [2048, 1024],
+  "slots": [
+    {
+      "name": "lcd_door_left",
+      "texArea": [0, 0, 2048, 274],
+      "pos": [
+        [[-0.59, 2.125, -1.75], [-0.755, 2.03, -1.75], [-0.755, 2.03, -3.25], [-0.59, 2.125, -3.25]]
+      ],
+      "offsets": [[0, 0, -5], [0, 0, 0], [0, 0, 5], [0, 0, 10]]
+    },
+    {
+      "name": "lcd_door_right",
+      "texArea": [0, 512, 2048, 274],
+      "pos": [
+        [[0.59, 2.125, -3.25], [0.755, 2.03, -3.25], [0.755, 2.03, -1.75], [0.59, 2.125, -1.75]]
+      ],
+      "offsets": [[0, 0, -5], [0, 0, 0], [0, 0, 5], [0, 0, 10]]
+    }
+  ]
+};
+var dhBase = new DisplayHelper(slotCfg);
+
+function create(ctx, state, train) {
+  state.pisRateLimit = new RateLimit(0.05);
+  state.dh = dhBase.create();
+}
+
+function dispose(ctx, state, train) {
+  state.dh.close();
+}
+
+function render(ctx, state, train) {
+  if (state.pisRateLimit.shouldUpdate()) {
+    let g;
+    
+    g = state.dh.graphicsFor("lcd_door_left");
+    g.setColor(Color.RED);
+    g.fillRect(0, 0, 2048, 274);
+    // ...
+      
+    g = state.dh.graphicsFor("lcd_door_right");
+    g.setColor(Color.BLUE);
+    g.fillRect(0, 0, 2048, 274);
+    // ...
+    
+    state.dh.upload();
+  }
+  
+  for (let i = 0; i < train.trainCars(); i++) {
+    ctx.drawCarModel(state.dh.model, i, null);
+  }
+}
+</code>
+===== Setting the display position =====
+<code json>
+{
+  "version": 1,
+  "texSize": [2048, 1024],
+  "slots": [
+    {
+      "name": "lcd_door_left",
+      "texArea": [0, 0, 2048, 274],
+      "pos": [
+        [[-0.59, 2.125, -1.75], [-0.755, 2.03, -1.75], [-0.755, 2.03, -3.25], [-0.59, 2.125, -3.25]]
+      ],
+      "offsets": [[0, 0, -5], [0, 0, 0], [0, 0, 5], [0, 0, 10]]
+    },
+    {
+      "name": "lcd_door_right",
+      "texArea": [0, 512, 2048, 274],
+      "pos": [
+        [[0.59, 2.125, -3.25], [0.755, 2.03, -3.25], [0.755, 2.03, -1.75], [0.59, 2.125, -1.75]]
+      ],
+      "offsets": [[0, 0, -5], [0, 0, 0], [0, 0, 5], [0, 0, 10]]
+    }
+  ]
+}
+</code>
+
+In this configuration there are two screen slots. Each slot uses one content each, but they can be repeated multiple times, as shown in ''pos''.
+
+The contents of all screens are rendered together on the generated dynamic texture. ''texSize'' specifies the size (width and height) of the dynamic texture.
+  * ''name'' is the name of the slot.
+  * ''texArea'' is the section of the dynamic texture to be used as the screen content: X, Y, width and height.
+  * ''pos'' is a three-level array (note the number and distribution of square brackets to avoid misspellings) that specifies the position of each screen. Each screen can only be a rectangle, and four XYZ coordinate points are specified for each screen in the following order: top left, bottom left, bottom right, and top right for the front of the screen. The origin of the coordinates is the center of the train, the floor height, and the X-axis direction is left, Y-axis is up, and Z-axis is back.
+  * ''offsets'' is a two-level array used to create multiple copies of a display given pos, for simplicity in cases such as a blinking indicator above a door. The XYZ offset of each copy is set separately. If the offsets value is not written, no copying will be performed.
+
+===== DisplayHelper =====
+To import this class, you need to write ''include(Resources.id("mtrsteamloco:scripts/display_helper.js"));''.
+  * <code javascript>
+new DisplayHelper(cfg: Object)
+</code>
+    * Creates a DisplayHelper according to the configuration and generates an appropriate model, returning the base DisplayHelper with the added model. Must be called outside of functions.
+  * <code javascript>
+DisplayHelper.create(): DisplayHelper
+</code>
+    * Performs initialization, such as creating dynamic textures, and returns a fully configured DisplayHelper. The result can be stored in ''state''. DisplayHelper from ''new'' can only be used to call ''create'', DisplayHelper from ''create'' can be used for other operations.
+  * <code javascript>
+DisplayHelper.close(): void
+</code>
+    * Closes the DisplayHelper created in ''create'', freeing up resources. Must be called in the ''dispose'' function.
+  * <code javascript>
+DisplayHelper.graphics(): Graphics2D
+</code>
+    * Returns the Java AWT's Graphics used to draw on the display. The coordinate origin is the upper-left corner of the entire large texture containing contents for all screens.
+  * <code javascript>
+DisplayHelper.graphicsFor(slotName: String): Graphics2D
+</code>
+    * Returns the Java AWT's Graphics used to draw on the display. The coordinate origin is the upper-left corner of the area used by the specified display. This actually returns the same object as `graphics()`, but automatically sets the origin.
+  * <code javascript>
+DisplayHelper.upload(): void
+</code>
+    * Outputs the ready texture to the game.
+  * <code javascript>
+DisplayHelper.model: ModelCluster
+</code>
+    * Contains models of all displays.
+  * <code javascript>
+DisplayHelper.texture: GraphicsTexture
+</code>
+    * Internal GraphicsTexture.
+
+===== Source =====
+  * https://www.zbx1425.cn/nautilus/mtr-nte/#/js-display-helper
