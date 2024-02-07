@@ -107,3 +107,6 @@ function smoothEnds(startValue, endValue, startTime, endTime, time) {
     return valueChange * (1 - Math.cos(Math.PI * (time - startTime) / timeChange)) / 2 + startValue;
 }
 </code>
+
+===== Source =====
+  * https://www.zbx1425.cn/nautilus/mtr-nte/#/js-example-train
