@@ -27,10 +27,12 @@
 | ::: | 1.5kV Overhead Cable DC (WIP)\\ //(Line 2 (Kwong Chow - North Coast Line))// |
 
 </WRAP>
-**Kwong Chow Station** (Chinese: 光州站) is a station in the [[mtr_letsplay:west_lake_area|West Lake Area]] built by [[mtr_community:staff:bdark000|BDark000]]. It is the western terminus of [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] and the southern terminus of [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]. It will become a mid-way stop of Line 1 (Meyan Line) after the phase 2 is done. 
+**Kwong Chow Station** (Chinese: //光州站//) is a station in the [[mtr_letsplay:west_lake_area|West Lake Area]] built by [[mtr_community:staff:bdark000|BDark000]] on behalf of [[/west_lake_transport_authority|West Lake Transport Authority (WLT)]]. It is the western terminus of [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] and the southern terminus of [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]. It will become a mid-way stop of Line 1 (Meyan Line) after the phase 2 is done. 
 The station gets featured for a couple of times in Jonathan's videos((Including [[https://youtu.be/viNwYsPHCMM?si=CPl1iiftCtc7TQSZ|Let's Play S2 Finale]] //(starting from 1:07:30)//, [[https://youtu.be/iWnGgoS7Dhc?si=6a7sSB-QkK0uO_YZ|5 Amazing Minecraft Train Stations]] //(starting from 12:12)// and [[https://youtu.be/mlC4KZOtOEM?si=FBrL7nl0qZpJz1ZH|Let's Play S3E25]] //(starting from 54:18)// )). 
 
 ===== History =====
+
+When [[/west_lake_transport_authority|WLT]]'s first plan regarding transportation in the [[/west_lake_area|West Lake Area]], the region near now Kwong Chow station is already planned to 
 
 ==== Timeline ====
   * early September, 2022: Station starts designing. It was originally designed to be a island platform with at least 27m wide, serving [[/wlt_line_1|Line 1 (Meyan Line)]] (called WLT Line 1 at that time), with a pair of stacked tracks of [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] (called WLT Line 2 at that time) crossing in the middle. Passengers alighting from Line 2, can exit on either side to change to Line 1 trains for the two directions on the opposite, or exit the station. Conversely, passengers changing from both directions of Line 1 can enjoy a "cross platform interchange" to Line 2. 
