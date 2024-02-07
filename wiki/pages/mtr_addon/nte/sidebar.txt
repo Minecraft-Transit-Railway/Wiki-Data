@@ -5,7 +5,7 @@ Nemo's Transit Expansion:
   * [[:mtr_addon:nte:objschem|.OBJ Model Format]]
   * [[mtr_addon:nte:trainmodel|Using .OBJ Models For Trains]]
   * [[:mtr_addon:nte:eyecandy|Using .OBJ Models For Decorative Blocks]]
-  * [[:mtr_addon:nte:railmodel|Using .OBJ models For Ttracks]]
+  * [[:mtr_addon:nte:railmodel|Using .OBJ models For Tracks]]
   * [[:mtr_addon:nte:js:start|JavaScript Support]]
     * [[:mtr_addon:nte:js:math|Math Utilities]]
     * [[:mtr_addon:nte:js:resources|Resource Loading]]
