@@ -106,7 +106,4 @@ function smoothEnds(startValue, endValue, startTime, endTime, time) {
     let valueChange = endValue - startValue;
     return valueChange * (1 - Math.cos(Math.PI * (time - startTime) / timeChange)) / 2 + startValue;
 }
-
-// The end!
-
 </code>
