@@ -6,7 +6,7 @@ This tutorial covers how to apply train sounds from BVE/OpenBVE, for use with cu
 
 <WRAP round info>
 
-This article is ported from [[https://www.joban.tk/wiki/MTR:Custom_BVE_Train_Sound]], and have not covered steps for importing sounds from BVE Trainsim 5/6.
+This article is ported from [[https://www.joban.org/wiki/MTR:Custom_BVE_Train_Sound]], and have not covered steps for importing sounds from BVE Trainsim 5/6.
 
 You may help improving the page by filling in the missing knowledge.
 
@@ -14,7 +14,7 @@ You may help improving the page by filling in the missing knowledge.
 
 ===== Prerequisite =====
 
-  - Basic knowledge of adding custom Minecraft sound, [[mtr_extra:resourcepack:make|custom trains via resource pack]], and the JSON format.
+  - Basic knowledge of adding custom Minecraft sound, [[mtr_extra:making_a_resourcepack|custom trains via resource pack]], and the JSON format.
   - An existing BVE4/OpenBVE Train
   - An custom MTR Mod train added with Resource Pack (Livery works as well).
   - Software that is capable of exporting **.ogg** file (e.g. [[https://www.audacityteam.org|Audacity]])
