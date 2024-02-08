@@ -29,4 +29,10 @@ On February 6th and 8th, it was announced that an originally unplanned new stati
 
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  Froastpoarte  |  Taipa  |  LLR 633/633P  |  January 4th, 2023  |
+|  Froastpoarte  |  Taipa  |  Lilac Light Rail (633/633P)  |  January 4th, 2023  |
+|  TBA ("Station 19")  |  :::  |  Starlight Line (Planned)  |  TBA  |
+|  De Marren  |  Hylkemare  | |  TBA  |
+|  Hylkemare Wieringawijk  |  :::  | |  February 4th, 2024  |
+|  Hylkemare  |  :::  |  Lilac Light Rail (TBA)  |  January 29th, 2024  |
+
+===== Trivia =====
