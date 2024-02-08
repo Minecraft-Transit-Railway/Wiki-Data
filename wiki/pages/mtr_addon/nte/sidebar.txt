@@ -14,3 +14,4 @@ Nemo's Transit Expansion:
       * [[:mtr_addon:nte:js:train:example|Train Rendering Example]]
     * [[:mtr_addon:nte:js:dynamic_texture|Dynamic Textures]]
       * [[:mtr_addon:nte:js:dynamic_texture:display_helper|Display Helper]]
+    * [[:mtr_addon:nte:js:eyecandy|Decoration Object Related]]
