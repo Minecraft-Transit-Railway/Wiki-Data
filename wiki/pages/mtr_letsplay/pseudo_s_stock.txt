@@ -8,8 +8,8 @@
 |  {{ :mtr_letsplay:s4-p_int.png?380 }}Interior of a S4-P stock.  ||
 |  <html><body><div id="grad1"><font color="white"; size="4.5"><b>MTR (and Let's Play Server) Overview</b></p></font></div></body></html>  ||
 | **In service** | November, 2022 - Present |
-| **Creator** | [[mtr_community:navi_lx9702|Navi]] |
-| **Built at** | Cheshire |
+| **Creator** | [[mtr_community:staff:navi_lx9702|Navi]] |
+| **Built at** | [[wp>Cheshire|Cheshire]] |
 | **Family Name** | Psuedo Movia |
 | **%%Constructed%%** | 2022 |
 | **Formation** | S4-P Stock: A-C-C-A  |
