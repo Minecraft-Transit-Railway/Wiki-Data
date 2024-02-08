@@ -1,0 +1,32 @@
+====== Fryske Line ======
+The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor constructed as first project by Moszyan Railways. The line was made to be a simple connection from the later-constructed Hylkemare station towards the Taipa area of the Let's Play Server. The line is known for using frisian naming conventions for its station names.
+
+<WRAP right>
+|  @#B0B0BE:  ||
+|  **Fryske Line**  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:hylkemarewieringawijk.png?400|Hylkemare Wieringawijk station}}  ||
+|  @#B0B0BE:**Overview**  ||
+|  **Owned by**  |  Moszyan Transport  |
+|  **Opening Date**  |  //Testing//  |
+|  **Serving Districts**  |  Hylkemare  |
+|  :::  |  Taipa  |
+|  **Operating Services**  |  1  |
+|  @#B0B0BE:**Technical**  ||
+|  **Character**  |  Overground  |
+|  **Track Gauge**  |  1435mm standard gauge  |
+|  **Electrification**  |  1.5kV DC Catenary  |
+</WRAP>
+
+===== History =====
+On December 12th, the first plan for the line was published, simply mentioned as the first stage of the Moszyan Railways Overground network. The plan showed a line going from **Shuangmen Xuegui** station (now **Froastpoarte**) to multiple stations on a horizontal line eastward. The map also featured a planned section of side-by-side running tracks between Moszyan Railways and the Lilac Light Rail.
+
+On December 26th, the line officially recieved the name "Fryske Line".
+
+On January 28th, an updated plan map for the line was posted. It showed that the plan for the line had temporarily been shortened to ending at **Hylkemare** until a suitable solution could be found for the fact that bad planning initially had the line planned for at least a kilometer or two of over-sea travel.
+
+On February 6th and 8th, it was announced that an originally unplanned new station was to be constructed on the line, going by the name **De Marren**.((lit. "The Lakes")) After that, the plan for a station over the lake in the yellowstone biome was dropped.
+
+===== Stations =====
+|  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
+|  Froastpoarte  |  Taipa  |  LLR 633/633P  |  January 4th, 2023  |
