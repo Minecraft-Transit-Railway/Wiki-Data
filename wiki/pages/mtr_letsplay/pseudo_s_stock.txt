@@ -16,7 +16,6 @@
 | ::: | S5-P Stock: A-C-D-C-A  |
 | **Capacity** | 313 per car |
 | **Operator(s)** | Current: |
-| ::: | [[mtr_letsplay:wilds_railway]] |
 | ::: | [[mtr_letsplay:lilypad_rail]] |
 | **Owner(s)** | [[wp>Porterbrook|Porterbook]] |
 | **Line(s) served** | WR Aldgate & Resort Line |
