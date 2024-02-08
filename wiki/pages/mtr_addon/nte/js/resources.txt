@@ -2,11 +2,11 @@
 
 NTE provides several methods for controlling the loading and retrieval of resources within resource packs in JavaScript scripts.
 
-Code written in the top-level space outside of functions will be executed when a resource pack is loaded and can be used to load resources such as models, textures, etc. Resources that should not be different for each train (such as models and such) are recommended to be stored in global variables to avoid excessive memory usage when loading a copy of the same content for each train.
+Code written in the top-level space outside of functions will be executed when a resource pack is loaded and can be used to initialize resources such as models, textures, etc. Resources that should not be different for each train (such as models and such) are recommended to be stored in global variables to avoid excessive memory usage when loading a copy of the same content for each train.
 
 ===== ResourceLocation =====
 
-Minecraft uses a ''ResourceLocation'' to identify files in a resource package. Many functions only accept ResourceLocation paths, not strings.
+Minecraft uses a ''ResourceLocation'' to identify files in a resource pack. Many functions only accept ResourceLocation paths rather than strings. To create a ResourceLocation, you can use the following functions:
 
   * <code javascript>
 static Resources.id(idStr: String): ResourceLocation
@@ -15,7 +15,7 @@ static Resources.id(idStr: String): ResourceLocation
   * <code javascript>
 static Resources.idr(relPath: String): ResourceLocation
 </code>
-    * Loads and runs the JS file by location in the resource pack. For example, ''include(Resources.id("mtr:path/absolute.js"))''.
+    * Converts the string to ''ResourceLocation'' relative to the directory that the currently executed script are located in, e.g. ''Resources.idr("relative.js")''.
 
 ===== Model Loading =====
 
@@ -32,7 +32,7 @@ static ModelManager.loadPartedRawModel(Resources.manager(), path: ResourceLocati
   * <code javascript>
 static ModelManager.uploadVertArrays(rawModel: RawModel): ModelCluster
 </code>
-    * Uploads a RawModel to memory, returning the uploaded ModelCluster.
+    * Uploads the RawModel to the GPU's video memory (VRAM), returning the uploaded ''ModelCluster''.
 
 ===== Loading AWT Resources =====
 
@@ -50,33 +50,35 @@ static Resources.getSystemFont(name: String): Font
 | SansSerif | A sans serif font selected by AWT that is installed on this computer. May be different on different devices. |
 | Monospaced | A monospaced font selected by AWT that is installed on this computer. May be different on different devices. |
 
-
   * <code javascript>
 static Resources.readBufferedImage(path: ResourceLocation): BufferedImage
 </code>
-    * Loads an image as a BufferedImage.
+    * Loads an image file as an AWT BufferedImage.
   * <code javascript>
 static Resources.readFont(path: ResourceLocation): Font
 </code>
-    * Load a TTF or OTF font as Font.
+    * Load a custom TTF or OTF font file as an AWT Font.//Note: Due to the way Java and Minecraft Resource Pack works, new temporary font files are generated on your disk every time you call this function. If you find yourself running out of disk space during the development, you can free up disk space by deleting files starting with ''+~JF'' on your system temp directory, or restart your Minecraft/Computer.//
   * <code javascript>
 static Resources.getFontRenderContext(): FontRenderContext
 </code>
     * Get an AWT FontRenderContext.
 
 ===== Reading resource files =====
+
   * <code javascript>
 static Resources.readString(location: ResourceLocation): String
 </code>
     * Reads the contents of a resource file as a string. Returns null if reading fails.
 
 ===== Misc =====
+
   * <code javascript>
 static Resources.parseNbtString(nbtStr: String): CompoundTag
 </code>
     * Returns Minecraft's CompoundTag (type for NBT), syntax is similar to the one used in Command Blocks.
 
 ===== RawModel =====
+
 ^ Functions ^ Description ^
 | ''RawModel.append(other: RawModel): void'' | Merges other RawModel into this RawModel. |
 | ''RawModel.append(other: RawMesh): void'' | Merges other RawMesh into this RawModel. |
@@ -96,12 +98,15 @@ If the same model needs to be modified in different ways, it may be necessary to
 If you don't need to change the geometry, but only need to change the material or replace the texture, you can use ''b = a.copyForMaterialChanges()'', which copies only the information associated with the material, obviating the need to copy vertices in this case.
 
 ===== ModelCluster =====
-Once the model is loaded, the vertices can no longer be changed, but the textures can still be replaced. Therefore, if you need to replace textures several times, you can load the model first and then replace the textures, thus avoiding the unnecessary loading of the model, which is associated with replacing the textures each time and then loading them.
+
+Once the model is uploaded to the GPU video memory, the vertices can no longer be changed, however the texture may still be changed. Therefore, if you need to replace textures several times, you can upload the model as a ModelCluster first and then replace the textures, thus avoiding the unnecessary uploading of the model (Where you upload each model with a different textures each time).
 
 ^ Functions ^ Description ^
-| ''ModelCluster.replaceTexture(oldFileName: String, path: ResourceLocation): void'' | Replaces all textures referencing ''oldFileName'' with the texture specified by ''path'' ResourceLocation. |
-| ''ModelCluster.replaceAllTexture(path: ResourceLocation): void'' | Replaces all textures with the texture specified by ''path'' ResourceLocation. |
+| ''ModelCluster.replaceTexture(oldFileName: String, path: ResourceLocation): void'' | Replaces all textures referencing ''oldFileName'' in the model with the texture specified by ''path'' ResourceLocation. |
+| ''ModelCluster.replaceAllTexture(path: ResourceLocation): void'' | Replaces all textures with the texture specified by ''path''. |
 | ''ModelCluster.copyForMaterialChanges(): ModelCluster'' | Copies the textures of this model into the new model, while keeping the vertices shared. |
 
 ===== Source =====
-* https://www.zbx1425.cn/nautilus/mtr-nte/#/js-resources
+
+* [[https://www.zbx1425.cn/nautilus/mtr-nte/#/js-resources]]
+
