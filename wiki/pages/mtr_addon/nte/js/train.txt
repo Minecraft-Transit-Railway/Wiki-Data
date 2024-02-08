@@ -19,6 +19,7 @@ You can add a model that uses JavaScript to control rendering by writing somethi
   }
 }
 </code>
+
 In general, the parameters are the same as those required for regular resourcepacks for MTR, except for the ''script_files'' parameter.
 
 If the base_type parameter is not specified, the train appearance specified by the other parameters will be displayed as is, and then JavaScript-driven elements will be overlaid on top of it. Otherwise, if the base_type parameter is specified, the appearance will be controlled solely by JavaScript.
@@ -32,12 +33,15 @@ If the base_type parameter is not specified, the train appearance specified by t
 | ''bogie_position'' | The distance between the normal bogie and the center of the car. Only affects sounds when using the BVE format. |
 
 ===== Global Environment =====
+
 All trains of the same type use the same working environment (global variables and etc).
 
 Code written in top-level space outside of functions will run when a resource package is loaded, and can be used to load resources such as models and textures. It is recommended to store resources (such as models, fonts and textures) in global variables, which do not need to be different for each train, to avoid excessive memory usage caused by loading a copy of the same content for each train.
 
 ===== Called Functions =====
+
 Your script should include the following functions that the NTE will call as needed:
+
 <code javascript>
 function create(ctx, state, train) { ... }
 function render(ctx, state, train) { ... }
@@ -46,8 +50,8 @@ function dispose(ctx, state, train) { ... }
 
 ^ Functions ^ Description ^
 | ''create'' | It is called when the train is loaded at the client and can be used to perform some initialization operations, for example, to create dynamic textures. |
-| ''render '' | It is called approximately once per frame. It is used for basic display logic. The code is executed in a separate thread so as not to slow down FPS, and if it takes too long to execute the code, it can be executed once every few frames. |
-| ''dispose'' | Called when a train goes out of sight. Can be used for things like deleting dynamic textures. |
+| ''render '' | It is called approximately once per frame. It is used for basic display logic. In practice however, the code is executed in a separate thread so as not to slow down FPS. If it takes too long to execute the code, it can be called once every few frames instead of every frame. |
+| ''dispose'' | Called when a train goes out of sight. Can be used for things like releasing the dynamic textures to free up memory. |
 
 The NTE calls these functions with three parameters, each of which is described below.
 
@@ -59,11 +63,13 @@ The NTE calls these functions with three parameters, each of which is described 
 The following lists all the rendering control operations that can be performed and all the information that can be obtained about the train.
 
 ===== TrainScriptContext =====
+
 The following functions are called to **control rendering**. The functions for rendering models should be called each time ''render'' is called.
+
   * <code javascript>
 TrainScriptContext.drawCarModel(model: ModelCluster, carIndex: int, poseStack: Matrices): void
 </code>
-    * Requests the NTE to render the car model.
+    * Requests NTE to render the car model.
     * ''carIndex'': defines the car whose origin point will be used for rendering (''0'' — first car in front, ''train.trainCars() - 1'' — last). The origin point is in the middle of the car, 1 block above ground level.
     * ''poseStack'': transformation of model placement. If passed null, the model will be placed in the center without transformation.
   * <code javascript>
@@ -78,6 +84,7 @@ TrainScriptContext.drawConnStretchTexture(location: ResourceLocation, carIndex: 
     * Requests NTE to render the same stretching coupling between cars as in the original MTR. To improve performance, the provided textures are four images from the original MTR combined into one. Top left is the outside, top right is the inside, bottom left is the top, bottom right is the bottom. [Translator's note: these couplings have a fixed size.]
 
 Call the following functions to **play sounds**. Call only when you need to start playback, repeated calls will cause multiple sounds to stack.
+
   * <code javascript>
 TrainScriptContext.playCarSound(sound: ResourceLocation, carIndex: int, x: float, y: float, z: float, volume: float, pitch: float): void
 </code>
@@ -88,35 +95,36 @@ TrainScriptContext.playAnnSound(sound: ResourceLocation, volume: float, pitch: f
     * Play announcer sound. Can only be heard by the players currently in the train.
 
 In addition, there is a set of functions to **aid development and debugging**.
+
   * <code javascript>
 TrainScriptContext.setDebugInfo(key: String, value: Object)
 </code>
-    * Output debugging information in the upper left corner of the screen. You need to enable "Show JS debug info" in settings to display it. ''key'' is the name of the value, ''value'' is the content (''GraphicsTexture'' type will be displayed, others will be converted to string).
+    * Output debugging information in the upper left corner of the screen. You need to enable "Show JS debug info" in NTE Settings to display it. ''key'' is the name of the value, ''value'' is the content (''GraphicsTexture'' type will be displayed, others will be converted to string).
 
-^ Functions And Objects ^ Description ^
-| ''train.shouldRender(): boolean'' | Whether this train should be shown now. When the setting to hide the train the player is on is enabled, the script will run as normal in order for features such as broadcasting to still work. This function will return ''false'' to disable features such as particle effects. Note that this function is not needed to stop ''drawCarModel'', NTE will automatically call it. |
-| ''train.shouldRenderDetail(): boolean'' | Whether the train is within the detailed drawing radius (32 blocks). To save resources, it is recommended to stop processing things like broadcasts, displays, detailed models, etc. when the value is ''false''. |
-| ''train.trainTypeId(): String'' | Train Type ID. |
-| ''train.baseTrainType(): String'' | Based on the model ID. |
-| ''train.id(): long'' | The unique number of the vehicle inside the MTR. It's a random 64-bit integer. <wrap lo>[Nemo's note: Maybe in JavaScript the last few bits become 0 because there are not enough valid digits?]</wrap> |
-| ''train.transportMode(): TransportMode'' | Mode of transportation. |
-| ''train.spacing(): int'' | Length of each car + 1. |
-| ''train.width(): int'' | Width. Since the player also has a width [what?], a wagon that is 3 blocks wide has a value of 2 for this attribute. |
-| ''train.trainCars(): int'' | Number of cars. |
-| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s^2. |
-| ''train.manualAllowed(): boolean'' | Whether manual operation is allowed. |
-| ''train.maxManualSpeed(): int'' | The maximum speed at manual control. It corresponds to the ordering of track types from low to high. [what?] |
-| ''train.manualToAutomaticTime(): int'' | Time to switch back to automatic control after being unmanned. |
-| ''train.path(): List<PathData>'' | A travel path representing a list of each section of the path to be traveled. Each element represents one ''PathData''. |
-| ''train.railProgress(): double'' | Distance from the siding. |
-| ''train.speed(): float'' | Speed, is measured in m/tick, which is equal to 1/20 m/s. |
-| ''train.doorValue(): float'' | Door status. 0 - fully closed, 1 - fully open. Values between - smooth transition between states. |
-| ''train.isDoorOpening(): boolean'' | Are doors opening? |
-| ''train.doorLeftOpen[carIndex: int]: boolean'' | Whether left doors of a particular car can be opened. |
-| ''train.doorRightOpen[carIndex: int]: boolean'' | Whether right doors of a particular car can be opened. |
-| ''train.isCurrentlyManual(): boolean'' | Is it manually operated right now? |
-| ''train.isReversed(): boolean'' | Is the train reversed? That is, is the first car on the rear? |
-| ''train.isOnRoute(): boolean'' | Is the train on the route? |
+^ Functions And Objects ^ Description |   |
+| ''train.shouldRender(): boolean'' | Whether this train should be shown now. When the setting to hide the train the player is on is enabled, the script will run as normal in order for features such as broadcasting to still work. This function will return ''false'' to disable features such as particle effects. Note that this function is not needed to stop ''drawCarModel'', NTE will automatically call it. |   |
+| ''train.shouldRenderDetail(): boolean'' | Whether the train is within the detailed drawing radius (32 blocks). To save resources, it is recommended to stop processing things like broadcasts, displays, detailed models, etc. when the value is ''false''. |   |
+| ''train.trainTypeId(): String'' | Train Type ID. |   |
+| ''train.baseTrainType(): String'' | Based on the model ID. |   |
+| ''train.id(): long'' | The unique number of the vehicle inside the MTR. It's a random 64-bit integer. <wrap lo>[Nemo's note: Maybe in JavaScript the last few bits become 0 because there are not enough valid digits?]</wrap> |   |
+| ''train.transportMode(): TransportMode'' | Mode of transportation. |   |
+| ''train.spacing(): int'' | Length of each car + 1. |   |
+| ''train.width(): int'' | Width. Since the player also has a width [what?], a wagon that is 3 blocks wide has a value of 2 for this attribute. |   |
+| ''train.trainCars(): int'' | Number of cars. |   |
+| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s ^ 2. ^
+| ''train.manualAllowed(): boolean'' | Whether manual operation is allowed. |   |
+| ''train.maxManualSpeed(): int'' | The maximum speed at manual control. It corresponds to the ordering of track types from low to high. [what?] |   |
+| ''train.manualToAutomaticTime(): int'' | Time to switch back to automatic control after being unmanned. |   |
+| ''train.path(): List<PathData>'' | A travel path representing a list of each section of the path to be traveled. Each element represents one ''PathData''. |   |
+| ''train.railProgress(): double'' | Distance from the siding. |   |
+| ''train.speed(): float'' | Speed, is measured in m/tick, which is equal to 1/20 m/s. |   |
+| ''train.doorValue(): float'' | Door status. 0 - fully closed, 1 - fully open. Values between - smooth transition between states. |   |
+| ''train.isDoorOpening(): boolean'' | Are doors opening? |   |
+| ''train.doorLeftOpen[carIndex: int]: boolean'' | Whether left doors of a particular car can be opened. |   |
+| ''train.doorRightOpen[carIndex: int]: boolean'' | Whether right doors of a particular car can be opened. |   |
+| ''train.isCurrentlyManual(): boolean'' | Is it manually operated right now? |   |
+| ''train.isReversed(): boolean'' | Is the train reversed? That is, is the first car on the rear? |   |
+| ''train.isOnRoute(): boolean'' | Is the train on the route? |   |
 
   * <code javascript>
 train.getRailProgress(car: int): double
@@ -148,13 +156,15 @@ train.getThisRoutePlatformsNextIndex(): int
     * Returns the number of the next station in the ''getThisRoutePlatforms()'' list where the train will stop. A value of 0 means that the train is going to the first platform, and a value equal to ''getThisRoutePlatforms().size()'' means that it is leaving for the next route or returning to the depot. Note that it is therefore not necessarily within the index range of `getThisRoutePlatforms()`, which needs to be determined.
 
 ===== PathData =====
+
 ^ Functions And Objects ^ Description ^
 | ''PathData.rail: Rail'' | Rail. For more details, see the [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/data/Rail.java|Rail.java]] source code from MTR. |
 | ''PathData.rail.railType: RailType'' | Rail type (wood, stone, iron...) See the [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/data/RailType.java|RailType.java]] source code from MTR. |
-| ''PathData.rail.getModelKey(): String'' | The NTE path model used for this section. Not specified with an empty string, hidden as "null". [what?] |
+| ''PathData.rail.getModelKey(): String'' | The NTE path model used for this section.This will return an empty string if no NTE path model are assigned, and "null" if the model in use are the (Hidden) track model. |
 | ''PathData.dwellTime: int'' | The amount of time a train has to stop if this section of track is a platform. 0 if it is not a platform, in *0.5s. |
 
 ===== PlatformInfo =====
+
 ^ Functions And Objects ^ Description ^
 | ''platformInfo.route: Route'' | The route to which this platform belongs. If the reverse happens at the platform — the route after reversal is returned. See [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/data/Route.java|Route.java]] source code from MTR. |
 | ''PlatformInfo.route.name: String'' | The name of the route to which this platform belongs. |
@@ -166,8 +176,10 @@ train.getThisRoutePlatformsNextIndex(): int
 | ''PlatformInfo.destinationStation: Station'' | The end station of the route to which this platform belongs. See the [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/data/Station.java|Station.java]] source code from the MTR. |
 | ''PlatformInfo.destinationStation.name: String'' | The name of the terminus of the route to which the platform belongs. |
 | ''PlatformInfo.destinationName: String'' | Name of the final station (including the possibility of customizing the text). |
-| ''PlatformInfo.distance: double'' | The distance from the depot to the platform, can be compared to railProgress. |
+| ''PlatformInfo.distance: double'' | The distance from the depot to the platform, can be compared with ''railProgress''. |
 | ''PlatformInfo.reverseAtPlatform: boolean'' | Does the train reverse on the platform? |
 
 ===== Source =====
-  * https://www.zbx1425.cn/nautilus/mtr-nte/#/js-train
+
+  * [[https://www.zbx1425.cn/nautilus/mtr-nte/#/js-train]]
+
