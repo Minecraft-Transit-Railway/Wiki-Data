@@ -57,7 +57,8 @@ static Resources.readBufferedImage(path: ResourceLocation): BufferedImage
   * <code javascript>
 static Resources.readFont(path: ResourceLocation): Font
 </code>
-    * Load a custom TTF or OTF font file as an AWT Font.//Note: Due to the way Java and Minecraft Resource Pack works, new temporary font files are generated on your disk every time you call this function. If you find yourself running out of disk space during the development, you can free up disk space by deleting files starting with ''+~JF'' on your system temp directory, or restart your Minecraft/Computer.//
+    * Load a custom TTF or OTF font file as an AWT Font.
+    * //Note: Due to the way Java and Minecraft Resource Pack works, new temporary font files are generated on your disk every time you call this function. If you find yourself running out of disk space during the development, you can free up disk space by deleting files starting with ''+~JF'' on your system temp directory, or restart your Minecraft/Computer.//
   * <code javascript>
 static Resources.getFontRenderContext(): FontRenderContext
 </code>
@@ -82,7 +83,7 @@ static Resources.parseNbtString(nbtStr: String): CompoundTag
 ^ Functions ^ Description ^
 | ''RawModel.append(other: RawModel): void'' | Merges other RawModel into this RawModel. |
 | ''RawModel.append(other: RawMesh): void'' | Merges other RawMesh into this RawModel. |
-| ''RawModel.applyMatrix(transform: atrix4f): void'' | Applies the transformation matrix on the vertices of the model. |
+| ''RawModel.applyMatrix(transform: Matrix4f): void'' | Applies the transformation matrix on the vertices of the model. |
 | ''RawModel.applyTranslation(x: float, y: float, z: float): void'' | Moves the vertices of the model according to the specified parameters. |
 | ''RawModel.applyRotation(direction: Vector3f, angle: float): void'' | Rotates the model vertices around the specified axis centered at the coordinate origin. The angles are specified in degrees. |
 | ''RawModel.applyScale(x: float, y: float, z: float): void'' | Changes the size of the model. |
