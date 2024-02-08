@@ -1,0 +1,100 @@
+====== Decoration Object Related ======
+
+In addition to train rendering, the use of JavaScript scripting with Decoration Object (Also known as Eye Candy) are also supported.
+
+===== Adding script to Decoration Object =====
+
+You can add a model that uses JavaScript to control rendering by writing something like this in your ''decor_obj.json'' file (Where ''decor_obj.json'' is the json file that contains the NTE decoration object):
+
+<code json decor_obj.json>
+{
+  "nte_lcd": {
+      "name": "NTE LCD Test",
+      "translation": [ 0, 0, 0 ],
+      "rotation": [ 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "scriptFiles": ["mtrsteamloco:eyecandies/js/nte_lcd_test/main.js"],
+      "mirror": [ false, false, false ]
+  }
+}
+</code>
+
+In general, the parameters are the same as those required for regular decoration object json for NTE, except for the ''scriptFiles'' parameter.
+
+If the ''model'' parameter is not specified, the JavaScript-driven elements will be overlaid on top of the existing model. Otherwise, the appearance will be controlled solely by JavaScript.
+
+^ Parameter ^ Description ^
+| ''scriptFiles'' | An array containing the locations of .js scripts. Multiple scripts can be specified. |
+| ''scriptTexts'' | Optional parameter. An array containing the JavaScript text to be executed before script_files. Can be used when the same script is used for different block, but you need to set variables that are different for each block. |
+
+//Note that JavaScript train uses ''script_files'' (Snake Case) in the MTR Custom Resource json, while NTE Decoration Object uses ''scriptFiles'' (Camel Case) in the respective Decoration Object json file.//
+
+===== Global Environment =====
+
+All blocks of the same type use the same working environment (global variables and etc).
+
+Code written in top-level space outside of functions will run when the resource pack is loaded, and can be used to load resources such as models and textures.
+
+It is recommended to store resources (such as models, fonts and textures) which are the same for each block in the global variables to avoid excessive memory usage caused by loading the same copy of the content for each block.
+
+===== Called Functions =====
+
+Your script should include the following functions that the NTE will call as needed:
+
+<code javascript>
+function create(ctx, state, blockEntity) { ... }
+function render(ctx, state, blockEntity) { ... }
+function dispose(ctx, state, blockEntity) { ... }
+</code>
+
+^ Functions ^ Description ^
+| ''create'' | It is called when the block is in sight by the client and can be used to perform some initialization operations, for example, to create dynamic textures. |
+| ''render'' | It is called approximately once per frame. It is used for basic display logic. In practice however, the code is executed in a separate thread so as not to slow down FPS. If it takes too long to execute the code, it can be called once every few frames instead of every frame. |
+| ''dispose'' | Called when the block goes out of sight. Can be used for things like releasing the dynamic textures to free up memory. |
+
+The NTE calls these functions with three parameters, each of which is described below.
+
+^ Parameter ^ Description ^
+| First (''ctx'') | Used to pass Decoration Object rendering actions to the NTE. Type — EyeCandyScriptContext. |
+| Second (''state'') | A JavaScript object associated with a Decoration Object (Block). The initial value is {}, and its content can be set arbitrarily to store what should be different for each block. |
+| Third (''blockEntity'') | This returns the block entity of the placed decoration block. |
+
+The following lists all the rendering control operations that can be performed and all the information that can be obtained about ''blockEntity''.
+
+===== EyeCandyScriptContext =====
+
+The following functions are called to **control rendering**. The functions for rendering models should be called each time ''render'' is called.
+
+  * <code javascript>
+EyeCandyScriptContext.drawModel(model: ModelCluster, poseStack: Matrices): void
+</code>
+    * Requests NTE to render a model.
+    * ''poseStack'': transformation of model placement. If passed null, the model will be placed in the center of the block without transformation.
+  * <code javascript>
+EyeCandyScriptContext.playSound(sound: ResourceLocation, volume: float, pitch: float): void
+</code>
+    * Play a sound in-game with the corresponding volume and pitch.
+
+Same with train, a set of functions exists to **aid development and debugging**.
+
+  * <code javascript>
+EyeCandyScriptContext.setDebugInfo(key: String, value: Object)
+</code>
+    * Output debugging information in the upper left corner of the screen. You need to enable "Show JS debug info" in NTE Settings to display it. ''key'' is the name of the value, ''value'' is the content (''GraphicsTexture'' type will be displayed, others will be converted to string).
+
+^ Functions And Objects ^ Description ^
+| ''blockEntity.prefabId: string'' | The id of the assigned decoration object, ''null'' if the decoration object does not have any decoration object assigned |
+| ''blockEntity.translateX: float'' | The value in **meter** on how much the Decoration Object is translated on the X-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.translateY: float'' | The value in **meter** on how much the Decoration Object is translated on the Y-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.translateZ: float'' | The value in **meter** on how much the Decoration Object is translated on the Z-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateX: float'' | The value in **radian** on how much the Decoration Object is rotated on the X-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateY: float'' | The value in **radian** on how much the Decoration Object is rotated on the Y-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateZ: float'' | The value in **radian** on how much the Decoration Object is rotated on the Z-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.fullLight: boolean'' | Whether the Decoration Object is marked as "Full Light", this is configured via the GUI on NTE. |
+
+  * <code javascript>
+blockEntity.getBlockPos(): BlockPos
+</code>
+    * Returns the Minecraft BlockPos of where the block are located in.
+    * [Translator note: BlockPos seems to be obfuscated by Minecraft, which is only useful for passing value to MTR ClientData? ]
+
