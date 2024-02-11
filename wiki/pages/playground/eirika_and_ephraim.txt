@@ -3,7 +3,7 @@
 <WRAP 300px right>
 
 |  @#6BCDB2:<html><style>@import url('https://fonts.cdnfonts.com/css/linux-biolinum');#top {height:40px;font-family: 'Linux Biolinum', sans-serif;text-align: center;}</style><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Eirika and Ephraim</b></font></body></html> ||
-| {{ :playground:era_eph_lsj.png?260 }}Eirika (Left) and Ephraim (Right) in Llanmara St. James Station (Has since been removed).  ||
+| {{ :playground:era_eph_lsj.png?260 }}Eirika (Left) and Ephraim (Right) in Llanmara St. James Station (Has since been removed, and re-added).  ||
 |  @#6BCDB2:<html><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Overview</b></font></body></html>  ||
 | **Gender** | Female((
 Eirika only.
@@ -33,5 +33,11 @@ Ephraim only.
 
 **Eirika and Ephraim **are characters from [[wp>FE8|Fire Emblem: The Sacred Stones.]] They appears in the [[mtr_letsplay:start]] as an easter egg and decoration items.
 
-\\
+===== Biography =====
+
+<WRAP center round important 50%>
+
+**Biography of Eirika and Ephraim can be found [[https://fireemblemwiki.org/wiki/Eirika|here]] and [[https://fireemblemwiki.org/wiki/Ephraim|here]] respectively.**
+
+</WRAP>
 
