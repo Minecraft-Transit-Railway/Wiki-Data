@@ -3,11 +3,11 @@
 <WRAP 400px right>
 
 |  @#6BCDB2:<html><style>@import url('https://fonts.cdnfonts.com/css/linux-biolinum');#top {height:40px;font-family: 'Linux Biolinum', sans-serif;text-align: center;}</style><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Eirika and Ephraim</b></font></body></html> ||
-| {{ :playground:era_eph_lsj.png?360 }}Eirika (Left) and Ephraim (Right) in Llanmara St. James Station (Has since been removed).  ||
+| {{ :playground:era_eph_lsj.png?260 }}Eirika (Left) and Ephraim (Right) in Llanmara St. James Station (Has since been removed).  ||
 |  @#6BCDB2:<html><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Overview</b></font></body></html>  ||
 | **Gender** | Female((
 Eirika only.
-))\\ |
+)) |
 | ::: | Male((
 Ephraim only.
 )) |
@@ -16,10 +16,18 @@ Ephraim only.
 Eirika, in [[https://fireemblemwiki.org/wiki/Fire_Emblem_Engage|FIRE EMBLEM ENGAGE]] only.
 )) |
 | **Born**  | Unspecified  |
-| ::: | Prince .  |
-|   |   |
-|   |   |
-|   |   |
+| ::: | Princess((
+Eirika only.
+))/Prince((
+Ephraim only.
+)) of [[https://fireemblemwiki.org/wiki/Renais|Renais]]  |
+| **Nationality**  | [[https://fireemblemwiki.org/wiki/Renais|Renais]] |
+| **Occupation**  | Princess((
+Eirika only.
+))/Prince((
+Ephraim only.
+)) of [[https://fireemblemwiki.org/wiki/Renais|Renais]] |
+| **Years Active**  | Unknown - Present  |
 |   |   |
 |   |   |
 |   |   |
@@ -27,4 +35,6 @@ Eirika, in [[https://fireemblemwiki.org/wiki/Fire_Emblem_Engage|FIRE EMBLEM ENGA
 |   |   |
 
 </WRAP>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
