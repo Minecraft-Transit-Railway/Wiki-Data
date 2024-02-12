@@ -2,9 +2,9 @@
 
 <WRAP 300px right>
 
-|  @#6BCDB2:<html><style>@import url('https://fonts.cdnfonts.com/css/linux-biolinum');#top {height:40px;font-family: 'Linux Biolinum', sans-serif;text-align: center;}</style><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Eirika and Ephraim</b></font></body></html> ||
+|  @#6BCDB2:<html><style>@import url('https://fonts.cdnfonts.com/css/linux-biolinum');#top {font-family: 'Linux Biolinum', sans-serif;text-align: center;}</style><body><div id="top"><font color= rgb'000F9F'; size="4"><b>Eirika and Ephraim</b></font></body></html> ||
 | {{ :playground:era_eph_lsj.png?260 }}Eirika (Left) and Ephraim (Right) in Llanmara St. James Station (Has since been removed, and re-added).  ||
-|  @#6BCDB2:<html><body><div id="top"><font color= rgb'000F9F'; size="6"><b>Overview</b></font></body></html>  ||
+|  @#6BCDB2:<html><body><div id="top"><font color= rgb'000F9F'; size="4"><b>Overview</b></font></body></html>  ||
 | **Gender** | Female((
 Eirika only.
 )) |
@@ -37,7 +37,15 @@ Ephraim only.
 
 <WRAP center round important 50%>
 
-**Biography of Eirika and Ephraim can be found [[https://fireemblemwiki.org/wiki/Eirika|here]] and [[https://fireemblemwiki.org/wiki/Ephraim|here]] respectively.**
+**For a more in-depth biography, you may visit the respective character pages [[https://fireemblemwiki.org/wiki/Eirika|here]] and [[https://fireemblemwiki.org/wiki/Ephraim|here]].**
 
 </WRAP>
+
+===== In Let's Play Server =====
+
+Both of them appears in the Let's Play server as decorations and easter eggs within the server. Eirika was first seen sitting against a tree in Flight Range Light Rail stop, and questioning if there is a world with no public transport.((
+//I wonder if any of us will ever see a world that's full of light rail, buses, and free of saloon / sedan? //—Eirika
+)) Another Eirika was seen in South Ferrus Island, asking visitors to help her with finding Ephraim and asking them to bring him to the station if they do so. She also tell the player about where they last met in Daeseong-ri, where Ephraim is also sitting on the platform, asking if they are aware of the presence of Eirika. Ephraim also express his concern about Eirika's safety, and Ephraim also expressed his concern about Eirika's safety, and how she might (censored) if he failed to be in presence with Eirika((
+<html><body><style>.waterlooAndCity{color:#6BCDB2;font-style: italic}.black{color:#000000;font-style: italic;}</style><span class="black">Did you see my twin sister</span>&nbsp<span class="waterlooAndCity">Eirika</span><span class="black"> before? [...] I am very, very concerned about her safety... If she is lack of the <a href="https://www.fireemblemwiki.org/wiki/Siegmund">Siegmund</a>'s protection, she might (censored)!</span></body></html>
+)).
 
