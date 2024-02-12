@@ -15,47 +15,13 @@
 | **Gender** | Male ||
 | **Nationality** | Dutch ||
 | **Timezone** | CET (GMT+1) ||
-| ::: | CEST (GMT+2) ||
+| ::: | CEST (GMT+2)((summer time)) ||
 </WRAP>
 
-==== Introduction ====
-**Szandor** is one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community, his goal is to help people, but my task sometimes seems to be acting as the voice of reason in a group of people. You might know him from the [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin he published in the public resourcepacks channel, but you will probably also know him as the guy who hasn't stopped yapping about [[mtr_community:server:centralia|Centralia]] since the day he joined the project.
+**Szandor** is one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community, his goal is to help people, but my task sometimes seems to be acting as the voice of reason in a group of people.
 
-You will find him working on [[mtr_community:server:centralia|Centralia]], but he can also be found on the servers of [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] and the [[mtr_letsplay:start|Let's Play]]! On these servers you can see his generally neutral, but sometimes Western-European building style.
+He's most known for his [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin published in the public resourcepacks channel, as well as the MTR community's equivalent of the rickroll where any mention of Boskoop or anything related to the railway line running through it will result in receiving the "get boskoop snijdelwijk'd" gif as reaction, the reason for it being that [[https://en.wikipedia.org/wiki/Boskoop_Snijdelwijk_railway_station|Boskoop Snijdelwijk]] is often joked about as a useless station due to it seeing the lowest passenger numbers in the region despite 7.5 minute train frequencies.
 
-He has also seemingly become known around the place for his love for [[https://en.wikipedia.org/wiki/Formula_One|Formula 1]] and [[https://virtualyoutuber.fandom.com/wiki/Hololive|Hololive]] V-tuber [[https://virtualyoutuber.fandom.com/wiki/Tokoyami_Towa|Tokoyami Towa]]. The last more visible, as it has become more prevalent on his profile lately, as he originally only had an animated banner of a snippet of the music video of one of her original songs [[https://youtu.be/TfOx00AOfKo?si=2aBxJcK4YTxZZqlM|Raimei]], but by now most of the time his banner, profile picture, and emote usage is mostly Towa-related.
+On [[mtr_community:server:centralia|Centralia]] he works on helping the map develop, adapting his builds to the existing ones somewhat, and on [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] he works on making sure the system is accurate to the map and that odd ideas don't spiral out of control. 
 
-You are highly encouraged to strike up a conversation with him, and please don't turn the reply ping off, because he's on a LOT of servers and might not see your message.
-
-==== History ====
-He has always had some sort of interest in trains, but it never really came up until he and a few friends started a server using the Create mod. This is where he created his first-ever train station called //Windacre//.
-The server was however lost through a short-lived conflict with the owner, and shortly after, Szandor discovered the Minecraft Transit Railway mod.
-In a singleplayer world, he built his first-ever MTR station by the name of //Pondem Village//. After this he spent many nights working on the amazing Greenfield map to make its existing transit systems work.
-
-Singleplayer was getting boring after this, and after knowing and having watched Jonathan's tutorial videos to learn how to set everything up in the Greenfield save, he joined the discord server on the 2nd of January 2023.
-Looking for a server to build on, and since I was very new to the mod at the time, he looked upon finding a server with a low entry bar.
-
-This server would end up being Caston, which he joined on the 19th of January.
-Unfortunately Caston never saw much activity, and all that happened was him extending the mainline from Spawn to a new station called //Desert Oasis//.
-Because of that, and via one of the server's members, he joined [[mtr_community:server:helensburgh|Helensburgh]], which had greater aspirations at the time.
-On the first world, he became known for the small area he had built with railways through stations by the names of //Dalry, Cirrane, Cirrane East, Crescent Mangrove, Dornwich, Windermere, Aysgarth, Pinella Pass, Mansion, Eelry and Croydon-Lewes//.
-Unfortunately the first server came to an end in an attempt to put new systems in place to better regulate railway lines and country areas. This idea never took off as activity became very low due to the server's constant modpack and performance issues. In his attempts to help with the country system, he became a mod, then staff, then a manager.
-
-Somewhere along the way, on the 27th of February, he discovered [[mtr_community:server:unitedcitiesrailways|United Cities Railways]], a server he immediately joined because of the use of the Greenfield map, something I was already pretty familiar with at that point.
-Together with 2 other signups, he created a company called the City Transit Project (CTP). He ended up being the only one of the three to really do much work.
-CTP was originally a mess, with not a single line having a train with a CTP livery, despite all lines having custom liveries.
-He became known on the server for stations such as //Grand Lannex, Mall Avenue, Varenburg Altzentrum and Kazias Center//, the latter of which was based on Gouda's railway station.
-
-During this whole ordeal he also joined [[mtr_community:server:centralia|Centralia]] and after quite a lot of chat about the map and its development, spent a short time actually building on the server associated with it. Once it went down again, he would set out to create his own [[mtr_community:server:centralia|Centraliaverse]], but even that would eventually end up being merged back into the main server, which honestly is better than two split versions. Anyways, back to [[mtr_community:server:unitedcitiesrailways|United Cities Railways]].
-
-Unfortunately, due to the owner's studies, [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] went down for some time, and because of that Szandor was seeking a new server to build on.
-This prompted him to join [[mtr_community:server:sallen_city|Sallen City]] on September 9th.
-In this time he became more acquainted with MTR staff members [[mtr_community:staff:sleepy_sapph|Lily]] and [[mtr_community:staff:javascript_es1|Dooji]], who were also builders there at the time.
-His interest in [[mtr_community:server:sallen_city|Sallen City]] kind of dwindled as time went on, and the final nail in the coffin was when the bits and chisels mod broke, leaving the server to either have to restart entirely or rebuild everything almost from scratch, of which the former was chosen. This caused many builders to lose their motivation, some of which opted to leave the builder team entirely.
-He kept in touch with everyone from this builder team, which may have been a help to what happened next.
-You see, while he was on [[mtr_community:server:sallen_city|Sallen City]], he had already been talking to [[mtr_community:staff:sleepy_sapph|Lily]], and it was mentioned that there was a possibility of him being presented as a builder candidate on the [[mtr_letsplay:start|Let's Play Server]]. The whole [[mtr_community:server:sallen_city|Sallen City]] thing only seems to have boosted the progression of this possibility, and on the 8th of December, he was sent the application form. He was accepted into the builders team the very next day.
-
-Around this time, it had also become apparent that [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] was going to end season 2 due to increasing conflicts regarding unfitting railway infrastructure.
-All of this together gave him the bright idea of making sure he had a single brand across all servers he was on. This brand became //Moszyan Railways//, and can by now be found on the [[mtr_letsplay:start|Let's Play Server]], [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] (formerly CityLink/CTP) and [[mtr_community:server:centralia|Centralia]] (formerly Trident Railways). His rolling stock fleet now features a single design style.
-
-We're not going to go into depth about what he's doing or planning to do on the [[mtr_letsplay:start|Let's Play Server]] or [[mtr_community:server:centralia|Centralia]], as most of that will be on their respective pages (hyperlinked).
+With his company [[mtr_letsplay:mrw|Moszyan Railways]] you can also find him on the [[mtr_letsplay:start|Let's Play]] server! There, he plans to make use of his local references to make a system that operates like he is used to at home, while still fitting the style of the server itself.
