@@ -20,7 +20,7 @@
 | **Platform Floors** | 1 |
 | **Step-Free Accessible** | Yes |
 | **Station Code** | HNT |
-| **Opened** | 10 February, 2023 |
+| **Opened** | 11 February, 2023 |
 | **Electrification** | 25kV Overhead Cable AC (WIP)\\ //(Line 1 (Meyan Line) Phase 1)// |
 
 </WRAP>
