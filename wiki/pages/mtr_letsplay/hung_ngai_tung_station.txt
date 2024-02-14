@@ -3,9 +3,9 @@
 
 <WRAP right>
 
-|   @#EB4881:  <color white>**Hung Ngai Tung**\\ **紅崖洞**</color>   ||
+|   @#F62B11:  <color white>**Hung Ngai Tung**\\ **紅崖洞**</color>   ||
 | @#EB7AE9: ||
-|  {{/lp_s3_e25.jpg?400}}\\ //Exterior viewed at the east((Featured in Jonathan's [[https://youtu.be/mlC4KZOtOEM?si=rz0RX39znLKVkS7y|Let's Play Series S3E25]]))//\\ //(taken on 31 December, 2023)//  ||
+|  {{/lp_s3_e25.jpg?400}}\\ //Exterior viewed from the east((Featured in Jonathan's [[https://youtu.be/mlC4KZOtOEM?si=rz0RX39znLKVkS7y|Let's Play Series S3E25]]))//\\ //(taken on 31 December, 2023)//  ||
 ^   **Overview**   ^^
 | **Operator** | [[/west_lake_transport_authority|West Lake Transport Authority]] |
 | **Lines** | [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
@@ -79,25 +79,19 @@ One lift is serving between north concourse and the platforms, while another is 
 
 ===== Exits =====
 
-  * A: BDark Kwong Chow Castle
-    * A1: BDark Kwong Chow Castle
-    * A2: Yu Kwong Village
-  * B: Sai Wan {{mtr:elevator2.png?24x24}}
-  * C: BDark's Bridge
-    * C1: BDark's Bridge
-    * C2: Kwong Chow North Area
-  * D: Kwong Chow Pier {{mtr:elevator2.png?24x24}}
-    * D1: Kwong Chow Pier
-    * D2: Welcome Cape
+  * A: 
+    * A1: [WIP]
+    * A2: 
+  * B: Shore {{mtr:elevator2.png?24x24}}
+  * C: Little House on the Clift
+    * C1: Little House on the Clift
+    * C2: Maple Taiga
+  * D: Little House on the Clift {{mtr:elevator2.png?24x24}}
 
 ===== Train Services =====
 
-Passengers may take Line 1 (Meyan Line) Phase 1 heading towards Sakura Stream Area or Line 2 (Kwong Chow - North Coast Line) heading towards Spawn Area. Incoming passengers can change to another line to continue their journey on the opposite platform. 
+Passengers may take Line 1 (Meyan Line) Phase 1 heading south towards Sakura Stream Junction station and [[/west_lake_area|West Lake Area]]. Train service heading north will resume after renovation works are done. 
 
 |  **[[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]**  |
 | @#EB7AE9: |
-|  //<color gray>Northern Snow Village</color>// - [[/hung_ngai_tung_station|Hung Ngai Tung]] - [[/sakura_stream_junction_station|Sakura Stream Junction]] - [[mtr_letsplay:providence_station|Providence]] - [[/birch_hill_station|Birch Hill]] - [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] - **Kwong Chow**  |
-
-|  **[[mtr_letsplay:wlt_line_2|Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle]]**  |
-| @#FFDA33: |
-|  **Kwong Chow** - //<color gray>Sha Tsui</color>// - //<color gray>West Lake</color>// - [[/sai_mo_island_station|Sai Mo Island ]]  |
+|  //<color gray>Northern Snow Village</color>// - **Hung Ngai Tung** - [[/sakura_stream_junction_station|Sakura Stream Junction]] - [[mtr_letsplay:providence_station|Providence]] - [[/birch_hill_station|Birch Hill]] - [[mtr_letsplay:chung_kwo_kok_station|Chung Kwo Kok]] - [[/kwong_chow_station|Kwong Chow]]  |
