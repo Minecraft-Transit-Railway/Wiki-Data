@@ -19,12 +19,12 @@
 ===== Services =====
 
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#0063D3: **Sprinter**  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:froastepoarte|Froastepoarte]]  |
+|  @#0063D3: **Sprinter**  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
 
 ===== Lines =====
 
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:froastepoarte|Froastepoarte]]  |
+|  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
 
 ===== Fleet =====
 
@@ -32,14 +32,14 @@
 |  LRC  |  S43-Tec LRV 2010  |    |    |
 |  GNUS  |  BVG Class H  |    |    |
 |  AM  |  S43-Tec Aurora (Metro)  |    |    |
-|  AS  |  S43-Tec Aurora (Suburban)  |    |    |
+|  AS  |  S43-Tec Aurora (Suburban)  |    |  Hylkemare Platform 4  |
 |  OHS  |  BR Class 508  |    |    |
 |  OLS  |  BR Class 378  |    |    |
-|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Hylkemare  |
-|  ICFR  |  Yuunitetsu 701  |    |  Hylkemare  |
+|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Hylkemare Siding  |
+|  ICFR  |  Yuunitetsu 701  |    |  Hylkemare Platform 8  |
 
 ===== Screenshots =====
-|{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station, as seen top-down. On a rare occasion like this, all platforms are occupied.}}|
+|{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station, as seen from a somewhat birds-eye view. On a rare occasion like this, all platforms are occupied.}}|
 |//Froastepoarte was the first station constructed by Szandor, overhauled from the original Lilac Light Rail stop to look like Lansingerland-Zoetermeer.//|
 |{{mtr_letsplay:hylkemareplatforms.png?1000|Hylkemare Station, as seen from the back wall of the station building, just past the paygates.}}|
 |//Hylkemare is the first main transit hub on the network, with the 7 eastbound platforms planned for future use.//|
