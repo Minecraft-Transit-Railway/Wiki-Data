@@ -1,0 +1,23 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Version 3.2.X ======
+TODO: description
+
+===== Releases =====
+TODO: links
+
+==== V3.2.0 ====
+  * Added destination display support to custom trains
+  * Signal fixes
+
+=== V3.2.1 ===
+  * Crystal+ cable car
+  * BR 423 train
+
+=== V3.2.2 ===
+  * 3D escalator model
+  * Added vertical PIDS variants
+  * BR 423 train changes
+
+^   <- Prev   ^   Current   ^   Next ->   ^
+|   [[mtr:3.1.x | V3.1.X]]   |   [[mtr:3.2.x | V3.2.X]]   |   [[mtr:4.0.x | V4.0.X]]   |
