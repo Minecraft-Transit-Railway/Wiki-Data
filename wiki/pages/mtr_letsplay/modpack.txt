@@ -63,7 +63,7 @@ Here are the steps to set it up on the official Mojang launcher if you prefer us
 
 <tabbox Curseforge / Others>
 
-I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
+It's recommended to use one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
 
 Also, you must own a geniune Minecraft account purchased from Mojang in order to join our server. Offline ("cracked") login is not supported and won't work.
   
