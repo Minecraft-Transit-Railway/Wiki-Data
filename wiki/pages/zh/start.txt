@@ -7,7 +7,7 @@
 ===== 更多资源 =====
 
   * [[zh:mtr_extra:start|资源包]] - 用于MTR的资源包介绍
-  * [[mtr_extra:making_a_resourcepack|制作资源包]] - 如何制作资源包
+  * [[zh:mtr_extra:resourcepack:make|制作资源包]] - 如何制作资源包
     * [[mtr_extra:resourcepack:make:texture|更改列车贴图]] - 如何更改已有列车的贴图
     * [[mtr_extra:resourcepack:make:model|列车建模]] - 如何加入你自己的列车
     * [[mtr_extra:resourcepack:make:others|其他]] - 如何在你的资源包中加入声音、标志等
