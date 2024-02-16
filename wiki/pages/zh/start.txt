@@ -12,7 +12,7 @@
     * [[mtr_extra:resourcepack:make:model|列车建模]] - 如何加入你自己的列车
     * [[mtr_extra:resourcepack:make:others|其他]] - 如何在你的资源包中加入声音、标志等
   * [[mtr_extra:resourcepack:faq|常见问题]] - 一些关于资源包的问题
-  * [[mtr_addon:start|使用MTR相关模组]] - MTR相关模组概述
+  * [[zh:mtr_addon:start|使用MTR相关模组]] - MTR相关模组概述
 
 
 ===== 多人游戏服务器 =====
