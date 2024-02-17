@@ -43,9 +43,9 @@ DoorCloseSoundLength = 1
   - Import all the .**wav/.flac** sound to an audio editor and convert them to **Mono Channel**
   - Export all the **.wav/.flac** file to **.ogg** file (For Audacity user, use **File > Export > Export Multiple**, and choose ''Ogg Vorbis Files'')
   - Copy the train folder to ''Your Resource Pack/assets/mtr/sounds''. (Make the folder if it doesn't exist)
-  - Make a sound.json file in ''Your Resource Pack/assets/mtr'' if you haven't already, an example could be found [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/0daf388b7f62868502753c55a3264c545b5dd569/resources/common/normal/assets/mtr/sounds.json|here]].
-  - Make a sound entry in sound.json of every file in ''sound.cfg'', the sound ID to put should be ''trainSoundID_filename''
-  - Your sound.json in the end should look something like this (I used ''kksp'' as my train directory name):
+  - Make a sounds.json file in ''Your Resource Pack/assets/mtr'' if you haven't already, an example could be found [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/0daf388b7f62868502753c55a3264c545b5dd569/resources/common/normal/assets/mtr/sounds.json|here]].
+  - Make a sound entry in sounds.json of every file in ''sound.cfg'', the sound ID to put should be ''trainSoundID_filename''
+  - Your sounds.json in the end should look something like this (I used ''kksp'' as my train directory name):
     - {{:mtr:dev:mtr-bve2.png?600}}
   - Finally, add the following line to your custom train entry in ''mtr_custom_resources.json'', replace ''soundID'' with your actual sound ID/Train Folder Name:
     - ''"bve_sound_base_id": "soundID"''
