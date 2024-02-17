@@ -59,6 +59,6 @@ Now start your game, and everything should hopefully work.
 ===== Note / Troubleshooting =====
 
   - **You will need to re-select the train in the siding, or restart the client if you have made any changes to the sound config.**
-  - ''point.ogg'' is played whenever the train crosses a rail node, which is different from BVE's behavior (Crossing a junction). If you feel the sound doesn't fit, please remove it in sound.json
+  - ''point.ogg'' is played whenever the train crosses a rail node, which is different from BVE's behavior (Crossing a junction). If you feel the sound doesn't fit, please remove it in sounds.json
   - Small motor noises may be heard even when the train is coasting, this is to simulate train adding small bits of power to maintain it's speed.
 
