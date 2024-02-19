@@ -1,5 +1,5 @@
 ====== Fryske Line ======
-The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor constructed as first project by Moszyan Railways. The line was made to be a simple connection from the later-constructed Hylkemare station towards the Taipa area of the Let's Play Server. The line is known for using frisian naming conventions for its station names.
+The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor constructed as first project by Moszyan Railways. The line was made to be a simple connection from the later-constructed Hylkemare station towards the Taipa area of the Let's Play Server, with a later plan to extend to Kallos. The line is known for using frisian naming conventions for its station names.
 
 <WRAP right>
 |  @#B0B0BE:  ||
@@ -11,6 +11,8 @@ The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor con
 |  **Opening Date**  |  //Testing//  |
 |  **Serving Districts**  |  Hylkemare  |
 |  :::  |  Taipa  |
+|  :::  |  Oculus  |
+|  :::  |  Kallos  |
 |  **Operating Services**  |  1  |
 |  @#B0B0BE:**Technical**  ||
 |  **Character**  |  Overground  |
@@ -27,12 +29,21 @@ On January 28th, an updated plan map for the line was posted. It showed that the
 
 On February 6th and 8th, it was announced that an originally unplanned new station was to be constructed on the line, going by the name **De Marren**.((lit. "The Lakes")) After that, the plan for a station over the lake in the yellowstone biome was dropped.
 
+On February 12th, a new extension was added to the plan, connecting the relatively out-of-reach line to the **Kallos** area. Connecting directly to **Kallos** station was not impossible, but it was decided that it would be for the better to put the terminus in the open field next to the **Royal Park** light rail station, precisely where another line already had plans to connect. The end of the bridge was planned to have a replica of Spijkenisse's Metro Rail Whale statue, known for the crash in 2020 where a RET Metro train ended up being saved from falling by the massive tail.
+
+On February 14th, "Station 19" was revealed to receive the name **Ridgecrest**. The frisian name for this station would end up being **Rykkam**.
+
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  Froastpoarte  |  Taipa  |  Lilac Light Rail (633/633P)  |  January 4th, 2023  |
-|  TBA ("Station 19")  |  :::  |  Starlight Line (Planned)  |  TBA  |
-|  De Marren  |  Hylkemare  | |  TBA  |
-|  Hylkemare Wieringawijk  |  :::  | |  February 4th, 2024  |
-|  Hylkemare  |  :::  |  Lilac Light Rail (TBA)  |  January 29th, 2024  |
+|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (TBA)  |  January 29th, 2024  |
+|  **Hylkemare Wieringawijk**  |  :::  | |  February 4th, 2024  |
+|  **De Marren**  |  :::  | |  February 10th, 2024  |
+|  **Rykkam**\\ Ridgecrest  |  Taipa  |  Starlight Line (Planned)  |  TBA  |
+|  **Froastpoarte**\\ Shuangmen Xuegui  |  :::  |  Lilac Light Rail (633/633P)  |  January 4th, 2023  |
+|  **Āoraki Noord**\\ Āoraki North  |  Oculus  |  Lilac Light Rail (410/483P/882)  |  TBA  |
+|  **Shek Ai**  |  Kallos  |  Azalea CL\\ Lilac Light Rail (483P/492/810/882)  |  TBA  |
+|  **Kallos Royaalpark**\\ Kallos Royal Park  |  :::  |  Elizabeth Line\\ Lilac Light Rail (483P/492/801/802/804/810/882)  |  TBA  |
+
 
 ===== Trivia =====
+  * The Fryske Line may be the first to use frisian naming conventions, but not the first to use dutch naming conventions. This is due to two stations north of spawn carrying the names **Zuidbaai** and **Zuidbaai Centraal**. One could argue however, that these naming conventions are tied closer to afrikaans than dutch, as the dutch rarely use the term "baai".
