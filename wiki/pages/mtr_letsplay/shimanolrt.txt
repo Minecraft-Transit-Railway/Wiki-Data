@@ -39,8 +39,44 @@ Originally, it was planned to be based on the Hong Kong LRT, but there is a hist
   * As mentioned above, it is compatible with TLRT and actually provides through service with TLRT.
   * In principle, only CJK ((example:"相01")) is indicated as the number, which is different from other LRT lines. ((English notation can be confirmed on the system map.))((The system numbers of the Tokyo Metropolitan Bureau of Transportation are used as a reference.))
 
+=====Rolling Stock=====
+All vehicles are S43-tec LRV or compatible models.
+It varies slightly depending on the route, but basically it is operated without distinction between vehicles.
+====List of liveries=====
+====Shimano LRT====
+Currently, trains with four or more cars are operated with the same model and the same livery.
+^  Model  ^  Livery  ^  Cars  ^
+| **1928 Stock** | Dark Green | 2 or 4 |
+| **1975 Stock** | Pink | ::: |
+| **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with Bombardier mitrac igbt-vvvf.)) | Pink | ::: |
+| **1980 Stock** | Blue | ::: |
+| **Refurbished 1980 Stock** | Yellow\\ White\\ Violet(Evangelion Unit-01) | ::: |
+| **1987 Stock** | Green | ::: |
+| **1995 Stock** | Orange\\ Wood\\ Reaf(Toden 8500 style) | ::: |
+| **2002 Stock** | Red((Same as default S43-tec color except logo))\\ Scarlet(Evangelion Unit-02) | ::: |
+| **2010 Stock** | Purple | ::: |
+| **2020 Stock** | Gold\\ Yellow & Dark Gray(Utsunomiya Light Rail Opening Commemoration Livery) | ::: |
+| **2024 Stock** | Magenta | ::: |
+Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+====Shimano MTR====
+A train that connects to LRT from Shimano MTR. We provide through service for part of AC01 and almost all of KR01.
+^  Model  ^  Livery  ^  Cars  ^
+| **[[mtr_letsplay:13-000_series|13-000 Series]]** | Jigglypuff Line Smoke Pink | 4 |
+Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+
+====Teufort LRT====
+This is a vehicle belonging to Teufort LRT coming from the Teufort area. All vehicles are operated with AC01.
+^  Model  ^  Livery  ^  Cars  ^
+| **1980 Stock** | S43-Tec Red & White | 2 |
+| **Refurbished 1980 Stock** | ::: | ::: |
+| **1987 Stock** | ::: | ::: |
+| **1995 Stock** | ::: | ::: |
+| **2002 Stock** | ::: | ::: |
+| **2010 Stock** | ::: | ::: |
+| **2024 Stock** | ::: | ::: |
+
 =====Routes=====
-|Route Name|Transit point|Parallel routes||
+^Route Name^Transit point^Parallel routes^^
 |相01(AC01)|Kurokusa Depot ⇄ (//[[shimanomtr|Shimano MTR]] [[Jigglypuff Line]]//) ⇄ Acacialand Village ⇄ Midori Peninsula ⇄ Izumi South ⇄ Landfall ⇄ (//Teufort LRT U2 to Banana Bay//) |Shimano Line\\ Marine Line\\ Hybra Line\\ Northern Line||
 |相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Landfall|Hybra Line\\ Northern Line||
 |黑01(KR01)|Kurokusa Depot ⇄ (//[[shimanomtr|Shimano MTR]] [[Jigglypuff Line]]//) ⇄ Kurokusa ⇄ Plain Harbor ⇄ Donggang|Shimano Line\\ Zasian Line||
