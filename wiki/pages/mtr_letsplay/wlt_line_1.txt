@@ -22,8 +22,8 @@
 | **Stations** | 7 |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:42 - next day 03:00\\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 4 - 7 mins((May reduce to 8 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]])) |
+| **Service Hours** | 04:42 - next day ~03:00\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Frequency** | Every 4 - 7 mins((May reduce to 7 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]])) |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
@@ -121,7 +121,7 @@ For **Phase 1 S. Section**, trains are all serving from Hung Ngai Tung to Kwong 
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1 S. Section**  |
 | \\ 5 am - 9 am\\ <html>&nbsp</html>|  \\ 6.5  |
 | \\ 9 am - 11 pm\\ <html>&nbsp</html>|  \\ 3.9  |
-| \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 8 - 12((May reduce to 8 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]]))  |
+| \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 7 - 12((May reduce to 7 - 12 mins near server restart time; see [[/wlt_line_1#operations|Operations]]))  |
 
 </WRAP>
 
