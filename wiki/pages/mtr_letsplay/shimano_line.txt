@@ -1,0 +1,42 @@
+====== Shimano Line ======
+
+<WRAP 400px right>
+
+|  @#FFBC00:  **(S3)Shimano Line**  ||
+| {{ :mtr_letsplay:line_s3.png?200 |}} ||
+|  @#FFBC00:  **Overview**  ||
+| **Owner(s)** |Amethyst Valley Station - Oasis Island Station:\\ [[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Area Served** | N/A |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
+| **Line Number** | S3 |
+| **Number of stations** | 7(Current) |
+|  | 9(Plan) |
+| **Real-Life Inspiration** |  |
+| **Colour on map** | Yellow (#FFBC00) |
+|  @#FFBC00:  **Service & Operation**  ||
+| **Began passenger operation** | August 2022? |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 8 vehicles per trainset |
+|  @#FFBC00:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
+| **Maximum speed** | 160 km/h |
+| **Top operational speed** | 120 km/h |
+|  @#FFBC00:  **Construction Specifications**  ||
+| **Distance between nodes** | 3 blocks |
+| **Ballast block** | Stone |
+| **Sound barrier/support block** | Yellow Black block |
+
+|  @#b0c4de:  **Shimano Line**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 縞野綫 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 縞野线 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Gǎo yě xiàn|
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Gǎo yě xiàn|
+
+</WRAP>
+
+The Shimano Line ([[wp>Chinese_language|Chinese]]: 縞野綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
