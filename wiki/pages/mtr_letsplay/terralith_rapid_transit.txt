@@ -42,10 +42,12 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * (S11)[[Cinderace Line]]
 
+* (S12)[[Decidueye Line]]
+
 * (S13)[[Jigglypuff Line]]
 
 ====Under Construction & Planning====
-* (S12)[[Decidueye Line]]
+* (S4)[[Momoyama Line]]
 
 ====Abolition====
 * (S2T)[[Sprigatito Line]]
