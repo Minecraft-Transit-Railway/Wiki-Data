@@ -10,7 +10,8 @@
 | **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]]|
 | |[[wp>Stadtbahn|Stadtbahn]]|
 | **Line Number** | S13 |
-| **Number of stations** | 2(Excluding SLRT stations) |
+| **Number of stations** | 2(Current)((Excluding SLRT stations)) |
+| ::: | 16(Plan)((Excluding SLRT stations)) |
 | **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
 | **Colour on map** | Smoke Pink (#BB492B) |
 |  @#ffa79e:  **Service & Operation**  ||
@@ -31,14 +32,35 @@
 | [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 胖丁线 |
 |  @#F9FFBB: **Transcriptions**  ||
 |  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
-| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Pàng dīng|
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Pàng dīng xiàn|
 |  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
-| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Pàng dīng|
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Pàng dīng xiàn|
 
 </WRAP>
 
 The Jigglypuff Line ([[wp>Chinese_language|Chinese]]: 胖丁綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
 
+====History====
+The line was first mentioned in November 2022 and was originally assigned the line number as **Line S0**. At that time, it was planned as AGT.
 
+It will be built in September 2023 to a similar standard to Shimano LRT (SLRT) and Teufort LRT, and its number will be changed to Line S13.
+A few days later, the section between Kurokusa and Kuromurasaki opened, and through service with SLRT's AC01 and KR01 began.
 
+===== Rolling Stocks =====
+See [[mtr_letsplay:13-000_series|Terralith Rapid Transit 13-000 Series]].
+===== Operations =====
 
+All trains operate in 4-car formations. Within the SMTR, all trains will operate throughout all sections. For through service with SLRT, AC01 and KR01 will operate alternately. [[mtr_letsplay:shimanolrt#through_service|See here for through service sections.]]
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#ffa79e:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S13)Jigglypuff Line**  |
+| \\ All hours \\ <html>&nbsp</html>|  \\ 6 - 7 |
+
+</WRAP>
+
+===== Future Plans =====
+Construction is underway on an extension to Green Cape Station via Autumn Floatland Station.
+===== Stations =====
