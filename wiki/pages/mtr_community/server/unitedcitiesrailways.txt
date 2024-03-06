@@ -1,14 +1,14 @@
-====== United Cities Railways [WIP] ======
+====== United Cities Railways ======
 
 **United Cities Railways** is one of many Minecraft servers using the Minecraft Transit Railway mod to build railways, running on Fabric 1.19.2. The server has the unique disposition of using prebuilt city maps, usually downloaded from PlanetMinecraft, to connect with custom railways. Furthermore, the server is also one of very limited amount to have both a line proposal and line review system. This was put into place to prioritize the quality of the railways and stations over the speed of their construction.
 
 <WRAP right>
-|  @#EFEEF0:  **United Cities Railways**  ||
-| {{..:ucr.png?250 }} ||
-|  @#EFEEF0:  **Overview**  ||
+|  @#EFEEF0:**United Cities Railways**  ||
+|  {{:mtr_community:ucr.png?250}}  ||
+|  @#EFEEF0:**Overview**  ||
 | **Owner** | AIEMERIC |
 | **Transit type** | Mixed |
-| **Number of companies** | 9 |
+| **Number of companies** | 6 |
 </WRAP>
 
 ===== History =====
@@ -18,13 +18,40 @@
 ===== Operators =====
 
 {{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress
-{{:mtr_community:unitedcitiesrailways:releaf.png?50|Releaf}} Releaf
 {{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport
 {{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH YORKSHIRE LOGO}} Yorkshire Airways
 
+{{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit
 {{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH SPRINTTRANSIT LOGO}} SprintTransit
-{{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH NAT EXP LOGO}} National Express
-{{:mtr_community:unitedcitiesrailways:countrylink.png?50|CountryLink}} CountryLink
-{{:mtr_community:unitedcitiesrailways:mainlinerailways.png?50|Mainline Railways}} Mainline Railways
+{{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail
 
+===== Cities & Lines =====
+
+==== Greenfield ====
+
+<WRAP right>
+|  @#EFEEF0:  **City of Greenfield**  ||
+|  {{:mtr_community:unitedcitiesrailways:greenfield.png?250}}  ||
+|  @#EFEEF0:  **Overview**  ||
+| **Operator** | Greenfield Transit Authority |
+| **Central Station** | Greenfield Union |
+| **Location** | 7307, 26531 |
+| **Transit type** | Mixed |
+| **Operating lines** | 6 |
+</WRAP>
+
+//All Greenfield lines are operated under the GTA name, even though they are run by different operators//
+|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |
+|  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |
+|  @#FF0000:Red Line  |  Operational  |  Ashfield West  |  Whitestone  |
+|  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |
+|  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |
+|  :::  |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  |
+|  @#0000FF:Blue Line  |  Operational  |  Westwood  |  Lincoln Port  |
+|  @#00C1FF:Cyan Line  |  Work In Progress  |  Sunnyside  |  Delta Pier  |
+|  @#00FF00:Green Line  |  Work In Progress  |  Sunnyside  |  Kazias Center  |
+|  @#800000:Brown Line  |  Work In Progress  |  Sunnyside  |  Outer Palma  |
+|  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |
+|  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |
+|  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |
+|  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |
