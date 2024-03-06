@@ -42,7 +42,7 @@
 
 //All Greenfield lines are operated under the GTA name, even though they are run by different operators//
 
-|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  | @#EFEEF0:Operator |
+|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  |
 |  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  |
 |  @#FF0000:Red Line  |  Operational  |  Ashfield West  |  Whitestone  |  SCT  |
 |  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |  UrbanExpress  |
