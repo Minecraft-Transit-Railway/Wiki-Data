@@ -377,7 +377,7 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Grumbler's Grove | ::: | ::: |   | ::: |
 | ::: | Wald-Tafelberge | ::: | ::: | <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color> | 11 April 2023 |
 | ::: | Cape Lake | ::: | ::: |   | ::: |
-| ::: | Badgerstown | ::: | ::: |  <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
+| ::: | Badgerstown | ::: | ::: | <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
 | ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
 |   | Sah Tou Emergency Platform | when service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P | Chou Wai |   | 10 February 2023 |
 
