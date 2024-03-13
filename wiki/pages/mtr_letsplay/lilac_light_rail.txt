@@ -13,7 +13,7 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 | **Status** | Operational |
 | **Owner** | [[lilypad_rail|Lilypad Rail]]\\ Qingli Railways |
 | **Locale** | Spawn\\ Kallos\\ Mou Tapu\\ Resort\\ Taipa\\ Eastwich\\ Llanmara\\ Tempest\\ Sunrise |
-| **Connecting lines** | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#385E15>**<html>&nbspSnowie Line&nbsp</html>**</color>\\ <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>\\ **<color white/#E31A56><html>&nbspOc</html></color><color white/#405F8E>uli</color><color white/#FCA500><html>nk&nbsp</html></color>**\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color white/#673AB7>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>\\ <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color>\\ <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color> |
+| **Connecting lines** | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#385E15>**<html>&nbspSnowie Line&nbsp</html>**</color>\\ <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>\\ **<color white/#E31A56><html>&nbspOc</html></color><color white/#405F8E>uli</color><color white/#FCA500><html>nk&nbsp</html></color>**\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color white/#673AB7>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>\\ <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color>\\ <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color>\\ <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color> \\ <color white/#B0B0BE>**<html>&nbspMoszyan Railways Sprinter&nbsp</html>**</color>|
 | **Stations** | 134 |
 | **Color on map** | <color /#D3A80A><html>&nbsp&nbsp&nbsp&nbsp</html></color><html>&nbsp&nbspWarm Yellow</html> |
 ^  Service  |^
@@ -30,7 +30,7 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 | **Track gauge** | 1435mm\\ (4 ft 0.5 in)\\ standard gauge |
 | **Electrification** | 750V DC\\ (overhead wire and\\ third rail) |
 ^  Route Map  |^
-|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]], \\ as of 20 Oct. 2023. //  ||
+|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]], //\\ //as of 20 Oct. 2023. //  ||
 
 <WRAP right>
 
@@ -103,7 +103,6 @@ On 1 November 2023, Kallos stop is removed from routes 801, 802 and 802S.
 On 2 November 2023, Route 804 entered service, running between Taipa and Kallos/Light Rail Depot.
 
 On 13 March 2024, Route 992 was extended from Wald-Tafelberge to Old Depot with an intermediate stop at Grumbler's Grove.
-
 
 ===== Rolling Stock =====
 
@@ -231,7 +230,7 @@ Route 804  is using Phase I and Phase II trains.
 
 ^  Phase/Model  ^  Livery  ^  Cars  ^
 | **Light Rail Phase I** | KCR Orange | 2 |
-|**Light Rail Phase II**|:::|:::|
+| **Light Rail Phase II** | ::: | ::: |
 
 ===== Stops and Routes =====
 
@@ -382,7 +381,6 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Badgerstown | ::: | ::: | <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
 | ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
 |   | Sah Tou Emergency Platform | when service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P | Chou Wai |   | 10 February 2023 |
-
 
 ===== Routes =====
 
