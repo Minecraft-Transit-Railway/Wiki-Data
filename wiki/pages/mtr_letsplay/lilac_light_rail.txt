@@ -30,7 +30,7 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 | **Track gauge** | 1435mm\\ (4 ft 0.5 in)\\ standard gauge |
 | **Electrification** | 750V DC\\ (overhead wire and\\ third rail) |
 ^  Route Map  |^
-|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:sleepy_sapph|sleepy_sapph]], \\ as of 20 Oct. 2023. //  ||
+|  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//Lilac Light Rail Map, designed by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]], \\ as of 20 Oct. 2023. //  ||
 
 <WRAP right>
 
@@ -373,10 +373,11 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Shui Sheung | ::: | ::: | ::: | ::: |
 | ::: | Copper Grove | ::: | ::: | ::: | ::: |
 | ::: | Shan King | ::: | ::: | ::: | ::: |
-|  @#FFD5E9:\\ \\ \\ \\ <color #760A58>**<html><font size="4">11</font></html>**</color>  | <del>Old Depot</del> (Proposed) | 992 | Llanmara | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | N/A |
+|  @#FFD5E9:\\ \\ \\ \\ <color #760A58>**<html><font size="4">11</font></html>**</color>  | Old Depot | 992 | Llanmara | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | 13 March 2024 |
+| ::: | Grumbler's Grove | ::: | ::: |   | ::: |
 | ::: | Wald-Tafelberge | ::: | ::: | <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color> | 11 April 2023 |
 | ::: | Cape Lake | ::: | ::: |   | ::: |
-| ::: | Badgerstown | ::: | ::: | ::: | ::: |
+| ::: | Badgerstown | ::: | ::: |  <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
 | ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
 |   | Sah Tou Emergency Platform | when service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P | Chou Wai |   | 10 February 2023 |
 
