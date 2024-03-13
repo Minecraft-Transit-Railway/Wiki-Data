@@ -80,7 +80,7 @@ On 4 March 2023, Route 720, Route 882 extension and Route 482P went fully operat
 
 On 4 April 2023, Lilypad Rail started a big project at Tempest. This started with a new route 717 from Tempest to Sunrise via a 3 quarter clockwise loop. The project developed quickly and the following changes are made:\\ - 717 forms a complete loop and splits into 2 circular route, 717 and 718\\ - A smaller loop is built at the southwest of the big loop, and forms 2 circular route, 721 and 722, namely “Tempest South Circular”\\ - Qingli Railways proposed 2 new routes, 735 and 736. 735 runs from Sunrise to Dynamic (in the west of the loop) via the horizontal diameter of the bigger loop. 736 runs from Tempest to Sunrise, via 2 quarter of the smaller loop in anti clockwise direction, then continue via the bigger loop in clockwise direction.\\ - A new station near Dynamic, Tao Tung, is built for terminating trains of Route 721, 722, 735.\\ - Qingli Railways proposed a shorter version of route 736, which was later assigned with the route number 736P, running from Tempest to Tao Tung.\\ **- As the number of collaborative lines are much more than expected, Lilypad Rail suggested to co-own the Lilypad Light Rail and Qingli Light Rail systems. Qingli Railways accepted this idea. This plan was implemented soon after the confirmation of this proposal. The system is then renamed into Lilac Light Rail system.**
 
-On 10 April 2023, construction began on Route 992. Originally, Route 992's alignment was planned as a ferry from Exchange Place to Royal Shore via Badgerstown and the backside of Blacklea Mountain. Construction on the ferry pier at Exchange Place was already completed at that time. However, it was decided instead to create a Light Rail route. S43-Tec Light Rail vehicles were chosen for the route as the layout of the former ferry pier would not have allowed for Hong Kong LRVs. The line was opened between Exchange Place and Wald-Tafelberge on 11 April 2023, and extensions are planned northward to Old Depot and West Llanthrow stations
+On 10 April 2023, construction began on Route 992. Originally, Route 992's alignment was planned as a ferry from Exchange Place to Royal Shore via Badgerstown and the backside of Blacklea Mountain. Construction on the ferry pier at Exchange Place was already completed at that time. However, it was decided instead to create a Light Rail route. S43-Tec Light Rail vehicles were chosen for the route as the layout of the former ferry pier would not have allowed for Hong Kong LRVs. The line was opened between Exchange Place and Wald-Tafelberge on 11 April 2023, with extensions initially planned for later phases towards Old Depot and West Llanthrow stations.
 
 On 30 April 2023, during the construction of the South Continental Line, Lilypad Rail had made an assessment and released a plan to connect Winry and Ishima stations. The former is the terminus of the Blau LRT, and the latter being a stop on the South Continental Line. The line was thus named "Blau LRT Branch Line" despite not being connected track-wise to the original Blau LRT.
 
@@ -101,6 +101,8 @@ On 29 October 2023, Royal Park is completed for future connections to Elizabeth 
 On 1 November 2023, Kallos stop is removed from routes 801, 802 and 802S.
 
 On 2 November 2023, Route 804 entered service, running between Taipa and Kallos/Light Rail Depot.
+
+On 13 March 2024, Route 992 was extended from Wald-Tafelberge to Old Depot with an intermediate stop at Grumbler's Grove.
 
 
 ===== Rolling Stock =====
