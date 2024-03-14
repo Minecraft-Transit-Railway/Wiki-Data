@@ -1,0 +1,28 @@
+FIXME **This page is only vaguely translated into German. Please help completing the translation.**\\ //(remove this paragraph once the translation is complete)//
+
+====== ElectrostarJudge ======
+
+<WRAP 400px right>
+|  @#1797d6:  <color #ffffff>**ElectrostarJudge**</color>  ||
+| {{ mtr_user:electrostarskin.jpg?200 }}ElectrostarJudge's avatar ||
+|  @#1797d6:  <color #ffffff>**Overview**</color>  ||
+| **Auch Heißt ** | Electro |
+| ::: | Electrostar
+| **Name Inspiration** | The [[https://en.wikipedia.org/wiki/Bombardier_Electrostar|Bombardier Electrostar]] family of trains |
+| **Rollen** | @#3498db: <color #FFFFFF>%% %%Staff </color> |
+| ::: | @#FF73FA: <color #FFFFFF>%% %%Server Boosters </color> |
+| ::: | Let's Play Members |
+| ::: | Train Operators |
+| **Gesprochene Sprachen** | Englisch |
+| ::: | Deutsch |
+| **Let's Play Linien** | @#AE0D3F: <color #FFFFFF>%% %%CrossCountry </color> |
+| ::: | @#4D2F49: <color #FFFFFF>%% %%East Midlands Railway </color> |
+| ::: | @#E20177: <color #FFFFFF>%% %%Great Western </color> |
+| ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail (Defunct) </color> |
+| **Beitritt Die Discord** | 27th December 2021 |
+
+</WRAP>
+
+//**ElectrostarJudge**// ist ein Mitarbeiter in die  [[mtr:start|Minecraft Transit Railway]] gemeinschaft.. Er beginnt in Dezember 2021 und bekam Mitarbeiter in Juli 2022. %%In unserer Let's Play Server, Electrostar haben 3 Firmen, mit der East Midlands Railway, CrossCountry, und Great Western. %%Electrostar magst spielen Squash, parkrun helfer*nnen, und Auto rennen. 
+
+
