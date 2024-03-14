@@ -26,6 +26,8 @@
 </WRAP>
 **Hung Ngai Tung Station** (Chinese: //紅崖洞站//) is a station in the Sakura Stream Area built by [[mtr_community:staff:bdark000|BDark000]] on behalf of [[/west_lake_transport_authority|West Lake Transport Authority (WLT)]]. It is the temporary northern terminus of [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] before the renovation between [[/northern_snow_village_station|Northern Snow Village]] station and this station is done. It will become a mid-way stop of Line 1 (Meyan Line) afterwards. 
 
+The literal meaning of the Chinese name means //Red Clift and Cave//, comes from the Siberian Taiga biome, clifty terrain and large lush cave near the station.
+
 ===== History =====
 
 This station is first proposed in the northern extension from [[/providence_station|Providence]] station to [[/northern_snow_village_station|Northern Snow Village]] as an additional mid-way stop. 
@@ -74,9 +76,9 @@ One lift is serving between north concourse and the platforms, while another is 
 
 ===== Exits =====
 
-  * A: 
+  * A: Azalea Cave
     * A1: [WIP]
-    * A2: 
+    * A2: Azalea Cave
   * B: Shore {{mtr:elevator2.png?24x24}}
   * C: Little House on the Clift
     * C1: Little House on the Clift
