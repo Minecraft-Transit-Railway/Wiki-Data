@@ -53,8 +53,8 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 ===== Timeline =====
 
 ^  Trainset\\ After  |^  Date Start Test Run  |^  Date Start Service  |^  Trainset\\ Before  ^  Reformation Type  ^
-|  1  |V301/V302| | | | | \\  | |
-|  2  |V303/V304| | | | | \\  | |
+|  1  |V301/V302| | | | |V604/V804\\ E103/K403|  A1  |
+|  2  |V303/V304| | | | |V604/V804\\ E103/K403|  B1  |
 |  3  |V305/V306| | | | | \\  | |
 |  4  |V307/V308| | | | | \\  | |
 |  5  |V309/V310| | | | | \\  | |
