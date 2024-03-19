@@ -19,16 +19,9 @@
 
 ===== Operators =====
 
-{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress
-{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport
-{{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit
-{{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit
+{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress {{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport {{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit {{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit
 
-{{:mtr_community:unitedcitiesrailways:yorkshire.png?50|Yorkshire Airways}} Yorkshire Airways
-{{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail
-{{:mtr_community:unitedcitiesrailways:brunelrailways.png?50|Brunel Railways}} Brunel Railways
-{{:mtr_community:unitedcitiesrailways:apacherail.png?50|ApacheRail}} ApacheRail
-{{:mtr_community:unitedcitiesrailways:velocitas.png?50|Velocitas}} Velocitas
+{{:mtr_community:unitedcitiesrailways:yorkshire.png?50|Yorkshire Airways}} Yorkshire Airways {{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail {{:mtr_community:unitedcitiesrailways:brunelrailways.png?50|Brunel Railways}} Brunel Railways {{:mtr_community:unitedcitiesrailways:apacherail.png?50|ApacheRail}} ApacheRail {{:mtr_community:unitedcitiesrailways:velocitas.png?50|Velocitas}} Velocitas
 
 ===== Cities & Lines =====
 
@@ -51,13 +44,13 @@
 
 |  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  |
 |  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |  Moszyan Railways  |
-| ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  |  :::  |
+| ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  | ::: |
 |  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  |
 |  @#0000FF:Blue Line  |  Operational  |  Westwood  |  Lincoln Port  |  CountryLink*  |
 |  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |  UrbanExpress  |
 |  @#800000:Brown Line  |  Operational  |  Sunnyside  |  Outer Palma  |  Brunel Railways  |
 |  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  |
-|  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  SprintTransit  |
+|  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  ApacheRail  |
 |  @#FF0000:Red Line  |  Work In Progress  |  Ashfield West  |  Whitestone  |  SCT  |
 |  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |  ApostosRail  |
 |  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |  UrbanExpress  |
@@ -79,4 +72,12 @@
 |  @#D0D0D0:Bus Line 14  |  Planned  |  Dawson  |  Mall Avenue Station  |  Greenfield Transit  |
 
 //*Operators with an asterisk are decommissioned and no longer exist//
+
+==== Intercity ====
+
+|  @#A1C742:Sayama Corridor Intercity  |  Work In Progress  |  Mattupolis Medford  |  Outer Palma  |  ApacheRail / Moszyan Railways  |
+|  @#BF9052:Sayama Corridor Sprinter  |  Work In Progress  |  Sayama Sendindai  |  Outer Palma  |  Moszyan Railways  |
+|  @#75BF52:Sayama Corridor Regional  |  Work In Progress  |  Mattupolis Medford  |  Sayama Okamachi  |  ApacheRail  |
+|  @#385475:Great Western Mainline  |  Work In Progress  |  Shmar Union  |  Ashfield  |  Brunel Railways  |
+|  @#575757:Novig'Express  |  Work In Progress  |  Novigard  |  Ashfield  |  UrbanExpress  |
 
