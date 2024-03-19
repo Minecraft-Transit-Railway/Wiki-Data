@@ -19,9 +19,16 @@
 
 ===== Operators =====
 
-{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress {{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport {{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit
+{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress
+{{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport
+{{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit
+{{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit
 
-{{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit {{:mtr_community:ucr.png?50|PLACEHOLDER, REPLACE LATER WITH SPRINTTRANSIT LOGO}} SprintTransit {{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail
+{{:mtr_community:unitedcitiesrailways:yorkshire.png?50|Yorkshire Airways}} Yorkshire Airways
+{{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail
+{{:mtr_community:unitedcitiesrailways:brunelrailways.png?50|Brunel Railways}} Brunel Railways
+{{:mtr_community:unitedcitiesrailways:apacherail.png?50|ApacheRail}} ApacheRail
+{{:mtr_community:unitedcitiesrailways:velocitas.png?50|Velocitas}} Velocitas
 
 ===== Cities & Lines =====
 
@@ -49,13 +56,16 @@
 |  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |  Moszyan Railways  |
 | ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  |  :::  |
 |  @#0000FF:Blue Line  |  Operational  |  Westwood  |  Lincoln Port  |  CountryLink*  |
-|  @#00C1FF:Cyan Line  |  Work In Progress  |  Sunnyside  |  Delta Pier  |  SprintTransit  |
-|  @#00FF00:Green Line  |  Work In Progress  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  |
-|  @#800000:Brown Line  |  Work In Progress  |  Sunnyside  |  Outer Palma  |  CountryLink*  |
+|  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  |
+|  @#800000:Brown Line  |  Operational  |  Sunnyside  |  Outer Palma  |  Brunel Railways  |
+|  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  SprintTransit  |
 |  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |  ApostosRail  |
 |  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |  UrbanExpress  |
 |  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |  SMART Transit  |
-|  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |  Yorkshire Airlines*  |
+|  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |  Yorkshire Airlines  |
+|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
+|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
+|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
 
 //*Operators with an asterisk are decommissioned and no longer exist//
 
