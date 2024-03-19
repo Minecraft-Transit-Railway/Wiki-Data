@@ -42,7 +42,7 @@
 
 //All Greenfield lines are operated under the GTA name, even though they are run by different operators//
 
-|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  |   |
+|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  | @#EFEEF0:Evaluation |
 |  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |  Moszyan Railways  | 75.8 |
 | ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  | ::: |   |
 |  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  | 86.6 |
@@ -51,10 +51,10 @@
 |  @#800000:Brown Line  |  Operational  |  Sunnyside  |  Outer Palma  |  Brunel Railways  | 87.4 |
 |  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  | 93.6 |
 |  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  ApacheRail  | 83.0 |
-|  @#FF0000:Red Line  |  Work In Progress  |  Ashfield West  |  Whitestone  |  SCT  |  |
+|  @#FF0000:Red Line  |  Work In Progress  |  Ashfield West  |  Whitestone  |  SCT  |   |
 |  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |  ApostosRail  |   |
 |  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |  UrbanExpress  | 85.6 |
-|  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |  SMART Transit  |  |
+|  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |  SMART Transit  |   |
 |  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |  Yorkshire Airlines  |   |
 |  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |   |
 |  @#CACACA:Bus Line 2  |  Operational  |  Centrum/Bus Terminal  |  Melrose North  |  Greenfield Transit  |   |
