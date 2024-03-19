@@ -50,22 +50,33 @@
 //All Greenfield lines are operated under the GTA name, even though they are run by different operators//
 
 |  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  |
-|  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  |
-|  @#FF0000:Red Line  |  Operational  |  Ashfield West  |  Whitestone  |  SCT  |
-|  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |  UrbanExpress  |
 |  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |  Moszyan Railways  |
 | ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  |  :::  |
+|  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  |
 |  @#0000FF:Blue Line  |  Operational  |  Westwood  |  Lincoln Port  |  CountryLink*  |
-|  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  |
+|  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |  UrbanExpress  |
 |  @#800000:Brown Line  |  Operational  |  Sunnyside  |  Outer Palma  |  Brunel Railways  |
+|  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  |
 |  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  SprintTransit  |
+|  @#FF0000:Red Line  |  Work In Progress  |  Ashfield West  |  Whitestone  |  SCT  |
 |  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |  ApostosRail  |
 |  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |  UrbanExpress  |
 |  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |  SMART Transit  |
 |  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |  Yorkshire Airlines  |
 |  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
-|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
-|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |
+|  @#CACACA:Bus Line 2  |  Operational  |  Centrum/Bus Terminal  |  Melrose North  |  Greenfield Transit  |
+|  @#CBCBCB:Bus Line 3  |  Operational  |  Centrum/Bus Terminal  |  Ashfield Station  |  Greenfield Transit  |
+|  @#CCCCCC:Bus Line 4  |  Work In Progress  |  Centrum/Bus Terminal  |  Airport Terminals  |  Greenfield Transit  |
+|  @#CDCDCD:Bus Line 5  |  Planned  |  Centrum/Bus Terminal  |  Sonora River Transfer  |  Greenfield Transit  |
+|  @#CECECE:Bus Line 6  |  Planned  |  Centrum/Bus Terminal  |  Longport Keys East  |  Greenfield Transit  |
+|  @#CFCFCF:Bus Line 7  |  Planned  |  Centrum/Bus Terminal  |  Kazias Center  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 8  |  Planned  |  Centrum/Bus Terminal  |  Outer Palma  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 9  |  Planned  |  Kazias Center  |  Delta Cruise Terminal  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 10  |  Planned  |  Sonora River Transfer  |  Grand Lannex  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 11  |  Planned  |  Dawson  |  Grand Lannex  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 12  |  Planned  |  Dawson  |  Delta Cruise Terminal  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 13  |  Planned  |  Dawson  |  Longport Zoo  |  Greenfield Transit  |
+|  @#D0D0D0:Bus Line 14  |  Planned  |  Dawson  |  Mall Avenue Station  |  Greenfield Transit  |
 
 //*Operators with an asterisk are decommissioned and no longer exist//
 
