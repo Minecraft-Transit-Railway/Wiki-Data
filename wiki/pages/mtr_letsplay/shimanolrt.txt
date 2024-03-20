@@ -42,9 +42,12 @@ Originally, it was planned to be based on the Hong Kong LRT, but there is a hist
 =====Rolling Stock=====
 All vehicles are S43-tec LRV or compatible models.
 It varies slightly depending on the route, but basically it is operated without distinction between vehicles.
+
+Gray indicates trains that have not yet been introduced.
 ====List of liveries=====
 ====Shimano LRT====
 Currently, trains with four or more cars are operated with the same model and the same livery.
+===Standard Model===
 ^  Model  ^  Livery  ^  Cars  ^
 | **1928 Stock** | Dark Green | 2 or 4 |
 | **1975 Stock** | Pink | ::: |
@@ -57,7 +60,24 @@ Currently, trains with four or more cars are operated with the same model and th
 | **2010 Stock** | Purple | ::: |
 | **2020 Stock** | Gold\\ Yellow & Dark Gray(Utsunomiya Light Rail Opening Commemoration Livery) | ::: |
 | **2024 Stock** | Magenta | ::: |
+| @#888888: **1943 Stock** | @#888888: TBA | @#888888:2 or 4 |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+
+===Shimano MTR Compatible Model===
+A model compatible with through service to Shimano MTR.
+Unlike the Shimano MTR vehicles mentioned below, these vehicles operate without distinction as long as the tracks are connected.
+Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom.com/wiki/Smiling_Critters|Smiling Critters]], but currently only the Catnap livery is in operation.
+
+^  Model  ^  Livery  ^  Cars  ^
+| **Refurbished 1980 Stock** | Lavender(Catnap) | 2 or 4 |
+| @#888888: **TBA(1980 Stock - 1995 Stock)** | @#888888: Rose(Bobby BearHug) | @#888888:2 or 4 |
+| ::: | @#888888: Lemongrass(Bubba Bubbaphant) | ::: |
+| ::: | @#888888: Jasmine(CraftyCorn) | ::: |
+| ::: | @#888888: Vanilla(DogDay) | ::: |
+| ::: | @#888888: Peppermint(Hoppy Hopscotch) | ::: |
+| ::: | @#888888: Ylang-ylang((Cananga odorata))(Kickin Chicken) | ::: |
+| ::: | @#888888: PickyPiggy(Citrus) | ::: |
+
 ====Shimano MTR====
 A train that connects to LRT from Shimano MTR. We provide through service for part of AC01 and almost all of KR01.
 ^  Model  ^  Livery  ^  Cars  ^
@@ -83,9 +103,9 @@ This is a vehicle belonging to Teufort LRT coming from the Teufort area. All veh
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None||
 |萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None||
 |萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|None||
-|平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Shiroyuki Village|Zasian Line||
+|平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line||
 =====Through Service=====
 ^Company&Route^Route Name^Operation section^
-|Shimano MTR Jigglypuff Line|相01(AC01)|Kuromurasaki ⇄ Kurokusa ⇄ Acacialand Village |
-| ::: |黑01(KR01)|Kuromurasaki ⇄ Kurokusa ⇄ New Gold |
+|Shimano MTR Jigglypuff Line|相01(AC01)|Green Cape ⇄ Kurokusa ⇄ Acacialand Village |
+| ::: |黑01(KR01)|Green Cape ⇄ Kurokusa ⇄ New Gold |
 |Teufort LRT U2|相01(AC01)|Kurokusa Depot ⇄ Landfall ⇄ Banana Bay |
