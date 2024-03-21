@@ -30,6 +30,7 @@
 
 ===== Past Contributions =====
 
+  * Addition of small (4-doors, 20m or 21m) variants of some MTR trains
   * Addition of 60 km/h and 200 km/h rail connector w/ Jonathan
   * Addition of disable next station announcement by route w/ Jonathan
   * Centown Classic moderation, follow-ups of some unfinished projects (e.g. Tin Sha station) and track renovation of some lines (e.g. CHR On Shan Rail)
