@@ -76,7 +76,7 @@ Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom
 | ::: | @#888888: Vanilla(DogDay) | ::: |
 | ::: | @#888888: Peppermint(Hoppy Hopscotch) | ::: |
 | ::: | @#888888: Ylang-ylang((Cananga odorata))(Kickin Chicken) | ::: |
-| ::: | @#888888: PickyPiggy(Citrus) | ::: |
+| ::: | @#888888: Citrus(PickyPiggy) | ::: |
 
 ====Shimano MTR====
 A train that connects to LRT from Shimano MTR. We provide through service for part of AC01 and almost all of KR01.
