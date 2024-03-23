@@ -54,7 +54,7 @@ Currently, trains with four or more cars are operated with the same model and th
 | **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with Bombardier mitrac igbt-vvvf.)) | Pink | ::: |
 | **1980 Stock** | Blue | ::: |
 | **Refurbished 1980 Stock** | Yellow\\ White\\ Violet(Evangelion Unit-01) | ::: |
-| **1987 Stock** | Green | ::: |
+| **1987 Stock** | Green\\ White&Red&Maroon(Commemorating the extension of the Kita-Osaka Kyuko Line Livery)  | ::: |
 | **1995 Stock** | Orange\\ Wood\\ Reaf(Toden 8500 style) | ::: |
 | **2002 Stock** | Red((Same as default S43-tec color except logo))\\ Scarlet(Evangelion Unit-02) | ::: |
 | **2010 Stock** | Purple | ::: |
