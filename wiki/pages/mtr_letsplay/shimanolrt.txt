@@ -70,11 +70,11 @@ Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom
 
 ^  Model  ^  Livery  ^  Cars  ^
 | **Refurbished 1980 Stock** | Lavender(Catnap) | 2 or 4 |
+| **1995 Stock** | Peppermint(Hoppy Hopscotch) | ::: |
 | @#888888: **TBA(1980 Stock - 1995 Stock)** | @#888888: Rose(Bobby BearHug) | @#888888:2 or 4 |
 | ::: | @#888888: Lemongrass(Bubba Bubbaphant) | ::: |
 | ::: | @#888888: Jasmine(CraftyCorn) | ::: |
 | ::: | @#888888: Vanilla(DogDay) | ::: |
-| ::: | @#888888: Peppermint(Hoppy Hopscotch) | ::: |
 | ::: | @#888888: Ylang-ylang((Cananga odorata))(Kickin Chicken) | ::: |
 | ::: | @#888888: Citrus(PickyPiggy) | ::: |
 
