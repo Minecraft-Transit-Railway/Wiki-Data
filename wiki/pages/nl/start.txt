@@ -6,13 +6,13 @@ Welkom op de MTR wiki!
 
 ===== Extra Content =====
 
-  * [[nl:mtr_extra:start|Bronpaketten]] - Introductie over bronpaketten voor MTR
-  * [[nl:mtr_extra:resourcepack:make|Een bronpakket maken]] - Hoe je bronpaket maakt
+  * [[nl:mtr_extra:start|Bronpakketten]] - Introductie over bronpakketten voor MTR
+  * [[nl:mtr_extra:resourcepack:make|Een bronpakket maken]] - Hoe je een bronpakket maakt
     * [[nl:mtr_extra:resourcepack:make:texture|Treinen textureren]] - Hoe je bestaande treinen hertextureert
     * [[nl:mtr_extra:resourcepack:make:model|Treinen modelleren]] - Hoe je jouw eigen model toevoegt
-    * [[nl:mtr_extra:resourcepack:make:others|Andere]] - Hoe je borden, geluiden, etc. aan jouw bronpakket toevoegt
-  * [[nl:mtr_extra:resourcepack:faq|Veel gestelde vragen]] - Wat vragen over bronpaketten
-  * [[nl:mtr_addon:start|Addon mods gebruiken]] - Overzicht van aanvullende MTR addon mods
+    * [[nl:mtr_extra:resourcepack:make:others|Andere]] - Hoe je borden, geluiden etc. aan jouw bronpakket toevoegt
+  * [[nl:mtr_extra:resourcepack:faq|Veelgestelde vragen]] - Wat vragen over bronpakketten
+  * [[nl:mtr_addon:start|Add-ons gebruiken]] - Overzicht van aanvullende MTR-add-onmods
 
 
 ===== Multiplayerservers =====
