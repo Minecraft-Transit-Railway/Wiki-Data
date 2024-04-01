@@ -17,8 +17,8 @@ Welkom op de MTR-wiki!
 
 ===== Multiplayerservers =====
 
-  * [[nl:mtr_letsplay:start|Let's Play Server]] - De officiële server van de MTR mod
-  * [[nl:mtr_community:start|MTR Communities]] - De andere door de community gemaakte servers, en meer
+  * [[nl:mtr_letsplay:start|Let's Play Server]] - De officiële server van de MTR-mod
+  * [[nl:mtr_community:start|MTR Communities]] - De andere door de community gemaakte servers en meer
 
 ===== Bijdragen aan de wiki =====
 
