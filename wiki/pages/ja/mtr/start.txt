@@ -2,7 +2,7 @@ FIXME **このページはまだ完全には、翻訳されません。翻訳の
 
 ====== Minecraft Transit Railway ======
 
-**Minecraft Transit Railway**は香港MTR、ロンドン地下鉄、ニューヨークの地下鉄をベースにした[[https://minecraft.gamepedia.com/Mods | Minecraft mod]]です。他の雑多なブロックやアイテムと共に電車をゲームに追加します。このMODを使えば、あなたの世界に完全に機能する鉄道システムを構築することができます！
+**Minecraft Transit Railway**は香港MTR、ロンドン地下鉄、ニューヨークの地下鉄をベースにした[[https://ja.minecraft.wiki/w/Mod| Minecraft mod]]です。他の雑多なブロックやアイテムと共に電車をゲームに追加します。このMODを使えば、あなたの世界に完全に機能する鉄道システムを構築することができます！
 
 このMODはMinecraft ForgeとFabricのバージョン1.16、1.17、1.18、1.19（1.20は試験段階）に対応しています。
 
