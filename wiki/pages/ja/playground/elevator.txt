@@ -17,37 +17,37 @@
 | ::: | 高さ:16ブロック |
 | ::: | 幅:16ブロック |
 | ::: | 奥行:16ブロック |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E4%BD%93%E5%8A%9B|体力]]**| ∞((ガイドレールを破壊しない限り無敵)) |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E4%BD%93%E5%8A%9B|体力]]**| ∞((ガイドレールを破壊しない限り無敵)) |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーターダッシュボード**  ||
 |  {{ :mtr:elevator_refresher_icon.png?200 }}  ||
 |  インベントリ内のエレベーターダッシュボードのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 不可 |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーター呼び出しボタン連動コネクタ/リムーバー**  ||
 | {{ :mtr:elevator_buttons_link_connector.png?200 }} |{{ :mtr:elevator_buttons_link_remover.png?200 }}|
 |  インベントリ内のコネクターのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 不可 |
 | **作者** | %%Jonathan%% |
 
 |  @#00C42A: **エレベーターガイドレール/エレベーター着床レール**  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のガイドレールのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
-| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **[[https://ja.minecraft.wiki/w/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://ja.minecraft.wiki/w/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://ja.minecraft.wiki/w/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://ja.minecraft.wiki/w/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
 | **溶岩からの引火 ** | しない |
 | **作者** | %%Jonathan%% |
 
@@ -56,14 +56,14 @@
 |  エレベーター呼び出しボタンの外観  ||
 | {{ :mtr:elevator_track.png?200 }} ||
 |  インベントリ内のガイドレールのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
-| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **[[https://ja.minecraft.wiki/w/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://ja.minecraft.wiki/w/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://ja.minecraft.wiki/w/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://ja.minecraft.wiki/w/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
 | **溶岩からの引火 ** | しない |
 | **作者** | %%Jonathan%% |
 
@@ -72,15 +72,15 @@
 |  配置モードの異なるエレベーターのドアの外観  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のエレベーターのドアのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E9%81%93%E5%85%B7|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **配置モード ** | 偶数/奇数 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **[[https://ja.minecraft.wiki/w/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://ja.minecraft.wiki/w/%E7%88%86%E7%99%BA|爆発耐性]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://ja.minecraft.wiki/w/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://ja.minecraft.wiki/w/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
 | **溶岩からの引火 ** | しない |
 | **作者** | %%Jonathan%% |
 
@@ -89,15 +89,15 @@
 |  エレベーター階数表示パネルの外観  ||
 | {{ :mtr:elevator_track.png?200 }} |{{ :mtr:elevator_track.png?200 }}|
 |  インベントリ内のエレベーター階数表示パネルのアイコン  ||
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E5%B8%8C%E5%B0%91%E5%BA%A6|希少度]]** | 一般的 |
+| **[[https://ja.minecraft.wiki/w/%E5%86%8D%E7%94%9F%E5%8F%AF%E8%83%BD%E8%B3%87%E6%BA%90|再生可能]]** | 不明 |
 | **スタック ** | 可 (64) |
 | **配置モード ** | 偶数/奇数 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%88%86%E7%99%BA#%E7%88%86%E7%99%BA%E8%80%90%E4%B9%85%E5%80%A4|爆発耐性]]** | 不明 |
-| **[[https://minecraft.fandom.com/ja/wiki/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
-| **[[https://minecraft.fandom.com/ja/wiki/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
+| **[[https://ja.minecraft.wiki/w/%E9%81%93%E5%85%B7|回収道具]]** | 木以上のツルハシ |
+| **[[https://ja.minecraft.wiki/w/%E7%88%86%E7%99%BA|爆発耐性]]** | 不明 |
+| **[[https://ja.minecraft.wiki/w/%E6%98%8E%E3%82%8B%E3%81%95|発光]]**  | しない  |
+| **[[https://ja.minecraft.wiki/w/%E4%B8%8D%E9%80%8F%E6%98%8E%E5%BA%A6|透過]]**  | する  |
+| **[[https://ja.minecraft.wiki/w/%E7%82%8E#%E5%8F%AF%E7%87%83%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF|可燃性]]**  | なし  |
 | **溶岩からの引火 ** | しない |
 | **作者** | %%LX86%% |
 
