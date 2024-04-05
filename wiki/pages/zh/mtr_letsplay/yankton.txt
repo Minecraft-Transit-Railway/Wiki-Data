@@ -2,7 +2,7 @@
 
 <WRAP right>
 
-|  @#0F84DE: <color #ffffff>**Yankton**</color>  ||
+|  @#0F84DE: <color #ffffff>杨克顿</color>  ||
 | @#375E14: ||
 | @#FF98F2: ||
 | @#151C69: ||
@@ -10,7 +10,7 @@
 | @#65411D: ||
 | @#E7792B: ||
 |  {{ :mtr_community:yankton.png?300 }}//"杨克顿赛道"//\\ //杨克顿车站装饰//  ||
-^  **Overview**  |^
+^  **概述**  |^
 | **运营商** | [[mtr_letsplay:yankton_railway|杨克顿铁路]] |
 | ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
 | ::: | [[mtr_letsplay:lilypad_rail|睡莲铁路]] |
@@ -33,10 +33,10 @@
 ^  **颜色**  |^
 | @#0F84DE:  | 蓝色 |
 | @#ffffff:  | 白色 |
-^  **Station**  |^
+^  **车站**  |^
 | **种类** | 地铁 |
-| **Phases** | 2 |
-| **Floors** | - |
+| **部分** | 2 |
+| **楼层数** | - |
 | **站台楼层数** | 5 |
 | **无障碍** | 有 |
 | **车站码** | YAN |
@@ -45,7 +45,7 @@
 
 </WRAP>
 
-**杨克顿站** 是一个7线换乘站, 包括 [[mtr_letsplay:snowie_line|雪伊线]], [[mtr_letsplay:snowtral_line|雪央线]], [[mtr_letsplay:wanton_line|弯顿线]], [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]], [[mtr_letsplay:south_continental_line|地铁南大陆线]], [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]], [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]].它是Let's Play服务器中最繁忙、最老旧的车站之一.
+**杨克顿站** 是一个7线换乘站, 包括 [[mtr_letsplay:snowie_line|雪伊线]], [[mtr_letsplay:snowtral_line|雪央线]], [[mtr_letsplay:wanton_line|弯顿线]], [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]], [[mtr_letsplay:south_continental_line|地铁南大陆线]], [[mtr_letsplay:hsr_northern_heights_line|高铁北原线]], [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]].它是Let's Play服务器中最繁忙、最老旧的车站之一.
 
 车站分为两个阶段，主要地铁阶段和高速铁路阶段。两个阶段都有APM服务和通道连接。
 
@@ -109,27 +109,10 @@
 
 **高铁部分**
 
-| **G** | 出口 | 出口J |
-| **M** | 通道 | J出口通道 |
-| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|高铁北原线]] |
-| ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] 站台** ||
-| ::: | 轨道 -> |
-| ::: | <- 轨道 |
-| ::: | 平台 **11** | 预留站台 -> |
-| ::: | 岛式站台 ||
-| ::: | 站台 **12** | 预留站台 -> |
-| ::: | 站台 **13** | <- 预留站台 |
-| ::: | 岛式站台 ||
-| ::: | 站台 **14** | <- [[mtr_letsplay:hsr_northern_heights_line|北原线]] 到[[mtr_letsplay:llanmara_saint_ann_station|湾堡城中心]] |
-| ::: |  站台 **15** | <- [[mtr_letsplay:hsr_southern_cross_line|南横线]] to [[mtr_letsplay:rikkashi_station|六花市]] |
-| ::: | 侧式站台 ||
-| **L2** | **出口大厅** | 出口门，高铁换乘大厅 |
-| **L3** | **入口大厅** | 通道出口，入口|
-| **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 站台** ||
-| ::: | 侧式站台 ||
-| ::: | 站台 **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
-| ::: | 站台 **L4** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]]往杨克顿（地铁部分）|
-| ::: | 侧式站台 ||
+| **G** | 出口 | 出口J |  |
+| **M** | 通道 | J出口通道 |  |
+| **L1** | |  | ::: | @#E7792B:  站台 ||  | ::: | 轨道 -> | | ::: | <- 轨道 | | ::: | 平台 11 | 预留站台 -> |  | ::: | 岛式站台 || | ::: | 站台 12 | 预留站台 -> | | ::: | 站台 13 | <- 预留站台 |  | ::: | 岛式站台 || | ::: | 站台 14 | <-  到 |  | ::: |  站台 15 | <-  to  |  | ::: | 侧式站台 || | L2 | 出口大厅 | 出口门，高铁换乘大厅 |  | L3 | 入口大厅 | 通道出口，入口|  | L4 | @#E7792B:  站台 | | ::: | 侧式站台 ||  | ::: | 站台 L3 |  往  -> || | ::: | 站台 L4** | <- [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁自动运输系统]]往杨克顿（地铁部分） ||
+| ::: | 侧式站台 ||  |
 
 </WRAP>
 
