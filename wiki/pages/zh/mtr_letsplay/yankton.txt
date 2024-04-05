@@ -9,7 +9,7 @@
 | @#19DFDE: ||
 | @#65411D: ||
 | @#E7792B: ||
-|  {{ :mtr_community:yankton.png?300 }}//"Yankton Circuit"//\\ //Station Art in Yankton Station//  ||
+|  {{ :mtr_community:yankton.png?300 }}//"杨克顿赛道"//\\ //杨克顿车站装饰//  ||
 ^  **Overview**  |^
 | **运营商** | [[mtr_letsplay:yankton_railway|杨克顿铁路]] |
 | ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
@@ -104,52 +104,31 @@
 | ::: |  岛式站台  ||
 | ::: | 站台 **8** | <- [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 往 [[mtr_letsplay:lake_city_station|湖城]]/[[mtr_letsplay:kowloon_station|九龙]] |
 | ::: | 站台 **9** | [[mtr_letsplay:south_continental_line|南大陆线]]往[[mtr_letsplay:cyan_heights_station|蓝台]] -> |
-
 | ::: | 岛式站台 ||
-
 | ::: | 平台 **10** | <- [[mtr_letsplay:south_continental_line|南大陆线]] 终到站台 |
 
 **高铁部分**
 
 | **G** | 出口 | 出口J |
-
 | **M** | 通道 | J出口通道 |
-
-| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|高铁北原线
+| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|高铁北原线]] |
 | ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] 站台** ||
-
-| ::: | 轨道 -> ||
-
-| ::: | <- 轨道 ||
-
+| ::: | 轨道 -> |
+| ::: | <- 轨道 |
 | ::: | 平台 **11** | 预留站台 -> |
-
-| ::: | 岛屿平台 ||
-
-| ::: | 平台 **12** | 预留站台 -> |
-
-| ::: | 平台 **13** | <- 预留站台 |
-
 | ::: | 岛式站台 ||
-
-| ::: | 站台 **14** | <- [[mtr_letsplay:hsr_northern_heights_line|北原线]] 到 [[mtr_letsplay:llanmara_saint_ann_station|湾堡城中心]] |
-
-| ::: | 平台 **15** | <- [[mtr_letsplay:hsr_southern_cross_line|南横线]] to [[mtr_letsplay:rikkashi_station|六花市]] |
-
+| ::: | 站台 **12** | 预留站台 -> |
+| ::: | 站台 **13** | <- 预留站台 |
+| ::: | 岛式站台 ||
+| ::: | 站台 **14** | <- [[mtr_letsplay:hsr_northern_heights_line|北原线]] 到[[mtr_letsplay:llanmara_saint_ann_station|湾堡城中心]] |
+| ::: |  站台 **15** | <- [[mtr_letsplay:hsr_southern_cross_line|南横线]] to [[mtr_letsplay:rikkashi_station|六花市]] |
 | ::: | 侧式站台 ||
-
 | **L2** | **出口大厅** | 出口门，高铁换乘大厅 |
-
 | **L3** | **入口大厅** | 通道出口，入口|
-
 | **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 站台** ||
-
 | ::: | 侧式站台 ||
-
 | ::: | 站台 **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
-
 | ::: | 站台 **L4** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]]往杨克顿（地铁部分）|
-
 | ::: | 侧式站台 ||
 
 </WRAP>
