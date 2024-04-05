@@ -1,5 +1,3 @@
-等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
-
 ====== 杨克顿站 ======
 
 <WRAP right>
@@ -16,22 +14,22 @@
 | **运营商** | [[mtr_letsplay:yankton_railway|杨克顿铁路]] |
 | ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
 | ::: | [[mtr_letsplay:lilypad_rail|睡莲铁路]] |
-| **Lines** | [[mtr_letsplay:snowie_line|雪伊线]] |
+| **线路** | [[mtr_letsplay:snowie_line|雪伊线]] |
 | ::: | [[mtr_letsplay:snowtral_line|雪央线]] |
 | ::: | [[mtr_letsplay:wanton_line|弯顿线]] |
 | ::: | [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] |
 | ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线]] |
-| ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] |
+| ::: | [[mtr_letsplay:hsr_northern_heights_line|高铁北原线]] |
 | ::: | [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] |
-| ::: | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁旅客自动运输系统]] |
+| ::: | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁自动运输系统]] |
 | **拥有者** | [[mtr_community:StrongerLock|Stronger Lock]] |
-| **Region** | [[mtr_letsplay:yankton_region|Yankton]] |
-| **站台** | 15+4 (14 island, 1 dock, 4 dock APM) |
+| **地区** | [[mtr_letsplay:yankton_region|杨克顿]] |
+| **站台** | 15+4 (14个岛式站台, 1个港湾式站台, 4个港湾式APM站台) |
 | **区块数** | 19 |
 | **坐标** | (3022, 5091) |
-^  **Translations**  |^
-| **Traditional** | 杨克顿 |
-| **Simplified** | 杨克顿 |
+^  **翻译**  |^
+| **繁体** | 楊克頓 |
+| **简体** | 杨克顿 |
 ^  **颜色**  |^
 | @#0F84DE:  | 蓝色 |
 | @#ffffff:  | 白色 |
@@ -40,10 +38,10 @@
 | **Phases** | 2 |
 | **Floors** | - |
 | **站台楼层数** | 5 |
-| **Step-Free Accessible** | Yes |
+| **无障碍** | 有 |
 | **车站码** | YAN |
-| **Opened** | 27 September, 2022 |
-| **Electrification** | - |
+| **开通日期** | 2022年9月27日 |
+| **电气化** | 是 |
 
 </WRAP>
 
@@ -56,75 +54,103 @@
 ===== 历史 =====
 
   * **2022年8月18日**：雪伊线开始施工。[[mtr_community:StrongerLock|Stronger Lock]]（杨克顿铁路）负责这项工作。同一天，杨克顿站开始施工。
-  * **24 August, 2022**: Lakeside Mystic Line extends its service via Yankton, uses platforms 7-8.
-  * **11 September, 2022**: Yankton Station platforms 1-10 are finished, while concourse is not yet constructed. This station is introduced by [[/User:Jonafanho|Jonathan]] on the Let's Play Series Season 1 Episode 9.
-  * **27 September, 2022**: Snowie Line is offically opened to public, Wanton Line (On Hau - Gulaton) and Snowtral Line (Yankton - Gulaton) opens temporary service for testing.
-  * **Unknown November, 2022**: Yankton HSR Phase starts construction, adding platforms 11-15 and a pair of passing track. APM service is connected between Main Concourse, HSR Concourse and Yanktei Station. Temporary passegeway is built in the main concourse for connecting metro side.
-  * **14 November, 2022**: [[/User:Jonafanho|Jonathan]] connected HSR railway, Northern Heights Line, to Yankton HSR Phase, passengers can take trains to Spawn and Llanmara directly in platform 15.
-  * **24 March, 2023**: Metro Phase Concourse (L2) is officially opened, Exit A is connected to HSR Phase, passengers can directly walk to HSR platforms. Exits B-E and Exit J is opened. There is a VIP Longue in Main Concourse, and a Resting Room in Wanton Line platforms, providing comfortable rest for busy Yankton passengers. 
-  * **7 June, 2023**: South Continental Line extends its service and terminates in Yankton, uses platforms 9-10.
-  * **10 August, 2023**: HSR Southern Cross starts its service in platform 15, connected to Danielston Memorial Station. Northern Heights Line trains moves its service in platform 14.
+  * **2022年8月24日**：湖岸迷离通过杨克顿延伸服务，使用7-8号站台。
 
-===== Layout =====
+* **2022年9月11日**：杨克顿站1-10号站台完工，大厅尚未建成。该车站由[[/User:Jonafanho|Jonathan]]在Let's Play系列第1季第9集介绍。
+
+* **2022年9月27日**：雪伊线正式向公众开放，弯顿线（岸口-古拉顿）和雪央线（杨克顿-古拉顿）开放临时服务进行测试。
+
+* **2022年11月**：杨克顿高铁部分开始施工，增加了11-15号站台和一对通道。APM服务连接在主大厅、高铁大厅和杨地站之间。临时通道建在连接地铁侧的主大厅。
+
+* **2022年11月14日**：[[/用户：Jonafanho|Jonathan]]连接高速铁路北原线到杨克顿高铁部分，乘客可以直接在15号站台乘坐高铁前往重生区和湾堡城。
+
+* **2023年3月24日**：地铁阶段大厅（L2）正式开放，A出口与高铁部分相连，乘客可以直接步行到高铁站台。B-E出口和J出口打开。主大厅有一个VIP长厅，弯顿线站台有一个候车室，为忙碌的杨克顿乘客提供舒适的休息。
+
+* **2023年6月7日**：南大陆线延长其服务，终止于杨克顿，使用9-10号站台。
+
+* **2023年8月10日**：高铁南横线在15号站台开始服务，连接到丹尼尔斯顿纪念站。北原线列车在14号站台提供服务。
+
+===== 车站布局 =====
 
 <WRAP left>
 
-**Metro Phase**
+**铁路信息**
 
-| **G** | Exits | Exit B-E |
-| **U1** | Shops | Exit B-E Passageway |
-| **U2/UC** | **Concourse** | VIP Lonuge, Gates, Exit A, Exit J Passageway |
-| **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
-| ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
-| ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:divillage_island_station|Divillage Island]] |
-| ::: | Platform **3** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **4** | <- [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:southorn_station|Southorn]] |
-| **U4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
-| ::: |  Side Platform  ||
-| ::: | Platform **L1** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to [[mtr_letsplay:yanktei_station|Yanktei]] -> |
-| ::: | Platform **L2** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Terminated Platform |
-| ::: |  Side Platform  ||
-| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|Wanton Line]] <color #ffffff>Platforms</color>** ||
-| ::: | Platform **5** | [[mtr_letsplay:wanton_line|Wanton Line]] to [[mtr_letsplay:on_hau_station|On Hau]] -> |
-| ::: |  Island Platform  ||
-| ::: |  Transfer Lobby, Resting Room  ||
-| ::: |  Island Platform  ||
-| ::: | Platform **6** | <- [[mtr_letsplay:wanton_line|Wanton Line]] to [[mtr_letsplay:jacaranda_hill_station|Jacaranda Hill]] |
-| **U6** | @#19DFDE: **[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] Platforms** ||
-| ::: | @#65411D: **[[mtr_letsplay:south_continental_line|South Continental Line]] <color #ffffff>Platforms</color>** ||
-| ::: | Platform **7** | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:gate_of_yunlong_station|Gate of Yunlong]] -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **8** | <- [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:lake_city_station|Lake City]]/[[mtr_letsplay:kowloon_station|Kowloon]] |
-| ::: | Platform **9** | [[mtr_letsplay:south_continental_line|South Continental Line]] to [[mtr_letsplay:cyan_heights_station|Cyan Heights]] -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **10** | <- [[mtr_letsplay:south_continental_line|South Continental Line]] Terminated Platform |
+| **G** | 出口 | Exit B-E |
+| **U1** | 商店 | Exit B-E Passageway |
+| **U2/UC** | **大堂** | VIP候车室，大门，A出口，J通道出口 |
+| **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|雪央线]] 站台** ||
+| ::: | @#375E14: **[[mtr_letsplay:snowie_line|雪伊线]] <color #ffffff>站台</color>** ||
+| ::: | 站台 **1** | [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:suzumenda_station|雀田方向]] -> |
+| ::: |  岛式站台  ||
+| ::: | 站台 **2** | <- [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:divillage_island_station|二民岛]] |
+| ::: | 站台 **3** | [[mtr_letsplay:snowie_line|雪伊线]] 往 [[mtr_letsplay:eden_station|伊甸]] -> |
+| ::: |  岛式站台  ||
+| ::: | 站台 **4** | <- [[mtr_letsplay:snowie_line|雪伊线]] 往 [[mtr_letsplay:southorn_station|修顿]] |
+| **U4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 站台** ||
+| ::: |  侧式站台  ||
+| ::: | 站台 **L1** | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
+| ::: | 站台 **L2** | <- [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 终到站台 |
+| ::: |  侧式站台  ||
+| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|弯顿线]] <color #ffffff>Platforms</color>** ||
+| ::: | 站台 **5** | [[mtr_letsplay:wanton_line|弯顿线]] 往 [[mtr_letsplay:on_hau_station|岸口]] -> |
+| ::: |  岛式站台  ||
+| ::: |  换乘大厅、候车室  ||
+| ::: |  岛式站台  ||
+| ::: | 站台 **6** | <- [[mtr_letsplay:wanton_line|弯顿线]] 往 [[mtr_letsplay:jacaranda_hill_station|楹山]] |
+| **U6** | @#19DFDE: **[[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 站台** ||
+| ::: | @#65411D: **[[mtr_letsplay:south_continental_line|南大陆线]] <color #ffffff>站台</color>** ||
+| ::: | 站台 **7** | [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 往[[mtr_letsplay:gate_of_yunlong_station|云龙之门]] -> |
+| ::: |  岛式站台  ||
+| ::: | 站台 **8** | <- [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 往 [[mtr_letsplay:lake_city_station|湖城]]/[[mtr_letsplay:kowloon_station|九龙]] |
+| ::: | 站台 **9** | [[mtr_letsplay:south_continental_line|南大陆线]]往[[mtr_letsplay:cyan_heights_station|蓝台]] -> |
 
-**HSR Phase**
+| ::: | 岛式站台 ||
 
-| **G** | Exits | Exit J |
-| **M** | Passageway | Exit J Passageway |
-| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] Platforms** ||
-| ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
-| ::: | Passing Track -> ||
-| ::: | <- Passing Track ||
-| ::: | Platform **11** | Reserved Platform -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **12** | Reserved Platform -> |
-| ::: | Platform **13** | <- Reserved Platform |
-| ::: |  Island Platform  ||
-| ::: | Platform **14** | <- [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] to [[mtr_letsplay:llanmara_saint_ann_station|Llanmara Saint Ann's]] |
-| ::: | Platform **15** | <- [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to [[mtr_letsplay:rikkashi_station|Rikkashi]] |
-| ::: |  Side Platform  ||
-| **L2** | **Exit Concourse** | Exit Gates, HSR Transfer Lobby |
-| **L3** | **Entrance Lobby** | Exit A Passageway, Entrance gates |
-| **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
-| ::: |  Side Platform  ||
-| ::: | Platform **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to [[mtr_letsplay:yanktei_station|Yanktei]] -> |
-| ::: | Platform **L4** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to Yankton (Metro Phase) |
-| ::: |  Side Platform  ||
+| ::: | 平台 **10** | <- [[mtr_letsplay:south_continental_line|南大陆线]] 终到站台 |
+
+**高铁部分**
+
+| **G** | 出口 | 出口J |
+
+| **M** | 通道 | J出口通道 |
+
+| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|高铁北原线
+| ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] 站台** ||
+
+| ::: | 轨道 -> ||
+
+| ::: | <- 轨道 ||
+
+| ::: | 平台 **11** | 预留站台 -> |
+
+| ::: | 岛屿平台 ||
+
+| ::: | 平台 **12** | 预留站台 -> |
+
+| ::: | 平台 **13** | <- 预留站台 |
+
+| ::: | 岛式站台 ||
+
+| ::: | 站台 **14** | <- [[mtr_letsplay:hsr_northern_heights_line|北原线]] 到 [[mtr_letsplay:llanmara_saint_ann_station|湾堡城中心]] |
+
+| ::: | 平台 **15** | <- [[mtr_letsplay:hsr_southern_cross_line|南横线]] to [[mtr_letsplay:rikkashi_station|六花市]] |
+
+| ::: | 侧式站台 ||
+
+| **L2** | **出口大厅** | 出口门，高铁换乘大厅 |
+
+| **L3** | **入口大厅** | 通道出口，入口|
+
+| **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 站台** ||
+
+| ::: | 侧式站台 ||
+
+| ::: | 站台 **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
+
+| ::: | 站台 **L4** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]]往杨克顿（地铁部分）|
+
+| ::: | 侧式站台 ||
 
 </WRAP>
 
