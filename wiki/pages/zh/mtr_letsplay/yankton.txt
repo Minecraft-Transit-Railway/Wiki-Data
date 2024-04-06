@@ -81,7 +81,7 @@
 | **U2/UC** | **大堂** | VIP候车室，大门，A出口，J通道出口 |
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|雪央线]] 站台** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|雪伊线]] <color #ffffff>站台</color>** ||
-| ::: | 站台 **1** | [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:suzumenda_station|雀田方向]] -> |
+| ::: | 站台 **1** | [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:suzumenda_station|雀田]] -> |
 | ::: |  岛式站台  ||
 | ::: | 站台 **2** | <- [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:divillage_island_station|二民岛]] |
 | ::: | 站台 **3** | [[mtr_letsplay:snowie_line|雪伊线]] 往 [[mtr_letsplay:eden_station|伊甸]] -> |
@@ -92,7 +92,7 @@
 | ::: | 站台 **L1** | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
 | ::: | 站台 **L2** | <- [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 终到站台 |
 | ::: |  侧式站台  ||
-| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|弯顿线]] <color #ffffff>Platforms</color>** ||
+| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|弯顿线]] **<color #ffffff>站台**</color>** ||
 | ::: | 站台 **5** | [[mtr_letsplay:wanton_line|弯顿线]] 往 [[mtr_letsplay:on_hau_station|岸口]] -> |
 | ::: |  岛式站台  ||
 | ::: |  换乘大厅、候车室  ||
