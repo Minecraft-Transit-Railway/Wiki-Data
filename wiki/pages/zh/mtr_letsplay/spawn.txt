@@ -20,7 +20,7 @@
 | ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
 | ::: | [[mtr_letsplay:cyan_twilight|蓝霞线(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线(C)]] |
-| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL]]Azalea-CL(C) |
+| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL]]|
 | ::: | [[mtr_letsplay:lakeside_mystic_line|高铁北原线(D)]] |
 | ::: | [[mtr_letsplay:south_continental_line|高铁东北线(D)]] |
 | ::: | [[mtr_letsplay:hsr_ intercity_metro-diagonally line |高铁城际捷运-斜角线(D)]] |
