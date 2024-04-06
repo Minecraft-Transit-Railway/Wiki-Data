@@ -3,3 +3,48 @@
 
 重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:north_coast_line|北海岸线]]
 
+|  **重生区** ||
+^  **概述**  |^
+| **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
+| ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
+| ::: | [[mtr_letsplay:lilypad_rail|睡莲铁路]] |
+| ::: | [[mtr_letsplay:cyanex|蓝星捷运]] |
+| ::: | [[mtr_letsplay:shimano_mtr|缟野MTR]] |
+| **线路** | [[mtr_letsplay:spawn_grand_circular|重生大循环(B)]] |
+| ::: | [[mtr_letsplay:airport_express|机场快线(B)]] |
+| ::: | [[mtr_letsplay:scottetsu_line|苏铁线(B)]] |
+| ::: | [[mtr_letsplay:red_line|红线(B)]] |
+| ::: | [[mtr_letsplay:furret_line|大立线(B)]] |
+| ::: | [[mtr_letsplay:north_coast_line|北海岸线(A)]] |
+| ::: | [[mtr_letsplay:sightseeing_local|观光缓行线(C)]] |
+| ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
+| ::: | [[mtr_letsplay:cyan_twilight|蓝霞线(C)]] |
+| ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线(C)]] |
+| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL]]Azalea-CL(C) |
+| ::: | [[mtr_letsplay:lakeside_mystic_line|高铁北原线(D)]] |
+| ::: | [[mtr_letsplay:south_continental_line|高铁东北线(D)]] |
+| ::: | [[mtr_letsplay:hsr_ intercity_metro-diagonally line |高铁城际捷运-斜角线(D)]] |
+| ::: | [[mtr_letsplay:hsr_danchun_line|高铁丹春线(E)]] |
+| ::: | [[mtr_letsplay:hsr_spawn_apm|重生区高铁客运大楼自动运输系统]] |
+| **拥有者** | [[mtr_community:jonafanho|Jonathan]] |
+| **地区** | [[mtr_letsplay:spawn_region|重生区]] |
+| **站台** | 12+4+6+12 (12个重生区地铁站台,6个蓝台地铁站台,12个高铁站台,4个APM站台) |
+| **区块数** | 需要补充 |
+| **坐标** | (26, -183) |
+^  **翻译**  |^
+| **繁体** | 重生區 |
+| **简体** | 重生区 |
+^  **颜色**  |^
+| 需要补充 | 蓝色 |
+| 需要补充 | 粉色 |
+| 需要补充 | 青色 |
+^  **车站**  |^
+| **种类** | 地铁 、高铁 |
+| **部分** | 2 |
+| **楼层数** | - |
+| **站台楼层数** | 5 |
+| **无障碍** | 有 |
+| **车站码** | SPW |
+| **开通日期** | 2022年 需要补充|
+| **电气化** | 是 |
+
