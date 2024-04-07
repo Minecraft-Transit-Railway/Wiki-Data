@@ -67,7 +67,8 @@ In early August 2023, the entire loop line section opened from Shirokaba Mansion
 
 The final section, between Black Lea and Llanmara stations, will open in late August 2023. All sections are now open except for Twynn Station along the way.
 
-From the end of 2023, due to server lag due to an increase in the number of players, a stuck area occurred near the Depot, so the service frequency was temporarily reduced to 6 minutes from December 30, 2023, but the service frequency was temporarily reduced to 6 minutes from April 4, 2024. By moving the Depot to the south and changing the alignment to make it difficult for passengers to get stuck, the service frequency was returned to 2 and a half minutes. The site of the old Depot will be used as the [[Jigglypuff Line]] Depot.
+From the end of 2023, due to server lag due to an increase in the number of players, a stuck area occurred near the Depot, so the service frequency was temporarily reduced to 6 minutes from December 30, 2023. 
+April 4, 2024. By moving the Depot to the south and changing the alignment to make it difficult for passengers to get stuck, the service frequency was returned to 2 and a half minutes. The site of the old Depot will be used as the [[Jigglypuff Line]] Depot.
 
 ===== Rolling Stocks =====
 See [[mtr_letsplay:11-000_series|Terralith Rapid Transit 11-000 Series]].
