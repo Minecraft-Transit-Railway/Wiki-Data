@@ -67,20 +67,22 @@ In early August 2023, the entire loop line section opened from Shirokaba Mansion
 
 The final section, between Black Lea and Llanmara stations, will open in late August 2023. All sections are now open except for Twynn Station along the way.
 
+From the end of 2023, due to server lag due to an increase in the number of players, a stuck area occurred near the Depot, so the service frequency was temporarily reduced to 6 minutes from December 30, 2023, but the service frequency was temporarily reduced to 6 minutes from April 4, 2024. By moving the Depot to the south and changing the alignment to make it difficult for passengers to get stuck, the service frequency was returned to 2 and a half minutes. The site of the old Depot will be used as the [[Jigglypuff Line]] Depot.
+
 ===== Rolling Stocks =====
 See [[mtr_letsplay:11-000_series|Terralith Rapid Transit 11-000 Series]].
 ===== Operations =====
 
 All trains operate in 9-car formations. All trains run clockwise from Ying Chuk, return to Ying Chuk, and continue towards Llanmara.
 
-AtAt the time of opening, the train frequency was 2.5 minutes, same as other SMTR lines, but from December 30, 2023, the train frequency will be 6 minutes for a limited time.
+As mentioned above, it used to be 6 minutes, but after relocating the Depot, it has been returned to 2 and a half minutes.
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
 |  @#BB492B:  ||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S11)Cinderace Line**  |
-| \\ All hours \\ <html>&nbsp</html>|  \\ 6 - 7 |
+| \\ All hours \\ <html>&nbsp</html>|  \\ 2.5 |
 
 </WRAP>
 
