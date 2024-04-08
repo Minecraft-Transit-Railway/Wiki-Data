@@ -2,7 +2,7 @@
 ====== 重生区站 ======
 
 重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:north_coast_line|北海岸线]]
-
+此外，还有附属车站蓝台站和2个高铁客运大楼
 |  **重生区** ||
 ^  **概述**  |^
 | **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
@@ -18,9 +18,9 @@
 | ::: | [[mtr_letsplay:north_coast_line|北海岸线(A)]] |
 | ::: | [[mtr_letsplay:sightseeing_local|观光缓行线(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
-| ::: | [[mtr_letsplay:cyan_twilight|蓝霞线(C)]] |
+| ::: | [[mtr_letsplay:cyan_twilight_line|蓝霞线(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线(C)]] |
-| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL]]|
+| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]]|
 | ::: | [[mtr_letsplay:lakeside_mystic_line|高铁北原线(D)]] |
 | ::: | [[mtr_letsplay:south_continental_line|高铁东北线(D)]] |
 | ::: | [[mtr_letsplay:hsr_ intercity_metro-diagonally line |高铁城际捷运-斜角线(D)]] |
@@ -35,9 +35,9 @@
 | **繁体** | 重生區 |
 | **简体** | 重生区 |
 ^  **颜色**  |^
-| 需要补充 | 蓝色 |
-| 需要补充 | 粉色 |
-| 需要补充 | 青色 |
+| 需要补充 | 蓝色 重生区 |
+| 需要补充 | 粉色 1号高铁客运大楼 |
+| 需要补充 | 青色 2号高铁客运大楼 |
 ^  **车站**  |^
 | **种类** | 地铁 、高铁 |
 | **部分** | 6 |
