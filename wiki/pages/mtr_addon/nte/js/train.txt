@@ -101,30 +101,30 @@ TrainScriptContext.setDebugInfo(key: String, value: Object)
 </code>
     * Output debugging information in the upper left corner of the screen. You need to enable "Show JS debug info" in NTE Settings to display it. ''key'' is the name of the value, ''value'' is the content (''GraphicsTexture'' type will be displayed, others will be converted to string).
 
-^ Functions And Objects ^ Description |   |
-| ''train.shouldRender(): boolean'' | Whether this train should be shown now. When the setting to hide the train the player is on is enabled, the script will run as normal in order for features such as broadcasting to still work. This function will return ''false'' to disable features such as particle effects. Note that this function is not needed to stop ''drawCarModel'', NTE will automatically call it. |   |
-| ''train.shouldRenderDetail(): boolean'' | Whether the train is within the detailed drawing radius (32 blocks). To save resources, it is recommended to stop processing things like broadcasts, displays, detailed models, etc. when the value is ''false''. |   |
-| ''train.trainTypeId(): String'' | Train Type ID. |   |
-| ''train.baseTrainType(): String'' | Based on the model ID. |   |
-| ''train.id(): long'' | The unique number of the vehicle inside the MTR. It's a random 64-bit integer. <wrap lo>[Nemo's note: Maybe in JavaScript the last few bits become 0 because there are not enough valid digits?]</wrap> |   |
-| ''train.transportMode(): TransportMode'' | Mode of transportation. |   |
-| ''train.spacing(): int'' | Length of each car + 1. |   |
-| ''train.width(): int'' | Width. Since the player also has a width [what?], a wagon that is 3 blocks wide has a value of 2 for this attribute. |   |
-| ''train.trainCars(): int'' | Number of cars. |   |
-| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s ^ 2. ^
-| ''train.manualAllowed(): boolean'' | Whether manual operation is allowed. |   |
-| ''train.maxManualSpeed(): int'' | The maximum speed at manual control. It corresponds to the ordering of track types from low to high. [what?] |   |
-| ''train.manualToAutomaticTime(): int'' | Time to switch back to automatic control after being unmanned. |   |
-| ''train.path(): List<PathData>'' | A travel path representing a list of each section of the path to be traveled. Each element represents one ''PathData''. |   |
-| ''train.railProgress(): double'' | Distance from the siding. |   |
-| ''train.speed(): float'' | Speed, is measured in m/tick, which is equal to 1/20 m/s. |   |
-| ''train.doorValue(): float'' | Door status. 0 - fully closed, 1 - fully open. Values between - smooth transition between states. |   |
-| ''train.isDoorOpening(): boolean'' | Are doors opening? |   |
-| ''train.doorLeftOpen[carIndex: int]: boolean'' | Whether left doors of a particular car can be opened. |   |
-| ''train.doorRightOpen[carIndex: int]: boolean'' | Whether right doors of a particular car can be opened. |   |
-| ''train.isCurrentlyManual(): boolean'' | Is it manually operated right now? |   |
-| ''train.isReversed(): boolean'' | Is the train reversed? That is, is the first car on the rear? |   |
-| ''train.isOnRoute(): boolean'' | Is the train on the route? |   |
+^ Functions And Objects ^ Description ^
+| ''train.shouldRender(): boolean'' | Whether this train should be shown now. When the setting to hide the train the player is on is enabled, the script will run as normal in order for features such as broadcasting to still work. This function will return ''false'' to disable features such as particle effects. Note that this function is not needed to stop ''drawCarModel'', NTE will automatically call it. |
+| ''train.shouldRenderDetail(): boolean'' | Whether the train is within the detailed drawing radius (32 blocks). To save resources, it is recommended to stop processing things like broadcasts, displays, detailed models, etc. when the value is ''false''. |
+| ''train.trainTypeId(): String'' | Train Type ID. |
+| ''train.baseTrainType(): String'' | Based on the model ID. |
+| ''train.id(): long'' | The unique number of the vehicle inside the MTR. It's a random 64-bit integer. <wrap lo>[Nemo's note: Maybe in JavaScript the last few bits become 0 because there are not enough valid digits?]</wrap> |
+| ''train.transportMode(): TransportMode'' | Mode of transportation. |
+| ''train.spacing(): int'' | Length of each car + 1. |
+| ''train.width(): int'' | Width. Since the player also has a width [what?], a wagon that is 3 blocks wide has a value of 2 for this attribute. |
+| ''train.trainCars(): int'' | Number of cars. |
+| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s^2 |
+| ''train.manualAllowed(): boolean'' | Whether manual operation is allowed. |
+| ''train.maxManualSpeed(): int'' | The maximum speed at manual control. It corresponds to the ordering of track types from low to high. [what?] |
+| ''train.manualToAutomaticTime(): int'' | Time to switch back to automatic control after being unmanned. |
+| ''train.path(): List<PathData>'' | A travel path representing a list of each section of the path to be traveled. Each element represents one ''PathData''. |
+| ''train.railProgress(): double'' | Distance from the siding. |
+| ''train.speed(): float'' | Speed, is measured in m/tick, which is equal to 1/20 m/s. |
+| ''train.doorValue(): float'' | Door status. 0 - fully closed, 1 - fully open. Values between - smooth transition between states. |
+| ''train.isDoorOpening(): boolean'' | Are doors opening? |
+| ''train.doorLeftOpen[carIndex: int]: boolean'' | Whether left doors of a particular car can be opened. |
+| ''train.doorRightOpen[carIndex: int]: boolean'' | Whether right doors of a particular car can be opened. |
+| ''train.isCurrentlyManual(): boolean'' | Is it manually operated right now? |
+| ''train.isReversed(): boolean'' | Is the train reversed? That is, is the first car on the rear? |
+| ''train.isOnRoute(): boolean'' | Is the train on the route? |
 
   * <code javascript>
 train.getRailProgress(car: int): double
