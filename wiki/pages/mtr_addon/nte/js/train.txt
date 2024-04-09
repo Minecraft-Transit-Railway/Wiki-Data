@@ -111,7 +111,7 @@ TrainScriptContext.setDebugInfo(key: String, value: Object)
 | ''train.spacing(): int'' | Length of each car + 1. |
 | ''train.width(): int'' | Width. Since the player also has a width [what?], a wagon that is 3 blocks wide has a value of 2 for this attribute. |
 | ''train.trainCars(): int'' | Number of cars. |
-| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s^2 |
+| ''train.accelerationConstant(): float'' | Acceleration. The unit of measurement is m/tick/tick, which is 1/400 m/s<sup>2</sup> |
 | ''train.manualAllowed(): boolean'' | Whether manual operation is allowed. |
 | ''train.maxManualSpeed(): int'' | The maximum speed at manual control. It corresponds to the ordering of track types from low to high. [what?] |
 | ''train.manualToAutomaticTime(): int'' | Time to switch back to automatic control after being unmanned. |
