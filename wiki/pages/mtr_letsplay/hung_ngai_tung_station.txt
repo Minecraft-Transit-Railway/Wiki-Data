@@ -41,7 +41,7 @@ Hung Ngai Tung station isn't expected to serve many passengers before nearby sta
   * 11 February, 2023: Station opens to the public. WLT Line 1 Phase 1 (now [[/wlt_line_1|Line 1 (Meyan Line)]] trains start stopping at this station for passengers service. 
   * early December, 2023: A small renovation on the stairs is done. Most of the staircases in the station are extended and leave a small space in the middle for better safety and passengers experience. Due to the staircases at Exit C being long, two spaces are added at around 1/3 and 2/3 of their length. 
   * 31 December, 2023: As the section between **Hung Ngai Tung** station and Northern Snow Village station is closed for renovation, incoming trains from the south only stop at platform 2 and then reverse back to the south. 
-===== Layout =====
+===== Layout (WIP) =====
 
 Not counting exits, there are a total of 3 floors in the station. **L1** is concourse and is separated into north and south part not directly accessible to each other, due to [[/kwong_chow_grand_canal|the Grand Canal]] in between. North part connects Exit C, D while south part connects Exit A, B. **L2** and **L3** are platforms under the canal. 
 
