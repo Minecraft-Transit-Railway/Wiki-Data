@@ -23,11 +23,11 @@
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)|
 ^  History  |^
-| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)// |
+| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//|
 ^  Technical  |^
 | **Line Length** | 2.5 km |
 | **Number of**\\ **Tracks** | Double Track |
-| **Operating**\\ **Speed** | Average: 54 km/h (15 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
+| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
 |  {{/line2_temp_rm.png?320}}  ||
@@ -52,7 +52,9 @@ Merging saves the platform for turning back North Coast Line trains, giving it t
 
 After confirmed to merge, WLT Line 2 drops the company name WLT in its naming and adopt a [[wp>shenzhen_metro|Shenzhen Metro]] legacy style naming **Line 2 (Kwong Chow - North Coast Line)**, with reference to the new MRT Line [[wp>Thomson-East_Coast_MRT_Line|Thomson-East Coast Line]] in Singapore. It is expected the other two rapid transit lines built and operated by WLT, Line 1 and Line 3, will follow a similar naming style. 
 
-Before the line is fully ready, a special shuttle service already started between Sai Mo Island station and [[/kwong_chow_station|Kwong Chow]] station, with no intermediate stops, for promoting Kwong Chow to the visitors on Hana-Koshi Line open day 24 June, 2023. After the open day, the service is closed and continues construction, until when Line 1 is undergoing renovation, Line 2 along with the new bus route 4S connecting Sai Mo Island to Spawn-Cyan Height Metropolis((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)) serves as the replacement for transport service to Kwong Chow.  
+Before the line is fully ready, a special shuttle service already started between Sai Mo Island station and [[/kwong_chow_station|Kwong Chow]] station, with no intermediate stops, for promoting Kwong Chow to the visitors on Hana-Koshi Line open day 24 June, 2023. After the open day, the service is closed and continues construction, until when Line 1 is undergoing renovation, Line 2 along with the new bus route 4S connecting Sai Mo Island to Spawn-Cyan Height Metropolis((Temporary bus route which will be renamed to 4M and rerouted to serve Museum after Line 2 (Kwong Chow - North Coast Line) opens)) serves as the replacement for transport service to Kwong Chow. 
+
+Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle no longer has no intermediate stops after Sha Tsui station has finished its construction and opens to the public. 
 
 ==== Timeline ====
 
@@ -62,6 +64,7 @@ Before the line is fully ready, a special shuttle service already started betwee
   * 24 June, 2023: Started special shuttle service
   * 25 June, 2023: Ended special shuttle service
   * 10 July, 2023: Started again special shuttle service
+  * 13 April, 2024: Sha Tsui station opens to the public
 
 ===== Rolling Stocks =====
 
@@ -118,7 +121,7 @@ Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car
 |  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 ===== Operations =====
 
-Trains are all serving from Kwong Chow to Sai Mo Island without intermediate stops. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
+Trains are all serving from Kwong Chow to Sai Mo Island stopping at Sha Tsui station. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
 
 <WRAP center>
 
@@ -139,4 +142,4 @@ Option 2 is inspired by the once operated Sightseeing Express - [[/south_contine
 
 The branch also makes travelling between [[/west_lake_area|West Lake Area]], and [[/bayside_area|Bayside]], [[/hos_bridge_station|Ho's Bridge]] and [[/chou_wai|Chou Wai]] much more convenient, also reduces the overcrowding in Spawn-Cyan Heights Metropolis and improves player's experience((Saving one out of station interchange between Spawn station and [[/cyan_heights_station|Cyan Heights]] station)). Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues, and is expected to be done along with the merge and official opening of **Line 2 (Kwong Chow - North Coast Line)**. 
 
-===== Stations =====
+===== Stations (WIP) =====
