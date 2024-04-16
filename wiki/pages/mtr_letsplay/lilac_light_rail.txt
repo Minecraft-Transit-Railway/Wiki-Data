@@ -380,7 +380,7 @@ Route 804  is using Phase I and Phase II trains.
 | ::: | Cape Lake | ::: | ::: |   | ::: |
 | ::: | Badgerstown | ::: | ::: | <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
 | ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
-|   | Sah Tou Emergency Platform | when service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P | Chou Wai |   | 10 February 2023 |
+|   | Sah Tou Emergency Platform | When service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P, 633P | Chou Wai |   | 10 February 2023 |
 
 ===== Routes =====
 
