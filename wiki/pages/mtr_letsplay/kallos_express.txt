@@ -8,7 +8,7 @@
 |**Status** <html>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </html>  |Operational <html>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp </html> |
 |**Owner**|[[/Qingli_Railways|Qingli Railways]]|
 |**Locale**|[[/Spawn|Spawn]]\\ [[/Kallos|Kallos]]\\ [[/Jonathan’s_Resort|Jonathan’s Resort]]\\ [[/Tempest|Tempest]]| 
-|**Termini**|[[/yanjiang_minecraft_station|Yanjiang Minecraft]]\\ [[tempest_station|Tempest]]|
+|**Terminal**|[[/yanjiang_minecraft_station|Yanjiang Minecraft]]\\ [[tempest_station|Tempest]]|
 |**Connecting Lines**|@#9E0FE4:<color white>WR Yanyu Line</color>|
 | ::: |@#0CAF35:<color white>Spawn Grand Circular</color>|
 | ::: |@#385E15:<color white>Snowie Line</color>|
