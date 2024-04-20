@@ -4,8 +4,12 @@ The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.19.2 Minecraft server
 
 It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to make for a more varied landscape, using new biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swaths of visitors.
 
-Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[Spawn|Spawn]], [[Greater Llanmara|Llanmara]], [[Kallos|Kallos]], [[Yankton|Yankton]], and the southeast through [[Danielston Memorial|Danielston Memorial]]. The longest journey between every two stations is less than 75 minutes((
-the longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 10 minutes and 3 seconds. The longest time on any form of transport is on the Los Santas Pacific Airways flight from Dermott Brauns International Airport to Heung Fan Liu Airport, at 14 minutes and 28 seconds.
+Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[Spawn|Spawn]], [[Greater Llanmara|Llanmara]], [[Kallos|Kallos]], [[Yankton|Yankton]], and the southeast through [[Danielston Memorial|Danielston Memorial]]. The longest journey ((
+龍山臨時 용산임시 Yongsan (Temp) - Rumford
+))between every two stations is less than 75 minutes((
+ the longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 10 minutes and 3 seconds.
+
+The longest time on any form of transport is on the Los Santas Pacific Airways flight from Dermott Brauns International Airport to Heung Fan Liu Airport, at 14 minutes and 28 seconds.
 )).
 
 
