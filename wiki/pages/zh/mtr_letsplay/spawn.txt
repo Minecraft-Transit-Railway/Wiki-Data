@@ -16,21 +16,21 @@
 | ::: | [[mtr_letsplay:red_line|红线(B)]] |
 | ::: | [[mtr_letsplay:furret_line|大立线(B)]] |
 | ::: | [[mtr_letsplay:north_coast_line|北海岸线(A)]] |
-| ::: | [[mtr_letsplay:sightseeing_local|观光缓行线(C)]] |
+| ::: | [[mtr_letsplay:sightseeing_local_line|观光缓行线(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
 | ::: | [[mtr_letsplay:cyan_twilight_line|蓝霞线(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线(C)]] |
 | ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]]|
-| ::: | [[mtr_letsplay:lakeside_mystic_line|高铁北原线(D)]] |
+| ::: | [[mtr_letsplay:hsr_northern_heights_line|高铁北原线(D)]] |
 | ::: | [[mtr_letsplay:south_continental_line|高铁东北线(D)]] |
-| ::: | [[mtr_letsplay:hsr_ intercity_metro-diagonally line |高铁城际捷运-斜角线(D)]] |
-| ::: | [[mtr_letsplay:hsr_danchun_line|高铁丹春线(E)]] |
+| ::: | [[mtr_letsplay:hsr_intercity_metro-diagonally line |高铁城际捷运-斜角线(D)]] |
+| ::: | [[mtr_letsplay:hsr_dan_chun_line|高铁丹春线(E)]] |
 | ::: | [[mtr_letsplay:hsr_spawn_apm|重生区高铁客运大楼自动运输系统]] |
-| **拥有者** | [[mtr_community:jonafanho|Jonathan]] |
+| **拥有者** | [[mtr_community:jonafanho|Jonathan Ho]] |
 | **地区** | [[mtr_letsplay:spawn_region|重生区]] |
-| **站台** | 12+4+8+12 (12个重生区地铁站台,8个蓝台地铁站台,12个高铁站台,4个APM站台) |
+| **站台** | 12+8+12 (12个重生区地铁站台,8个蓝台地铁站台,12个高铁站台) |
 | **区块数** | 需要补充 |
-| **坐标** | (26, -183) |
+| **坐标** | (26,-183) |
 ^  **翻译**  |^
 | **繁体** | 重生區 |
 | **简体** | 重生区 |
