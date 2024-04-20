@@ -9,7 +9,7 @@
 | @#036afa: ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
-| ::: | [[mtr_letsplay:new_harmony_railways|New Harmony Railways]] |
+| ::: | [[mtr_letsplay:new_harmony_railways|Qingli Railways]] |
 | ::: | [[mtr_letsplay:sw_transit|SW Transit]] |
 | **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
 | ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
