@@ -6,14 +6,7 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 
 <WRAP right>
 
-|  @#0F84DE: <color #ffffff>**Yankton**</color>  ||
-| @#375E14: ||
-| @#FF98F2: ||
-| @#151C69: ||
-| @#19DFDE: ||
-| @#65411D: ||
-| @#E7792B: ||
-|  {{ :mtr_community:yankton.png?300 }}//"Yankton Circuit"//\\ //Station Art in Yankton Station//  ||
+|**spawn**||
 ^  **Overview**  |^
 | **Operators** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
