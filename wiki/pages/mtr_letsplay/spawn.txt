@@ -43,7 +43,7 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 |?|Cyan HSR 2 |
 ^  **Station**  |^
 | **Type** | Underground |
-| **Phases** | 2 |
+| **Phases** | 6 |
 | **Floors** | - |
 | **Platform Floors** | 5 |
 | **Step-Free Accessible** | Yes |
