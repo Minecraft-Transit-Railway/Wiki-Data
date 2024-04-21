@@ -1,34 +1,31 @@
-等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+====== 版本 4.0.X ======
 
-FIXME **This page hasnt been fully completed. Please help with the Creation.**\\ //(remove this note when the page is completed)//
+Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重大更新，目前正在开发中。
 
-====== Version 4.0.X ======
+===== 发布 =====
 
-The Minecraft Transit Railway v4.0 is an upcoming major update to the Minecraft Transit Railway mod, and are currently in development.
+  * 由于MTR 4仍在开发中，尚未正式发布.
 
-===== Releases =====
+===== 面向玩家的变化 =====
 
-  * No official release has been published yet as MTR 4 is still in development.
+待完成...
 
-===== Player-facing Changes =====
-
-To be done...
-
-===== Technical Changes =====
+===== 技术变化 =====
 
 ==== Minecraft-Mappings ====
 
-The [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]] project has been rewritten, allowing for easier development between multiple Minecraft version and across modloaders. This replaces the need for **Architectury** for multi-platform, which were previously in use by MTR 3.
+[[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]]项目已重写，允许在多个Minecraft版本和跨modloader之间进行开发。这取代了以前由MTR 3使用的多平台对**建筑**的需求.
 
-==== Rendering Optimizations ====
+==== 渲染优化 ====
 
-Rendering optimizations from the [[mtr_addon:nte:start|NTE Addon]] has been integrated to the **Minecraft-Mappings** project, which are also in-use by MTR 4.0. This should offer substantial frame-rate improvements during gameplay.((
- Source%% needed%%
+来自[[mtr_addon:nte:start|NTE Addon]]的渲染优化已集成到**Minecraft-Mappings**项目中，该项目也在MTR 4.0中使用。 这应该在游戏过程中提供实质性的帧率改进。((
+
+来源%%需要%%
 ))
 
 ==== Transport-Simulation-Core ====
 
-On MTR 3, MTR is a self-contained mod responsible for handling everything from block configurations to simulation of the automated in-game network.
+在MTR 3上，MTR是一个自成一体的模组，负责处理从块配置到自动游戏内网络模拟的所有内容。
 
-On MTR 4, the simulation part has been split off to [[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]. This allows for easier integration of the network simulation part to another external application (i.e. Outside of Minecraft). The simulation now also runs on it's own dedicated thread when used with the MTR Mod, as such it can reduce Minecraft server lags caused by simulating the transit network.
+在MTR 4上，模拟部分已拆分为[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]。这可以更轻松地将网络模拟部分集成到另一个外部应用程序（即在《我的世界》之外）。当与MTR Mod一起使用时，模拟现在也在它自己的专用线程上运行，因此它可以减少模拟中转网络造成的《我的世界》服务器滞后。
 
