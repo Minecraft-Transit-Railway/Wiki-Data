@@ -22,7 +22,7 @@ The [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-
 ==== Rendering Optimizations ====
 
 Rendering optimizations from the [[mtr_addon:nte:start|NTE Addon]] has been integrated to the **Minecraft-Mappings** project, which are also in-use by MTR 4.0. This should offer substantial frame-rate improvements during gameplay.((
- Source%% needed%%
+https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s
 ))
 
 ==== Transport-Simulation-Core ====
