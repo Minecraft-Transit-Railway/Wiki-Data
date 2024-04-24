@@ -84,17 +84,20 @@ EyeCandyScriptContext.setDebugInfo(key: String, value: Object)
 
 ^ Functions And Objects ^ Description ^
 | ''blockEntity.prefabId: string'' | The id of the assigned decoration object, ''null'' if the decoration object does not have any decoration object assigned |
-| ''blockEntity.translateX: float'' | The value in **meter** on how much the Decoration Object is translated on the X-axis, this is configured via the GUI on NTE. |
-| ''blockEntity.translateY: float'' | The value in **meter** on how much the Decoration Object is translated on the Y-axis, this is configured via the GUI on NTE. |
-| ''blockEntity.translateZ: float'' | The value in **meter** on how much the Decoration Object is translated on the Z-axis, this is configured via the GUI on NTE. |
-| ''blockEntity.rotateX: float'' | The value in **radian** on how much the Decoration Object is rotated on the X-axis, this is configured via the GUI on NTE. |
-| ''blockEntity.rotateY: float'' | The value in **radian** on how much the Decoration Object is rotated on the Y-axis, this is configured via the GUI on NTE. |
-| ''blockEntity.rotateZ: float'' | The value in **radian** on how much the Decoration Object is rotated on the Z-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.translateX: float'' | The value in **meters** on how much the Decoration Object is translated on the X-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.translateY: float'' | The value in **meters** on how much the Decoration Object is translated on the Y-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.translateZ: float'' | The value in **meters** on how much the Decoration Object is translated on the Z-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateX: float'' | The value in **radians** on how much the Decoration Object is rotated on the X-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateY: float'' | The value in **radians** on how much the Decoration Object is rotated on the Y-axis, this is configured via the GUI on NTE. |
+| ''blockEntity.rotateZ: float'' | The value in **radians** on how much the Decoration Object is rotated on the Z-axis, this is configured via the GUI on NTE. |
 | ''blockEntity.fullLight: boolean'' | Whether the Decoration Object is marked as "Full Light", this is configured via the GUI on NTE. |
 
   * <code javascript>
 blockEntity.getBlockPos(): BlockPos
 </code>
-    * Returns the Minecraft BlockPos of where the block are located in.
-    * [Translator note: BlockPos seems to be obfuscated by Minecraft, which is only useful for passing value to MTR ClientData? ]
+    * Returns the Minecraft BlockPos of where the block are located in. (Note: This is obfuscated by Minecraft, which is only useful for passing value to MTR ClientData)
+  * <code javascript>
+blockEntity.getWorldPosVector3f(): Vector3f
+</code>
+    * Returns [[mtr_addon:nte:js:math|NTE's Vector3f]] of where the block are located **(Only in NTE version above v0.4.2)**
 
