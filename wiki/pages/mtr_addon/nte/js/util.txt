@@ -1,14 +1,18 @@
 ====== Utilities ======
+
 NTE provides a number of helper classes to provide some information or to implement functions more simply.
 
 ===== Output of test information =====
+
   * <code javascript>
 static print(params: Object...): void
 </code>
     * This function outputs a message to the Minecraft log (the message is not displayed in the game). Any number of arguments of any type can be passed to the function.
 
 ===== Versions =====
+
 Functions are provided where you can get the version number to ensure compatibility with different versions of mods (if any).
+
 ^ Functions ^ Description ^
 | ''static Resources.getMTRVersion(): String'' | Returns the version of the MTR, for example, ''1.19.2-3.1.1.0-hotfix-1''. |
 | ''static Resources.getNTEVersion(): String'' | Returns the version of the NTE, for example, ''0.4.0+1.19.2''. |
@@ -16,6 +20,7 @@ Functions are provided where you can get the version number to ensure compatibil
 | ''static Resources.getNTEProtoVersion(): int'' | Returns the NTE protocol version. |
 
 ===== TextUtil =====
+
 MTR uses the station naming format ''Name in CJK|Name in another language||EXTRA'', so NTE provides functions to separate these parts.
 
 [Translator's note: MTR distinguishes text in CJK languages from the rest to allow them to be displayed nicely. It is not necessary to use CJK languages, e.g. you can easily use the scheme ''Name in Russian|Name in English||EXTRA'' or even use more languages.
@@ -31,6 +36,7 @@ For reference, CJK is Chinese, Japanese and Korean].
 | ''static TextUtil.isCjk(src: String): String'' | Checks if the string contains CJK characters. [Translator's note: this function is supposed to return a Boolean value]. |
 
 ===== Timing =====
+
   * <code javascript>
 static Timing.elapsed(): double
 </code>
@@ -41,9 +47,10 @@ static Timing.delta(): double
     * The time difference between the current ''render'' call and the previous one. This can be used, for example, to calculate the angle by which the wheel have turned during the elapsed time.
 
 ===== StateTracker =====
+
 Sometimes it is necessary to take transition states into account. For example, to play an animation only once when a certain condition is reached (because ''if (...distance < 300) ctx.play...'' would be satisfied every frame after the condition was met, and then play every frame after that, which would result in hundreds of animations), or to play an animation in the first second after a page switch.
 
-Since each train must have its own tracker, you would probably want to store it in the train's ''state''. 
+Since each train must have its own tracker, you would probably want to store it in the train's ''state''.
 
   * <code javascript>
 new StateTracker()
@@ -71,9 +78,10 @@ StateTracker.stateNowFirst(): boolean
     * Was the state just changed by the ''setState'' function in this loop or not?
 
 ===== CycleTracker =====
+
 This is a ''StateTracker'' that automatically switches on a cyclic basis by time.
 
-Since each train must have its own tracker, you would probably want to store it in the train's ''state''. 
+Since each train must have its own tracker, you would probably want to store it in the train's ''state''.
 
   * <code javascript>
 new CycleTracker(params: Object[])
@@ -101,9 +109,10 @@ CycleTracker.stateNowFirst(): boolean
     * Was the ''tick'' function called in this loop or not?
 
 ===== RateLimit =====
+
 Some tasks do not require too frequent execution, for example, the display may not be updated every frame, but only 10 times per second. Therefore, you can limit the frequency of their execution to improve performance.
 
-Since each train must have its own data, you would probably want to store it in the train's ''state''. 
+Since each train must have its own data, you would probably want to store it in the train's ''state''.
 
   * <code javascript>
 new RateLimit(interval: double)
@@ -119,9 +128,11 @@ RateLimit.resetCoolDown(): void
     * Resets the timer to go off as soon as possible.
 
 ===== MTRClientData =====
+
 Client data from MTR that can be used to read routes, transfers, etc. See the source code of [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/blob/3.3.0/common/src/main/java/mtr/client/ClientData.java|ClientData.java]] from MTR.
 
 ===== MinecraftClient =====
+
 Due to obfuscation, there is no way to directly provide a client class for use. Therefore, several helper methods are created:
 
   * <code javascript>
@@ -136,6 +147,16 @@ static MinecraftClient.worldIsRainingAt(pos: Vector3f): boolean
 static MinecraftClient.worldDayTime(): int
 </code>
     * Returns the in-game world time in ticks.
+  * <code javascript>
+static MinecraftClient.narrate(message: String): void
+</code>
+  * This calls the Minecraft narrator to narrate the message
+  * <code javascript>
+static MinecraftClient.displayMessage(message: String, actionBar: boolean): void
+</code>
+  * This displays the message as an in-game chat message. If action bar is true, it will display on the action bar instead. (Above inventory hotbar)
 
 ===== Source =====
-* https://www.zbx1425.cn/nautilus/mtr-nte/#/js-util
+
+* [[https://www.zbx1425.cn/nautilus/mtr-nte/#/js-util]]
+
