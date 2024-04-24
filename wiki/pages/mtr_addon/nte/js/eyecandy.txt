@@ -99,5 +99,5 @@ blockEntity.getBlockPos(): BlockPos
   * <code javascript>
 blockEntity.getWorldPosVector3f(): Vector3f
 </code>
-    * Returns [[mtr_addon:nte:js:math|NTE's Vector3f]] of where the block are located **(Only in NTE version above v0.4.2)**
+    * Returns [[mtr_addon:nte:js:math|NTE's Vector3f]] of where the block are located **(Only in NTE version >= 0.5.0)**
 
