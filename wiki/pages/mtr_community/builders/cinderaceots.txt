@@ -3,7 +3,7 @@
 
 <WRAP 400px right>
 |  @#BB492B:  **CinderaceOTS**  ||
-| {{ :playground:cinderaceots_fm.png?320 }}CinderaceOTS's avatar "[[wp>Pokémon_Sword_and_Shield|Pokémon SwSh]] [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]]" as of 2023/5/17.  ||
+| {{ :playground:cinderaceots_fm.png?320 }}CinderaceOTS's avatar in vanilla "[[wp>Pokémon_Sword_and_Shield|Pokémon SwSh]] [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]]" as of 2023/5/17.\\ {{ :mtr_community:builders:2024-04-28_16.18.17.png?320 |}}CinderaceOTS avatar under Figura installation environment as of 2024/4/28.\\ [[https://poppy-playtime.fandom.com/wiki/CatNap|Catnap]] AU from @noirzvault on X  ||
 |  @#BB492B:  **Overview**  ||
 | **Known as ** | OTS |
 | **Name basis** | [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]] |
