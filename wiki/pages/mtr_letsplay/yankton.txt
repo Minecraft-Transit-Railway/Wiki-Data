@@ -22,7 +22,7 @@
 | ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] |
 | ::: | [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] |
 | ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
-| **Owners** | [[mtr_community:StrongerLock|Stronger Lock]] |
+| **Owners** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | **Region** | [[mtr_letsplay:yankton_region|Yankton]] |
 | **Platforms** | 15+4 (14 island, 1 dock, 4 dock APM) |
 | **Tracks** | 19 |
@@ -54,7 +54,7 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 
 ===== History =====
 
-  * **18 August, 2022**: Snowie Line starts construction. [[mtr_community:StrongerLock|Stronger Lock]] (Yankton Railway) is responsible for this work. On the same day, Yankton Station starts construction.
+  * **18 August, 2022**: Snowie Line starts construction. [[mtr_community:builders:strongerlock|Stronger Lock]] (Yankton Railway) is responsible for this work. On the same day, Yankton Station starts construction.
   * **24 August, 2022**: Lakeside Mystic Line extends its service via Yankton, uses platforms 7-8.
   * **11 September, 2022**: Yankton Station platforms 1-10 are finished, while concourse is not yet constructed. This station is introduced by [[/User:Jonafanho|Jonathan]] on the Let's Play Series Season 1 Episode 9.
   * **27 September, 2022**: Snowie Line is offically opened to public, Wanton Line (On Hau - Gulaton) and Snowtral Line (Yankton - Gulaton) opens temporary service for testing.
@@ -96,7 +96,7 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 | ::: | Platform **7** | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:gate_of_yunlong_station|Gate of Yunlong]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **8** | <- [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:lake_city_station|Lake City]]/[[mtr_letsplay:kowloon_station|Kowloon]] |
-| ::: | Platform **9** | [[mtr_letsplay:south_continental_line|South Continental Line]] to [[mtr_letsplay:cyan_heights_station|Cyan Heights]] -> |
+| ::: | Platform **9** | [[mtr_letsplay:south_continental_line|South Continental Line]] to [[mtr_letsplay:spawn_station|Cyan Heights]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **10** | <- [[mtr_letsplay:south_continental_line|South Continental Line]] Terminated Platform |
 
