@@ -3,8 +3,10 @@
 ====== Version 3.2.X ======
 TODO: description
 
-===== Releases =====
+===== 发布 =====
+
 TODO: links
+
 
 ==== V3.2.0 ====
   * Added destination display support to custom trains
