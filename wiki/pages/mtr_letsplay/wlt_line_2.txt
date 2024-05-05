@@ -4,11 +4,11 @@
 
 ^  Line 2 (Kwong Chow - North Coast Line)\\ 二號 (光州 - 北海岸) 綫  |^
 |  @#FFDA33:  ||
-|  @#000080:  ||
+|  @#005A9C:  ||
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Special shuttle\\ //(Kwong Chow, Sai Mo Island)//\\ Under construction\\  //(Sha Tsui - West Lake)//\\ //(Sai Mo Island - Spawn)//\\ Awaiting integration\\ //(Spawn - Makki Memorial Village)//|
+| **Status** | Operational (West section)\\ //(Kwong Chow - Forest Peaks)//\\ Under construction\\  //(West Lake, See Tsuen)//\\ Operational (East section)\\ //(Coast City - Makki Memorial Village)//|
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
 | **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
@@ -139,14 +139,15 @@ For **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**, trains a
 
 </WRAP>
 
-For **North Coast Line**, trains are serving from Spawn to Makki Memorial Village calling at all intermediate stops. Trains may travel slower on some sections between Forest Peaks station and Makki Memorial Village station for safety measures before those sections are rebuilt with smoother curvature and inclination. 
+For **North Coast Line**, trains are serving from Coast City to Makki Memorial Village calling at all intermediate stops except Dragon Loop Centre. Trains may travel slower between Toitoi station and Makki Memorial Village station for safety measures before the section is rebuilt with smoother curvature and inclination. 
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
-|  @#000080:  ||
+|  @#005A9C:  ||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **North Coast Line**  |
-| \\ All Day\\ <html>&nbsp</html>|  \\ 4.2  |
+|  Assuming server TPS = 19.67  ||
+| \\ All Day\\ <html>&nbsp</html>|  \\ 4.1  |
 
 </WRAP>
 
