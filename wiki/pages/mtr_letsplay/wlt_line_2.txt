@@ -8,30 +8,43 @@
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Operational (West section)\\ //(Kwong Chow - Forest Peaks)//\\ Under construction\\  //(West Lake, See Tsuen)//\\ Operational (East section)\\ //(Coast City - Makki Memorial Village)//|
+| **Status** | Operational <color #FFDA33>(West section)</color>\\ //(Kwong Chow - Forest Peaks)//\\ Under construction\\  //(West Lake, See Tsuen)//\\ Operational <color #005A9C>(East section)</color>\\ //(Coast City - Makki Memorial Village)//|
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//|
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]]|
-| **Termini** | [[kwong_chow_station|Kwong Chow]]\\ [[sai_mo_island_station|Sai Mo Island]]\\ //(temporary terminus)//\\ [[ostania_station|Ostania]]\\ //(future through-running service)//\\ [[makki_memorial_village_station|Makki Memorial Village]]|
+| **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/forest_peaks_station|Forest Peaks]]\\ //(West section temporary terminus)//\\ [[/coast_city_station|Coast City]]\\ //(East section temporary terminus)//\\ [[/ostania_station|Ostania]]\\ //(future through-running service with [[/cyanex|CyanEX Rapid Transit]])//\\ [[/makki_memorial_village_station|Makki Memorial Village]]|
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
+| ::: | Spawn Grand Circular|
+| ::: | Airport Express(WIP) |
+| ::: | Scottetsu Line |
+| ::: | Furret Line |
+| ::: | (Bayside) Red Line |
+| ::: | High Speed Rail |
+| ::: | Pengaloo Line |
+| ::: | AT Metro |
+| ::: | AT Regional |
+| ::: | [[/lilac_light_rail|Lilac Light Rail]] |
+| ::: | Chin Ka Village Fast, Frequent and Free Light Rail|
+| ::: | Azalea-CL|
+| ::: | Kallos Ferry |
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:57 - next day 03:22 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle)//\\ 24/7\\ //(North Coast Line)//|
-| **Frequency** | Every 3 - 7 mins |
+| **Service Hours** | 04:49 - next day 03:29 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(West Section)//\\ 04:06 - next day 03:54\\ //([[wp>UTC+08:00|UTC+8]])//\\ //(East Section)//|
+| **Frequency** | Every 3 - 12 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
-| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)|
+| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/cyanex|CyanEX CXD104]]\\ [[wp>Line_1_(Shanghai_Metro)#Technology#Rolling_Stock|01A06]]|
 ^  History  |^
-| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ TBC\\ //(Spawn - Coast City)//\\ TBC\\ //(Coast City - Makki Memorial Village)//|
+| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ TBC\\ //(Spawn - Coast City)//\\ TBC\\ //(Coast City - Makki Memorial Village)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//|
 ^  Technical  |^
-| **Line Length** | 2.5 km |
+| **Line Length** | 5 km |
 | **Number of**\\ **Tracks** | Double Track |
-| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
+| **Operating**\\ **Speed** | Average: 33 km/h (9.2 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  {{/line2_temp_rm.png?320}}  ||
+|  //(Coming Soon)//  ||
 
 </WRAP>
 
@@ -61,25 +74,29 @@ Merging saves the platform for turning back North Coast Line trains, giving it t
 
 After confirmed to merge, WLT Line 2 drops the company name WLT in its naming and adopt a [[wp>shenzhen_metro|Shenzhen Metro]] legacy style naming **Line 2 (Kwong Chow - North Coast Line)**, with reference to the new MRT Line [[wp>Thomson-East_Coast_MRT_Line|Thomson-East Coast Line]] in Singapore. It is expected the other two rapid transit lines built and operated by WLT, Line 1 and Line 3, will follow a similar naming style. 
 
+The merge is later split into two stages because of the amount of work needed to revamp some sections. The first stage is done on 5 May 2024 which WLT Line 2 (Kwong Chow Line) trains run from Kwong Chow via Sai Mo Island and Spawn to Forest Peaks while QLR North Coast Line trains turn back at Coast City. Yet West Lake station and See Tsuen station is not yet completed or opened although trains stop at the stations.
+
 ==== Timeline ====
 
-  * 7 August, 2023: Revised proposal published
-  * 26 November, 2023: Proposed merge of WLT Line 2 and QLR North Coast Line
-  * 15 March, 2023: Proposed branch through-running service with Cyan Twilight Line and Bond Line
-  * 24 June, 2023: Started special shuttle service
-  * 25 June, 2023: Ended special shuttle service
-  * 10 July, 2023: Started again special shuttle service
-  * 13 April, 2024: Sha Tsui station opens to the public
+  * 7 August, 2023: Revised proposal published.
+  * 26 November, 2023: Proposed merge of WLT Line 2 and QLR North Coast Line.
+  * 5 March, 2023: [[mtr:communities:staff:sleepysapphire|LPR]]'s proposed adding Dragon Loop Centre station.
+  * 15 March, 2023: Proposed branch through-running service with Cyan Twilight Line and Bond Line.
+  * 24 June, 2023: Started special shuttle service.
+  * 25 June, 2023: Ended special shuttle service.
+  * 10 July, 2023: Started again special shuttle service.
+  * 13 April, 2024: Sha Tsui station opens to the public.
+  * 5 May, 2024: First stage of merge kicks in.
 
 ===== Rolling Stocks =====
 
-Similar to [[/wlt_line_1#rolling_stocks|Line 1 (Meyan Line)]], since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 1 set of rebuilt C-Train has already transported to Chik Shek Wan Depot and started its passengers service in **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**. 
+Similar to [[/wlt_line_1#rolling_stocks|Line 1 (Meyan Line)]], since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 1 set of rebuilt C-Train has already transported to Chik Shek Wan Depot and started its passengers service on the shuttle between Kwong Chow and Sai Mo Island. 2 more sets of C-Train has also started passengers service after the first stage of merge.
 
-There are also 1 set of M-Train (phase 2A) and 3 sets of K-Train have started serving passengers. 
+There are also 3 set of M-Train (phase 2A) and 6 sets of K-Train have started serving passengers. 
 
-Originally, the fleet was planned to include 3 to 5 sets of Shanghai Metro Trains previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system, as DC motor is harder to maintenance and consumes more electricity. 
+Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A06 previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system, as DC motor is harder to maintenance and consumes more electricity. 
 
-Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, Cyanex Rapid Transit CXD104 is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix1500// traction is used for first batch of 4-car trains, possibly because of possible tuning and reliability issue. 
+Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, Cyanex Rapid Transit CXD104 is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix1500// traction is used for first batch of 15 sets 4-car trains, possibly because of possible tuning and reliability issue. 
 
 ^  Car Formation of M-Trains (phase 2A)  ||||^
 |//<- To Makki Memorial Village/Ostania//|||  //To Kwong Chow ->//||
@@ -126,16 +143,19 @@ Due to the platforms in Cyan Twilight Line((80m long)) can only accomodate 4-car
 |  **C2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 ===== Operations =====
 
-For **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**, trains are all serving from Kwong Chow to Sai Mo Island stopping at Sha Tsui station. There are a mix of 4-car and 5-car trains running. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
+For **Line 2 (Kwong Chow - North Coast Line) W. Section**, there are a mix of 4-car and 5-car trains running. 5-car trains are serving from Kwong Chow to Forest Peaks, and 4-car trains are serving from Kwong Chow to Spawn. They are both stopping at all intermediate stops (including WIP stations). There are a mix of 4-car and 5-car trains running between Kwong Chow and Spawn. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line when 4-car/5-car trains are stopping at the same platform. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively. 
 
 <WRAP center>
 
-^  Average Train Intervals (in mins)  |^
-|  @#FFDA33:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**  |
-| \\ 5 am - 9 am\\ <html>&nbsp</html>|  \\ 6 - 7  |
-| \\ 9 am - 11 pm\\ <html>&nbsp</html>|  \\ 3 - 5  |
-| \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 5 - 7  |
+^  Average Train Intervals (in mins)  ||^
+|  @#FFDA33:  |||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**  ||
+| |  Kwong Chow - Spawn  |  Kwong Chow - Forest Peaks  |
+|  5 am - 9 am  |  6  |  12  |
+|  9 am - 9 pm  |  4  |  4 / 8  |
+|  9 pm - 11 pm  |  3.3  |  4 / 6  |
+|  11 pm - 1 am  |  4  |  4 / 8  |
+|  1 am - 3 am  |  6  |  12  |
 
 </WRAP>
 
