@@ -16,10 +16,10 @@
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
-| ::: | Spawn Grand Circular|
-| ::: | Airport Express(WIP) |
+| ::: | @#0CAF35:<color black>Spawn Grand Circular</color>|
+| ::: | @#1C7670:<color white>Airport Express(WIP)</color> |
 | ::: | Scottetsu Line |
-| ::: | Furret Line |
+| ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | (Bayside) Red Line |
 | ::: | High Speed Rail |
 | ::: | Pengaloo Line |
@@ -27,7 +27,7 @@
 | ::: | AT Regional |
 | ::: | [[/lilac_light_rail|Lilac Light Rail]] |
 | ::: | Chin Ka Village Fast, Frequent and Free Light Rail|
-| ::: | Azalea-CL|
+| ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | Kallos Ferry |
 | **Stations** | 2 //(3 work in progress)//|
 ^  Service  |^
