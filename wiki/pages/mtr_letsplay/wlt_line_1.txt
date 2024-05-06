@@ -22,8 +22,8 @@
 | **Stations** | 7 |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:42 - next day 03:03\\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 4 - 9 mins |
+| **Service Hours** | 04:42 - next day 03:05\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Frequency** | Every 3 - 9 mins |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
