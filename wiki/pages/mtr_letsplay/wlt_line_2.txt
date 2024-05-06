@@ -29,7 +29,7 @@
 | ::: | Chin Ka Village Fast, Frequent and Free Light Rail|
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | Kallos Ferry |
-| **Stations** | 2 //(3 work in progress)//|
+| **Stations** | 10 //(3 work in progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 04:49 - next day 03:29 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(West Section)//\\ 04:06 - next day 03:54\\ //([[wp>UTC+08:00|UTC+8]])//\\ //(East Section)//|
