@@ -119,9 +119,11 @@ For **Phase 1 S. Section**, trains are all serving from Kwong Chow to Hung Ngai 
 ^  Average Train Intervals (in mins)  |^
 |  @#EB7AE9:  ||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1 S. Section**  |
-| \\ 5 am - 9 am\\ <html>&nbsp</html>|  \\ 6.5  |
-| \\ 9 am - 11 pm\\ <html>&nbsp</html>|  \\ 4  |
-| \\ 11 pm - 3 am\\ <html>&nbsp</html>|  \\ 9  |
+|  5 am - 9 am  |  6  |
+|  9 am - 9 pm  |  4  |
+|  9 pm - 11 pm  |  3.3  |
+|  11 pm - 1 am  |  4  |
+|  1 am - 3 am  |  9  |
 
 </WRAP>
 
