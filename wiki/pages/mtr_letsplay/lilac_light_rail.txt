@@ -96,11 +96,11 @@ On 22 October 2023, the track connection between Spruce Forest and Puketeraki is
 
 On 23 October 2023, Loyalty Hills Light Rail Terminal is completed. Route 715 entered service, running from Daimon Island to Loyalty Hills.
 
-On 29 October 2023, Royal Park is completed for future connections to Elizabeth Line. Routes 483P, 801, 802, 810, 882 serve this stop. Routes 803 and 804 will be added in the future.
+On 29 October 2023, Royal Park is completed for future connections to Elizabeth Line. Routes 483P, 801, 802, 810, 882 serve this stop. Routes 803 and 804 were later added to the roster of routes that call at this station.
 
-On 1 November 2023, Kallos stop is removed from routes 801, 802 and 802S.
+On 1 November 2023, Kallos stop is removed from routes 801, 802 and 802S, and the following day, Route 804 entered service, running between Taipa and Kallos/Light Rail Depot.
 
-On 2 November 2023, Route 804 entered service, running between Taipa and Kallos/Light Rail Depot.
+On 11 December 2023, Lilypad Rail proposed the "Lilac Light Rail Southern Corridor Expansion Plan," which included extensions of the light rail south from: \\ - Kuk Wu via Diamond Creek & West Tung Suet Chau. \\ - Satoyama via Polar Place. \\ - Tempest via Polar Place \\ Until all lines come together at Zein station. A four-track section was included between Kuk Wu and Zein, and new "luxury"/"limited" service bypass trackage was created along a slightly different alignment to existing local trackage between Kuk Wu and Sunrise. The Southern Corridor plan also included plans to extend the Light Rail south to Hylkemare, Gecko Plaza, and Eastville Junction. A branch to Ostania was also included in the plan. Provisions for an east-west extension from Taipa to Gecko Plaza was also included, but won't be constructed initially and will have its own proposal. \\ Phase 1 of construction between existing Light Rail stations in the north and the merge at Zein was outlined and began construction on 7 April 2024. 
 
 On 13 March 2024, Route 992 was extended from Wald-Tafelberge to Old Depot with an intermediate stop at Grumbler's Grove.
 
@@ -113,6 +113,8 @@ On 26 April 2024, the track connection between Kuk Wu and Zein was completed. Ro
 On 28 April 2024, the track connection between Satoyama, Tempest and Zein was completed. Route 761 changed its route after Tempest, terminating at Zein instead of Tao Tung. Route 271 was extended from Tao Tung to Zein via One-man Island and Satoyama, and Tao Tung stop was removed.
 
 On 4 May 2024, Route 771X entered service, running between Tao Tung and Zein via One-man Island and Kuk Wu. It runs on the rapid tracks between Kuk Wu and Zein, so it's called a 'Regional Express'.
+
+
 ===== Rolling Stock =====
 
 There are different rolling stocks in different routes as there are multiple depots.
