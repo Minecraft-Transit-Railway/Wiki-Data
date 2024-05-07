@@ -2,7 +2,7 @@
 
 ====== Lilac Light Rail ======
 
-The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac LRT), is a light rail system in the Let’s Play Server, serving mainly the eastern and the northeastern side of the Let’s Play Server. It is a combination of Lilypad Light Rail and Qingli Light Rail (formerly Kallos Light Rail) which were owned by Lilypad Rail and Qingli Railways respectively. Currently the system is jointly owned by both companies.
+丽莲轻轨，也叫做东部轻轨交通系统，是 Let's Play 服务器中的一个轻轨系统，主要服务于 Let's Play 服务器的东部和东北侧。它是 Lilypad 轻轨和 Qingli 轻轨（前身为丽湾轻轨）的合并，分别由 Lilypad Railway 和 Qingly Railways 所有。目前，该系统由两家公司共同拥有。
 
 <WRAP right>
 
