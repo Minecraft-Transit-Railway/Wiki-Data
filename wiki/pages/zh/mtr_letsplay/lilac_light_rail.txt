@@ -72,327 +72,41 @@ Kallos轻轨[[lrt_801|Route 801]]于2022年8月5日建成并全面运营。根�
 2023年5月6日，Blau轻轨支线使用S43 Tec轻轨车辆开通。
 2023年5月9日，布劳轻轨支线改为紫丁香轻轨115号线，该线改为使用香港轻轨车辆。最初，计划在怡乐与现有轻轨网络交叉，但由于遗产轨道很容易连接，115号线改为在怡南与现有轨道交叉之前，通过怡南的新站点。Yi Nam站与部分现有文物轨道平行。115号干线暂时延长至易龙，即115号干线永久车辆段的未来位置。在整个计划中，115号公路将经由伊豆和云杉林延伸至温泉，然而，卡列斯特湖地区的施工仍在进行中，因此115号公路暂时仍保留至义龙站的路线。扩建工程于2023年5月10日开始。
 整个暴风计划于2023年7月9日完成。T717路线也安装在日出车站，用于将乘客从5号站台运送到6号站台，并允许列车切换站台，从717路线改为718路线。
-On 20 October 2023, Qingli Railways proposed the "Lilac Light Rail Reform Plan 2023". This includes the following plans: \\ - Removal of [[lrt_101|route 101]] \\ - Extension of [[lrt_115|route 115]] to Hot Springs, and set up a new route 115D for trains going back to Yi Long Depot. \\ - Removal of [[lrt_482p|route 482P]] \\ - Extension of [[lrt_578e|route 578E]] to Sunrise \\ - New [[lrt_601|route 601]] from Jonathan's Resort to Loyalty Hills, to replace [[lrt_482p|route 482P]] \\ - New [[lrt_633|route 633P]] from Taipa to Belvedere\\ - New [[lrt_719|route 715]] from Daimon North to Loyalty Hills, being a placeholder before [[lrt_719|route 719]] gets into service \\ - New route [[lrt_719|route 719]] from Tao Tung to Loyalty Hills \\ - New route [[lrt_719|route 719P]] from Tao Tung to Eastwich-on-sea \\ - Extend [[lrt_720|route 720]] to Jonathan's Resort \\ - Removal of [[lrt_721_2|route 721, 722]] \\ - Extension of [[lrt_735|route 735]] to Daimon North \\ - Merge [[lrt_736|route 736P]] with [[lrt_761|route 761]] \\ - New [[lrt_801|route 801P]] from Light Rail Depot to Winry \\ - New [[lrt_803|route 803]] from Light Rail Depot to South Memorial \\ - New [[lrt_804|route 804]] from Taipa to Kallos via Light Rail Depot, and removal of Kallos stop from route [[lrt_801|801]], [[lrt_802|802]]\\ - Shorten [[lrt_882|route 882]] to Jonathan's Resort\\ - Extension of [[lrt_992|route 992]] to Old Depot
 
-On 22 October 2023, the track connection between Spruce Forest and Puketeraki is completed. Route 115 is extended to Hot Springs. Route 115D also entered service for trains going back to the Depot.
-
-On 23 October 2023, Loyalty Hills Light Rail Terminal is completed. Route 715 entered service, running from Daimon Island to Loyalty Hills.
-
-On 29 October 2023, Royal Park is completed for future connections to Elizabeth Line. Routes 483P, 801, 802, 810, 882 serve this stop. Routes 803 and 804 were later added to the roster of routes that call at this station.
-
-On 1 November 2023, Kallos stop is removed from routes 801, 802 and 802S, and the following day, Route 804 entered service, running between Taipa and Kallos/Light Rail Depot.
-
-On 11 December 2023, Lilypad Rail proposed the "Lilac Light Rail Southern Corridor Expansion Plan," which included extensions of the light rail south from: \\ - Kuk Wu via Diamond Creek & West Tung Suet Chau \\ - Satoyama via Polar Place \\ - Tempest via Polar Place \\ Until all lines come together at Zein station. A four-track section was included between Kuk Wu and Zein, and new "luxury"/"limited" service bypass trackage was created along a slightly different alignment to existing local trackage between Kuk Wu and Sunrise. The Southern Corridor plan also included plans to extend the Light Rail south to Hylkemare, Gecko Plaza, and Eastville Junction. A branch to Ostania was also included in the plan. Provisions for an east-west extension from Taipa to Gecko Plaza was also included, but won't be constructed initially and will have its own proposal. \\ Phase 1 of construction between existing Light Rail stations in the north and the merge at Zein was outlined and began construction on 7 April 2024. 
-
-On 13 March 2024, Route 992 was extended from Wald-Tafelberge to Old Depot with an intermediate stop at Grumbler's Grove.
-
-On 7 April 2024, Route 201 and 202 entered service, running between Eastwich Ferry Pier (or Eastwich-on-Sea) and Rhoam Coast.
-
-On 16 April 2024, Route P300 entered service, running between Sunrise and Kuk Wu. It was the first premium express light rail route, and it runs fully on the rapid tracks.
-
-On 26 April 2024, the track connection between Kuk Wu and Zein was completed. Route P300 was extended from Kuk Wu to Zein with an intermediate stop at West Tung Suet Chau. Route 300 entered service, running between Sunrise and Zein. Route 271P was extended from Tao Tung to Zein via One-man Island and Kuk Wu, and Tao Tung stop was removed.
-
-On 28 April 2024, the track connection between Satoyama, Tempest and Zein was completed. Route 761 changed its route after Tempest, terminating at Zein instead of Tao Tung. Route 271 was extended from Tao Tung to Zein via One-man Island and Satoyama, and Tao Tung stop was removed.
-
-On 4 May 2024, Route 771X entered service, running between Tao Tung and Zein via One-man Island and Kuk Wu. It runs on the rapid tracks between Kuk Wu and Zein, so it's called a 'Regional Express'.
-
-
-===== Rolling Stock =====
-
-There are different rolling stocks in different routes as there are multiple depots.
-
-=== Route 410, 801, 802, 810, 882 ===
-
-These routes uses trains from Kallos Light Rail Depot. This depot contains most of the liveries of Phase I to V light rail vehicles. Phase I LRVs were built by Comeng. They accommodate 43 seated passengers and 161 standees. The driver's cab interior and exterior design was conceived for KCRC by Design Triangle in 1986. Phase II LRVs were built by Kawasaki. They accommodate 26 seated and 185 standees. Phase III LRVs were built by A Goninan. They accommodate 26 seated and 212 standees. Phase IV LRVs were manufactured by United Group and CSR. They accommodate 37 seated and 248 standees. The Phase V LRVs were manufactured by CRRC Nanjing Puzhen.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase I** | KCR Orange\\ KCR Blue | 1 or 2 |
-| **Phase I Refurbished** | KCR Orange\\ KCR Blue\\ MTR White\\ CLR White | ::: |
-| **Phase II** | KCR Orange\\ KCR Blue | ::: |
-| **Phase II Refurbished** | MTR White | ::: |
-| **Phase III** | KCR Orange\\ KCR Blue\\ MTR White | ::: |
-| **Phase IV** | KCR Orange\\ KCR Blue\\ MTR White | ::: |
-| **Phase V** | KCR Orange\\ KCR Blue\\ MTR White | ::: |
-
-=== Route 101, 102 ===
-
-These 2 routes are using MPL 85 trains built by Alstom, from Eden Depot. They are all in railway vision liveries.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **MPL 85** | Railway Vision | 2 |
-
-=== Route 492, 405, 115 ===
-
-Routes 492, 405 use trains from Bridge Bay Depot, Route 115 uses Yi Long depot in Eden. They use Refurbished Phase I, Phase IV and Phase V vehicles.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase I Refurbished** | MTR White | 1 or 2 |
-| **Phase IV** | ::: | ::: |
-| **Phase V** | ::: | ::: |
-
-=== Route 633 ===
-
-Route 633 uses Refurbished Phase II and V vehicles from Taipa Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase II Refurbished** | MTR White | 2 |
-| **Phase V** | ::: | ::: |
-
-=== Route 482P ===
-
-Route 482P uses Phase V trains from Heung Fan Liu Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase V** | MTR White | 2 |
-
-=== Route 483P, 505 ===
-
-Route 483P uses Phase IV trains from Bridge Bay Depot. Route 505 uses double-side door version of Phase IV trains from Memorial Village Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase IV** | MTR White | 2 |
-
-=== Route 715, 720 ===
-
-Routes 715, 720 uses Phase I to V trains from Daimon North Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase I Refurbished** | MTR White | 2 |
-| **Phase II** | KCR Blue | ::: |
-| **Phase II Refurbished** | MTR White | ::: |
-| **Phase III** | ::: | ::: |
-| **Phase IV** | ::: | ::: |
-| **Phase V** | ::: | ::: |
-
-=== Route 721, 722, 736P, 761 ===
-
-Routes 721, 722, 736P, 761 uses Phase I to III trains from Daimon North Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase I** | KCR Blue | 1 or 2 |
-| **Phase II** | ::: | ::: |
-| **Phase III** | ::: | ::: |
-
-=== Route 717, 718, 735, 736 ===
-
-Routes 717, T717, 718, 735, 736 uses Phase I, II, IV, V trains from Sunrise Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Phase I** | KCR Orange | 2 |
-| **Phase II** | KCR Orange | 1 |
-| **Phase IV** | MTR White | 2 |
-| **Phase V** | ::: | ::: |
-
-=== Route 992 ===
-
-Route 992 is using S43-Tec LRVs 75, 80, 02, 20 stocks from Wald-Tafelberge Storage Depot.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **1975 Stock** | S43-Tec Red & White | 2 |
-| **1980 Stock** | ::: | ::: |
-| **1995 Stock** | ::: | ::: |
-| **2002 Stock** | ::: | ::: |
-| **2010 Stock** | ::: | ::: |
-| **2020 Stock** | S43-Tec Red & White, Merseyrail 777 Yellow | ::: |
-
-=== Route 804 ===
-
-Route 804  is using Phase I and Phase II trains.
-
-**List of liveries**
-
-^  Phase/Model  ^  Livery  ^  Cars  ^
-| **Light Rail Phase I** | KCR Orange | 2 |
-| **Light Rail Phase II** | ::: | ::: |
-
-===== Stops and Routes =====
-
-=== Stops ===
-
-^  Fare Zone  ^  Name  ^  Routes  ^  District  ^  Connections  ^  Opened  ^
-|  @#F7D0C9:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  | Light Rail Depot | [[lrt_483p|483P]], [[lrt_801|801]], [[lrt_802|802]], [[lrt_804|804]], [[lrt_810|810]], [[lrt_882|882]] | Kallos | <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color> | 10 October 2022 |
-| ::: | Royal Park | ::: | ::: | <color white/#6B4799>**<html>&nbspElizabeth Line (Proposed)&nbsp</html>**</color> | 29 October 2023 |
-| ::: | Shek Ai | 483P, 810, 882 | ::: | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color> | 10 October 2022 |
-| ::: | Kallos | [[lrt_804|804]] | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color> | 5 August 2022 |
-| ::: | Kallos West | [[lrt_801|801]], [[lrt_802|802]] | ::: | ::: | ::: |
-| ::: | Karest Mountain Forest | ::: | ::: |   | ::: |
-| ::: | Karest Lake (East) | ::: | ::: | ::: | ::: |
-| ::: | Kwai Lam | ::: | ::: | ::: | ::: |
-| ::: | Karest Lake (West) | ::: | ::: | ::: | ::: |
-| @#F7D0C9: | Kallos Ferry Pier | 802 | ::: | Kallos Ferry | ::: |
-| ::: | Puketeraki | 115, 802 | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color> | 10 September 2022 |
-| ::: | Karest Lake Beach | [[lrt_801|801]] | ::: |   | 11 August 2022 |
-| ::: | Spruce Forest | 115, [[lrt_801|801]] | ::: | ::: | 20 August 2022 |
-| ::: | Mou Lun | [[lrt_804|804]] | ::: | ::: | 2 November 2023 |
-| ::: | Casper Lake | ::: | ::: | ::: | ::: |
-| ::: | Pai Kok | ::: | New Buckingham | ::: | ::: |
-| ::: | Humugath | [[lrt_633|633]], [[lrt_804|804]] | ::: | ::: | 6 May 2023 |
-| ::: | Taipa | ::: | ::: | <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color> | ::: |
-|  @#FEFCE5:\\ \\ \\ \\ \\ \\ \\ \\ <color #E7893F>**<html><font size="4">2</font></html>**</color>  | New Read Leaves | 115, [[lrt_801|801]] | Kallos | <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color> | 20 August 2022 |
-| ::: | Purple Leaves | ::: | ::: |   | ::: |
-| ::: | Yi Sin | 101, 102, [[lrt_801|801]] | ::: | ::: | ::: |
-| ::: | Yi Lok | ::: | ::: | <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color> | ::: |
-| ::: | Yi Yao | 101, 102, 115, [[lrt_801|801]] | ::: | <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color> | ::: |
-| ::: | Izu | 101, 102, 115 | ::: |   | ::: |
-| ::: | Eden | [[lrt_801|801]] | ::: | <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color> | ::: |
-| ::: | Yi Nam | 115 | ::: |   | 10 May 2023 |
-| ::: | Ishima | ::: | Yankton (TBC) | <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color white/#375e14>**<html>&nbspSnowie Line&nbsp</html>**</color> | ::: |
-| ::: | Yi Long | ::: | Kallos |   | ::: |
-|  @#B9E0ED:\\ \\ \\ \\ \\ \\ \\ \\ <color #017DBA>**<html><font size="4">3</font></html>**</color>  | Winry | ::: | Yankton (TBC) | <color white/#0000FE>**<html>&nbspBlau LRT&nbsp</html>**</color> | 18 April 2023 |
-| ::: | South Memorial | 505 | Toitoi | <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color> | 30 January 2023 |
-| ::: | Makki Memorial Village | ::: | ::: | <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color> | ::: |
-| ::: | Toitoi | 115, (762), 802 | ::: | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color> | 3 September 2022 |
-| ::: | Two Point Five Ka Tsuen | 115, 802 | ::: |   | 4 December 2022 |
-| ::: | Yau Tong | ::: | ::: | ::: | ::: |
-| ::: | Hot Springs | ::: | Spawn | <color white/#0EADDD>**<html>&nbspSchwarz LRT&nbsp</html>**</color> | 24 August 2022 |
-|  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #25A353>**<html><font size="4">4</font></html>**</color>  | Wing Palace | 633 | Oculus |   | 6 May 2023 |
-| ::: | No Hideokamon | ::: | ::: | ::: | ::: |
-| ::: | Froastpoarte | ::: | ::: | ::: | ::: |
-| ::: | Qiuyou Yanji | ::: | ::: | ::: | ::: |
-| ::: | Kaijin Ferry Pier | 410, 483P, 882 | ::: | ::: | 7 November 2022 |
-| ::: | Aoraki North | ::: | ::: | ::: | ::: |
-| ::: | Aoraki | ::: | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color> | ::: |
-| ::: | Forest Boundaries | 410, 810 | Mou Tapu |   | 10 October 2022 |
-| ::: | Suet Tin | ::: | ::: | ::: | ::: |
-| ::: | Origin Mointain | ::: | ::: | ::: | ::: |
-| ::: | Mou Tapu | ::: | ::: | <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#405F8E>**<html>&nbspOculink Blue Line&nbsp</html>**</color> | ::: |
-| ::: | Stone Shore (East) | ::: | ::: |   | ::: |
-| ::: | Stone Shore (West) | ::: | ::: | ::: | ::: |
-| ::: | Enchanted South Hill | ::: | ::: | <color white/#FB894B>**<html>&nbspEnchanted Scenic Free Cable Car&nbsp</html>**</color> | ::: |
-| ::: | Belvedere | 405 | Chou Wai | <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color white/#E31A56>**<html>&nbspOculink Red Line (Proposed)&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line (Proposed)&nbsp</html>**</color> | 18 February 2023 |
-| ::: | Tai Luk Bridge | ::: | ::: |   | ::: |
-| ::: | Hua Shan | ::: | ::: | ::: | ::: |
-| ::: | Da Xiao Hu | ::: | ::: | ::: | ::: |
-| ::: | Mount Lindbergh North | ::: | ::: | ::: | ::: |
-|  @#C2BED6:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">5</font></html>**</color>  | Oculus Center | 410, 483P, 633, 882 | Oculus | <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color>\\ <color white/#FCA500>**<html>&nbspOculink Yelllow Line&nbsp</html>**</color>\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color> | 7 November 2022 |
-| ::: | Blackland | ::: | Resort |   | ::: |
-| ::: | Ginza | 410, 633 | ::: | ::: | 25 February 2023 |
-| ::: | Yurine | ::: | ::: | ::: | ::: |
-| ::: | Melody Garden | 483P, 492, 633 | ::: | ::: | 10 February 2023 |
-| ::: | Kwun Wu | ::: | ::: | ::: | ::: |
-| ::: | Roundabout Lake | 483P, 882 | ::: | ::: | 7 November 2022 |
-| ::: | Jonathan’s Resort | 482P, 483P, 492, 633, 882 | ::: | <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color white/#673BB8>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color> | ::: |
-| ::: | Resort North Village | 482P, 483P, 882 | ::: |   | ::: |
-| ::: | Badsand Beach | 483P, 882 | ::: | ::: | ::: |
-|  @#F9D8AD:\\ \\ \\ \\ \\ \\ <color #734B8A>**<html><font size="4">6</font></html>**</color>  | Yin Pan Tsuen | 410, 483P, 492 | ::: | ::: | 10 February 2023 |
-| ::: | Temple | ::: | Chou Wai | ::: | ::: |
-| ::: | Ma Tau Peninsula | ::: | ::: | ::: | ::: |
-| ::: | Bamboo Hill | ::: | ::: | ::: | ::: |
-| ::: | Chou Wai | ::: | ::: | LPR Bus Route 41K | ::: |
-| ::: | Leng Tan | 405, 410, 492 | ::: |   | 18 February 2023 |
-| ::: | Precious Cove | ::: | ::: | ::: | ::: |
-| ::: | Bridge Bay | ::: | ::: | <color white/#E31A56>**<html>&nbspOculink Red Line&nbsp</html>**</color> | ::: |
-| ::: | Tiu Keng Shan | 405 | ::: |   | ::: |
-| ::: | Tiu Keng Tei | ::: | ::: | ::: | ::: |
-|  @#BBD3D7:\\ \\ \\ \\ \\ \\ <color #236F74>**<html><font size="4">7</font></html>**</color>  | Sky Tower West | 482P, 882 | Resort | ::: | 4 March 2023 |
-| ::: | Chun Wang Villags | ::: | ::: | ::: | ::: |
-| ::: | Chun Ming | ::: | ::: | ::: | ::: |
-| ::: | Tin Yiu | ::: | ::: | ::: | ::: |
-| ::: | Tin Yau | ::: | ::: | ::: | ::: |
-| ::: | Heung Yuen Wai | ::: | ::: | ::: | ::: |
-| ::: | Airport South | ::: | ::: | <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color> | ::: |
-| ::: | Airport North | 482P, 720 | ::: | ::: | ::: |
-| ::: | San Shek Wan | 720 | Eastwich |   | ::: |
-| ::: | East San Shek Wan | 715 | ::: | ::: | 23 October 2023 |
-| ::: | Loyalty Hills | 715 | ::: | <color white/#22A045>**<html>&nbspMarble Line&nbsp</html>**</color>  | ::: |
-|  @#C0D7F7:\\ \\ \\ \\ \\ \\ <color #043989>**<html><font size="4">8</font></html>**</color>  | Sun Fat | 715, 720 | ::: |   | 4 March 2023 |
-| ::: | Tsing Fung | ::: | ::: | ::: | ::: |
-| ::: | <del>Eastwich-on-sea</del> (Proposed) | ::: | ::: | ::: | N/A |
-| ::: | Inner Harbour Ferry Terminal | ::: | ::: | Kallos Ferry | 4 March 2023 |
-| ::: | Sand Farm | ::: | ::: |   | ::: |
-| ::: | Chimera | ::: | Tempest | ::: | ::: |
-| ::: | Ginga | ::: | ::: | ::: | ::: |
-| ::: | Daimon North | 715, 720, 761 | ::: | <color white/#92BA74>**<html>&nbspTempest Skyisland Cable Car&nbsp</html>**</color> | 5 February 2023 |
-|  @#E3DBD1:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #65411D>**<html><font size="4">9</font></html>**</color>  | Hung Sum (West) | 761 | ::: |   | ::: |
-| ::: | Hung Sum (East) | ::: | ::: | ::: | ::: |
-| ::: | Boundary Island | 717, 718, 721, 722, 761 | ::: | ::: | ::: |
-| ::: | Sidebay Ferry Pier | ::: | ::: | Kallos Ferry | ::: |
-| ::: | Eastern Garden Lake | ::: | ::: |   | ::: |
-| ::: | Dry Plains Cable Car Stop | ::: | ::: | <color white/#92BA74>**<html>&nbspTempest Skyisland Cable Car&nbsp</html>**</color> | ::: |
-| ::: | Badlands Forest | ::: | ::: |   | ::: |
-| ::: | Deer Hollow | 717, 718, 721, 722 | ::: | ::: | 9 July 2023 |
-| ::: | Morning Star | ::: | ::: | ::: | ::: |
-| ::: | Silver Dollar | ::: | ::: | ::: | ::: |
-| ::: | Dynamic | ::: | ::: | ::: | ::: |
-| ::: | Tao Tung | 721, 722, 735, 736P | ::: | ::: | ::: |
-| ::: | One-man Island | 721, 722, 735, 736, 736P | ::: | ::: | ::: |
-| ::: | Toodeepic Ocean | ::: | ::: | ::: | ::: |
-| ::: | Butterfly Interchange | 717, 718, 736 | ::: | ::: | ::: |
-| ::: | McHenry | ::: | ::: | ::: | ::: |
-| ::: | Little Stick | ::: | ::: | ::: | ::: |
-| ::: | Big Stick | ::: | ::: | ::: | ::: |
-| ::: | Lucky Dog | ::: | ::: | ::: | ::: |
-| ::: | Evening Spring | ::: | ::: | ::: | ::: |
-|  @#C3C3C3:\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ <color #585858>**<html><font size="4">10</font></html>**</color>  | Jura Forest | 717, 718, 721, 722, 761 | ::: | ::: | 5 February 2023 |
-| ::: | Tempest | 717, 718, 721, 722, 736, 736P, 761 | ::: | <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#22A045>**<html>&nbspMarble Line (Proposed)&nbsp</html>**</color> | ::: |
-| ::: | Yamaura | 717, 718, 721, 722, 736, 736P | ::: |   | 9 July 2023 |
-| ::: | Alpha | 717, 718 | ::: | ::: | ::: |
-| ::: | Beta | ::: | ::: | ::: | ::: |
-| ::: | Gamma | ::: | ::: | ::: | ::: |
-| ::: | Delta | ::: | ::: | ::: | ::: |
-| ::: | Kuk Wu | ::: | ::: | ::: | ::: |
-| ::: | Tam Ling | ::: | Sunrise | ::: | ::: |
-| ::: | Hattari | ::: | ::: | ::: | ::: |
-| ::: | Kaixa | ::: | ::: | ::: | ::: |
-| ::: | Tai Wai | 717, 718, 735 | ::: | ::: | ::: |
-| ::: | Kennedy | ::: | ::: | ::: | ::: |
-| ::: | Sunrise | 717, 718, 735, 736 | ::: | <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color> | ::: |
-| ::: | Kimberly | 717, 718, 736 | ::: |   | ::: |
-| ::: | Shek Wan Tsuen | ::: | ::: | ::: | ::: |
-| ::: | Cascade | ::: | ::: | ::: | ::: |
-| ::: | Satoyama | 721, 722, 736, 736P | Tempest | ::: | ::: |
-| ::: | Siu Shek Tam | ::: | ::: | ::: | ::: |
-| ::: | Silicon Valley | ::: | ::: | ::: | ::: |
-| ::: | Dawa | 735 | Sunrise | ::: | ::: |
-| ::: | Shui Sheung | ::: | ::: | ::: | ::: |
-| ::: | Copper Grove | ::: | ::: | ::: | ::: |
-| ::: | Shan King | ::: | ::: | ::: | ::: |
-|  @#FFD5E9:\\ \\ \\ \\ <color #760A58>**<html><font size="4">11</font></html>**</color>  | Old Depot | 992 | Llanmara | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | 13 March 2024 |
-| ::: | Grumbler's Grove | ::: | ::: |   | ::: |
-| ::: | Wald-Tafelberge | ::: | ::: | <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color> | 11 April 2023 |
-| ::: | Cape Lake | ::: | ::: |   | ::: |
-| ::: | Badgerstown | ::: | ::: | <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color>  | ::: |
-| ::: | Exchange Place | ::: | ::: | <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color> | ::: |
-|   | Sah Tou Emergency Platform | When service fails, a\\ temporary terminal\\ stop for\\ 410, 492, 483P, 633P | Chou Wai |   | 10 February 2023 |
-
-===== Routes =====
-
-There are currently 30 routes in the Lilac Light Rail system. 26 of them are normal services, and 4 are special services. \\ **Normal Services:** \\ {{101.png?50&direct}} : Eden Circular (Clockwise direction, via Yi Yao) \\ {{102.png?50&direct}} : Eden Circular (Anti-clockwise direction, via Yi Sin) \\ {{115.png?50&direct}} : Winry ⇄ Yi Long((
-Proposed: Winry ⇄ Hot Spring
-))(via Ishima, Yi Yao) \\ {{405.png?50&direct}} : Bridge Bay ⇄ Belvedere (via Tiu Keng Shan, Da Xiao Hu) \\ {{410.png?50&direct}} : Enchanted South Hill ⇄ Bridge Bay (via Ginza, stops at Temple in Enchanted South Hill direction) \\ {{482P.png?50&direct}} : Jonathan’s Resort ⇄ Airport North((
-Airport North stop in Heung Fan Liu Airport
-))(via Sky Tower West, Tin Yau) \\ {{483P.png?50&direct}} : Light Rail Depot ⇄ Chou Wai (via Oculus Center, stops at Resort North Village, Badsand Beach in Light Rail Depot direction) \\ {{492.png?50&direct}} : Jonathan’s Resort ⇄ Bridge Bay (via Chou Wai, stops at Temple in Jonathan’s Resort direction) \\ {{505.png?50&direct}} : South Memorial ⇄ Makki Memorial Village \\ {{633.png?50&direct}} : Jonathan’s Resort ⇄ Taipa (via Ginza, Oculus Center) \\ {{715.png?50&direct}} : Daimon North ⇄ Loyalty Hills (via Inner Harbour Ferry Terminal, East San Shek Wan)\\ {{717.png?50&direct}} : Tempest Circular (Anti-clockwise direction, via Jura Forest) \\ {{718.png?50&direct}} : Tempest Circular (Clockwise direction, via Yamaura) \\ {{720.png?50&direct}} : Daimon North ⇄ Airport North((
-Airport North stop in Heung Fan Liu Airport
-))(via Innner Harbour Ferry Terminal, Sun Fat) \\ {{721.png?50&direct}} : Tempest South Circular (Clockwise direction, via One-man Island) \\ {{722.png?50&direct}} : Tempest South Circular (Anti-clockwise direction, via Dynamic) \\ {{735.png?50&direct}} : Tao Tung ⇄ Sunrise (via One-man Island, Shan King) \\ {{736.png?50&direct}} : Tempest ⇄ Sunrise (via Toodeepic Ocean, Big Stick) \\ {{736P.png?50&direct}} : Tempest ⇄ Tao Tung (via Silicon Valley, One-man Island) \\ {{761.png?50&direct}} : Tempest ⇄ Daimon North (via Dry Plains Cable Car Stop, Hung Sum) \\ [[lrt_801|{{801.png?50}}]] : Light Rail Depot ⇄ Eden (via Karest Lake Beach, stops at Yi Yao in Light Rail Depot direction) \\ [[lrt_802|{{802.png?50}}]] : Light Rail Depot ⇄ Hot Springs (via Karest Lake, Toitoi) \\ [[lrt_804|{{804.png?50}}]] : Light Rail Depot ⇄ Taipa (via Casper Lake, stops at Kallos in Taipa direction)\\ {{810.png?50&direct}} : Light Rail Depot ⇄ Enchanted South Hill (via Shek Ai, Mou Tapu) \\ {{882.png?50&direct}} : Light Rail Depot ⇄ Airport South((
-Airport South stop in Heung Fan Liu Airport
-))\\ (via Oculus Center, stops at Resort North Village and Jonathan’s Resort in Airport South direction, and stops at Badsand Beach in Light Rail Depot direction) \\ {{992.png?50&direct}} : Old Depot ⇄ Exchange Place (via Wald-Tafelberge, Badgerstown)
-
-**Special Services:** \\ {{115D.png?50&direct}} : Winry ⇄ Yi Yao\\ (Special route to allow 115 trains to travel from and back to Yi Long Depot)\\ {{578E.png?50&direct}} : South Memorial ⇄ %%Sunrise%%\\ (Has a frequency of around 2 hours, a special route to through run on the whole eastern light rail system) \\ {{802S.png?50&direct}} : Light Rail Depot ⇄ Icesert Estate\\ (Has a frequency of 1 hour, through runs on Hi-Sko Schwarz LRT from Hot Springs until Icesert Estate) \\ {{:mtr_letsplay:t717.png?50&direct}} : Sunrise Platform 5 → Sunrise Platform 6\\ (Special single-direction route to allow 717 trains to switch onto 718)
-
-**Discontinued Services:** \\ - **801X** : Light Rail Depot to Lei Yue Mun, put into service on 10 September 2022, through runs on Chin Ka Village Light Rail (Route 762) from Toitoi to Lei Yue Mun. As route 802 is extended to Toitoi on 4 December 2022, this route is discontinued because it can no longer provide more efficiency for passengers. \\ - **643** : Taipa to Light Rail Depot (above-ground platforms) via Royal Park in Light Rail Depot direction, and direct to Mou Lun in Taipa direction. Was in service for less than one day as a public test route during the construction of the Taipa-Kallos connection, but construction on the 804 route was completed in time for full open service without the temporary 643 route.
-
-**Shelved lines:** \\ - **719P (first generation)** : Tempest to Eastwich-on-sea (via Toodeepic Ocean), as it was just completely overlapping 736P without bringing any benefits to the light rail system, this route was set aside. \\ - **723P** : Tao Tung -> Sunrise (via Big Stick), this was a depot route planned to let trains carry passengers when gonig back to Sunrise depot from Tao Tung. In the final plan, the last instruction of Sunrise Depot was set to be 735 towards Sunrise, this depot route was no longer needed and was set aside.\\ - **802K**: Light Rail Depot to South Memorial. This route was raised by Qingli Railways to connect the 505 Memorial loop to the main light rail system, with a 15 minute frequency. This route plan was soon replaced by 578E which goes from South Memorial to Tempest. This route has been raised again in the "Lilac Light Rail Reform Plan 2023" as the frequency of 578E is far from enough to carry passengers out of the Memorial area to other light rail stops.
-
-**Planned Services:** \\ - **601** : Jonathan's Resort to Loyalty Hills, used to replace route 482P and upgrade to normal service.\\ - **633P** : Taipa to Belvedere, just to provide a more efficient connection.\\ - **719** : Tao Tung to Loyalty Hills, to serve the new Loyalty Hills Terminal. \\ - **719P** : Tao Tung to Eastwich-on-sea, will be opened when Eastwich-on-sea is completed.\\ - **801P** : Light Rail Depot to Winry.\\ - **803** : Light Rail Depot to South Memorial, mentioned above.
+2023年10月20日，庆黎铁路提出“2023年丁香轻轨改革计划”。这包括以下计划：
+-移除101号路线
+-将115路延长至温泉，并为返回仪陇车辆段的列车设立新的115D路。
+-482P路线的拆除
+-578E线延长至日出
+-从乔纳森度假村到洛亚尔蒂山的新路线601，取代482P路线
+-新路线633P由氹仔至丽城
+-从大门北到洛亚尔蒂山的新路线715，在719投入服务之前成为一个占位符
+-新路线719号由陶洞至洛亚尔山
+-新路线719P线由陶东至伊斯特威奇
+-将720路延长至乔纳森度假村
+-721722号路线的拆除
+-735线延长至大门北
+-将736P路由与761路由合并
+-轻轨车辆段至温里的新路线801P
+-由轻铁车辆段至南纪念堂的新路线803
+-从氹仔经轻轨车辆段至Kallos的新路线804，以及从路线801、802拆除Kallos站
+-缩短882路至乔纳森度假村
+-992线延长至旧车辆段
+2023年10月22日，云杉林和普凯特拉基之间的轨道连接完成。115号公路延伸至温泉。115D路也开始为返回车辆段的列车提供服务。
+2023年10月23日，洛亚尔蒂山轻轨总站竣工。715号公路投入服务，从大门岛开往洛亚尔提山。
+2023年10月29日，皇家公园竣工，未来可连接伊丽莎白线。483P、801、802、810、882路在此停靠。路线803和804后来被添加到在该站呼叫的路线的名册中。
+2023年11月1日，801、802和802S号线的Kallos站被拆除，第二天，804号线投入服务，运行于氹仔和Kallos/轻轨车辆段之间。
+2023年12月11日，Lilypad Rail提出了“Lilac轻轨南部走廊扩建计划”，其中包括轻轨南部的延伸：
+-经钻石溪及西东须洲的古湖
+-Satoyama途经极地
+-经由极地的暴风雨
+直到所有的线路在蔡恩站汇合。Kuk Wu和Zein之间有四条轨道，沿着与Kuk Wu和Sunrise之间现有当地轨道略有不同的路线创建了新的“豪华”/“有限”服务绕行轨道。南部走廊计划还包括将轻轨向南延伸至Hylkemare、Gecko Plaza和Eastville Junction的计划。该计划还包括一个通往奥斯塔尼亚的分支机构。从氹仔到壁虎广场的东西向延伸也包括在内，但最初不会建造，将有自己的方案。
+北部现有轻轨站和Zein合并站之间的第一阶段施工已概述，并于2024年4月7日开始施工。
+2024年3月13日，992号公路从Wald Tafelberge延伸至Old Depot，中途停靠Grumbler’s Grove。
+2024年4月7日，201号和202号干线投入服务，往返于伊斯特维奇码头（或海上伊斯特维奇）和罗姆海岸。
+2024年4月16日，P300号干线投入服务，来往日出及古湖。这是第一条优质快速轻轨路线，完全在快速轨道上运行。
+2024年4月26日，库务和蔡英文之间的轨道连接完成。P300线由库湖延长至泽，中途停靠西苏伊士洲。300路投入服务，运行于日出和蔡恩之间。271P线由道东经一人岛及库湖延长至泽，道东站亦告取消。
+2024年4月28日，Satoyama、Tempest和Zein之间的轨道连接完成。761号干线在暴风过后更改路线，终止于蔡恩而非道东。271号干线由道东经一人岛及佐敦延长至泽津，并取消道东站。
+2024年5月4日，771X号干线投入服务，途经一人岛及库务，来往道东及泽津。它运行在库务和蔡英文之间的快速轨道上，因此被称为“区域快车”。
 
 ~~NOTOC~~
