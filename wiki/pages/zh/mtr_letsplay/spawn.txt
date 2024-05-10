@@ -1,7 +1,7 @@
 **本条目尚未补充完毕**
 ====== 重生区站 ======
 
-重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:north_coast_line|北海岸线]]
+重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:wlt_line_2 |北海岸线]]
 此外，还有附属车站蓝台站和2个高铁客运大楼
 
 <WRAP right>
@@ -18,7 +18,7 @@
 | ::: | [[mtr_letsplay:scottetsu_line|苏铁线(B)]] |
 | ::: | [[mtr_letsplay:red_line|红线(B)]] |
 | ::: | [[mtr_letsplay:furret_line|大立线(B)]] |
-| ::: | [[mtr_letsplay:north_coast_line|北海岸线(A)]] |
+| ::: | [[mtr_letsplay:wlt_line_2|北海岸线(A)]] |
 | ::: | [[mtr_letsplay:sightseeing_local_line|观光缓行线(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
 | ::: | [[mtr_letsplay:cyan_twilight_line|蓝霞线(C)]] |
