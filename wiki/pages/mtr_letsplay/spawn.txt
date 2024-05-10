@@ -2,11 +2,11 @@
 
 ====== Spawn Station ======
 
-Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:north_coast_line|North Coast Line]]
+Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:wlt_line_2 |North Coast Line]]
 
 <WRAP right>
 
-|**spawn**||
+| **spawn** ||
 ^  **Overview**  |^
 | **Operators** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
@@ -23,10 +23,10 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 | ::: | [[mtr_letsplay:sightseeing_express|Sightseeing Express(C)]] |
 | ::: | [[mtr_letsplay:cyan_twilight_line|Cyan Twilight Line(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|Metro South Continental Line(C)]] |
-| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]]|
+| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]] |
 | ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line(D)]] |
 | ::: | [[mtr_letsplay:hsr_north_east_line|HSR North East Line(D)]] |
-| ::: | [[mtr_letsplay:hsr_intercity_metro-diagonally line |HSR Intercity Metro-Diagonally Line(D)]] |
+| ::: | [[mtr_letsplay:hsr_intercity_metro-diagonally line|HSR Intercity Metro-Diagonally Line(D)]] |
 | ::: | [[mtr_letsplay:hsr_dan_chun_line|HSR Dan Chun Line(E)]] |
 | ::: | [[mtr_letsplay:hsr_spawn_apm|Spawn High Speed Terminal Automatic People Mover]] |
 | **Owners** | [[mtr_community:jonafanho|Jonathan Ho]] |
@@ -38,9 +38,9 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 | **Traditional** | 重生區 |
 | **Simplified** | 重生区 |
 ^  **Colors**  |^
-|?|Blue Spawn |
-|?|Pink HSR 1 |
-|?|Cyan HSR 2 |
+| ? | Blue Spawn |
+| ? | Pink HSR 1 |
+| ? | Cyan HSR 2 |
 ^  **Station**  |^
 | **Type** | Underground |
 | **Phases** | 6 |
