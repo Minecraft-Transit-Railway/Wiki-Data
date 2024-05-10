@@ -23,7 +23,18 @@
 
 </WRAP>
 Shimano MTR ([[wp>Chinese_language|Chinese]]: 縞野MTR, Common Notation: SMTR) is a wide-area subway centered on the northwest. Since its inception in 2018, it has been characterized by a unique Livery and sign system.
-====Route and Rolling Stocks======
+=====Fare rules=====
+The zone number setting is the large value of the X and Z coordinates, and the number obtained by dividing by 1000 and truncating the decimal point will be the zone number.
+
+Example: Cinderace Station (-6212, -4832) is "Zone 6".
+
+However, the above rules apply only to stations whose management is directly under TRT.
+
+=====Reserved seat=====
+We are currently introducing reserved seats in the two cars on the Furret Line's Spawn Station side. ((TCL color AEL Train applies))
+Until around May 2024, it was tentatively written as "first class," but the current name was changed to take into account that there are no tables or reclining seats, and the deck is not completely partitioned. . There are plans to introduce it to other routes in the future.
+
+=====Route and Rolling Stocks=====
 See [[Terralith Rapid Transit]].
 
 =====Related page=====
