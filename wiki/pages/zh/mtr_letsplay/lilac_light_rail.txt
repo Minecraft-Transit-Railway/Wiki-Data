@@ -2,7 +2,7 @@
 
 ====== （需要补充翻译）丽莲轻铁 ======
 
-The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac LRT), is a light rail system in the Let’s Play Server, serving mainly the eastern and the northeastern side of the Let’s Play Server. It is a combination of Lilypad Light Rail and Qingli Light Rail (formerly Kallos Light Rail) which were owned by Lilypad Rail and Qingli Railways respectively. Currently the system is jointly owned by both companies.
+丽莲轻铁，也被称为东部轻铁交通系统（Lilac LRT），是官方齐齐玩服务器中的轻铁系统，主要服务于服务器的东部和东北部。它是睡莲轻铁和晴丽轻铁（原丽湾轻铁）的组合，分别由睡莲铁路和晴丽铁路拥有。目前，该系统由两家公司共同拥有。
 
 <WRAP right>
 
@@ -13,8 +13,8 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 |  {{lrt633.png?300}}\\ Lilac Light Rail at Taipa stop  ||
 ^  Overview  |^
 | **Status** | Operational |
-| **Owner** | [[lilypad_rail|Lilypad Rail]]\\ Qingli Railways |
-| **Locale** | Spawn\\ Kallos\\ Mou Tapu\\ Resort\\ Taipa\\ Eastwich\\ Llanmara\\ Tempest\\ Sunrise |
+| **Owner** | [[zh:mtr_letsplay:lilypad_rail|睡莲铁]]\\ [[zh:mtr_letsplay:qingli_railways|晴丽铁路]] |
+| **Locale** | [[zh:mtr_letsplay:spawn|重生区]]\\ Kallos\\ Mou Tapu\\ Resort\\ Taipa\\ Eastwich\\ Llanmara\\ Tempest\\ Sunrise |
 | **Connecting lines** | <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>\\ <color white/#015A9C>**<html>&nbspNorth Coast Line&nbsp</html>**</color>\\ <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#B284DE>**<html>&nbspAT Regional&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#65411D>**<html>&nbspSouth Continental Line&nbsp</html>**</color>\\ <color white/#75193E>**<html>&nbspDai Yunlong Line&nbsp</html>**</color>\\ <color /#01B5CC>**<html>&nbsp<a href="https://wiki.minecrafttransitrailway.com/mtr_letsplay:kallos_express" style="color:#FFFFFF;">Kallos Express</a>&nbsp</html>**</color>\\ <color white/#385E15>**<html>&nbspSnowie Line&nbsp</html>**</color>\\ <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>\\ **<color white/#E31A56><html>&nbspOc</html></color><color white/#405F8E>uli</color><color white/#FCA500><html>nk&nbsp</html></color>**\\ <color white/#01B081>**<html>&nbspBond Line&nbsp</html>**</color>\\ <color white/#7091FF>**<html>&nbspSightseeing Express&nbsp</html>**</color>\\ <color white/#673AB7>**<html>&nbspCyan Twilight Line&nbsp</html>**</color>\\ <color white/#FD7FAE>**<html>&nbspBlossom East Line&nbsp</html>**</color>\\ <color /#0FE47A>**<html>&nbspAldgate and Resort Line&nbsp</html>**</color>\\ <color white/#CF3C44>**<html>&nbspSei Mei APM&nbsp</html>**</color>\\ <color white/#F3009E>**<html>&nbspEffirt Express&nbsp</html>**</color>\\ <color white/#7F8ABF>**<html>&nbspLlanmara Express&nbsp</html>**</color>\\ <color white/#CB1B20>**<html>&nbspVictory Line&nbsp</html>**</color>\\ <color white/#E39F0E>**<html>&nbspHoku Hoku Line&nbsp</html>**</color>\\ <color white/#A1A5A8>**<html>&nbspIsland Line&nbsp</html>**</color>\\ <color /#BEEDFF>**<html>&nbspStarlight Line&nbsp</html>**</color> \\ <color white/#B0B0BE>**<html>&nbspMoszyan Railways Sprinter&nbsp</html>**</color> |
 | **Stations** | 134 |
 | **Color on map** | <color /#D3A80A><html>&nbsp&nbsp&nbsp&nbsp</html></color><html>&nbsp&nbspWarm Yellow</html> |
@@ -22,7 +22,7 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 | **Type** | Light Rail |
 | **System** | LPR/QLR |
 | **Route number** | 26 |
-| **Operator(s)** | [[lilypad_rail|Lilypad Rail]]\\ Qingli Railways |
+| **Operator(s)** | [[zh:mtr_letsplay:lilypad_rail|睡莲铁]]\\ [[zh:mtr_letsplay:qingli_railways|晴丽铁路]] |
 | **Depot(s)** | Kallos\\ Eden\\ Winry\\ Taipa\\ Bridge Bay\\ Heung Fan Liu\\ Daimon North\\ Sunrise\\ Llanmara\\ Memorial Village |
 | **Rolling stock** | 1 or 2-car light rail vehicles |
 ^  History  |^
@@ -50,15 +50,15 @@ The Lilac Light Rail, also known as the Eastern Light Rail Transit System (Lilac
 
 </WRAP>
 
-===== History =====
+===== 历史 =====
 
-When Kallos is developed in August 2022, the New Harmony Railways reserved space for building a small Light Rail Platform when constructing Kallos station. New Harmony Railways immediately released a proposal for a light rail [[lrt_801|route 801]] (later changed to 802) running from Kallos to Kallos Ferry Pier, a new pier in Kallos area also constructed by New Harmony Railways. After some research, construction commenced on 1 August 2022.
+When Kallos is developed in August 2022, the [[zh:mtr_letsplay:qingli_railways|新和谐铁路（即晴丽铁路）]] reserved space for building a small Light Rail Platform when constructing Kallos station. [[zh:mtr_letsplay:qingli_railways|新和谐铁路]] immediately released a proposal for a light rail [[lrt_801|route 801]] (later changed to 802) running from Kallos to Kallos Ferry Pier, a new pier in Kallos area also constructed by New Harmony Railways. After some research, construction commenced on 1 August 2022.
 
 Kallos Light Rail [[lrt_801|Route 801]] was completed and fully operational on 5 August 2022. The route runs from Kallos to Kallos Ferry Pier, and serving some villages between, just according to the plan. Light Rail Vehicles will turn back when reaching Kallos Ferry Pier stop, to another turn back rail in the Northwest of the stop, then return to Kallos by the opposite track.
 
 On 11 August 2022, Route 801 has been splittd into 2 routes, [[lrt_801|801]] and 801P. The terminus of Route 801 was changed to Karest Lake Beach, while Route 801P remained terminating at Kallos Ferry Pier. On the same day, New Harmony Railways announced that [[lrt_801|route 801]] will be extended to Eden, together with 2 new routes, 101 and 102, to form the Eden Circular around Eden station. The Eden plan completed on 20 August 2022.
 
-On 13 August 2022, New Harmony Railways proposed to extend route 801P to Puketeraki and interchange with AT Metro. The construction started on 20 August 2022. On 3 September, Chin Ka Village light rail (Route 762) was completed which runs between Toitoi and Lei Yue Mun, owned by Jonathan Railway Authorities. New Harmony Railways released a proposal next day of setting up a peak hour route running from Kallos to Puketeraki, Toitoi, and continue to run on tracks of Route 762 until Lei Yue Mun. The route number of this route was later decided to be 801X. Also, as the number of routes terminating at Kallos increase, the original platforms cannot hold the amount of trains anymore. As a result, a Kallos LRT Depot stop is also proposed to be built in the West of Kallos station, consisting 12 Light Rail platforms. On 10 September 2022, Route 801X entered service and it became the first route to terminate at Kallos LRT Depot. The terminus of other routes were also moved on the next day.
+On 13 August 2022, [[zh:mtr_letsplay:qingli_railways|晴丽铁路]] proposed to extend route 801P to Puketeraki and interchange with AT Metro. The construction started on 20 August 2022. On 3 September, Chin Ka Village light rail (Route 762) was completed which runs between Toitoi and Lei Yue Mun, owned by Jonathan Railway Authorities. New Harmony Railways released a proposal next day of setting up a peak hour route running from Kallos to Puketeraki, Toitoi, and continue to run on tracks of Route 762 until Lei Yue Mun. The route number of this route was later decided to be 801X. Also, as the number of routes terminating at Kallos increase, the original platforms cannot hold the amount of trains anymore. As a result, a Kallos LRT Depot stop is also proposed to be built in the West of Kallos station, consisting 12 Light Rail platforms. On 10 September 2022, Route 801X entered service and it became the first route to terminate at Kallos LRT Depot. The terminus of other routes were also moved on the next day.
 
 On 17 September 2022, New Harmony Railways released a new proposal of a new route running from Kallos LRT Depot to Enchanted South Hill, together with an upgrade on Kallos LRT Depot station to a High Speed Rail stop. The new station completed together with Route 810 and both entered service on 10 October 2022. Another proposal of a new route connecting Kallos with Jonathan’s Resort was dropped on 19 September 2022, and it became fully operational since 7 November 2022.
 
