@@ -29,9 +29,9 @@
 | **开通日期** | 2022年8月20日;\\ 1.5年前 |
 ^  线路使用技术  |^
 | **线路长度** | 51.6km |
-| **轨道距** | 1435mm标准轨（其实在MTR模组和Minecft模组中换算应该是762mm窄轨）\\ (4 ft 0.5 in)\\ 标准轨距 |
-| **Electrification** | 750V DC\\ (overhead wire and\\ third rail) |
-^  Route Map  |^
+| **轨道距** | 1435mm标准轨\\ (4 ft 0.5 in)\\ 标准轨距 |
+| **电气化** | 750伏直流电\\ (架空接触网和\\ 第三轨) |
+^  线路图 Map  |^
 |  {{ :mtr_letsplay:light_rail_map.png?300&direct }}//丽莲轻铁路线图, 设计者[[mtr_community:staff:sleepy_sapph|sleepy_sapph]], //\\ //在2023年10月20日. //  ||
 
 <WRAP right>
