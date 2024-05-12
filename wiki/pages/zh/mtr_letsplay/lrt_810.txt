@@ -1,0 +1,70 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+======（需要补充翻译）丽莲轻铁810线======
+**Lilac Light Rail Route 810** (Chinese: **麗蓮輕鐵810綫**) is a [[lilac_light_rail]] route connecting Light Rail Depot stop and Enchanted South Hill stop, and is jointly owned by [[lilypad_rail]] and Qingli Railways.
+
+<WRAP right>
+^  <html><font size = "4">Lilac Light Rail Route 810</font></html>\\ <html><font size = "4">麗蓮輕鐵810綫</font></html>  ^^
+|@#0AECE1:||
+|  {{810_scrn.png?300&direct}}  ||
+^  Overview  ^^
+|**Operate location**|Kallos\\ Mou Tapu|
+|**Transit type**|Light Rail Transit|
+|**System**|[[lilac_light_rail]]|
+|**Status**|Operational|
+|**Starting stop**|Light Rail Depot|
+|**Terminus**|Enchanted South Hill|
+^  Technical  ^^
+|**Character**|Overground\\ At-grade\\ Underground|
+|**Maximum speed**|60km/h|
+|**Number of stations**|9|
+|**Track gauge**|1435mm\\ (4 ft 0.5 in)\\ standard gauge|
+|**Electrification**|750 DC Third Rail|
+|**Depot**|Kallos Light Rail Depot|
+|**Rolling stock**|Light Rail Phase I\\ Light Rail Phase II\\ Light Rail Phase III\\ Light Rail Phase IV\\ Light Rail Phase V|
+|**Number of cars**|1 or 2|
+^  Service  ^^
+|**Opened**|10 October 2022, 1 year ago|
+|**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
+|**Operator(s)**|Qingli Railways|
+</WRAP>
+
+=====History=====
+On 17 September 2022, Qingli Railways proposed this route together with an upgrade on Kallos LRT stop (current Light Rail Depot stop) to a High Speed stop. 
+
+On 10 October 2022, this route is completed with the new Light Rail Depot stop. 
+
+On 29 October 2023, Royal Park is added to Enchanted South Hill bound for future connections to Elizabeth Line and [[lrt_804|route 804]].
+
+=====Stations=====
+<WRAP left>
+^  Fare Zone  ^  Name  ^  District  ^  Connections  ^^  Opened  ^
+|  @#0AECE1:**Lilac Light Rail Route 810**  ||||||
+|  @#F7D0C9:\\ \\ \\ \\ <color #DD5576>**<html><font size="4">1</font></html>**</color>  |Light Rail Depot\\ 輕鐵車廠|Kallos|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  Light Rail Depot  |  <color white/#FE448F>**<html>&nbspGuri Bay Line&nbsp</html>**</color>  |:::|
+|:::|Royal Park\\ 皇家園|:::|  [[lrt_483P|{{483p.png?40&direct}}]] [[lrt_801|{{801.png?40&direct}}]] [[lrt_802|{{802.png?40&direct}}]] [[lrt_804|{{804.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||29 October 2023|
+|:::|Shek Ai\\ 石艾|:::|  [[lrt_483P|{{483P.png?40&direct}}]] [[lrt_882|{{882.png?40&direct}}]]  ||10 October 2022|
+|:::|:::|:::|  Shek Ai  |  <color /#01FFFF>**<html>&nbspAzalea CL&nbsp</html>**</color>  |:::|
+|  @#D8E8C4:\\ \\ \\ \\ \\ \\ \\ \\ \\  <color #25A353>**<html><font size="4">4</font></html>**</color>  |Forest Boundaries\\ 森林交界|Mou Tapu|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|Shun Tin\\ 順天|:::|:::||:::|
+|:::|Origin Mountain\\ 起點山|:::|:::||:::|
+|:::|Mou Tapu\\ 慕塔普|:::|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  Mou Tapu  |  <color white/#0075DC>**<html>&nbspAT Metro&nbsp</html>**</color>\\ <color white/#0BAF35>**<html>&nbspSpawn Grand Circular&nbsp</html>**</color>\\ <color white/#405F8E>**<html>&nbspOculink Blue Line&nbsp</html>**</color>  |:::|
+|:::|Stone Shore (East)\\ 石岸（東）|:::|  [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|Stone Short (West)\\ 石岸（西）|:::|:::||:::|
+|:::|Enchanted South Hill\\ 迷惑南山|:::|   [[lrt_410|{{410.png?40&direct}}]]  ||:::|
+|:::|:::|:::|  <color white/#FB894B>**<html>&nbspEnchanted Scenic Free Cable Car&nbsp</html>**</color>  ||:::|
+</WRAP>
+
+=====Fare Zones=====
+- <color /#DD5576><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 1: Light Rail Depot ⇄ Shek Ai
+\\ - <color /#25A353><html>&nbsp&nbsp&nbsp&nbsp</html></color> Fare Zone 4: Forest Boundaries ⇄ Enchanted South Hill
+\\ Route 810 can meet up with other routes: 410, 483P, 801, 802, 804, 882
+
+=====Independent Sections=====
+- Track section between Shek Ai and Forest Boundaries
+
+=====Reference Pages=====
+- [[lilac_light_rail]]
+\\ - [[lrt_410]]
+\\ - [[lrt_882]]
