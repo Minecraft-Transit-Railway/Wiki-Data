@@ -38,11 +38,11 @@
 <WRAP right>
 
 |  @#b0c4de:  **Lilac Light Rail**  ||
-| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 麗蓮輕鐵 |
-| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 丽莲轻铁 |
+| [[wp>Traditional_Chinese_characters|繁体中文]] | 麗蓮輕鐵 |
+| [[wp>Simplified_Chinese_characters|简体中文]] | 丽莲轻铁 |
 |  @#F9FFBB: **Transcriptions**  ||
 |  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
-| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | lì lián qīng tiě |
+| [[wp>Hanyu_Pinyin|汉语拼音]] | lì lián qīng tiě |
 |  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
 | [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | laih lìhn hīng tit |
 | [[wp>Jyutping|JyutPing]] | lai6 lin4 hing1 tit3 |
@@ -121,7 +121,7 @@ On 4 May 2024, Route 771X entered service, running between Tao Tung and Zein via
 
 There are different rolling stocks in different routes as there are multiple depots.
 
-=== Route 410, 801, 802, 810, 882 ===
+=== 线路410, 801, 802, 810, 882 ===
 
 These routes uses trains from Kallos Light Rail Depot. This depot contains most of the liveries of Phase I to V light rail vehicles. Phase I LRVs were built by Comeng. They accommodate 43 seated passengers and 161 standees. The driver's cab interior and exterior design was conceived for KCRC by Design Triangle in 1986. Phase II LRVs were built by Kawasaki. They accommodate 26 seated and 185 standees. Phase III LRVs were built by A Goninan. They accommodate 26 seated and 212 standees. Phase IV LRVs were manufactured by United Group and CSR. They accommodate 37 seated and 248 standees. The Phase V LRVs were manufactured by CRRC Nanjing Puzhen.
 
