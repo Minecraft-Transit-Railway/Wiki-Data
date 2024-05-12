@@ -1,15 +1,16 @@
 等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
-====== MTR Community ======
+====== MTR社区 ======
 
-Below is a list of all community pages. These can be related to users, external servers, and resource packs. For more information, make sure to read the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] and [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]].
+以下是所有社区页面的列表。这些可能与用户、外部服务器和资源包有关。有关更多信息，请务必阅读[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki指南]] 和 [[https://wiki.minecrafttransitrailway.com/editing_guideline|编辑指南]].
 
-===== Community Pages =====
-[[mtr_community:server:start|Server Pages]]
+===== 社区页面 =====
 
-[[mtr_community:staff:start|Staff Pages]]
+[[mtr_community:server:start|服务器页面]]
 
-[[mtr_community:contributors:start|Contributor Pages]]
+[[mtr_community:staff:start|工作人员页面]]
 
-[[mtr_community:builders:start|Builder Pages]]
+[[mtr_community:contributors:start|贡献者页面]]
+
+[[mtr_community:builders:start|建筑者页面]]
 
