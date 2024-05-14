@@ -12,7 +12,7 @@
 | ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
 | ::: | [[mtr_letsplay:lilypad_rail|睡莲铁路]] |
 | ::: | [[mtr_letsplay:cyanex|蓝星捷运]] |
-| ::: | [[mtr_letsplay:shimano_mtr|缟野MTR]] |
+| ::: | [[mtr_letsplay:shimanomtr|缟野MTR]] |
 | **线路** | [[mtr_letsplay:spawn_grand_circular|重生大循环(B)]] |
 | ::: | [[mtr_letsplay:airport_express|机场快线(B)]] |
 | ::: | [[mtr_letsplay:scottetsu_line|苏铁线(B)]] |
