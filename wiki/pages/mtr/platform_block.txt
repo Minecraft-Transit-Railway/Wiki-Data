@@ -13,7 +13,7 @@
 | North American 2 (No indent) | North American 2 (With indent) |
 | UK (No indent) | UK (With indent) |
 ))  ||
-| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | No |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
 | **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
 | **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | Yes  |
 | **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
@@ -49,6 +49,8 @@ Platform blocks require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be min
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Platform Block (Hong Kong) × 6 | [Stone Bricks](https://minecraft.wiki/w/Stone_Bricks) + [Yellow Dye](https://minecraft.wiki/w/Yellow_Dye) + [White Dye](https://minecraft.wiki/w/White_Dye)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:platform_crafting_recipe_1.png" width=200/> |
@@ -61,6 +63,8 @@ Platform blocks require a [[https://minecraft.wiki/w/Pickaxe|pickaxe]] to be min
 === Indented variant ===
 
 <markdown>
+
+
 
 
 
@@ -85,6 +89,8 @@ When [[/trains|trains]] arrive at a platform, the platform blocks by the rail wi
 
 
 
+
+
 > <img alt="Platform Next To Rail" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/platform-next-to-rail.png" width=512/><br>Platform blocks should be next to or one block away from rails.
 
 > <img alt="Train Doors Open" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/platform/train-doors-open.png" width=512/><br>When a platform block is next to or one block away from platform rails, incoming trains will open its doors.
@@ -94,6 +100,8 @@ When [[/trains|trains]] arrive at a platform, the platform blocks by the rail wi
 When [[platform_screen_doors]] or [[automatic_platform_gates]] are placed on top of platform blocks, the texture of the platform blocks will change to a blueish or yellowish marble. Queueing arrows will also appear.
 
 <markdown>
+
+
 
 
 
