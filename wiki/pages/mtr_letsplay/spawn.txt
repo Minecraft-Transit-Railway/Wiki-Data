@@ -12,7 +12,7 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
 | ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
 | ::: | [[mtr_letsplay:cyanex|CyanEX Rapid Transit]] |
-| ::: | [[mtr_letsplay:shimano_mtr|Shimano MTR]] |
+| ::: | [[mtr_letsplay:shimanomtr|Shimano MTR]] |
 | **Lines** | [[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular(B)]] |
 | ::: | [[mtr_letsplay:airport_express|Airport Express(B)]] |
 | ::: | [[mtr_letsplay:scottetsu_line|Scottetsu Line(B)]] |
