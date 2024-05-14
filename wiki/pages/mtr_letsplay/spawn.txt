@@ -1,6 +1,6 @@
 **This article needs to be supplemented.**
 
-====== Spawn Station ======
+====== (Need more)Spawn Station ======
 
 Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:wlt_line_2 |North Coast Line]]
 
