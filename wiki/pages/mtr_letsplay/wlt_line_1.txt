@@ -29,7 +29,7 @@
 ^  History  |^
 | **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
 ^  Technical  |^
-| **Line Length** | 5.8 km //(Phase 1)//\\ 4.1 km //(N. Section Temp Shuttle)// |
+| **Line Length** | 10.3 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
 | **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Providence - Kwong Chow)// |
