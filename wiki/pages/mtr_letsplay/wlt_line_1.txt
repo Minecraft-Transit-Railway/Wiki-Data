@@ -1,16 +1,16 @@
-====== Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle ======
+====== Line 1 (Meyan Line) Phase 1 ======
 
 <WRAP right>
 
-^  Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle\\ 一號 (美岩) 綫 - 一期及北段特別穿梭  |^
+^  Line 1 (Meyan Line) Phase 1\\ 一號 (美岩) 綫一期  |^
 |  @#EB7AE9:  ||
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L1 (MEL) |
-| **Status** | Operational\\ //(Hung Ngai Tung - Kwong Chow,\\ Mesa to Northern Snow Village)//\\ Under renovation\\  //(Northern Snow Village - Hung Ngai Tung)// |
+| **Status** | Operational\\ //(Mesa - Tai Po)//\\ Work in Progress\\ //(Chi Chuk,\\ Ying Mo,\\ Tung Yuen,\\ Yuen Chow Kok,\\ Tai Po)//|
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
-| **Locale** | [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
-| **Termini** | [[/mesa_station|Mesa]]\\ [[/northern_snow_village_station|Northern Snow Village]]\\ [[kwong_chow_station|Kwong Chow]] |
+| **Locale** | West Denthrope (Mesa)\\ [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
+| **Termini** | [[/mesa_station|Mesa]]\\ [[/tai_po_station|Tai Po]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line (WIP)</color> |
 | ::: | @#7BACF6:<color black>Shinx Line</color> |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
@@ -19,34 +19,33 @@
 | ::: | @#7091FF:<color white>[[sightseeing_express|Sightseeing Express]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
-| **Stations** | 7 |
+| ::: | @#FF0000:<color white>Wilds Railway Mimura Line</color> |
+| **Stations** | 8 //(Opened)//\\ 5 //(Work in Progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 04:42 - next day 03:05\\ //([[wp>UTC+08:00|UTC+8]])// |
 | **Frequency** | Every 3 - 9 mins |
-| **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]] |
+| **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management))|
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
-| **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//|
+| **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Kwong Chow - Tai Po)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Northern Snow Village to Mesa,\\ Northern Snow Village - Hung Ngai Tung)//|
 ^  Technical  |^
 | **Line Length** | 10.3 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
-| **Electrification** | 25 kV AC \\ //(Hung Ngai Tung - Providence)//\\ Non-electrified \\ //(Providence - Kwong Chow)// |
-| **Operating**\\ **Speed** | Phase 1:\\ Average: 40 km/h (11.1 m/s)\\ Maximum: 120 km/h (33.3 m/s)\\ N. Section Temp Shuttle:\\ Average: 80 km/h (22.2 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
+| **Electrification** | 25 kV AC \\ //(Sakura Stream Junction - Providence)//\\ Non-electrified \\ //(Other sections)// |
+| **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  {{/line1_p1_s.png?420}}\\ //Phase 1//\\ {{/line1_p1_n_temp.png?420}}\\ //N. Section Temp Shuttle//  ||
+|  {{/line1_p1.png?420}}  ||
 
 </WRAP>
 
-**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), is a rapid transit service operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]]. And **Line 1 (Meyan Line) N. Section Shuttle** (Chinese: //一號 (美岩) 綫󠄁北段特別穿梭//) is providing one-way southbound passengers service from [[/mesa_station|Mesa]] station to Northern Snow Village station. The name comes from being the first rapid transit line WLT has ever planned, with two future permanent termini Mesa station and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] station. 
+**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), is a rapid transit service operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]], from [[/mesa_station|Mesa]] station to [[/tai_po_station|Tai Po]] station. The name comes from being the first rapid transit line WLT has ever planned, with two future permanent termini Mesa station and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] station. 
 
-**Line 1 (Meyan Line) Phase 1** is currently 5.8 km long, starting from [[/northern_snow_village_station|Northern Snow Village]] station in [[/northern_snowland|Northern Snowland]], ending in [[/kwong_chow_station|Kwong Chow]] station in [[/west_lake_area|West Lake]] Area. The line connects up Northern Snowland, [[/sakura_stream_area|Sakura Stream]] Area and West Lake Area. 
+The line is currently 10.3 km long, connects up [[/northern_snowland|Northern Snowland]], [[/sakura_stream_area|Sakura Stream]] Area and [[/west_lake_area|West Lake]] Area. 
 
-Now sections from north Sakura Stream Area [[/hung_ngai_tung_station|Hung Ngai Tung]] station to Northern Snowland Area Northern Snow Village station are under renovation. Trains only run from Hung Ngai Tung station to Kwong Chow station. 
-
-The line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
+Line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
 
 ===== History =====
 
@@ -82,6 +81,8 @@ As Denthrope Hauptbahnhof has been closed for renovation and has stopped all its
   * 29 December 2023: Sections from Northern Snow Village station to Hung Ngai Tung station are closed for renovation. Line 1 temporarily stops service for 2 days.
   * 31 December 2023: Sections from Providence station to Kwong Chow station reopens. Chung Kwo Kok station opens and starts serving passengers. Line renames from **WLT Line 1 Phase 1** to **Line 1 (Meyan Line) Phase 1**. 
   * 16 January 2024: Mesa station reopens and runs **N. Section Temp Shuttle** to Northern Snow Village station in accordance to the long Denthrope Hauptbahnhof renovation. 
+  * 18 May 2024: Trains run through the section from Northern Snow Village to Hung Ngai Tung again with better alignment and higher speed. To further enhance the connectivity, the section between Kwong Chow and Tai Po is also open for passengers seevice, although Yuen Chow Kok station is still work in progress. Also, passengers can now take **Line 1 (Meyan Line) Phase 1** trains not only from, but also to Mesa station. 
+
 ===== Rolling Stocks =====
 
 Because of the small turn radius((A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station)) in some sections in West Lake Area, Line 1 (Meyan Line) is never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections. 
@@ -92,7 +93,7 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 
 ^  Car Formation of SP1900 Trains  |||||^
-|//<- To Kwong Chow//|||  //To Northern Snow Village ->//|||
+|//<- To Tai Po//|||  //To Mesa ->//|||
 |  D1xx(odd) - P1xx(odd) + M1xx(even) - P1xx(even) - D1xx(even)  ||||||
 |  //xx refers to any number from 07 to 82//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
@@ -101,7 +102,7 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 |  **M1xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 
 ^  Car Formation of MLR Trains  |||||^
-|//<- To Kwong Chow//|||  //To Northern Snow Village ->//|||
+|//<- To Tai Po//|||  //To Mesa ->//|||
 |  D1xx(odd) - P1xx(odd) + L1xx(even) - P1xx(even) - D1xx(even)  ||||||
 |  //xx refers to any number from 01 to 06//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cross Train Cable((For communication of electrical devices on the cars facing different sides))  ^  Hostler  ^
@@ -112,39 +113,26 @@ It is expected at least 13 more sets of SP1900 Trains and 1 more set of MLR Trai
 
 ===== Operations =====
 
-For **Phase 1 S. Section**, trains are all serving from Kwong Chow to Hung Ngai Tung stopping at Sakura Stream Junction station and from Hung Ngai Tung to Kwong Chow omitting Sakura Stream Junction station. Passengers going from Hung Ngai Tung station to Sakura Stream Junction station should change trains at Providence station. Services between Northern Snow Village and Hung Ngai Tung are suspended until renovation works are done.
+Trains are all serving from Mesa to Tai Po and vice versa, stopping at all intermediate stops. Train doors may not open and access is blocked off for the stations work in progress except Tai Po station. 
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
 |  @#EB7AE9:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1 S. Section**  |
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |
 |  5 am - 9 am  |  6  |
 |  9 am - 9 pm  |  4  |
-|  9 pm - 11 pm  |  3.3  |
+|  9 pm - 11 pm  |  3  |
 |  11 pm - 1 am  |  4  |
 |  1 am - 3 am  |  9  |
 
 </WRAP>
 
-For **N. Section Temp Shuttle**, train service is available in single direction from Mesa to Northern Snow Village. 
-
-<WRAP center>
-
-^  Average Train Intervals (in mins)  |^
-|  @#EB7AE9:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **N. Section Temp Shuttle**  |
-| \\ 5 am - 11 pm\\ <html>&nbsp</html>|  \\ 4.5  |
-| \\ 11 pm - 12 am\\ <html>&nbsp</html>|  \\ 5.4  |
-| \\ 12 am - 3 am\\ <html>&nbsp</html>|  \\ 7.5  |
-
-</WRAP>
-
 ===== Future Plans =====
 
-Sections from Kwong Chow to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //2000 years later//. However, some information <del>from the rubbish bin of WLT temporary office at Spawn Tower 18/F</del> points out the section will open early depending on the progress.
+All the stations work in progress will gradually finish and open to public one by one. Tai Po station will be the first to finish up as it is an important interchange between **Line 1 (Meyan Line)** and Wilds Railway Mimura Line, which connects up [[/west_lake_area|West Lake]] Area and Mita-Shiro, Hamura. Passengers can further change trains for [[/yankton|Yankton]] Area. 
 
-In the meantime, the far north extension to Mesa is also WIP and is likely to open together with the forementioned section. 
+Sections from Tai Po to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //2000 years later//. However, some information <del>from the rubbish bin of WLT temporary office at Spawn Tower 18/F</del> points out the section will open early depending on the progress.
 
 The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope region. 
 
