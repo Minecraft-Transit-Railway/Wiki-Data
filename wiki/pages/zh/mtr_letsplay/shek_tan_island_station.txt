@@ -1,5 +1,3 @@
-等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
-
 ====== 石滩岛站 ======
 
 <WRAP 400px right>
@@ -7,8 +5,8 @@
 |  @#3bf443:  石滩岛站  ||
 | @#0FBFE4: ||
 ^  **简介**  |^
-| **运营商** | [[mtr_letsplay:wilds_railway|旷野铁路]] |
-| **线路** | [[mtr_letsplay:wr_sw_plains_line|西南旷野线]] |
+| **运营商** | [[zh:mtr_letsplay:wilds_railway|旷野铁路]] |
+| **线路** | [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] |
 | **拥有者** | [[mtr_community:navi_lx9702|Navi]] |
 | **区域** | [[mtr_letsplay:west_lake_region|西湖区域]] |
 | **站台** | 2 (1个岛式站台) |
@@ -29,32 +27,32 @@
 | **开通日期** | 9 August, 2022 |
 | **电气化设施** | 750伏第三轨直流电 |
 
-| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
-| ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
-| ◉ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] |
-| ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| @#0FBFE4:  **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]** ||
+| ⇅ | [[zh:mtr_letsplay:lake_city_station|湖城]] |
+| ◉ | [[zh:mtr_letsplay:shek_tan_island_station|石滩岛]] |
+| ⇅ | [[zh:mtr_letsplay:sw_plains_station|西南旷野]] |
 | ⇅ | ... |
-| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+| ⇅ | [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
 
 </WRAP>
 
-**Shek Tan Island Station** (//Chinese: 石灘島站, Lit: "Stone Beach Island"//) is a station of [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+**石滩岛**是一个[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]的车站。
 
-The station is one of the least used station in the [[mtr_letsplay:start|Let's Play Server]],
+该车站是[[zh:mtr_letsplay:start|齐齐玩服务器]]使用率最少的车站之一
 
-===== History =====
+===== 历史 =====
 
-  * **9 August, 2022**: Station opened for [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+  * **2022年8月9日**: 随着[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]而开通
 
-===== Layout =====
+===== 布局 =====
 
 <WRAP left>
 
-| **C** | **Concourse** | Exit A/B |
-| **P** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
-| ::: | Platform **1** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
-| ::: |  Island Platform  ||
-| ::: | Platform **2** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+| **C** | **大堂** | 出口 A/B |
+| **P** | @#0FBFE4: **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 站台** ||
+| ::: | 站台 **1** | [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] -> |
+| ::: |  岛式站台  ||
+| ::: | 站台 **2** | <- [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:lake_city_station|湖城]] |
 
 </WRAP>
 
