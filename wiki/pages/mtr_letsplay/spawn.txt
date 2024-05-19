@@ -22,7 +22,6 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 | ::: | [[mtr_letsplay:wlt_line_2|Kwong Chau-North Coast Line(A)]] |
 | ::: | [[mtr_letsplay:sightseeing_local_line|Sightseeing Local Line(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|Sightseeing Express(C)]] |
-| ::: | [[mtr_letsplay:cyan_twilight_line|Cyan Twilight Line(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|Metro South Continental Line(C)]] |
 | ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]] |
 | ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line(D)]] |
