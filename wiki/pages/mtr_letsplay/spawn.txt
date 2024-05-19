@@ -2,7 +2,7 @@
 
 ====== (Need more)Spawn Station ======
 
-Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:wlt_line_2|North Coast Line]]
+Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:wlt_line_2|Kwong Chau-North Coast Line]]
 
 <WRAP right>
 
@@ -13,13 +13,13 @@ Spawn Station is the first station on this server, and the service lines are[[mt
 | ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
 | ::: | [[mtr_letsplay:cyanex|CyanEX Rapid Transit]] |
 | ::: | [[mtr_letsplay:shimanomtr|Shimano MTR]] |
-| ::: | [[mtr_letsplay:west_lake_transport_authority |West Lake Transport Authority]] |
+| ::: | [[mtr_letsplay:west_lake_transport_authority|West Lake Transport Authority]] |
 | **Lines** | [[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular(B)]] |
 | ::: | [[mtr_letsplay:airport_express|Airport Express(B)]] |
 | ::: | [[mtr_letsplay:scottetsu_line|Scottetsu Line(B)]] |
 | ::: | [[mtr_letsplay:red_line|Red Line(B)]] |
 | ::: | [[mtr_letsplay:furret_line|Furret Line(B)]] |
-| ::: | [[mtr_letsplay:north_coast_line|North Coast Line(A)]] |
+| ::: | [[mtr_letsplay:wlt_line_2|Kwong Chau-North Coast Line(A)]] |
 | ::: | [[mtr_letsplay:sightseeing_local_line|Sightseeing Local Line(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|Sightseeing Express(C)]] |
 | ::: | [[mtr_letsplay:cyan_twilight_line|Cyan Twilight Line(C)]] |
