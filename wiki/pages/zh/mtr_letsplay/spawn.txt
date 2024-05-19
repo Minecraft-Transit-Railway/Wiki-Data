@@ -9,8 +9,8 @@
 |  **重生区** ||
 ^  **概述**  |^
 | **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
-| ::: | [[mtr_letsplay:qingli_railways|晴丽铁路]] |
-| ::: | [[mtr_letsplay:lilypad_rail|睡莲铁路]] |
+| ::: | [[zh:mtr_letsplay:qingli_railways|晴丽铁路]] |
+| ::: | [[zh:mtr_letsplay:lilypad_rail|睡莲铁]] |
 | ::: | [[mtr_letsplay:cyanex|蓝星捷运]] |
 | ::: | [[mtr_letsplay:shimanomtr|缟野MTR]] |
 | ::: | [[zh:mtr_letsplay:west_lake_transport_authority |西湖交通管理局]] |
