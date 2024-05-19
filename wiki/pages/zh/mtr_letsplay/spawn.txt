@@ -13,7 +13,7 @@
 | ::: | [[zh:mtr_letsplay:lilypad_rail|睡莲铁]] |
 | ::: | [[mtr_letsplay:cyanex|蓝星捷运]] |
 | ::: | [[mtr_letsplay:shimanomtr|缟野MTR]] |
-| ::: | [[zh:mtr_letsplay:west_lake_transport_authority |西湖交通管理局]] |
+| ::: | [[zh:mtr_letsplay:west_lake_transport_authority|西湖交通管理局]] |
 | **线路** | [[mtr_letsplay:spawn_grand_circular|重生大循环(B)]] |
 | ::: | [[mtr_letsplay:airport_express|机场快线(B)]] |
 | ::: | [[mtr_letsplay:scottetsu_line|苏铁线(B)]] |
@@ -22,7 +22,6 @@
 | ::: | [[mtr_letsplay:wlt_line_2|光洲-北海岸线(A)]] |
 | ::: | [[mtr_letsplay:sightseeing_local_line|观光缓行线(C)]] |
 | ::: | [[mtr_letsplay:sightseeing_express|观光快速(C)]] |
-| ::: | [[mtr_letsplay:cyan_twilight_line|蓝霞线(C)]] |
 | ::: | [[mtr_letsplay:south_continental_line|地铁南大陆线(C)]] |
 | ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]] |
 | ::: | [[mtr_letsplay:hsr_northern_heights_line|高铁北原线(D)]] |
