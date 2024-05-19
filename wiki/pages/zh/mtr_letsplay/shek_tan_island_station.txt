@@ -1,0 +1,60 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== 石滩岛站 ======
+
+<WRAP 400px right>
+
+|  @#3bf443:  石滩岛站  ||
+| @#0FBFE4: ||
+^  **简介**  |^
+| **运营商** | [[mtr_letsplay:wilds_railway|旷野铁路]] |
+| **线路** | [[mtr_letsplay:wr_sw_plains_line|西南旷野线]] |
+| **拥有者** | [[mtr_community:navi_lx9702|Navi]] |
+| **区域** | [[mtr_letsplay:west_lake_region|西湖区域]] |
+| **站台** | 2 (1个岛式站台) |
+| **区块** | 2 |
+| **坐标** | (-3498, 2712) |
+^  **Translations**  |^
+| **繁体中文** | 石灘島 |
+| **简体中文** | 石滩岛 |
+| **Cantonese Yale** | wùhsìhng |
+^  **颜色**  |^
+| @#3bf443:  | 律师 |
+^  **车站**  |^
+| **种类** | 地上 |
+| **楼层数** | 2 |
+| **站台楼层** | 1 |
+| **免费网络** | 有 |
+| **车站代码** | STI |
+| **开通日期** | 9 August, 2022 |
+| **电气化设施** | 750伏第三轨直流电 |
+
+| @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** ||
+| ⇅ | [[mtr_letsplay:lake_city_station|Lake City]] |
+| ◉ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] |
+| ⇅ | [[mtr_letsplay:sw_plains_station|SW Plains]] |
+| ⇅ | ... |
+| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
+
+</WRAP>
+
+**Shek Tan Island Station** (//Chinese: 石灘島站, Lit: "Stone Beach Island"//) is a station of [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+
+The station is one of the least used station in the [[mtr_letsplay:start|Let's Play Server]],
+
+===== History =====
+
+  * **9 August, 2022**: Station opened for [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]].
+
+===== Layout =====
+
+<WRAP left>
+
+| **C** | **Concourse** | Exit A/B |
+| **P** | @#0FBFE4: **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Platforms** ||
+| ::: | Platform **1** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **2** | <- [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] to [[mtr_letsplay:lake_city_station|Lake City]] |
+
+</WRAP>
+
