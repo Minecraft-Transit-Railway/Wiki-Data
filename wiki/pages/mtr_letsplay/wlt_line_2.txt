@@ -184,7 +184,7 @@ For **Line 2 (Kwong Chow - North Coast Line) W. Section**, there are a mix of 4-
 |  |  Kwong Chow - Spawn  |  Kwong Chow - Forest Peaks  |
 |  5 am - 9 am  |  6  |  12  |
 |  9 am - 9 pm  |  4  |  4 / 8  |
-|  9 pm - 11 pm  |  3.3  |  4 / 6  |
+|  9 pm - 11 pm  |  3  |  3 / 6  |
 |  11 pm - 1 am  |  4  |  4 / 8  |
 |  1 am - 3 am  |  6  |  12  |
 
