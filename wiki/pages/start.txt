@@ -2,12 +2,13 @@ Welcome to the MTR wiki!
 
 ===== Minecraft Transit Railway =====
 
-  * [[mtr:start|Minecraft Transit Railway]] - Information about the mod itself
+  * [[nl:mtr:start|Minecraft Transit Railway]] - Information about the mod itself
+
 
 ===== Extra Content =====
 
   * [[mtr_extra:start|Resource Packs]] - Introduction about resource packs for MTR
-  * [[mtr_extra:resourcepack:make|Making a Resource Pack]] - How to make a resource pack
+  * [[mtr_extra:making_a_resourcepack|Making a Resource Pack]] - How to make a resource pack
     * [[mtr_extra:resourcepack:make:texture|Texturing Trains]] - How to retexture existing trains
     * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - How to add in your own model
     * [[mtr_extra:resourcepack:make:others|Others]] - How to add signs, sounds, etc. to your resource pack
