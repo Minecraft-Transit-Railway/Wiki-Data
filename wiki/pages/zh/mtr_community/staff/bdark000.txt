@@ -1,0 +1,41 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== BDark000 ======
+
+<WRAP right>
+
+|  @#c0e0af:  **BDark000**  ||
+|  {{ :mtr_community:bdark_skin.jpg?150 }}//BDark000的《我的世界》皮肤////来自Hypixel刺客Vinny//  ||
+|  @#c0e0af:  **简介**  ||
+| **也叫做** | BDark |
+| ::: | Cute Teddy Bear((
+Discord display name
+)) |
+| ::: | ctbbdark((
+Discord username
+)) |
+| **加入日期****MTR Mod Discord** | 2021.4.22 |
+| **身份** | 工作人员 |
+| ::: | Github贡献者 |
+| ::: | 模型制作者 |
+| ::: | 齐齐玩服务器会员 |
+| ::: | OG 500 GANG |
+| ::: | 火车运营商 |
+| **代词** | 他 |
+
+</WRAP>
+
+**BDark000**又名**BDark**，是[[mtr:start|Minecraft Transit Railway]]社区的工作人员. 他从2017年秋季开始玩《我的世界》，并于2021年春季作为首批500名成员之一加入社区。**主要贡献领域**
+
+  * [[mtr_letsplay:start|Let's Play Server]] 审核
+  * [[mtr_letsplay:start|Let's Play Server]] [[mtr_letsplay:west_lake_transport_authority|WLT]] stations and network
+  * Discord server moderation
+  * [[mtr:start|Minecraft Transit Railway Wiki]] content and moderation
+
+===== Past Contributions =====
+
+  * Addition of small (4-doors, 20m or 21m) variants of some MTR trains
+  * Addition of 60 km/h and 200 km/h rail connector w/ Jonathan
+  * Addition of disable next station announcement by route w/ Jonathan
+  * Centown Classic moderation, follow-ups of some unfinished projects (e.g. Tin Sha station) and track renovation of some lines (e.g. CHR On Shan Rail)
+
