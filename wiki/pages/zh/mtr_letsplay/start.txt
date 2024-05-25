@@ -2,8 +2,11 @@
 
 官方 Let's Play (齐齐玩) 服务器是由 [[mtr:start|MTR Mod]] 作者 [[/User:Jonafanho|Jonathan]] 所有及运营的 1.19.2 Minecraft 服务器，于 2022 年 6 月成立。此服务器使用 Minecraft 1.18+ 的新地形，并加入了 Terralith mod 所提供的的更多样的生物群系。主世界内明丽的景色及 Jonathan 制作的 [[/Let's_Play_Series|Let's Play 实况系列]] 吸引了许多参观者，其中一部分稍后参与了建筑工作。
 
-服务器建设工作发展迅速。自2022年以来，[[mtr_letsplay:start|Let's Play 服务器]] 已有超过 100 条铁路线路，及连接了 [[/Spawn|重生区]], [[/Llanmara|湾堡城]], [[kallos|丽湾]] 和 [[yankton|杨克顿]] 等的高速铁路网络。线网单程最长耗时((Rumford - 二村 Ichon))不超过 75 分钟。
-
+服务器建设工作发展迅速。自2022年以来，[[mtr_letsplay:start|Let's Play 服务器]] 已有超过 100 条铁路线路，及连接了 [[/Spawn|重生区]], [[zh:mtr_letsplay:llanmara|湾堡城]], [[kallos|丽湾]] 和 [[yankton|杨克顿]] 等的高速铁路网络。线网单程最长耗时((
+Rumford - 二村 Ichon
+))不超过 75 分钟。
 
 ===== Let's Play 服务器相关文章 =====
+
 <nspages -textPages="" -title -exclude>
+
