@@ -6,5 +6,7 @@ Each endpoint's schema is linked in their own page. See the [[https://github.com
   * The examples on this wiki assume that the server IP is ''localhost'' with port ''8888''.
   * For POST requests, example request bodies are attached.
   * For most requests, the dimension can be specified by adding ''?dimension=<dimensionId>'' at the end of the endpoint URL (e.g. ''0'' for overworld, ''1'' for nether).
-==== Helpful Information ====
+===== Helpful Information =====
   * Rail IDs are comprised of six numbers  (converted to hex strings) corresponding to the rail's node positions. It is in the format of ''<x1>-<y1>-<z1>-<x2>-<y2>-<z2>''.
+===== API List =====
+<nspages mtr:development:api_reference -textPages="" -title -exclude>
