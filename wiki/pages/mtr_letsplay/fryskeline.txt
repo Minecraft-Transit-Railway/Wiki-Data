@@ -16,8 +16,9 @@ The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor con
 |  **Operating Services**  |  1  |
 |  @#B0B0BE:**Technical**  ||
 |  **Character**  |  Overground  |
+|  **Rolling Stock**  |  Stadler FLIRT 3  |
 |  **Track Gauge**  |  1435mm standard gauge  |
-|  **Electrification**  |  1.5kV DC Catenary  |
+|  **Electrification**  |  1.5kV DC Overhead Catenary  |
 </WRAP>
 
 ===== History =====
@@ -33,17 +34,22 @@ On February 12th, a new extension was added to the plan, connecting the relative
 
 On February 14th, "Station 19" was revealed to receive the name **Ridgecrest**. The frisian name for this station would end up being **Rykkam**.
 
+On May 12th, all tracks between the two terminus stations were finished, and the line started running a shorter service between **Kallos Royal Park** and **Āoraki North**. The depot was moved to Royal Park, and the temporary 2-car siding at **Hylkemare** was removed.
+
+On May 22nd, construction of **Rykkam**'s "temporary station design", probably to stay as a permanent structure due to its castle wall design, was finished. This meant that all stations on the line had now been completed and were just awaiting connection.
+
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (TBA)  |  January 29th, 2024  |
+|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (306((interchange available only via an out-of-station interchange at Hylkemare Bayside))/633P/804)  |  January 29th, 2024  |
 |  **Hylkemare Wieringawijk**  |  :::  | |  February 4th, 2024  |
 |  **De Marren**  |  :::  | |  February 10th, 2024  |
-|  **Rykkam**\\ Ridgecrest  |  Taipa  |  Starlight Line (Planned)  |  TBA  |
-|  **Froastpoarte**\\ Shuangmen Xuegui  |  :::  |  Lilac Light Rail (633/633P)  |  January 4th, 2023  |
-|  **Āoraki Noord**\\ Āoraki North  |  Oculus  |  Lilac Light Rail (410/483P/882)  |  TBA  |
-|  **Shek Ai**  |  Kallos  |  Azalea CL\\ Lilac Light Rail (483P/492/810/882)  |  TBA  |
-|  **Kallos Royaalpark**\\ Kallos Royal Park  |  :::  |  Elizabeth Line\\ Lilac Light Rail (483P/492/801/802/804/810/882)  |  TBA  |
+|  **Rykkam**\\ Ridgecrest  |  Taipa  |  Starlight Line (Planned)  |  May 22nd, 2024  |
+|  **Froastpoarte**\\ Shuangmen Xuegui  |  :::  |  Lilac Light Rail (633/633P)  |  January 4th, 2024  |
+|  **Āoraki Noord**\\ Āoraki North  |  Oculus  |  Lilac Light Rail (410/483P/882)  |  May 12th, 2024  |
+|  **Shek Ai**  |  Kallos  |  Azalea Cyan Line\\ Lilac Light Rail (483P/492/810/882)  |  May 12th, 2024  |
+|  **Kallos Royaalpark**\\ Kallos Royal Park  |  :::  |  Elizabeth Line (Planned)\\ Lilac Light Rail (483P/492/801/802/804/810/882)  |  May 12th, 2024  |
 
 
 ===== Trivia =====
   * The Fryske Line may be the first to use frisian naming conventions, but not the first to use dutch naming conventions. This is due to two stations north of spawn carrying the names **Zuidbaai** and **Zuidbaai Centraal**. One could argue however, that these naming conventions are tied closer to afrikaans than dutch, as the dutch rarely use the term "baai".
+  * **Rykkam** is the only station to have both the english and frisian name on the system map, as its the only interchange station on the line that did not already have a chinese name.
