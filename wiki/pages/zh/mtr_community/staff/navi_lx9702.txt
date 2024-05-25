@@ -1,0 +1,45 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Navi ======
+
+<WRAP 400px right>
+
+|  @#1797d6:  <color #ffffff>**Navi**</color>  ||
+| {{ :mtr_community:navi_lx9702_render.png?200 }}Navi's avatar "[[https://fireemblemwiki.org/wiki/Roy|Roy]]: The day he plays with [[https://fireemblemwiki.org/wiki/Lilina|Lilina]] as of 12/10/2023. (credits: nameMC)  ||
+|  @#1797d6:  <color #ffffff>**Overview**</color>  ||
+| **也被称为** | LX9702_UV6921 |
+| ::: | LX((
+ Only being mentioned once by Jonathan, not preferred as this is more usually referring to [[mtr_community:contributors:lx862|LX86]].
+)) |
+| ::: | [[https://smashwiki.info/%E3%81%93%E3%81%A9%E3%82%82%E3%83%AA%E3%83%B3%E3%82%AF_(SP)|こども　リンク]]//<sub>(Kodomo Rinku, Lit: Child Link)</sub>//((
+Old Facebook account name.
+)) |
+| **名称基础** | [[wp>Navi_(The_Legend_of_Zelda)|Navi]] |
+| **加入MTR Mod discord的日期** | 23rd May, 2021 |
+| **角色** | <color /#1797d6>**<html>**&nbsp<a style="color:#FFFFFF;">工作人员 (4/1/2023~Present)</a>&nbsp**</html>**</color> |
+| ::: | <color /#1ABC9C>**<html>&nbsp<a style="color:#FFFFFF;">Moderator (17/11/2022~4/1/2023)</a>&nbsp</html>**</color> |
+| ::: | <color /#B9BBBE>**<html>&nbsp<a style="color:#000000;">Modders (?~Present)</a>&nbsp</html>**</color> |
+| ::: | <color /#B9BBBE>**<html>&nbsp<a style="color:#000000;">Let's Play Members (28/7/2022~Present)</a>&nbsp</html>**</color> |
+| ::: | <color /#5E18E8>**<html>&nbsp<a style="color:#FFFFFF;">Resource Pack Authors (?~Present)</a>&nbsp</html>**</color> |
+| ::: | <color /#78CE7F>**<html>&nbsp<a style="color:#FFFFFF;">OG 500 GANG (13/8/2021~Present)</a>&nbsp</html>**</color> |
+| ::: | <color /#B9BBBE>**<html>&nbsp<a style="color:#000000;">Train Operators (23/5/2021~Present)</a>&nbsp</html>**</color> |
+| **Joining Order** | ''250'' |
+| **性别** | 男性 |
+
+</WRAP>
+
+**Navi**//<sub>（发音为NAH-VEE） </sub>//是[[zh:mtr:start|Minecraft Transit Railway]] Discord社区的工作人员。他声称，他从2018年2.0时代开始玩MTR mod，并从2021年5月23日起成为第250名加入discord社区的成员。
+
+===== 用户对mod的贡献 =====
+
+==== 对主模组 ====
+
+该用户尚未为mod做出任何贡献。
+
+==== 对社区 ====
+
+  * [[mtr_letsplay:start|齐齐玩服务器]] 审核
+  * [[zh:mtr_letsplay:start|齐齐玩服务器]] [[zh:mtr_letsplay:wilds_railway|旷野铁路]] 建筑者
+  * Discord服务器审核
+  * [[zh:mtr:start|Minecraft Transit Railway Wiki]] 审核
+
