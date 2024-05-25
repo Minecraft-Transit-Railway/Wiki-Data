@@ -5,14 +5,14 @@
 <WRAP right>
 
 |  @#c0e0af:  **BDark000**  ||
-|  {{ :mtr_community:bdark_skin.jpg?150 }}//BDark000的《我的世界》皮肤////来自Hypixel刺客Vinny//  ||
+|  {{ :mtr_community:bdark_skin.jpg?150 }}//BDark000的皮肤//\\ //原型为Hypixel刺客Vinny//  ||
 |  @#c0e0af:  **简介**  ||
-| **也叫做** | BDark |
+| **别称** | BDark |
 | ::: | Cute Teddy Bear((
-Discord display name
+Discord用户名称
 )) |
 | ::: | ctbbdark((
-Discord username
+Discord用户id
 )) |
 | **加入日期****MTR Mod Discord** | 2021.4.22 |
 | **身份** | 工作人员 |
