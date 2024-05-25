@@ -1,4 +1,3 @@
-等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
 ====== BDark000 ======
 
@@ -15,27 +14,27 @@ Discord用户名称
 Discord用户id
 )) |
 | **加入日期****MTR Mod Discord** | 2021.4.22 |
-| **身份** | 工作人员 |
-| ::: | Github贡献者 |
-| ::: | 模型制作者 |
-| ::: | 齐齐玩服务器会员 |
-| ::: | OG 500 GANG |
-| ::: | 火车运营商 |
+| **身份** | Staff (工作人员) |
+| ::: | Github Contributor (模组贡献者) |
+| ::: | Modder (模型制作者) |
+| ::: | Let's Play Member (齐齐玩服务器建造者) |
+| ::: | OG 500 GANG (首500名玩家) |
+| ::: | Train Operators (玩家) |
 | **代词** | 他 |
 
 </WRAP>
 
 **BDark000**又名**BDark**，是[[mtr:start|Minecraft Transit Railway]]社区的工作人员. 他从2017年秋季开始玩《我的世界》，并于2021年春季作为首批500名成员之一加入社区。**主要贡献领域**
 
-  * [[mtr_letsplay:start|Let's Play Server]] 审核
-  * [[mtr_letsplay:start|Let's Play Server]] [[mtr_letsplay:west_lake_transport_authority|WLT]] stations and network
-  * Discord server moderation
-  * [[mtr:start|Minecraft Transit Railway Wiki]] content and moderation
+  * [[mtr_letsplay:start|齐齐玩服务器]]的管理
+  * [[mtr_letsplay:start|齐齐玩服务器]] [[mtr_letsplay:west_lake_transport_authority|西湖交通]]的车站和线网
+  * Discord社区的管理
+  * [[mtr:start|Minecraft Transit Railway维基]]的内容和管理
 
-===== Past Contributions =====
+===== 过往贡献 =====
 
-  * Addition of small (4-doors, 20m or 21m) variants of some MTR trains
-  * Addition of 60 km/h and 200 km/h rail connector w/ Jonathan
-  * Addition of disable next station announcement by route w/ Jonathan
-  * Centown Classic moderation, follow-ups of some unfinished projects (e.g. Tin Sha station) and track renovation of some lines (e.g. CHR On Shan Rail)
+  * 四门 (准B型) 车
+  * 增加60 km/h和200 km/h轨道 w/ Jonathan
+  * 以线路为基准的预设下一站报站选项 w/ Jonathan
+  * 岑城经典服务器管理、完成部分建筑（如田沙站）和改善部分路线线形（岑香铁路路线）
 
