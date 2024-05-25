@@ -1,0 +1,20 @@
+====== Arrivals API ======
+Get arrivals at specific platforms or entire stations. The numeric IDs of platforms or stations are usually used, but unsigned hex string representations can be used if preferred.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/arrivalsRequest.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/arrivals?dimension=0
+===== Example Request Body =====
+<code javascript>
+{
+    "platformIds": [
+        -7391405823439797000,
+        -4337986715555009500
+    ],
+    "platformIdsHex": [],
+    "stationIds": [],
+    "stationIdsHex": [],
+    "maxCountPerPlatform": 10,
+    "maxCountTotal": 20
+}
+</code>
