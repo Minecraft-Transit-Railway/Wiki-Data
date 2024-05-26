@@ -1,4 +1,17 @@
 ====== 湾堡城 ======
 
-湾堡城是一个来自[[start|齐齐玩服务器]]的重要枢纽，服务于服务器北边，主要由[[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]]建筑完成\\ 主要有以下车站：[[llanmara_saint_anns|湾堡城中心]]、[[llanmara_saint_devota|湾堡城秋叶]]
+湾堡城是一个来自[[start|齐齐玩服务器]]的重要枢纽，服务于服务器北边，主要由[[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]]建筑完成\\ 主要有以下车站：[[llanmara_saint_anns|湾堡城中心]]、[[llanmara_saint_devota|湾堡城秋叶]]等
+
+<WRAP right>
+
+^  **湾堡城**  |^
+^  **Llanmara**  |^
+|  缺少照片  ||
+| **车站列表**  | [[llanmara_saint_anns|湾堡城中心]]  |
+| ::: | [[llanmara_saint_devota|湾堡城秋叶]] |
+| ::: | [[llanmara_south_village|湾堡城南村]] |
+| ::: | [[llanthrow_airport|湾思罗机场]](未开通) |
+| ::: | [[llanmara_iceland|湾堡城冻原]] |
+
+</WRAP>
 
