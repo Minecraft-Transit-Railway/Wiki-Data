@@ -1,0 +1,29 @@
+====== Deleting Data (POST) ======
+Delete data in the world, for example stations, route, depots, and rails. If more than one piece of data needs to be deleted at once, it is recommended to make one single call rather than separate calls.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/deleteDataRequest.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/delete-data?dimension=0
+===== Example Request Body =====
+<code javascript>
+{
+    "stationIds": [
+        -3364498666049376000
+    ],
+    "platformIds": [],
+    "sidingIds": [],
+    "routeIds": [],
+    "depotIds": [],
+    "liftFloorPositions": [],
+    "railIds": [
+        "FFFFFFFFFFFFFF37-FFFFFFFFFFFFFFC4-0000000000000163-FFFFFFFFFFFFFF3A-FFFFFFFFFFFFFFC4-0000000000000164"
+    ],
+    "railNodePositions": [
+        {
+            "x": -204,
+            "y": -60,
+            "z": 354
+        }
+    ]
+}
+</code>
