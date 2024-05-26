@@ -1,0 +1,45 @@
+====== Requesting Data (POST) ======
+Obtain data in the world, for example stations, route, depots, and rails. If more than one piece of data needs to be obtained at once, it is recommended to make one single call rather than separate calls.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/dataRequest.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/get-data?dimension=0
+===== Field Explanation =====
+  * ''clientId'' and ''clientPosition'': Player UUID and position (used by Transport Simulation Core to track player positions and to send players appropriate updates for vehicles that have entered or left their view radii)
+  * ''requestRadius'': Radius (in meters) of data to obtain
+  * ''existing<DataType>Ids'': Data that the client already knows about, so the server won't send copies of that data (to reduce response size)
+===== Example Request Body =====
+<code javascript>
+{
+    "clientId": "2afb4ee9-7113-3f92-8544-46d36df86129",
+    "clientPosition": {
+        "x": -27,
+        "y": -58,
+        "z": 340
+    },
+    "requestRadius": 192,
+    "existingStationIds": [
+        7348789828266902000,
+        5300082027313564000
+    ],
+    "existingPlatformIds": [
+        -4003983046922073600,
+        6833373013125173000
+    ],
+    "existingSidingIds": [
+        -5461987454412297000,
+        5449185180212650000
+    ],
+    "existingSimplifiedRouteIds": [
+        3016526375313970000,
+        6456255079587122000
+    ],
+    "existingDepotIds": [
+        6263199775301977000,
+        4437249506836643000
+    ],
+    "existingRailIds": [
+        "FFFFFFFFFFFFFFB0-FFFFFFFFFFFFFFDF-000000000000013D-FFFFFFFFFFFFFFB1-FFFFFFFFFFFFFFCB-000000000000013D"
+    ]
+}
+</code>
