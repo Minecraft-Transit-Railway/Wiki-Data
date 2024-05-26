@@ -1,0 +1,20 @@
+====== Setting Simulation Time (POST) ======
+Sync the Minecraft game time to Transport Simulation Core.
+
+Note: The example endpoint sets the time for all dimensions at once, which is probably the desired behaviour.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/setTime.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/set-time?dimensions=all
+===== Field Explanation =====
+  * ''gameMillis'': Milliseconds elapsed since midnight of the game time (e.g. ''300000'' for morning in Minecraft)
+  * ''millisPerDay'': Total number of milliseconds of the game time (e.g. a Minecraft day is 20 minutes which is ''1200000'' milliseconds)
+  * ''isTimeMoving'': Equivalent to the ''doDaylightCycle'' gamerule in Minecraft
+===== Example Request Body =====
+<code javascript>
+{
+    "gameMillis": 300000,
+    "millisPerDay": 1200000,
+    "isTimeMoving": false
+}
+</code>
