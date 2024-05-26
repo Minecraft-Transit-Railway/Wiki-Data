@@ -1,0 +1,29 @@
+====== Generate Depot Paths or Clear Depot Vehicles (POST) ======
+Generate depot paths or clear depot vehicles using a name filter or depot IDs.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/generateOrClearByDepotName.json|Schema Reference (by name)]]
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/generateOrClearByDepotIds.json|Schema Reference (by IDs)]]
+===== Example Endpoints =====
+  http://localhost:8888/mtr/api/operation/generate-by-depot-name?dimension=0
+
+  http://localhost:8888/mtr/api/operation/generate-by-depot-ids?dimension=0
+
+  http://localhost:8888/mtr/api/operation/clear-by-depot-name?dimension=0
+
+  http://localhost:8888/mtr/api/operation/clear-by-depot-ids?dimension=0
+===== Example Request Bodies =====
+Using a name filter (an empty string will match all depots):
+<code javascript>
+{
+    "filter": "Spawn"
+}
+</code>
+Using IDs:
+<code javascript>
+{
+    "depotIds": [
+        4337986715555009500
+    ]
+}
+</code>
