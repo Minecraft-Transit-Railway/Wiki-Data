@@ -1,4 +1,4 @@
-====== Arrivals API ======
+====== Fetch Arrivals (POST) ======
 Get arrivals at specific platforms or entire stations. The numeric IDs of platforms or stations are usually used, but unsigned hex string representations can be used if preferred.
 
 [[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/arrivalsRequest.json|Schema Reference]]
