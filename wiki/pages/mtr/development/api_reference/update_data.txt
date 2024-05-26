@@ -1,0 +1,89 @@
+====== Creating or Updating Data (POST) ======
+Create or update data in the world, for example stations, route, depots, and rails. If more than one piece of data needs to be created or updated at once, it is recommended to make one single call rather than separate calls.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/updateDataRequest.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/update-data?dimension=0
+===== Example Request Body =====
+<code javascript>
+{
+    "stations": [
+        {
+            "id": -3364498666049376000,
+            "transportMode": "TRAIN",
+            "name": "Untitled",
+            "color": 9168287,
+            "position1": {
+                "x": -281,
+                "y": -9223372036854776000,
+                "z": 406
+            },
+            "position2": {
+                "x": -255,
+                "y": 9223372036854776000,
+                "z": 435
+            },
+            "zone1": 0,
+            "zone2": 0,
+            "zone3": 0,
+            "exits": []
+        }
+    ],
+    "platforms": [],
+    "sidings": [],
+    "routes": [],
+    "depots": [],
+    "lifts": [],
+    "rails": [
+        {
+            "position1": {
+                "x": -204,
+                "y": -60,
+                "z": 354
+            },
+            "angle1": "E",
+            "position2": {
+                "x": -194,
+                "y": -60,
+                "z": 354
+            },
+            "angle2": "W",
+            "shape": "QUADRATIC",
+            "verticalRadius": 0,
+            "styles": [
+                "default"
+            ],
+            "speedLimit1": 40,
+            "speedLimit2": 40,
+            "isPlatform": false,
+            "isSiding": true,
+            "canAccelerate": false,
+            "canTurnBack": false,
+            "canConnectRemotely": false,
+            "canHaveSignal": true,
+            "signalColors": [],
+            "transportMode": "TRAIN",
+            "stylesMigratedLegacy": true
+        }
+    ],
+    "signalModifications": [
+        {
+            "position1": {
+                "x": -198,
+                "y": -60,
+                "z": 356
+            },
+            "position2": {
+                "x": -201,
+                "y": -60,
+                "z": 355
+            },
+            "signalColorsAdd": [
+                8375321
+            ],
+            "signalColorsRemove": [],
+            "clearAll": false
+        }
+    ]
+}
+</code>
