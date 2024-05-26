@@ -4,14 +4,22 @@
 
 <WRAP right>
 
-^  **湾堡城**  |^
-^  **Llanmara**  |^
-|  缺少照片  ||
-| **车站列表**  | [[llanmara_saint_anns|湾堡城中心]]  |
-| ::: | [[llanmara_saint_devota|湾堡城秋叶]] |
-| ::: | [[llanmara_south_village|湾堡城南村]] |
-| ::: | [[llanthrow_airport|湾思罗机场]](未开通) |
-| ::: | [[llanmara_iceland|湾堡城冻原]] |
+^  **湾堡城**  ||^
+^  **Llanmara**  ||^
+|  缺少照片  |||
+| **车站列表**  | [[llanmara_saint_anns|湾堡城中心]]  ||
+| ::: | [[llanmara_saint_devota|湾堡城秋叶]] ||
+| ::: | [[llanmara_south_village|湾堡城南村]] ||
+| ::: | [[llanthrow_airport|湾思罗机场]](未开通) ||
+| ::: | [[llanmara_iceland|湾堡城冻原]] ||
+^  运营商  ||^
+| 运营商 | [[lilypad_rail|睡莲铁]] ||
+|   | [[wilds_railway|旷野铁路]] ||
+|  线路  |  运营商  |  车站  |
+|  **地铁**  |||
+| 湾堡城特快  | 睡莲铁  | 秋叶站  |
+| 大理石线  | ::: | 秋叶站  |
+| ::: | ::: | 南村站 |
 
 </WRAP>
 
