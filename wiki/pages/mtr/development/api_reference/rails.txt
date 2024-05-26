@@ -1,0 +1,14 @@
+====== Getting Rail Details (POST) ======
+Get details about a rail, such as the rail shape and speed limits.
+
+[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/blob/master/buildSrc/src/main/resources/schema/operation/railsRequest.json|Schema Reference]]
+===== Example Endpoint =====
+  http://localhost:8888/mtr/api/operation/rails?dimension=0
+===== Example Request Body =====
+<code javascript>
+{
+    "railIds": [
+        "FFFFFFFFFFFFFF37-FFFFFFFFFFFFFFC4-0000000000000163-FFFFFFFFFFFFFF3A-FFFFFFFFFFFFFFC4-0000000000000164"
+    ]
+}
+</code>
