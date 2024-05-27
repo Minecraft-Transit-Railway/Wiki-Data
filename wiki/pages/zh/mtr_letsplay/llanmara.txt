@@ -21,8 +21,8 @@
 | [[metro_marble_line|地铁大理石线]]  | ::: | 秋叶站5站台 |
 | [[metro_devota&city_line|秋叶及城市线]] | ::: | 秋叶站6站台 |
 | ::: | ::: | 中心站11站台 |
-| [[metro_victory_line|地铁胜利线]] | ::: | 秋叶站1/4站台中心站9/10站台 |
-| [[wilds_railway_hoku_hoku_line|旷铁北北线]] | 旷野铁路 | ::: |
+| [[metro_victory_line|地铁胜利线]] | ::: | 秋叶站1/4站台及中心站9/10站台 |
+| [[wilds_railway_hoku_hoku_line|旷铁北北线]] | [[wilds_railway|旷野铁路]] | ::: |
 | 闪焰王牌线 | 缟野MTR | 秋叶站11站台 |
 | 3号(青灰)线 | 西湖交通管理局 | 秋叶站2/3站台 |
 | East Midlands Railway |   | 秋叶站7站台 |
