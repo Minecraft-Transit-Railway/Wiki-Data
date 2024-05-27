@@ -14,15 +14,15 @@
 | 运营商 | [[lilypad_rail|睡莲铁]] ||
 | ::: | [[wilds_railway|旷野铁路]] ||
 | ::: | [[shimanomtr|缟野MTR]] ||
-|:::| [[west_lake_transport_authority|西湖交通管理局]] ||
+| ::: | [[west_lake_transport_authority|西湖交通管理局]] ||
 |  线路  |  运营商  |  车站/站台  |
 |  **地铁**  |||
 | [[metro_llanmara_express|地铁湾堡城特快]]  | [[lilypad_rail|睡莲铁]]  | 秋叶站9/10站台  |
 | [[metro_marble_line|地铁大理石线]]  | ::: | 秋叶站5站台 |
 | [[metro_devota&city_line|秋叶及城市线]] | ::: | 秋叶站6站台 |
 | ::: | ::: | 中心站11站台 |
-| [[metro_victory_line|地铁胜利线]]/[[wilds_railway_hoku_hoku_line|旷铁北北线]] | [[lilypad_rail|睡莲铁]]、[[wilds_railway|旷野铁路]] | 秋叶站1/4站台 |
-| ::: | ::: | 中心站9/10站台 |
+| [[metro_victory_line|地铁胜利线]] | ::: | 秋叶站1/4站台中心站9/10站台 |
+| [[wilds_railway_hoku_hoku_line|旷铁北北线]] | 旷野铁路 | ::: |
 | 闪焰王牌线 | 缟野MTR | 秋叶站11站台 |
 | 3号(青灰)线 | 西湖交通管理局 | 秋叶站2/3站台 |
 | East Midlands Railway |   | 秋叶站7站台 |
