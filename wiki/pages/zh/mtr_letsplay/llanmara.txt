@@ -23,16 +23,16 @@
 | ::: | ::: | 中心站11站台 |
 | [[metro_victory_line|地铁胜利线]] | ::: | 秋叶站1/4站台及中心站9/10站台 |
 | [[wilds_railway_hoku_hoku_line|旷铁北北线]] | [[wilds_railway|旷野铁路]] | ::: |
-| 闪焰王牌线 | 缟野MTR | 秋叶站11站台 |
-| 3号(青灰)线 | 西湖交通管理局 | 秋叶站2/3站台 |
-| East Midlands Railway |   | 秋叶站7站台 |
-| 河边线 |   | 秋叶站8站台 |
-| 地上铁 |   | 中心站7站台 |
+| [[cinderace_line|闪焰王牌线]] | [[shimanomtr|缟野MTR]] | 秋叶站11站台 |
+| [[wlt_line_3|3号(青灰)线]] | [[west_lake_transport_authority|西湖交通管理局]] | 秋叶站2/3站台 |
+| [[east_midlands_railway|East Midlands Railway]] |   | 秋叶站7站台 |
+| [[riverside_line|河边线]] |   | 秋叶站8站台 |
+| [[overground|地上铁]] |   | 中心站7站台 |
 |  **高速铁路**  |||
-| 北原线 |   | 1LLA39 中心站5站台 |
-| ::: | ::: | 1YNK32 中心站5站台 杨克顿经重生区 |
-| 丽湾崴特堡城联络线 | 睡莲铁 | 9LLA82 中心站6站台 |
-| ::: | ::: | 1KAL72 中心站6站台 丽湾经崴特嘛塔 |
+| [[northern_heights_line|北原线]] |   | [[1lla39|1LLA39]] 中心站5站台 |
+| ::: | ::: | [[1ynk32|1YNK32]] 中心站5站台 [[yankton|杨克顿]]经[[spawn|重生区]] |
+| [[kallos-waitemara_link_line|丽湾崴特堡城联络线]] | [[lilypad_rail|睡莲铁]] | [[9lla82|9LLA82]] 中心站6站台 |
+| ::: | ::: | [[1kal72|1KAL72]] 中心站6站台 [[kallos|丽湾]]经[[waitemata|崴特嘛塔]] |
 | 泰衔接旅客自动运输系统 |   | 中心站13/14站台 |
 
 </WRAP>
