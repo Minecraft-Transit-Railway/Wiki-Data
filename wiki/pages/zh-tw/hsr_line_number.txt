@@ -6,5 +6,5 @@
 
 1數字+終點站縮寫3位字母+2數字
 
-如：[[1lla39|1LLA39]]，北原線往灣堡城，中間的「LLA」為灣堡城（Llanmara）的縮寫
+如：[[1lla39|1LLA39]]，[[hsr_northern_heights_line|北原綫]]往[[llanmara|灣堡城]]，中間的「LLA」為灣堡城（Llanmara）的縮寫
 
