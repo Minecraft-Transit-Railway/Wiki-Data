@@ -1,6 +1,6 @@
 ====== HSR Line Number ======
 
-HSR line number is a number and letter string for high-speed railway numbering. In[[start|Let's Play]]Server，The number is in the following way.
+HSR line number is a number and letter string for high-speed railway numbering. In [[start|Let's Play]] Server，The number is in the following way.
 
 1number+Terminal abbreviation 3 letters+2numbers
 
