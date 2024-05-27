@@ -1,55 +1,60 @@
-**This article needs to be supplemented.**
+====== Spawn Station ======
 
-====== (Need more)Spawn Station ======
-
-Spawn Station is the first station on this server, and the service lines are[[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular]]、[[mtr_letsplay:airport_express|Airport Express]]、[[mtr_letsplay:scottetsu_line|Scottetsu Line]]、[[mtr_letsplay:red_line|Red Line]]、[[mtr_letsplay:furret_line|Furret Line]]、[[mtr_letsplay:wlt_line_2|Kwong Chow-North Coast Line]]
+**Spawn Station** is the first station constructed on the MTR Let's Play Server. Its construction was started in the initial episode of Jonathan's Let's Play series, and it has experienced many upgrades since, growing it into the largest hub on the server. As of right now, it serves many lines, with its most notable one being its namesake **Spawn Grand Circular**.
 
 <WRAP right>
-
-| **spawn** ||
-^  **Overview**  |^
-| **Operators** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
-| ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
-| ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
-| ::: | [[mtr_letsplay:cyanex|CyanEX Rapid Transit]] |
-| ::: | [[mtr_letsplay:shimanomtr|Shimano MTR]] |
-| ::: | [[mtr_letsplay:west_lake_transport_authority|West Lake Transport Authority]] |
-| **Lines** | [[mtr_letsplay:spawn_grand_circular|Spawn Grand Circular(B)]] |
-| ::: | [[mtr_letsplay:airport_express|Airport Express(B)]] |
-| ::: | [[mtr_letsplay:scottetsu_line|Scottetsu Line(B)]] |
-| ::: | [[mtr_letsplay:red_line|Red Line(B)]] |
-| ::: | [[mtr_letsplay:furret_line|Furret Line(B)]] |
-| ::: | [[mtr_letsplay:wlt_line_2|Kwong Chaw-North Coast Line(A)]] |
-| ::: | [[mtr_letsplay:sightseeing_local_line|Sightseeing Local Line(C)]] |
-| ::: | [[mtr_letsplay:sightseeing_express|Sightseeing Express(C)]] |
-| ::: | [[mtr_letsplay:south_continental_line|Metro South Continental Line(C)]] |
-| ::: | [[mtr_letsplay:azalea-cl|Azalea-CL(C)]] |
-| ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line(D)]] |
-| ::: | [[mtr_letsplay:hsr_north_east_line|HSR North East Line(D)]] |
-| ::: | [[mtr_letsplay:hsr_intercity_metro-diagonally line|HSR Intercity Metro-Diagonally Line(D)]] |
-| ::: | [[mtr_letsplay:hsr_dan_chun_line|HSR Dan Chun Line(E)]] |
-| ::: | [[mtr_letsplay:hsr_spawn_apm|Spawn High Speed Terminal Automatic People Mover]] |
-| **Owners** | [[mtr_community:jonafanho|Jonathan Ho]] |
-| **Region** | [[mtr_letsplay:spawn_region|Spawn]] |
-| **Platforms** | 12+8+12 (12 Spawn Metro Platforms,8 Cyan Heights Metro Platforms,12 HSR Platforms) |
-| **Tracks** | ? |
-| **Coordinates** | (26,-183) |
-^  **Translations**  |^
-| **Traditional** | 重生區 |
-| **Simplified** | 重生区 |
-^  **Colors**  |^
-| ? | Blue Spawn |
-| ? | Pink HSR 1 |
-| ? | Cyan HSR 2 |
-^  **Station**  |^
-| **Type** | Underground |
-| **Phases** | 6 |
-| **Floors** | - |
-| **Platform Floors** | 5 |
-| **Step-Free Accessible** | Yes |
-| **Station Code** | SPW |
-| **Opened** | 2022 |
-| **Electrification** | Yes |
-
+|  @#1788EE:  ||
+|  **<html><font size = "4">Spawn</font></html>**\\ 重生區  ||
+|  @#1788EE:  ||
+|  {{mtr_letsplay:spawn.png?450}}  ||
+|  @#1788EE:**District**  |  @#1788EE:**Station Code**  |
+|  Spawn  |  SPW  |
+|  @#1788EE:**Owned by**  |  @#1788EE:**Served by**  |
+|  Jonathan Ho  |  	Jonathan Ho\\ Bayside Transit Authority\\ Qingli Railways\\ Lilypad Rail\\ CyanEX Rapid Transit\\ Shimano MTR\\ West Lake Transport Authority  |
+|  @#1788EE:**Platforms**  |  @#1788EE:**Tracks**  |
+|  26  |  26  |
 </WRAP>
 
+===== Layout =====
+
+Despite being named **Spawn**, the player spawnpoint on the server is not actually located at this station, but rather at the adjacent **Cyan Heights** directly south of it. This is due to Cyan Heights being constructed over the spawnpoint later on.
+
+The station consists of six zones, zones A and B are **Spawn Station** itself, zones C is **Spawn Tower Station**, zones D and E are **Spawn High Speed Rail Terminals 1 and 2** respectively, and zone F is the **Spawn Bus Terminal**.
+
+Due to the complex' large and sometimes confusing layout, there are maps in some places with the exact layout of the station and the location of the zones indicated on them. These zones are also indicated by icons on the floor, directing players towards the respective area.
+
+{{:mtr_letsplay:spawnperim.png?600}}\\ //The zone map of Spawn and Cyan Heights.//
+
+===== Services =====
+
+|  **Zone**  |  **Platform**  |  **Service**  |  **Destination**  |
+|  \\ **Spawn Station**  ||||
+|  @#144C6C:\\ \\ <color white>**<html><font size="4">A</font></html>**</color>  |  9  |  Line 2 (Kwong Chow - North Coast Line)  |  Kwong Chow  |
+|  :::  |  10  |  Line 2 (Kwong Chow - North Coast Line)  |  :::  |
+|  :::  |  11  |  Line 2 (Kwong Chow - North Coast Line)  |  Forest Peaks  |
+|  :::  |  12  |    |    |
+|  @#37620E:\\ \\ \\ \\ \\ <color white>**<html><font size="4">B</font></html>**</color>  |  1  |  Spawn Grand Circular  |  Clockwise via Green  |
+|  :::  |  2  |  Airport Express  |  Northern Snowland Hub  |
+|  :::  |  3  |  Airport Express  |  Southern Snowland Hub (S)  |
+|  :::  |  4  |  Spawn Grand Circular  |  Anticlockwise via Red Leaves  |
+|  :::  |  5  |  Scottetsu Line  |  Kamisato Village  |
+|  :::  |  6  |    |    |
+|  :::  |  7  |  Furret Line  |  Kurokusa  |
+|  :::  |  8  |  BTA Red Line  |  Bayside Exchange  |
+|  \\ **Spawn Tower**  ||||
+|  @#382212:<color white>**<html><font size="4">C</font></html>**</color>  |  1  |  Sightseeing Local Line  |  Scarlet Devil Mansion  |
+|  :::  |  2  |  Sightseeing Local Line  |  Cyan Heights  |
+|  \\ **Spawn High Speed Rail Terminal 1**  ||||
+|  @#863A01:\\ \\ \\ <color white>**<html><font size="4">D</font></html>**</color>  |  1  |  North East Line  |  Jonathan's Resort  |
+|  :::  |  2  |  Northern Heights Line  |  Yankton  |
+|  :::  |  3  |  Northern Heights Line  |  Llanmara St Ann's  |
+|  :::  |  4  |  Kallos Line  |  Kallos LRT Depot  |
+|  :::  |  5  |  Intercity Metro-Diagonally Line  |  Sunrise  |
+|  :::  |  6  |  Intercity Metro-Diagonally Line  |  Yongchun  |
+|  \\ **Spawn High Speed Rail Terminal 2**  ||||
+|  @#8C640C:\\ \\ \\ <color white>**<html><font size="4">E</font></html>**</color>  |  1  |  Dan Chun Line  |  Yongchun  |
+|  :::  |  2  |    |    |
+|  :::  |  3  |    |    |
+|  :::  |  4  |    |    |
+|  :::  |  5  |    |    |
+|  :::  |  6  |    |    |
