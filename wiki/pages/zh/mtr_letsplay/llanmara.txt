@@ -29,9 +29,9 @@
 | [[riverside_line|河边线]] |   | 秋叶站8站台 |
 | [[overground|地上铁]] |   | 中心站7站台 |
 |  **高速铁路**  |||
-| [[northern_heights_line|北原线]] |   | [[1lla39|1LLA39]] 中心站5站台 |
+| [[hsr_northern_heights_line|北原线]] |   | [[1lla39|1LLA39]] 中心站5站台 |
 | ::: | ::: | [[1ynk32|1YNK32]] 中心站5站台 [[yankton|杨克顿]]经[[spawn|重生区]] |
-| [[kallos-waitemara_link_line|丽湾崴特堡城联络线]] | [[lilypad_rail|睡莲铁]] | [[9lla82|9LLA82]] 中心站6站台 |
+| [[hsr_kallos-waitemara_link_line|丽湾崴特堡城联络线]] | [[lilypad_rail|睡莲铁]] | [[9lla82|9LLA82]] 中心站6站台 |
 | ::: | ::: | [[1kal72|1KAL72]] 中心站6站台 [[kallos|丽湾]]经[[waitemata|崴特嘛塔]] |
 | 泰衔接旅客自动运输系统 |   | 中心站13/14站台 |
 
