@@ -1,12 +1,14 @@
 ====== Headcode ======
 
-A **Headcode** is a code used to identify a unique service on a railway system. It is used on the Let's Play Server to identify High-Speed Rail services.
+A **Headcode** is a code used to identify a unique service on a railway system. It is used on the Let's Play Server to identify High Speed Rail services.
 
-The british headcode system, which the Let's Play's is mostly based on, works by combining a number indicating the type and importance of the service, a letter indicating the region of the UK the train is heading for, and two more numbers indicating the service number, or in some cases, the number of the route.
+The British headcode system, which the Let's Play's is loosely based on, works by combining a number indicating the type and importance of the service, a letter indicating the region of the UK the train is heading for, and two more numbers indicating the service number, or in some cases, the number of the route.
 
-On the Let's Play Server, the headcodes are a little longer, consisting of a similar priority number, followed by a //three-lettered//((This is likely due to single-lettered station codes often causing conflicts and forcing stations to use letters that are not even in their name.)) station code indicating the destination of the train, and then followed by two numbers indicating the route (usually differs per direction), since in Minecraft Transit Railway, it is not possible to have a different headcode for each service on the same line unless you made a seperate line for every single journey.
+On the Let's Play Server, the headcodes are longer than their existing real-life counterpart, consisting of a similar priority number, followed by a //three-lettered//((This is likely due to single-lettered station codes often causing conflicts and forcing stations to use letters that are not even in their name.)) station code indicating the destination of the train, and then followed by two numbers indicating the route (usually differs per direction), since in Minecraft Transit Railway, it is not possible to have a different headcode for each service on the same line unless you made a seperate line for every single journey. Due to this limitation, the route number is arbitrary.
 
-Below are the headcodes currently in use on the Let's Play Server's high speed rail network:
+The basis for assigning headcodes to High Speed Lines was adopted from Centown, whose operator SHS used China Railway's train numbering system as a basis for their headcodes.
+
+Below are the headcodes currently in use on the Let's Play Server's high-speed rail network:
 
 |  @#B0B0B0:**Line Name**  |  @#B0B0B0:**Priority Number**  |  @#B0B0B0:**Terminus**  |  @#B0B0B0:**Route Code**  |
 |  Northern Heights Line  |  **1**  |  **YNK** (//Yankton//)  |  **32**  |
