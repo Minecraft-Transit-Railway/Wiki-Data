@@ -23,7 +23,7 @@ The station consists of six zones, zones A and B are **Spawn Station** itself, z
 
 Due to the complex' large and sometimes confusing layout, there are maps in some places with the exact layout of the station and the location of the zones indicated on them. These zones are also indicated by icons on the floor, directing players towards the respective area.
 
-{{:mtr_letsplay:spawnperim.png?600}}\\ //The zone map of Spawn and Cyan Heights.//
+{{:mtr_letsplay:spawnperim_new.png?600}}\\ //The zone map of Spawn and Cyan Heights.//
 
 ===== Services =====
 
