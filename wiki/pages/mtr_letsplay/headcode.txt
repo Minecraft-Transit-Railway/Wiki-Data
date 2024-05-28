@@ -1,8 +1,27 @@
-====== HSR Line Number ======
+====== Headcode ======
 
-HSR line number is a number and letter string for high-speed railway numbering. In [[start|Let's Play]] Server，The number is in the following way.
+A **Headcode** is a code used to identify a unique service on a railway system. It is used on the Let's Play Server to identify High-Speed Rail services.
 
-1number+Terminal abbreviation 3 letters+2numbers
+The british headcode system, which the Let's Play's is mostly based on, works by combining a number indicating the type and importance of the service, a letter indicating the region of the UK the train is heading for, and two more numbers indicating the service number, or in some cases, the number of the route.
 
-For example：[[1lla39|1LLA39]]，[[hsr_north_heights_line|North Heights Line]] to [[llanmara|Llanmara]]，The "LLA" in the middle is the abbreviation of Llanmara.
+On the Let's Play Server, the headcodes are a little longer, consisting of a similar priority number, followed by a //three-lettered//((This is likely due to single-lettered station codes often causing conflicts and forcing stations to use letters that are not even in their name.)) station code indicating the destination of the train, and then followed by two numbers indicating the route (usually differs per direction), since in Minecraft Transit Railway, it is not possible to have a different headcode for each service on the same line unless you made a seperate line for every single journey.
 
+Below are the headcodes currently in use on the Let's Play Server's high speed rail network:
+
+|  @#B0B0B0:**Line Name**  |  @#B0B0B0:**Priority Number**  |  @#B0B0B0:**Terminus**  |  @#B0B0B0:**Route Code**  |
+|  Northern Heights Line  |  **1**  |  **YNK** (//Yankton//)  |  **32**  |
+|  :::  |  **1**  |  **LLA** (//Llanmara Saint Ann's//)  |  **39**  |
+|  Einsburg Line  |  **9**  |  **ENS** (//Einsburg Central//)  |  **45**  |
+|  :::  |  **9**  |  **DEN** (//Denthrope Hauptbahnhof//)  |  **62**  |
+|  Southern Cross Line  |  **9**  |  **YOC** (//Yongchun//)  |  **12**  |
+|  :::  |  **9**  |  **YNK** (//Yankton//)  |  **53**  |
+|  North East Line  |  **9**  |  **SPW** (//Spawn//)  |  **08**  |
+|  :::  |  **1**  |  **JON** (//Jonathan's Resort//)  |  **43**  |
+|  Dan Chun Line  |  **9**  |  **SPW**  (//Spawn//)  |  **24**  |
+|  :::  |  **9**  |  **YOC** (//Yongchun//)  |  **55**  |
+|  Kallos-WaiteMara Link Line  |  **1**  |  **KAL** (//Kallos LRT Depot//)  |  **72**  |
+|  :::  |  **9**  |  **LLA** (//Llanmara Saint Ann's//)  |  **82**  |
+|  Kallos Line  |  **9**  |  **KAL** (//Kallos LRT Depot//)  |  **06**  |
+|  :::  |  **9**  |  **SPW** (//Spawn//)  |  **12**  |
+|  Intercity Metro-Diagonally Line  |  **2**  |  **YOC** (//Yongchun//)  |  **57**  |
+|  :::  |  **2**  |  **SUR** (//Sunrise//)  |  **90**  |
