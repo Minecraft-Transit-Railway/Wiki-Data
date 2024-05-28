@@ -1,0 +1,26 @@
+====== Kallos Royal Park Station ======
+**Kallos Royal Park** is a complex of two stations, a railway station and a light rail station. The railway station serves (or is planned to serve) as the terminus for the [[mtr_letsplay:fryskeline|Fryske Line]] and [[mtr_letsplay:elizabethline|Elizabeth Line]]. The light rail station serves as a major junction for the [[mtr_letsplay:lilac_light_rail|Lilac Light Rail]], with trains departing from this station in four different directions. It was built in a style somewhat resembling the Elizabeth Line in London, due to the [[mtr_letsplay:elizabethline|Elizabeth Line]] being the first line planned in this location.
+
+<WRAP right>
+|  @#B0B0BE:  ||
+|  **<html><font size = "4">Kallos Royal Park</font></html>**\\ 皇家園  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:royalpark.png?400}}**//IMAGE HERE//**  ||
+|  @#B0B0BE:**District**  |  @#B0B0BE:**Station Code**  |
+|  Kallos  |  KRP  |
+|  @#B0B0BE:**Opening Date (Light Rail)**  |  @#B0B0BE:**Opening Date (Heavy Rail)**  |
+|  November 29th, 2023  |  May 12th, 2024  |
+|  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
+|  Lilypad Rail\\ Moszyan Transport  |  Moszyan Railways\\ Lilac Right Rail  |
+|  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
+|  6  |  7  |
+</WRAP>
+
+===== Layout =====
+The light rail station has 4 west-east oriented platforms, three of which serve trains going west, with the remaining platform serving trains going east. There is also a skipping track on the southern end of the station for trains that do not stop at **Royal Park** after leaving the **LRT Depot** station.
+
+The heavy rail station has 2 west-east oriented platforms elevated on top of the station building, serving the [[mtr_letsplay:fryskeline|Fryske Line]]. In the future, 2 extra platforms will be built underground to facilitate the [[mtr_letsplay:elizabethline|Elizabeth Line]].
+
+===== Trivia =====
+  * The construction of the Elizabeth Line was on hold for a while, which caused the stations to be built for other lines first instead. The stairwell to the Elizabeth Line can be found boarded off in the heavy rail concourse.
+  * At the east end of the bridge features an orca tail sculpture with a crashed Amsterdam Metro train on top of it. This is a reference to Spijkenisse's Metro Rail Whale statue, known for the crash in 2020 where a Rotterdam Metro train ended up being saved from falling by the massive tail.
