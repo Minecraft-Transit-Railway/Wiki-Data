@@ -23,6 +23,7 @@ Below are the headcodes currently in use on the Let's Play Server's high-speed r
 |  :::  |  **9**  |  **YOC** (//Yongchun//)  |  **55**  |
 |  Kallos-WaiteMara Link Line  |  **1**  |  **KAL** (//Kallos LRT Depot//)  |  **72**  |
 |  :::  |  **9**  |  **LLA** (//Llanmara Saint Ann's//)  |  **82**  |
+|  :::  |  ****  |  **WTM** (//Waitematā//)  |   //(Waitematā is no longer the terminus of the WaiteMara Link line)//   |
 |  Kallos Line  |  **9**  |  **KAL** (//Kallos LRT Depot//)  |  **06**  |
 |  :::  |  **9**  |  **SPW** (//Spawn//)  |  **12**  |
 |  Intercity Metro-Diagonally Line  |  **2**  |  **YOC** (//Yongchun//)  |  **57**  |
