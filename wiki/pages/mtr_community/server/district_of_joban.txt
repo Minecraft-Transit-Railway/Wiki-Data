@@ -6,26 +6,27 @@
 | {{ :mtr_community:doj_logo.png?180 }}  ||
 |  **Overview**  ||
 | **State** | Opened |
-| **Governor Team** | LX86 |
+| **Governor Team** | [[mtr_community:contributors:lx862|LX86]] |
 | ::: | AozoraSky |
 | ::: | StrikeSNC |
 | **Transit Type**  | High Speed Rail  |
 | ::: | Heavy Rail |
 | ::: | Light Rail |
 | ::: | Bus (Decoration only) |
+| **Websites** | [[https://www.joban.org/server|joban.org/server]] |
 | **Transit operators** | 6 |
-| **Routes** | 24 |
+| **Routes** | 25 |
 | **Stations** | ~105 |
 
 </WRAP>
 
-//Not to be confused with [[mtr_addon:jcm:start|Joban Client Mod]], an independent MTR Addon Mod also maintained by The District of Joban Administration/Governor Team.//
+//Not to be confused with [[mtr_addon:jcm:start|Joban Client Mod]], an independent MTR Addon Mod maintained by The District of Joban Administration/Governor Team.//
 
-**The District of Joban** (Chinese: 常磐市) is a Minecraft server running Fabric 1.19.2 with the MTR Mod, with the focus on creating a manageable, well-integrated railway network and to provide enjoyable ride experiences.
+**The District of Joban** (Chinese: 常磐市) is a Minecraft server running Fabric 1.19.2 with the MTR Mod, with the focus on creating a sustainable, well-integrated railway network and to provide enjoyable ride experiences.
 
 The server is mostly themed around modern Hong Kong styled Rapid Transit, although work is in progress to add more variety and diversity to various parts of the server.
 
-The District of Joban also has [[https://www.joban.tk/wiki|it's own wiki]] (In courtesy of zbx1425) which contains the join instructions, along with more detailed overview about the server.
+The District of Joban also has [[https://www.joban.org/wiki|it's own wiki]] (In courtesy of zbx1425) which contains the join instructions, along with more detailed overview about the server.
 
 ===== Mod Development =====
 
