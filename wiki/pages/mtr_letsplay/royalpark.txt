@@ -5,7 +5,7 @@
 |  @#B0B0BE:  ||
 |  **<html><font size = "4">Kallos Royal Park</font></html>**\\ 皇家園  ||
 |  @#B0B0BE:  ||
-|  {{mtr_letsplay:royalpark.png?400}}**//IMAGE HERE//**  ||
+|  {{mtr_letsplay:royalpark.png?400}}  ||
 |  @#B0B0BE:**District**  |  @#B0B0BE:**Station Code**  |
 |  Kallos  |  KRP  |
 |  @#B0B0BE:**Opening Date (Light Rail)**  |  @#B0B0BE:**Opening Date (Heavy Rail)**  |
@@ -24,3 +24,4 @@ The heavy rail station has 2 west-east oriented platforms elevated on top of the
 ===== Trivia =====
   * The construction of the Elizabeth Line was on hold for a while, which caused the stations to be built for other lines first instead. The stairwell to the Elizabeth Line can be found boarded off in the heavy rail concourse.
   * At the east end of the bridge features an orca tail sculpture with a crashed Amsterdam Metro train on top of it. This is a reference to Spijkenisse's Metro Rail Whale statue, known for the crash in 2020 where a Rotterdam Metro train ended up being saved from falling by the massive tail.
+  * This station was the site of the opening of the Fryske Line, where close to 10 people boarded the first ever train in service.
