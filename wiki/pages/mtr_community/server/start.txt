@@ -1,8 +1,14 @@
-====== MTR Servers ======
+====== MTR Community Servers ======
 
-Below is a list of all community server pages. For more information, make sure to read the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] and [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]].
+Below is a list of community server pages. For more information, make sure to read the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] and [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]].
 
-===== Community Pages =====
+<WRAP round info>
+
+**Note that community-run servers are not affiliated with the official MTR community.**\\ Please ask in the respective community shall you have any questions regarding their rules and joining instructions.
+
+</WRAP>
+
+===== List of Community Servers =====
 
  <nspages -textPages="" -title -exclude>
 
