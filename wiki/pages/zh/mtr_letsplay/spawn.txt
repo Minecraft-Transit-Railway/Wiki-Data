@@ -53,13 +53,13 @@
 
 </WRAP>
 
-===== Layout =====
+===== 车站布局 =====
 
-Despite being named **Spawn**, the player spawnpoint on the server is not actually located at this station, but rather at the adjacent **Cyan Heights** directly south of it. This is due to Cyan Heights being constructed over the spawnpoint later on.
+尽管被命名为**重生区**，但服务器上的玩家重生点实际上并不位于该站，而是位于其正南的相邻的**蓝台**。这是由于后来在重生点点上建造了蓝台。
 
-The station consists of six zones, zones A and B are **Spawn Station** itself, zones C is **Spawn Tower Station**, zones D and E are **Spawn High Speed Rail Terminals 1 and 2** respectively, and zone F is the **Spawn Bus Terminal**.
+该站由六个区域组成，A区和B区是**重生区站**本身，C区是**重生区摩天楼站**，D区和E区分别是**重生区高速铁路1号和2号客运大楼**，F区是**重生区巴士总站**。
 
-Due to the complex' large and sometimes confusing layout, there are maps in some places with the exact layout of the station and the location of the zones indicated on them. These zones are also indicated by icons on the floor, directing players towards the respective area.
+由于建筑群的布局庞大，有时令人困惑，一些地方有地图，上面有车站的确切布局和上面注明的区域位置。这些区域也由地板上的图标表示，将玩家引向各自的区域。
 
-{{:mtr_letsplay:spawnperim_new.png?600}}\\ //The zone map of Spawn and Cyan Heights.//
+{{:mtr_letsplay:spawnperim_new.png?600}}\\ //车站的区域地图.//
 
