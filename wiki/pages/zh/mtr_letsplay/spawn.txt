@@ -53,3 +53,13 @@
 
 </WRAP>
 
+===== Layout =====
+
+Despite being named **Spawn**, the player spawnpoint on the server is not actually located at this station, but rather at the adjacent **Cyan Heights** directly south of it. This is due to Cyan Heights being constructed over the spawnpoint later on.
+
+The station consists of six zones, zones A and B are **Spawn Station** itself, zones C is **Spawn Tower Station**, zones D and E are **Spawn High Speed Rail Terminals 1 and 2** respectively, and zone F is the **Spawn Bus Terminal**.
+
+Due to the complex' large and sometimes confusing layout, there are maps in some places with the exact layout of the station and the location of the zones indicated on them. These zones are also indicated by icons on the floor, directing players towards the respective area.
+
+{{:mtr_letsplay:spawnperim_new.png?600}}\\ //The zone map of Spawn and Cyan Heights.//
+
