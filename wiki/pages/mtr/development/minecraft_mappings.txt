@@ -1,0 +1,36 @@
+====== Minecraft Mappings ======
+
+<WRAP right>
+
+|  **Minecraft Mappings**  ||
+| Created by | jonafanho |
+| Repository | [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]] |
+| Supported Mod Loader | Fabric\\ Forge |
+| Supported Minecraft Version | 1.16.5\\ 1.17.1\\ 1.18.2\\ 1.19.2\\ 1.19.4\\ 1.20.1\\ 1.20.4 |
+
+</WRAP>
+
+**Minecraft Mappings** is a project made for the MTR Mod that allows cross version (1.16.5+) and mod-loader compatibility with 1 single codebase.
+
+===== Using =====
+
+==== Basic Concept ====
+
+Minecraft Mappings are compiled to a jar for each Minecraft version and Mod Loader. (So for example, 1.16.5-fabric, 1.16.5-forge, 1.17.1-fabric, 1.17.1-forge etc.)
+
+Inside of these jars, it contains classes and methods that often wraps around Minecraft's native code. These classes and method signature are all unchanged across different jars, and only the underlying implementation is changed to adapt to different Minecraft version. This makes it possible to compile your mod by targeting a single codebase by simply swapping the jar dependencies
+
+The idea is that //you don't use Minecraft's code//, instead use all the wrapper classes/method provided by **Minecraft Mappings**. (Which //usually// has the same name as Yarn mapping, under the ''org.mtr.mapping'' package). This means you have to swap all the native Minecraft classes to the Minecraft Mapping Equivalent.
+
+Note that not all method and classes can be mapped, for example one method could exist in 1.18.2 but not 1.17.1.\\ As such, method that are guaranteed to exist across all version will be annotated with ''@MappedMethod'', whereas other method that may not exist across all versions and mod-loaders will be annotated with ''@Deprecated'' (In which your IDE should give you a warning), don't use anything that's marked as deprecated as they may fail to compile across all versions and platform.\\ When overriding method on classes provided by **Minecraft Mappings**, you should be overriding and calling methods made by Minecraft-Mappings (Sometimes named like ''methodName2'' or ''methodName3''), these are methods provided by **Minecraft Mappings**, whereas ''methodName'' is usually the underlying method provided by Minecraft.
+
+**Minecraft Mappings** also provide helper classes (For example the Vanilla Registry) on components with radical changes between versions.
+
+==== Calling RenderSystem method ====
+
+The RenderSystem class is a bit special, as in it is not obfuscated like the rest of the Minecraft code. As such there's no need for different mapping like Yarn or Mojmap, and there's a much less chance that the method name will differ across mod-loaders due to them using different mappings.
+
+==== Getting Started (Integrate to your Minecraft Mod Project) ====
+
+TODO.
+
