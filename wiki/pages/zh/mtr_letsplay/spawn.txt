@@ -8,17 +8,7 @@
 
 |  **重生区**  ||
 |  **Spawn**  ||
-| ((
-
-))((
-
-))((
-
-))((
-
-))((
-
-)){{mtr_letsplay:spawn.png?450}} ||
+| {{mtr_letsplay:spawn.png?450}} ||
 ^  **概述**  |^
 | **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
 | ::: | [[zh:mtr_letsplay:qingli_railways|晴丽铁路]] |
