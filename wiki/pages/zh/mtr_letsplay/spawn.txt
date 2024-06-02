@@ -63,3 +63,37 @@
 
 {{:mtr_letsplay:spawnperim_new.png?600}}\\ //车站的区域地图.//
 
+===== 运营 =====
+
+|  **区**  |  **站台**  |  **运营服务**  |  **终点站**  |
+|  \\ **重生区**  ||||
+|  @#144C6C:\\ \\ <color white>**<html><font size="4">A</font></html>**</color>  |  9  |  Line 2 (Kwong Chow - North Coast Line)  |  Kwong Chow  |
+|  :::  |  10  |  Line 2 (Kwong Chow - North Coast Line)  |  :::  |
+|  :::  |  11  |  Line 2 (Kwong Chow - North Coast Line)  |  Forest Peaks  |
+|  :::  |  12  |    |    |
+|  @#37620E:\\ \\ \\ \\ \\ <color white>**<html><font size="4">B</font></html>**</color>  |  1  |  Spawn Grand Circular  |  Clockwise via Green  |
+|  :::  |  2  |  Airport Express  |  Northern Snowland Hub  |
+|  :::  |  3  |  Airport Express  |  Southern Snowland Hub (S)  |
+|  :::  |  4  |  Spawn Grand Circular  |  Anticlockwise via Red Leaves  |
+|  :::  |  5  |  Scottetsu Line  |  Kamisato Village  |
+|  :::  |  6  |    |    |
+|  :::  |  7  |  Furret Line  |  Kurokusa  |
+|  :::  |  8  |  BTA Red Line  |  Bayside Exchange  |
+|  \\ **Spawn Tower**  ||||
+|  @#382212:<color white>**<html><font size="4">C</font></html>**</color>  |  1  |  Sightseeing Local Line  |  Scarlet Devil Mansion  |
+|  :::  |  2  |  Sightseeing Local Line  |  Cyan Heights  |
+|  \\ **Spawn High Speed Rail Terminal 1**  ||||
+|  @#863A01:\\ \\ \\ <color white>**<html><font size="4">D</font></html>**</color>  |  1  |  North East Line  |  Jonathan's Resort  |
+|  :::  |  2  |  Northern Heights Line  |  Yankton  |
+|  :::  |  3  |  Northern Heights Line  |  Llanmara St Ann's  |
+|  :::  |  4  |  Kallos Line  |  Kallos LRT Depot  |
+|  :::  |  5  |  Intercity Metro-Diagonally Line  |  Sunrise  |
+|  :::  |  6  |  Intercity Metro-Diagonally Line  |  Yongchun  |
+|  \\ **Spawn High Speed Rail Terminal 2**  ||||
+|  @#8C640C:\\ \\ \\ <color white>**<html><font size="4">E</font></html>**</color>  |  1  |  Dan Chun Line  |  Yongchun  |
+|  :::  |  2  |    |    |
+|  :::  |  3  |    |    |
+|  :::  |  4  |    |    |
+|  :::  |  5  |    |    |
+|  :::  |  6  |    |    |
+
