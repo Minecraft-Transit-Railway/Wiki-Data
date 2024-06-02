@@ -1,0 +1,16 @@
+<WRAP centeralign>
+
+**Welcome to the official Minecraft Transit Railway Wiki [WIP]!**\\ This is a community run and maintained wiki that contains information about all things MTR.
+
+</WRAP>
+
+| @#b42249: ||
+|  **Minecraft Transit Railway Mod**\\ Minecraft Transit Railway is a Minecraft mod that adds the ability to create fully automated public transport systems, ranging from trains to cable cars and planes! \\ For more information, please check out the [[mtr:start|Minecraft Transit Railway page]] for tutorials!  ||
+|  **Changelog & Download**\\ **Latest Stable Version:** [[mtr:3.2.x|3.2.2-hotfix-1]]\\ **Latest Preview Version:** [[mtr:4.0.x|4.0.0-beta-7]]  |  **Getting Started**\\ The [[mtr:getting_started|Getting Started]] guide is a good place to start if you've never used this mod before. Alternatively, you can follow the [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|video tutorial series]] which shows how you get your own rail network up and running.  |
+|  **Addon Mods**\\ Various addon mod is made that adds new blocks, facilities and vehicles that integrates with the MTR Mod.\\ Please check out [[mtr_addon:start|Addon page]] for a short list of community-made addon.  |  **Addon Contents**\\ Additional vehicles and rolling stock can be added to MTR through resource packs.\\ See [[mtr_extra:start|Resource Packs]] for an overview about resource packs.  |
+| TODO  |  **Expansion & Development**\\ Looking into making your MTR Addons and tools integrating with the MTR Mod?\\ Check out the [[mtr:development|development page]], which contains API references and documentation of various projects used by the MTR Mod.  |
+| @#b42249: ||
+|  **MTR Community**  ||
+|  **Let's Play Server**\\  This is the official MTR Minecraft server where builders build upon a continuously expanding network. The network is open to the public for visitors to explore.\\ For more information, please check out the [[mtr_letsplay:start|Let's Play Server]] page.  |  **Community-Run Server**\\ Various community-hosted Minecraft servers that utilizes the MTR Mod are available.\\ Please visit [[mtr_community:server:start|Community Servers]] for a short list of the available servers.  |
+|  **Individuals**\\ You can checkout a list of [[mtr_community:staff:start|MTR Staff]], [[mtr_community:contributors:start|Mod Contributors]] and [[mtr_community:builders:start|Let's Play Builders]] here.  |  **Contributing to the Wiki**\\ We are open to any and all contributions from community members! If you'd like to contribute, make sure you read the [[wiki:syntax|Syntax Guide]], [[:editing_guideline|Editing Guidelines]], and [[:wiki_rules|Wiki Guidelines]].  |
+
