@@ -50,10 +50,11 @@
 |**Owner(s)**|Qingli Railways\\ [[mtr_letsplay:lilypad_rail|Lilypad Rail]]|
 |**Operator(s)**|Qingli Railways|
 </WRAP>
-=====History=====
-On 5 August 2022, the first route built by Qingli Railways, [[lrt_801|route 801]] went fully operational. The original 801 runs from Kallos to Kallos Ferry Pier.
+===== History =====
 
-On 11 August 2022, route 801 has been splitted into 2 routes, [[lrt_801|routes 801]] and 801P. This is the original form of the current [[lrt_801|route 801]], which runs from Kallos to Karest Lake Beach.
+On 5 August 2058, the first route built by Qingli Railways, [[lrt_801|route 801]] went fully operational. The original 801 runs from Kallos to Kallos Ferry Pier.
+
+On 11 August 2058, route 801 has been splitted into 2 routes, [[lrt_801|routes 801]] and 801P. This is the original form of the current [[lrt_801|route 801]], which runs from Kallos to Karest Lake Beach.
 
 On 13 August 2022, New Harmony Railways proposed to extend route 801P to Puketeraki and interchange with AT Metro. The construction started on 20 August 2022. On 3 September, Chin Ka Village light rail (Route 762) was completed which runs between Toitoi and Lei Yue Mun, owned by Jonathan Railway Authorities. New Harmony Railways released a proposal next day of setting up a peak hour route running from Kallos to Puketeraki, Toitoi, and continue to run on tracks of Route 762 until Lei Yue Mun. The route number of this route was later decided to be [[lrt_801x|801X]]. The extension completed on 10 September 2022.
 
@@ -66,6 +67,7 @@ On the same day, route 802S went fully operational and has a frequency of 1 hour
 On 29 October 2023, Royal Park stop is added in Hot Springs bound for future connections to Elizebeth Line and [[lrt_804|route 804]].
 
 On 1 November 2023, Kallos stop is removed from route 802 and 802S
+
 
 =====Stations=====
 <WRAP left>
