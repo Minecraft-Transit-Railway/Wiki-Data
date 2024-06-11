@@ -27,7 +27,7 @@
 
 ===== Hierarchy =====
 
-**CyanEX Rapid Transit** is a subsidiary of the **CyanEX Holdings Group**. 
+**CyanEX Rapid Transit** is a subsidiary of the **CyanEX Holdings Group**.
 
 ===== History =====
 
@@ -48,5 +48,20 @@ The Winter Olympics Loop Line was once the longest operating line in Xinghai Cit
 
 ===== Stations in LetsPlay =====
 
-
+^ 观光缓行线 ^ SLL ^ 观光快速线 ^ SEL ^ 蓝霞线 ^ CTL ^ 彭德线直通区间 ^ BOL ^ 高滨线 ^ MSL ^ 须弥线 ^ SUL ^
+| 蓝台 | CYH | 蓝台 | CYH | 蓝台 | CYH | 霞松 | TWS | 妮露法 | NIF | 西南旷野 | SWP |
+| 重生区摩天楼 | SPT | 爱康港 | ICP | 普达西 | WLP | 西城 | WET | 蓝星花越海岸 | HKB | 花神庙 | FLT |
+| 客运站镇 | SUA | 蓝星樱河 | SAS | 碧沙交汇 | BAC | 赛特朗 | TRI | 环湖医院 | LAH | 红馆 | SDM |
+| 泰恒 | MOE | 红馆 | SDM | 仙林湖 | LAV | 东城 | OST | 白石平原 | WHP | 纳西妲 | NAH |
+| 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |  |  | 霓台蜜雪冰城 | MXI | 妮露法 | NIF |
+| 滨州 | PET | 西滨 | WES | 北海路 | OCI |  |  | 天水风景区 | PAF | 莱伊拉 | LAY |
+| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN |  |  | 工大西翠校区 | TUT | 神木 | RUK |
+| 香田 | KOD |  |  | 美景宫 | BEV |  |  | 石花洞天池 | BLC | 海萨列岛 | HAI |
+| 月光湾 | MOB |  |  | 装奶粉度假村 | JOR |  |  | 紫竹红树 | VBM | 稻毛海岸 | INK |
+| 蓝星樱河 | SAS |  |  | 竹青亭 | BAP |  |  | 蘑菇岛多蘑态 | MMM | 欧莫斯洲 | ORD |
+| 公积 | PRO |  |  | 朱家角 | ZUN |  |  | 橙光谷 | AUV | 阿戈滩 | ALB |
+| 红馆 | SDM |  |  | 春池嫣韵 | SPP |  |  | 高地览胜 | MEV | 提纳里 | TIG |
+|  |  |  |  | 霞松 | TWS |  |  |  |  | 坎蒂斯 | CAN |
+|  |  |  |  |  |  |  |  |  |  | 基斯石滩 | GRP |
+|  |  |  |  |  |  |  |  |  |  | 大巴扎 | GRB |
 
