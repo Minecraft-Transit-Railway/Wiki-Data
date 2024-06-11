@@ -12,6 +12,12 @@
 
 </WRAP>
 
+===== Services in LetsPlay =====
+
+  * Sightseeing Line System
+  * Sightseeing Local Line
+  * Sumeru Line
+
 ===== Members =====
 
   * Zbx1425 (LetsPlay Staff)
@@ -29,15 +35,18 @@ CyanEX was initially established in December 2021 at the [[https://xinghaicity.l
 
 CyanEX (under the older name "CyanEX Mobility") operated various urban and suburban railways services in XinghaiCity.
 
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%86%AC%E5%A5%A5%E7%8E%AF%E7%BA%BF|Winter Olympics Loop Line]]
-  * Autumn Valley Line (with the [[https://xinghaicity.ldiorstudio.cn/wiki/%E6%A9%99%E8%B0%B7%E7%BA%BF%E5%8D%97%E5%8C%97%E7%9B%B4%E9%80%9A%E5%BF%AB%E9%80%9F|North-South Through Express Service]])
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E8%93%9D%E6%98%9F%E4%B8%9C%E8%A5%BF%E7%BA%BF|CyanEX Tozai Line]]
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8D%9A%E7%89%A9%E9%A6%86APM|Transport Museum APM]]
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E5%A2%83%E7%BA%BF|Hokukyu Line]]
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E7%99%BD%E7%BA%BF|Hokukyo-Snowwhite Line]]
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/%E5%8C%97%E5%AE%89%E7%BA%BF|Hokukyo-Anting Line]]
-  * [[https://xinghaicity.ldiorstudio.cn/wiki/14%E5%8F%B7%E7%BA%BF|Line 14]]
+  * [[https://www.xhcity.top/wiki/%E5%86%AC%E5%A5%A5%E7%8E%AF%E7%BA%BF|Winter Olympics Loop Line]]
+  * Autumn Valley Line (with the [[https://www.xhcity.top/wiki/%E6%A9%99%E8%B0%B7%E7%BA%BF%E5%8D%97%E5%8C%97%E7%9B%B4%E9%80%9A%E5%BF%AB%E9%80%9F|North-South Through Express Service]])
+  * [[https://www.xhcity.top/wiki/%E8%93%9D%E6%98%9F%E4%B8%9C%E8%A5%BF%E7%BA%BF|CyanEX Tozai Line]]
+  * [[https://www.xhcity.top/wiki/%E5%8D%9A%E7%89%A9%E9%A6%86APM|Transport Museum APM]]
+  * [[https://www.xhcity.top/wiki/%E5%8C%97%E5%A2%83%E7%BA%BF|Hokukyu Line]]
+  * [[https://www.xhcity.top/wiki/%E5%8C%97%E7%99%BD%E7%BA%BF|Hokukyo-Snowwhite Line]]
+  * [[https://www.xhcity.top/wiki/%E5%8C%97%E5%AE%89%E7%BA%BF|Hokukyo-Anting Line]]
+  * [[https://www.xhcity.top/wiki/14%E5%8F%B7%E7%BA%BF|Line 14]]
 
 The Winter Olympics Loop Line was once the longest operating line in Xinghai City.
+
+===== Stations in LetsPlay =====
+
 
 
