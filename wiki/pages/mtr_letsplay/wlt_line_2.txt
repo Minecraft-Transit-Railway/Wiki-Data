@@ -35,7 +35,7 @@
 | **Service Hours** | 04:49 - next day 03:29 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(West Section)//\\ 04:06 - next day 03:54\\ //([[wp>UTC+08:00|UTC+8]])//\\ //(East Section)// |
 | **Frequency** | Every 3 - 12 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
-| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/cyanex|CyanEX CXD104]]\\ [[wp>Line_1_(Shanghai_Metro)#Technology#Rolling_Stock|01A06]] |
+| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]]\\ [[wp>Line_1_(Shanghai_Metro)#Technology#Rolling_Stock|01A06]] |
 ^  History  |^
 | **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ TBC\\ //(Spawn - Coast City)//\\ TBC\\ //(Coast City - Makki Memorial Village)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)// |
 ^  Technical  |^
@@ -110,9 +110,9 @@ There are also 3 set of M-Train (phase 2A) and 6 sets of K-Train have started se
 
 Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A06 previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system, as DC motor is harder to maintenance and consumes more electricity.
 
-Due to the platforms in Cyan Twilight Line((
+Due to the platforms in [[/cyanex|Cyan Twilight Line]]((
 80m long
-)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Express network, Cyanex Rapid Transit CXD104 is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix1500// traction is used for first batch of 15 sets 4-car trains, possibly because of possible tuning and reliability issue.
+)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Line network, Cyanex Rapid Transit [[/chi|CXD104]] is chosen to be the sole rolling stock used for 4-car trains. Yet, ABB //FW D950// traction instead of CRRC Times //tpower-tn3// traction or Alstom //Optonix1500// traction equipped by trains running on the [[/cyanex|Sightseeing Line]] is equipped for first batch of 15 sets 4-car trains, possibly because of it allowing a tuning with softer sound. It is planned that the next and last batch of 10 sets 4-car trains will be equipped with Bombardier //Mitrac (TC1110 series)// traction
 
 ^  Car Formation of M-Trains (phase 2A)  ||||^
 | //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
@@ -206,11 +206,11 @@ For **North Coast Line**, trains are serving from Coast City to Makki Memorial V
 
 After the studies on feasibility of merging, it was also found that the maximum signalling headway for original WLT Line 2 sections and North Coast Line sections is similar; however, the maximum train frequency of the North Coast Line is limited by the shared section with AT Metro 2209 Service between Spawn station and [[/forest_peak_station|Forest Peaks]] station. If the service between [[/kwong_chow_station|Kwong Chow]] station and [[/spawn_station|Spawn]] station needed to operate at the maximum possible capacity, WLT Line 2 would need to also merge with AT Metro 2209 Service, or divert some trains away, or turn back some trains at Spawn.
 
-Option 2 is inspired by the once operated Sightseeing Express - [[/south_continental_line|South Continental Line]] through-running service. It is chosen after more discussions and studies. A branch through-running to [[/cyanex|Cyanex Rapid Transit]]'s Sightseeing Express Line Phase 3 (now [[/sightseeing_express|Cyan Twilight Line]]) was proposed to utilize the slots allocated to AT Metro 2209 Service from Spawn station to Forest Peaks station for remaining sections from Kwong Chow station to Spawn station.
+Option 2 is inspired by the once operated Sightseeing Express - [[/south_continental_line|South Continental Line]] through-running service. It is chosen after more discussions and studies. A branch through-running to [[/cyanex|Cyanex Rapid Transit]]'s Sightseeing Express Line Phase 3 (now Cyan Twilight Line) was proposed to utilize the slots allocated to AT Metro 2209 Service from Spawn station to Forest Peaks station for remaining sections from Kwong Chow station to Spawn station.
 
 The branch also makes travelling between [[/west_lake_area|West Lake Area]], and [[/bayside_area|Bayside]], [[/hos_bridge_station|Ho's Bridge]] and [[/chou_wai|Chou Wai]] much more convenient, also reduces the overcrowding in Spawn-Cyan Heights Metropolis and improves player's experience((
 Saving one out of station interchange between Spawn station and [[/cyan_heights_station|Cyan Heights]] station
-)). Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues, and is expected to be done along with the merge and official opening of **Line 2 (Kwong Chow - North Coast Line)**.
+)). Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues, and is expected to be done along with the second stage of merge.
 
 ===== Stations (WIP) =====
 
