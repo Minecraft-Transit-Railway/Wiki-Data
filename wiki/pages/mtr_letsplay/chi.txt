@@ -1,0 +1,58 @@
+====== CyanEX Heavy Industries (CHI) ======
+
+**CyanEX Heavy Industries** (Chinese: **蓝星重工/藍星重工**) is a manufacturing firm specializing in transportation equipment.
+
+<WRAP right>
+
+^  <html><font size = "4">CyanEX Heavy Industries</font></html>\\ <html><font size = "4">蓝星重工</font></html>  |^
+| @#7090FF: ||
+|  {{ :mtr_letsplay:cyanex_logo.png?200 }}  ||
+^  Operation  |^
+| **Began operation** | December 2021 |
+
+</WRAP>
+
+===== Hierarchy =====
+
+**CyanEX Heavy Industries** is a subsidiary of the **CyanEX Holdings Group**.
+
+===== Products =====
+
+==== Rolling Stocks ====
+
+**CXD101**\\ 
+Type-M EMU based on the MTR C-Train, featuring a blue livery.\\ 
+Briefly ran on Winter Olympics Line (later renamed Winter Olympics Loop Line) before being replaced by CXD103 trains.
+
+**CXD102**\\ 
+Type-B EMU based on the MTR K-Train, featuring a orange livery.\\ 
+Operates on Autumn Valley Line.
+
+**CXD103**\\ 
+Type-M EMU based on the MTR C-Train, first introducing the iconic CyanEX cyan & magenta livery.\\ 
+Operates on Winter Olympics Loop Line and Sightseeing Local Line.
+
+**CXD104**\\ 
+Type-B EMU based on the MTR C-Train, with the CyanEX livery.\\ 
+Operates on Sightseeing Line and WLT Line 2.
+
+**CXD105**\\ 
+Type-B EMU based on the MTR K-Train, with a fancy Genshin Impact themed livery made by Asnacinjar.\\ 
+Operates on Sumeru Line.
+
+**CXD106**\\ 
+Type-M suspended monorail EMU train based on the MTR S-Train, with MTR livery.\\ 
+Features a LCD dynamic PIS system implemented with JavaScript capabilities.\\ 
+Operated APM services at TeaCon 2023.
+
+**CXD107**\\ 
+Type-B EMU based on the MTR S-Train, with the CyanEX livery.\\ 
+Features a LED dynamic PIS system implemented with JavaScript capabilities.\\ 
+Operates on Sightseeing Line.
+
+**CXD108**\\ 
+Type-M EMU based on the MTR S-Train, with the CyanEX livery.\\ 
+Features a LED dynamic PIS system implemented with JavaScript capabilities.\\ 
+To be deployed on Sightseeing Local Line.
+
+
