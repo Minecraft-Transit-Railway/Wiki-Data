@@ -23,7 +23,7 @@
 | **Stations** | 8 //(Opened)//\\ 5 //(Work in Progress)//|
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:42 - next day 03:05\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Service Hours** | 04:40 - next day 03:10\\ //([[wp>UTC+08:00|UTC+8]])// |
 | **Frequency** | Every 3 - 9 mins |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management))|
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
