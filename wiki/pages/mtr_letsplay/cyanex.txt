@@ -14,9 +14,21 @@
 
 ===== Services in LetsPlay =====
 
-  * Sightseeing Line System
-  * Sightseeing Local Line
-  * Sumeru Line
+  * **Sightseeing Line System**
+    * K2-K3: (Express) Al-Tighnari -> Ostania
+    * K4-K1: (Express) Ostania -> Al-Tighnari
+    * 41: Cyan Heights -> Twilight Spruce
+    * 42: Twilight Spruce -> Cyan Heights
+    * 51: Scarlet D. Mansion -> Bloom H. MiXue ICT
+    * 52: Bloom H. MiXue ICT -> Scarlet D. Mansion
+
+  * **Sightseeing Local Line**
+    * 11: Cyan Heights -> Scarlet D. Mansion
+    * 12: Scarlet D. Mansion -> Cyan Heights
+
+  * **Sumeru Line**
+    * 31: Nahida -> Grand Bazaar
+    * 32: Grand Bazaar -> Nahida
 
 ===== Members =====
 
