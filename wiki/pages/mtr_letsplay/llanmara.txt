@@ -1,2 +1,39 @@
+Need more trnaslate
 ====== Llanmara ======
+Llanmara is a hub of[[start|Lets‘play server]]，服务于服务器北边，主要由[[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]]建筑完成\\ 主要有以下车站：[[llanmara_saint_anns|湾堡城中心]]、[[llanmara_saint_devota|湾堡城秋叶]]等
+
+<WRAP right>
+
+^  **湾堡城**  ||^
+^  **Llanmara**  ||^
+|  缺少照片  |||
+| **车站列表**  | [[llanmara_saint_anns|湾堡城中心]]  ||
+| ::: | [[llanmara_saint_devota|湾堡城秋叶]] ||
+| ::: | [[llanthrow_airport|湾思罗机场]](未开通) ||
+^  线路  ||^
+| 运营商 | [[lilypad_rail|睡莲铁]] ||
+| ::: | [[wilds_railway|旷野铁路]] ||
+| ::: | [[shimanomtr|缟野MTR]] ||
+| ::: | [[west_lake_transport_authority|西湖交通管理局]] ||
+|  线路  |  运营商  |  车站/站台  |
+|  **地铁**  |||
+| [[metro_llanmara_express|地铁湾堡城特快]]  | [[lilypad_rail|睡莲铁]]  | [[llanmara_saint_devota|秋叶]]站9/10站台  |
+| [[metro_marble_line|地铁大理石线]]  | ::: | [[llanmara_saint_devota|秋叶]]站5站台 |
+| [[metro_devota&city_line|秋叶及城市线]] | ::: | [[llanmara_saint_devota|秋叶]]站6站台 |
+| ::: | ::: | [[llanmara_saint_anns|中心]]站11站台 |
+| [[metro_victory_line|地铁胜利线]] | ::: | [[llanmara_saint_devota|秋叶]]站1/4站台及[[llanmara_saint_anns|中心]]站9/10站台 |
+| [[wilds_railway_hoku_hoku_line|旷铁北北线]] | [[wilds_railway|旷野铁路]] | ::: |
+| [[cinderace_line|闪焰王牌线]] | [[shimanomtr|缟野MTR]] | [[llanmara_saint_devota|秋叶]]站11站台 |
+| [[wlt_line_3|3号(青灰)线]] | [[west_lake_transport_authority|西湖交通管理局]] | [[llanmara_saint_devota|秋叶]]站2/3站台 |
+| [[east_midlands_railway|East Midlands Railway]] |   | [[llanmara_saint_devota|秋叶]]站7站台 |
+| [[riverside_line|河边线]] |   | [[llanmara_saint_devota|秋叶]]站8站台 |
+| [[overground|地上铁]] |   | [[llanmara_saint_anns|中心]]站7站台 |
+|  **高速铁路**  |||
+| [[hsr_northern_heights_line|北原线]] |   | [[1lla39|1LLA39]] [[llanmara_saint_anns|中心]]站5站台 |
+| ::: | ::: | [[1ynk32|1YNK32]] [[llanmara_saint_anns|中心]]站5站台 [[yankton|杨克顿]]经[[spawn|重生区]] |
+| [[hsr_kallos-waitemara_link_line|丽湾崴特堡城联络线]] | [[lilypad_rail|睡莲铁]] | [[9lla82|9LLA82]] [[llanmara_saint_anns|中心]]站6站台 |
+| ::: | ::: | [[1kal72|1KAL72]] [[llanmara_saint_anns|中心]]站6站台 [[kallos|丽湾]]经[[waitemata|崴特嘛塔]] |
+| [[twylink_apm|泰衔接旅客自动运输系统]] |   | [[llanmara_saint_anns|中心]]站13/14站台 |
+
+</WRAP>
 
