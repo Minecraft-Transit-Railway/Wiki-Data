@@ -77,23 +77,24 @@ The Winter Olympics Loop Line was once the longest operating line in Xinghai Cit
 |  |  |  |  |  |  |  |  |  |  | 基斯石滩 | GRP |
 |  |  |  |  |  |  |  |  |  |  | 大巴扎 | GRB |
 
-==== Special Stations ====
+==== Major Stations (Plan) ====
 
-Major stations have music assigned in their PIS automatic announcements.
+Major stations will have music assigned in their PIS automatic announcements.
 
-^ Name ^ Code ^ Title ^
-| 蓝台 | CYH | いい日旅立ち A ((谷村新司; Arrange by [[https://www.youtube.com/watch?v=GNaMx4odwhQ|Keitaro]])) |
-| 装奶粉度假村 | JOR | 銀河鉄道 999 A ((EXILE; Arrange by [[https://www.youtube.com/watch?v=i8uwBfy3OS4|Keitaro]])) |
-| 霞松 | TWS | 津軽海峡冬景色 B ((三木刚; Arrange by [[https://www.youtube.com/watch?v=xkkNjrySfOc|うっつー先生]])) |
-| 东城 | OST | いい日旅立ち B |
-| 红馆 | SDM | 赤より紅い夢 A ((太田顺也; Arrange by [[https://www.youtube.com/watch?v=_NQ2ElgSCCc|Artifex]])) |
-| 蓝星花越海岸 | HKB | 津軽海峡冬景色 A |
-| 霓台蜜雪冰城 ((Temporary)) | MXI | 津軽海峡冬景色 B |
-| 蘑菇岛多蘑态 | MMM | 津軽海峡冬景色 B |
-| 高地览胜 | MEV | いい日旅立ち B |
-| 蘑菇岛 | MUI | 人形の夢と目覺め A |
-| 提纳里 | TIG | <TBD> |
-| 大巴扎 | GRB | <TBD> |
+^ Name ^ Code ^ Arrive ^ Depart ^
+| 蓝台 | CYH | いい日旅立ち D ((谷村新司; Arrange by [[https://www.youtube.com/watch?v=GNaMx4odwhQ|Keitaro]])) | いい日旅立ち C |
+| 装奶粉度假村 | JOR | いい日旅立ち B | 銀河鉄道 999 A ((EXILE; Arrange by [[https://www.youtube.com/watch?v=i8uwBfy3OS4|Keitaro]])) |
+| 霞松 | TWS | 津軽海峡冬景色 B | いい日旅立ち D |
+| 东城 | OST | / | いい日旅立ち E |
+| 红馆 | SDM | 赤より紅い夢 A ((太田顺也; Arrange by [[https://www.youtube.com/watch?v=_NQ2ElgSCCc|Artifex]])) | 津軽海峡冬景色 B |
+| 蓝星花越海岸 | HKB | 北陸ロマン B ((谷村新司; Arrange by [[https://www.youtube.com/watch?v=GNaMx4odwhQ|Keitaro]])) | 北陸ロマン A |
+| 霓台蜜雪冰城 ((Temporary)) | MXI | / | いい日旅立ち E |
+| 蘑菇岛多蘑态 | MMM | 津軽海峡冬景色 B | 北陸ロマン A |
+| 高地览胜 | MEV | / | いい日旅立ち E |
+| 蘑菇岛 | MUI | / | 人形の夢と目覺め A |
+| 提纳里 | TIG | いい日旅立ち B | いい日旅立ち A |
+| 大巴扎 | GRB | / | <TBD> |
+^ Terminating Trains ^^ いい日旅立ち AT ^ / ^
 
 
 ===== See Also =====
