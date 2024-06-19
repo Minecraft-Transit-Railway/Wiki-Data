@@ -5,7 +5,7 @@ The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_co
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City**  ||
-| {{ ..:sallen_seal.png?250 }} ||
+| {{mtr_community:sallen_seal.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:agentdevv|agentdevv]] |
 | **Transit type** | All |
@@ -50,12 +50,12 @@ Old Sallen had three different transportation systems, even before MTR. The orig
 
 - Sallen City Regional Transportation Authority (SCRTA) by [[mtr_community:Sir_MMK|Sir_MMK]]
 
-====== Rail Companies in Sallen  ======
+====== Rail Companies in Sallen ======
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City Transit**  ||
-| {{ ..:sct_logo.png?250 }} ||
+| {{ :sct_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owners** | [[mtr_community:agentdevv|agentdevv]] & [[mtr_community:apache|apache]] |
 | **Transit type** | American |
@@ -110,7 +110,7 @@ SCT was the first system created on the New Sallen server, with the Hamilton Blv
 <WRAP right>
 
 |  @#EFEEF0:  **SMART Transit**  ||
-| {{ ..:st_logo.png?250 }} ||
+| {{ :st_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:Sir_MMK|Sir_MMK]] |
 | **Transit type** | American |
@@ -136,9 +136,9 @@ In August 2023, SMART Transit and Sallen City Transit collaborated to start cons
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen Metropolitan Transit**  ||
-| {{ ..:smt_logo.png?250 }} ||
+| {{ :smt_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[..:starjunction]] [[ |apache]] |
+| **Owner** | [[:starjunction]] [[..:start|apache]] |
 | **Transit type** | Other/American |
 | **Number of operating lines** | 0 (2 WIP) |
 | **Real-Life Inspiration** | [[wp>MTR|Hong Kong MTR]] (loosely) |
@@ -147,7 +147,7 @@ In August 2023, SMART Transit and Sallen City Transit collaborated to start cons
 
 ===== Sallen Metro Transit =====
 
-Sallen Metro Transit, or SMT was one of the four original companies in new Sallen (SCT, SMART, SMT, ApacheRail), mainly operating services in Clinton. It was created and now owned by [[..:starjunction]], also one of the three builders in Old Sallen.
+Sallen Metro Transit, or SMT was one of the four original companies in new Sallen (SCT, SMART, SMT, ApacheRail), mainly operating services in Clinton. It was created and now owned by [[:starjunction]], also one of the three builders in Old Sallen.
 
 Initially, lines were given two different names based off the direction they were going in, similar to how [[wp>Grand_Theft_Auto_IV|GTA IV]]'s metro system worked. The (1) was named the 1/2, the (2) was named the 3/4, the (3) was named the 5/6, and so on and so forth.
 
