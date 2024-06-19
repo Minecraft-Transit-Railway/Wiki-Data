@@ -1,13 +1,13 @@
 ====== The City of Sallen ======
 
-The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023, mainly inspired by American infrastructure and railways. It recently reopened to the public on June 15th, 2024.
+The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by **agentdevv**, released on August 28th, 2023, mainly inspired by American infrastructure and railways. It recently reopened to the public on June 15th, 2024.
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City**  ||
 | {{mtr_community:sallen_seal.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:agentdevv|agentdevv]] |
+| **Owner** | agentdevv |
 | **Transit type** | All |
 | **Number of companies** | 10 |
 | **Real-Life Inspiration** | [[wp>New_York_City|New York City]] |
@@ -44,20 +44,18 @@ Modern-day Sallen City is a large step forward from Old Sallen. The MTR mod was 
 
 Old Sallen had three different transportation systems, even before MTR. The original three goes as followed:
 
-- Sallen City Transit (SCT) by [[mtr_community:agentdevv|agentdevv]]
+- Sallen City Transit (SCT) by **agentdevv** - Sallen Metro Transportation (SMT) by **starjunction**
 
-- Sallen Metro Transportation (SMT) by [[mtr_community:starjunction|starjunction/LTDelTaco]]
-
-- Sallen City Regional Transportation Authority (SCRTA) by [[mtr_community:Sir_MMK|Sir_MMK]]
+- Sallen City Regional Transportation Authority (SCRTA) by **Sir_MMK**
 
 ====== Rail Companies in Sallen ======
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City Transit**  ||
-| {{ :sct_logo.png?250 }} ||
+| {{mtr_community:sct_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owners** | [[mtr_community:agentdevv|agentdevv]] & [[mtr_community:apache|apache]] |
+| **Owners** | agentdevv & apache |
 | **Transit type** | American |
 | **Number of operating lines** | 0 (7 WIP) |
 | **Real-Life Inspiration** | [[wp>New_York_City|New York City]] |
@@ -68,7 +66,7 @@ Old Sallen had three different transportation systems, even before MTR. The orig
 
 ==== Introduction ====
 
-Sallen City Transit, or SCT was the oldest company in Sallen City, owned by [[mtr_community:agentdevv|agentdevv]] and [[mtr_community:apache|apache]]. Sallen City Transit is heavily inspired and based off the MTA Subway<sup>1</sup> While most IRT and IND lines are developed by [[mtr_community:agentdevv|agentdevv]], [[mtr_community:apache|apache]] is tasked with constructing the BMT lines.
+Sallen City Transit, or SCT was the oldest company in Sallen City, owned by **agentdevv** and **apache**. Sallen City Transit is heavily inspired and based off the MTA Subway<sup>1</sup> While most IRT and IND lines are developed by **agentdevv**, **apache** is tasked with constructing the BMT lines.
 
 ==== History ====
 
@@ -110,9 +108,9 @@ SCT was the first system created on the New Sallen server, with the Hamilton Blv
 <WRAP right>
 
 |  @#EFEEF0:  **SMART Transit**  ||
-| {{ :st_logo.png?250 }} ||
+| {{mtr_community:st_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:Sir_MMK|Sir_MMK]] |
+| **Owner** | Sir_MMK |
 | **Transit type** | American |
 | **Number of operating lines** | 0 (1 WIP) |
 | **Real-Life Inspiration** | [[wp>Green_Line_(MBTA)|MBTA Green Line]] |
@@ -121,7 +119,9 @@ SCT was the first system created on the New Sallen server, with the Hamilton Blv
 
 ===== SMART Transit =====
 
-%%SMART Transit was one of the first rail companies in the modern City of Sallen. The company was founded on May 30th of 2023 by Sir_MMK. SMART Transit hosts the Sallen Ferry, SallenRail Transportation and the SMART LRT. The first section of the LRT opened in June 2023, between Newton Docks and Newton-City Terminal. Further extensions would open in the following months. The LRT extensions prior to the Grand Shutdown ran parallel to SCT and ApacheRail (now shutdown). %%
+%%SMART Transit was one of the first rail companies in New Sallen. The company was founded on May 30th of 2023 by Sir_MMK. SMART Transit hosts the Sallen Ferry, SallenRail Transportation and the SMART LRT. The first section of the LRT opened in June 2023, between Newton Docks and Newton-City Terminal. Further extensions would open in the following months. The LRT extensions prior to the Grand Shutdown ran parallel to SCT and ApacheRail (now shutdown). %%
+
+==== New Sallen ====
 
 On July 7th, 2023, the LRT Great Northern line would open, making 19 stops between Bloomington Village and Westfield Airport (previously Northwest Klein Airport). The (B) and the now closed (D) lines served the Great Northern Local, while the (A) served Great Northern Express, bypassing most stations as a skip-stop service.
 
@@ -136,9 +136,9 @@ In August 2023, SMART Transit and Sallen City Transit collaborated to start cons
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen Metropolitan Transit**  ||
-| {{ :smt_logo.png?250 }} ||
+| {{mtr_community:smt_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[:starjunction]] [[..:start|apache]] |
+| **Owner** | starjunction |
 | **Transit type** | Other/American |
 | **Number of operating lines** | 0 (2 WIP) |
 | **Real-Life Inspiration** | [[wp>MTR|Hong Kong MTR]] (loosely) |
@@ -147,13 +147,15 @@ In August 2023, SMART Transit and Sallen City Transit collaborated to start cons
 
 ===== Sallen Metro Transit =====
 
+==== New Sallen ====
+
 Sallen Metro Transit, or SMT was one of the four original companies in new Sallen (SCT, SMART, SMT, ApacheRail), mainly operating services in Clinton. It was created and now owned by [[:starjunction]], also one of the three builders in Old Sallen.
 
 Initially, lines were given two different names based off the direction they were going in, similar to how [[wp>Grand_Theft_Auto_IV|GTA IV]]'s metro system worked. The (1) was named the 1/2, the (2) was named the 3/4, the (3) was named the 5/6, and so on and so forth.
 
 In July 2023, the SMT 5/6 (now the 3) lines were constructed from Liberty Plaza to Wabash, stopping at Devinstown, Barnesville, Riverton Village, Great Plains, Holyoke, Edgeword, and Wabash. This was the only SMT line (before the merge) to go north of and not primarily serve Clinton. __Underlined Text__In August 2023, the SMT 11/12 (now the 6) was finished, codenamed the "Great Plains Loop". This line served now-major transit hubs such as Great Plains, Myrtle-Kennedy, Maple Park, and the Nexus Promenade. This
 
-==== ApacheRail ====
+==== ApacheRail (New Sallen) ====
 
 ApacheRail was the fourth original company in New Sallen, owned by apache. It was created in Early-June, with provisions for three lines to be constructed: X, Y, and Z. All three lines would terminate at Great Plains, running right under the SCT Hamilton Lines. In Mid-June, ApacheRail purchased two abandoned stations from SCT in Lakeshore, named North Beach and Breen K. Sallen Road. North Beach was renamed to Downtown-Lakeshore to avoid confusion with the SMART Transit station.
 
