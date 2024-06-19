@@ -1,13 +1,11 @@
 ====== The City of Sallen ======
 
-The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023.
-
-NOTE: This entire page is outdated due to a server restart. The server will reopen in the next few months, so keep an eye out for an announcement!
+The City of Sallen is an up-and-coming 1.19.2 Minecraft server owner by [[mtr_community:agentdevv|agentdevv]], released on August 28th, 2023, mainly inspired by American infrastructure and railways. It recently reopened to the public on June 15th, 2024.
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City**  ||
-| {{ sallen_seal.png?250 }} ||
+| {{ ..:sallen_seal.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:agentdevv|agentdevv]] |
 | **Transit type** | All |
@@ -20,11 +18,19 @@ NOTE: This entire page is outdated due to a server restart. The server will reop
 
 The City of Sallen is an American-based city server which had recently expanded to include metro from all over the world. The server has many reputable areas along with new and growing developments.
 
+==== Glossary ====
+
+When reading this article, readers may encounter the following terms, conveniently defined here to avoid confusion:
+
+  * **Old Sallen: **The oldest version of Sallen City, did not have MTR installed, a superflat world, and only three companies
+  * **New Sallen:** Sallen's most notable world; it was used from 5/31/23-12/6/23 after a mod corrupted, breaking the world
+  * **Sallen 2: **The current world of Sallen, six main boroughs (Lakeshore, Clinton, Newton, Hillside, St Blythe & Elizabeth, Ile Calin
+
 ==== History ====
 
-The Sallen City you know today originally started out as a Roblox server, by the name of [[https://www.roblox.com/groups/9122249/Victoria-County-Transportation-Authority#!/about|Victoria Country Transit (VCT)]]. VCT was primarily developed by agentdevv (@BlazaTheMan), f29/LTDelTaco (@AbandonedCrew), BostonianBoy (@Sir_MMK) [SIDENOTE: WILL ADD HYPERLINKS TO PROFILE LATER], and others now moving on to other projects. It created ROBLOX((
+The Sallen City known today originally started out as a Roblox server, by the name of [[https://www.roblox.com/groups/9122249/Victoria-County-Transportation-Authority#!/about|Victoria Country Transit (VCT)]]. VCT was primarily developed by agentdevv (@BlazaTheMan), f29/LTDelTaco (@AbandonedCrew), Fries (@Sir_MMK), and others now moving on to other projects. It created ROBLOX((
 %%Roblox is %%a global platform where millions of people gather together every day to imagine, create, and share experiences with each other in immersive, user-generated 3D worlds%%. The types of gameplay on Roblox are just as limitless as the imagination of the creators themselves. (source: %%[[https://corporate.roblox.com/parents/#:~:text=What%20is%20Roblox%3F,imagination%20of%20the%20creators%20themselves|What is ROBLOX?]])
-)) Bus & Train games loosely based off the MTA Subway [NEEDS HYPERLINK].
+)) Bus & Train games loosely based off the MTA Subway .
 
 Sallen City was originally a private, vanilla server. The map itself was a superflat, with many areas of the city being filled with villages. Liberty Plaza, Fort Yasuko, and Lakeshore all originated from this version of Sallen, commonly referred to as "Old Sallen."
 
@@ -44,16 +50,16 @@ Old Sallen had three different transportation systems, even before MTR. The orig
 
 - Sallen City Regional Transportation Authority (SCRTA) by [[mtr_community:Sir_MMK|Sir_MMK]]
 
-====== Rail Companies in Sallen (OUTDATED, WILL UPDATE SOON) ======
+====== Rail Companies in Sallen  ======
 
 <WRAP right>
 
 |  @#EFEEF0:  **Sallen City Transit**  ||
-| {{ sct_logo.png?250 }} ||
+| {{ ..:sct_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owners** | [[mtr_community:agentdevv|agentdevv]] & [[mtr_community:apache|apache]] |
 | **Transit type** | American |
-| **Number of operating lines** | 12 |
+| **Number of operating lines** | 0 (7 WIP) |
 | **Real-Life Inspiration** | [[wp>New_York_City|New York City]] |
 
 </WRAP>
@@ -62,48 +68,53 @@ Old Sallen had three different transportation systems, even before MTR. The orig
 
 ==== Introduction ====
 
-Sallen City Transit, or SCT, is the largest and most notable rail company in Sallen City, owned by [[mtr_community:agentdevv|agentdevv]] and [[mtr_community:apache|apache]]. Sallen City Transit is heavily inspired and based off the MTA Subway<sup>1</sup> While most IRT and IND lines are developed by [[mtr_community:agentdevv|agentdevv]], [[mtr_community:apache|apache]] develops the BMT lines.
+Sallen City Transit, or SCT was the oldest company in Sallen City, owned by [[mtr_community:agentdevv|agentdevv]] and [[mtr_community:apache|apache]]. Sallen City Transit is heavily inspired and based off the MTA Subway<sup>1</sup> While most IRT and IND lines are developed by [[mtr_community:agentdevv|agentdevv]], [[mtr_community:apache|apache]] is tasked with constructing the BMT lines.
 
 ==== History ====
 
-In Old Sallen, Sallen City Transit was arguably the best way to get around Sallen City. Stopping in densely populated areas of Sallen, it was a very reliable system. Every station had a unique design and feel, as well as the lines being organized and simple to navigate.
+In Old Sallen, Sallen City Transit was the most efficient way to transport in Sallen City. Stopping in densely populated areas of Sallen, it was a very reliable system. All stations had unique (SUBJECTIVE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!) designs and feel, as well as the routes being more organized and simple to navigate.
 
 When modern-day Sallen was created (5/31/23), two now-abandoned stations were created to serve a proposed line: North Beach and Breen K. Sallen Road.
 
-SCT was the first system created on the modern-day Sallen server, with the Hamilton Blvd Lines (A)(C) being the first lines on the server [Fort Yasuko <-> Edgeword]. Now, SCT is expanding faster than ever, with many new lines being created to provide Sallen with fast and reliable service.
-
-Modern-day Sallen City Transit is arguably the most reliable way to get across Sallen City. Whether you're coming from Westfield Airport (spawn) or all the way from Planktonville, SCT is considered one of the fastest systems in Sallen.
-
-==== What's next? ====
-
-Sallen City Transit is getting closer and closer to completion, with the newest addition of the Crosstown Lines (7) <7>! It's the fastest growing company on the server, and it won't stop! Watch out, SCT could be coming to your local neighborhood.
+SCT was the first system created on the New Sallen server, with the Hamilton Blvd Lines (A)(C) being the first lines on the server [Fort Yasuko <-> Edgeword]. Now, SCT is expanding faster than ever, with many new lines being created to provide Sallen with fast and reliable service.
 
 ==== Routes ====
 
-SCT's (A) line was the first line (along with the C) to be created in New Sallen, running along Hamilton Blvd via the Express tracks. Originally, it ran from Fort Yasuko (Nexus Promenade) to Edgeword, however an extension was planned later on to extend the route in both directions. The (A) line now runs from Hillside Quay to Fairwoods, also known as the northernmost station in the server.
+=== SCT Hamilton Lines ===
 
-SCT's (C) line was the first line (along with the A) to be created in New Sallen, running along Hamilton Blvd via the Local track. Originally, it ran the same route as the (A) via the local tracks between Fort Yasuko and Edgeword, however when the Hamilton Blvd Lines were extended, the (C) was also extended to Berkley, the station directly south of Fairwoods.
-
-SCT's (E) line is considered one of the newer lines in Sallen, also running along Hamilton Blvd in its Northern portion via the Local track, however switches branches south of Holyoke. After a brief stop at Ashlan Park-Great Plains, it meets up with the (F), (M), and (R) lines at the Calgary Street branch via the Express tracks to the Madison Center.
-
-SCT's (F) line was the first route in SCT created solely by [[mtr_community:apache|apache]], initially running from Greenland-Manor to Fort Ridge. Starting from Fort Ridge, it runs with the (D) line on Davenport Boulevard on the local tracks, until meeting the (B) at Breen K. Sallen Bay. The incline between BKS Bay and Cedar Springs is infamous for being incredibly sharp((
-"also mmmm incline" - lily
-)). At Hillside Quay, it meets with the (R), and the (M) at Broadview. Although the portion between Hillside and Myrtle Viaduct is technically not part of Calgary Street, it is still counted as part of the branch itself. After the (M) and (R) terminate at Greenland-Manor, it will run local until branching off at Oculus Plaza, in which it runs alone to Octavia Square.
-
-SCT's (L) line was an incomplete collaboration with SMART Transit's Stelham Streetcar (SMART C, E), in which SMART LRT runs trams on the local tracks, where SCT runs the (L) on the express tracks.
-
-SCT's (R) line was the newest addition to SCT, proposed to run from Greenland-Manor to Joralemon Street. From Greenland-Manor to Hillside Quay, it runs on Calgary Street via the local tracks, however meets with the (N) and (W) to run crosstown until reaching Millford Avenue with the (Q). From there, it will run along Millford Avenue to its terminus on the local tracks, along with the (W). The (N) and (Q) will run via the express tracks.
-
-SCT's (1) line was the first IRT route in SCT, initially running from Westfield Airport (formerly Northwest Klein Airport) to Holyoke, however was then extended to Washington-Arlington Streets via Jabeur Av with the now closed down <1> line.
+| **Route/Branch** | **Termini** | **Yard Assignment** | **Status** |
+| **(A) **Hamilton Blvd Exp. | Fairwoods/Fort Yasuko | Hyperion Yard | 🚧 |
+| **(B) **Davenport Ave Exp. | Lenox Term/B.K.S. Bay | Lenox Ave Yard | ❌ |
+| **(C) **Hamilton Blvd Lcl. | Berkeley Park/Fort Yasuko | Hyperion Yard | 🚧 |
+| **(D) **Davenport Ave Exp. | Lenox Term/Fort Ridge | Fort Ridge Depot | ❌ |
+| **(E) **Hamilton Blvd Lcl. | Madison Center/WTC | S. Manorville Yard | 🚧 |
+| **(F) **Davenport Ave Lcl. | Octavia Sq/Fort Ridge | Fort Ridge Depot | ❌ |
+| **(J) **Brookfield Pl Lcl. | Madison Ctr/Embankment Sq | TBD | ❌ |
+| **(L) **Stelham St Lcl. | Broad St/Stelham Haven | TBD | ❌ |
+| **(M) **Davenport Ave Lcl. | Grld-Manor/Mauritius Bl | S. Manorville Yard | ❌ |
+| **(N) **Millford Ave Exp. | Yorktown/Fort Ridge | Fort Ridge Depot | ❌ |
+| **(Q) **Millford Ave Exp. | Kubrica Ctr/Fort Ridge | Fort Ridge Depot | ❌ |
+| **(R) **Millford Ave Lcl. | Grld-Manor/Joralemon St | S. Manorville Yard | ❌ |
+| **(S) **Market St Shuttle | TBD | Lenox Ave Yard | 🚧 |
+| **(W) **Millford Ave Lcl. | Yorktown/Joralemon St | TBD | ❌ |
+| **(Z) **Brookfield Pl Exp. | Madison Ctr/Embankment Sq | TBD | ❌ |
+| **(1) **Jabeur Drive Lcl. | Westfield Airport/Wash-Arlington | Westfield Rail Yard | ❌ |
+| **(2) **Jabeur Drive Exp. | Ashlan Park/West Kirkland | Lenox Term. Sidings | ❌ |
+| **(3) **Jabeur Drive Exp. | Sallen Pier/West Kirkland | Sallen Pier Sidings | ❌ |
+| **(4) **Moscato Bl Exp. | Sallen Pier/Augustia Heights | Sallen Pier Sidings | 🚧 |
+| **(5) **Moscato Bl Exp. | Lenox Term/Jericho Park | Lenox Term. Sidings | 🚧 |
+| **(6) **Moscato Bl Lcl. | Kingsbridge Rd/City Hall | Kingsbridge Yard | 🚧 |
+| **(7) **Crosstown Lcl. | Pomonok Village/Forest Park | S. Manorville Depot | ❌ |
+| **<7> **Crosstown Exp. | Pomonok Village/Forest Park | S. Manorville Depot | ❌ |
 
 <WRAP right>
 
 |  @#EFEEF0:  **SMART Transit**  ||
-| {{ st_logo.png?250 }} ||
+| {{ ..:st_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
 | **Owner** | [[mtr_community:Sir_MMK|Sir_MMK]] |
 | **Transit type** | American |
-| **Number of operating lines** | 3 |
+| **Number of operating lines** | 0 (1 WIP) |
 | **Real-Life Inspiration** | [[wp>Green_Line_(MBTA)|MBTA Green Line]] |
 
 </WRAP>
@@ -124,43 +135,19 @@ In August 2023, SMART Transit and Sallen City Transit collaborated to start cons
 
 <WRAP right>
 
-|  @#EFEEF0:  **SallenRail**  ||
-| {{ sallenrail_logo.png?250 }} ||
-|  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:Sir_MMK|Sir_MMK]] |
-| **Transit type** | American |
-| **Number of operating lines** | 2 |
-| **Real-Life Inspiration** | [[wp>Metro-North_Railroad|Metro-North Railroad (NYC)]] |
-
-</WRAP>
-
-===== SallenRail =====
-
-Sallen Commuter Rail, or SallenRail for short is a railroad company owned by SMART Transit. It was originally owned by SCT as "AirRed", but due to lack of funding & motivation by [[mtr_community:agentdevv|agentdevv]], it was sold to FT (Fries Technology).
-
-%%SallenRail Transportation was first a concept for many months. The first proposals for SallenRail were drafted in Late July of 2023. Initially, this was a collaboration project between SMART and the now shutdown ApacheRail (SRTC), with Broadview station being constructed in Early August by ApacheRail. It was proposed that SMART would maintain SallenRail north of Newton Terminal, and ApacheRail would maintain SallenRail south of Broadview Station. %%
-
-%%Later on, Newton Terminal would be built and progress quickly began with the Mainline having its first section open in September of 2023. M7/A and M8 models were supplied to SallenRail by Fries Technology (FT). %%
-
-%%In the same month, SallenRail opened the East End Line. The East End Line is a joint line operated by both SMART Transit and Lilypad Rail. With the East End Line and the Mainline rejoining at Great Plains which brings a direct link to Newton Terminal. The Birchwood Line is expected to open in January of 2024 bringing a unique change to how SMART handles its extensions with multiple branches spreading out at Birchwood Junction.%%
-
-
-
-<WRAP right>
-
 |  @#EFEEF0:  **Sallen Metropolitan Transit**  ||
-| {{ smt_logo.png?250 }} ||
+| {{ ..:smt_logo.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[starjunction]], SMT 7-10 formerly by [[mtr_community:apache|apache]] |
+| **Owner** | [[..:starjunction]] [[ |apache]] |
 | **Transit type** | Other/American |
-| **Number of operating lines** | 10 |
+| **Number of operating lines** | 0 (2 WIP) |
 | **Real-Life Inspiration** | [[wp>MTR|Hong Kong MTR]] (loosely) |
 
 </WRAP>
 
 ===== Sallen Metro Transit =====
 
-Sallen Metro Transit, or SMT was one of the four original companies in new Sallen (SCT, SMART, SMT, ApacheRail), mainly operating services in Clinton. It was created and now owned by [[starjunction]], also one of the three builders in Old Sallen.
+Sallen Metro Transit, or SMT was one of the four original companies in new Sallen (SCT, SMART, SMT, ApacheRail), mainly operating services in Clinton. It was created and now owned by [[..:starjunction]], also one of the three builders in Old Sallen.
 
 Initially, lines were given two different names based off the direction they were going in, similar to how [[wp>Grand_Theft_Auto_IV|GTA IV]]'s metro system worked. The (1) was named the 1/2, the (2) was named the 3/4, the (3) was named the 5/6, and so on and so forth.
 
