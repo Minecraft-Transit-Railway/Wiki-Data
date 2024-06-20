@@ -5,11 +5,12 @@ MTR Addons are Minecraft Mods that add new content and functionality (Such as bl
 ===== List of MTR Addons =====
 
 ==== MSD (aka: Station Decoration Addon) ====
+
 [[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that adds new Signs, PIDS and Catenary.
+
 <WRAP round download>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/station-decoration]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/station-decoration]]
 
 </WRAP>
 
@@ -21,19 +22,17 @@ MTR Addons are Minecraft Mods that add new content and functionality (Such as bl
 
 <WRAP round download 90%>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/mtr-nte]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/mtr-nte]]
 
 </WRAP>
 
 ==== Joban Client Mod ====
+
 [[mtr_addon:jcm:start|Joban Client Mod]] is an addon based on Minecraft Transit Railway Mod, adding various blocks from the Hong Kong MTR and utility blocks that will greatly improve your world. Some of the blocks this mod adds including Static Signal Light, Fare Saver machine, Railway Vision PIDS and other decoration blocks to help you build your very own railway system!
 
 <WRAP round download 90%>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/jcm]] \\
-<wrap notice round box>MTR 4</wrap> [[https://github.com/DistrictOfJoban/Joban-Client-Mod/releases]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap>[[https://modrinth.com/mod/jcm]] \\  <wrap notice round box>MTR 4</wrap> [[https://github.com/DistrictOfJoban/Joban-Client-Mod/releases]]
 
 </WRAP>
 
@@ -45,8 +44,7 @@ The module adds blocks for lines and urban construction, tactile paving, platfor
 
 <WRAP round download 90%>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/reality-c-c]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/reality-c-c]]
 
 </WRAP>
 
@@ -56,9 +54,7 @@ The module adds blocks for lines and urban construction, tactile paving, platfor
 
 <WRAP round download 90%>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://www.curseforge.com/minecraft/mc-mods/the-tube]] \\
-<wrap notice round box>MTR 4</wrap> (Same as MTR 4 beta releases link in Discord)
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://www.curseforge.com/minecraft/mc-mods/the-tube]] \\  <wrap notice round box>MTR 4</wrap> (Same as MTR 4 beta releases link in Discord)
 
 </WRAP>
 
@@ -68,8 +64,7 @@ The module adds blocks for lines and urban construction, tactile paving, platfor
 
 <WRAP round download 90%>
 
-**Download** \\
-<wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/russian-metro-addon]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/russian-metro-addon]]
 
 </WRAP>
 
