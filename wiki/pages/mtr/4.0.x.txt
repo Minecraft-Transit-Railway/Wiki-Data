@@ -6,7 +6,7 @@ Minecraft Transit Railway 4.0 is a major update to the Minecraft Transit Railway
 
 This releases focuses on refining the player experience, fixing numerous long-standing crashes and bugs, substantially improved frame-rate and adding long-requested features such as mixing carriage in a train.
 
-The version is currently in development, and no public releases has been made.
+The version is currently in development, and no stable releases has been made yet.
 
 ===== Changes & Additions =====
 
@@ -18,7 +18,11 @@ As an example, you can have an **SP1900 (Head), M-Train (Carriage) and K-Train (
 
 This is useful for mixed vehicle configuration (Such as coupled LRV with different phases), liveries and locomotives pulling other consists.
 
-{{:mtr:mtr4_consist.png?x400|UI Configuration for MTR 4 Consist}}
+{{:mtr:mtr4_consist.png?400|UI Configuration for MTR 4 Consist}}
+
+==== Different train acceleration & deceleration ====
+
+Train acceleration and deceleration is now separated
 
 ==== Rail Preview ====
 
@@ -61,6 +65,10 @@ OBJ model has been incorporated from NTE and is now integrated into MTR 4.
 This means MTR can now support detailed train/track models that are exported in the .obj format.
 
 ===== Notable Improvements =====
+
+==== Bridge Creator ====
+
+The speed of bridge creator has been increased to a more reasonable speed.
 
 ==== Distance Effect ====
 
