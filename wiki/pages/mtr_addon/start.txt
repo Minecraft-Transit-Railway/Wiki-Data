@@ -10,7 +10,7 @@ MTR Addons are Minecraft Mods that add new content and functionality (Such as bl
 
 <WRAP round download>
 
-**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/station-decoration]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/station-decoration]]
 
 </WRAP>
 
@@ -32,7 +32,7 @@ MTR Addons are Minecraft Mods that add new content and functionality (Such as bl
 
 <WRAP round download 90%>
 
-**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap>[[https://modrinth.com/mod/jcm]] \\  <wrap notice round box>MTR 4</wrap> [[https://github.com/DistrictOfJoban/Joban-Client-Mod/releases]]
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap> [[https://modrinth.com/mod/jcm]]
 
 </WRAP>
 
@@ -54,7 +54,7 @@ The module adds blocks for lines and urban construction, tactile paving, platfor
 
 <WRAP round download 90%>
 
-**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://www.curseforge.com/minecraft/mc-mods/the-tube]] \\  <wrap notice round box>MTR 4</wrap> (Same as MTR 4 beta releases link in Discord)
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://www.curseforge.com/minecraft/mc-mods/the-tube]]
 
 </WRAP>
 
