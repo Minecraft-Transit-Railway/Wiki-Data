@@ -8,8 +8,8 @@
 | **Based at** ||
 | Mayrowe-Anemone, Centralia ||
 | **Transit type** | Railway Transport |
-| **Train models** | 8 |
-| **Active lines** | 0 |
+| **Train models** | 9 |
+| **Active lines** | 3 |
 </WRAP>
 
 ===== Info =====
@@ -19,12 +19,15 @@
 ===== Services =====
 
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#0063D3: **Sprinter**  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  @#0063D3: **Sprinter**  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  @#0063D3: **Sprinter**  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+|  @#FFC917: **Intercity**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
 
 ===== Lines =====
 
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Planned  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  [[mtr_letsplay:riverinaline|Riverina Line]]  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:collinsstreet|Albury Collins Street]]  |
 
 ===== Fleet =====
 
@@ -32,11 +35,12 @@
 |  LRC  |  S43-Tec LRV 2010  |    |    |
 |  GNUS  |  BVG Class H  |    |    |
 |  AM  |  S43-Tec Aurora (Metro)  |    |    |
-|  AS  |  S43-Tec Aurora (Suburban)  |    |  Hylkemare Platform 4  |
+|  AS  |  S43-Tec Aurora (Sprinter)  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Gapyeong Sidings  |
 |  OHS  |  BR Class 508  |    |    |
 |  OLS  |  BR Class 378  |    |    |
-|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Hylkemare Siding  |
-|  ICFR  |  Yuunitetsu 701  |    |  Hylkemare Platform 8  |
+|  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Royal Park Depot  |
+|  ICFR  |  Yuunitetsu 701  |    |    |
+|  HSDD  |  NS VIRM  |  [[mtr_letsplay:riverinaline|Riverina Intercity]]  |  Yongchun Sidings  |
 
 ===== Screenshots =====
 |{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station, as seen from a somewhat birds-eye view. On a rare occasion like this, all platforms are occupied.}}|
