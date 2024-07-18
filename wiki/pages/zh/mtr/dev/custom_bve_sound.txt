@@ -1,0 +1,63 @@
+
+====== 自定义BVE格式音频 ======
+
+Minecraft Transit Railway mod支持一定程度上应用BVE Trainsim和OpenBVE的列车声音。
+
+该教程涵盖了如何应用BVE/OpenBVE的列车音效的内容，以用于自定义资源包。
+<WRAP round info>
+
+该文章发表于 [[https://www.joban.org/wiki/MTR:Custom_BVE_Train_Sound]], 且并未包括导入BVE Trainsim 5/6中的音效的步骤。
+
+您可以通过弥补其他的内容来帮助改进本页面。
+
+</WRAP>
+
+===== 开始之前，您需要—— =====
+
+  - 添加Minecraft游戏音效, [[mtr_extra:making_a_resourcepack|通过资源包添加自定义列车]]，以及JSON文件格式的知识；
+  - 可用的BVE4/OpenBVE列车
+  - 一列通过资源包被添加进游戏的的MTR mod列车，Livery同样适用；
+  - 可导入 **.ogg** 格式文件的软件 (例如 [[https://www.audacityteam.org|Audacity]])
+  - //(可选，但便于制作)// 批量重命名软件 ([[https://github.com/microsoft/PowerToys|PowerToys]]制作的**PowerRename**, 可在Linux上运行的[[https://apps.kde.org/krename/|KRename]]等)
+
+===== 步骤 =====
+
+  - 复制一份BVE/OpenBVE列车文件夹, **请注意一定要在最新一份副本文件夹内进行编辑，而不是原文件夹。**
+  - 找到列车音效所在文件夹. 其可能位于主列车文件夹中 (一些声音文件),或者在列车文件夹中的另一个 //sound// 文件夹中。 (它们通常包含很多 **.wav/.flac** 格式的文件)
+  - //倘若您找到了其他的声音文件夹//, 只需把全部声音文件丢进主列车文件夹。
+  - 删除除了 ***.wav, *.flac**, **train.dat**  **sound.cfg** 格式以外的所有文件。
+  - 将 **所有文件** **(包括 sound.cfg 和 train.dat)** 重命名为 __小写字母文件名__。 您可使用软件进行修改，亦或者手动修改。
+  - 编辑**sound.cfg** 文件, 在''Version 1.0:''这一行之下添加以下内容：<code - sound.cfg>
+[MTR]
+MotorNoiseDataType = 4
+MotorVolumeMultiply = 1
+DoorCloseSoundLength = 1
+</code>
+  - **下面是一些配置内容的说明:**
+    - ''MotorNoiseDataType = 4'' 表面其是一个BVE4/OpenBVE格式(train.dat)的电机数据文件；
+    - ''MotorVolumeMultiply = 1''尚需进一步的解释。由于两款游戏在性质上的不同，有时BVE上train's creator的音量设置会在Minecraft中显得有些小, 因此添加该设置是为了“扩大”这个音量的。但MC将MTR可通过编程获得的音量大小掐在了100%，令人头疼。因此，若train.dat中设置的音量适中，但WAV音频却声音较小，该设置将不会起作用。 (比如最开始的音量大小是90%，想通过设置让他翻个倍达到180%，可MC将其锁定在100%了，所以调整此设置几乎不会让音频的声音明显增大。) 此时，你需要使用Audition这类音频编辑软件来调整音频文件的音量大小（这类东西一般某度都有）。此外，WAV音频文件如果声音很大，但train.dat中设置的音量很小，调整这个设置兴许有用。 (10%的音量翻一倍就是20%还不会有限制) 数值1代表原始音量的100%，2代表200%，以此类推。
+    - ''DoorCloseSoundLength = 1'' 用于确定关门声音应该开始播放的时间。其数值应为声音的持续时间，单位为秒。因MTR模组特性，不支持15以上的数值。
+  - 当您编辑完后，sound.cfg文件应该长成这样:
+    - {{:mtr:dev:mtr-bve1.png}}
+  - 重命名你的BVE**列车文件夹**，需要全小写且无空格（可使用下划线代替）。之后，他将成为今后要使用的**Train sound ID**。
+  - 导入所有 .**wav/.flac** 格式的文件到一个音频编辑器，然后把他们转为 **单声道的音频**。
+  - 导出所有**.wav/.flac**文件为**.ogg**格式(Audacity通过**File > Export > Export Multiple**,选择''Ogg Vorbis Files''以导出文件)
+  - 把列车文件夹复制到''你的资源包名称/assets/mtr/sounds''路径下(不存在该文件夹的话创建即可)
+  - 在''Your Resource Pack/assets/mtr''路径下新建sounds.json文件。若已创建，可参考 [[https://github.com/jonafanho/Minecraft-Transit-Railway/blob/0daf388b7f62868502753c55a3264c545b5dd569/resources/common/normal/assets/mtr/sounds.json|示例]].
+  - 在sounds.json中为''sound.cfg''中的每一个声音文件创建条目，sound ID应为''trainSoundID_filename''
+  - sounds.json应如下图所示(本教程使用''kksp''作为列车文件夹名称):
+    - {{:mtr:dev:mtr-bve2.png?600}}
+  - 最后，在''mtr_custom_resources.json''的''custom_trains''条目下添加以下内容, ''soundID'' 替换为你的sound ID或者列车文件夹名称:
+    - ''"bve_sound_base_id": "soundID"''
+
+''mtr_custom_resources.json'' 中的列车应如下图所示:
+
+{{:mtr:dev:mtr-bve3.png}}
+
+现在启动游戏，列车音效应该可以正常播放了。
+===== 注释/疑难解答 =====
+
+  - **您需要在侧线中重新选择列车。如更改了音频设置，需要重启客户端（其实F3+T就可以更新资源包）**
+  - ''point.ogg'' 在过道岔时会播放，这一点与BVE不同（指过道岔）。如果觉得音频不合适就可以在sounds.json中把它删了
+  - 空档滑行时也能听到电机音。这是为了模拟适当加速以保持当前速度。
+
