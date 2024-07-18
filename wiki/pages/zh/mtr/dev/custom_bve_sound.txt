@@ -19,7 +19,7 @@ Minecraft Transit Railway mod支持一定程度上应用BVE Trainsim和OpenBVE�
 
   - 添加Minecraft游戏音效, [[mtr_extra:making_a_resourcepack|通过资源包添加自定义列车]]，以及JSON文件格式的知识；
   - 可用的BVE4/OpenBVE列车
-  - 一列通过资源包被添加进游戏的的MTR mod列车，Livery同样适用；
+  - 一列通过资源包被添加进游戏的的MTR mod列车，也可以是原版模型修改涂装的列车；
   - 可导入 **.ogg** 格式文件的软件 (例如 [[https://www.audacityteam.org|Audacity]])
   - //(可选，但便于制作)// 批量重命名软件 ([[https://github.com/microsoft/PowerToys|PowerToys]]制作的**PowerRename**, 可在Linux上运行的[[https://apps.kde.org/krename/|KRename]]等)
 
