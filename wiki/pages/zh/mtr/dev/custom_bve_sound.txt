@@ -11,6 +11,9 @@ Minecraft Transit Railway mod支持一定程度上应用BVE Trainsim和OpenBVE�
 您可以通过弥补其他的内容来帮助改进本页面。
 
 </WRAP>
+<WRAP center round important 60%>
+如果您要移植BVE格式声音，请确保您没有侵犯他人的著作权。部分作者可能会追究盗版其作品的人员的法律责任。
+</WRAP>
 
 ===== 开始之前，您需要—— =====
 
