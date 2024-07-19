@@ -12,8 +12,9 @@
 |  {{ :mtr_community:gapyeong.png?300 }}//Station Overview//  ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:gyeongchun_railway|Gyeongchun Railway]] |
-| ::: | Origin Railway |
+| ::: | [[mtr_letsplay:origin_railway|Origin Railway]] |
 | ::: | [[mtr_letsplay:mrw|Moszyan Railways]] |
+| ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
 | **Lines** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] |
 | ::: | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] |
 | ::: | [[mtr_letsplay:riverinaline|Riverina Intercity]] |
@@ -34,7 +35,7 @@
 | @#ffffff:  | White |
 ^   **Station**   ^^
 | **Type** | Ground/Underground |
-| **Floors** | - |
+| **Floors** | 4 |
 | **Platform Floors** | 2 |
 | **Step-Free Accessible** | Yes |
 | **Station Code** | GPY |
@@ -61,7 +62,6 @@ After moving the platform of a long-distance train, the two platforms on the gro
 
 <WRAP left>
 
-**Metro Phase**
 | **1** | Shops and Station Facilities ||
 | **G** | Ground Platforms and Exit | Exit A |
 | ::: | @#178C72: **[[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] <color #ffffff>Platforms</color>** ||
