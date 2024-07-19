@@ -1,0 +1,17 @@
+====== Soodari ======
+
+<WRAP right>
+|  @#0054A6:  <color #FFFFFF>**Soodari**</color>  |||
+| {{ :mtr_community:soodari_skin.png?300 }}Photo TBD((It is difficult to select a photo because Soodari's skin changes frequently.)) |||
+|  @#0054A6:  <color #FFFFFF>**Profile**</color>  |||
+| **Known as** | Soodari ||
+| **MTR Discord Join Date** | (09/01/2022) ||
+| **Roles** | Train Operators ||
+| ::: | Resource Pack Authors ||
+| ::: | Let's Play Members ||
+| **Pronouns** | he/they ||
+| **Languages** | Korean/English ||
+| **Timezone** | (GMT+9) ||
+</WRAP>
+
+Soodari is a member of MTR discord, which mainly produces train [[mtr_extra:start|Resource Pack]] in the Asia-Pacific region and developing southwestern region on the [[mtr_letsplay:start|Let's Play Server]].
