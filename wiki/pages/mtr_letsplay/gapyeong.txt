@@ -1,0 +1,97 @@
+====== Gapyeong Station ======
+
+<WRAP right>
+
+|   @#178C72: <color #ffffff>**Gapyeong**</color>   ||
+| @#37B366: ||
+| @#FFC917: ||
+| @#AE0D3F: ||
+| @#0063D3: ||
+| @#3C78D8: ||
+| @#14B9DE: ||
+|  {{ :mtr_community:gapyeong.png?300 }}//Station Overview//  ||
+^   **Overview**   ^^
+| **Operators** | [[mtr_letsplay:gyeongchun_railway|Gyeongchun Railway]] |
+| ::: | Origin Railway |
+| ::: | [[mtr_letsplay:mrw|Moszyan Railways]] |
+| **Lines** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] |
+| ::: | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] |
+| ::: | [[mtr_letsplay:riverinaline|Riverina Intercity]] |
+| ::: | [[mtr_letsplay:riverinaline|Riverina Sprinter]] |
+| ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
+| ::: | [[mtr_letsplay:mount_birch_line|Mount Birch Line]] |
+| ::: | [[mtr_letsplay:nami_island_ferry|Nami Island Ferry]] |
+| **Owners** | [[mtr_community:builders:soodari|Soodari]] |
+| **Region** | [[mtr_letsplay:gapyeong_region|Gapyeong]] |
+| **Platforms** | 14 |
+| **Tracks** | 14 |
+| **Coordinates** | (-15660, 19768) |
+^   **Translations**   ^^
+| **Chinese** | 加平 |
+| **Korean** | 가평 |
+^   **Colors**   ^^
+| @#178C72:  | Teal |
+| @#ffffff:  | White |
+^   **Station**   ^^
+| **Type** | Ground/Underground |
+| **Floors** | - |
+| **Platform Floors** | 2 |
+| **Step-Free Accessible** | Yes |
+| **Station Code** | GPY |
+| **Opened** | 12 September, 2023 |
+| **Electrification** | AC 25kV |
+
+
+</WRAP>
+
+**Gapyeong Station** (//Chinese: 加平站//) is the main train station in the Gapyeong region, and it is made with a motif of real [[wp>Gapyeong station|Gapyeong station]].
+There's the Terrralith Desert Village, a cafe, and the unused parkour building near station, and people can catch a ferry to Nami Island.
+
+===== History =====
+
+Gapyeong Station opened in September 2023, initially for the Gyeongchun Line and express services only. Only four tracks existed at the time.
+
+Later, Riverina Express (now owned by [[mtr_letsplay:mrw|Moszyan Railway]]) entered Gapyeong Station, and the ground platform was expanded as the branch line of the Mount Birch Line was extended to here.
+
+In order to increase track capacity and reduce train delays, operator thought it was necessary to separate the platforms of long-distance and intercity trains from commuter train platforms, so new underground platform built in 2024.
+
+After moving the platform of a long-distance train, the two platforms on the ground and two underground platforms are empty now, but trains that take turns at Gapyeong Station or trains with Gapyeong Station as their last stop can use them in the future.
+
+===== Layout =====
+
+<WRAP left>
+
+**Metro Phase**
+| **1** | Shops and Station Facilities ||
+| **G** | Ground Platforms and Exit | Exit A |
+| ::: | @#178C72: **[[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] <color #ffffff>Platforms</color>** ||
+| ::: | @#FFFFFF: **TBD Platforms** ||
+| ::: | @#3C78D8: **[[mtr_letsplay:mount_birch_line|Mount Birch Line]] <color #ffffff>Platforms</color>** ||
+| ::: | @#0063D3: **[[mtr_letsplay:riverinaline|Riverina Sprinter]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **1** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **2** | Platform Not In use ->  |
+| ::: | Platform **3** | <- [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] to [[mtr_letsplay:cheongnyangni|Cheongnyangni]] |
+| ::: |   Island Platform   ||
+| ::: | Platform **4** | <- Platform Not In use |
+| ::: | Platform **5** | [[mtr_letsplay:riverinaline|Riverina Sprinter]] Terminated Platform -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **6** | [[mtr_letsplay:mount_birch_line|Mount Birch Line]] to [[mtr_letsplay:einsburg_west|Einsburg West]] -> |
+| ::: | Platform **7** | <- [[mtr_letsplay:mount_birch_line|Mount Birch Line]] Terminated Platform |
+| ::: |   Island Platform   ||
+| ::: | Platform **8** | <- [[mtr_letsplay:riverinaline|Riverina Sprinter]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]] |
+| **B1** | **Concourse** | Exit B Passageway |
+| **B2** | @#37B366: **[[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] Platforms** ||
+| ::: | @#FFC917: **[[mtr_letsplay:riverinaline|Riverina Intercity]] Platforms** ||
+| ::: | @#AE0D3F: **[[mtr_letsplay:crosscountry|CrossCountry]] <color #ffffff>Platforms</color>** ||
+| ::: | @#FFFFFF: **TBD Platforms** ||
+| ::: | Platform **9** | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **10** | <- [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:yongsan|Yongsan]] |
+| ::: | Platform **11** | [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:yongchun|Rikkashi Yongchun]] -> |
+| ::: |   Island Platform   ||
+| ::: | Platform **12** | <- [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]]/[[mtr_letsplay:portsmouth|Portsmouth]] |
+| ::: | Platform **13** | Platform Not In use ->  |
+| ::: |   Island Platform   ||
+| ::: | Platform **14** | <- Platform Not In use |
+</WRAP>
