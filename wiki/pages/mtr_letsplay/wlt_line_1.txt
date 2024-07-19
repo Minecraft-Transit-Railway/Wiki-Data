@@ -78,6 +78,8 @@ Originally, the rename would be done when the line extends to Yanjiang Mineshaft
 
 As Denthrope Hauptbahnhof has been closed for renovation and has stopped all its train services since 20 November 2023, the transportation in the Denthrope area gets inconvenient again. Moreover, some players request to reopen [[/mesa_station|Mesa]] station to provide a faster and more direct way of southbound trains in West Denthrope. After some analysis, it is found that players can continuously get better off for a Mesa to Northern Snow Village connection even when Denthrope Hauptbahnhof finishes renovation and reopens. WLT reorganises the works on hand and quickly gets the trackage, sidings and schedules ready. **Line 1 (Meyan Line)** reopens Mesa station and runs trains to Northern Snow Village station as the **N. Section Temp Shuttle** starting from 16 January 2024.
 
+Originally, the reopening of the section between Northern Snow Village station and Hung Ngai Tung station will be after Tung Yuen, Ying Mo and Chi Chuk stations are ready for opening and serving passengers. Yet the focus has changed in May to enhance the connectivity between different regions. Therefore, the rebuilding progress speeded up and finished in mid May 2024. Meanwhile, as the arrangement of trains turning back at the platforms of Kwong Chow station puts a large limitation on train intervals, **Line 1 (Meyan Line) Phase 1** also operates to Tai Po station, two more stations after Kwong Chow, striving a better southward connection. The long awaited Tai Po - Sharp Island section of [[/wr_mimura_line|WR Mimura Line]] is also taken over by WLT for construction. The network enhancement is done on 18 May 2024. 
+
 It is noticed that there was a lack of rapid transit connections between [[/northern_snowland|Northern Snowland]], [[/east_north_tundra_area|East North Tundra]] and [[/resort_area|Resort]]. Commuters were encouraged to head to busy hub [[/spawn_station|Spawn]] or Llanmara unnecessarily. There are also two spare platforms at [[/ghost_forest_station|Ghost Forest]] station which original builder has left and abandoned the plan. To improve the journeys, **Line 1 (Meyan Line)** branches out from Tung Yuen and turn east for [[/zuidbaai_centraal_station|Zuidbaai Centraal]] station, then heading ENE towards Ghost Forest station, and heading ESE towards [[mei_foo_wan_station|Mei Foo Wan]] station. 2 more stations [[/chung_kong_station|Chung Kong]] and [[/haymarket_station|Haymarket]] are added for future interchanges to further enhance the connectivity. 
 
 The branch is opened as trial service soon after tracks are primarily done and Ghost Forest station, Mei Foo Wan station are available for passengers boarding and alighting. Remaining works will be gradually done along with those on the existing sections. 
@@ -111,7 +113,7 @@ Currently 25 sets of SP1900 Trains and 2 sets of MLR Trains are available for us
 There will be 13 more sets of SP1900 Trains and 1 more set of MLR Trains as the last batch, making up a fleet of 38 sets of SP1900 Trains and 3 sets of MLR Trains, for more frequent trains on the fully done Line 1 (Meyan Line). 8 additional sets of SP1900 Trains are added as the Mei Foo Wan branch needs more trains to run, making the whole fleet up to a total of 49 sets of trains. 
 
 ^  Car Formation of SP1900 Trains  |||||^
-| //<- To Tai Po// |||  //To Mesa ->// |||
+| //<- To Tai Po// |||  //To Mesa / Mei Foo Wan ->// |||
 |  D1xx(odd) - P1xx(odd) + M1xx(even) - P1xx(even) - D1xx(even)  ||||||
 |  //xx refers to any number from 07 to 98//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -126,7 +128,7 @@ Only for odd numbers
 |  **M1xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 
 ^  Car Formation of MLR Trains  |||||^
-| //<- To Tai Po// |||  //To Mesa ->// |||
+| //<- To Tai Po// |||  //To Mesa / Mei Foo Wan ->// |||
 |  D1xx(odd) - P1xx(odd) + L1xx(even) - P1xx(even) - D1xx(even)  ||||||
 |  //xx refers to any number from 01 to 06//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
