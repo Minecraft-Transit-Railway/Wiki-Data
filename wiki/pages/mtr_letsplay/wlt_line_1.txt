@@ -11,7 +11,7 @@
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | West Denthrope (Mesa)\\ [[/resort_area|Resort]]\\ [[/east_north_tundra_area|East North Tundra]]\\ [[/zuidbaai_centraal_station|Zuidbaai]]\\ [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/tai_po_station|Tai Po]] |
-| **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line (WIP)</color> |
+| **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
 | ::: | @#FFFFFF:<color black>Metro Marble Line</color> |
 | ::: | @#7BACF6:<color black>Shinx Line</color> |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
