@@ -182,11 +182,11 @@ For **Line 2 (Kwong Chow - North Coast Line) W. Section**, there are a mix of 4-
 |  @#FFDA33:  |||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**  ||
 |  |  Kwong Chow - Spawn  |  Kwong Chow - Forest Peaks  |
-|  5 am - 9 am  |  6  |  12  |
-|  9 am - 9 pm  |  4  |  4 / 8  |
-|  9 pm - 11 pm  |  3  |  3 / 6  |
-|  11 pm - 1 am  |  4  |  4 / 8  |
-|  1 am - 3 am  |  6  |  12  |
+|  5 am - 9 am  |  3 / 9  |  12  |
+|  9 am - 9 pm  |  3 - 6  |  6  |
+|  9 pm - 11 pm  |  2.1 - 4.2  |  4.2  |
+|  11 pm - 1 am  |  3 - 6  |  6  |
+|  1 am - 3 am  |  3 - 9  |  7 - 12  |
 
 </WRAP>
 
@@ -197,8 +197,8 @@ For **North Coast Line**, trains are serving from Coast City to Makki Memorial V
 ^  Average Train Intervals (in mins)  |^
 |  @#005A9C:  ||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **North Coast Line**  |
-|  Assuming server TPS = 19.67  ||
-| \\ All Day\\ <html>&nbsp</html> |  \\ 4.1  |
+|  Assuming server TPS = 19.00  ||
+| \\ All Day\\ <html>&nbsp</html> |  \\ 4.2  |
 
 </WRAP>
 
