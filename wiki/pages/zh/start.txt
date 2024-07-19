@@ -6,22 +6,22 @@
 
 ===== 更多资源 =====
 
-  * [[zh:mtr_extra:start|资源包]] - 用于MTR的资源包介绍
+  * [[zh:mtr_extra:start|资源包]] - 用于 MTR 的资源包介绍
   * [[zh:mtr_extra:resourcepack:make|制作资源包]] - 如何制作资源包
     * [[mtr_extra:resourcepack:make:texture|更改列车贴图]] - 如何更改已有列车的贴图
     * [[mtr_extra:resourcepack:make:model|列车建模]] - 如何加入你自己的列车
     * [[mtr_extra:resourcepack:make:others|其他]] - 如何在你的资源包中加入声音、标志等
   * [[mtr_extra:resourcepack:faq|常见问题]] - 一些关于资源包的问题
-  * [[zh:mtr_addon:start|使用MTR相关模组]] - MTR相关模组概述
+  * [[zh:mtr_addon:start|使用 MTR 相关模组]] - MTR相关模组概述
 
 
 ===== 多人游戏服务器 =====
 
   * [[zh:mtr_letsplay:start|Let's Play 服务器]] - MTR 模组的官方服务器
-  * [[mtr_community:start|MTR社区]] - 其他的拥有服务器，以及更多的MTR社区
+  * [[mtr_community:start|MTR 社区]] - 其他的拥有服务器，以及更多的 MTR 社区
 
 ===== 在 Wiki 上写文章 =====
 
 Wiki 共笔网站就是要汇聚众多人的见解。注册账号之后，您即可编辑补充本站内容，或增添新内容，以更好地将 MTR 介绍给更多人。
-  * 确保你阅读了 [[wiki_guidelines|维基指南]] 和 [[edit_guideline|编辑指南]].
+  * 确保你阅读了 [[wiki_guidelines|维基指南]] 和 [[edit_guideline|编辑指南]]。
 
