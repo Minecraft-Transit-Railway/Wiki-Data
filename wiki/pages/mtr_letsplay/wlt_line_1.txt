@@ -172,9 +172,9 @@ The line will become one of the important, fast and convenient north-south conne
 |  English  |||  Chinese  |  Abbreviation((
 Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 ))  | ::: | ::: | ::: |
-|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) - Phase 1 & N. Section Temp Shuttle**</color>  ||||||||
-|  @#F7B85A:  |  @#202020:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line (WIP)</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
-| ::: | ::: | ::: | ::: | ::: |  @#94d1d1:  Line 3 (Cyan Gray Line) (WIP)  | ::: | ::: |
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1**</color>  ||||||||
+|  @#F7B85A:  |  @#202020:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
+| ::: | ::: | ::: | ::: | ::: |  @#94d1d1:  Line 3 (Cyan Gray Line)  | ::: | ::: |
 |    | ::: |  <color #808080>//Chi Chuk//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
@@ -184,7 +184,11 @@ Not finished construction and not open
 | ::: | ::: | ::: | ::: | ::: |  [[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
 |  @#202020:  |    |  [[/mei_foo_wan_station|Mei Foo Wan]]((Station is WIP but available for entering and exiting))  |  %%美麩灣%%  |  MFW  |    |  2 July, 2024  |  [[/resort_area|Resort Area]]  |
 | ::: |    |  <color #808080>//Haymarket//</color>((Not finished construction and not open))  |  <color #808080>//%%喜瑪旗%%//</color>  |  <color #808080>//HAY//</color>  |  Oculink Red Line  |  |  :::  |
-| ::: |    |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  Metro Marble Line  |    |  [[/east_north_tundra_area|East North Tundra Area]]  |
+| ::: |    |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  Metro Marble Line  |  11 March, 2023  |  [[/east_north_tundra_area|East North Tundra Area]]  |
+| ::: |    |  <color #808080>//Zuidbaai Centraal//</color>((Not finished construction and not open))  |  <color #808080>//%%醉白池總站%%//</color>  |  <color #808080>//ZUI//</color>  |  Hillside Line  |  |  Zuidbaai  |
+| ::: | ::: | ::: | ::: | ::: |  Light Rail Metro  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  BCT Blue Line (via Zuidbaai)  | ::: | ::: |
+| ::: |    |  <color #808080>//Chung Kong//</color>((Not finished construction and not open))  |  <color #808080>//%%松江%%//</color>  |  <color #808080>//CHK//</color>  |  @#94D1D1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  |  :::  |
 |    ||  <color #808080>//Tung Yuen//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%凍原%%//</color>  |  <color #808080>//TUY//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ Northern Snowland  |
@@ -201,7 +205,5 @@ Not finished construction and not open
 |   ||  //[[/yuen_chow_kok_station|Yuen Chow Kok]]//((
 Not finished construction and not open
 ))  |  <color #808080>//%%圓周角%%//</color>  |  YCK  |   |   | ::: |
-|   ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F: [[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((
-Interchange only
-))  | ::: |
+|   ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F:[[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((Interchange only))  | ::: |
 
