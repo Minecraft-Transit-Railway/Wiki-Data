@@ -17,10 +17,12 @@
   * **Sightseeing Line System**
     * K2-K3: (Express) Al-Tighnari -> Ostania
     * K4-K1: (Express) Ostania -> Al-Tighnari
+    * K6-K3: (Express) T.U.Martissu -> Ostania
+    * K4-K5: (Express) Ostania -> T.U.Martissu
     * 41: Cyan Heights -> Twilight Spruce
     * 42: Twilight Spruce -> Cyan Heights
-    * 51: Scarlet D. Mansion -> Bloom H. MiXue ICT
-    * 52: Bloom H. MiXue ICT -> Scarlet D. Mansion
+    * 51: Scarlet D. Mansion -> T.U.Martissu
+    * 52: T.U.Martissu -> Scarlet D. Mansion
 
   * **Sightseeing Local Line**
     * 11: Cyan Heights -> Scarlet D. Mansion
