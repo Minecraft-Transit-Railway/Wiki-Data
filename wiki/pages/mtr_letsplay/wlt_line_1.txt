@@ -154,7 +154,7 @@ Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternati
 | ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
 |  5 am - 9 am  |  3 / 6  |  9  |  8.5 / 9.5  |
 |  9 am - 9 pm  |  3  |  6  |  5.5 / 6.5  |
-|  9 pm - 11 pm  |  2.1  |  4.2  |  3.7 / 4.7  |
+|  9 pm - 11 pm  |  2.1  |  4.2  |  3.6 / 4.8  |
 |  11 pm - 1 am  |  3  |  6  |  5.5 / 6.5  |
 |  1 am - 3 am  |  3 / 6  |  9  |  8.5 / 9.5  |
 
