@@ -9,7 +9,7 @@
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
 | **Status** | Operational <color #FFDA33>(West section)</color>\\ //(Kwong Chow - Forest Peaks)//\\ Under construction\\  //(West Lake, See Tsuen)//\\ Operational <color #005A9C>(East section)</color>\\ //(Coast City - Makki Memorial Village)// |
-| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)// |
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/forest_peaks_station|Forest Peaks]]\\ //(West section temporary terminus)//\\ [[/coast_city_station|Coast City]]\\ //(East section temporary terminus)//\\ [[/ostania_station|Ostania]]\\ //(future through-running service with [[/cyanex|CyanEX Rapid Transit]])//\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
@@ -20,9 +20,9 @@
 | ::: | @#1C7670:<color white>Airport Express(WIP)</color> |
 | ::: | Scottetsu Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
-| ::: | (Bayside) Red Line |
+| ::: | BCT Red Line |
 | ::: | High Speed Rail |
-| ::: | Pengaloo Line |
+| ::: | Metro Pengaloo Line |
 | ::: | AT Metro |
 | ::: | AT Regional |
 | ::: | [[/lilac_light_rail|Lilac Light Rail]] |
@@ -31,9 +31,9 @@
 | ::: | Kallos Ferry |
 | **Stations** | 10 //(3 work in progress)// |
 ^  Service  |^
-| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]] //(West section)//\\ [[/qingli_railways|QLR]] //(East Section)// |
 | **Service Hours** | 04:49 - next day 03:29 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(West Section)//\\ 04:06 - next day 03:54\\ //([[wp>UTC+08:00|UTC+8]])//\\ //(East Section)// |
-| **Frequency** | Every 3 - 12 mins |
+| **Frequency** | Every 2 - 12 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]]\\ [[wp>Line_1_(Shanghai_Metro)#Technology#Rolling_Stock|01A06]] |
 ^  History  |^
@@ -94,7 +94,7 @@ The merge is later split into two stages because of the amount of work needed to
 
   * 7 August, 2023: Revised proposal published.
   * 26 November, 2023: Proposed merge of WLT Line 2 and QLR North Coast Line.
-  * 5 March, 2023: [[mtr_community:staff:sleepy_sapph|LPR]]'s proposed adding Dragon Loop Centre station.
+  * 5 March, 2023: [[mtr_community:staff:sleepy_sapph|LPR]] proposed adding Dragon Loop Centre station.
   * 15 March, 2023: Proposed branch through-running service with Cyan Twilight Line and Bond Line.
   * 24 June, 2023: Started special shuttle service.
   * 25 June, 2023: Ended special shuttle service.
