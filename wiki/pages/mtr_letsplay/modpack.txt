@@ -14,7 +14,8 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 
   * Click the **Add Instance** button on the top-left corner.
   * Click **Import from ZIP** on the left side, then paste the link into the field on the right. And then click OK.
-  * Assigning 6 GiB or more to Java is recommended. To edit that, select the new instance, click the "edit" button on the right, select "Settings" on the left, tick the "Memory" checkbox and set "Maximum memory allocation" to at least 6144 MiB. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
+  * **Make sure Java 17 is selected.** To edit that, select the new instance, click the "edit" button on the right, select "Settings" on the left, tick the "Java installation" checkbox and click on "Auto-detect". \\ {{:mtr_letsplay:prism_java_setting.png?nolink&600|}} \\ Select an entry starting with "17" in the dialog. If none is present, [[https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html|download Java 17 from Oracle]]. 
+  * **Assigning 6 GiB or more to Java is recommended.** Tick the "Memory" checkbox right below "Java installation" and set "Maximum memory allocation" to at least 6144 MiB. (Also, If your PC has less than 16 GiBs of RAM in total, it might be insufficient for gameplay on LetsPlay.) \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. 
   * Double click the new instance. Wait a bit and you'll see a window like this:
 
 
