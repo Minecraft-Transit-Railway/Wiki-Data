@@ -24,7 +24,7 @@ For creating custom trains and signage, see [[mtr_extra:making_a_resourcepack|Ma
 
 For importing custom train running sound from BVE4/OpenBVE to an existing MTR custom train, see [[mtr:dev:custom_bve_sound|Custom BVE Train Sound]].
 
-===== Where can I find one ? =====
+===== Where can I find one? =====
 
 You can find Resource Packs on the [[https://addons.minecrafttransitrailway.com|MTR Addons Site]], which is new, and currently in it's beta phase.
 There is also a dedicated channel in the [[https://discord.gg/PVZ2nfUaTW|MTR Discord server]], which will become deprecated after the full release of the MTR Addons Site. Some packs have a page on this wiki, they are listed down below:
