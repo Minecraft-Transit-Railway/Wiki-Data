@@ -10,7 +10,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
   * 由于MTR 4仍在开发中，尚未正式发布.
 
-===== 面向玩家的变化 =====
+===== 更改或添加的功能 =====
 
 待完成...
 
