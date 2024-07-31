@@ -38,4 +38,4 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 由于后端的大量重写，大部分依赖于MTR的附属模组都需要更新，需要更新的模组的菜单可在[[mtr_addon:start|此处]]查看，拥有兼容MTR3或MTR4的标签提示
 
-非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4((mtr_addon:start))(Nemo's Transit Expansion除外，其中大部分功能已合并进MTR中)
+非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4(([[mtr_addon:start]]))(Nemo's Transit Expansion除外，其中大部分功能已合并进MTR中)
