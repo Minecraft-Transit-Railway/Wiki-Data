@@ -1,9 +1,10 @@
 ====== 版本 4.0.X ======
 
-Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重大更新，MTR3.2的下一个版本，目前正在开发中。现有的MTR 3存档可直接升级至MTR 4(但是会有少量问题)
+Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重大更新，MTR3.2的下一个版本。现有的MTR 3存档可直接升级至MTR 4(但是会有少量问题)。
 
+此版本重点在于优化玩家体验，修复许多长期存在的崩溃和bug，大幅提高帧率，并添加玩家们长期要求添加的功能，如混合编组列车。
 
-
+此版本目前还处于开发阶段，尚未有正式版发布。
 
 ===== 发布 =====
 
