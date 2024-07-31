@@ -20,8 +20,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 ==== Minecraft-Mappings ====
 
-[[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]]项目已重写，允许在多个Minecraft版本和跨modloader之间进行开发。这取代了以前由MTR 3使用的多平台对**建筑**的需求.
-
+[[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]]项目已重写，允许在多个Minecraft版本和跨modloader之间进行开发。新的Minecraft-Mappings项目取代了以往为MTR 3提供多平台兼容前置模组**Architectury模组**
 ==== 渲染优化 ====
 
 来自[[mtr_addon:nte:start|NTE Addon]]的渲染优化已集成到**Minecraft-Mappings**项目中，该项目也在MTR 4.0中使用。 这应该在游戏过程中提供实质性的帧率改进。((
