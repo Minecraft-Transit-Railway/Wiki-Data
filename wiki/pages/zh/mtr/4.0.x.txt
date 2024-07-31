@@ -28,6 +28,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 ==== 轨道预览 ====
 
 拿着轨道连接器，在连接到另一个节点前时，将会显示铁轨的即时效果预览。
+
 {{:mtr:mtr4_trackpreview.png?600|MTR 4的铁轨预览功能, 在连接另一个节点前}}
 
 ===== 面向玩家的变化 =====
