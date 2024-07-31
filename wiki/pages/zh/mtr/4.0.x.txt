@@ -34,3 +34,8 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 在MTR 4上，模拟部分已拆分为[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]。这可以更轻松地将网络模拟部分集成到另一个外部应用程序（即在《我的世界》之外）。当与MTR Mod一起使用时，模拟现在也在它自己的专用线程上运行，因此它可以减少模拟中转网络造成的《我的世界》服务器滞后。
 
+==== 附属模组兼容性 ====
+
+由于后端的大量重写，大部分依赖于MTR的附属模组都需要更新，需要更新的模组的菜单可在[[mtr_addon:start|此处]]查看，拥有兼容MTR3或MTR4的标签提示
+
+非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4(实际上Joban于The Tube已可用于MTR 4)
