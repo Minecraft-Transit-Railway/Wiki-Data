@@ -35,7 +35,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 来自[[mtr_addon:nte:start|NTE Addon]]的渲染优化已集成到**Minecraft-Mappings**项目中，该项目也在MTR 4.0中使用。 这应该在游戏过程中提供实质性的帧率改进。((
 
-来源%%需要%%
+ (需翻墙)https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s
 ))
 
 ==== Transport-Simulation-Core ====
