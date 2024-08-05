@@ -4,6 +4,12 @@ MTR Addons are Minecraft Mods that add new content and functionality (Such as bl
 
 ===== List of MTR Addons =====
 
+<WRAP round info>
+
+A full list of user-submitted MTR Addon / Resource packs can be found at [[https://addons.minecrafttransitrailway.com|addons.minecrafttransitrailway.com]]
+
+</WRAP>
+
 ==== MSD (aka: Station Decoration Addon) ====
 
 [[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that adds new Signs, PIDS and Catenary.
