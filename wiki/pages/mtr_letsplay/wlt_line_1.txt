@@ -31,11 +31,11 @@
 ^  History  |^
 | **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Kwong Chow - Tai Po)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Northern Snow Village to Mesa,//\\ //Northern Snow Village - Hung Ngai Tung)//\\ 2 July, 2024\\ //(Mei Foo Wan - Tung Yuen)// |
 ^  Technical  |^
-| **Line Length** | ~18.3 km |
+| **Line Length** | ~20.8 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
 | **Electrification** | 25 kV AC \\ //(Sakura Stream Junction - Providence)//\\ Non-electrified \\ //(Other sections)// |
-| **Operating**\\ **Speed** | Average: 43 km/h (11.9 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
+| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
 |  {{/line1_p1.png?420}}  ||
@@ -44,7 +44,7 @@
 
 **Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), is a rapid transit service operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]], from [[/mesa_station|Mesa]] station and [[/mei_foo_wan_station|Mei Foo Wan]] station to [[/tai_po_station|Tai Po]] station. The name comes from being the first rapid transit line WLT has ever planned, with two future permanent termini Mesa station and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] station. The Mei Foo Wan Branch / Northern Transverse Link adds in another "Me" side terminus.
 
-The line is currently around 18.3 km long, connects up West Denthrope (Mesa), [[/resort_area|Resort]], [[/east_north_tundra_area|East North Tundra]], [[/zuidbaai_centraal_station|Zuidbaai]], [[/northern_snowland|Northern Snowland]], [[/sakura_stream_area|Sakura Stream]] Area and [[/west_lake_area|West Lake]] Area, forming a western N-S connection and a SW-NW-NE half circular link.
+The line is currently around 20.8 km long, connects up West Denthrope (Mesa), [[/resort_area|Resort]], [[/east_north_tundra_area|East North Tundra]], [[/zuidbaai_centraal_station|Zuidbaai]], [[/northern_snowland|Northern Snowland]], [[/sakura_stream_area|Sakura Stream]] Area and [[/west_lake_area|West Lake]] Area, forming a western N-S connection and a SW-NW-NE half circular link.
 
 Line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
 
