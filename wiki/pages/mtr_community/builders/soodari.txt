@@ -14,4 +14,4 @@
 | **Timezone** | (GMT+9) ||
 </WRAP>
 
-Soodari is a member of MTR discord, which mainly produces train [[mtr_extra:start|Resource Pack]] in the Asia-Pacific region and developing southwestern region on the [[mtr_letsplay:start|Let's Play Server]].
+Soodari is a member of MTR discord, who primarily produces train [[mtr_extra:start|Resource Packs]] in the Asia-Pacific region and develops the southwestern region on the [[mtr_letsplay:start|Let's Play Server]].
