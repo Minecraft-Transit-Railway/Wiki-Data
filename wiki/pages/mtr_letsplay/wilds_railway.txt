@@ -15,7 +15,7 @@
 | **Number of stations**  | Heavy Rail: 23  |
 | ::: | Bus transit: 14  |
 | **Daily ridership**  | 7002  |
-| **Owner (s)** | [[mtr_community:navi_lx9702|Navi]] |
+| **Owner (s)** | [[mtr_community:staff:navi_lx9702|Navi]] |
 | **Real-life / fictional basis** | [[wp>East_Japan_Railway_Company|East Japan Railway Company]] |
 | ::: | [[wp>Fire_Emblem|Fire Emblem]] |
 | ::: | [[wp>Kowloon_Motor_Bus|Kowloon Motor Bus]] |
@@ -49,7 +49,7 @@
 
 </WRAP>
 
-**Wilds Railway** <sub>(aka WR, 曠野鐵路)</sub> is a fictional railway company in Let's Play server, and was established on the 8th August 2022. Managed by [[mtr_community:navi_lx9702|Navi]], one of the builder and staff.
+**Wilds Railway** <sub>(aka WR, 曠野鐵路)</sub> is a fictional railway company in Let's Play server, and was established on the 8th August 2022. Managed by [[mtr_community:staff:navi_lx9702|Navi]], one of the builders and part of the staff team.
 
 The company is set to be the subsidiary of 'Suzuran Railways', the railway company that operates only in Navi_LX9702's private world.
 
@@ -64,6 +64,8 @@ The company is set to be the subsidiary of 'Suzuran Railways', the railway compa
 === NE Llanmara Line ===
 
 === Wilds Railway Bus services ===
+
+=== Wilds Railway Hoku-Hoku Line ===
 
 === Wilds Railway - Lilypad Rail Overground Service ===
 
