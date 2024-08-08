@@ -11,14 +11,13 @@
 | **Number of lines** | 3 |  |
 | **Stations Served** | 18 |  |
 | **Real-Life Inspiration** | [[https://en.wikipedia.org/wiki/CrossCountry|Arriva CrossCountry]] |  |
-| **Colour on map** |  <color /##AE0D3F><html>&nbsp&nbsp&nbsp&nbsp</html></color> (##AE0D3F) |  |
 |  @#EFEEF0:  **Service & Operations**  ||  |
-| **Began passenger operation** | 2023 |  |
+| **Began passenger operations** | 2023 |  |
 | **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |  |
 
 </WRAP>
 
-CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the Let's Play Server. It is a joint venture between ElectrostarJudge, who operates the North Western Region, and Soodari, who operates the South Western Region services. In future, it is hoped both regions can be linked to provide a through service from Portsmouth and the South West to destinations such as Teufort Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:builders:soodari|Soodari]], who operates the South Western Region services. In future, it is hoped both regions can be linked to provide a through service from Portsmouth and the South West to destinations such as Teufort Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
 
 ==== Fleet ====
 
