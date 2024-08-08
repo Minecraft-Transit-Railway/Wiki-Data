@@ -12,7 +12,8 @@ Joking nickname, originated from a typo by Kettle attempting to say "Hi Lily"
 )) |
 | ::: | sleepy |
 | **Date Joining**\\ **MTR Mod Discord** | 15 April 2021 |
-| **Roles** | Staff |
+| **Roles** | Admin |
+| ::: | Staff |
 | ::: | Contributor |
 | ::: | Patreons |
 | ::: | Server Booster |
