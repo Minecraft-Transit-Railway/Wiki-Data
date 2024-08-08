@@ -1,5 +1,50 @@
-============================ CrossCountry ============================
+====== CrossCountry ======
 
-CrossCountry Trains is a Long Distance and Regional operator, operating between Portsmouth and Rikkashi Yongchun, as well as Gapyeong, Junee, and in the North, Marylebone, Denthrope, Kirkenkessie Gateway and Einsburg Central
+<WRAP right>
 
-(Page will be formally built shortly
+|  @#AE0D3F:  |||
+|  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||  |
+| {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||  |
+|  @#EFEEF0:  **Overview**  ||  |
+| **Area Served** | North and South West |  |
+| **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |  |
+| **Number of lines** | 3 |  |
+| **Number of stations** | ? |  |
+| **Real-Life Inspiration** | [[https://en.wikipedia.org/wiki/CrossCountry|Arriva CrossCountry]] |  |
+| **Colour on map** |  <color /##AE0D3F><html>&nbsp&nbsp&nbsp&nbsp</html></color> (##AE0D3F) |  |
+|  @#EFEEF0:  **Service & Operations**  ||  |
+| **Began passenger operation** | 2023 |  |
+| **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |  |
+
+</WRAP>
+
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the Let's Play Server. It is a joint venture between ElectrostarJudge, who operates the North Western Region, and Soodari, who operates the South Western Region services. In future, it is hoped both regions can be linked to provide a through service from Portsmouth and the South West to destinations such as Teufort Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
+
+==== Fleet ====
+
+On long distance services, CrossCountry primarily operate a fleet of Diesel Hitachi Class 802 units, as well as a small fleet of loco-hauled Class 67 & Mark X Carriages in Sleeper and Day formations. For Regional services, CrossCountry utilise a fleet of 2-3 car Class 170 DMUs, which can be used in sets of up to 6 Carriages.
+
+==== North Western Region ====
+
+Add Content Here
+
+==== South-Western Region ====
+
+Add Content Here
+
+===== Current Services =====
+
+CrossCountry currently operates 4 principal services. In the North West, it operates between Kirkenkessie Gateway and Einsburg Central, via Reston Intermodal, as well as from Marylebone to Denthrope Hauptbahnhof direct. South Western services operate from Portsmouth, where they are expected to extend further southwards, to Rikkashi Yongchun, via Gapyeong and Junee stations.
+
+The table below shows the expected calling pattern once the line has linked, and the various destinations it is anticipated to serve. All trains start from Portsmouth. **SUBJECT TO CHANGE**
+
+<WRAP left>
+
+|  @#EFEEF0:**Service Patterns**  |||
+|  **Termini**  |  **Route**  |  **Calling at**  |
+| Teufort Central | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Station TBC|Station TBC]], [[Teufort South]], [[Teufort Central]] |
+| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, Gapyeong, Rikkashi Yongchun, Einsburg West, Einsburg Central, then (//Reston Intermodal → Ilford Island → Kirkenkessie Gateway // or (//Reston Intermodal → Ilford Parkway → Marylebone)// |
+| Route In Planning | XC03 | Information Unavailable |
+</WRAP>
+
+~~NOTOC~~
