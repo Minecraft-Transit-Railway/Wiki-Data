@@ -9,7 +9,7 @@
 | **Area Served** | North and South West |  |
 | **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |  |
 | **Number of lines** | 3 |  |
-| **Number of stations** | ? |  |
+| **Stations Served** | 18 |  |
 | **Real-Life Inspiration** | [[https://en.wikipedia.org/wiki/CrossCountry|Arriva CrossCountry]] |  |
 | **Colour on map** |  <color /##AE0D3F><html>&nbsp&nbsp&nbsp&nbsp</html></color> (##AE0D3F) |  |
 |  @#EFEEF0:  **Service & Operations**  ||  |
