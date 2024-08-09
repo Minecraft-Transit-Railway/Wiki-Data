@@ -53,7 +53,7 @@ JR (Not to be mistaken for [[wp>Japan_Railways_Group|Japan Railways Group (JR)]]
 | Kapple Urban Line((Originally known as Kapple Intercity.)) | Kapple Snowville <-> Broughton <-> Gincaik <-> New Lands <-> Happing Train Station <-> Kapple City Central <-> Kapple City Airport Terminal 2 <-> Kapple City Airport Terminal 1 <-> Stefans Plaza South <-> Kapple Transportation Resort <-> Four Forests <-> Kapple River <-> Thunder Island | SP1900 | 4-car | N/A |
 | Gincaik Line((Clockwise loop only.)) | Broughton -> Gincaik West -> Kapple Forest -> Kekney Pond -> Thames Hills -> Broughton | CAF Train | 2-car | N/A |
 | JH Line | PLACEHOLDER | MLR | 3-car | Local / Rapid |
-| JE Line | PLACEHOLDER | MLR((JW Local only.)) / SP1900((JW Branch only.)) | 3-car | Local / Branch |
+| JW Line | PLACEHOLDER | MLR((JW Local only.)) / SP1900((JW Branch only.)) | 3-car | Local / Branch |
 | JK Line | PLACEHOLDER | E44 | 3-car | N/A |
 | JL Line | PLACEHOLDER | N/A | N/A | Loop / Local / Rapid |
 | JO Line | PLACEHOLDER | N/A | N/A | N/A |
