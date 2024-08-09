@@ -1,0 +1,36 @@
+====== Fresh Start MTR ======
+
+<WRAP right>
+
+|  @#FF0000:<color #FFFFFF>**Fresh Start MTR**</color>  ||
+^ Created | 29th April, 2023((This is the day the Discord server was created.)) |
+^ Creator | The Interwebs |
+^ Companies | 21((See [[mtr:mtr_community:server:freshstart#Companies#Company list|The list of companies]].)) |
+^ Style/Inspiration | Hong Kong |
+| ::: | British |
+| ::: | Japanese |
+| ::: | American |
+| ::: | German |
+| ::: | Chinese |
+| ::: | Russian |
+| ::: | Hungarian |
+| ::: | Austrian |
+^ Builders | 17 |
+^ Moderators | 4 |
+
+</WRAP>
+
+Fresh Start MTR is an MTR server where its main purpose is for people to have fun whilst learning how to build with the functions provided by MTR mod.
+
+===== Companies =====
+==== Company list ====
+**Operating**\\ [[mtr:mtr_community:server:freshstart#Companies#Kapple Transport Agency|Kapple Transport Agency]]\\ [[mtr:mtr_community:server:freshstart#Companies#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[mtr:mtr_community:server:freshstart#Companies#IAA|IAA]]\\ [[mtr:mtr_community:server:freshstart#Companies#IMCC|IMCC]]\\ [[mtr:mtr_community:server:freshstart#Companies#Dan6 Services|Dan6 Services LLC.]]\\ [[mtr:mtr_community:server:freshstart#Companies#TfS|Transport for Striaton]]\\ [[mtr:mtr_community:server:freshstart#Companies#National Rail CH|National Rail CH]]\\ 
+**Defunct**\\ [[mtr:mtr_community:server:freshstart#Companies#National Rail|National Rail]]\\ [[mtr:mtr_community:server:freshstart#Companies#ULS|ULS]]
+==== Kapple Transport Agency ====
+Kapple Transport Agency (KTA) is a company split from [[mtr:mtr_community:server:freshstart#Companies#National Rail|National Rail]]. It controls most lines in the Kapple Area, with the exception being South Main Line, which does not serve the Kapple area.
+=== Routes ===
+^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^ Variants ^
+| Central North Main Line((Originally known as North Main Line.)) | Kapple Transportation Resort <-> Happing Train Station <-> Diplo Green <-> Upnor <-> Ferringdon <-> Conby <-> Capital International Airport Terminal 2 <-> Airport East <-> Fresh Start Lake((Through-runs onto Central Main Line.)) | R-Train | 12-car | Local |
+| Airport Connect Line | South Horizon <-> Kapple Transportation Resort <-> Stefans Plaza South <-> Kapple City Airport Terminal 1 <-> Happing Train Station((Through-runs onto North Main Line (Rapid).)) | RK-Train | 6-car | Rapid |
+| North Main Line | Happing Train Station <-> Capital International Airport Terminal 2((Shares tracks with Central North Main Line.)) <-> Airport East((Shares tracks with Central North Main Line.)) <-> Fresh Start Lake((Shares tracks with Central North Main Line.)) | RK-Train | 6-car | Rapid |
+| Central Main Line | Fresh Start Lake <-> Binworth <-> Giles <-> Reckby West <-> Stone Village <-> Siu Hor River <-> Profacton <-> Forest Heights | R-Train | 12-car | Local |
