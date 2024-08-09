@@ -20,7 +20,7 @@
 
 </WRAP>
 
-Fresh Start MTR is an MTR server where its main purpose is for people to have fun whilst learning how to build with the functions provided by MTR mod.
+Fresh Start MTR is an MTR server where its main purpose is for people to learn how to build with the functions provided by MTR mod.
 
 ===== Companies =====
 ==== Company list ====
