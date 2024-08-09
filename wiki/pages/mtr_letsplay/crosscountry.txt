@@ -42,7 +42,7 @@ The table below shows the expected calling pattern once the line has linked, and
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
 | Teufort Central | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Station TBC|Station TBC]], [[Teufort South]], [[Teufort Central]] |
-| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, Gapyeong, Rikkashi Yongchun, Einsburg West, Einsburg Central, then (//Reston Intermodal → Ilford Island → Kirkenkessie Gateway // or (//Reston Intermodal → Ilford Parkway → Marylebone)// |
+| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, Gapyeong, Rikkashi Yongchun, Einsburg West, Einsburg Central, then //Reston Intermodal → Ilford Island → Kirkenkessie Gateway // or //Reston Intermodal → Ilford Parkway → Marylebone// |
 | Route In Planning | XC03 | Information Unavailable |
 </WRAP>
 
