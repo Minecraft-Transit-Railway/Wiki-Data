@@ -24,7 +24,7 @@ Fresh Start MTR is an MTR server where its main purpose is for people to learn h
 
 ===== Companies =====
 ==== Company list ====
-**Operating**\\ [[mtr:mtr_community:server:freshstart#Companies#Kapple Transport Agency|Kapple Transport Agency]]\\ [[mtr:mtr_community:server:freshstart#Companies#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[mtr:mtr_community:server:freshstart#Companies#IAA|IAA]]\\ [[mtr:mtr_community:server:freshstart#Companies#IMCC|IMCC]]\\ [[mtr:mtr_community:server:freshstart#Companies#Dan6 Services|Dan6 Services LLC.]]\\ [[mtr:mtr_community:server:freshstart#Companies#TfS|Transport for Striaton]]\\ [[mtr:mtr_community:server:freshstart#Companies#National Rail CH|National Rail CH]]\\ 
+**Operating**\\ [[mtr_community:server:freshstart#kapple_transport_agency |Kapple Transport Agency]]\\ [[mtr:mtr_community:server:freshstart#Companies#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[mtr:mtr_community:server:freshstart#Companies#IAA|IAA]]\\ [[mtr:mtr_community:server:freshstart#Companies#IMCC|IMCC]]\\ [[mtr:mtr_community:server:freshstart#Companies#Dan6 Services|Dan6 Services LLC.]]\\ [[mtr:mtr_community:server:freshstart#Companies#TfS|Transport for Striaton]]\\ [[mtr:mtr_community:server:freshstart#Companies#National Rail CH|National Rail CH]]\\ 
 **Defunct**\\ [[mtr:mtr_community:server:freshstart#Companies#National Rail|National Rail]]\\ [[mtr:mtr_community:server:freshstart#Companies#ULS|ULS]]
 ==== Kapple Transport Agency ====
 Kapple Transport Agency (KTA) is a company split from [[mtr:mtr_community:server:freshstart#Companies#National Rail|National Rail]]. It controls most lines in the Kapple Area, with the exception being South Main Line, which does not serve the Kapple area.
