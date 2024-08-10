@@ -24,8 +24,8 @@ Fresh Start MTR is an MTR server where its main purpose is for people to learn h
 
 ===== Companies =====
 ==== Company list ====
-**Operating**\\ [[#kapple_transport_agency |Kapple Transport Agency]]\\ [[#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[#IAA|IAA]]\\ [[#IMCC|IMCC]]\\ [[#Dan6 Services|Dan6 Services LLC.]]\\ [[#TfS|Transport for Striaton]]\\ [[#National Rail CH|National Rail CH]]\\ [[#JR|JR]]\\ [[#Minecraft Rapid Transit|Minecraft Rapid Transit]]\\ [[#Fresh Start Bus Service|Fresh Start Bus Service]]\\ [[#CMB|Curt Motor Bus]]\\ [[#LTA|LTA]]\\ [[#Java Train Government|Java Train Government]]\\ [[#Kapple Snowville Zone|Kapple Snowville Zone]]\\ [[#Stars Local Transport|Stars Local Transport]]\\ [[#ULS|ULS]]\\ [[#Kenton Transport|Kenton Transport]]\\ [[#New Underground|New Underground]]\\ [[#Odakyu|Odakyu]]\\ [[#KTA Rural|KTA Rural]]\\ [[#Kapple Regional LRT|Kapple Regional LRT]]\\ 
-**Defunct**\\ [[#National Rail|National Rail]]\\ [[#South West Rail|South West Rail]]
+**Operating**\\ [[#kapple_transport_agency |Kapple Transport Agency]]\\ [[#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[#IAA|IAA]]\\ [[#IMCC|IMCC]]\\ [[#Dan6 Services|Dan6 Services LLC.]]\\ [[#TfS|Transport for Striaton]]\\ [[#National Rail CH|National Rail CH]]\\ [[#JR|JR]]\\ [[#Minecraft Rapid Transit|Minecraft Rapid Transit]]\\ [[#Fresh Start Bus Service|Fresh Start Bus Service]]\\ [[#CMB|Curt Motor Bus]]\\ [[#Singapore Shinkansen Authority|Singapore Shinkansen Authority]]\\ [[#Java Train Government|Java Train Government]]\\ [[#Kapple Snowville Zone|Kapple Snowville Zone]]\\ [[#Stars Local Transport|Stars Local Transport]]\\ [[#ULS|ULS]]\\ [[#Kenton Transport|Kenton Transport]]\\ [[#New Underground|New Underground]]\\ [[#Odakyu|Odakyu]]\\ [[#KTA Rural|KTA Rural]]\\ [[#Kapple Regional LRT|Kapple Regional LRT]]\\ 
+**Defunct**\\ [[#National Rail|National Rail]]\\ [[#South West Rail|South West Rail]]\\ [[#Land Transport Authority|Land Transport Authority]]\\ 
 ==== Kapple Transport Agency ====
 Kapple Transport Agency (KTA) is a company split from [[#National Rail|National Rail]]. It controls most lines in the Kapple Area, with the exception being South Main Line, Fresh Start Lake City Express and Capital International Airport Access Line, which does not serve the Kapple area.
 === Routes ===
@@ -50,6 +50,7 @@ Kapple Transport Agency (KTA) is a company split from [[#National Rail|National 
 ==== JR ====
 JR (Not to be mistaken for [[wp>Japan_Railways_Group|Japan Railways Group (JR)]]) is a company that operates around the center of the map.
 === Routes ===
+^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^ Variants ^
 | Kapple Urban Line((Originally known as Kapple Intercity.)) | Kapple Snowville <-> Broughton <-> Gincaik <-> New Lands <-> Happing Train Station <-> Kapple City Central <-> Kapple City Airport Terminal 2 <-> Kapple City Airport Terminal 1 <-> Stefans Plaza South <-> Kapple Transportation Resort <-> Four Forests <-> Kapple River <-> Thunder Island | SP1900 | 4-car | N/A |
 | Gincaik Line((Clockwise loop only.)) | Broughton -> Gincaik West -> Kapple Forest -> Kekney Pond -> Thames Hills -> Broughton | CAF Train | 2-car | N/A |
 | JH Line | PLACEHOLDER | MLR | 3-car | Local / Rapid |
@@ -62,3 +63,10 @@ JR (Not to be mistaken for [[wp>Japan_Railways_Group|Japan Railways Group (JR)]]
 | JA Line | PLACEHOLDER | N/A | N/A | N/A |
 | Kapple Monorail | PLACEHOLDER | MK-Train | 3-car | Local / West Sea Access |
 | Airport Superexpress | Capital International Airport Terminal 2 <-> Fresh Start Lake | CAF Train | 4-car | N/A |
+==== Singapore Shinkansen Authority ====
+Singapore Shinkansen Authority (SAA) is a direct successor to the [[#Land Transport Authority|LTA]] and operates express services.
+=== Routes ===
+^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^
+| Llyn Shinkansen | Llyn-by-the-sea <-> Bishan <-> Fresh Start Lake <-> East Coast | N/A | N/A |
+| Nozomi Super Express | Llyn-by-the-sea <-> East Coast | N/A | N/A |
+| Hayabusa Express | Llyn-by-the-sea <-> Fresh Start Lake <-> East Coast | N/A | N/A |
