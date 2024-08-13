@@ -6,10 +6,6 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 此版本目前还处于开发阶段，尚未有正式版发布。
 
-===== 发布 =====
-
-  * 由于MTR 4仍在开发中，尚未正式发布.
-
 ===== 更改或添加的功能 =====
 
 ==== 编组功能 ====
@@ -70,12 +66,12 @@ FIXME 英语下此条目尚未完成
 
 ==== Transport-Simulation-Core ====
 
-在MTR 3上，MTR是一个自成一体的模组，负责处理从块配置到自动游戏内网络模拟的所有内容。
+在MTR 3上，MTR是一个自成一体的模组，负责处理从方块配置到自动交通线网模拟的所有内容。
 
-在MTR 4上，模拟部分已拆分为[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]。这可以更轻松地将网络模拟部分集成到另一个外部应用程序（即在《我的世界》之外）。当与MTR Mod一起使用时，模拟现在也在它自己的专用线程上运行，因此它可以减少模拟中转网络造成的《我的世界》服务器滞后。
+在MTR 4上，模拟部分已拆分为[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core|Transport-Simulation-Core]]。这可以更轻松地将线网模拟部分集成到另一个外部应用程序（即在 Minecraft 之外）。现在，当与 MTR 模组一起使用时，模拟将在单独线程上运行，因此它可以减少模拟交通线网造成的 Minecraft 服务器卡顿。
 
 ==== 附属模组兼容性 ====
 
 由于后端的大量重写，大部分依赖于MTR的附属模组都需要更新，需要更新的模组的菜单可在[[mtr_addon:start|此处]]查看，拥有兼容MTR3或MTR4的标签提示
 
-非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4((Joban Client Mod与The Tube模组已提供对MTR4的版本，参见[[mtr_addon:start]]))(Nemo's Transit Expansion除外，其中大部分功能已合并进MTR中)
+非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4，但 Nemo's Transit Expansion 除外，其大部分功能已合并进 MTR 本体中
