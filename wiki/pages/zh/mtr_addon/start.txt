@@ -1,66 +1,75 @@
-====== 你知道Minecraft Transit Railway模组有哪些扩展模组吗？ ======
+====== MTR 附属模组 ======
 
-<WRAP center round info 60%>
+MTR 附属模组添加了与 MTR 模组集成的新内容和功能（例如方块或特性）。它们的安装方式与常规 Minecraft 模组相同，但需要同时安装 MTR 模组。
 
-MTR现有10个可用的扩展模组。
+===== MTR 附属模组列表 =====
 
-</WRAP>
+<WRAP round info>
 
-注：本页不介绍伦敦地铁模组，如需了解请移步 [[zh:mtr_addon:lu:start]]。
-
-===== MSD (又名: Station Deco. Addon) =====
-
-一个装饰性Mod，添加了新的标识、PIDS和接触网。
-
-图册: {{ :mtr_addon:screenshot_2023-05-18_115315.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115049.png?400&nolink }} {{ :mtr_addon:screenshot_2023-05-18_115222.png?400&nolink }}
-
-<WRAP center round download 90%>
-
-下载:
-
-[[https://modrinth.com/mod/station-decoration]]
+用户提交的 MTR 附属模组 / 资源包的完整列表可在 [[https://addons.minecrafttransitrailway.com|addons.minecrafttransitrailway.com]] 找到。
 
 </WRAP>
 
-===== NTE (又名: Nemo´s transit expansion) =====
+===== MSD (又名: Station Decoration Addon) =====
 
-<WRAP center round download 90%>
+[[mtr_addon:msd:start|Station Decoration Addon]] 是一个装饰性模组，添加了新的标志、PIDS 和接触网。
 
-[[mtr_addon:nte:start|Nemo's Transit Expansion]]
+<WRAP round download>
+
+**下载** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/station-decoration]]
 
 </WRAP>
+
+===== NTE (又名: Nemo´s Transit Expansion) =====
+
+[[mtr_addon:nte:start|Nemo's Transit Expansion]] 为 MTR 模组添加实验性功能，例如支持 .obj 模型和使用 JS 编写列车脚本。
 
 {{https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg}}
 
+<WRAP round download 90%>
+
+**下载** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/mtr-nte]]
+
+</WRAP>
+
 ===== JCM (又名: Joban Client Mod) =====
 
-JCM 是一个方块类模组，由The District of Joban 团队制作。添加了各种与线路有关的方块，例如闸机、圆形隧道、港铁楼梯、车站设施等。
+[[mtr_addon:jcm:start|Joban Client Mod]] 添加了来自香港地铁的各种方块和实用方块，将极大地改善您的世界。此模组添加的一些方块包括静态信号灯、特惠站、铁路愿景乘客资讯显示屏和其他装饰性方块，可帮助您构建自己的铁路系统！
 
-JCM 此前叫 "Joestu Client Mod"，后来因主开发团队移至新%%服务器%%而命名为 "Joban Client Mod"。
+<WRAP round download 90%>
 
-<WRAP center round download 90%>
-
-[[https://modrinth.com/mod/jcm|https://modrinth.com/mod/jcm]]
+**下载** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap> [[https://modrinth.com/mod/jcm]]
 
 </WRAP>
 
 ===== RCC (又名: Reality City Construction) =====
 
-Reality City Construction是一个由Yaoxiansen和MSnj制作的模组，名称是Yaoxiansen给出。经过了一年的制作历程，模组已基本完善。
+Reality City Construction 是一个由 Yaoxiansen 和 MSnj 制作的模组，由 Yaoxiansen 命名。经过了一年的制作历程，模组已基本完善。
 
-模组添加了有利用线路和城建的方块，添加了盲道、站台方块等。未来还会添加闸机、安检机等国内地铁设施。
+模块添加了便于线路建设和城市建设的方块、盲道、站台方块等。未来还会添加闸机、安检机等国内地铁设施。
 
-===== 附属模组 =====
+<WRAP round download 90%>
 
-所谓“MTR 附属模组”，就是依赖于 MTR，增强 MTR 功能的模组。除了“四件套”LU、JCM、NTE、MSD，下面是 Modrinth 上的一些冷门模组：
+**下载** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/reality-c-c]]
 
-1、MTR Utility 添加 450、500、600、700、800km/h 轨道连接器。
+</WRAP>
 
- 2、CrabGC's Extension of MTR 增加红石检票闸机和直接付费闸机（可自定义付费金额）。
+==== The Tube (又名: London Underground) ====
 
- 3、NYC Subway (MTR) 增加纽约地铁相关物品。
+[[mtr_addon:lu:start|The Tube addon]] 提供用于创建隧道和车站以及车站标识的方块。其他出色的功能包括伦敦地铁主题的站台信息显示屏和红/绿隧道信号！还有一些很棒的环境音效，让您的地铁站栩栩如生！
 
-4、TransitManager 一个服务端模组，由 Joban Client Mod 作者开发，增加一些控制列车逻辑的 Minecraft 命令。
+<WRAP round download 90%>
 
- 5、Russian Metro Addon 增加俄罗斯地铁相关物品。
+**下载** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://www.curseforge.com/minecraft/mc-mods/the-tube]]
 
+</WRAP>
+
+==== Russian Metro Addon ====
+
+[[mtr_addon:rma:start|Russian Metro Addon]] 是一个添加了俄罗斯地铁功能的模组。
+
+<WRAP round download 90%>
+
+**下载** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/russian-metro-addon]]
+
+</WRAP>
