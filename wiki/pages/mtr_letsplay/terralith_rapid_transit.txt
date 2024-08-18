@@ -44,10 +44,11 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * (S12)[[Decidueye Line]]
 
-* (S13)[[Jigglypuff Line]]
-
 ====Under Construction & Planning====
 * (S4)[[Momoyama Line]]
+
+====Suspended====
+* (S13)[[Jigglypuff Line]]
 
 ====Abolition====
 * (S2T)[[Sprigatito Line]]
@@ -59,7 +60,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * [[shimanolrt]]
 
-* [[Kamaboko LRT]]
+* [[Kamaboko LRT]](Suspended)
 
 * [[In-Station Transit (SMTR)|In-Station Transit]]
 
@@ -110,12 +111,39 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 * [[11-000_series#section11500|11-500 Series]]
 
 * [[11-000_series#section11600700800|11-600 Series]]
-===Jigglypuff Line===
-* [[13-000 Series]]
 
 ===Shimano LRT===
 * [[LRV 1928]]
 
+===CLR===
+* [[CLR B90]]
+
+===in-Station Transit===
+* [[LRV 1928]]
+
+* [[Yutong U12]](Bus)
+
+* [[CLR B90]]
+
+====Former====
+===Shinx Line===
+* [[8000 Series]](Trial operation)
+
+===Jigglypuff Line===
+* [[13-000 Series]]
+
+===Kamaboko LRT===
+* [[1992 Stock]]
+
+* [[1995 Stock]]
+
+* [[1996 Stock]]
+
+* [[BVG Crass H]](Trial operation)
+
+* [[LRV 1975]]
+
+===Shimano LRT===
 * [[LRV 1975]]
 
 * [[LRV 1980]]
@@ -134,35 +162,10 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * [[LRV 2024]]
 
-
-===Kamaboko LRT===
-* [[LRV 1975]]
-
-===CLR===
-* [[CLR B90]]
-
-===in-Station Transit===
-* [[LRV 2002]]
-
-* [[Yutong U12]](Bus)
-
-* [[CLR B90]]
-
-====Former====
-===Shinx Line===
-* [[8000 Series]](Trial operation)
-
-===Kamaboko LRT===
-* [[1992 Stock]]
-
-* [[1995 Stock]]
-
-* [[1996 Stock]]
-
-* [[BVG Crass H]](Trial operation)
-
 ===in-Station Transit===
 * [[Lightrail Phase 3]]
+
+* [[LRV 2002]]
 
 ====Feature====
 ===Sprigatito Line===
@@ -180,6 +183,8 @@ Note:Temporary name
 
 ===Shimano LRT===
 * [[LRV 1943]]
+
+* [[Alexander Denis Enviro 200 JPN]]
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
