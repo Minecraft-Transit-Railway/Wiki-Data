@@ -3,13 +3,13 @@
 <WRAP right>
 
 |  @#00C42A: **Nodes**  ||
-| {{ https://wiki.minecrafttransitrailway.com/_media/mtr:airplane_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:boat_node.webp?100 }}  |
+| {{ https://wiki.minecrafttransitrailway.com/_media/mtr:railnode.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:boat_node.webp?100 }}  |
 |  Render of Railway((
  1. Connecting to nothing 2. Connecting to a rail
 )) and Boat((
  1. Connecting to nothing 2. Connecting to a rail
 )) nodes.  ||
-| {{ https://wiki.minecrafttransitrailway.com/_media/mtr:cable_car_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:railnode.webp?100 }}  |
+| {{ https://wiki.minecrafttransitrailway.com/_media/mtr:cable_car_node.webp?100 }}  | {{ https://wiki.minecrafttransitrailway.com/_media/mtr:airplane_node.webp?100 }}  |
 |  Render of Cable Car((
 1. Upper
 
@@ -62,7 +62,7 @@
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
 | **Stackable** | No |
 | **Created by** | %%Jonathan%% |
-| ::: | [[mtr_community:bdark000|BDark000]]((
+| ::: | [[mtr_community:staff:bdark000|BDark000]]((
 Emerald and Quartz Rail Connector only.
 )) |
 
