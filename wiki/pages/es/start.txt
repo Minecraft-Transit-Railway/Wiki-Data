@@ -1,0 +1,27 @@
+¡Bienvenido a la wiki del mod Minecraft Transit Railway!
+
+===== Minecraft Transit Railway =====
+
+  * [[es:mtr:start|Minecraft Transit Railway]] - Información sobre el mod.
+
+===== Contenido extra =====
+
+  * [[es:mtr_extra:start|Paquetes de recursos]] - Introducción sobre los paquetes de recursos para MTR.
+  * [[es:mtr_extra:making_a_resourcepack|Creando un paquete de recursos]] - Cómo crear un paquete de recursos.
+    * [[es:mtr_extra:resourcepack:make:texture|Texturizando Trenes]] - Cómo retexturizar los trenes existentes.
+    * [[es:mtr_extra:resourcepack:make:model|Modelar Trenes]] - Cómo añadir un modelo propio.
+    * [[es:mtr_extra:resourcepack:make:others|Otros]] - Cómo añadir señales, sonidos, etc. al paquete de recursos.
+  * [[es:mtr_extra:resourcepack:faq|Preguntas frecuentes]] - Preguntas sobre los paquetes de recursos.
+  * [[es:mtr_addon:start|Usando mods adicionales]] - Visión general de los mods adicionales de MTR.
+
+===== Servidores Multijugador =====
+
+  * [[es:mtr_letsplay:start|Let's Play Server]] - El servidor oficial del mod MTR.
+  * [[es:mtr_community:start|Comunidades MTR]] - Los demás servidores creados por la comunidad, y más.
+
+===== Contribuir a la Wiki =====
+
+Queremos que todas las personas que sepan mucho sobre el mod compartan sus conocimientos, si tenéis algo que queráis aportar, ¡no dudéis en hacerlo!
+
+  * Aseguraros de leer las [[es:wiki_guidelines|Directrices de la Wiki]] y las [[es:edit_guideline|Directrices de Edición]].
+
