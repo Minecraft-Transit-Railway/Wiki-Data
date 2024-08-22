@@ -1,0 +1,153 @@
+FIXME **Esta página no está completamente traducida, aún. Por favor, contribuye a su traducción.**\\ //(Elimina este párrafo una vez la traducción esté completa)//
+
+====== Introducción ======
+
+El lanzamiento de la versión 3.0 de //Minecraft Transit Railway// ha reimaginado el concepto de los sistemas de trenes de Minecraft. En lugar de utilizar la tradicional [[https://minecraft.gamepedia.com/Minecart|vagoneta]], un sistema de un panel central controla dónde están los trenes en todo momento. Entidades rezagadas, trenes inactivos dentro de <<chunks>> no cargados y servidores sobrecargados son ahora problemas del pasado.
+
+Los ítems del [[/dashboards|panel de ferrocarril]] son las partes centrales del mod. Se pueden añadir, mover y eliminar estaciones, rutas y depósitos.
+
+Los trenes ya no son entidades o «vagonetas retexturizadas». En su lugar, forman parte de los datos del mundo, y la posición de cada tren se simula en cada tick del servidor. Esto evita muchos cálculos innecesarios de posición, velocidad y colisión de las entidades, y puede mover los trenes incluso fuera de los trozos cargados actualmente. Esto también significa que ya no existen los elementos de aparición de trenes, ya que ahora los trenes se mueven según los horarios creados por el usuario. A partir de la versión 3.0.0-beta-5 del mod, los trenes ya no utilizan los raíles de Minecraft.
+
+===== Vídeo tutoriales =====
+
+Por favor vea [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|esta lista de reproducción de videotutoriales]].
+
+===== Creando el raíl =====
+
+Estos son los pasos básicos para crear railes. Consulta la página [[/rails|Raíles]] para más información.
+
+  - Coloca un nodo de raíl en el suelo.
+  - Avanza al menos unos bloques y coloca otro nodo de raíl.
+  - Consigue cualquier conector de raíl. Haz clic derecho en uno de los nodos mientras mantienes el ítem. El conector de raíl empezará a parpadear en el inventario.
+  - Haz clic con el botón derecho en el otro nodo mientras mantienes el conector. Aparecerá la vía de tren entre los dos nodos.
+
+===== Construyendo el primer ferrocarril =====
+
+==== Plataformas ====
+
+Una plataforma es una sección de la vía donde los trenes pueden detenerse para recoger pasajeros.
+
+  - Crea una plataforma de raíl siguiendo los pasos anteriores (descritos en la sección [[/getting_started#creando_el_rail|Creando el raíl]] mientras usas el ítem de conector de raíl de plataforma. Esta será la primera plataforma para trenes.
+  - Ve a otro lugar y crea otra plataforma de raíl, no conectado al primero. Intenta que tenga la misma longitud que el anterior. Este será la segunda plataforma.
+  - Conecta las dos plataformas entre sí utilizando cualquiera de los otros elementos conectores de raíles (no los elementos conectores de plataforma o de apartaderos). Utiliza más nodos ferroviarios si es necesario.
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+> <img alt="Construyendo la plataforma" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/build-platform.png" width=512/><br>Un ejemplo de dos raíles de plataformas conectados con otro raíl.
+
+</markdown>
+
+==== Estaciones ====
+
+Una estación es un área rectangular marcada en el mundo. Cada estación debe cubrir completamente uno o más plataformas.
+
+  - Obtén el elemento [[/dashboard|panel de ferrocarril]] y haz clic con el botón derecho para abrirlo.
+  - El menú de la izquierda tiene tres pestañas: ''Estaciones'', ''Rutas'' y ''Depósitos''.
+    * La pestaña ''Estaciones'' está seleccionada por defecto.
+    * El mapa de la derecha muestra el mundo actual.
+    * El punto azul con un contorno blanco marca la ubicación actual del jugador.
+    * Las plataformas aparecen en blanco brillante en el mapa.
+    * Haz clic y arrastra sobre el mapa para moverlo.
+    * Utiliza la rueda del ratón o los botones ''+'' o ''-'' de la parte inferior derecha para hacer zoom.
+  - Haz zoom y muévete por el mapa para encontrar la primera plataforma que se construyó.
+  - En la pestaña ''Estaciones'', haz clic en el botón de la parte inferior llamado ''Añadir estación''.
+  - El mapa está ahora en modo edición. Haz clic con el botón izquierdo y arrastra para dibujar un área de estación rectangular sobre la primera plataforma.
+    * Si se ha cometido un error, haga clic y arrastre de nuevo. El área de estación previamente definida desaparecerá.
+  - En el cuadro de texto de la parte inferior izquierda, escriba un nombre para la nueva estación. Utilice el carácter ''|'' para separar distintos idiomas, por ejemplo ''1st City|Ciudad Uno''.
+  - Haz clic en ''Hecho'' cuando hayas terminado.
+  - Muévete por el mapa para encontrar la segunda plataforma construida.
+  - Vuelve a hacer clic en el botón ''Añadir estación''. Dibuja otra área de estación rectangular, que cubra el segundo andén. Escribe un nombre para la segunda estación.
+  - Haz clic en ''Hecho'' cuando hayas terminado.
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+> <img alt="Crear estación" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/create-station.png" width=512/><br>Se han creado dos estaciones de ejemplo, Northgate y East Green Lake, dentro del panel de ferrocarril.
+
+
+
+Ahora las dos estaciones deberán de ser visibles en el mapa.
+
+## Rutas
+
+Una ruta es simplemente una lista de plataformas (no de estaciones). Los trenes asignados a una ruta intentarán encontrar un camino para visitar todos las plataformas. Al final de la ruta, los trenes serán retirados.
+
+1. En el panel de ferrocarril, haga clic en la pestaña «Rutas». 1. Haga clic en el botón de la parte inferior llamado `Añadir ruta`. 1. El mapa está ahora en modo edición. Haga clic en el primer andén (en blanco) del mapa. Debería aparecer en la pestaña «Rutas» de la izquierda. 1. Haz clic en la segunda plataforma del mapa. Ahora debería haber dos entradas en la pestaña «Rutas» de la izquierda. 1. Escriba un nombre para la nueva ruta. Utilice el carácter `|` para separar distintos idiomas, por ejemplo `My route|Mi ruta`. 1. Haz clic en «Hecho» cuando hayas terminado.
+
+
+
+
+> <img alt="Crear Ruta" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/create-route.png" width=512/><br>Se ha creado la ruta que sirve a las dos plataformas.
+
+
+
+¡Ahora la ruta está completa! Presiona la tecla `Esc` del teclado para salir del panel de ferrocarril.
+
+## Depósitos y apartaderos
+
+Un apartadero es una sección de vía desde la que pueden salir trenes, y un depósito proporciona instrucciones sobre dónde deben ir los trenes.
+
+1. Crea un carril de apartadero siguiendo los pasos anteriores (descritos en la sección [Crear un carril](#creando_el_rail)) mientras utilizas el elemento conector del carril de apartadero. 1. Utilizando cualquiera de los otros elementos conectores de carril (no los elementos conectores de carril de plataforma o apartadero), conecta el apartadero la primera plataforma de la ruta. 1. Conecte de nuevo el apartadero a la última plataforma de la ruta. 1. Obtén el elemento [panel de ferrocarril]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards]]) y haz clic con el botón derecho del ratón para abrirlo. 1. En la pestaña `Depósitos`, haga clic en el botón de la parte inferior llamado `Añadir depósito`. 1. Dibuje un área de depósito sobre el apartadero y escriba un nombre en el cuadro de texto. Este proceso será muy similar a como se crearon las estaciones.
+
+## Horarios
+
+El depósito debe recibir un horario e instrucciones para que los [trenes]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]]) se muevan por la ruta predefinida. Las horas indicadas en el horario se basan en la [hora del juego]([[https://minecraft.gamepedia.com/Daylight_cycle]]), no en la hora de la vida real.
+
+1. Dentro del panel del ferrocarril, asegúrate de que la pestaña `Depósitos` está seleccionada. 1. Haga clic en el apartadero (en blanco) en el mapa. 1. Haga clic en el botón `SP 1900` (Por defecto sale este tren). Esto cambiará el tipo de tren que aparecerá. 1. Seleccione el tren y haga clic en el botón «+». 1. Pulsa `Esc` del teclado para volver a la pantalla principal del panel de control. 1. Pase el ratón por encima del depósito recién creado y haga clic en el icono del lápiz. Aparecerá la pantalla de configuración de horarios. 1. Arrastre todos los controles deslizantes hacia la derecha. Esto significa que los trenes saldrán cada veinte segundos en la vida real. 1. Haga clic en `Editar instrucciones` y pase el ratón por encima de la ruta que acaba de crear. Haga clic en el botón `+` para añadirla a las instrucciones del tren. 1. Haga clic en `Actualizar ruta`. Este botón debe pulsarse cada vez que se modifiquen las instrucciones del tren o los raíles. 1. Pulse `Esc` del teclado para salir del menú, y de nuevo para salir del cuadro de mandos.
+
+Un tren formado por <<vagonetas>> debería empezar a aparecer cada veinte segundos (de la vida real).
+
+## Bloques de plataformas
+
+Los [Bloques de plataformas]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block]]) es indispensable para recoger pasajeros. Coloca una fila de bloques de plataforma junto a cada raíl de plataforma.
+
+
+
+
+> <img alt="Bloques de plataformas" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Los bloques de plataformas deben colocarse junto al raíl de plataforma.
+
+
+
+Sube a cualquiera de las vagonetas. Disfruta del viaje; ¡el primer ferrocarril está completo!
+
+
+
+
+> <img alt="Disfruta del viaje" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/enjoy-ride.png" width=512/><br>Un jugador disfruta del viaje en tren.
+
+
+
+## Notas
+
+* Cada ruta debe tener al menos dos plataformas, de lo contrario no se generarán trenes.
+* Se puede añadir más de una ruta a las instrucciones del tren.
+  * El apartadero debe estar conectado (con raíles) al _primer_ andén de la _primera_ ruta y al _último_ andén de la _última_ ruta.
+  * El botón `Refrescar ruta` debe pulsarse cada vez que se modifiquen las instrucciones del tren o los raíles.
+* [Trenes]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]]) se detendrán momentáneamente en cada andén. Esto es normal.
+* El tren con vagonetas no está hecho con vagonetas reales del juego vanilla Minecraft. De hecho, colocando una vagoneta manualmente en los raíles no interactuará con las rutas u horarios en absoluto.
+* La longitud del tren que aparecerá está limitada por la longitud del apartadero.
+  * Si el andén es demasiado corto para generar un vagón, no aparecerá ningún tren.
+  * Consulta la página [Trenes]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]]) para conocer la longitud de cada tren.
+
+</markdown>
