@@ -1,0 +1,34 @@
+====== Minecraft Transit Railway ======
+
+**Minecraft Transit Railway** es un [[https://minecraft.wiki/Mods| Mod de Minecraft]] basado en el MTR de Hong Kong, el metro de Londres y el de Nueva York. Añade trenes al juego junto con otros bloques y objetos diversos. Con este mod, ¡es posible construir un sistema ferroviario totalmente funcional en tu mundo!
+
+Este mod está disponible para las versiones 1.16, 1.17, 1.18 y 1.19 de Minecraft Forge y Fabric (la 1.20 también está disponible en fase Alpha, por favor crea copias de seguridad antes de usar esta versión).
+
+Por favor, informe de cualquier problema o error que se encuentre; ¡lo agradeceremos mucho! Consulte la pestaña [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| Pestaña de problemas de GitHub]] o [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List| lista de tareas]] para ver los problemas conocidos actualmente.
+
+===== Primeros pasos =====
+
+Este [[/getting_started|tutorial de texto]] o [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC| lista de reproducción de vídeo ]] le guiará a través de los pasos básicos para configurar el primer ferrocarril.
+
+===== Descargas e Instalación =====
+
+Dirígete a la página de [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth]] o [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge]] para descargar el mod o para ver la información del proyecto.
+
+===== Versiones =====
+
+  * [[es:mtr:3.0.X| V3.0.X]]
+  * [[es:mtr:3.1.X| V3.1.X]]
+  * [[es:mtr:3.2.X| V3.2.X]]
+  * [[es:mtr:4.0.X| V4.0.X]]
+
+
+===== Páginas de la Wiki =====
+
+ <nspages -textPages="" -title -exclude>
+
+
+===== Licencia =====
+
+Este proyecto tiene [[https://opensource.org/licenses/MIT| licencia MIT]]. Todas las fuentes [[http://www.google.com/get/noto/| Noto fonts]], incluidas en este mod, tienen licencia [[http://scripts.sil.org/OFL| Licencia de fuente abierta]].
+
+~~NOCACHE~~
