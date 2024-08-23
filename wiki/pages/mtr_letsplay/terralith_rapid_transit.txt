@@ -115,6 +115,10 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 ===Shimano LRT===
 * [[LRV 1928]]
 
+* [[LRV 1999]]
+
+* [[Alexander Denis Enviro 200 JPN]](Bus)
+
 ===CLR===
 * [[CLR B90]]
 
@@ -183,8 +187,6 @@ Note:Temporary name
 
 ===Shimano LRT===
 * [[LRV 1943]]
-
-* [[Alexander Denis Enviro 200 JPN]]
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
