@@ -10,7 +10,7 @@
 | **Owner** | [[mtr_community:navi_lx9702|Navi]] |
 | **Status** | Operational |
 | **Regions** | [[mtr_letsplay:west_lake_area|西湖]] |
-| ::: | [[mtr_letsplay:jinnapak_region|真那帕]] |
+| ::: | [[mtr_letsplay:jinnapak_region|真纳帕]] |
 | ::: | Ishikari and Lake City |
 | **Termini** | [[mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
 | ::: | [[mtr_letsplay:lake_city_station|湖城]] |
