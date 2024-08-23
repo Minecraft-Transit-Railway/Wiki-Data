@@ -31,17 +31,18 @@
   - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。然后您将看到这么个窗口：
 
 <tabbox PrismLauncher/MultiMC> 
-
 以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
 
 <code ->
 <del>https://www.mcmtr.top/LetsPlay-Packwiz/MTR-LetsPlay.zip</del> (维护中)
+使用https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 </code>
 
   * 点击左上角的 **添加实例** 按钮。
   * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
   * 建议为 Java 分配 6 GiB 或更多运行内存。要进行编辑，请选择新出现的实例图标，单击右侧的 “编辑” 按钮，选择左侧的 “设置”，勾选 “内存” 复选框，并将 “最大内存分配” 设置为至少 6144 MiB。 \\ 但是这并不是“越多越好”，最好留出来至少 4GB 的余量。您可能得有一台安装了至少 16GB 内存的计算机才能玩得顺畅。
   * 双击新出现的实例图标。然后您将看到这么个窗口：
+
 
 <tabbox 其他启动器>
 
