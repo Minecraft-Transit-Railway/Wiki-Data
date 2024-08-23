@@ -6,14 +6,14 @@
 
 |  @#0FBFE4: **SW Plains Line **\\ **西南曠野綫**  ||
 ^  **Overview**  |^
-| **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| **Operator** | [[mtr_letsplay:wilds_railway|旷野铁路]] |
 | **Owner** | [[mtr_community:navi_lx9702|Navi]] |
 | **Status** | Operational |
-| **Regions** | [[mtr_letsplay:west_lake_area|West Lake]] |
-| ::: | [[mtr_letsplay:jinnapak_region|Jinnapak]] |
+| **Regions** | [[mtr_letsplay:west_lake_area|西湖]] |
+| ::: | [[mtr_letsplay:jinnapak_region|真那帕]] |
 | ::: | Ishikari and Lake City |
-| **Termini** | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
-| ::: | [[mtr_letsplay:lake_city_station|Lake City]] |
+| **Termini** | [[mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
+| ::: | [[mtr_letsplay:lake_city_station|湖城]] |
 | **Connecting Lines** | @#89ac76: [[/cin_gyun_line|Cin Gyun Line]] |
 | ::: | @#036afa: [[/circulator_ip|Circulator IP]] |
 | ::: | @#19dfde: [[/lakeside_mystic_line|Lakeside Mystic Line]] |
