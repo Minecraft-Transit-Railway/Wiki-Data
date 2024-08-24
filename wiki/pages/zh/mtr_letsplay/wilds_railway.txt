@@ -9,12 +9,12 @@
 | {{ :mtr_letsplay:wr_logo_v1.png?350 }}  ||
 |  旷野铁路的Logo.  ||
 |  @#0FBFE4:  **Overview**  ||
-| **Locale**  | [[mtr_letsplay:start|Let's Play Server]]  |
+| **Locale**  | [[zh:mtr_letsplay:start|Let's Play服务器]]  |
 | **Transit Type**  | [[wp>heavy_rail|重铁]]  |
 | ::: | [[wp>Bus_rapid_transit|BRT]]  |
-| **Number of lines**  | Heavy Rail: 5  |
+| **线路数量**  | 重铁: 5  |
 | ::: | BRT: 1  |
-| **Number of stations**  | Heavy Rail: 23  |
+| **车站数量**  | 重铁: 23  |
 | ::: | Bus transit: 14  |
 | **Daily ridership**  | 7002  |
 | **Owner (s)** | [[mtr_community:navi_lx9702|Navi]] |
