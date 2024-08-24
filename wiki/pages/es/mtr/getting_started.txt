@@ -1,6 +1,6 @@
-FIXME **Esta página no está completamente traducida, aún. Por favor, contribuye a su traducción.**\\ //(Elimina este párrafo una vez la traducción esté completa)//
+FIXME **Esta página falta corregir los enlaces.**\\ //(Una vez que esté corregido, elimina este párrafo)//
 
-====== Introducción ======
+====== Primeros pasos ======
 
 El lanzamiento de la versión 3.0 de //Minecraft Transit Railway// ha reimaginado el concepto de los sistemas de trenes de Minecraft. En lugar de utilizar la tradicional [[https://minecraft.gamepedia.com/Minecart|vagoneta]], un sistema de un panel central controla dónde están los trenes en todo momento. Entidades rezagadas, trenes inactivos dentro de <<chunks>> no cargados y servidores sobrecargados son ahora problemas del pasado.
 
@@ -93,7 +93,12 @@ Ahora las dos estaciones deberán de ser visibles en el mapa.
 
 Una ruta es simplemente una lista de plataformas (no de estaciones). Los trenes asignados a una ruta intentarán encontrar un camino para visitar todos las plataformas. Al final de la ruta, los trenes serán retirados.
 
-1. En el panel de ferrocarril, haga clic en la pestaña «Rutas». 1. Haga clic en el botón de la parte inferior llamado `Añadir ruta`. 1. El mapa está ahora en modo edición. Haga clic en el primer andén (en blanco) del mapa. Debería aparecer en la pestaña «Rutas» de la izquierda. 1. Haz clic en la segunda plataforma del mapa. Ahora debería haber dos entradas en la pestaña «Rutas» de la izquierda. 1. Escriba un nombre para la nueva ruta. Utilice el carácter `|` para separar distintos idiomas, por ejemplo `My route|Mi ruta`. 1. Haz clic en «Hecho» cuando hayas terminado.
+1. En el panel de ferrocarril, haga clic en la pestaña «Rutas».
+1. Haga clic en el botón de la parte inferior llamado `Añadir ruta`.
+1. El mapa está ahora en modo edición. Haga clic en el primer andén (en blanco) del mapa. Debería aparecer en la pestaña «Rutas» de la izquierda.
+1. Haz clic en la segunda plataforma del mapa. Ahora debería haber dos entradas en la pestaña «Rutas» de la izquierda.
+1. Escriba un nombre para la nueva ruta. Utilice el carácter `|` para separar distintos idiomas, por ejemplo `My route|Mi ruta`.
+1. Haz clic en «Hecho» cuando hayas terminado.
 
 
 
@@ -108,24 +113,37 @@ Una ruta es simplemente una lista de plataformas (no de estaciones). Los trenes 
 
 Un apartadero es una sección de vía desde la que pueden salir trenes, y un depósito proporciona instrucciones sobre dónde deben ir los trenes.
 
-1. Crea un carril de apartadero siguiendo los pasos anteriores (descritos en la sección [Crear un carril](#creando_el_rail)) mientras utilizas el elemento conector del carril de apartadero. 1. Utilizando cualquiera de los otros elementos conectores de carril (no los elementos conectores de carril de plataforma o apartadero), conecta el apartadero la primera plataforma de la ruta. 1. Conecte de nuevo el apartadero a la última plataforma de la ruta. 1. Obtén el elemento [panel de ferrocarril]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards]]) y haz clic con el botón derecho del ratón para abrirlo. 1. En la pestaña `Depósitos`, haga clic en el botón de la parte inferior llamado `Añadir depósito`. 1. Dibuje un área de depósito sobre el apartadero y escriba un nombre en el cuadro de texto. Este proceso será muy similar a como se crearon las estaciones.
+1. Crea un carril de apartadero siguiendo los pasos anteriores (descritos en la sección [Crear un carril](#creando_el_rail)) mientras utilizas el elemento conector del carril de apartadero.
+1. Utilizando cualquiera de los otros elementos conectores de carril (no los elementos conectores de carril de plataforma o apartadero), conecta el apartadero la primera plataforma de la ruta.
+1. Conecte de nuevo el apartadero a la última plataforma de la ruta.
+1. Obtén el elemento [panel de ferrocarril]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Dashboards]]) y haz clic con el botón derecho del ratón para abrirlo.
+1. En la pestaña `Depósitos`, haga clic en el botón de la parte inferior llamado `Añadir depósito`.
+1. Dibuje un área de depósito sobre el apartadero y escriba un nombre en el cuadro de texto. Este proceso será muy similar a como se crearon las estaciones.
 
 ## Horarios
 
 El depósito debe recibir un horario e instrucciones para que los [trenes]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]]) se muevan por la ruta predefinida. Las horas indicadas en el horario se basan en la [hora del juego]([[https://minecraft.gamepedia.com/Daylight_cycle]]), no en la hora de la vida real.
 
-1. Dentro del panel del ferrocarril, asegúrate de que la pestaña `Depósitos` está seleccionada. 1. Haga clic en el apartadero (en blanco) en el mapa. 1. Haga clic en el botón `SP 1900` (Por defecto sale este tren). Esto cambiará el tipo de tren que aparecerá. 1. Seleccione el tren y haga clic en el botón «+». 1. Pulsa `Esc` del teclado para volver a la pantalla principal del panel de control. 1. Pase el ratón por encima del depósito recién creado y haga clic en el icono del lápiz. Aparecerá la pantalla de configuración de horarios. 1. Arrastre todos los controles deslizantes hacia la derecha. Esto significa que los trenes saldrán cada veinte segundos en la vida real. 1. Haga clic en `Editar instrucciones` y pase el ratón por encima de la ruta que acaba de crear. Haga clic en el botón `+` para añadirla a las instrucciones del tren. 1. Haga clic en `Actualizar ruta`. Este botón debe pulsarse cada vez que se modifiquen las instrucciones del tren o los raíles. 1. Pulse `Esc` del teclado para salir del menú, y de nuevo para salir del cuadro de mandos.
+1. Dentro del panel del ferrocarril, asegúrate de que la pestaña `Depósitos` está seleccionada.
+1. Haga clic en el apartadero (en blanco) en el mapa.
+1. Haga clic en el botón `SP 1900` (Por defecto sale este tren). Esto cambiará el tipo de tren que aparecerá.
+1. Seleccione el tren y haga clic en el botón «+». 1. Pulsa `Esc` del teclado para volver a la pantalla principal del panel de control.
+1. Pase el ratón por encima del depósito recién creado y haga clic en el icono del lápiz. Aparecerá la pantalla de configuración de horarios.
+1. Arrastre todos los controles deslizantes hacia la derecha. Esto significa que los trenes saldrán cada veinte segundos en la vida real.
+1. Haga clic en `Editar instrucciones` y pase el ratón por encima de la ruta que acaba de crear. Haga clic en el botón `+` para añadirla a las instrucciones del tren.
+1. Haga clic en `Actualizar ruta`. Este botón debe pulsarse cada vez que se modifiquen las instrucciones del tren o los raíles.
+1. Pulse `Esc` del teclado para salir del menú, y de nuevo para salir del cuadro de mandos.
 
 Un tren formado por <<vagonetas>> debería empezar a aparecer cada veinte segundos (de la vida real).
 
-## Bloques de plataformas
+## Bloques de andenes
 
-Los [Bloques de plataformas]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block]]) es indispensable para recoger pasajeros. Coloca una fila de bloques de plataforma junto a cada raíl de plataforma.
-
-
+Los [Bloques de andenes]([[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block]]) es indispensable para recoger pasajeros. Coloca una fila de bloques de andenes junto a cada raíl de plataforma.
 
 
-> <img alt="Bloques de plataformas" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Los bloques de plataformas deben colocarse junto al raíl de plataforma.
+
+
+> <img alt="Bloques de andenes" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Los bloques de andenes deben colocarse junto al raíl de plataforma.
 
 
 
@@ -134,7 +152,7 @@ Sube a cualquiera de las vagonetas. Disfruta del viaje; ¡el primer ferrocarril 
 
 
 
-> <img alt="Disfruta del viaje" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/enjoy-ride.png" width=512/><br>Un jugador disfruta del viaje en tren.
+> <img alt="Disfrutar del viaje" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/enjoy-ride.png" width=512/><br>Un jugador disfruta del viaje en tren.
 
 
 
