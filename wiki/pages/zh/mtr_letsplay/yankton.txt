@@ -74,62 +74,64 @@
 
 <WRAP left>
 
-**铁路信息**
+**地铁部分**
 
-| **G** | 出口 | Exit B-E |
-| **U1** | 商店 | Exit B-E Passageway |
-| **U2/UC** | **大堂** | VIP候车室，大门，A出口，J通道出口 |
+| **G** | 出口 | 出口 B-E |
+| **U1** | 商店 | 出口 B-E 通道 |
+| **U2/UC** | **大堂** | VIP 候车厅，大门，A出口，J出口通道 |
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|雪央线]] 站台** ||
-| ::: | @#375E14: **[[mtr_letsplay:snowie_line|雪伊线]] <color #ffffff>站台</color>** ||
-| ::: | 站台 **1** | [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:suzumenda_station|雀田]] -> |
-| ::: |  岛式站台  ||
-| ::: | 站台 **2** | <- [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:divillage_island_station|二民岛]] |
-| ::: | 站台 **3** | [[mtr_letsplay:snowie_line|雪伊线]] 往 [[mtr_letsplay:eden_station|伊甸]] -> |
-| ::: |  岛式站台  ||
-| ::: | 站台 **4** | <- [[mtr_letsplay:snowie_line|雪伊线]] 往 [[mtr_letsplay:southorn_station|修顿]] |
-| **U4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 站台** ||
-| ::: |  侧式站台  ||
-| ::: | 站台 **L1** | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
-| ::: | 站台 **L2** | <- [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁运输系统]] 终到站台 |
-| ::: |  侧式站台  ||
-| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|弯顿线]] **<color #ffffff>站台**</color>** ||
-| ::: | 站台 **5** | [[mtr_letsplay:wanton_line|弯顿线]] 往 [[mtr_letsplay:on_hau_station|岸口]] -> |
-| ::: |  岛式站台  ||
-| ::: |  换乘大厅、候车室  ||
-| ::: |  岛式站台  ||
-| ::: | 站台 **6** | <- [[mtr_letsplay:wanton_line|弯顿线]] 往 [[mtr_letsplay:jacaranda_hill_station|楹山]] |
-| **U6** | @#19DFDE: **[[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 站台** ||
-| ::: | @#65411D: **[[mtr_letsplay:south_continental_line|南大陆线]] <color #ffffff>站台</color>** ||
-| ::: | 站台 **7** | [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 往[[mtr_letsplay:gate_of_yunlong_station|云龙之门]] -> |
-| ::: |  岛式站台  ||
-| ::: | 站台 **8** | <- [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]] 往 [[mtr_letsplay:lake_city_station|湖城]]/[[mtr_letsplay:kowloon_station|九龙]] |
-| ::: | 站台 **9** | [[mtr_letsplay:south_continental_line|南大陆线]]往[[mtr_letsplay:cyan_heights_station|蓝台]] -> |
-| ::: | 岛式站台 ||
-| ::: | 平台 **10** | <- [[mtr_letsplay:south_continental_line|南大陆线]] 终到站台 |
+| ::: | @#375E14: **[[mtr_letsplay:snowie_line|雪伊线站台]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **1** | [[mtr_letsplay:snowtral_line|雪央线]] 往 [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:divillage_island_station|Divillage Island]] |
+| ::: | Platform **3** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **4** | <- [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:southorn_station|Southorn]] |
+| **U4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
+| ::: |  Side Platform  ||
+| ::: | Platform **L1** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to [[mtr_letsplay:yanktei_station|Yanktei]] -> |
+| ::: | Platform **L2** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Terminated Platform |
+| ::: |  Side Platform  ||
+| **U5/LC** | @#151C69: **[[mtr_letsplay:wanton_line|Wanton Line]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **5** | [[mtr_letsplay:wanton_line|Wanton Line]] to [[mtr_letsplay:on_hau_station|On Hau]] -> |
+| ::: |  Island Platform  ||
+| ::: |  Transfer Lobby, Resting Room  ||
+| ::: |  Island Platform  ||
+| ::: | Platform **6** | <- [[mtr_letsplay:wanton_line|Wanton Line]] to [[mtr_letsplay:jacaranda_hill_station|Jacaranda Hill]] |
+| **U6** | @#19DFDE: **[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] Platforms** ||
+| ::: | @#65411D: **[[mtr_letsplay:south_continental_line|South Continental Line]] <color #ffffff>Platforms</color>** ||
+| ::: | Platform **7** | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:gate_of_yunlong_station|Gate of Yunlong]] -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **8** | <- [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] to [[mtr_letsplay:lake_city_station|Lake City]]/[[mtr_letsplay:kowloon_station|Kowloon]] |
+| ::: | Platform **9** | [[mtr_letsplay:south_continental_line|South Continental Line]] to [[mtr_letsplay:spawn|Cyan Heights]] -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **10** | <- [[mtr_letsplay:south_continental_line|South Continental Line]] Terminated Platform |
 
-**高铁部分**
+**HSR Phase**
 
-| **G** | 出口 | 出口J |
-| **M** | 通道 | 出口J通道 |
-| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|高铁北原线]] 站台** ||
-| ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] 站台** ||
-| ::: | 预留铁轨 -> ||
-| ::: | <- 预留铁轨 ||
-| ::: | 站台 **11** | 预留站台 -> |
-| ::: |  岛式站台  ||
-| ::: | 站台 **12** | 预留站台 -> |
-| ::: | 站台 **13** | <- 预留站台 |
-| ::: |  岛式站台  ||
-| ::: | 站台 **14** | <- [[mtr_letsplay:hsr_northern_heights_line|高铁北原线]] 往 [[mtr_letsplay:llanmara_saint_ann_station|湾堡城中心]] |
-| ::: | 站台 **15** | <- [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]] 往 [[mtr_letsplay:yongchun_station|六花市]] |
-| ::: |  侧式站台  ||
-| **L2** | **出口大厅** | 出口大门、高铁换乘大堂 |
-| **L3** | **入口大堂** | Ａ出口通道、入口大门 |
-| **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|杨克顿高铁自动运输系统]]** ||
-| ::: |  侧式站台  ||
-| ::: | Platform **L3** | [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁自动运输系统]] 往 [[mtr_letsplay:yanktei_station|杨地]] -> |
-| ::: | Platform **L4** | <- [[mtr_letsplay:hsr_yankton_apm|杨克顿高铁自动运输系统]] 往 杨克顿 (地铁部分) |
-| ::: |  侧式站台  ||
+| **G** | Exits | Exit J |
+| **M** | Passageway | Exit J Passageway |
+| **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] Platforms** ||
+| ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
+| ::: | Passing Track -> ||
+| ::: | <- Passing Track ||
+| ::: | Platform **11** | Reserved Platform -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **12** | Reserved Platform -> |
+| ::: | Platform **13** | <- Reserved Platform |
+| ::: |  Island Platform  ||
+| ::: | Platform **14** | <- [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] to [[mtr_letsplay:llanmara_saint_ann_station|Llanmara Saint Ann's]] |
+| ::: | Platform **15** | <- [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to [[mtr_letsplay:rikkashi_station|Rikkashi]] |
+| ::: |  Side Platform  ||
+| **L2** | **Exit Concourse** | Exit Gates, HSR Transfer Lobby |
+| **L3** | **Entrance Lobby** | Exit A Passageway, Entrance gates |
+| **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
+| ::: |  Side Platform  ||
+| ::: | Platform **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to [[mtr_letsplay:yanktei_station|Yanktei]] -> |
+| ::: | Platform **L4** | <- [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to Yankton (Metro Phase) |
+| ::: |  Side Platform  ||
+
+</WRAP>
 
 </WRAP>
 
