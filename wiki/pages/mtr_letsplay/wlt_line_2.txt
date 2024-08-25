@@ -18,14 +18,14 @@
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
 | ::: | @#0CAF35:<color black>Spawn Grand Circular</color> |
 | ::: | @#1C7670:<color white>Airport Express(WIP)</color> |
-| ::: | Scottetsu Line |
+| ::: | @#F396AA:Scottetsu Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | BCT Red Line |
 | ::: | High Speed Rail |
 | ::: | Metro Pengaloo Line |
 | ::: | AT Metro |
 | ::: | AT Regional |
-| ::: | [[/lilac_light_rail|Lilac Light Rail]] |
+| ::: | @#D3A80A:[[/lilac_light_rail|Lilac Light Rail]] |
 | ::: | Chin Ka Village Fast, Frequent and Free Light Rail |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | Kallos Ferry |
