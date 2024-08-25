@@ -14,21 +14,24 @@
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/forest_peaks_station|Forest Peaks]]\\ //(West section temporary terminus)//\\ [[/coast_city_station|Coast City]]\\ //(East section temporary terminus)//\\ [[/ostania_station|Ostania]]\\ //(future through-running service with [[/cyanex|CyanEX Rapid Transit]])//\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
-| ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
+| ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#0CAF35:<color black>Spawn Grand Circular</color> |
 | ::: | @#1C7670:<color white>Airport Express(WIP)</color> |
 | ::: | @#F396AA:Scottetsu Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
-| ::: | BCT Red Line |
-| ::: | High Speed Rail |
-| ::: | Metro Pengaloo Line |
-| ::: | AT Metro |
-| ::: | AT Regional |
+| ::: | @#C50000:<color white>BCT Red Line</color> |
+| ::: | @#E7792A:<color white>High Speed Rail</color> |
+| ::: | @#7090FF:[[/sightseeing_express|Sightseeing Local Line]] |
+| ::: | @#7091FF:[[/sightseeing_express|Sightseeing Line]] |
+| ::: | @#043989:<color white>Metro Pengaloo Line</color> |
+| ::: | @#0075DB:<color white>AT Metro</color> |
+| ::: | @#83B818:Tramlink |
+| ::: | @#B385DE:AT Regional |
 | ::: | @#D3A80A:[[/lilac_light_rail|Lilac Light Rail]] |
-| ::: | Chin Ka Village Fast, Frequent and Free Light Rail |
+| ::: | @#572606:<color white>Chin Ka Village Fast, Frequent and Free Light Rail</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
-| ::: | Kallos Ferry |
+| ::: | @#00E0FF:Kallos Ferry |
 | **Stations** | 10 //(3 work in progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] //(West section)//\\ [[/qingli_railways|QLR]] //(East Section)// |
