@@ -12,20 +12,29 @@
 | **Locale** | West Denthrope (Mesa)\\ [[/resort_area|Resort]]\\ [[/east_north_tundra_area|East North Tundra]]\\ [[/zuidbaai_centraal_station|Zuidbaai]]\\ [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/tai_po_station|Tai Po]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
-| ::: | @#FFFFFF:<color black>Metro Marble Line</color> |
-| ::: | @#7BACF6:<color black>Shinx Line</color> |
+| ::: | @#94d1d1:Line 3 (Cyan Gray Line) (WIP) |
+| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] (WIP)</color> |
+| ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (WIP) |
+| ::: | @#D3A80A:<color white>[[/lilac_light_rail|Lilac Light Rail]] (Planning)</color> |
+| ::: | @#E41A56:<color white>Oculink Red Line (WIP)</color> |
+| ::: | @#22A046:<color white>Metro Marble Line</color> |
+| ::: | @#389165:<color white>Hillside Line (WIP)</color> |
+| ::: | @#72B24A:Light Rail Metro (WIP) |
+| ::: | @#0032B6:<color white>BCT Blue Line (WIP)</color> |
+| ::: | @#7BACF6:Shinx Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
-| ::: | @#7091FF:<color white>Sightseeing Local Line</color> |
-| ::: | @#7091FF:<color white>[[sightseeing_express|Sightseeing Express]]</color> |
+| ::: | @#7090FF:<color white>[[/sightseeing_express|Sightseeing Local Line]]</color> |
+| ::: | @#7091FF:<color white>[[/sightseeing_express|Sightseeing Line]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
+| ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
 | ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
 | **Stations** | 11 //(Opened)//\\ 7 //(Work in Progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 04:34 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 2 - 9 mins |
+| **Frequency** | Every 2 - 9 mins((May get up to 18 mins right after first train)) |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management)) |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
@@ -176,20 +185,20 @@ Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 ))  | ::: | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1**</color>  ||||||||
 |  @#F7B85A:  |  @#202020:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
-| ::: | ::: | ::: | ::: | ::: |  @#94d1d1:  Line 3 (Cyan Gray Line)  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#94d1d1: Line 3 (Cyan Gray Line)  | ::: | ::: |
 |    | ::: |  <color #808080>//Chi Chuk//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
 |    | ::: |  <color #808080>//Ying Mo//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%櫻暮%%//</color>  |  <color #808080>//YIM//</color>  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  |  | ::: |
-| ::: | ::: | ::: | ::: | ::: |  [[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
-|  @#202020:  |    |  [[/mei_foo_wan_station|Mei Foo Wan]]((Station is WIP but available for entering and exiting))  |  %%美麩灣%%  |  MFW  |    |  2 July, 2024  |  [[/resort_area|Resort Area]]  |
-| ::: |    |  <color #808080>//Haymarket//</color>((Not finished construction and not open))  |  <color #808080>//%%喜瑪旗%%//</color>  |  <color #808080>//HAY//</color>  |  Oculink Red Line  |  |  :::  |
-| ::: |    |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  Metro Marble Line  |  11 March, 2023  |  [[/east_north_tundra_area|East North Tundra Area]]  |
-| ::: |    |  <color #808080>//Zuidbaai Centraal//</color>((Not finished construction and not open))  |  <color #808080>//%%醉白池總站%%//</color>  |  <color #808080>//ZUI//</color>  |  Hillside Line  |  |  Zuidbaai  |
-| ::: | ::: | ::: | ::: | ::: |  Light Rail Metro  | ::: | ::: |
-| ::: | ::: | ::: | ::: | ::: |  BCT Blue Line (via Zuidbaai)  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
+|  @#202020:  |  @#DE5594:  |  [[/mei_foo_wan_station|Mei Foo Wan]]((Station is WIP but available for entering and exiting))  |  %%美麩灣%%  |  MFW  |    |  2 July, 2024  |  [[/resort_area|Resort Area]]  |
+| ::: |    |  <color #808080>//Haymarket//</color>((Not finished construction and not open))  |  <color #808080>//%%喜瑪旗%%//</color>  |  <color #808080>//HAY//</color>  |  @#E41A56:<color white>Oculink Red Line</color>  |  |  :::  |
+| ::: |  @#22A046:  |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  @#22A046:<color white>Metro Marble Line</color>  |  11 March, 2023  |  [[/east_north_tundra_area|East North Tundra Area]]  |
+| ::: |    |  <color #808080>//Zuidbaai Centraal//</color>((Not finished construction and not open))  |  <color #808080>//%%醉白池總站%%//</color>  |  <color #808080>//ZUI//</color>  |  @#389165:<color white>Hillside Line</color>  |  |  Zuidbaai  |
+| ::: | ::: | ::: | ::: | ::: |  @#72B24A:Light Rail Metro  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#0032B6:<color white>BCT Blue Line (via Zuidbaai)</color>  | ::: | ::: |
 | ::: |    |  <color #808080>//Chung Kong//</color>((Not finished construction and not open))  |  <color #808080>//%%松江%%//</color>  |  <color #808080>//CHK//</color>  |  @#94D1D1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  |  :::  |
 |    ||  <color #808080>//Tung Yuen//</color>((
 Not finished construction and not open
@@ -198,8 +207,8 @@ Not finished construction and not open
 | ::: || ::: | ::: | ::: |  @#9C5E31:  <color #ffffff>Furret Line</color>  | ::: | ::: |
 |  @#F62B11:  ||  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |  HNT  |   |  11 February, 2023  |  Sakura Stream  |
 |  @#00EBFF:  ||  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  SAS  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
-| ::: || ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Express]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
-|  @#A8DFF0:  ||  [[/providence_station|Providence]]  |  %%公積%%  |  PVD  |  @#7091FF: <color white>Sightseeing Local Line</color>  |  15 July, 2022  | ::: |
+| ::: || ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Line]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
+|  @#A8DFF0:  ||  [[/providence_station|Providence]]  |  %%公積%%  |  PVD  |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Local Line]]</color>  |  15 July, 2022  | ::: |
 |  @#51C7FA:  ||  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  BIH  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
 |  @#F4B829:  ||  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  CKK  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
 |  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
@@ -207,5 +216,5 @@ Not finished construction and not open
 |   ||  //[[/yuen_chow_kok_station|Yuen Chow Kok]]//((
 Not finished construction and not open
 ))  |  <color #808080>//%%圓周角%%//</color>  |  YCK  |   |   | ::: |
-|   ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F:[[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((Interchange only))  | ::: |
+|  @#E1DD46:  ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F:[[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((Interchange only))  | ::: |
 
