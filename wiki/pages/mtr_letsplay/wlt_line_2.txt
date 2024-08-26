@@ -47,7 +47,7 @@
 | **Operating**\\ **Speed** | Average: 33 km/h (9.2 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  //(Coming Soon)//  ||
+|  {{/line2.png?420}}  ||
 
 </WRAP>
 
