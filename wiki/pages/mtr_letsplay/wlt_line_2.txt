@@ -217,3 +217,12 @@ Saving one out of station interchange between Spawn station and [[/cyan_heights_
 
 ===== Stations (WIP) =====
 
+|  **%%Livery and Station Name%%**  |||||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
+|  English  |||  Chinese  |  Abbreviation((
+Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
+))  | ::: | ::: | ::: |
+|  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Kwong Chow Line section**  ||||||||
+|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#eb7ae9: [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  22 December, 2022  | [[/west_lake_area|West Lake]] |
+| ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
+|  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - North Coast Line section**  ||||||||
+|  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Sightseeing Line Phase 3, 4 section**  ||||||||
