@@ -24,6 +24,7 @@
 | ::: | @#E7792A:<color white>High Speed Rail</color> |
 | ::: | @#7090FF:[[/sightseeing_express|Sightseeing Local Line]] |
 | ::: | @#7091FF:[[/sightseeing_express|Sightseeing Line]] |
+| ::: | @#65411D:<color white>Metro South Continental Line</color> |
 | ::: | @#043989:<color white>Metro Pengaloo Line</color> |
 | ::: | @#0075DB:<color white>AT Metro</color> |
 | ::: | @#83B818:Tramlink |
