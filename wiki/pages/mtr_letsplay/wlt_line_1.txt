@@ -34,7 +34,7 @@
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 04:34 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 2 - 9 mins((May get up to 18 mins right after first train)) |
+| **Frequency** | Every 1 - 8 mins((May get up to 18 mins near first  and last train)) |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management)) |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
 ^  History  |^
@@ -157,15 +157,15 @@ Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternati
 
 <WRAP center>
 
-^  Average Train Intervals (in mins)  |||^
+^  Average Train Intervals (in mins)((May get up to 18 mins near first  and last train))  |||^
 |  @#EB7AE9:  ||||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |||
 | ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
-|  5 am - 9 am  |  3 / 6  |  9  |  8.5 / 9.5  |
-|  9 am - 9 pm  |  3  |  6  |  5.5 / 6.5  |
-|  9 pm - 11 pm  |  2.1  |  4.2  |  3.6 / 4.8  |
-|  11 pm - 1 am  |  3  |  6  |  5.5 / 6.5  |
-|  1 am - 3 am  |  3 / 6  |  9  |  8.5 / 9.5  |
+|  5 am - 9 am  |  2.7 / 5.3  |  8  |  8  |
+|  9 am - 9 pm  |  1.5 - 3.5  |  5 - 6  |  4.3 - 5.8  |
+|  9 pm - 11 pm  |  1.3 - 2.7  |  4  |  3.3 - 4.7  |
+|  11 pm - 1 am  |  1.5 - 3.5  |  5 - 6  |  4.3 - 5.8  |
+|  1 am - 3 am  |  2.7 / 5.3  |  8  |  8  |
 
 </WRAP>
 
