@@ -121,8 +121,8 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 
 =====Routes=====
 ^Route Name^Transit point^Parallel routes^^
-|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village ⇄ Midori Peninsula ⇄ Izumi South ⇄ Landfall |Shimano Line\\ Marine Line\\ Hybra Line\\ Northern Line||
-|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Landfall|Hybra Line\\ Northern Line||
+|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai |Shimano Line\\ Marine Line\\ Hybra Line\\ Northern Line||
+|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Kamiyonai|Hybra Line\\ Northern Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Donggang ⇄ New Gold|Shimano Line\\ Zasian Line||
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None||
 |萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None||
@@ -137,4 +137,4 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 | ::: |黑01(KR01)|Green Cape ⇄ Kurokusa ⇄ New Gold |
 ====Former====
 ^Company&Route^Route Name^Operation section^
-|Teufort LRT U2|相01(AC01)|Kurokusa Depot ⇄ Landfall ⇄ Banana Bay |
+|Teufort LRT U2|相01(AC01)|Kurokusa Depot ⇄ Landfall((Current:Kamiyonai)) ⇄ Banana Bay |
