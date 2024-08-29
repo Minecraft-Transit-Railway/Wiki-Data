@@ -11,7 +11,7 @@
 | **Number of lines** | |
 | **Number of stations** | |
 | **Inspiration** | [[wp>Utsunomiya_Light_Rail|Utsunomiya Light Rail]] |
-|  | [[Teufort LRT|Teufort LRT]] |
+|  | Teufort LRT |
 | **Colour on map** | Navy (#000088) |
 |  @#EFEEF0:  **Service & Operation**  ||
 | **Began passenger operation** | August 26, 2023 |
@@ -28,72 +28,96 @@
 </WRAP>
 Shimano LRT (zh:縞野軽鐵) is an LRT line owned by [[Terralith Rapid Transit|Terralith Rapid Transit]] (TRT) and operated by [[Shimano MTR|Shimano LRT]] (the LRT division of SMTR). It has a role to complement the railroad blank area of the route such as SMTR.
 
-The system is based on the [[Teufort LRT|Teufort LRT]](TLRT) and has been customized for left-hand traffic. The vehicle is also the [[S43-Tec LRV|S43-Tec LRV]] used in the Teufort LRT, and is known to have a variety of colors as a feature.
+This system is based on the former Teufort LRT (TLRT) and customized for left-hand traffic. The vehicles were originally S43-Tec LRVs used in the Teufort LRT, but all of them have been replaced with compatible vehicles created by OTS.
 
-Originally, it was planned to be based on the Hong Kong LRT, but there is a history of changing to the S43-Tec LRV because of its maneuverability and ease of handling.
+Initially, it was planned to be based on the Hong Kong LRT, but due to its maneuverability and ease of handling, the S43-Tec LRV and its derivatives were used instead.
 
 =====Features=====
   * This line basically plays a complementary role to existing or planned lines with long distances between stations, including lines other than SMTR, so there is a strong tendency to construct it in parallel with the line. ((There are some routes that do not have parallel routes, such as the HG system.))
   * Except for existing stations, there is a strong tendency for station names to be written in Japanese.
   * Unlike SMTR, the construction method is simplified and tends not to create stations with different designs from station to station.
-  * As mentioned above, it is compatible with TLRT and actually provides through service with TLRT.
+  * As mentioned above, it is compatible with the TLRT and actually once offered direct service to it.
   * In principle, only CJK ((example:"相01")) is indicated as the number, which is different from other LRT lines. ((English notation can be confirmed on the system map.))((The system numbers of the Tokyo Metropolitan Bureau of Transportation are used as a reference.))
 
 =====Rolling Stock=====
-All vehicles are S43-tec LRV or compatible models.
-It varies slightly depending on the route, but basically it is operated without distinction between vehicles.
+All vehicles except for those on the HG route are derived from the S43-tec LRV.
+Although there are slight differences depending on the route, basically all vehicles are operated without distinction.
 
 Gray indicates trains that have not yet been introduced.
+Grey with italics indicates retired trains.
+
 ====List of liveries=====
 ====Shimano LRT====
 Currently, trains with four or more cars are operated with the same model and the same livery.
 ===Standard Model===
+==Current==
 ^  Model  ^  Livery  ^  Cars  ^
 | **1928 Stock** | Dark Green | 2 or 4 |
-| **1975 Stock** | Pink | ::: |
-| **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with Bombardier mitrac igbt-vvvf.)) | Pink | ::: |
-| **1980 Stock** | Blue | ::: |
-| **Refurbished 1980 Stock** | Yellow\\ White\\ Violet(Evangelion Unit-01) | ::: |
-| **1987 Stock** | Green\\ White&Red&Maroon(Commemorating the extension of the Kita-Osaka Kyuko Line Livery)  | ::: |
-| **1995 Stock** | Orange\\ Wood\\ Reaf(Toden 8500 style) | ::: |
-| **2002 Stock** | Red((Same as default S43-tec color except logo))\\ Scarlet(Evangelion Unit-02) | ::: |
-| **2010 Stock** | Purple | ::: |
-| **2020 Stock** | Gold\\ Yellow & Dark Gray(Utsunomiya Light Rail Opening Commemoration Livery) | ::: |
-| **2024 Stock** | Magenta | ::: |
-| @#888888: **1943 Stock** | @#888888: TBA | @#888888:2 or 4 |
+| **1999 Stock** | Alps Green\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green | ::: |
+| **1999T Stock** | TBA | ::: |
+| **2015 Stock** | TBA | ::: |
+| @#888888: **1954 Stock** | @#888888:TBA | @#888888:2 or 4 |
+| @#888888: **1954M Stock** | ::: | ::: |
+| @#888888: **1954MM Stock** | ::: | ::: |
+| @#888888: **1980 Stock** | ::: | ::: |
+| @#888888: **1990 Stock** | ::: | ::: |
+| @#888888: **1998 Stock** | ::: | ::: |
+Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+==Former==
+^  Model  ^  Livery  ^  Cars  ^
+| @#888888: //1975 Stock// | @#888888: //Pink// | @#888888: //2 or 4// |
+| @#888888: //VVVF Refurbished 1975 Stock//((Only Traction System was replaced with Bombardier mitrac igbt-vvvf.)) | @#888888: //Pink// | ::: |
+| @#888888: //1980 Stock// | @#888888: //Blue// | ::: |
+| @#888888: //Refurbished 1980 Stock// | @#888888: //Yellow\\ White\\ Violet(Evangelion Unit-01)// | ::: |
+| @#888888: //1987 Stock// | @#888888: //Green\\ White&Red&Maroon(Commemorating the extension of the Kita-Osaka Kyuko Line Livery)//  | ::: |
+| @#888888: //1995 Stock// | @#888888: //Orange\\ Wood\\ Reaf(Toden 8500 style)// | ::: |
+| @#888888: //2002 Stock// | @#888888: //Red((Same as default S43-tec color except logo))\\ Scarlet(Evangelion Unit-02)// | ::: |
+| @#888888: //2010 Stock// | @#888888: //Purple// | ::: |
+| @#888888: //2020 Stock// | @#888888: //Gold\\ Yellow & Dark Gray(Utsunomiya Light Rail Opening Commemoration Livery)// | ::: |
+| @#888888: //2024 Stock// | @#888888: //Magenta// | ::: |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 
-===Shimano MTR Compatible Model===
+==Shimano MTR Compatible Model==
 A model compatible with through service to Shimano MTR.
 Unlike the Shimano MTR vehicles mentioned below, these vehicles operate without distinction as long as the tracks are connected.
-Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom.com/wiki/Smiling_Critters|Smiling Critters]], but currently only the Catnap livery is in operation.
-
+Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom.com/wiki/Smiling_Critters|Smiling Critters]], but currently only the Catnap livery is in operation. Initially, it was planned to modify an S43-LRV, but with the retirement of all the vehicles mentioned above, the plans were changed to building new vehicles instead.
+==Current==
 ^  Model  ^  Livery  ^  Cars  ^
-| **Refurbished 1980 Stock** | Lavender(Catnap) | 2 or 4 |
-| **1995 Stock** | Peppermint(Hoppy Hopscotch) | ::: |
-| @#888888: **TBA(1980 Stock - 1995 Stock)** | @#888888: Rose(Bobby BearHug) | @#888888:2 or 4 |
+| @#888888: **1999T Stock** | @#888888: Lavender(Catnap) | @#888888: 2 or 4 |
+| ::: | @#888888: Peppermint(Hoppy Hopscotch) | ::: |
+| ::: | @#888888: Rose(Bobby BearHug) | ::: |
 | ::: | @#888888: Lemongrass(Bubba Bubbaphant) | ::: |
 | ::: | @#888888: Jasmine(CraftyCorn) | ::: |
 | ::: | @#888888: Vanilla(DogDay) | ::: |
 | ::: | @#888888: Ylang-ylang((Cananga odorata))(Kickin Chicken) | ::: |
 | ::: | @#888888: Citrus(PickyPiggy) | ::: |
+==Former==
+^  Model  ^  Livery  ^  Cars  ^
+| @#888888://Refurbished 1980 Stock// | @#888888://Lavender(Catnap)// | @#888888://2 or 4// |
+| @#888888://1995 Stock// | @#888888://Peppermint(Hoppy Hopscotch)// | ::: |
 
 ====Shimano MTR====
 A train that connects to LRT from Shimano MTR. We provide through service for part of AC01 and almost all of KR01.
+===Current===
 ^  Model  ^  Livery  ^  Cars  ^
-| **[[mtr_letsplay:13-000_series|13-000 Series]]** | Jigglypuff Line Smoke Pink | 4 |
+| **[[mtr_letsplay:13-100_series|13-100 Series]]** | Jigglypuff Line Smoke Pink | 4 |
+Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+===Former===
+^  Model  ^  Livery  ^  Cars  ^
+| @#888888://[[mtr_letsplay:13-000_series|13-000 Series]]// | @#888888://Jigglypuff Line Smoke Pink// | @#888888://4// |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 
-====Teufort LRT====
-This is a vehicle belonging to Teufort LRT coming from the Teufort area. All vehicles are operated with AC01.
+===Teufort LRT====
+These are vehicles belonging to the Teufort LRT, which once ran from the Teufort area. All vehicles were operated with AC01. All vehicles have been retired.
+===Former===
 ^  Model  ^  Livery  ^  Cars  ^
-| **1980 Stock** | S43-Tec Red & White | 2 |
-| **Refurbished 1980 Stock** | ::: | ::: |
-| **1987 Stock** | ::: | ::: |
-| **1995 Stock** | ::: | ::: |
-| **2002 Stock** | ::: | ::: |
-| **2010 Stock** | ::: | ::: |
-| **2024 Stock** | ::: | ::: |
+| @#888888://1980 Stock// | @#888888: //S43-Tec Red & White// | @#888888: //2// |
+| @#888888://Refurbished 1980 Stock// | ::: | ::: |
+| @#888888://1995 Stock// | ::: | ::: |
+| @#888888://1987 Stock// | ::: | ::: |
+| @#888888://2002 Stock// | ::: | ::: |
+| @#888888://2010 Stock// | ::: | ::: |
+| @#888888://2024 Stock// | ::: | ::: |
 
 =====Routes=====
 ^Route Name^Transit point^Parallel routes^^
@@ -104,8 +128,13 @@ This is a vehicle belonging to Teufort LRT coming from the Teufort area. All veh
 |萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None||
 |萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|None||
 |平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line||
+|沼10(NM10)|White Snow Village ⇄ Tanagar-in-Marsh|None||
+|AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None||
 =====Through Service=====
+====Current====
 ^Company&Route^Route Name^Operation section^
 |Shimano MTR Jigglypuff Line|相01(AC01)|Green Cape ⇄ Kurokusa ⇄ Acacialand Village |
 | ::: |黑01(KR01)|Green Cape ⇄ Kurokusa ⇄ New Gold |
+====Former====
+^Company&Route^Route Name^Operation section^
 |Teufort LRT U2|相01(AC01)|Kurokusa Depot ⇄ Landfall ⇄ Banana Bay |
