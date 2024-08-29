@@ -128,7 +128,7 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 |萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None||
 |萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|None||
 |平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line||
-|沼10(NM10)|White Snow Village ⇄ Tanagar-in-Marsh|None||
+|沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None||
 |AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None||
 =====Through Service=====
 ====Current====
