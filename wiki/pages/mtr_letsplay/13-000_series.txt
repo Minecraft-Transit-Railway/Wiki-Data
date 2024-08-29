@@ -5,7 +5,7 @@
 |   ||
 |   ||
 |  @#ffa79e:  **Overview**  ||
-| **In service**  | 2023–present  |
+| **In service**  | 2023–2024  |
 | **Manufacturer**  | [[S43-Tec]](Original)|
 |   | Metro Ace(Refurbishment)|
 | **Number built**  | |
@@ -15,7 +15,7 @@
 | **Operator(s)** | [[ShimanoMTR|Shimano MTR]] |
 | |[[ShimanoMTR|Shimano LRT]]|
 | **Depot(s)** | |
-| **Line(s) served** | (S13)[[Jigglypuff Line]], [[Shimano LRT|Shimano LRT]] |
+| **Line(s) served** | (S13)[[Jigglypuff Line]], [[shimanolrt|Shimano LRT]] |
 |  @#ffa79e:  **Specifications**  ||
 | **Car body construction** | Steel |
 | **Train length** |31.0m|
