@@ -5,7 +5,7 @@ The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.19.2 Minecraft server
 It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to make for a more varied landscape, using new biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swathes of visitors.
 
 Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[mtr_letsplay:spawn|Spawn]], [[mtr_letsplay:llanmara|Llanmara]], [[Kallos|Kallos]], [[mtr_letsplay:yankton|Yankton]], and the southwest through [[Danielston Memorial|Danielston Memorial]]. The longest journey between every two stations is less than 75 minutes((
-The longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 10 minutes and 3 seconds.
+The longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 9 minutes and 3 seconds.
 )).
 
 ===== Let's Play Pages =====
