@@ -1,17 +1,16 @@
-====== Line 2 (Kwong Chow - North Coast Line) ======
+====== Line 2 (Kwong Pak Kwun Line) ======
 
 <WRAP right>
 
-^  Line 2 (Kwong Chow - North Coast Line)\\ 二號 (光州 - 北海岸) 綫  |^
+^  Line 2 (Kwong Pak Kwun Line)\\ 二號 (光北觀) 綫  |^
 |  @#FFDA33:  ||
-|  @#005A9C:  ||
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Operational <color #FFDA33>(West section)</color>\\ //(Kwong Chow - Forest Peaks)//\\ Under construction\\  //(West Lake, See Tsuen)//\\ Operational <color #005A9C>(East section)</color>\\ //(Coast City - Makki Memorial Village)// |
+| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake, See Tsuen, Dragon Loop Centre)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
-| **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/forest_peaks_station|Forest Peaks]]\\ //(West section temporary terminus)//\\ [[/coast_city_station|Coast City]]\\ //(East section temporary terminus)//\\ [[/ostania_station|Ostania]]\\ //(future through-running service with [[/cyanex|CyanEX Rapid Transit]])//\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
+| **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#6B4799:<color white>Elizabeth Line</color> |
@@ -33,26 +32,26 @@
 | ::: | @#572606:<color white>Chin Ka Village Fast, Frequent and Free Light Rail</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#00E0FF:Kallos Ferry |
-| **Stations** | 10 //(3 work in progress)// |
+| **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 13 //(3 work in progress)// |
 ^  Service  |^
-| **Operator(s)** | [[/west_lake_transport_authority|WLT]] //(West section)//\\ [[/qingli_railways|QLR]] //(East Section)// |
-| **Service Hours** | 04:49 - next day 03:29 \\ //([[wp>UTC+08:00|UTC+8]])//\\ //(West Section)//\\ 04:06 - next day 03:54\\ //([[wp>UTC+08:00|UTC+8]])//\\ //(East Section)// |
-| **Frequency** | Every 2 - 12 mins |
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]]  |
+| **Service Hours** | 04:47 - next day 03:23 \\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Frequency** | Every 1 - 12 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
-| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]]\\ [[wp>Line_1_(Shanghai_Metro)#Technology#Rolling_Stock|01A06]] |
+| **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]] |
 ^  History  |^
-| **Opened** | First open:\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ TBC\\ //(Spawn - Coast City)//\\ TBC\\ //(Coast City - Makki Memorial Village)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)// |
+| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September , 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - W. Laputa)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)// |
 ^  Technical  |^
-| **Line Length** | 5 km |
+| **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
-| **Operating**\\ **Speed** | Average: 33 km/h (9.2 m/s) \\ Maximum: 105 km/h (29.2 m/s) |
+| **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s)((Maximum speed is 120 km/h on Sightseeing Line Phase 3, 4 and Bond Line sections))|
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
 |  {{/line2.png?420}}  ||
 
 </WRAP>
 
-**Line 2 (Kwong Chow - North Coast Line)** (Chinese: //二號 (光州 - 北海岸) 綫//), is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station.
+**Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station, throughrunning [[/sightseeing_express|Sightseeing Line Phase 3, 4]] and Bond Line to [[/ostania_station|Ostania]] station. 
 
 The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line) Phase 1((
 Magenta mixing with yellow forms red
@@ -92,7 +91,21 @@ Merging saves the platform for turning back North Coast Line trains, giving it t
 
 After confirmed to merge, WLT Line 2 drops the company name WLT in its naming and adopt a [[wp>shenzhen_metro|Shenzhen Metro]] legacy style naming **Line 2 (Kwong Chow - North Coast Line)**, with reference to the new MRT Line [[wp>Thomson-East_Coast_MRT_Line|Thomson-East Coast Line]] in Singapore. It is expected the other two rapid transit lines built and operated by WLT, Line 1 and Line 3, will follow a similar naming style.
 
-The merge is later split into two stages because of the amount of work needed to revamp some sections. The first stage is done on 5 May 2024 which WLT Line 2 (Kwong Chow Line) trains run from Kwong Chow via Sai Mo Island and Spawn to Forest Peaks while QLR North Coast Line trains turn back at Coast City. Yet West Lake station and See Tsuen station is not yet completed or opened although trains stop at the stations.
+The merge is later split into two stages because of the amount of work needed to revamp some sections. The first stage is done on 5 May 2024 which WLT Line 2 (Kwong Chow Line) trains run from Kwong Chow via Sai Mo Island and Spawn to Forest Peaks while QLR North Coast Line trains turn back at Coast City. Yet West Lake station and See Tsuen station is not yet completed or opened although trains stop at the stations. 
+
+Full merge is rolled out on 29 August 2024 along with new host.  
+
+==== Throughrunning ====
+
+After the studies on feasibility of merging, it was also found that the maximum signalling headway for original WLT Line 2 sections and North Coast Line sections is similar; however, the maximum train frequency of the North Coast Line is limited by the shared section with AT Metro 2209 Service between Spawn station and [[/forest_peak_station|Forest Peaks]] station. If the service between [[/kwong_chow_station|Kwong Chow]] station and [[/spawn_station|Spawn]] station needed to operate at the maximum possible capacity, WLT Line 2 would need to also merge with AT Metro 2209 Service, or divert some trains away, or turn back some trains at Spawn.
+
+Option 2 is inspired by the once operated Sightseeing Express - [[/south_continental_line|South Continental Line]] through-running service. It is chosen after more discussions and studies. A branch through-running to [[/cyanex|Cyanex Rapid Transit]]'s Sightseeing Express Line Phase 3 (now Cyan Twilight Line) was proposed to utilize the slots allocated to AT Metro 2209 Service from Spawn station to Forest Peaks station for remaining sections from Kwong Chow station to Spawn station.
+
+The branch also makes travelling between [[/west_lake_area|West Lake Area]], and [[/bayside_area|Bayside]], [[/hos_bridge_station|Ho's Bridge]] and [[/chou_wai|Chou Wai]] much more convenient, also reduces the overcrowding in Spawn-Cyan Heights Metropolis and improves player's experience((
+Saving one out of station interchange between Spawn station and [[/cyan_heights_station|Cyan Heights]] station
+)). Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues. 
+
+When throughrunning starts, WLT decides to change the name to account for a long section of throughrunning shown on system map. 
 
 ==== Timeline ====
 
@@ -105,14 +118,15 @@ The merge is later split into two stages because of the amount of work needed to
   * 10 July, 2023: Started again special shuttle service.
   * 13 April, 2024: Sha Tsui station opens to the public.
   * 5 May, 2024: First stage of merge kicks in.
+  * 29 August, 2024: Full merge kicks in and throughrunning starts. Name is changed to account for a rather long throughrunning section in Sightseeing Line Phase 3, 4 comparing to Kwong Chow Line section. 
 
 ===== Rolling Stocks =====
 
 Similar to [[/wlt_line_1#rolling_stocks|Line 1 (Meyan Line)]], since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 1 set of rebuilt C-Train has already transported to Chik Shek Wan Depot and started its passengers service on the shuttle between Kwong Chow and Sai Mo Island. 2 more sets of C-Train has also started passengers service after the first stage of merge.
 
-There are also 3 set of M-Train (phase 2A) and 6 sets of K-Train have started serving passengers.
+There are also 4((1 set of M-Train (A209/A200) is changed back to its look before refurbishment along with Camshaft resistors traction control)) set of M-Train (phase 2A) and 7 sets of K-Train have started serving passengers.
 
-Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A06 previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system, as DC motor is harder to maintenance and consumes more electricity.
+Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A06 previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system by Alstom, as DC motor is harder to maintenance and consumes more electricity. 
 
 Due to the platforms in [[/cyanex|Cyan Twilight Line]]((
 80m long
@@ -178,43 +192,25 @@ MTR Mod's Super Hybrid used in non-electrified sections
 
 ===== Operations =====
 
-For **Line 2 (Kwong Chow - North Coast Line) W. Section**, there are a mix of 4-car and 5-car trains running. 5-car trains are serving from Kwong Chow to Forest Peaks, and 4-car trains are serving from Kwong Chow to Spawn. They are both stopping at all intermediate stops (including WIP stations). There are a mix of 4-car and 5-car trains running between Kwong Chow and Spawn. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line when 4-car/5-car trains are stopping at the same platform. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively.
+There are a mix of 4-car and 5-car trains running. 5-car trains are serving from Kwong Chow to Makki Memorial Village, and 4-car trains are serving from Kwong Chow to Ostania. They are both stopping at all intermediate stops (including WIP stations). There are a mix of 4-car and 5-car trains running between Kwong Chow and Spawn. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line when 4-car/5-car trains are stopping at the same platform. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively.
 
 <WRAP center>
 
-^  Average Train Intervals (in mins)  ||^
-|  @#FFDA33:  |||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Chow - North Coast Line) W. Section Temp Shuttle**  ||
-|  |  Kwong Chow - Spawn  |  Kwong Chow - Forest Peaks  |
-|  5 am - 9 am  |  3 / 9  |  12  |
-|  9 am - 9 pm  |  3 - 6  |  6  |
-|  9 pm - 11 pm  |  2.1 - 4.2  |  4.2  |
-|  11 pm - 1 am  |  3 - 6  |  6  |
-|  1 am - 3 am  |  3 - 9  |  7 - 12  |
-
-</WRAP>
-
-For **North Coast Line**, trains are serving from Coast City to Makki Memorial Village calling at all intermediate stops except Dragon Loop Centre. Trains may travel slower between Toitoi station and Makki Memorial Village station for safety measures before the section is rebuilt with smoother curvature and inclination.
-
-<WRAP center>
-
-^  Average Train Intervals (in mins)  |^
-|  @#005A9C:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **North Coast Line**  |
-|  Assuming server TPS = 19.00  ||
-| \\ All Day\\ <html>&nbsp</html> |  \\ 4.2  |
+^  Average Train Intervals (in mins)  |||^
+|  @#FFDA33:  ||||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Pak Kwun Line)**  |||
+| |  Kwong Chow - Spawn  |  Kwong Chow - Makki Memorial Village |  Kwong Chow - Ostania  |
+|  5 am - 9 am  |  3 - 9  |  6 - 12  |  10 - 12  |
+|  9 am - 9 pm  |  1.7 - 4.5  |  3.2 - 6  |  8 - 10  |
+|  9 pm - 11 pm  |  1.5 - 3.2  |  3 - 4.8  |  6 - 8  |
+|  11 pm - 1 am  |  1.7 - 4.5  |  3.2 - 6  |  8 - 10  |
+|  1 am - 3 am  |  3 - 9  |  6 - 12  |  10 - 12  |
 
 </WRAP>
 
 ===== Future Plans =====
 
-After the studies on feasibility of merging, it was also found that the maximum signalling headway for original WLT Line 2 sections and North Coast Line sections is similar; however, the maximum train frequency of the North Coast Line is limited by the shared section with AT Metro 2209 Service between Spawn station and [[/forest_peak_station|Forest Peaks]] station. If the service between [[/kwong_chow_station|Kwong Chow]] station and [[/spawn_station|Spawn]] station needed to operate at the maximum possible capacity, WLT Line 2 would need to also merge with AT Metro 2209 Service, or divert some trains away, or turn back some trains at Spawn.
-
-Option 2 is inspired by the once operated Sightseeing Express - [[/south_continental_line|South Continental Line]] through-running service. It is chosen after more discussions and studies. A branch through-running to [[/cyanex|Cyanex Rapid Transit]]'s Sightseeing Express Line Phase 3 (now Cyan Twilight Line) was proposed to utilize the slots allocated to AT Metro 2209 Service from Spawn station to Forest Peaks station for remaining sections from Kwong Chow station to Spawn station.
-
-The branch also makes travelling between [[/west_lake_area|West Lake Area]], and [[/bayside_area|Bayside]], [[/hos_bridge_station|Ho's Bridge]] and [[/chou_wai|Chou Wai]] much more convenient, also reduces the overcrowding in Spawn-Cyan Heights Metropolis and improves player's experience((
-Saving one out of station interchange between Spawn station and [[/cyan_heights_station|Cyan Heights]] station
-)). Therefore, although AT Metro later withdraws the 2209 service and leaves the section between Spawn and Forest Peaks to solely North Coast Line, the plan still continues, and is expected to be done along with the second stage of merge.
+There are no expected further expansion on the line. Existing non-finished stations and track sections will be gradually worked on. 
 
 ===== Stations (WIP) =====
 
