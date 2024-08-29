@@ -20,7 +20,7 @@
 | ::: | @#F396AA:Scottetsu Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | @#C50000:<color white>BCT Red Line</color> |
-| ::: | @#E7792A:<color white>High Speed Rail</color> |
+| ::: | @#E7792A:<color white>[[/headcode|High Speed Rail]]</color> |
 | ::: | @#7090FF:[[/sightseeing_express|Sightseeing Local Line]] |
 | ::: | @#7091FF:[[/sightseeing_express|Sightseeing Line]] |
 | ::: | @#65411D:<color white>Metro South Continental Line</color> |
