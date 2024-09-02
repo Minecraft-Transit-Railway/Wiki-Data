@@ -23,8 +23,8 @@
     * 42: Twilight Spruce -> Cyan Heights
     * 43: Cyan Heights -> Jonathan's Resort
     * 44: Jonathan's Resort -> Cyan Heights
-    * 51: Scarlet D. Mansion -> T.U.Martissu
-    * 52: T.U.Martissu -> Scarlet D. Mansion
+    * 51: Providence -> T.U.Martissu
+    * 52: T.U.Martissu -> Providence
 
   * **Sightseeing Local Line**
     * 11: Cyan Heights -> Scarlet D. Mansion
