@@ -42,10 +42,9 @@
 
 </WRAP>
 
- The Terralith Rapid Transit 13-000 series is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[Jigglypuff Line]].
+ The Terralith Rapid Transit 13-000 series is an electric multiple unit (EMU) train type that was formerly operated by the [[ShimanoMTR]](SMTR) on the [[Jigglypuff Line]].
 =====Overview=====
-
-When constructing the Jigglypuff Line, a through service with SLRT was implemented for convenience, but this line was structured so that only S43-Tec LRV vehicles could pass.
+When the Jigglypuff Line was constructed, direct service with the SLRT was implemented for convenience, but at the time of planning, the line was only capable of handling S43-Tec light rail vehicles.
 
 Therefore, Metro Ace modified the S43-Tec 1980 with the following items.
 
@@ -66,3 +65,13 @@ Therefore, Metro Ace modified the S43-Tec 1980 with the following items.
   * Renovated exterior and interior.
 
 The 13-000 Series was born as a result of the above-mentioned large-scale renovation.
+=====Operation and scrapping=====
+It debuted with the start of Jigglypuff Line operation in September 2023. It provided through service to stations up to Acacia Village on AC01 and almost the entire line on KR01.
+
+It was suddenly suspended along with other SLRTs on August 19, 2024. It was scrapped on August 29 of the same year.
+
+The reason is said to be that the base car was manufactured more than 40 years ago and that it required extensive modifications. In addition, since no transferee could be found, all of them were dismantled and no longer exist.
+
+Except for test cars, this is the first SMTR vehicle to be scrapped without being preserved. (The 1300 series still exists because there are other vehicles of the same type running and they have been transferred to other companies.)
+
+The successor, the TRT13-100 series, largely inherits the paintwork and door shape of this model.
