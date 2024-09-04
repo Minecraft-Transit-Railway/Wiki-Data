@@ -15,8 +15,9 @@ Project Cyan is a server focused around creating a large and detailed transit sy
 | ::: | RoskataBg |
 | **Transit type** | All |
 | **Style/Inspiration** | Various |
-| **Transport Companies** | 5 |
-| **Non-transit Companies** | 3 |
+| **Transport Companies** | 4 |
+| **Non-transit Companies** | 5 |
 | **Active Lines** | 6 |
 
 </WRAP>
+
