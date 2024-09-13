@@ -198,12 +198,11 @@ Note:Temporary name
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
 
 =====Reference(Credit)=====
-﻿Line S11 Motor, run:
-リニア地下鉄未来のつりかけVVVF インバーター都営地下鉄大江戸線12-600形２次車に乗って見た！ by カービィ☆PuPuPuとれいん☆
+カービィ☆PuPuPuとれいん☆
 https://youtu.be/E4fzDh57vU8
 
-BVE5, Mtrmod向けに作成
+Simulation Country GAPAN Gepponkoku
+https://gepponkoku.nation.jp
 
-209-1000 Motor, run:
-Sound by Simulation Country GAPAN Gepponkoku
-# https://gepponkoku.nation.jp
+BVE Workshop
+https://bvews.jpn.org/
