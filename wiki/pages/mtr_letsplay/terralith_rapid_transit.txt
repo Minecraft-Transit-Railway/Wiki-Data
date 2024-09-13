@@ -116,7 +116,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 * [[12-000 Series]]
 
 ===Jigglypuff Line===
-* [[13-000 Series]]
+* [[13-100 Series]]
 
 ===Shimano LRT===
 * [[LRV 1928]]
@@ -133,7 +133,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 * [[CLR B90]]
 
 ===in-Station Transit===
-* [[LRV 1928]]
+* [[LRV 2015]]
 
 * [[Yutong U12]](Bus)
 
