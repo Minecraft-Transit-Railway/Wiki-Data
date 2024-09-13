@@ -1,0 +1,36 @@
+====== Creating a train for MTR using BBMODEL ======
+
+This guide will help individuals without experience of creating trains for MTR mod a basic knowledge of how to create them and what they have to be aware of when creating it.
+
+===== Before you start =====
+
+Before you start, make sure that you have the following items are in place.
+
+1. Blockbench
+
+- This is where you will create your model.
+
+2. Photo Editor
+
+- This is required to make the texture for the model.
+
+You may also want to have these in place to assist you on creating the model.
+
+1. Sufficient reference images.
+
+2. Models from the core mod.
+
+===== Creating the model on Blockbench =====
+
+First, open Blockbench. In the "New" tab, select "Modded Entity".
+
+<WRAP center round important 60%>
+
+Ensure that you're choosing **Modded Entity**, not other types of models, else your model won't work.
+
+</WRAP>
+
+{{:playground:screenshot_2024-09-14_000652.png?300}}
+
+
+WIP by Navi
