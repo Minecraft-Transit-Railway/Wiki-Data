@@ -112,10 +112,20 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * [[11-000_series#section11600700800|11-600 Series]]
 
+===Decidueye Line===
+* [[12-000 Series]]
+
+===Jigglypuff Line===
+* [[13-000 Series]]
+
 ===Shimano LRT===
 * [[LRV 1928]]
 
+* [[LRV 1973D]]
+
 * [[LRV 1999]]
+
+* [[LRV 2015]]
 
 * [[Alexander Denis Enviro 200 JPN]](Bus)
 
@@ -175,9 +185,6 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 ===Sprigatito Line===
 * [[2300 Series]]
 
-===Decidueye Line===
-* [[12-000 Series]]
-
 ===SMTR Lines(Routes to be introduced are undecided)===
 Note:Temporary name
 
@@ -190,3 +197,14 @@ Note:Temporary name
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
+
+=====Reference(Credit)=====
+﻿Line S11 Motor, run:
+リニア地下鉄未来のつりかけVVVF インバーター都営地下鉄大江戸線12-600形２次車に乗って見た！ by カービィ☆PuPuPuとれいん☆
+https://youtu.be/E4fzDh57vU8
+
+BVE5, Mtrmod向けに作成
+
+209-1000 Motor, run:
+Sound by Simulation Country GAPAN Gepponkoku
+# https://gepponkoku.nation.jp
