@@ -2,6 +2,12 @@
 
 This guide will help individuals without experience of creating trains for MTR mod a basic knowledge of how to create them and what they have to be aware of when creating it.
 
+<WRAP round info>
+
+This guide is intended for MTR3, **not MTR4**. While the process of crafting the train in Blockbench will remain mostly the same, configuring it will show difference due to the new train rendering system that will be introduced in MTR4.
+
+</WRAP>
+
 ===== Before you start =====
 
 Before you start, make sure that you have the following items are in place.
@@ -22,7 +28,7 @@ You may also want to have these in place to assist you on creating the model.
 
 ===== Creating the model on Blockbench =====
 
-First, open Blockbench. In the "New" tab, select "Modded Entity".
+First, open Blockbench. In the "New" tab, select "Modded Entity".{{ :playground:screenshot_2024-09-14_000652.png?300|a}}
 
 <WRAP center round important 60%>
 
@@ -30,7 +36,26 @@ Ensure that you're choosing **Modded Entity**, not other types of models, else y
 
 </WRAP>
 
-{{:playground:screenshot_2024-09-14_000652.png?300}}
+Then you should come across to this dialogue box. Simply assign a meaningful name in ''File Name:'' and press ''Confirm''.
 
+{{:playground:bbmodel_tutorial_2.png?300}}
+
+===== Creating model parts =====
+
+{{ :playground:bbmodel_tutorial_3.png?300}}
+
+Now, let's create a ''group''. A ''group'' is used to identify a "part" when we move to the resource pack creator later. Click the "Create Group" button to careate one. Alternatively, press ''Ctrl + G'' will also do the trick.
+
+<WRAP center round important 60%>
+
+It is important that all cubes are within a group, and all groups have at least one cube, regardless of the size. If not, **the game will crash.**
+
+</WRAP>
+
+With a group selected, let's create a cube. The button is next to the Create Group button. Alternatively, press ''Ctrl + N'' will also do the trick. You will then see a 2x2x2 cube appearing in the working area. {{ :playground:bbmodel_tutorial_5.png?300}}
+
+==== Bodyframe ====
+Before you do anything else, you're advised to firstly create a bodyshell. You will need a reference image if you're creating a real-world train. In this case, I am going to use this image. 
 
 WIP by Navi
+
