@@ -15,6 +15,7 @@ Old Facebook account name.
 | **Name basis** | [[wp>Navi_(The_Legend_of_Zelda)|Navi]] |
 | **Date since joining MTR Mod discord** | 23rd May, 2021 |
 | **Roles** | <color /#1797d6>**<html>&nbsp<a style="color:#FFFFFF;">Staff (4/1/2023~Present)</a>&nbsp</html>**</color> |
+| ::: | <color /#1F9240>**<html>&nbsp<a style="color:#FFFFFF;">Let's Play Team (13/9/2024~Present)</a>&nbsp</html>**</color> |
 | ::: | <color /#1ABC9C>**<html>&nbsp<a style="color:#FFFFFF;">Moderator (17/11/2022~4/1/2023)</a>&nbsp</html>**</color> |
 | ::: | <color /#B9BBBE>**<html>&nbsp<a style="color:#000000;">Modders (?~Present)</a>&nbsp</html>**</color> |
 | ::: | <color /#B9BBBE>**<html>&nbsp<a style="color:#000000;">Let's Play Members (28/7/2022~Present)</a>&nbsp</html>**</color> |
@@ -40,3 +41,4 @@ This user has not contribute anything to the mod yet.
   * [[mtr_letsplay:start|Let's Play Server]] [[mtr_letsplay:wilds_railway|Wilds Railway]] stations and network
   * Discord server moderation
   * [[mtr:start|Minecraft Transit Railway Wiki]] content and moderation
+
