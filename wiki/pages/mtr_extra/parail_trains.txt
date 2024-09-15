@@ -11,6 +11,7 @@
 | **Latest Version** | 1.0.1 |
 | **Initial Release** | October 5th, 2022 |
 | **Modrinth** | [[https://modrinth.com/resourcepack/dragon_railway|Click]] |
+| **Compatable With** | 3.2.2 and 4.0.0 |
 
 </WRAP>
 
