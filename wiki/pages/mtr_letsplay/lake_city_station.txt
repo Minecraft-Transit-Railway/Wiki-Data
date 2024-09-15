@@ -17,7 +17,7 @@
 | ::: | [[mtr_letsplay:circulator_ip|Circulator IP]] |
 | **Owners** | [[mtr_community:staff:navi_lx9702|Navi]] |
 | ::: | [[mtr_community:tea|Tea]] |
-| **Region** | [[mtr_letsplay:west_lake_region|West Lake]] |
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | **Platforms** | 7 (3 island, 1 dock) |
 | **Tracks** | 6 |
 | **Coordinates** | (-3492, 3324) |
