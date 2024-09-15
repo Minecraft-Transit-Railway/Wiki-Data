@@ -7,8 +7,8 @@
 ^   **Overview**   ^^
 | **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
 | **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
-| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
-| **Region** | [[mtr_letsplay:west_lake_region|West Lake]] |
+| **Owner** | [[mtr_community:staff:navi_lx9702|Navi]] |
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | **Platforms** | 2 (1 island) |
 | **Tracks** | 2 |
 | **Coordinates** | (-3498, 2712) |
