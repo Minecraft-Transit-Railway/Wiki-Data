@@ -1,10 +1,10 @@
 ====== Minecraft Transit Railway ======
 
-**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods| Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds trains into the game along with other miscellaneous blocks and items. With this mod, it is possible to build a fully functional railway system in your world!
+**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods| Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds various types of transport such as Trains, Boats, Cable Cars and more into the game, accompanied with miscellaneous blocks to facilitate your build. With this mod, it is possible to build a fully functional transit system in your world!
 
 This mod is available for Minecraft Forge and Fabric versions 1.16, 1.17, 1.18, and 1.19 (1.20 is also available in Alpha stages, please create backups before using this version).
 
-Please report any issues or bugs that you find; that would be greatly appreciated! Refer to the [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| GitHub issues tab]] or the [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Todo-List| todo list]] to see currently known issues.
+Please report any issues or bugs that you find; that would be greatly appreciated! Please refer to the [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| GitHub issues tab]] and the [[https://github.com/orgs/Minecraft-Transit-Railway/projects/1|MTR Roadmap]] for the currently known issues.
 
 ===== Getting Started =====
 
@@ -14,18 +14,16 @@ This [[/getting_started|text tutorial]] or [[https://www.youtube.com/playlist?li
 
 Head over to the [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth page]] or [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge Page]] to download the mod or to see the project information.
 
-===== Versions =====
+===== Version History =====
 
   * [[mtr:3.0.X| V3.0.X]]
   * [[mtr:3.1.X| V3.1.X]]
   * [[mtr:3.2.X| V3.2.X]]
   * [[mtr:4.0.X| V4.0.X]]
 
-
 ===== Wiki Pages =====
 
  <nspages -textPages="" -title -exclude>
-
 
 ===== License =====
 
