@@ -10,13 +10,13 @@
 **西湖交通管理局**于2022年8月8日随着[[/chung_kwo_kok_and_wong_yip_island_development_plan|第一个开发计划]]的公布而正式成立。它原先计划叫**西部铁路公司**，简称//西铁//或//WR//，但是因为WR其时已被旷野铁路使用，而改为现称。 
 
 ===== 运营线路 =====
-  * [[/WLT_Line_1|一号 (美岩) 线一期]]
+  * [[mtr_letsplay:wlt_line_1|一号 (美岩) 线一期]]
   * [[mtr_letsplay:wlt_line_2 |二号 (光州 - 北海岸) 线]]
+  * [[/wong_yip_lung|黄叶龙]]
 
 ==== 未来发展 ====
 
-  * [[/west_lake_duck|西湖鸭子]]
-  * [[/wong_yip_lung|黄叶龙]]  
+  * [[/west_lake_duck|西湖鸭子]]  
   * [[/wlt_line_3|三号 (青灰) 线]]
 
 ===== 物业发展 =====
@@ -26,8 +26,8 @@
 ==== 开发计划 ====
 
   * [[/ckk_and_wyi_plan|松果角黄叶岛区域发展计划]]
-  * [[/west_lake_new_hub|西湖新都心]] 
-  * [[/wlt_headquarters|西湖交通总部]]
-  * [[/west_lake_twin_towers|西湖双生塔]]
-  * [[/mesa_seaside|美沙海岸]]
+  * [[/west_lake_new_central|西湖新都心]] 
+  * [[/the_lakeside|湖方]]
+  * [[/west_lake_towers|西湖南北双塔]]
+  * [[/mesa_gardens|美沙庄园]]
   * [[/kwong_chow_north_area|光北新区]]
