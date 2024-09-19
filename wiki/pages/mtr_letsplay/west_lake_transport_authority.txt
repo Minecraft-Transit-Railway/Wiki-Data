@@ -1,5 +1,5 @@
 ====== West Lake Transport Authority ======
-**West Lake Transport Authority** (Chinese: //西湖交通管理局//), often referred  to as **West Lake Transport**(//西湖交通//) or **WLT**, is a state-owned enterprise founded by [[mtr_community:BDark000|BDark]] focusing on transport and property development (e.g. TOD) in the [[//west_lake_area|West Lake Area]] of Let's Play server.
+**West Lake Transport Authority** (Chinese: //西湖交通管理局//), often referred  to as **West Lake Transport**(//西湖交通//) or **WLT**, is a state-owned enterprise founded by [[mtr_community:staff:bdark000|BDark]] focusing on transport and property development (e.g. TOD) in the [[//west_lake_area|West Lake Area]] of Let's Play server.
 
 ===== Motives =====
 —
@@ -10,11 +10,11 @@
 ===== Operating Transport Services =====
   * [[/WLT_Line_1|Line 1 (Meyan Line) Phase 1]]
   * [[/WLT_Line_2|Line 2 (Kwong Chow - North Coast Line)]]
+  * [[/wong_yip_lung|The Dragon - Wong Yip Lung]]
 
 ==== Future Plans ====
 
-  * [[/west_lake_duck|West Lake Duck]]
-  * [[/wong_yip_lung|The Dragon - Wong Yip Lung]]  
+  * [[/west_lake_duck|West Lake Duck]]  
   * [[/wlt_line_3|Line 3 (Cyan Gray Line)]]
 
 ===== Property Developments =====
@@ -24,8 +24,8 @@
 ==== Future Plans ====
 
   * [[/ckk_and_wyi_plan|Chung Kwo Kok and Wong Yip Island Development Plan]]
-  * [[/west_lake_new_hub|West Lake New Hub]] 
-  * [[/wlt_headquarters|WLT Headquarters]]
-  * [[/west_lake_twin_towers|West Lake Twin Towers]]
-  * [[/mesa_seaside|Mesa Seaside]]
+  * [[/west_lake_new_central|West Lake New Central]] 
+  * [[/the_lakeside|The Lakeside]]
+  * [[/west_lake_towers|West Lake Towers]]
+  * [[/mesa_gardens|Mesa Gardens]]
   * [[/kwong_chow_north_area|Kwong Chow North Area]]
