@@ -1,6 +1,6 @@
 ====== 西湖交通管理局 ======
 
-**西湖交通管理局**，簡稱//西湖交通//、//WLT//或//西交//，是由[[mtr_community:BDark000|BDark]]在齊齊玩伺服器成立的一家公營企業。目前業務主要為西湖交通各綫的營運，以及車站附近的發展計劃。
+**西湖交通管理局**，簡稱//西湖交通//、//WLT//或//西交//，是由[[mtr_community:staff:bdark000|BDark]]在齊齊玩伺服器成立的一家公營企業。目前業務主要為西湖交通各綫的營運，以及車站附近的發展計劃。
 
 ===== 目標 =====
 —
@@ -10,13 +10,13 @@
 **西湖交通管理局**於2022年8月8日隨著[[/chung_kwo_kok_and_wong_yip_island_development_plan|第一個發展計劃]]的公佈而正式成立。它原先計劃稱為**西部鐵路公司**，簡稱//西鐵//或//WR//，但是因為WR其時已被曠野鐵路使用，而改為現稱。 
 
 ===== 營運中路線 =====
-  * [[/WLT_Line_1|一號 (美岩) 綫一期]]
-  * [[/WLT_Line_2|二號 (光州 - 北海岸) 綫]]
+  * [[mtr_letsplay:wlt_line_1|一號 (美岩) 綫一期 (英文版)]]
+  * [[mtr_letsplay:wlt_line_2|二號 (光北觀) 綫 (英文版)]]
+  * [[/wong_yip_lung|黃葉龍]]
 
 ==== 未來發展 ====
 
-  * [[/west_lake_duck|西湖鴨子]]
-  * [[/wong_yip_lung|黃葉龍]]  
+  * [[/west_lake_duck|西湖鴨子]]  
   * [[/wlt_line_3|三號 (青灰) 綫]]
 
 ===== 物業 =====
@@ -26,8 +26,8 @@
 ==== 未來發展 ====
 
   * [[/ckk_and_wyi_plan|松果角黃葉島區域發展計劃]]
-  * [[/west_lake_new_hub|西湖新都心]] 
-  * [[/wlt_headquarters|西湖交通總部]]
-  * [[/west_lake_twin_towers|西湖雙生塔]]
-  * [[/mesa_seaside|美沙海岸]]
+  * [[/west_lake_new_central|西湖新都心]] 
+  * [[/the_lakeside|湖方]]
+  * [[/west_lake_towers|西湖南北雙塔]]
+  * [[/mesa_gardens|美沙莊園]]
   * [[/kwong_chow_north_area|光北新區]]
