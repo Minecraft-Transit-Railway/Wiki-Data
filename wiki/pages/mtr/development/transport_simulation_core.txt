@@ -1,0 +1,25 @@
+FIXME **This page hasnt been fully completed. Please help with the Creation.**\\ //(remove this note when the page is completed)//
+
+<WRAP right>
+
+|  **Transport Simulation Core**  ||
+| Created by  | jonafanho  |
+| Repository | [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Transport-Simulation-Core]] |
+| Language | Java |
+
+</WRAP>
+
+**Transport Simulation Core** is a project facilitating train & vehicles simulation.
+
+It primarily serves as the backend for MTR 4, responsible for holding all the station, trains, depot, track data and more, as well as simulating vehicle movements and hosting the online system map.
+
+===== Communicating =====
+
+Transport Simulation Core hosts a webserver and exposes various HTTP endpoint which can be used to perform operation such as adding stations, depots and trains by sending HTTP requests.
+
+For a list of available endpoints, please refer to [[mtr:development:api_reference|API Reference]].
+
+===== System Map =====
+
+A transit system map written in Angular is also hosted by the Transport Simulation Core, which is hosted on port 8888 (or the next available port) in the MTR Mod.
+
