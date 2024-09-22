@@ -2,7 +2,7 @@
 
 <WRAP round info>
 
-This article and it's contents are not verified and are solely based on experiences from past contributors.
+This article and it's contents are not verified and are solely based on past experiences from contributors.
 
 </WRAP>
 
@@ -10,7 +10,7 @@ Due to the relatively unique requirements of **Minecraft Transit Railway** Mod h
 
 ===== Project Overview =====
 
-{{:mtr:development:mtr_project_overview.png?600 }}
+{{:mtr:development:mtr_project_overview.png?800 }}
 
 ==== Transport Simulation Core ====
 
