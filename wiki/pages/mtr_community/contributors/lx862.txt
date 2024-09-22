@@ -3,46 +3,38 @@
 <WRAP right>
 
 ^  LX86  |^
-|  {{ :mtr_community:lx862_intro.png?300 }}//Meeeeeee :3//  ||
+|  {{ :mtr_community:lx862_intro.png?300 }}//Watch LX86 in action//  ||
 ^  Overview  |^
-| **Also known as** | LX862/lx862((
-Used for username/account handle only
+| **Also known as** | LX |
+| ::: | LX862/lx862((
+Used for username/account handle only.
 )) |
-| ::: | Kenny Hui((
-Real name, would prefer referring me as LX86 instead.
-)) |
-| ::: | LX((
- May cause ambiguation with other online identity, use in private conversation only
-)) |
+| ::: | Kenny Hui |
 | **MTR Discord Member Since** | 2021-05-02 |
-| **Personal Website** | [[https://lx862.com|https://lx862.com]] |
-| **Discord Roles** | Contributor |
-| ::: | Modders |
-| ::: | Train Operators |
+| **Personal Homepage** | [[https://lx862.com|lx862.com]] |
 | **Pronouns** | Any  |
 
 </WRAP>
 
-Minecraft Server Manager in [[mtr_community:server:district_of_joban|The District of Joban]], primary developer of [[mtr_addon:jcm:start|Joban Client Mod]] and [[https://modrinth.com/user/LX86|other Minecraft mods]], one of the contributor of the [[mtr:start|Minecraft Transit Railway]] Mod.
+One of the contributor of the [[mtr:start|Minecraft Transit Railway Mod]], Minecraft Server Manager in [[mtr_community:server:district_of_joban|The District of Joban]], primary developer of [[mtr_addon:jcm:start|Joban Client Mod]] and [[https://modrinth.com/user/LX86|various other Minecraft mods]].
 
-===== Facts =====
+===== Known Facts =====
 
   * Software nerd
   * Lover of [[https://en.wikipedia.org/wiki/ISO_8601|ISO 8601]]
   * As boring and plain as my speech is, I have feelings!
-  * Apparently I am a disaster when it comes to management
-  * Silly, very silly
+  * Have the potential to get silly
 
-===== Things worked on for Minecraft Transit Railway =====
+===== Works that have been done =====
 
-  * Slight bug fixes 
+  * Various bug fixes
   * 2 Liner Horizontal PIDS (West Rail styled)
   * Designated LRT Entrance/Exit processor
   * Re-implement rubbish bin from previous MTR Mod versions to MTR 3.
   * Initial work for custom messages on PIDS
   * Clock, PIDS and Railway Sign Poles
-  * Allow route to be hidden
   * Lift Floor Display Panel
   * Lockable [[mtr:platform_screen_doors|PSD]]/[[mtr:automatic_platform_gates|APG]]
   * Initial work for the Minecraft Transit Railway website landing page
+  * Some technical documentation in the wiki
 
