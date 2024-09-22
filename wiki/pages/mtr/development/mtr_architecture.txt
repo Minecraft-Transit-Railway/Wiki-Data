@@ -1,0 +1,54 @@
+====== MTR Mod Architecture ======
+
+<WRAP round info>
+
+This article and it's contents are not verified and are solely based on experiences from past contributors.
+
+</WRAP>
+
+Due to the relatively unique requirements of **Minecraft Transit Railway** Mod having to maintain over 6 Minecraft Versions across multiple modloaders as well as handling large scale transport networks, the MTR Mod architecture might seems more unconventional than other Minecraft mods. Below is a general overview of the mod architecture.
+
+===== Project Overview =====
+
+{{:mtr:development:mtr_project_overview.png?600 }}
+
+==== Transport Simulation Core ====
+
+//Main article: [[mtr:development:transport_simulation_core|Transport Simulation Core]]//
+
+Transport Simulation Core can be thought of as the soul of the MTR Mod. It handles everything from storing station and track data to path findings and vehicle simulations.
+
+While deeply integrated into MTR Mod, Transport Simulation Core can be executed independently from the MTR Mod, and the logic are not tied to MTR Mod. Communication with TSC is performed via HTTP requests.
+
+If you would like to make changes to train movements, path findings, adding new transport/rail types, you should check out the Transport Simulation Core project.
+
+==== MTR Mod (Server) ====
+
+The MTR Mod (Server) act as an intermediate layer between the Minecraft game and Transport Simulation Core. When the server starts, it launches Transport Simulation Core in a separate thread from Minecraft. The MTR Mod also handles ticket & fares related logic, server-side commands and interactions on the server-side.
+
+If you would like to implement integrations with the Minecraft Game or add new blocks/items, you should check out [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway|MTR Mod]].
+
+==== MTR Mod (Client) ====
+
+The MTR Mod (Client) is almost everything that can be perceived by the player, this includes rendering vehicles/platform gates/railway facilities blocks. Data (Tracks/Vehicles) nearby the player is periodically from TSC (via MTR Mod Server).
+
+If you would like to implement rendering, GUI, resource-packs related changes or add new blocks/items, you should check out [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway|MTR Mod]].
+
+==== Minecraft Mappings ====
+
+//Main article: [[mtr:development:minecraft_mappings|Minecraft Mappings]]//
+
+Minecraft Mappings is a project that abstracts classes/methods across different Minecraft version and mappings (Yarn/Mojmap).
+
+If you would like to implement new classes/methods for interacting with Minecraft code, you should check out the Minecraft Mappings project.
+
+===== Alternate Diagram =====
+
+{{:mtr:development:mtr_flow_diagram.png?600 }}
+
+(Red Lines = HTTP Request)
+
+(Blue Lines = Minecraft Packets)
+
+(Rounded Rectangle = HTTP Endpoint)
+
