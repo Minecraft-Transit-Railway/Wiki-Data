@@ -1,0 +1,30 @@
+====== SzandorThe13th ======
+
+<WRAP right>
+|  @#6D59A0:  **SzandorThe13th**  |||
+| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023, bibi hat and all.  |||
+|  @#6D59A0:  **Profile**  |||
+| **Known as** | Szandor ||
+| ::: | Szan((i stopped asking people not to shorten my name like this after a while)) ||
+| **MTR Discord Join Date** | January 2nd, 2023 ||
+| **Roles** | Train Operators | (02/01/2023) |
+| ::: | Resource Pack Authors | (23/06/2023) |
+| ::: | Modders | (23/06/2023) |
+| ::: | Let's Play Builders | (09/12/2023) |
+| ::: | @#11ABAB:Support Team | (18/09/2024) |
+| **Date of Birth** | May 5th, 2004 ||
+| **Gender** | Male ||
+| **Nationality** | Dutch ||
+| **Timezone** | CET (GMT+1) ||
+| ::: | CEST (GMT+2)((summer time)) ||
+</WRAP>
+
+**Szandor** is one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community, his goal is to help people, but his task sometimes seems to be acting as the voice of reason in a group of people. As of September 2024, he has taken on a more dedicated support role within the community, officially becoming part of the staff team.
+
+He's most known for his [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin published in the public resourcepacks channel, as well as the MTR community's equivalent of the rickroll where any mention of Boskoop or anything related to the railway line running through it will result in receiving the "get boskoop snijdelwijk'd" gif as reaction, the reason for it being that [[https://en.wikipedia.org/wiki/Boskoop_Snijdelwijk_railway_station|Boskoop Snijdelwijk]] is often joked about as a useless station due to it seeing the lowest passenger numbers in the region despite 7.5 minute train frequencies.
+
+Besides that, he's also the creator of the widespread copypasta((Becoming a builder on the lets play server is not as much about screenshots as it is about being an active member of the community. It also helps to be proven to be someone who is good at working together with other builders. Things like those, weighed together with your activity and general build quality (not an extremely high standard to be honest), may increase your chances of recieving an invitation to join the builders team. As of right now however, I don't think staff is looking for many more builders for the time being anyway as there is already quite a lot.)) to explain to the common user that becoming a builder on the Let's Play Server isn't as easy as they think it is.
+
+On [[mtr_community:server:centralia|Centralia]] he works on helping the map develop, adapting his builds to the existing ones somewhat, and on [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] he works on making sure the system is accurate to the map and that odd ideas don't spiral out of control. 
+
+With his company [[mtr_letsplay:mrw|Moszyan Railways]] you can also find him on the [[mtr_letsplay:start|Let's Play]] server! There, he plans to make use of his local references to make a system that operates like he is used to at home, while still fitting the style of the server itself.
