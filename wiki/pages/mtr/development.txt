@@ -1,3 +1,11 @@
 ====== Development Documentation ======
 
+Welcome to the developer documentation of the MTR Mod. Here, you can find informations regarding the technical aspects of the Minecraft Transit Railway mod!
+
+  * For starters, you can check out [[mtr:development:mtr_architecture|MTR Mod Architecture]] to have a greater understanding of the mod.
+  * If you are looking to interact with [[mtr:development:transport_simulation_core|Transport Simulation Core]]'s API, you can check out [[mtr:development:api_reference|API Reference]].
+
+===== All Pages =====
+
 <nspages mtr:development -textPages="" -title -exclude>
+
