@@ -47,6 +47,7 @@ All routes except for AL02 will be suspended on August 19, 2024. Through service
 
 The next day, on August 20, the HG route temporarily resumed service with buses. Other routes were gradually resumed with the introduction of compatible LIGHTACE vehicles, and after through service with SMTR resumed on August 29, all SLRT services were restored. On the same day, all vehicles except for 1928 were deregistered. In connection with this, Landfall Station was renamed Kamiyonai Station. Management of the area around the station was transferred from Teufort LRT to TRT.
 
+Between September 16th and 23rd, operation of the Cinderace Light Rail and Kamaboko LRT was transferred from SMTR to SLRT.
 =====Rolling Stock=====
 All vehicles except for those on the HG route are derived from the S43-tec LRV.
 Although there are slight differences depending on the route, basically all vehicles are operated without distinction.
@@ -61,14 +62,14 @@ Currently, trains with four or more cars are operated with the same model and th
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
 | **1928 Stock** | Dark Green | 2 or 4 |
-| **1999 Stock** | Alps Green\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green | ::: |
-| **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange| ::: |
+| **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp (WIP)\\ Thundercracker (WIP) | ::: |
+| **1999 Stock** | Alps Green/Tamaden\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
+| **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange\\ Rose Pink\\ Blue\\ Orange\\ Yellow| ::: |
 | @#888888: **1954 Stock** | @#888888:TBA | @#888888:2 or 4 |
 | @#888888: **1954M Stock** | ::: | ::: |
 | @#888888: **1954MM Stock** | ::: | ::: |
 | @#888888: **1980 Stock** | ::: | ::: |
 | @#888888: **1990 Stock** | ::: | ::: |
-| @#888888: **1998 Stock** | ::: | ::: |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 ==Former==
 ^  Model  ^  Livery  ^  Cars  ^
@@ -89,10 +90,9 @@ A model compatible with through service to Shimano MTR.
 Unlike the Shimano MTR vehicles mentioned below, these vehicles operate without distinction as long as the tracks are connected.
 Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom.com/wiki/Smiling_Critters|Smiling Critters]], but currently only the Catnap livery is in operation. Initially, it was planned to modify an S43-LRV, but with the retirement of all the vehicles mentioned above, the plans were changed to building new vehicles instead.
 
-For now, it will remain painted white for the time being.
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
-| **1999T Stock** | @#888888: Lavender(Catnap) | 2 or 4 |
+| **1999T Stock** | Lavender(Catnap) | 2 or 4 |
 | ::: | @#888888: Peppermint(Hoppy Hopscotch) | ::: |
 | ::: | @#888888: Rose(Bobby BearHug) | ::: |
 | ::: | @#888888: Lemongrass(Bubba Bubbaphant) | ::: |
