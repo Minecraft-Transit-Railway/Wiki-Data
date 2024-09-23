@@ -101,19 +101,16 @@ On 18 January 2024, DLR Route A3 began operation from the new terminal at [[Faar
 
 ===== System Operations =====
 
-The DLR currently serves 26 stations across the centre of Greater Llanmara. There are five branches in addition to the Central Suburban Loop: to the City to the north, to the Lower Islands and [[Southampton|Southampton]] in the south, to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie]] to the west, to [[Hixton Town|Hixton Town]] in the east, and to [[Dencradle|Dencradle ]]in the southwest to the east. Between [[Houton High Street|High Street]] and [[Faarverness Jungle|Faarverness Jungle]], the DLR runs vaguely parallel to the [[Metro Victory Line|Victory Line]]. Between Boulton-on-Mesa and Kirkenkessie Bank, the DLR runs directly parallel to the Victory Line.
+The DLR currently serves 28 stations across the centre of Greater Llanmara. There are five branches in addition to the Central Suburban Loop: to the City to the north, to the Lower Islands and [[Southampton|Southampton]] in the south, to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie]] to the west, to [[Hixton Town|Hixton Town]] in the east, and to [[Financial Centre|Financial Centre ]]in the southwest to the east. Between [[Houton High Street|High Street]] and [[Faarverness Jungle|Faarverness Jungle]], the DLR runs vaguely parallel to the [[Metro Victory Line|Victory Line]]. Between Boulton-on-Mesa and Kirkenkessie Bank, the DLR runs directly parallel to the Victory Line.
 
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
 | Kirkenkessie Bank – Clockwise Loop | A1 | [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie Bank]], [[Dencradle|Dencradle]], [[Boulton-on-Mesa|Boulton-on-Mesa]], [[Faarverness Jungle|Faarverness Jungle]], [[Queen Elizabeth II|Queen Elizabeth II]], [[Upper Milford|Upper Milford]], [[Winbeck|Winbeck]], [[High Street|High Street]], [[Chambers Street|Chambers Street]], [[Hereford Delta|Hereford Delta]], [[Turnham Road|Turnham Road]], [[Winbeck|Winbeck]], (//Winbeck → Kirkenkessie Bank)// |
 | Kirkenkessie Bank – Anticlockwise Loop | A2 | Kirkenkessie Bank, Dencradle, Boulton-on-Mesa, Faarverness Jungle, Queen Elizabeth II, Upper Milford, Winbeck, Turnham Road, Hereford Delta, Chambers Street, High Street, Winbeck, (//Winbeck → Kirkenkessie Bank)// |
 | Faarverness Island – Southampton | A3 | [[Faarverness Island|Faarverness Island]], Faarverness Jungle, Queen Elizabeth II, Upper Milford, Winbeck, Peakwell, Hampton Terrace, Southampton |
-| Winbeck – Saint Ann's | B1 | Winbeck, High Street, [[Llanmara Saint Ann's|Saint Ann's]] |
-| Saint Devota – Waterloo Gate //(Permanent Suspension)// | B2 | [[Llanmara Saint Devota|Saint Devota]], [[City Northshore|City Northshore]], [[Waterloo Gate|Waterloo Gate]] |
+| Docklands North – Saint Ann's | B1 | [[Docklands North|Docklands North]], [[Docklands South|Docklands South]], Winbeck, High Street, [[Llanmara Saint Ann's|Saint Ann's]] |
 | Southampton – Turnham Road | C1 | [[Southampton|Southampton]], [[Hampton Terrace|Hampton Terrace]], [[Peakwell|Peakwell]], High Street, Chambers Street, Turnham Road |
 | Hixton Town – Turnham Road | C2 | [[Hixton Town|Hixton Town]] , [[Llanmara Iceland|Iceland]], [[Walford Pass|Walford Pass]], [[Denmark Hill|Denmark Hill]], [[High Stratham|High Stratham]], Chambers Street, Hereford Delta, Turnham Road |
-| Winbeck – Hampton West //(Permanent Suspension)// | D1 | [[Hampton West|Hampton West]], Winbeck, Peakwell, Hampton Terrace, Hampton West |
-| Winbeck – Docklands North //(Current Service Pattern)// | D1 | [[Docklands North|Docklands North]], [[Docklands South|Docklands South]], Winbeck |
-| Meilan – Dencradle | E1 | [[Dencradle|Dencradle]], [[Dencradle|Mt. Dencradle]], [[Meilan|Meilan]], [[Financial Centre|Financial Centre]] |
+| Financial Centre – Dencradle | E1 | [[Dencradle|Dencradle]], [[Dencradle|Mt. Dencradle]], [[Meilan|Meilan]], [[Financial Centre|Financial Centre]] |
 
 ~~NOTOC~~
