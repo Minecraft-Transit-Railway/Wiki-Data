@@ -38,6 +38,14 @@ Initially, it was planned to be based on the Hong Kong LRT, but due to its maneu
   * Unlike SMTR, the construction method is simplified and tends not to create stations with different designs from station to station.
   * As mentioned above, it is compatible with the TLRT and actually once offered direct service to it.
   * In principle, only CJK ((example:"相01")) is indicated as the number, which is different from other LRT lines. ((English notation can be confirmed on the system map.))((The system numbers of the Tokyo Metropolitan Bureau of Transportation are used as a reference.))
+=====History=====
+Plans for the first SLRT route were announced on August 21, 2024, and the first section of KR01 opened on August 26 of the same year to commemorate the opening of Utsunomiya LRT.
+
+Through service with Teifot LRT U2 will begin on 13 February 2024.
+
+All routes except for AL02 will be suspended on August 19, 2024. Through services of Teufort LRT and SMTR will also be suspended. In addition, all vehicles in service at the time, except for LRT 1928, will be taken out of service.
+
+The next day, on August 20, the HG route temporarily resumed service with buses. Other routes were gradually resumed with the introduction of compatible LIGHTACE vehicles, and after through service with SMTR resumed on August 29, all SLRT services were restored. On the same day, all vehicles except for 1928 were deregistered. In connection with this, Landfall Station was renamed Kamiyonai Station. Management of the area around the station was transferred from Teufort LRT to TRT.
 
 =====Rolling Stock=====
 All vehicles except for those on the HG route are derived from the S43-tec LRV.
