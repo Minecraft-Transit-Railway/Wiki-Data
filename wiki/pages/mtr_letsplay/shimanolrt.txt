@@ -122,19 +122,19 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 
 =====Routes=====
 ^Route Name^Transit point^Parallel routes^Note^
-|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai |Shimano Line\\ Marine Line\\ Hybra Line\\ Northern Line||
-|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Kamiyonai|Hybra Line\\ Northern Line||
-|黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace(wip)|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line||
-|黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None||
-|黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None||
-|萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None||
-|萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|None||
-|平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line||
-|沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None||
+|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai |Shimano Line\\ Marine Line\\ Hybra Line\\ Northern Line|　|
+|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Kamiyonai|Hybra Line\\ Northern Line|　|
+|黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace(wip)|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
+|黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
+|黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
+|萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|None|　|
+|萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|None|　|
+|平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line|　|
+|沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Daisetu Town ⇄ Extreme Hot Spring(wip)|Shinx Line\\ Furret Line|Kamaboko LRT|
 |閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
 |閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
-|AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None||
+|AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None|　|
 
 
 =====Through Service=====
