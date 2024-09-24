@@ -101,7 +101,7 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
 
 ==== Train textures ====
   - Download an image editing software of your choice, that supports transparency. Recommended are Paint 3D and GIMP, as they are both free and relatively easy to use. **Do not** use MS Paint, because it **does not** support transparency and will cause all transparent parts of your texture to turn white
-  - Go to [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/4.0.0/fabric/src/main/resources/assets/mtr/textures/vehicle]] and download the texture file you want to edit
+  - Go to [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle]] and download the texture file you want to edit
   - Open your image editing software, find the texture you want to edit, then open it and start making your edits
   - When you're done, export the texture file as a PNG to your resourcepack, and put it in the appropriate folder (re-read the section above on making a resourcepack if you're unsure of how and where)
   - Follow all the correct steps to create the resourcepack, as seen above
@@ -110,7 +110,7 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
 
 <WRAP center round tip 90%>
 You can also use blockbench to retexture trains! To do so however, you must first also download the train bbmodel file from the following link: \\
-[[https://github.com/jonafanho/Minecraft-Transit-Railway/tree/4.0.0/models]]
+[[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle]]
 </WRAP>
 
 And you are done with the basics!
