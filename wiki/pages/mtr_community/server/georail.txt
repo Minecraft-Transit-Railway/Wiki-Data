@@ -1,17 +1,16 @@
 ====== GeoRail ======
 
-A Server that was created mid 2024 on the 1st of May, as a private server and a small community of a few builders it eventually grew to 15 members (exc. bots). After a issue with an member that has eventually made the server shut down and purposefully "raided" (deleted by another staff member's alt I (as JustNoone) gave ownership to.) and be invite only again, The server was made public by 22 August, many members thought this was a bad idea. The server first member that joined with the new Invite link was __@sttea.__ Who is an member since august 22 2024. The server had an corruption, which lead to loosing the whole world due to the Server Host Provider.
+**GeoRailways**, or just **GeoRail** for short, is a community MTR server that was created on the 1st of May, 2024 as a private server for a small community of a few builders which eventually grew to 15 members (excluding bots). After an issue with an member and a raid, the server was shut down and became invite only. The server was made public again on the 22nd of August, despite a prior vote indicating the members the server had at the time preferred the server to stay private and grow internally before opening to the public. The server corrupted at one point, which lead to the loss of the world. The server currently sports cities dotted around, and a generalised spawn area which is planned to connect to the other cities in due time.
 
-|  ''@#590FF:'' ''<color #FFFFFF>''**GeoRail overview**''</color>''  |
+|  @#590FF:**GeoRail overview**  |
 | Owner: JustNoone |
 | Creation date: 01.05.2024 / Re-created: 15.06.2024 |
 | Server type: Fabric 1.19.2 |
 | Type: All styles |
 | Members (as of 25.09.2024): 45 (including bots), 40 |
 | Server slogan: **"MTR at its finest"** |
-| ''@#''5960FF'':<color #FFFFFF>**GeoRail Logo''**</color> |
-| {{ :mtr_community:server:georail.png?150 |Logo of GeoRail}}{{ :mtr_community:server:georail-animated.gif?150 }} |
+| @#5960FF:<color #FFFFFF>**GeoRail Logo**</color> |
+| {{mtr_community:server:georail.png?150 |Logo of GeoRail}}{{mtr_community:server:georail-animated.gif?150}} |
 | GeoRail colors: |
-| ''@#''FFB800 |
-| ''@#''5960FF |
-
+| @#FFB800: |
+| @#5960FF: |
