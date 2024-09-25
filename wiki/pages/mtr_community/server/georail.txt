@@ -2,7 +2,7 @@
 
 **GeoRailways**, or just **GeoRail** for short, is a community MTR server that was created on the 1st of May, 2024 as a private server for a small community of a few builders which eventually grew to 15 members (excluding bots). After an issue with an member and a raid, the server was shut down and became invite only. The server was made public again on the 22nd of August, despite a prior vote indicating the members the server had at the time preferred the server to stay private and grow internally before opening to the public. The server corrupted at one point, which lead to the loss of the world. The server currently sports cities dotted around, and a generalised spawn area which is planned to connect to the other cities in due time.
 
-|  @#5960FF:**GeoRail overview**  |
+|  @#5960FF:<color #FFFFFF>**GeoRail overview**</color>  |
 | Owner: JustNoone |
 | Creation date: 01.05.2024 / Re-created: 15.06.2024 |
 | Server type: Fabric 1.19.2 |
