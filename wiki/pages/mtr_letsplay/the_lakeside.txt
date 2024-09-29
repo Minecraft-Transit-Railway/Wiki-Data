@@ -1,5 +1,7 @@
 ====== The Lakeside [WIP] ======
 
+<WRAP todo>This wiki page is work in progress.</WRAP>
+
 <WRAP right>
 
 |  @#EFEEF0:  **The Lakeside**\\ **湖方**  ||
