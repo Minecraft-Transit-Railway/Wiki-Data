@@ -2,9 +2,27 @@
 
 <WRAP todo>This wiki page is work in progress.</WRAP>
 
+<WRAP right>
+
+|  @#EFEEF0:  **Kwong Chow Grand Canal and Heritage**\\ **光州大運洞及水鄉**  ||
+| ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[/west_lake_transport_authority|WLT]] |
+| **Locale** | [[/west_lake_area|West Lake]] |
+| **Developed Area** | ~6000 m<sup>2</sup> |
+| **Visits**| >10 |
+
+</WRAP>
+
 ===== History =====
 
   * early October, 2022: Construction works begins as [[/kwong_chow_station|Kwong Chow]] station will start construction soon. At first the originally narrow, silted river is expanded to the now grand canal. Some households affected are moved to the new Kwong Chow North area near the grand canal. 
   * mid December, 2022: **Kwong Chow Grand Canal** finishes construction works and adds lights. At night the canal glows and forms a beautiful scenery. 
   * early January, 2023: A duck boat starts going to and forth the grand canal. 
   * late May, 2023: In accordance to the 1.3.4 update of MSD with new standing signs, it is used to replace the legacy MTR signs for directions.
+
+===== Transport =====
+
+  * [[/kwong_chow_station|Kwong Chow station]]
+    * [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]
+    * [[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]
