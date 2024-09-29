@@ -1,0 +1,13 @@
+====== The Lakeside [WIP] ======
+
+<WRAP right>
+
+|  @#EFEEF0:  **The Lakeside**\\ **湖方**  ||
+|  ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[/west_lake_transport_authority|WLT]] |
+| **Locale** | [[/west_lake_area|West Lake]] |
+| **Area** | >10,000 m<sup>2</sup> |
+| **Real-Life Inspiration** | [[wp>Elements,_Hong_Kong|Elements]] //(name inspiration and integrated design with office/hotel towers)//\\ [[wp>Discovery_Park|Discovery Park]] //(floor layout and part of indoor design)//\\ [[wp>Apm_(Hong_Kong)|apm]] //(shape of atrium)//\\ [[wp>China_Hong_Kong_City|China Hong Kong City]]//(integrated design with ferry piers)// |
+
+</WRAP>
