@@ -17,7 +17,7 @@
 
 </WRAP>
 
-CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:builders:soodari|Soodari]], who operates the South Western Region services. In future, it is hoped both regions can be linked to provide a through service from Portsmouth and the South West to destinations such as Teufort Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:builders:soodari|Soodari]], who operates the South Western Region services. In future, both regions will be linked to provide a through service from Portsmouth and the South West to destinations such as Liskeard Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
 
 ==== Fleet ====
 
@@ -41,8 +41,8 @@ The table below shows the expected calling pattern once the line has linked, and
 
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
-| Teufort Central | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Station TBC|Station TBC]], [[Teufort South]], [[Teufort Central]] |
-| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, Gapyeong, Rikkashi Yongchun, Einsburg West, Einsburg Central, then //Reston Intermodal → Ilford Island → Kirkenkessie Gateway // or //Reston Intermodal → Ilford Parkway → Marylebone// |
+| Liskeard Central | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Acacialand Village]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]] |
+| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, Gapyeong, Rikkashi Yongchun, Einsburg West, Einsburg Central, then //Einsburg East → Reston Intermodal → Ilford Island → (Limited) Kirkenkessie Gateway // or //→ Reston Intermodal → Ilford Parkway → Marylebone// |
 | Route In Planning | XC03 | Information Unavailable |
 </WRAP>
 
