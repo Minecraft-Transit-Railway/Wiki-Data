@@ -2,22 +2,22 @@
 
 <WRAP right>
 
-|  @#AE0D3F:  |||
-|  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||  |
-| {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||  |
-|  @#EFEEF0:  **Overview**  ||  |
-| **Area Served** | North and South West |  |
+|  @#AE0D3F:  ||
+|  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||
+| {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||
+|  @#EFEEF0:  **Overview**  |  |
+| **Area Served** | North and South West |  
 | **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |  |
-| **Number of lines** | 3 |  |
-| **Stations Served** | 18 |  |
-| **Real-Life Inspiration** | [[https://en.wikipedia.org/wiki/CrossCountry|Arriva CrossCountry]] |  |
-|  @#EFEEF0:  **Service & Operations**  ||  |
-| **Began passenger operations** | 2023 |  |
-| **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |  |
+| **Number of lines** | 3 |  
+| **Stations Served** | 18 |  
+| **Real-Life Inspiration** | [[wp>CrossCountry|Arriva CrossCountry]] |  
+|  @#EFEEF0:  **Service & Operations**  |  
+| **Began passenger operations** | 2023 |  
+| **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |  
 
 </WRAP>
 
-CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:builders:soodari|Soodari]], who operates the South Western Region services. In future, both regions will be linked to provide a through service from Portsmouth and the South West to destinations such as Liskeard Central, Einsburg Central, Ilford Island/Kirkenkessie Gateway, and Marylebone alongside other locations.
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:builders:soodari|Soodari]], who operates the South Western Region services. Currently being built, it provides intercity and regional train services Portsmouth and the South West to destinations including Danielston Memorial, Liskeard Central, Einsburg Central, Ilford Island, and Marylebone.
 
 ==== Fleet ====
 
@@ -33,7 +33,7 @@ Add Content Here
 
 ===== Current Services =====
 
-CrossCountry currently operates 4 principal services. In the North West, it operates between Kirkenkessie Gateway and Einsburg Central, via Reston Intermodal, as well as from Marylebone to Denthrope Hauptbahnhof direct. South Western services operate from Portsmouth, where they are expected to extend further southwards, to Rikkashi Yongchun, via Gapyeong and Junee stations.
+CrossCountry currently operates 4 principal services. In the North West, it operates between Kirkenkessie Gateway and Einsburg West, via Reston Intermodal, as well as from Marylebone to Denthrope Hauptbahnhof direct. South Western services operate from Portsmouth, where they are expected to extend further southwards, to Rikkashi Yongchun, via Gapyeong and Junee stations.
 
 The table below shows the expected calling pattern once the line has linked, and the various destinations it is anticipated to serve. All trains start from Portsmouth. **SUBJECT TO CHANGE**
 
@@ -43,7 +43,9 @@ The table below shows the expected calling pattern once the line has linked, and
 |  **Termini**  |  **Route**  |  **Calling at**  |
 | Liskeard Central | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]] |
 | Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Acacialand Village]] then //Einsburg East → Reston Intermodal → Ilford Island → (Limited) Kirkenkessie Gateway // or //→ Reston Intermodal → Ilford Parkway → Marylebone// |
-| Route In Planning | XC03 | Information Unavailable |
+| Route In Planning | XC03 | Information Unavailable,  |
+| Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Kangchon], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
+| Gapyeong | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]]|
 </WRAP>
 
 ~~NOTOC~~
