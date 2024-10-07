@@ -10,7 +10,8 @@
  Named after his childhood favourite train, the [[https://en.wikipedia.org/wiki/British_Rail_Class_377|Class 377 Electrostar]].
 )) |
 | **Name Inspiration** | The [[https://en.wikipedia.org/wiki/Bombardier_Electrostar|Bombardier Electrostar]] family of trains |
-| **Roles** | @#3498db: <color #FFFFFF>%% %%Staff </color> |
+| **Roles** | @#e91e63: <color #FFFFFF>%% %%Admin </color> |
+| ::: | @#3498db: <color #FFFFFF>%% %%Staff </color> |
 | ::: | @#FF73FA: <color #FFFFFF>%% %%Server Boosters </color> |
 | ::: | Let's Play Members |
 | ::: | Train Operators |
@@ -28,5 +29,5 @@
 
 **ElectrostarJudge** is a staff member in the [[mtr:start|Minecraft Transit Railway]] Discord community. He joined in December 2021 and became a member of the Staff Team as a Moderator in July 2022, known for his unique sense of humour ((
 citation needed
-)). %%On the Let's Play Server,Electrostar owns Great Western, a small regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the %%Let's Play Server%% to connect cities in the similar style to the real life %%CrossCountry Trains%% franchise, sharing the brand with builder Soodari. Electrostar also operates East Midlands Railway, an electric suburban and long distance regional train operator. On the South side of the Let's Play server, Electrostar runs the SouthEastern, and South West Trains brands. %%Electrostar is primarily interested in trains and sportscar racing. He is also a parkrunner (100, v100) and a squash player.
+)). %%On the Let's Play Server, Electrostar owns Great Western, a small regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the %%Let's Play Server%% to connect cities in the similar style to the real life %%CrossCountry Trains%% franchise, sharing the brand with builder Soodari. Electrostar also operates East Midlands Railway, an electric suburban and long distance regional train operator. On the South side of the Let's Play server, Electrostar runs the SouthEastern, and South West Trains brands. %%Electrostar is primarily interested in trains and sportscar racing. He is also a parkrunner (100, v100) and a squash player.
 
