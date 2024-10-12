@@ -1,0 +1,47 @@
+====== Line 3 (Cyan Gray Line) ======
+
+<WRAP right>
+
+^  Line 3 (Cyan Gray Line)\\ 三號 (青灰) 綫  |^
+|  @#94D1D1:  ||
+|    ||
+^  **Overview**  |^
+| **Abbreviation** | L3 (CGL) |
+| **Status** | Work in Progress\\ //(Llanmara (Saint Devota) - Mita-Shiro)// |
+| **Owner** | [[/west_lake_transport_authority|WLT]] |
+| **Locale** | Llanmara\\ Greenland\\ West Denthrope (Mesa)\\ Denthrope\\  [[/zuidbaai_centraal_station|Zuidbaai]]\\ Icon North\\ [[/west_lake_area|West Lake]]\\ Hamura |
+| **Termini** | [[/llanmara_saint_devota_station|Llanmara (Saint Devota)]]\\ [[/mita-shiro_station|Mita-Shiro]] |
+| **Connecting**\\ **Lines** | @#BB492B:[[/cinderace_line|Cinderace Line]] |
+| ::: | @#008000:<color white>Harbour Line</color> |
+| ::: | @#EB7AE9:[[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
+| ::: | @#389165:<color white>Hillside Line</color> |
+| ::: | @#7091FF:[[/cyanex|Sightseeing Local Line]] |
+| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
+| ::: | @#6B4799:<color white>Elizabeth Line</color> |
+| ::: | @#F09191: Hana-Koshi Line |
+| ::: | @#19dfde: Lakeside Mystic Line |
+| ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
+| **Stations** | 12 |
+^  Service  |^
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Service Hours** | TBD |
+| **Frequency** | TBD |
+| **Depot** | [[/suet_yuen_depot|Suet Yuen Depot]] |
+| **Rolling Stock** | Specially configured CAF-Train |
+^  Technical  |^
+| **Line Length** | TBC |
+| **Number of**\\ **Tracks** | Double Track |
+| **Gauge** | 1435 mm |
+| **Electrification** | 1.5 kV DC |
+| **Operating**\\ **Speed** | Average: TBD\\ Maximum: 140 km/h (38.9 m/s) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+^  Route Map  |^
+|    ||
+
+</WRAP>
+
+**Line 3 (Cyan Gray Line)** (Chinese: //三號 (青灰) 綫//), is a rapid transit service currently under construction. It will be operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]] after opening, from [[/llanmara_saint_devota_station|Llanmara (Saint Devota)]] station to [[/mita-shiro_station|Mita-Shiro]] station. The name comes from being the third rapid transit line WLT has ever planned, with a cyan fade in the line colour. 
+
+The line will connect up Llanmara, Greenland, West Denthrope (Mesa), Denthrope,  [[/zuidbaai_centraal_station|Zuidbaai]], Icon North Area, [[/west_lake_area|West Lake]] Area and Hamura Area. A larger distance between stations and premium service Cyan Car is also featured. 
+
+The <color #FFFFFF/#94d1d1>"Cyan Gray"</color> Line colour is picked from the complement of the mix of <color #FFFFFF/#EB7AE9>Line 1 orchid magenta</color> and <color /#FFDA33>Line 2 mandarin yellow</color>.
