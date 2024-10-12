@@ -34,7 +34,7 @@ Operates on Winter Olympics Loop Line and Sightseeing Local Line.
 
 **CXD104**\\ 
 Type-B EMU based on the MTR C-Train, with the CyanEX livery.\\ 
-Operates on Sightseeing Line and WLT Line 2.
+Operates on Sightseeing Line and [[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]].
 
 **CXD105**\\ 
 Type-B EMU based on the MTR K-Train, with a fancy Genshin Impact themed livery made by Asnacinjar.\\ 
@@ -43,7 +43,7 @@ Operates on Sumeru Line.
 **CXD106**\\ 
 Type-M suspended monorail EMU train based on the MTR S-Train, with MTR livery.\\ 
 Features a LCD dynamic PIS system implemented with JavaScript capabilities.\\ 
-Operated APM services at TeaCon 2023.
+Operated APM services at TeaCon 2023.\\ Lended a train set to [[/west_lake_transport_authority|WLT]] and stored in Chung Kwo Kok Depot for the visual information system (VIS) installation of [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] trains. 
 
 **CXD107**\\ 
 Type-B EMU based on the MTR S-Train, with the CyanEX livery.\\ 
