@@ -27,7 +27,7 @@
 | **Service Hours** | TBD |
 | **Frequency** | TBD |
 | **Depot** | [[/suet_yuen_depot|Suet Yuen Depot]] |
-| **Rolling Stock** | Specially configured CAF-Train |
+| **Rolling Stock** | [[/caf_reformation|Specially configured CAF-Train]] |
 ^  Technical  |^
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
