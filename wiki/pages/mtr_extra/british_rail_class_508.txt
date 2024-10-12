@@ -5,7 +5,7 @@
 |  @#EABF23:  **British Rail Class 508 (4PER)**  ||
 |  {{ :mtr_extra:508108_orakei.png?350 |508108 (in Let's Play) in Ōrākei}}508108 in %%Ōrākei.%%{{ :mtr_extra:508108_sop.jpg?350 }}508108 in Southport.  ||
 |  @#EABF23:  **Real-live Overview**  ||
-| **In service** | 17th December, 1979 - Present |
+| **In service** | 17th December, 1979 - 16th January, 2024 |
 | **Manufacturer** | [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] |
 | **Order Number** | 30979 (DMSO) |
 | ::: | 30980 (TSO) |
@@ -66,7 +66,7 @@
 |  **Information above are from Wikipedia with addition of the editor(Navi)'s understanding.**  ||
 |  @#EABF23:  **MTR (and [[mtr_letsplay:start]]) Overview**  ||
 | **Available from** | 17th September, 2022-Present |
-| **Creator** | [[mtr_community:navi_lx9702|Navi]] |
+| **Creator** | [[mtr_community:staff:navi_lx9702|Navi]] |
 | **Latest stable release** | 1.4 (11th February, 2023) |
 | **Cube Count**  | 732 (As of version 1.4) |
 | **Order Number**  | 30981 (BDMSO) |
@@ -111,7 +111,7 @@
 
 </WRAP>
 
-The **British Rail Class 508** or **4PER** in Southern Railway, was a Electric Multiple Unit (EMU) passenger train built by [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] between 1979 and 1980. They are one of the the BERL 1972 suburban train designs, others being Classes [[wp>British_Rail_Class_313|313]], [[wp>British_Rail_Class_314|314]], [[wp>British_Rail_Class_315|315]], and [[wp>British_Rail_Class_507|507]]. This train is designed and worked for Merseyside since 1983 and continue to do so. They are all retired from passenger service and are replaced by [[wp>British_Rail_Class_777|Class 777]].
+The **British Rail Class 508** or **4PER** in Southern Railway, was a class of Electric Multiple Unit (EMU) passenger train built by [[wp>British_Rail_Engineering_Limited|British Rail Engineering Limited]] between 1979 and 1980. They are one of the the BERL 1972 suburban train designs, others being Classes [[wp>British_Rail_Class_313|313]], [[wp>British_Rail_Class_314|314]], [[wp>British_Rail_Class_315|315]], and [[wp>British_Rail_Class_507|507]]. This train is designed and worked for Merseyside since 1983 and continue to do so. They are all retired from passenger service and are replaced by [[wp>British_Rail_Class_777|Class 777]].
 
 ====== In Minecraft Transit Railway ======
 
