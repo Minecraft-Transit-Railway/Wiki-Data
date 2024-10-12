@@ -1,7 +1,7 @@
 ====== Season 1 Finale ======
 
-**Let's Play Season 1 Finale** is the last episode of Season 1 in the [[//|Let's Play Series]], filmed on 24 September, 2022 and published on the next day.
+**Let's Play Season 1 Finale** is the last episode of Season 1 in the [[//start|Let's Play Series]], filmed on 24 September, 2022 and published on the next day.
 
-This is the longest video in the Let's Play series, containing [[mtr_lp:spawn_station|Spawn]] renovation and numerous tours on the new lines, such as [[//wlt_line_1|WLT Line 1]] (now Line 1 (Meyan Line) Phase 1), [[//azalea-cl|Azalea-CL]], [[//shinx_line|Shinx Line]], [[//wr_yanyu_line|WR Yanyu Line]], [[//northern_circle_line|Northern Circle Line]] and [[mtr_lp:prison_line|Prison Line]].
+This is the longest video in the Let's Play series, containing [[//spawn_station|Spawn]] renovation and numerous tours on the new lines, such as [[//wlt_line_1|WLT Line 1]] (now Line 1 (Meyan Line) Phase 1), [[//azalea-cl|Azalea-CL]], [[//shinx_line|Shinx Line]], [[//wr_yanyu_line|WR Yanyu Line]], [[//northern_circle_line|Northern Circle Line]] and [[mtr_lp:prison_line|Prison Line]].
 
-Due to a relatively large number of HK based players (including [[mtr: community:staff:bdark000|BDark]], [[mtr:community:staff:navi_lx9702|Navi]]) were in discord voice chat, Cantonese is also spoken beside English.
+Due to a relatively large number of HK based players (including [[mtr_community:staff:bdark000|BDark]], [[mtr_community:staff:navi_lx9702|Navi]]) were in discord voice chat, Cantonese is also spoken beside English.
