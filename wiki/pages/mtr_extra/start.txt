@@ -17,11 +17,11 @@ In the context of the mod, Resource packs can provide new sign textures, new tra
 
 ===== Using Resource Packs =====
 
-Many of resource packs are packed in ZIP format. You can just put it into the ''.minecraft/resourcepacks'' folder, open the game, enable it, and use it like using builtins.
+Most resource packs are packed in ZIP format. You can just put it into the ''.minecraft/resourcepacks'' folder, open the game, enable it, and use it like using the built in MTR content.
 
-Some resource packs aren't packed in this format. For these cases, you should open the file and find if there are ZIP files in it. If you directly find pack.mcmeta in pack, you should decompress it into a folder in resourcepacks folder.
+Some resource packs aren't packed in this format. For these cases, you should open the file and find if there are ZIP files in it. If you directly find pack.mcmeta in pack, you should decompress it into a folder in your resourcepacks folder.
 
-For other questions about using resourcepacks, see [[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]] for more information.
+For other questions about the use of resourcepacks, see [[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]] for more information.
 
 ===== Making Resource Packs =====
 
