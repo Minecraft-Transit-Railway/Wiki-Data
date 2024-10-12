@@ -7,8 +7,8 @@
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake, See Tsuen, Dragon Loop Centre)// |
-| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)// |
+| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake, See Tsuen, Dragon Loop Centre, Yuren Matou (Avondale))// |
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
@@ -32,6 +32,22 @@
 | ::: | @#572606:<color white>Chin Ka Village Fast, Frequent and Free Light Rail</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#00E0FF:Kallos Ferry |
+| ::: | @#A0A5A9:BCT Silver Line |
+| ::: | @#0032B6:<color white>BCT Blue Line</color> |
+| ::: | @#389165:<color white>Hillside Line</color> |
+| ::: | @#FF8203:BCT Orange Line |
+| ::: | @#FFD906:BCT Azur Line |
+| ::: | @#FCA501:Oculink Yellow Line |
+| ::: | @#055214:<color white>Resort Ferries</color> |
+| ::: | @#D3D236:Fairview Line |
+| ::: | @#3BD2A3:Fairview Express |
+| ::: | @#415F8E:<color white>Oculink Blue Line</color> |
+| ::: | @#E41A56:<color white>Oculink Red Line</color> |
+| ::: | @#00B5CB:Kallos Express |
+| ::: | @#0FE47B:Wilds Railway Aldgate & Resort Line |
+| ::: | @#FC7FAE:Metro Blossom East Line |
+| ::: | @#00B081:<color white>Bond Line</color> |
+| ::: | @#F3009D:<color white>Effirt Express</color> |
 | **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 13 //(3 work in progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]]  |
@@ -40,7 +56,7 @@
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]] |
 ^  History  |^
-| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September , 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - W. Laputa)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)// |
+| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September , 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - W. Laputa)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Spawn - Ostania))// |
 ^  Technical  |^
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
@@ -51,7 +67,7 @@
 
 </WRAP>
 
-**Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]] and future also [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station, throughrunning [[/sightseeing_express|Sightseeing Line Phase 3, 4]] and Bond Line to [[/ostania_station|Ostania]] station. 
+**Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]],  [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station, throughrunning [[/sightseeing_express|Sightseeing Line Phase 3, 4]] and Bond Line to [[/ostania_station|Ostania]] station. 
 
 The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line) Phase 1((
 Magenta mixing with yellow forms red
