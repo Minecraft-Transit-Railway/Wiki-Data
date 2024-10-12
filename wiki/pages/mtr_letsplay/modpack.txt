@@ -50,7 +50,7 @@ Here are the steps to set it up on the official Mojang launcher if you prefer us
 <code ->
 -javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
 </code>
-  * Assigning 6 GiB or more to Java is recommended. To edit that, replace the "-Xmx*G" (for example -Xmx2G) part in the existing JVM arguments with "-Xmx6G" or more. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
+  * Assigning 8 GiB or more to Java is recommended. To edit that, replace the "-Xmx*G" (for example -Xmx2G) part in the existing JVM arguments with "-Xmx8G" or more. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
 
   * Get back to the Installations screen, and click the Play button next to this installation. Wait a bit and you'll see a window like this:
 
