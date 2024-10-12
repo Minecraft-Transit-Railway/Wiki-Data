@@ -31,8 +31,8 @@ For importing custom train running sound from BVE4/OpenBVE to an existing MTR cu
 
 ===== Where can I find one? =====
 
-You can find Resource Packs on the [[https://addons.minecrafttransitrailway.com|MTR Addons Site]], which is new, and currently in it's beta phase.
-There is also a dedicated channel in the [[https://discord.gg/PVZ2nfUaTW|MTR Discord server]], which will become deprecated after the full release of the MTR Addons Site. Some packs have a page on this wiki, they are listed down below:
+You can find Resource Packs on the [[https://addons.minecrafttransitrailway.com|MTR Addons Site]].
+There is also a dedicated channel in the [[https://discord.gg/PVZ2nfUaTW|MTR Discord server]], deprecated after the full release of the MTR Addons Site, but ensures legacy 3.0.0 content remains available. Some packs have a page on this wiki, they are listed down below:
 
  <nspages -textPages="" -h1 -exclude>
 
