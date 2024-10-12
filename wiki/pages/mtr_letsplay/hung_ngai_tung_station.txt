@@ -58,7 +58,7 @@ One lift is serving between the exits in the non-paid area at the south side, st
 | ::: | Exit D | Exit C |
 | **U4** | **Platform** ||
 | ::: | @#EB7AE9: ||
-| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to Mesa -> (Doors open on the right) |
+| ::: | Platform **1** | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to Mesa / Mei Foo Wan -> (Doors open on the right) |
 | ::: |   Island Platform   ||
 | ::: | Platform **2** | <- [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] to Tai Po (Doors open on the right) |
 | ::: | @#EB7AE9: ||
