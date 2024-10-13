@@ -17,17 +17,21 @@ area that builders start to develop and plan transportation((The last one is [[/
 
 At the same time, because of the lakes providing abundant water resources, and the shores providing land good for farming, there are a couple of residences in the area. BDark saw the opportunity of working on old towns, hence founded WLT and developed there. 
 
-The first project done is [[/kwong_chow_grand_canal_and_heritage|Kwong Chow Grand Canal and Heritage]]. Houses that were prone to flooding were resided to a new area north of original town, the small stream was expanded into the now Grand Canal. The excess mud in the stream was digged out and given to resided villagers for the aid of farming in less fertile new area. 
+The first project done is [[/kwong_chow_grand_canal|Kwong Chow Grand Canal and Heritage]]. Houses that were prone to flooding were resided to a new area north of original town, the small stream was expanded into the now Grand Canal. The excess mud in the stream was digged out and given to resided villagers for the aid of farming in less fertile new area. 
 
 ===== Transport Services =====
 
   * [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]
-  * [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]] (W. Section Temp Shuttle)
+  * [[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]] 
+  * [[/wlt_line_3|Line 3 (Cyan Gray Line)]] (Work in progress)
   * [[/wr_sw_plains_line|WR SW Plains Line]]
+  * [[/elizabeth_line|Elizabeth Line]]
   * [[/bus_route_4s|SLCBus Route 4S]]
 
 ===== Sightseeing Spots =====
 
   * [[/kwong_chow_grand_canal|Kwong Chow Grand Canal and Heritage]]
-  * [[/bdark_kwong_chow_castle|BDark Kwong Chow Castle]]
+    * [[/bdark_kwong_chow_castle|BDark Kwong Chow Castle]]
+  * West Lake New Centre
+    * [[/the_lakeside|The Lakeside]]
   * [[/sai_mo_island|Sai Mo Island]]
