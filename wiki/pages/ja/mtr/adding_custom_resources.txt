@@ -16,7 +16,7 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
 
 ==== 既存の列車のテクスチャバリエーションを追加する ====
 
-テクスチャのバリエーション（リテクスチャ）を追加するには、''mtr_custom_resouces.json'' に''custom_trains'' JSONオブジェクトを追加する必要がある。''custom_trains'' の下にある各JSONオブジェクトは、列車のテクスチャバリエーションを表し、固有のキーといくつかの必須項目を持たなければなりません。
+テクスチャのバリエーション（リテクスチャ）を追加するには、''mtr_custom_resouces.json'' に''custom_trains'' JSONオブジェクトを追加する必要がある。''custom_trains'' の下にある各JSONオブジェクトは、列車のテクスチャバリエーションを表し、固有のキーといくつかの必須項目を持たなければならない。
 
 <markdown>
 
@@ -45,7 +45,7 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
 | `door_close_sound_time` | 数列 | ドア音のオフセットを指定する。値は0以上、1以下である必要がある。 |任意|`0.5`||
 | `bve_sound_base_id` | 文字列 | BVEサウンドのIDを指定する。デフォルトの列車IDか、sounds.jsonで定義されたものを指定する。BVEサウンドの定義方法については [こちら](https://wiki.minecrafttransitrailway.com/mtr:dev:custom_bve_sound) を参照。 | 任意 |N/A|If specified, conventional format sound will not be available.|
 
-An example is shown below.
+以下に例を示す。
 
 ```
 {
@@ -60,23 +60,23 @@ An example is shown below.
 }
 ```
 
-## Adding New Railway Sign Textures or Text
+## 鉄道標識の新しいテクスチャやテキストの追加
 
-To add new [railway signs](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) textures or text, the `custom_signs` JSON object should be added to `mtr_custom_resouces.json`. Each JSON object under `custom_signs`, representing a new sign, should have a unique key and serveral required entries.
+鉄道標識の新しいテクスチャやテキストを追加するには、`mtr_custom_resouces.json` に`custom_trains` JSONオブジェクトを追加する必要がある。`custom_trains` の下にある各JSONオブジェクトは、標識のテクスチャバリエーションを表し、固有のキーといくつかの必須項目を持たなければならない。
 
-| Key | Data Type | Description | Required? |
-| --- | --- | --- | --- |
-| `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |
-| `flip_texture` | Boolean | If `true`, the texture will be flipped horizontally | Optional |
-| `custom_text` | String | If set, the text will be shown to the right of the image; the pipe character `\|` is supported, for example `客務中心\|Customer Service Centre` | Optional |
-| `flip_custom_text` | Boolean | If `custom_text` is set and `flip_custom_text` is `true`, the text will be shown to the left of the image | Optional |
-| `small` | Boolean | If `true`, the image will be rendered with a margin around it | Optional |
-| `background_color` | String (colour hex code) | The colour for the backgound | Optional, defaults to the colour black if none specified |
+| キー | データ型 | 説明 | 要否 |  |  |
+| --- | --- | --- | --- |  |  |
+| `texture_id` | 文字列 (texture ID) | テクスチャファイルの [名前空間付きID]([[https://minecraft.wiki/wiki/Namespaced_ID]]) | 必須 |  |  |
+| `flip_texture` | ブーリアン型 | `True` を指定することで、テクスチャが水平方向に反転する。 | 任意 |  |  |
+| `custom_text` | 文字列 | 設定されている場合、画像の右側にテキストが表示される。パイプ文字`\` や` | ` が使用可能である。`例：客務中心 | Customer Service Centre` | 任意 |
+| `flip_custom_text` | ブーリアン型 | `custom_text` が設定されており、`flip_custom_text` が`true` の場合、画像の左側にテキストが表示される | 任意 |  |  |
+| `small` | ブーリアン型 | `True` を指定することで、画像が余白付きで表示される。 | 任意 |  |  |
+| `background_color` | 文字列 (HEXカラーコード) | 背景色を指定する。 | 任意。指定がない場合には、黒色となる。 |  |  |
 
-An example is shown below.
+以下に例を示す。
 
-```
-{
+`` {
+
   "custom_signs": {
     "my_custom_sign": {
       "texture_id": "mtr:custom_directory/custom_sign.png",
@@ -87,9 +87,8 @@ An example is shown below.
       "background_color": "1167B1"
     }
   }
-}
-```
-## Model Properties file
+
+} `` ## Model Properties file
 
 </markdown>
 
