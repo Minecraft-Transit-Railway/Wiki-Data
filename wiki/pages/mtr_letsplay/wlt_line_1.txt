@@ -12,7 +12,7 @@
 | **Locale** | West Denthrope (Mesa)\\ [[/resort_area|Resort]]\\ [[/east_north_tundra_area|East North Tundra]]\\ [[/zuidbaai_centraal_station|Zuidbaai]]\\ [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]] |
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/tai_po_station|Tai Po]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
-| ::: | @#94d1d1:Line 3 (Cyan Gray Line) (WIP) |
+| ::: | @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]] (WIP) |
 | ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] (WIP)</color> |
 | ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (WIP) |
 | ::: | @#055214:<color white>Resort Ferries (WIP)</color> |
@@ -25,8 +25,8 @@
 | ::: | @#7BACF6:Shinx Line |
 | ::: | @#9C5E31:<color white>Furret Line</color> |
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
-| ::: | @#7090FF:<color white>[[/sightseeing_express|Sightseeing Local Line]]</color> |
-| ::: | @#7091FF:<color white>[[/sightseeing_express|Sightseeing Line]]</color> |
+| ::: | @#7090FF:<color white>[[/cyanex|Sightseeing Local Line]]</color> |
+| ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
@@ -72,7 +72,7 @@ Coincidentally, [[/shimanomtr|Shimano MTR]] starts it's operations and develops 
 
 After the north part connection is done, the main part starts construction. Along with the [[/kwong_chow_grand_canal|property development at Kwong Chow]], sections from Birch Hill to Kwong Chow is open on 22 December, 2022. The original **WLT Line 1** is also rebranded to **WLT Line 1 Phase 1** as the final termini and route of the line is confirmed and construction has begun.
 
-Hung Ngai Tung station is done after 3 months and starts serving passengers. Meanwhile, the only service between [[/denthrope|Denthrope]] and Spawn Kowloon Commuter (now [[/hillside_line|Hillside Line]]) has been shut down by the operator [[/ERInc|ERInc]] for a while. Some R2C players complain they have to make a detour via [[/Llanmara|Llanmara]], and because of a lack of fast and direct service between Denthrope and Llanmara, they are disadvantageous comparing to other directions in similar radius. WLT offers to help by operating a special service southbound from Mesa station, close to Denthrope area, still WIP but able to open for events((
+Hung Ngai Tung station is done after 3 months and starts serving passengers. Meanwhile, the only service between [[/denthrope|Denthrope]] and Spawn Kowloon Commuter (now [[/hillside_line|Hillside Line]]) has been shut down by the operator ERInc for a while. Some R2C players complain they have to make a detour via [[/Llanmara|Llanmara]], and because of a lack of fast and direct service between Denthrope and Llanmara, they are disadvantageous comparing to other directions in similar radius. WLT offers to help by operating a special service southbound from Mesa station, close to Denthrope area, still WIP but able to open for events((
 Most electrical applainces except automatic platform gates and ticket barriers are not installed
 )). Although, when realized they are losing passengers, ERInc quickly resumes the service of Kowloon Commuter several hours later. Yet the travelling time on the temporary R2C service from Mesa station to Spawn station only takes 2 stops, 1 interchange and around 6-10 mins((
 Changing to [[/furret_line|Furret Line]] at Northern Snow Village station
@@ -187,7 +187,7 @@ Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 ))  | ::: | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - N. Section**</color>  ||||||||
 |  @#F7B85A:  |  @#202020:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
-| ::: | ::: | ::: | ::: | ::: |  @#94d1d1: Line 3 (Cyan Gray Line)  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#94d1d1: [[/wlt_line_3|Line 3 (Cyan Gray Line)]]  | ::: | ::: |
 |    | ::: |  <color #808080>//Chi Chuk//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
