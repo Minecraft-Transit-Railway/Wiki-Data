@@ -25,6 +25,20 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | キー | データ型 | 説明 | 要否 | デフォルトでの値 | 備考 |
 | --- | --- | --- | --- |
 | `name` | 文字列 | ルートの列車選択時に [ダッシュボード](https://wiki.minecrafttransitrailway.com/mtr:dashboards) に表示される名前 | 必須 | N/A ||
@@ -62,21 +76,21 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
 
 ## 鉄道標識の新しいテクスチャやテキストの追加
 
-鉄道標識の新しいテクスチャやテキストを追加するには、`mtr_custom_resouces.json` に`custom_trains` JSONオブジェクトを追加する必要がある。`custom_trains` の下にある各JSONオブジェクトは、標識のテクスチャバリエーションを表し、固有のキーといくつかの必須項目を持たなければならない。
+[鉄道標識](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) の新しいテクスチャやテキストを追加するには、`mtr_custom_resouces.json` に`custom_trains` JSONオブジェクトを追加する必要がある。`custom_trains` の下にある各JSONオブジェクトは、標識のテクスチャバリエーションを表し、固有のキーといくつかの必須項目を持たなければならない。
 
-| キー | データ型 | 説明 | 要否 |  |  |
-| --- | --- | --- | --- |  |  |
-| `texture_id` | 文字列 (texture ID) | テクスチャファイルの [名前空間付きID]([[https://minecraft.wiki/wiki/Namespaced_ID]]) | 必須 |  |  |
-| `flip_texture` | ブーリアン型 | `True` を指定することで、テクスチャが水平方向に反転する。 | 任意 |  |  |
-| `custom_text` | 文字列 | 設定されている場合、画像の右側にテキストが表示される。パイプ文字`\` や` | ` が使用可能である。`例：客務中心 | Customer Service Centre` | 任意 |
-| `flip_custom_text` | ブーリアン型 | `custom_text` が設定されており、`flip_custom_text` が`true` の場合、画像の左側にテキストが表示される | 任意 |  |  |
-| `small` | ブーリアン型 | `True` を指定することで、画像が余白付きで表示される。 | 任意 |  |  |
-| `background_color` | 文字列 (HEXカラーコード) | 背景色を指定する。 | 任意。指定がない場合には、黒色となる。 |  |  |
+| キー | データ型 | 説明 | 要否 |
+| --- | --- | --- | --- |
+| `texture_id` | 文字列 (texture ID) | テクスチャファイルの [名前空間付きID]([[https://minecraft.wiki/wiki/Namespaced_ID]]) | 必須 |
+| `flip_texture` | ブーリアン型 | `True` を指定することで、テクスチャが水平方向に反転する。 | 任意 |
+| `custom_text` | 文字列 | 設定されている場合、画像の右側にテキストが表示される。パイプ文字`\` や`|` が使用可能である。`例：客務中心 | Customer Service Centre` | 任意 |
+| `flip_custom_text` | ブーリアン型 | `custom_text` が設定されており、`flip_custom_text` が`true` の場合、画像の左側にテキストが表示される | 任意 |
+| `small` | ブーリアン型 | `True` を指定することで、画像が余白付きで表示される。 | 任意 |
+| `background_color` | 文字列 (HEXカラーコード) | 背景色を指定する。 | 任意。指定がない場合には、黒色となる。 |
 
 以下に例を示す。
 
-`` {
-
+``` 
+{
   "custom_signs": {
     "my_custom_sign": {
       "texture_id": "mtr:custom_directory/custom_sign.png",
@@ -87,8 +101,9 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
       "background_color": "1167B1"
     }
   }
-
-} `` ## Model Properties file
+} 
+``` 
+## Model Properties file
 
 </markdown>
 
@@ -99,6 +114,20 @@ This section is currently unwritten.
 </WRAP>
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
