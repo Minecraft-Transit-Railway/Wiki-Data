@@ -1,159 +1,73 @@
-====== WR Mimura Line – THIS PAGE NEEDS TO BE CONVERTED FROM MEDIAWIKI TO DOKUWIKI FORMAT.======
+====== WR Mimura Line ======
 
-{| class="wikitable" style="float:right; width: 300px;"
-! colspan="2" style="background-color:#E4220F;color:#FFFFFF" |Mimura Line
-三村綫
-|-
-| colspan="2" |[[/File:MML_1995TS_pulling_in_HAM.png|border|290x163px|none]]
-|-
-| colspan="2" |A [[mtr_lp:london_underground_1995_stock|London Underground 1995 stock]] pulls in [[mtr_lp:hamura_station|Hamura Station]].
-|-
-! colspan="2" |Overview
-|-
-| style="border-style: solid none none solid;" |'''Other names'''
-| style="border-style: solid none none none;" |MML
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none solid solid none;" |Hamura Line (By Jonathan)
-|-
-| style="border-style: solid none none solid;" |'''Status'''
-| style="border-style: solid solid none none;" |Operational
-|-
-| style="border-style: solid none none solid;" |'''Owner'''
-| style="border-style: solid solid none none;" |Wilds Railway
-|-
-| style="border-style: solid none none solid;" |'''Locale'''
-| style="border-style: solid solid none none;" |West Lake
-|-
-| style="border-style: solid none none solid;" |'''Termini'''
-| style="border-style: solid solid none none;" |[[mtr_lp:hamura_station|Hamura]]
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none none none none;" |[[mtr_lp:tai_po_station|Tai Po]]
-|-
-| style="border-style: solid none none none;" |'''Connecting Lines'''
-| style="border-style: solid none none none;width:150px;vertical-align:top;" |
-    {|
-     |+
-     | style="text-align:center;width:120px;background-color:#9E0FE4;border-radius:7px;color:white" |'''[[/WR_Yanyu_Line|<span style="color:white">WR Yanyu Line</span>]]'''
-     |}
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none none none none;" |
-    {|
-     |+
-     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#19DFDE;border-radius:7px;color:#FFFFFF" |'''[[/Lakeside_Mystic_Line|<span style="color:white">Lakeside Mystic Line</span>]]'''
-     |}
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none none none none;" |
-    {|
-     |+
-     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#f09199;border-radius:7px;color:#FFFFFF" |'''[[/Hana-Koshi_Line|Hana-Koshi Line]]'''
-     |}
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none none none none;" |
-    {|
-     |+
-     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#EB7AE9;border-radius:7px;color:#FFFFFF" |'''[[/WLT_Line_1_Phase_1|WLT Line 1 Phase 1]]'''
-     |}
-|-
-| style="border-style: none none none none;" |
-| style="border-style: none none none none;" |
-|-
-| style="border-style: solid none none none;" |'''Stations'''
-| style="border-style: solid none solid none ; width: 150px" |5
-|-
-| style="border-style: solid none none none;" |'''Colour on map'''
-| style="border-style: none solid none none; width: 150px" |
-{|
-     |+
-     | style="border-style: none none none none;text-align:center;text-align:center;width:120px;background-color:#E4220F;border-radius:7px;color:#FFFFFF" |'''#E4220F ''WR Red'''''
-     |}
-|-
-! colspan="2" |Service
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Type'''
-| style="border-style: solid solid solid none; width: 150px" |Commuter rail
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''System'''
-| style="border-style: solid solid solid none; width: 150px" |[[/Wilds_Railway|Wilds Railway]]
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Operator(s)'''
-| style="border-style: solid solid solid none; width: 150px" |[[/Wilds_Railway|Wilds Railway]]
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Depot(s)'''
-| style="border-style: solid solid solid none; width: 150px" |[[mtrlp:hamura_siding|Hamura Siding]]
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Rolling Stock'''
-| style="border-style: solid solid solid none; width: 150px" |[[mtrlp:1995_stock|1995 stock]] × 7 sets 5 cars
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Ridership'''
-| style="border-style: solid solid solid none; width: 150px" |9 daily average
-|-
-! colspan="2" |History
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Opened'''
-| style="border-style: solid none none none; vertical-align: top" |Unknown
-|-
-| style="border-style: solid none solid solid; vertical-align: top" |'''Last extension'''
-| style="border-style: solid none none none; vertical-align: top" |Meguro Peninsula to Sharp Island
-|-
-! colspan="2" |Technical
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Line length'''
-| style="border-style: solid none none none; vertical-align: top" |TBC
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Number of tracks'''
-| style="border-style: solid none none none; vertical-align: top" |1(Hamura to Mita-Shiro only)/2
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Track gauge'''
-| style="border-style: solid none none none; vertical-align: top" |1435mm (4 ft 8 1⁄2 in)
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Electrification'''
-| style="border-style: solid none none none; vertical-align: top" |750V third rail DC
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Operating speed'''
-| style="border-style: solid none none none; vertical-align: top" |40-80km/h
+<WRAP right>
 
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Signalling'''
-| style="border-style: solid none none none; vertical-align: top" |Jonathan's CBTC
-|-
-| style="border-style: solid none none none; vertical-align: top" |'''Train protection system'''
-| style="border-style: solid none none none; vertical-align: top" |ATS
-|}
-The '''WR Mimura Line ''(Chinese: 曠鐵三村綫)''''' is one of the route that [[/Wilds_Railway|Wilds Railway]] operates. The route connects [[mtr_lp:hamura_station|Hamura Station]] and [[mtr_lp:tai_po_station|Tai Po Station]], acts as one of the route to access Mimura Area and Lebyazhsk. 
+^  Mimura Line\\ 三村綫  |^
+| @#E4220F: ||
+|{{MML_1995TS_pulling_in_HAM.png}}\\ A [[mtr:london_underground_1995_stock|London Underground 1995 stock]] pulls in [[/hamura_station|Hamura Station]].
+^  Overview  |^
+| **Other names** | MML\\ Hamura Line (By Jonathan) |
+| **Status** | Operational |
+| **Owner** | [[/wilds_railway|Wilds Railway]]|
+| **Locale** | [[/west_lake_area|West Lake]]\\ [[/mimura_area|Mimura Area]]|
+| **Termini** | [[/hamura_station|Hamura]]\\ [[/tai_po_station|Tai Po]]|
+| **Connecting Lines** | [[/wr_yanyu_line|WR Yanyu Line]]|
+| ::: | [[/lakeside_mystic_line|Lakeside Mystic Line]]|
+| ::: | @#f09191: [[/hana-koshi_line|Hana-Koshi Line]] |
+| ::: | @#EB7AE9: [[/wlt_line_1|Line 1 
+(Meyan Line) Phase 1]] |
+| **Stations**| 5 |
+| **Colour on map**| @#E4220F: <color white>**#E4220F WR Red**</color>|
+^  Service  |^
+|**Type** |Commuter rail|
+|**System**|[[/wilds_railway|Wilds Railway]]|
+|**Operator(s)**|[[/wilds_railway|Wilds Railway]]|
+|**Depot(s)**|Tai Po East Sidings\\ Hamura Sidings //(discontinued)//|
+|**Rolling Stock** | [[mtr:london_underground_1995_stock|1995 stock]] x 7 sets 5 cars|
+|**Ridership** |TBD|
+^  History  |^
+|**Opened**|TBC\\ //(Meguro Peninsula - Hamura)//\\ TBC\\ //(Sharp Island - Meguro Peninsula)//\\ 18 May, 2024\\ //(Tai Po - Sharp Island)//|
+^  Technical  |^
+|**Line length**|TBC|
+|**Number of tracks**|1\\ //(Hamura - Mita-Shiro)//\\ 2\\ //(Tai Po - Mita-Shiro)//|
+|**Track gauge**|1435mm (4 ft 8 1⁄2 in)|
+|**Electrification**|750V third rail DC|
+|**Operating speed**|Average: TBD\\ Maximum: 80 km/h (22.2 m/s)|
+|**Signalling**|MTR mod's signalling|
+|**Train protection system**|ATS|
+</WRAP>
+
+The **WR Mimura Line** (Chinese: //曠鐵三村綫//) is one of the route that [[/wilds_railway|Wilds Railway]] operates. The route connects [[/hamura_station|Hamura Station]] and [[/tai_po_station|Tai Po Station]], acts as one of the route to access Mimura Area and Lebyazhsk. 
 
 
-The route is also the second route in the [[/Let's_Play_Server|Let's Play Server]] to use London Underground trains, and is the only operational Tube line until [[mtr_lp:metro_devota_city_line|Metro Devota & City Line]] starts it's service, therefore is often rode and seen in Jon's videos.
+The route is also the second route in the [[/start|Let's Play Server]] to use London Underground trains, and is the only operational Tube line until [[/metro_devota_city_line|Metro Devota & City Line]] starts it's service, therefore is often rode and seen in Jon's videos.
 
-==History==
-The route is planned by Navi in 7 August, 2022, with a initial plan from [[mtr_lp:tai_po_station|Tai Po]] to [[mtr_lp:hamura_station|Hamura]]. The proposal is then posted by Makki means the route is allowed to be built.
+===== History =====
+
+The route is planned by Navi in 7 August, 2022, with a initial plan from [[/tai_po_station|Tai Po]] to [[/hamura_station|Hamura]]. The proposal is then posted by Makki means the route is allowed to be built.
 {| class="wikitable"
 ! colspan="6" |WR Mimura Line original plan
 |-
 ! colspan="3" |<-Towards Tai Po
 ! colspan="3" |Towards Hamura->
 |-
-|[[mtr_lp:tai_po_station|Tai Po]]
-|[[mtrlp:sharp_island_station|Sharp Island]]
-|[[mtrlp:meguro_peninsula_station|Meguro Peninsula]]
-|[[mtr_lp:mita-shiro_station|Mita-Shiro]]
-|[[mtrlp:sea_lion_river_station|Sea Lion River]]
+|[[/tai_po_station|Tai Po]]
+|[[/sharp_island_station|Sharp Island]]
+|[[/meguro_peninsula_station|Meguro Peninsula]]
+|[[/mita-shiro_station|Mita-Shiro]]
+|[[/sea_lion_river_station|Sea Lion River]]
 
-|[[mtr_lp:hamura_station|Hamura]]
+|[[/hamura_station|Hamura]]
 |}
-The route commences the building in late August, and the Sea Lion River station is abandoned due to being too near to [[mtr_lp:mita-shiro_station|Mita-Shiro Station]]. 
+The route commences the building in late August, and the Sea Lion River station is abandoned due to being too near to [[/mita-shiro_station|Mita-Shiro Station]]. 
 
 ==Rolling stock==
-The route uses 7 5 cars [[mtr_lp:london_underground_1995_stock|London Underground 1995 stock]] EMUs. The trains are manufactured by [[mtr_lp:hitachi|Hitachi]].
+The route uses 7 5 cars [[mtr:london_underground_1995_stock|London Underground 1995 stock]] EMUs. The trains are manufactured by [[wp>hitachi|Hitachi]].
 
-==Route map==
+===== Route map =====
 TBA
 
-==Stations==
+===== Stations =====
 
 {| class="wikitable" style="width:770px; margin: 0.5em auto; text-align:center;"
 ! colspan="3" |Livery and Station Name
@@ -218,7 +132,7 @@ TBA
      |}
 |}
 
-==Train service==
+===== Train service =====
 All times listed here are in British Summer Time (BST).
 {| class="wikitable" style="width: 400px;text-align:center"
 |+
@@ -255,4 +169,3 @@ All times listed here are in British Summer Time (BST).
 |22:00 ~ 25:00
 |10
 |}
-[[/Category:Let's_Play|Category:Let's Play]]
