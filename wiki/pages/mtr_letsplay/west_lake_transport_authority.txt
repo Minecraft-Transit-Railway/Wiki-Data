@@ -24,8 +24,11 @@
 ==== Future Plans ====
 
   * [[/ckk_and_wyi_plan|Chung Kwo Kok and Wong Yip Island Development Plan]]
-  * [[/west_lake_new_central|West Lake New Central]] 
-  * [[/the_lakeside|The Lakeside]]
-  * [[/west_lake_towers|West Lake Towers]]
+  * [[/west_lake_central|West Lake Central - New Business and Transport Hub]] 
+    * [[/the_lakeside|The Lakeside]]
+    * [[/west_lake_towers|West Lake Towers]]
+      * West Lake One
+      * West Lake Two
+      * West Lake Three
   * [[/mesa_gardens|Mesa Gardens]]
   * [[/kwong_chow_north_area|Kwong Chow North Area]]
