@@ -9,7 +9,7 @@
 
 ===== Operating Transport Services =====
   * [[/WLT_Line_1|Line 1 (Meyan Line) Phase 1]]
-  * [[/WLT_Line_2|Line 2 (Kwong Chow - North Coast Line)]]
+  * [[/WLT_Line_2|Line 2 (Kwong Pak Kwun Line)]]
   * [[/wong_yip_lung|The Dragon - Wong Yip Lung]]
 
 ==== Future Plans ====
