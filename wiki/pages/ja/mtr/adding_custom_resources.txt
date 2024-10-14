@@ -39,6 +39,10 @@ Minecraft Transit Railway Modでは、リソースパックを使用すること
 
 
 
+
+
+
+
 | キー | データ型 | 説明 | 要否 | デフォルトでの値 | 備考 |
 | --- | --- | --- | --- |
 | `name` | 文字列 | ルートの列車選択時に [ダッシュボード](https://wiki.minecrafttransitrailway.com/mtr:dashboards) に表示される名前 | 必須 | N/A ||
@@ -135,33 +139,37 @@ This section is currently unwritten.
 
 
 
-The Model Properties file can be edited by the Resource Pack Creator or directly in a text editor, for example.
 
-### basis
-| Key | Data Type | Description | Notes |
+
+
+
+モデルプロパティファイルは、リソースパックエディタを使用して自動生成させる方法と、テキストエディタ等で直接編集する方法があります。
+
+### 基本情報
+| キー | データ型 | 説明 | 要否 |
 | --- | --- | --- | --- |
-| `transport_mode` | String  | The following transport type can be specified. Must be written in CAPITAL LETTERS.<br><br>TRAIN<br>AIRPLAIN<br>CABLECAR<br>FERRY | Required |
-| `length` | Number  | Specifies the length of the car body. |Required|
-| `width` | Number  | Specifies the width of the car body. |Required|
-| `door_max` | String | Specifies the door opening/closing width. If it is set to CONSTANT, the description is ignored. | Required |
+| `transport_mode` | 文字列 | 交通機関の種類を指定する。大文字で記述する必要がある。<br><br>TRAIN<br>AIRPLAIN<br>CABLECAR<br>FERRY | 必須 |
+| `length` | 数列 | 車体の長さを指定する。 | 必須 |
+| `width` | 数列 | 車体の幅を指定する。 | 必須 |
+| `door_max` | 文字列 | ドアの開閉幅を指定する。CONSTANT（固定）に指定されている場合、この設定は無視される。 | 必須 |
 
-### `part`
-| Key | Data Type | Description | Notes |
+### `パーツ（部品）`
+| キー | データ型 | 説明 | 要否 |
 | --- | --- | --- | --- |
-| `name` | String | Specify the parts folder of BBmodel. Specifying a folder without a single cube may cause Minecraft to crash.| Required |
-| `stage` | String | The following model attributes can be specified. Must be written in CAPITAL LETTERS.<br><br>EXTERIOR<br>INTERIOR<br>LIGHTS<br>ALWAYS_ON_LIGHTS<br>INTERIOR_TRANSLUCENT | Required|
-| `mirror` | Boolean | Flip the model 180 degrees on the y-axis. | Optional, default is true |
-| `skip_rendering_if_too_far` | Boolean | If set to true, models more than 2 chunks apart will not be displayed. | Optional, default is false |
+| `name` | 文字列 | BBmodelの部品フォルダを指定する。空のフォルダを指定した場合、Minecraftがクラッシュする可能性がある。 | 必須 |
+| `stage` | 文字列 | 以下のモデル属性を指定する。大文字で記述する必要がある。<br><br>EXTERIOR<br>INTERIOR<br>LIGHTS<br>ALWAYS_ON_LIGHTS<br>INTERIOR_TRANSLUCENT | 必須 |
+| `mirror` | ブーリアン型 | モデルをY軸で180度反転させる。 | 任意。デフォルト値はtrue。 |
+| `skip_rendering_if_too_far` | ブーリアン型 | trueに設定した場合、2チャンク以上離れたモデルは表示されない。 | 任意。デフォルト値はtrue。 |
 
 
 
-## Verifying the Resource Pack
+## リソースパックの確認
 
-Use a [JSON validator](https://jsonlint.com/) to check for any syntax errors of the JSON files.
+JSONファイルの構文エラー等のチェックは、[JSON validator](https://jsonlint.com/) を使用することで、確認することが可能である。
 
-The resource pack (zip file) can be installed either clientside or as a server resource pack. If installed as a server resource pack, all players joining the server will be able to see the new additions after accepting the server resource pack.
+リソースパック（zipファイル）は、クライアントまたはサーバーリソースパックとしてインストールする。サーバーリソースパックとしてインストールした場合、サーバーに参加する全プレイヤーがリソースパックを導入することで、リソースパック内の要素が表示されるようになる。
 
-[Download the example resource pack](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/examples/MTR%20Custom%20Resources.zip?raw=true) to see a full example and to test out the functionality.
+[リソースパックの例](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/examples/MTR%20Custom%20Resources.zip?raw=true) では、ファイル構成があっているかなど、自らへのリソースパックに関するチェックにぜひ活用いただきたい。
 
 </markdown>
 
