@@ -14,8 +14,7 @@
 | **Connecting Lines** | [[/wr_yanyu_line|WR Yanyu Line]]|
 | ::: | [[/lakeside_mystic_line|Lakeside Mystic Line]]|
 | ::: | @#f09191: [[/hana-koshi_line|Hana-Koshi Line]] |
-| ::: | @#EB7AE9: [[/wlt_line_1|Line 1 
-(Meyan Line) Phase 1]] |
+| ::: | @#EB7AE9: [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
 | **Stations**| 5 |
 | **Colour on map**| @#E4220F: <color white>**#E4220F WR Red**</color>|
 ^  Service  |^
@@ -29,7 +28,7 @@
 |**Opened**|TBC\\ //(Meguro Peninsula - Hamura)//\\ TBC\\ //(Sharp Island - Meguro Peninsula)//\\ 18 May, 2024\\ //(Tai Po - Sharp Island)//|
 ^  Technical  |^
 |**Line length**|TBC|
-|**Number of tracks**|1\\ //(Hamura - Mita-Shiro)//\\ 2\\ //(Tai Po - Mita-Shiro)//|
+|**Number of tracks**|1\\ //(Mita-Shiro - Hamura)//\\ 2\\ //(Tai Po - Mita-Shiro)//|
 |**Track gauge**|1435mm (4 ft 8 1⁄2 in)|
 |**Electrification**|750V third rail DC|
 |**Operating speed**|Average: TBD\\ Maximum: 80 km/h (22.2 m/s)|
@@ -45,127 +44,36 @@ The route is also the second route in the [[/start|Let's Play Server]] to use Lo
 ===== History =====
 
 The route is planned by Navi in 7 August, 2022, with a initial plan from [[/tai_po_station|Tai Po]] to [[/hamura_station|Hamura]]. The proposal is then posted by Makki means the route is allowed to be built.
-{| class="wikitable"
-! colspan="6" |WR Mimura Line original plan
-|-
-! colspan="3" |<-Towards Tai Po
-! colspan="3" |Towards Hamura->
-|-
-|[[/tai_po_station|Tai Po]]
-|[[/sharp_island_station|Sharp Island]]
-|[[/meguro_peninsula_station|Meguro Peninsula]]
-|[[/mita-shiro_station|Mita-Shiro]]
-|[[/sea_lion_river_station|Sea Lion River]]
+^  WR Mimura Line original plan  |||||^
+^<-Towards Tai Po||^  Towards Hamura->||^
+|[[/tai_po_station|Tai Po]]|[[/sharp_island_station|Sharp Island]]|[[/meguro_peninsula_station|Meguro Peninsula]]|[[/mita-shiro_station|Mita-Shiro]]|[[/sea_lion_river_station|Sea Lion River]]|[[/hamura_station|Hamura]]|
 
-|[[/hamura_station|Hamura]]
-|}
 The route commences the building in late August, and the Sea Lion River station is abandoned due to being too near to [[/mita-shiro_station|Mita-Shiro Station]]. 
 
-==Rolling stock==
+===== Rolling stock =====
+
 The route uses 7 5 cars [[mtr:london_underground_1995_stock|London Underground 1995 stock]] EMUs. The trains are manufactured by [[wp>hitachi|Hitachi]].
 
 ===== Route map =====
+
 TBA
 
 ===== Stations =====
 
-{| class="wikitable" style="width:770px; margin: 0.5em auto; text-align:center;"
-! colspan="3" |Livery and Station Name
-! rowspan="2" |Connections
-! rowspan="2" |Opening date
-! rowspan="2" |District
-|-
-! colspan="2" |English
-!Chinese
-|- bgcolor="#E4220F"
-| colspan="6" style="text-align:center;" |'''<span style="color:white;">WR Mimura Line</span>'''
-|-
-| style="background: #2b7316; width: 10px" |
-|[[mtr_lp:hamura_station|'''Hamura''']]
-|羽村
-|
-    {| style="margin: 0em auto;text-align:left"
-     | style="width:15px;background-color:#9e0fe4;border:1px solid black" |
-     |[[/WR_Yanyu_Line|'''WR Yanyu Line''']]
-     |-
-     |} (In New Hamura Station)
-| rowspan="5" |'''Unknown'''
-| rowspan="5" |'''[[mtr_lp:west_lake|West Lake]]'''
-|-
-| style="background: #fefbe1; width: 10px" |
-|[[mtr_lp:mita-shiro_station|'''Mita-Shiro''']]
-|三田城
-|
-   {| style="margin: 0em auto;text-align:left"
-     | style="width:15px;background-color:#19DFDE;border:1px solid black" |
-     |[[/Lakeside_Mystic_Line|'''Lakeside Mystic Line''']]
-     |-
-|}
-   {| style="margin: 0em auto;text-align:left"
-     | style="width:15px;background-color:#f09199;border:1px solid black" |
-     |[[/Hana-Koshi_Line|'''Hana-Koshi Line''']]
-     |-
-|}
-   {| style="margin: 0em auto;text-align:left"
-     | style="width:15px;background-color:#19DFDE;border:1px solid black" |
-     |[[/WLT_Line_3|'''WLT Line 3''']]
-     |-
-|}
-|-
-| style="background: #91aced; width: 10px" |
-|[[mtrlp:meguro_peninsula_station|'''Meguro Peninsula''']]
-|目黒半島
-| rowspan="2" |'''None'''
-|-
-| style="background: #af4bf8; width: 10px" |
-|[[mtrlp:sharp_island_station|'''Sharp Island''']]
-|橋咀洲
-|-
-| style="background: #3bf443; width: 10px" |
-|'''[[mtr_lp:tai_po_station|Tai Po Station]]'''
-|大埔
-|
-    {| style="margin: 0em auto;text-align:left"
-     | style="width:15px;background-color:#6b4799;border:1px solid black" |
-     |[[/WLT_Line|'''WLT Line''']]
-     |-
-     |}
-|}
+^  Livery and Station Name  ||^  Connections  ^  Opening date  ^  District  ^
+^  English  |^  Chinese  ^ ::: ^ ::: ^ ::: ^
+|  @#E4220F:<color white>**WR Mimura Line**</color>  ||||||
+| @#2b7316: |  [[/hamura_station|Hamura]]  |  羽村  |  @#9e0fe4:[[/wr_yanyu_line|WR Yanyu Line]]\\ <color white>(In New Hamura Station)</color>  |  TBC  |  [[/mimura_area|Mimura]]  |
+| @#fefbe1: |  [[/mita-shiro_station|Mita-Shiro]]  |  三田城  |  @#19DFDE:[[/lakeside_mystic_line|Lakeside Mystic Line]]  | ::: | ::: |
+| ::: | ::: | ::: |  @#f09191:[[/hana-koshi_line|Hana-Koshi Line]]  | ::: | ::: |
+| ::: | ::: | ::: |  @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  | ::: | ::: |
+| @#91aced: |  [[/meguro_peninsula_station|Meguro Peninsula]]  |  目黒半島  | | ::: | ::: |
+| @#af4bf8: |  [[/sharp_island_station|Sharp Island]]   |  橋咀洲  | | ::: |  [[/west_lake_area|West Lake]]  |
+| @#3bf443: |  [[/tai_po_station|Tai Po]]  |  大埔  |  @#eb7ae9:[[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  18 May, 2024((Interchange only))  | ::: |
 
 ===== Train service =====
 All times listed here are in British Summer Time (BST).
-{| class="wikitable" style="width: 400px;text-align:center"
-|+
-! style="width: 200px;" |Session
-! style="width: 200px;" |Frequency (in minutes)
-|-
-| style="border-style: solid none none none; background-color:#E4220F" |
-| style="border-style: solid none none none; background-color:#E4220F" |
-|-
-|1:00 ~ 5:30
-|15
-|-
-|5:30 ~ 6:00
-|10
-|-
-|6:00 ~ 7:00
-|5
-|-
-|7:00 ~ 9:00
-|2
-|-
-|9:00 ~ 14:15
-|5
-|-
-|14:15 ~ 17:15
-|3
-|-
-|17:15 ~ 20:15
-|2
-|-
-|20:15 ~ 22:00
-|5
-|-
-|22:00 ~ 25:00
-|10
-|}
+
+^  Session  ^  Frequency (in minutes)  ^
+| @#E4220F: ||
+|All day |  5  |
