@@ -17,7 +17,7 @@
 | **车站数量**  | 重铁: 23  |
 | ::: | Bus transit: 14  |
 | **Daily ridership**  | 7002  |
-| **Owner (s)** | [[mtr_community:navi_lx9702|Navi]] |
+| **拥有者** | [[mtr_community:navi_lx9702|Navi]] |
 | **Real-life / fictional basis** | [[wp>East_Japan_Railway_Company|East Japan Railway Company]] |
 | ::: | [[wp>Fire_Emblem|Fire Emblem]] |
 | ::: | [[wp>Kowloon_Motor_Bus|Kowloon Motor Bus]] |
