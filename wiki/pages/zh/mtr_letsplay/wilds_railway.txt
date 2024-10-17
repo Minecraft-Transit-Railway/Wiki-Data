@@ -30,7 +30,7 @@
 |  @#0FBFE4:  **Operation**  ||
 | **Began operation**  | August 2022  |
 | **Operator(s)**  | Navi  |
-| **Served Area**  | Chong Shu Chau & Jinnapak |
+| **服务区域**  | Chong Shu Chau & Jinnapak |
 | ::: | Einsburg  |
 | ::: | Epping  |
 | ::: | Fairview  |
