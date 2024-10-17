@@ -15,22 +15,18 @@
 ===== Services in LetsPlay =====
 
   * **Sightseeing Line System**
-    * K1S: (Express) T.U.Martissu -> Ostania
-    * K1X: (Express) Ostania -> T.U.Martissu
-    * 4S: Cyan Heights -> Twilight Spruce
-    * 4X: Twilight Spruce -> Cyan Heights
-    * 41S: Cyan Heights -> Jonathan's Resort
-    * 41X: Jonathan's Resort -> Cyan Heights
-    * 5S: Providence -> T.U.Martissu
-    * 5X: T.U.Martissu -> Providence
+    * K1: (Express) T.U.Martissu -> Ostania
+    * K2: (Express) Al-Tighnari -> Ostania
+    * K3: (Express) Al-Tighnari -> Jonathan's Resort
+    * 40: Cyan Heights -> Twilight Spruce
+    * 41: Cyan Heights -> Jonathan's Resort
+    * 51: Providence -> T.U.Martissu
 
   * **Sightseeing Local Line**
-    * 1S: Cyan Heights -> Scarlet D. Mansion
-    * 1X: Scarlet D. Mansion -> Cyan Heights
+    * 10: Cyan Heights -> Scarlet D. Mansion
 
   * **Sumeru Line**
-    * 3S: Nahida -> Grand Bazaar
-    * 3X: Grand Bazaar -> Nahida
+    * 30: Nahida -> Grand Bazaar
 
 ===== Members =====
 
