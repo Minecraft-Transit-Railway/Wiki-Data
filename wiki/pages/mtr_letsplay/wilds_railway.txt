@@ -23,7 +23,7 @@
 | ::: | [[wp>London_Underground|London Underground]]  |
 | ::: | [[wp>MTR|Mass Transit Railway]] |
 | ::: | [[wp>Merseyrail|Merseyrail]] |
-| **Cooperate colour scheme** |  @#0FBFE4: **#0FBFE4** **//Champion Blue//**  |
+| **Corperate colour scheme** |  @#0FBFE4: **#0FBFE4** **//Champion Blue//**  |
 | ::: |  @#FFF0C6: **#FFF0C6** **//WR Yellow//**  |
 |  @#0FBFE4:  **Operation**  ||
 | **Began operation**  | August 2022  |
