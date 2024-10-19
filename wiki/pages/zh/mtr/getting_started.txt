@@ -100,7 +100,7 @@ A siding is a section of track where trains can spawn from, and a depot provides
 1. On the `Depots` tab, click on the button at the bottom called `Add Depot`.
 1. Draw a depot area over the siding and type a name into the text box. This process will be very similar to how the stations were created.
 
-## Schedules
+## 时间表
 
 The depot must be given a schedule and instructions in order for [trains](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains) to move along the predefined route. Hours listed on the schedule are based on the [game time](https://minecraft.gamepedia.com/Daylight_cycle), not real life time.
 
