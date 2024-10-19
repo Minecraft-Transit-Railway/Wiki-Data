@@ -117,7 +117,7 @@ The depot must be given a schedule and instructions in order for [trains](https:
 
 A train made up of minecarts should start spawning every twenty (real life) seconds.
 
-## Platform Blocks
+## 站台方块
 
 [Platform blocks](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block) are required to pick up passengers. Place down a row of platform blocks by each platform rail.
 
