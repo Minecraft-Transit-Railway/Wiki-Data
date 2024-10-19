@@ -7,7 +7,7 @@
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake, See Tsuen, Dragon Loop Centre, Yuren Matou (Avondale))// |
+| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake((Exits)),//\\ //See Tsuen,//\\ //Dragon Loop Centre,//\\ //Yuren Matou (Avondale))// |
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
@@ -56,7 +56,7 @@
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]] |
 ^  History  |^
-| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September , 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - W. Laputa)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Spawn - Ostania))// |
+| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September, 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - Puda Xi (W. Laputa))//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Puda Xi (W. Laputa) - Ostania))// |
 ^  Technical  |^
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
@@ -140,7 +140,7 @@ When throughrunning starts, WLT decides to change the name to account for a long
 
 Similar to [[/wlt_line_1#rolling_stocks|Line 1 (Meyan Line)]], since turn radius is small between West Lake station and See Tsuen station in the final zig-zag lining plan, 4-door trains are used instead of 5-door trains that are currently running on North Coast Line. Existing 6 sets of 5-door C-Train with railway vision livery is gradually rebuilding to 5 sets of 4-door C-Train. 1 set of rebuilt C-Train has already transported to Chik Shek Wan Depot and started its passengers service on the shuttle between Kwong Chow and Sai Mo Island. 2 more sets of C-Train has also started passengers service after the first stage of merge.
 
-There are also 4((1 set of M-Train (A209/A200) is changed back to its look before refurbishment along with Camshaft resistors traction control)) set of M-Train (phase 2A) and 7 sets of K-Train have started serving passengers.
+There are also 5((1 set of M-Train (A209/A200) is changed back to its look before refurbishment along with Camshaft resistors traction control)) set of M-Train (phase 2A) and 8 sets of K-Train have started serving passengers.
 
 Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A06 previously running on the North Coast Line. However, as the trains are too tall for the tunnels, they are planned to retire instead as soon as North Coast Line merges with WLT Line 2. Alternatively, 5 sets of phase 2C M-Train will join the fleet, but with an overhaul in the propulsion system by Alstom, as DC motor is harder to maintenance and consumes more electricity. 
 
@@ -218,7 +218,7 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 | |  Kwong Chow - Spawn  |  Kwong Chow - Makki Memorial Village |  Kwong Chow - Ostania  |
 |  5 am - 9 am  |  3 - 9  |  6 - 12  |  10 - 12  |
 |  9 am - 9 pm  |  1.7 - 4.5  |  3.2 - 6  |  8 - 10  |
-|  9 pm - 11 pm  |  1.5 - 3.2  |  3 - 4.8  |  6 - 8  |
+|  9 pm - 11 pm  |  1.3 - 3.2  |  1.8 - 4.8  |  6 - 8  |
 |  11 pm - 1 am  |  1.7 - 4.5  |  3.2 - 6  |  8 - 10  |
 |  1 am - 3 am  |  3 - 9  |  6 - 12  |  10 - 12  |
 
