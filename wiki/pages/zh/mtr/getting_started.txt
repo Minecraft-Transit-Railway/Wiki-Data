@@ -89,7 +89,7 @@
 
 这条路线现在已经完成了！在铁路仪表板按下 `Esc` 键以退出界面回到游戏。
 
-## Depots and Sidings
+## 车场和侧线
 
 A siding is a section of track where trains can spawn from, and a depot provides instructions for where trains should go.
 
