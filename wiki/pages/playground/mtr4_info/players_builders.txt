@@ -1,0 +1,135 @@
+====== MTR 4 for Players & Builders ======
+
+Minecraft Transit Railway 4.0 is a major update to the Minecraft Transit Railway mod, succeeding MTR 3.2. In-place upgrade of existing MTR 3 world are available with minor quirks.
+
+This releases focuses on refining the player experience, fixing numerous long-standing crashes and bugs, substantially improved frame-rate and adding long-requested features such as mixing carriage in a train.
+
+===== Key Features & Improvements =====
+
+==== Per-Carriage Configuration/Consist ====
+
+Unlike previous versions where each depot siding can only have 1 train type, MTR 4 allows you to freely fill up a siding with other type of cars.
+
+As an example, you can have an **SP1900 (Head), M-Train (Carriage) and K-Train (Rear Head)** to create a custom consist for your siding, and let that consist run on the track.
+
+This is useful for mixed vehicle configuration (Such as coupled LRV with different phases), liveries and locomotives pulling other consists.
+
+{{:mtr:mtr4_consist.png?400|UI Configuration for MTR 4 Consist}}
+
+==== Different train acceleration & deceleration ====
+
+Train acceleration and deceleration are now separated.
+
+==== Rail Preview ====
+
+Before placing a track connected to a node, an instant preview of what the track will look like would be displayed when holding the rail item.
+
+{{:mtr:mtr4_trackpreview.png?600|Track Preview of MTR 4, before it is connected}}
+
+==== Track Shape and Custom Model ====
+
+Track shape and custom model can now be applied, this feature is incorporated from NTE.
+
+{{:mtr:mtr4_railcustomization.png?600|Custom Rail Shape & Model GUI}}
+
+==== Horizontal/Diagonal Elevator ====
+
+Elevator can now go vertically and horizontally at the same time, horizontal track are now added in addition to the already-existing vertical track.
+
+{{:mtr:mtr4_elevator.png?600|Elevator going up diagonally}}
+
+==== Revamped System Map ====
+
+The rewritten system map nows look better, runs faster and runs more reliably.
+
+{{:mtr:mtr4_sysmap.png?600|Online System Map for MTR 4}}
+
+==== Signal Light ====
+
+Signal lights can now be placed diagonally (In 22.5 deg increments). They can now also be filtered to only show the aspects of certain colored signals.
+
+{{:mtr:mtr4_signallight.png?600|MTR Signal Light placed diagonally}}
+
+==== Swaying Effects ====
+
+Train carriage may now sway left and right when the train is running, improving the riding experience.
+
+==== OBJ Rendering ====
+
+OBJ model has been incorporated from NTE and is now integrated into MTR 4.
+
+This means MTR can now support detailed train/track models that are exported in the .obj format.
+
+==== Bridge Creator ====
+
+The speed of bridge creator has been increased to a more reasonable speed.
+
+==== Distance Effect ====
+
+Much of the [[https://minecraft.wiki/w/Distance_effects|Distance Effects]] has been mitigated in MTR 4. Railway facilities and trains will render correctly even in very high distances (i.e. Default world border), and [[mtr:dashboards|Dashboard]] will also function correctly with no precision loss when modifying an area.
+
+{{:mtr:mtr4_disteffect.png?600}}
+
+==== FPS Lag ====
+
+Rendering optimizations from the NTE Addon has been integrated to the **Minecraft-Mappings** project, which are also in-use by MTR 4.0. This should offer substantial frame-rate improvements during gameplay.((
+[[https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s|https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s]]
+))
+
+==== Server Lag ====
+
+The back-end has been rewritten to no longer run on the Minecraft thread, which means the game loop is able to run faster, resulting in more consistent TPS/Lower MSPT.
+
+The improvements is more visible in large-scale MTR servers with large transit networks.
+
+==== Mod Compatibility ====
+
+Major mod compatibility issue reported in MTR 3 is resolved in MTR 4, notable issues including:
+
+  * Crash when making a boat depot (MrCrayFish Framework)
+  * Crash when opening the inventory in 1.20.1 (Botarium)
+  * Getting kicked out of rocket (Ad Astra)
+  * Invisible MTR Entity constantly seen when using JEI/The One Probe
+
+===== Other Welcoming Improvements =====
+
+==== Redstone-powered APG/PSD ====
+
+Automatic Platform Gates / Platform Screen Doors can now be powered by redstone.
+
+==== Announcer Block Delay ====
+
+Announcements in the announcer block can now be delayed for a duration of time after the train passes, before playing to the passengers.
+
+==== Dashboard improvements ====
+
+Dashboard is now notably smoother than in MTR 3, and also has an underground mode to view surroundings in the player's Y level.
+
+==== Platform Slabs ====
+
+A slab-variants of platform block has been added.
+
+==== Mosaic Blocks ====
+
+Mosaic Block has been added to MTR 4, which mimics the mosaic tiles seen in various MTR stations.
+
+===== Behavioral changes =====
+
+==== Game Pausing ====
+
+Due to the new MTR back-end change, currently MTR's train simulation will continue even after the Minecraft game have been paused.
+
+==== Boarding a train ====
+
+To board the train, you must now board from the door area when the door is opened instead of being in the general train area.
+
+==== Train Movement Changes ====
+
+Train movements has been altered slightly in MTR 4 to take account for the bogie position. This may however result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+
+===== Addon Compatibility =====
+
+Due to the major backend rewrite, most if not all addons depending on the MTR Mod needs to be updated. A non-exhaustive list of addons can be found [[mtr_addon:start|here]], with MTR 3/4 tags appropriately applied to them.
+
+Highly popular addons such as [[mtr_addon:lu:start|The Tube]] and [[mtr_addon:jcm:start|Joban Client Mod]] should already be available for MTR 4, with the exception of [[mtr_addon:nte:start|Nemo's Transit Expansion]], where much of the feature is already incorporated to the MTR Mod.
+
