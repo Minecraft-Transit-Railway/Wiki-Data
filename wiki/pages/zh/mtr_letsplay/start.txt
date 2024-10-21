@@ -8,3 +8,8 @@
 
 <nspages -textPages="" -title -exclude>
 
+===== Let's Play 服务器相关网站 =====
+
+[[https://letsplay.minecrafttransitrailway.com/world-map/ |服务器地图
+]]
+[[http://https://letsplay.minecrafttransitrailway.com/system-map/ |服务器交通路线图]]
