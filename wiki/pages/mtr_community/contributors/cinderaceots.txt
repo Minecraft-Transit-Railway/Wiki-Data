@@ -1,0 +1,41 @@
+====== CinderaceOTS ======
+
+
+<WRAP 400px right>
+|  @#BB492B:  **CinderaceOTS**  ||
+| {{ :playground:cinderaceots_fm.png?320 }}CinderaceOTS's avatar in vanilla "[[wp>Pokémon_Sword_and_Shield|Pokémon SwSh]] [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]]" as of 2023/5/17.\\ {{ :mtr_community:builders:2024-04-28_16.18.17.png?320 |}}CinderaceOTS avatar under Figura installation environment as of 2024/4/28.\\ [[https://poppy-playtime.fandom.com/wiki/CatNap|Catnap]] AU from @noirzvault on X  ||
+|  @#BB492B:  **Overview**  ||
+| **Known as ** | OTS |
+| **Name basis** | [[https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon)|Cinderace]] |
+| **Date since joining MTR Mod discord** | 1rd Dec, 2021 |
+| **Roles** | Contributor (2024/10/22~Present) |
+| ::: | Modders (2021/12/??~Present) |
+| ::: | Let's Play Members (2022/8/17~Present) |
+| ::: | Resource Pack Authors (2022/4/19~Present) |
+| ::: | Train Operators (2021/12/1~Present) |
+| **Joining Order** | ''???'' |
+| **birthday** | 17th May, 2001 |
+| **Gender** | Male |
+
+</WRAP>
+
+**CinderaceOTS**(Same as Minecraft ID and Discord) is a member of the Minecraft Transit Railway Discord community. He claims he was the first Japanese to start playing MTR mods in October 2021, and is probably the first Japanese member to join the Discord community. He is also the owner of Shimano MTR and Terralith Rapid Transit, a railroad company that operates on [[mtr_letsplay:start|Let's Play servers]].
+
+Also, before joining the Let's Play server, he was building a large railway line with vanilla and MTR. 
+=====Activities before starting MTR=====
+When I first started playing Minecraft in July 2015, the first thing I did was train. However, at that time, it was struggling with the specifications of vanilla Minecart.
+=====Activities in the Let's Play server builder.=====
+From August 2022, we have become a builder of MTR's Let's Play server. We are constructing MRT-class urban high-speed railways and LRT.
+
+Currently, due to my health, I am progressing at a slower pace than when I first started participating.
+
+=====Activities at Crowdin=====
+I am in charge of Japanese localization for MTR's Crowdin. I localized and corrected almost all items.
+
+=====Activities at MTR wiki=====
+Similar to Crowdin, we are translating existing English articles (with some exceptions) and writing new Japanese articles.
+
+=====Managed MTR railways=====
+  * [[mtr_letsplay:terralith_rapid_transit|Terralith Rapid Transit]] - This is a management company that owns the lines and trains of the following companies that exist on the Let's Play server.
+    * [[mtr_letsplay:shimanomtr|Shimano MTR]] - A railway operator that operates on Let's Play servers, etc.
+    * [[mtr_letsplay:shimanolrt|Shimano LRT]] - SMTR's light rail division.
