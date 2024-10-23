@@ -10,7 +10,6 @@ You can help the development of MTR 4 by contributing to such area.
     * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
   * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
   * NTE Rail flipped to the other side after upgrading to MTR 4.
-  * Custom Destination Display not parsed correctly
 
 ==== Unconfirmed issues/bugs ====
 
