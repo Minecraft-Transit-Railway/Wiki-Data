@@ -1,4 +1,4 @@
 ====== Lilypad Rail ======
 
-Lilypad Rail (Chinese: 睡蓮鐵, Common Notation: LPR) is a transit operator on the [[mtr_letsplay:start|Let's Play Server]] established on the 22nd of September 2022 and is managed by [[mtr_community:sleepy_sapph|sleepy_sapph]], builder and staff. The operator has been commissioned on a number of occasions to construct stations that are operated by other companies, and coowns a number of lines & networks with operators such as [[Qingli Railways|Qingli Railways]] and [[Wilds Railway|Wilds Railway]].
+Lilypad Rail (Chinese: 睡蓮鐵路, Common Notation: LPR) is a transit operator on the [[mtr_letsplay:start|Let's Play Server]] established on the 22nd of September 2022 and is managed by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]], builder and staff. The operator has been commissioned on a number of occasions to construct stations that are operated by other companies, and coowns a number of lines & networks with operators such as [[Qingli Railways|Qingli Railways]] and [[Wilds Railway|Wilds Railway]].
 
