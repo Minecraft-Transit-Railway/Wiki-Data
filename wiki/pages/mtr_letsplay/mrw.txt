@@ -4,21 +4,22 @@
 |  @#B0B0BE: **Moszyan Railways**  ||
 | {{:mtr_community:mosyzan_logo.png?250}} ||
 |  @#B0B0BE: **Overview**  ||
-| **Owner** | [[mtr_community:builders:szandorthe13th|szandorthe13th]] |
+| **Owner** | [[mtr_community:staff:szandorthe13th|szandorthe13th]] |
 | **Based at** ||
 | Mayrowe-Anemone, Centralia ||
 | **Transit type** | Railway Transport |
 | **Train models** | 9 |
-| **Active lines** | 3 |
+| **Active lines** | 4 |
 </WRAP>
 
 ===== Info =====
 
-[[mtr_letsplay:mrw|Moszyan Railways]] is a railway operator originating in [[mtr_community:server:centralia|Centralia]]. It was established as a union of the former CityLink and Trident Railways, to ensure a consistent designs across all forms of transport it operates. It was granted entry to the Let's Play network on December 9th 2023. Currently in its early phase, the company is focusing on starting construction of its upcoming overground mainline railway network.
+[[mtr_letsplay:mrw|Moszyan Railways]] is a railway operator originating in [[mtr_community:server:centralia|Centralia]]. It was established as a union of the former CityLink and Trident Railways, to ensure a consistent designs across all forms of transport it operates. It was granted entry to the Let's Play network on December 9th 2023. As of 2024, it is working on a centralised transport hub in the city of **'s Riddershoven**.
 
 ===== Services =====
 
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  @#BEEDFF: **Metro**\\ (Starlight Line)  |  Partially Operational  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  @#0063D3: **Sprinter**  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
 |  @#0063D3: **Sprinter**  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
 |  @#FFC917: **Intercity**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
@@ -26,21 +27,24 @@
 ===== Lines =====
 
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  [[mtr_letsplay:starlightline|Starlight Line]]  |  Partially Operational  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
 |  [[mtr_letsplay:riverinaline|Riverina Line]]  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:collinsstreet|Albury Collins Street]]  |
+|  [[mtr_letsplay:westernmainline|Western Mainline]]  |  Partially Operational  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |
 
 ===== Fleet =====
 
 |  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
-|  LRC  |  S43-Tec LRV 2010  |    |    |
+|  NLRT  |  LIGHTACE 1999T  |    |    |
 |  GNUS  |  BVG Class H  |    |    |
-|  AM  |  S43-Tec Aurora (Metro)  |    |    |
-|  AS  |  S43-Tec Aurora (Sprinter)  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Gapyeong Sidings  |
+|  AM7  |  Amsterdam M7  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Rykkam Siding  |
+|  RDM  |  NSW Xplorer DMU  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Yongchun Sidings  |
 |  OHS  |  BR Class 508  |    |    |
-|  OLS  |  BR Class 378  |    |    |
+|  OLS  |  BR Class 378  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Yongchun Sidings  |
 |  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Royal Park Depot  |
+|  :::  |  :::  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Yongchun Sidings  |
 |  ICFR  |  Yuunitetsu 701  |    |    |
-|  HSDD  |  NS VIRM  |  [[mtr_letsplay:riverinaline|Riverina Intercity]]  |  Yongchun Sidings  |
+|  HSDD  |  NS VIRM  |  [[mtr_letsplay:riverinaline|Riverina Intercity]]  |  Temporary Sidings  |
 
 ===== Screenshots =====
 |{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station, as seen from a somewhat birds-eye view. On a rare occasion like this, all platforms are occupied.}}|
