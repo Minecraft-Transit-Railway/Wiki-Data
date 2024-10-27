@@ -1,0 +1,118 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Docklands Light Railway (DLR) ======
+
+<WRAP right>
+
+|  @#EFEEF0:  <html><b><font size = "4">Docklands Light Railway (DLR)</b></html>  ||
+| @#27b0b0: ||
+| @#FFFFFF: ||
+| @#27b0b0: ||
+| {{ mtr_letsplay:dlr_qe2.png?400 |DLR Trains at Queen Elizabeth II station}} ||
+|  @#EFEEF0:  **Overview**  ||
+| **Owner** | [[Lilypad Rail|Lilypad Rail]] |
+| **Area Served** | [[Greater Llanmara|Greater Llanmara]] |
+| **Transit type** | [[wp>Light_rail|Light Rail]] |
+| **Number of lines** | 6 |
+| **Number of stations** | 23 |
+| **Real-Life Inspiration** | [[wp>Docklands_Light_Railway|Docklands Light Railway]] |
+| **Colour on map** | Teal <color /#27b0b0><html>&nbsp&nbsp&nbsp&nbsp</html></color> (#27b0b0) |
+|  @#EFEEF0:  **Service & Operation**  ||
+| **Began passenger operation** | October 2022 |
+| **Operator(s)** | [[Lilypad Rail Docklands Division|Lilypad Rail Docklands Division]] |
+| **Train length** | 2 vehicles per trainset |
+|  @#EFEEF0:  **Technical**  ||
+| **No. of tracks** | 2 (bidirectional traffic) |
+| **Track gauge** | MTR Mod 3-block standard |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#750_V_DC_conductor|750V DC Third Rail]] |
+| **Maximum speed** | 100 km/h |
+| **Top operational speed** | 60-80 km/h |
+|  @#EFEEF0:  **Construction Specifications**  ||
+| **Distance between nodes** | 2-3 blocks |
+| **Ballast block (flat section)** | Smooth Stone |
+| **Ballast block (sloped section)** | Smooth Stone Slab |
+| **Sound barrier/support block** | Stone Bricks |
+| **Tunnel wall block** | Stone Bricks |
+
+<WRAP right>
+
+|  @#b0c4de:  **Docklands Light Railway**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 碼頭輕軌 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 码头轻轨 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | %%mǎ tóu %%qīng guǐ |
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | máh tàuh hēng gwái |
+| [[wp>Jyutping|JyutPing]] | maa5 tau4 heng1 gwai2 |
+
+</WRAP>
+
+</WRAP>
+
+The Docklands Light Railway ([[wp>Chinese_language|Chinese]]: 碼頭輕軌, Common Notation: DLR) is a core part of the [[/Lilypad_Rail|Lilypad Rail]] network of services, and provides vital connections to many lines in the [[Greater Llanmara|Greater Llanmara]] Region. The line runs as light rail, and in some cases acts as a local to the Metro services' express. The DLR notably features the Central Suburban Loop, with bidirectional travel linking up the major villages in the core of [[Llanmara|Llanmara]] City's suburbs.
+
+===== History =====
+
+==== Original Development & Early Operations ====
+
+Turnham Road was the first station to be built, and such history was showcased with its old-style roundels in the original station design. The line was originally the Llanmara Dockyards Railway, running between [[Turnham Road|Turnham Road]] and the piers in the [[The Docklands (Llanmara)|Docklands]] servicing the [[Llanmara Bay and Tunnel|Llanmara Bay]]. It was later closed, with the stations at the piers being completely demolished. Turnham Road's counterclockwise platform was demolished, leaving it as a one-way halt. Later, on 17 October 2022, the DLR as we know it today was opened, with trains running between [[Houton High Street|Houton High Street]] and [[Hereford Delta|Hereford Delta]]. The line continued clockwise to Turnham Road, with a refurbishment of the station taking place and the reinstatement of the clockwise platform. The line was soon extended to a terminus at "Baker's Pit" station, which lay in the Winbeck tunnel between the loop and Winbeck. Baker's Pit saw low ridership and was placed incredibly inconveniently. It only caused clogs as four-car trains spilt out into a node section which backed up trains at Winbeck. Unceremoniously, on 22 October, Baker's Pit was closed shortly after the extension to [[Winbeck|Winbeck]] was complete. On the same day, the line extended up to [[Llanmara Saint Ann's|Saint Ann's]] at a temporary structure that would later be overhauled.
+
+==== Initial System ====
+
+On 24 October 2022, the DLR met the Riverside Line at new platforms at Winbeck, although these platforms would prove to be woefully underprepared for the capacity needed at the major interchange. The line continued on an extension towards Boulton-on-Mesa to meet with the [[Metro Azalea Line|Metro Azalea Line]]. However, due to miscommunications between the Azalea Line contractors and DLR contractors, [[Boulton-on-Mesa|Boulton-on-Mesa]] ended up with the DLR north of the Azalea Line platforms, when it should have been the other way around. To solve this, the DLR flew on a viaduct due west while the Azalea Line snuck underneath at-grade. [[Queen Elizabeth II station|Queen Elizabeth II station]] added a small ferry dock on the 24th as well to compensate for [[Tree Ferry|Ferry services to Lonely Tree Island]].
+
+By the 25th, the DLR had extended all the way to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie Bank]] on the western end of the network and a temporary alighting structure at [[Waterloo Gate|Waterloo Gate]] on the eastern end, with three routes, known as "City," "Clockwise," and "Anticlockwise." The former ran from Winbeck to Waterloo Gate on 2-car trains, and the latter two ran from Kirkenkessie Bank to the loop, splitting to run their separate directions via High Street/Turnham Road. The former would later evolve into DLR Route B1, and the latter into A1 and A2. At this time, however, Waterloo Gate was known as Old Town Gateway.
+
+==== Lower Islands Expansion ====
+
+On 27 October 2022, the DLR branch to Hampton Terrace & Peakwell was opened. However, this line was known to be volatile. Trains often broke down, and crowded trains often had trouble climbing the slope up to Peakwell. On 30 October 2022, the DLR lost its unidirectional interchange with the Azalea Line at Dencradle, with the transfers now being concentrated at Boulton-on-Mesa and Kirkenkessie. After 1 Nov., Kirkenkessie and Boulton were interchanging with the [[Metro Victory :ine|Metro Victory line]], meaning that the [[Llanmara Bay and Tunnel|Llanmara Bay Tunnel]] had opened to link the Victory Line and Azalea Line into a single continuous line.
+
+On 16 November 2022, the DLR took over ex-Riverside line services to [[Hampton West|Hampton West]], routing a loop from [[Hampton West|Hampton West]] to Winbeck and back via Peakwell & Hampton Terrace. But only a few days later, trouble struck. The 18-20 November incident is infamous for being the moment in which the DLR experienced its first-ever complete gridlock jam. [[Wilds Railway|Wilds Railway]] experts were commissioned to help locate the issue with the jam, and it was found to be a signaling issue in the Chambers-High Streets interlocking in conjunction with a testing siding near the Winbeck North Tunnel Portal. Around this time, the modern route numbering system was introduced.
+
+==== Connection-based Latter Expansions ====
+
+Prior to the renovation of [[Llanmara Saint Devota|Saint Devota]], the DLR operated a shuttle between Saint Devota and Waterloo Gate between November 2022 and January 2023. In late November 2022, the DLR also opened a shuttle between [[Meilan|Meilan]] and [[Financial Centre|Financial Centre]].
+
+==== Initial Overhauls ====
+
+On 8 December 2022, Saint Ann's finally received its overdue permanent structure for the DLR. Shortly after, On 11 December 2022, the Winbeck Capacity Study was completed, and the following day, construction commenced. The original structure at Winbeck was originally built with the inspiration of Salford Crescent in the UK, however, it became an amalgamation of its former self when the mainline platforms were added. The station was woefully underprepared for the traffic, and the sloped and sharply-curved junction proved to be a major bottleneck for the entire network. So, a new station and junction was created to solve these issues based on the Winbeck Capacity Study's findings. The new station was now based on [[wp>Mudchute_DLR_station|Mudchute]] and [[wp>Limehouse_station|Limehouse]] stations in the UK, with dedicated flyovers to separate terminating and through DLR traffic. Later down the line, platforms were straightened out to prepare for the Northern Mainline and its reference to Limehouse was largely lost.
+
+==== Major Overhauls ====
+
+The DLR sat sturdy and free-flowing until 19 February 2023, when the entire network was suspended for major renovations across the entire network. Turnham Road was completely reconstructed to allow for full 4-car trains on all platforms, including a new lower-level platform for C1 and C2. D1 was eliminated and replaced by a lease to [[Electrostar Rail|Electrostar Rail]] to run services down to Hampton West from Winbeck. Route C1 was severely adjusted, instead running to a new station at the foot of Peakwell with a [[Peak Cable Car|cable car]] a la [[wp>Wellington_Cable_Car|Wellington Cable Car]] running to the peak. Hampton Terrace was given a second platform for bidirectional travel, and C1 was extended to Southampton with a direct cross-platform transfer to [[Tempest|Tempest]] and [[North Tundra|North Tundra]]-bound [[Metro Marble Line|Metro Marble Line]] trains. The forever planned route F1 was redesignated to route C2 (the C designation was reassigned from Hampton Terrace origination to Turnham Road Lower level origination), and the plan was cut back from an orbital to a linear route from [[Turnham Road|Turnham Road]] to [[Hixton Town|Hixton Town]] via [[Llanmara Iceland|Llanmara Iceland]]. Many stations along the line are also receiving renovations. As of 28 February 2023, the DLR construction works were still going on. Routes A1 and A2 were still suspended and C2 was only running as far as Iceland. C1 and B1 were still in operation, but B2 had yet to come back into service since the [[Llanmara Saint Devota|Saint Devota Renovations]]. High Street and Chambers Street as well have recently received overhauls as a part of the construction works.
+
+On 3 March 2023, Boulton-on-Mesa received major overhauls to reduce congestion on the old flyover. Victory trains are now on the northern end of the station instead of the southern end, and the station has a new canopy and flooring. A1 and A2 came back into service on the same day.
+
+On 12 June 2023, route C2 was finally extended to Hixton Town.
+
+On 4 July 2023, Waterloo Gate and City Northshore were unceremoniously closed as a part of the Saint Ann's Reconstruction Project. Neither received a farewell ceremony. There were left no more remnants of City Northshore station, and only the station structure itself stood at Waterloo Gate with none of the station's original facilities and amenities left standing. Route B1 was suspended as a part of the construction.
+
+On 1 October 2023, service was reinstated on B1 as far as Saint Ann's along with the station's soft reopening.
+
+On 27 January 2024, DLR Route D1 was reinstated, albeit running on a completely different alignment from the original route via Hampton West. The route runs from Winbeck's terminating platform out to the newly refurbished  and  stations for connections to the Northern Line and Victory Line respectively. It is the only line to use the specially branded blue Docklands livery.(( From a lore perspective, it is assumed that these stations and the Docklands area were left abandoned after the Llanmara Docklands Railway closed. However, from a real life timeline perspective, the Docklands area was constructed as apart of the Northern Line proposal, which brought the Victory Line out of the old Llanmara Bay Tunnel and across a new viaduct atop the old right of way ))
+
+On 23 July 2024, however, DLR Route D1 was once again suspended. It was subsumed by Route B1 which was extended to Docklands North via D1 from Winbeck. This change was made in accordance with the new DLR platforms that were opened in Saint Ann's on the same day.
+==== The Mainline Connection Integration Plan ====
+
+The DLR released a plan on 2 April 2023 which aimed to connect the new stations along the [[Northern Mainline|Northern Mainline]] for [[Electrostar Rail|Electrostar Rail]] with the DLR stations of similar name. On 11 April 2023, DLR Route F1 opened between Kirkenkessie Bank and [[Mt. Dencradle|Mt. Dencradle]]. It ran to Kirkenkessie Bank until the construction works at [[Dencradle|Dencradle]] were complete, where it was shortened to a new bay platform at the station.
+
+On 7 August 2023, DLR Route F1 was closed and absorbed into DLR Route E1, running from Financial Centre to Dencradle via a new tunnel between Mt. Dencradle and Meilan. The absorption meant that E1 trains had to shorten from 6 car/3 unit sets to 4 car/2 unit sets as per the rest of the DLR network. This makes Meilan and Financial Centre the only stations to have DLR platforms built longer than 4 car/2 unit sets.
+
+On 18 January 2024, DLR Route A3 began operation from the new terminal at [[Faarverness Island|Faarverness Island]] out to Southampton, being the first route to use the track connection direct from Winbeck to Peakwell since the junction was rebuilt.
+
+===== System Operations =====
+
+The DLR currently serves 28 stations across the centre of Greater Llanmara. There are five branches in addition to the Central Suburban Loop: to the City to the north, to the Lower Islands and [[Southampton|Southampton]] in the south, to [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie]] to the west, to [[Hixton Town|Hixton Town]] in the east, and to [[Financial Centre|Financial Centre ]]in the southwest to the east. Between [[Houton High Street|High Street]] and [[Faarverness Jungle|Faarverness Jungle]], the DLR runs vaguely parallel to the [[Metro Victory Line|Victory Line]]. Between Boulton-on-Mesa and Kirkenkessie Bank, the DLR runs directly parallel to the Victory Line.
+
+|  @#EFEEF0:**Service Patterns**  |||
+|  **Termini**  |  **Route**  |  **Calling at**  |
+| Kirkenkessie Bank – Clockwise Loop | A1 | [[Kirkenkessie Bank, South Hill, and Gateway|Kirkenkessie Bank]], [[Dencradle|Dencradle]], [[Boulton-on-Mesa|Boulton-on-Mesa]], [[Faarverness Jungle|Faarverness Jungle]], [[Queen Elizabeth II|Queen Elizabeth II]], [[Upper Milford|Upper Milford]], [[Winbeck|Winbeck]], [[High Street|High Street]], [[Chambers Street|Chambers Street]], [[Hereford Delta|Hereford Delta]], [[Turnham Road|Turnham Road]], [[Winbeck|Winbeck]], (//Winbeck → Kirkenkessie Bank)// |
+| Kirkenkessie Bank – Anticlockwise Loop | A2 | Kirkenkessie Bank, Dencradle, Boulton-on-Mesa, Faarverness Jungle, Queen Elizabeth II, Upper Milford, Winbeck, Turnham Road, Hereford Delta, Chambers Street, High Street, Winbeck, (//Winbeck → Kirkenkessie Bank)// |
+| Faarverness Island – Southampton | A3 | [[Faarverness Island|Faarverness Island]], Faarverness Jungle, Queen Elizabeth II, Upper Milford, Winbeck, Peakwell, Hampton Terrace, Southampton |
+| Docklands North – Saint Ann's | B1 | [[Docklands North|Docklands North]], [[Docklands South|Docklands South]], Winbeck, High Street, [[Llanmara Saint Ann's|Saint Ann's]] |
+| Southampton – Turnham Road | C1 | [[Southampton|Southampton]], [[Hampton Terrace|Hampton Terrace]], [[Peakwell|Peakwell]], High Street, Chambers Street, Turnham Road |
+| Hixton Town – Turnham Road | C2 | [[Hixton Town|Hixton Town]] , [[Llanmara Iceland|Iceland]], [[Walford Pass|Walford Pass]], [[Denmark Hill|Denmark Hill]], [[High Stratham|High Stratham]], Chambers Street, Hereford Delta, Turnham Road |
+| Financial Centre – Dencradle | E1 | [[Dencradle|Dencradle]], [[Dencradle|Mt. Dencradle]], [[Meilan|Meilan]], [[Financial Centre|Financial Centre]] |
+
+~~NOTOC~~
