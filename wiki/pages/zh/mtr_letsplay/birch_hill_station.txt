@@ -19,8 +19,8 @@
 | **Tracks** | 4 |
 | **Coordinates** | (-2920, 1261) |
 ^  **Translations**  |^
-| **繁體中文** | 樺山 |
-| **Simplified** | 桦山 |
+| **繁体** | 樺山 |
+| **简体** | 桦山 |
 | **Cantonese Yale** | wàhsāan |
 ^  **Colors**  |^
 | @#FFFF00:  | Yellow |
