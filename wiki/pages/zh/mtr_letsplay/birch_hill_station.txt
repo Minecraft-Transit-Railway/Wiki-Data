@@ -19,7 +19,7 @@
 | **Tracks** | 4 |
 | **Coordinates** | (-2920, 1261) |
 ^  **Translations**  |^
-| **Traditional** | 樺山 |
+| **繁體中文** | 樺山 |
 | **Simplified** | 桦山 |
 | **Cantonese Yale** | wàhsāan |
 ^  **Colors**  |^
