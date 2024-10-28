@@ -4,7 +4,7 @@
 
 <WRAP right>
 
-|  @#51C7FA:  **Birch Hill**  ||
+|  @#51C7FA:  **桦山站**  ||
 | @#EB7AE9: ||
 | @#0FBFE4: ||
 ^  **Overview**  |^
