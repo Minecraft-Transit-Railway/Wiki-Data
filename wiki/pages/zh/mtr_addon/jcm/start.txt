@@ -1,0 +1,41 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Joban Client Mod ======
+
+<WRAP right>
+
+|  **Joban Client Mod**  ||
+|  {{ :mtr_addon:jcm:jcm_logo.png?200 }}//Logo of Joban Client Mod v2//  ||
+| **State**  | v1: Abandoned |
+| ::: | v2: Active Development |
+| **Creator** | [[mtr_community:contributors:lx862|LX86]] |
+| **Active contributors** | AozoraSky |
+| ::: | StrikeSNC |
+| ::: | 1081MTR |
+| **Git Repository (v2)** | [[https://github.com/DistrictOfJoban/JCM-Rewrite|GitHub]] |
+| **Modrinth Page** | [[https://modrinth.com/mod/jcm|Modrinth]] |
+
+</WRAP>
+
+Joban Client Mod is an MTR Addon, adding various decoration blocks from the Hong Kong MTR.
+
+It is currently being maintained by the [[mtr_community:server:district_of_joban|The District of Joban]] Administration/Governor team.
+
+For the most up to date, and additional information regarding the content it provides, you may check the [[https://www.joban.org/wiki/JCM:Joban_Client_Mod_v2|Joban Client Mod wiki]].
+
+===== Version 1.X =====
+
+The Version 1 Series ranges from **v1.0.0** to **v1.2.2** with 22 feature/compatibility update release in between.
+
+As of **v1.2.2**, it is based on Architectury and supports Minecraft Fabric/Forge 1.16.5 - 1.20.1.
+
+It is no longer being developed as development work moves on to v2.
+
+===== Version 2.X =====
+
+The Version 2 Series is a completely rewritten version of Joban Client Mod, with the version number starting from **v2.0.0**, with the hopes of being easier to maintain, add features, and be more lightweight.
+
+It is based on the rewritten version of the [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft Mappings]] project (Also used by MTR) to provide cross-version and modloader compatibility.
+
+A beta version is available on Modrinth and GitHub, albeit with some missing blocks & features. The official release date is targeted to be the same as [[mtr:4.0.x|MTR 4.0.0]] if time allows.
+
