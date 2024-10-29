@@ -53,7 +53,7 @@
 
 **Wilds Railway** <sub>(又名 WR, 旷野铁路)</sub> 是Let's Play服务器上的一家虚构的铁路公司，成立于2022年8月8日，现由建筑者和员工[[mtr_community:navi_lx9702|Navi]]，来管理。
 
-The company is set to be the subsidiary of 'Suzuran Railways', the railway company that operates only in Navi_LX9702's private world.
+该公司是 Navi_LX9702 私人运营的铁路公司 "铃兰铁路 "的子公司。
 
 == Services Operated ==
 
