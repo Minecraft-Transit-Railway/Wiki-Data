@@ -235,7 +235,10 @@ There are no expected further expansion on the line. Existing non-finished stati
 Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 ))  | ::: | ::: | ::: |
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Kwong Chow Line section**  ||||||||
-|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#eb7ae9: [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  22 December, 2022  | [[/west_lake_area|West Lake]] |
+|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#eb7ae9: [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  22 December, 2022  |  [[/west_lake_area|West Lake]]  |
 | ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
+|  @#8C6AD2:  ||  [[/sha_tsui_station|Sha Tsui]]  |  %%沙咀%%  |  SHT  | |  13 April, 2024  | ::: |
+|  @#e0e060:  ||  [[/west_lake_station|West Lake]]  |  %%西湖%%  |  WEA  |  @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  8 October, 2024((Interchange only))  | ::: |
+| ::: || ::: | ::: | ::: |  @#6b4799:<color white>Elizabeth Line</color>  | ::: | ::: |
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - North Coast Line section**  ||||||||
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Sightseeing Line Phase 3, 4 section**  ||||||||
