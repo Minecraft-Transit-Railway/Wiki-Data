@@ -4,7 +4,7 @@
 
 <WRAP right>
 
-|  @#EFEEF0:  <html><b><font size = "4">Docklands Light Railway (DLR)</b></html>  ||
+|  @#EFEEF0:  <html><b><font size = "4">码头轻轨 (DLR)</b></html>  ||
 | @#27b0b0: ||
 | @#FFFFFF: ||
 | @#27b0b0: ||
