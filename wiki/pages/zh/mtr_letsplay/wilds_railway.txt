@@ -57,7 +57,7 @@
 
 == 运营的服务 ==
 
-=== [[/WR_SW_Plains_Line|WR SW Plains Line]] ===
+[[/WR_SW_Plains_Line|WR SW Plains Line]]
 
 === Mimura Line ===
 
