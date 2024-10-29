@@ -36,7 +36,7 @@
 
 <WRAP right>
 
-|  @#b0c4de:  **Docklands Light Railway**  ||
+|  @#b0c4de:  **码头轻轨**  ||
 | [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 碼頭輕軌 |
 | [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 码头轻轨 |
 |  @#F9FFBB: **Transcriptions**  ||
