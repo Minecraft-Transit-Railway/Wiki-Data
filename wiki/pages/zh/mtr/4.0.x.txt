@@ -13,7 +13,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 不像在先前的版本中，每条侧线只有拥有一种车型，MTR4可以自由使用不同车型的车厢来填充侧线
 
 举个例子，你可以使用 **SP1900的头部，M-Train的车厢，K-Train的尾部** 去为你的侧线创造自定义编组，并让它们行走在轨道上。(如图)
-{{:mtr:mtr4_consist.png?400|MTR4编组功能的配置界面}}
+{{:mtr:mtr4_consist.png?|MTR4编组功能的配置界面}}
 
 这对于混合车辆配置（例如链接不同代数的轻轨列车）((MTR模组中一共拥有五代轻轨列车(此注释由译者增加) ))、涂装和牵引其他编组的机车很有用。
 
