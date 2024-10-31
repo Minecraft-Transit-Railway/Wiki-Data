@@ -4,8 +4,9 @@
 
 <WRAP right>
 
-|  **重生区**  ||
-|  **Spawn**  ||
+|  @#1788EE:  ||
+|  **<html><font size = "4">Spawn</font></html>**\\ 重生区  ||
+|  @#1788EE:  ||
 | {{mtr_letsplay:spawn.png?450}} ||
 ^  **概述**  |^
 | **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
