@@ -16,7 +16,7 @@ Functions are provided where you can get the version number to ensure compatibil
 ^ Functions ^ Description ^
 | ''static Resources.getMTRVersion(): String'' | Returns the version of the MTR, for example, ''1.19.2-3.1.1.0-hotfix-1''. |
 | ''static Resources.getNTEVersion(): String'' | Returns the version of the NTE, for example, ''0.4.0+1.19.2''. |
-| ''static Resources.getNTEVersionInt(): int'' | Returns the NTE version as a number for easy comparison. For example, 0.4.0 would be 4000, 1.9.1 would be 19100. |
+| ''static Resources.getNTEVersionInt(): int'' | Returns the NTE version as a number for easy comparison. For example, 0.4.0 would be 400, 1.9.1 would be 10901. |
 | ''static Resources.getNTEProtoVersion(): int'' | Returns the NTE protocol version. |
 
 ===== TextUtil =====
