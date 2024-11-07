@@ -29,7 +29,7 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 Платформа - это часть рельс, где поезда останавливаются, чтобы подобрать пассажиров.
 
   - Сделайте рельсы для платформы, следуя шагам выше (Описанное в [[/getting_started#creating_a_rail|Создание рельс]] с использованием предмета platform rail connector)
-  - Найдите любое другое место и сделается другие рельсы для платформы, не соединённые с предыдущими. Постарайтесь сделать их такой же длины. Это будет второй платфоромй для поездов.
+  - Найдите любое другое место и сделается другие рельсы для платформы, не соединённые с предыдущими. Постарайтесь сделать их такой же длины. Это будет второй платформой для поездов.
   - Соедините два отрезка рельс любым другим коннектором (кроме platform и siding connector). Можно использовать дополнительно ещё rail node, если потребуется.
 
 <markdown>
@@ -51,9 +51,12 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 
 
+
+
 > <img alt="Building the Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/build-platform.png" width=512/><br>Пример двух рельс для платформ, соединённых другим типом рельс.
 
 </markdown>
+
 
 ==== Stations ====
 
