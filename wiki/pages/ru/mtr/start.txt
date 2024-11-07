@@ -12,7 +12,8 @@
 
 ===== Загрузки и установка =====
 
-Перейдите на [[https://modrinth.com/mod/minecraft-transit-railway| страницу Modrinth]] или [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge]], что бы скачать или увидеть информацию о проекте.
+Перейдите на [[https://modrinth.com/mod/minecraft-transit-railway| страницу Modrinth]] или [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge]], что бы скачать мод или увидеть информацию о проекте.
+
 
 ===== Версии =====
 
