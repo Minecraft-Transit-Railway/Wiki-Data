@@ -48,6 +48,8 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 
 
+
+
 > <img alt="Building the Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/build-platform.png" width=512/><br>Пример двух рельс для платформ, соединённых другим типом рельс.
 
 </markdown>
@@ -75,6 +77,8 @@ A station is a rectangular area marked in the world. Each station should complet
   - Click ''Done'' when finished.
 
 <markdown>
+
+
 
 
 
