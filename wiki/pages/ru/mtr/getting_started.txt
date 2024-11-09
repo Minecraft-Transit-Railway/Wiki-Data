@@ -21,7 +21,6 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
   - Возьмите любой rail connector. Держа rail connector в руке, кликните правой кнопкой мыши по любому из rail node. Rail connector должен начать мерчать в слоте инвентаря.
   - Всё ещё держа rail connector в руке, кликните правой кнопкой мыши по второму rail node. Рельы должны появиться между двумя rail node.
 
-
 ===== Постройка своей первой железной дороги =====
 
 ==== Платформы ====
@@ -53,14 +52,15 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 
 
+
+
 > <img alt="Building the Platform" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/build-platform.png" width=512/><br>Пример двух рельс для платформ, соединённых другим типом рельс.
 
 </markdown>
 
+==== Станции ====
 
-==== Stations ====
-
-A station is a rectangular area marked in the world. Each station should completely cover one or more platforms.
+Станция - это прямоугольная зона в мире. Каждая станция должна покрывать одну или более платформ.
 
   - Obtain the [[/dashboard|railway dashboard]] item and right click to open it.
   - The menu on the left has three tabs: ''Stations'', ''Routes'', and ''Depots''.
@@ -81,6 +81,8 @@ A station is a rectangular area marked in the world. Each station should complet
   - Click ''Done'' when finished.
 
 <markdown>
+
+
 
 
 
