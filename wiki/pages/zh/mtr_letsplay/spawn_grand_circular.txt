@@ -4,6 +4,7 @@
 
 | @#0CAF35:<color black>Spawn Grand Circular</color> |
 
+|  @#0CAF35:  ||
 ^  **<html><font size = "4">重生大循环</font></html>**\\ Spawn Grand Circular  |^
 |  @#0CAF35:  ||
 | {{mtr_letsplay:spawn.png?450}} ||
