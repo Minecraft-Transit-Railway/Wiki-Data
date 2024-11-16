@@ -7,10 +7,11 @@
 |  @#BB492B:  **Overview**  ||
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
 | **Area Served** | Hana-koshi, Llanmara |
-| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
+| **Transit type** | [[wp>Rapid_Transit|Rapid Transit]] |
+| |[[wp>Medium-capacity_rail_system|Light Metro]]|
 | **Line Number** | S11 |
 | **Number of stations** | 48(Current) |
-|  | 49(Plan) |
+| | 49(Plan) |
 | **Real-Life Inspiration** | [[wp>Toei_Ōedo_Line|Toei_Ōedo_Line]] |
 | **Colour on map** | Fire Orange (#BB492B) |
 |  @#BB492B:  **Service & Operation**  ||
@@ -22,7 +23,7 @@
 | **Track gauge** | 1435mm |
 | **Drive system** |Iron wheel type linear induction motor (aka: Linear Metro)|
 | **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
-| **Maximum speed** | 80 km/h |
+| **Maximum speed** | 90 km/h |
 | **Top operational speed** | 80 km/h |
 |  @#BB492B:  **Construction Specifications**  ||
 | **Distance between nodes** | 3 blocks |
@@ -89,6 +90,7 @@ As mentioned above, it used to be 6 minutes, but after relocating the Depot, it 
 
 ===== Future Plans =====
 The only unopened Twynn station is currently under construction.
+In parallel with this, Llanmara station is being renovated.
 
 Refreshment work is currently underway to gradually update the old style tunnels to obj model tunnels.
 
