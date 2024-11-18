@@ -4,7 +4,7 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 Der Let's-Play-Server (chinesisch: 齊齊玩伺服器) ist ein Minecraft-Server der Version 1.19.2, der vom [[mtr:start|Minecraft Transit Railway]]-Mod-Ersteller [[/Benutzer:Jonafanho|Jonathan]] betrieben wird und im Juni 2022 eingerichtet wurde.
 
-It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to make for a more varied landscape, using new biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swathes of visitors.
+Es nutzt das Terrain-Generierungssystem von Minecraft 1.18+ und verwendet [[https://modrinth.com/datapack/terralith|Terralith]], um eine abwechslungsreichere Landschaft mit neuen Biome-Varianten zu schaffen. Die wunderschöne Landschaft, die in der Oberwelt gezeigt wird, hat in Verbindung mit der Let's-Play-Serie auf Jonathans YouTube-Kanal viele Besucher angezogen.
 
 Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[mtr_letsplay:spawn|Spawn]], [[mtr_letsplay:llanmara|Llanmara]], [[Kallos|Kallos]], [[mtr_letsplay:yankton|Yankton]], and the southwest through [[Danielston Memorial|Danielston Memorial]]. The longest journey between every two stations is less than 75 minutes((
 The longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 9 minutes and 3 seconds.
