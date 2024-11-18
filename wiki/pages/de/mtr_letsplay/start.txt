@@ -18,7 +18,7 @@ The longest time between two stations by rail is from Spawn to Yongchun on the I
 
 [[https://letsplay.minecrafttransitrailway.com/world-map/ | Server-Karte
 ]]
-[[https://letsplay.minecrafttransitrailway.com/system-map/ | Server’s Traffic Map]]
+[[https://letsplay.minecrafttransitrailway.com/system-map/ | Server-Verkehrskarte]]
 [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- | YouTube Let's Play Channel]]
 
 ~~NOCACHE~~
