@@ -1,7 +1,3 @@
-FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
-
-Achtung! Die meisten verlinkten Seiten führen zu englischsprachigen Seiten. Wir bemühen uns, die Seiten zu übersetzen.
-
 Willkommen zum Minecraft Transit Railway-Wiki!
 
 ===== Minecraft Transit Railway =====
@@ -11,7 +7,7 @@ Willkommen zum Minecraft Transit Railway-Wiki!
 ===== Ressourcenpakete und Add-ons =====
 
   * [[mtr_extra:start|Resource Packs]] - Einführung zu Ressourcenpaketen
-  * [[mtr_extra:resourcepack:make|Making a Resource Pack]] - Wie man ein Ressourcenpaket macht
+  * [[mtr_extra:making_a_resourcepack|Making a Resource Pack]] - Wie man ein Ressourcenpaket macht
     * [[mtr_extra:resourcepack:make:texture|Texturing Trains]] - Wie man Züge retexturiert
     * [[mtr_extra:resourcepack:make:model|Modelling Trains]] - Wie man sein eigenes Modell macht
     * [[mtr_extra:resourcepack:make:others|Others]] - Wie man Schilder, Sounds und anderes hinzufügt
