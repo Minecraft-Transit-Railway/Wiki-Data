@@ -16,7 +16,7 @@ Willkommen zum Minecraft Transit Railway-Wiki!
 
 ===== Multiplayer-Server =====
 
-  * [[mtr_letsplay:start|Let's Play Server]] - Der offizielle Server zu Minecraft Transit Railway
+  * [[de:mtr_letsplay:start| Let's Play Server]]- Der offizielle Server zu Minecraft Transit Railway
 
 ===== Zum Wiki beitragen =====
 
