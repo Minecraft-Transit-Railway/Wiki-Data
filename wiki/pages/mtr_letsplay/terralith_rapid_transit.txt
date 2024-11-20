@@ -3,7 +3,7 @@
 |  @#EFEEF0:  **Terralith Rapid Transit**  ||
 | {{ mtr_letsplay:trt.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:builders:cinderaceots|CinderaceOTS]] |
+| **Owner** | [[mtr_community:contributors:cinderaceots|CinderaceOTS]] |
 | **Established** | August 2022 |
 | **Area Served** | (Wide area) |
 | **Transit type** | [[Rapid Transit]]etc. |
@@ -48,6 +48,10 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 ====Under Construction & Planning====
 * (S4)[[Momoyama Line]]
+
+* (S14)[[Dialga Line]]
+
+* (S15)Toadette Line((Number assigned only. Tentative name.))
 
 ====Abolition====
 * (S2T)[[Sprigatito Line]]
@@ -117,6 +121,9 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 ===Jigglypuff Line===
 * [[13-100 Series]]
 
+===Dialga Line===
+* [[14-000 Series]]
+
 ===Shimano LRT===
 * [[LRV 1928]]
 
@@ -124,17 +131,23 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * [[LRV 1999]]
 
+* [[LRV 1999T]]
+
 * [[LRV 2015]]
 
+* [[LRV 2015T]]
+
+* [[15-000 Series]]((Scheduled to be transferred to Shimano MTR.))
+
 * [[Alexander Denis Enviro 200 JPN]](Bus)
+
+* [[Yutong U12]](Bus)
 
 ===CLR===
 * [[CLR B90]]
 
 ===in-Station Transit===
 * [[LRV 2015]]
-
-* [[Yutong U12]](Bus)
 
 * [[CLR B90]]
 
@@ -184,12 +197,16 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 ===Sprigatito Line===
 * [[2300 Series]]
 
+===Momoyama Line===
+* [[4000 Series]]
+
+===Toadette Line===
+* [[15-000 Series]]((Planned to be transferred from Shimano LRT.))
+
 ===SMTR Lines(Routes to be introduced are undecided)===
 Note:Temporary name
 
 * 7500 Series
-
-* 9500 Series
 
 ===Shimano LRT===
 * [[LRV 1943]]
