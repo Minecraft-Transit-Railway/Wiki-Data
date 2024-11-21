@@ -2,3 +2,9 @@ Waiting to fix **This page has not been fully translated请帮助翻译本页。
 
 ====== Spawn Grand Circular ======
 //Under production// **Spawn Grand Circular**
+
+| @#0CAF35:<color black>Spawn Grand Circular</color> |
+
+| {{ :mtr_letsplay: spawngrandcircular_icon.png?400|}}||
+^  **概述**  |^
+| **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
