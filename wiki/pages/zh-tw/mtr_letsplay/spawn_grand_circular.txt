@@ -1,0 +1,12 @@
+FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
+
+====== 重生大循环 ======
+
+//正在制作// 
+
+| @#0CAF35:<color black>Spawn Grand Circular</color> |
+
+| {{ :mtr_letsplay: spawngrandcircular_icon.png?400|}}||
+^  **概述**  |^
+| **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
+
