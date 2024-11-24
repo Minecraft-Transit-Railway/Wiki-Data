@@ -4,7 +4,7 @@ This page documents some of the migration steps needed when loading MTR 3 custom
 
 ==== Javascript Scripting ====
 
-JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not implemented** at the moment. If you rely on contents that make use of such feature, you are advised to stay on MTR 3 with the NTE Mod.
+JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not implemented** at the moment. If you rely on contents that make use of such feature, you are advised to stay on MTR 3 with the Nemo Transit Expansion Mod.
 
 ==== mtr_custom_resources.json Changes ====
 
