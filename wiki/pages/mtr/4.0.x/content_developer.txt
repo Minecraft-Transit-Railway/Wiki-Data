@@ -1,0 +1,14 @@
+===== MTR 4 for Custom Content/Trains Creator =====
+
+This page documents some of the migration steps needed when loading MTR 3 custom content in MTR 4.
+
+==== Javascript Scripting ====
+
+JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not implemented** at the moment. If you rely on contents that make use of such feature, you are advised to stay on MTR 3 with the Nemo Transit Expansion Mod.
+
+==== mtr_custom_resources.json Changes ====
+
+  * Train which uses a ''base_train_type'' but without providing ''texture_id'' no longer has base train's texture applied (Only transparent train with bogie & gangway)
+  * Train which does not specify a valid ''gangway_connection_id'' (Or does not have it) can no longer walk between gangways like they can in MTR 3
+  * When specifying built-in MTR barrier/gangway/vehicle texture, replace ''textures/entity'' to ''textures/barrier'', ''textures/gangway'' and ''textures/vehicle'' respectively.
+
