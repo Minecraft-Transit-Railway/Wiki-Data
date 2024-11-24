@@ -8,14 +8,16 @@ You can help the development of MTR 4 by contributing to such area.
 
   * BVE Sound breaks if player is outside loaded chunk (In per-car basis), where only a short period of sound is heard.
     * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
+  * Vehicle Sounds are played multiple times when using shaders (Tested with Iris **1.7.2+mc1.20.4**)
   * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
   * NTE Rail flipped to the other side after upgrading to MTR 4.
+  * BVE Sounds cannot override a sound with ''base_train_type''.
 
 ==== Unconfirmed issues/bugs ====
 
   * Can't get BVE Sound working with the legacy resource format? (To be investigated)
-  * MTR 4 will peak the CPU to 100% with certain CPU Model
-  * Elevator position will be off with certain mod combination
+  * MTR 4 will significantly raise the temperature of some CPU Model causing a bottleneck
+  * Elevator position is off on Minecraft 1.16.5
 
 ==== TODO ====
 
@@ -25,6 +27,20 @@ You can help the development of MTR 4 by contributing to such area.
   * Hide Route not working on System Map
   * Missing Ding Sound in Elevator
   * Single Arrival Vertical PIDS not implemented
+
+==== Shader Compatibility ====
+
+Some of the known problematic shaders are listed below:
+
+| **Shaders** | **Issues with MTR** |
+| Complementary Reimagined r5.3 | Vehicle headlight texture is opaque (White background surrounding headlights) |
+| Complementary Unbound r5.3 | ::: |
+| Aurora's Shaders | ::: |
+| Rethinking Voxels r0.1-beta-5 | ::: |
+| ::: |   |
+| Kappa v5.2 | Semi-transparent texture (i.e. Cyan Glass in SP1900) is washed out |
+| Photon v1.0a | Semi-transparent texture (i.e. Cyan Glass in SP1900) is completely opaque |
+| PotatoShaders v1.0d | ::: |
 
 ==== Other notes ====
 
