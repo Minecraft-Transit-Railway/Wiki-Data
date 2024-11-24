@@ -11,7 +11,7 @@ You can help the development of MTR 4 by contributing to such area.
   * Vehicle Sounds are played multiple times when using shaders (Tested with Iris **1.7.2+mc1.20.4**)
   * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
   * NTE Rail flipped to the other side after upgrading to MTR 4.
-  * BVE Sounds cannot override a sound with ''base_train_type''.
+  * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
 
 ==== Unconfirmed issues/bugs ====
 
