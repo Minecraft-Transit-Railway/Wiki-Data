@@ -8,20 +8,19 @@ You can help the development of MTR 4 by contributing to such area.
 
   * BVE Sound breaks if player is outside loaded chunk (In per-car basis), where only a short period of sound is heard.
     * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
-  * Vehicle Sounds are played multiple times when using shaders (Tested with Iris **1.7.2+mc1.20.4**)
+  * Vehicle Sounds are played multiple times when using shaders (Tested with **Iris 1.7.2+mc1.20.4**)
   * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
   * NTE Rail flipped to the other side after upgrading to MTR 4.
   * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
 
 ==== Unconfirmed issues/bugs ====
 
-  * Can't get BVE Sound working with the legacy resource format? (To be investigated)
   * MTR 4 will significantly raise the temperature of some CPU Model causing a bottleneck
   * Elevator position is off on Minecraft 1.16.5
 
 ==== TODO ====
 
-  * MTR System Map's Direction Pane is incomplete. (WIP in[[https://github.com/Minecraft-Transit-Railway/Transport-Simulation-Core/pull/6|#6]])
+  * MTR System Map's Direction Pane is incomplete.
   * Disable Next Station Announcement does not work
   * Re-implement Manual driving
   * Hide Route not working on System Map
