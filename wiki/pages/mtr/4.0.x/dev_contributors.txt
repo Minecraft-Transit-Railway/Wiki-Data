@@ -12,11 +12,20 @@ You can help the development of MTR 4 by contributing to such area.
   * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
   * NTE Rail flipped to the other side after upgrading to MTR 4.
   * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
+  * Elevator position is off on Minecraft 1.16.5
+  * Train always open door when stopped with PSD/Platform block, even if it's not in the route (Boardable)
+  * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
+
+
+==== QOL/Low Priority ====
+
+  * The model of the player riding train would shake, while the train render smoothly.
+  * Slight text jittering on Dashboard
 
 ==== Unconfirmed issues/bugs ====
 
+  * Train bogie will disappear/appear in wrong position when riding train
   * MTR 4 will significantly raise the temperature of some CPU Model causing a bottleneck
-  * Elevator position is off on Minecraft 1.16.5
 
 ==== TODO ====
 
