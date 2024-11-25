@@ -6,6 +6,7 @@ You can help the development of MTR 4 by contributing to such area.
 
 ==== Issues & Bugs ====
 
+  * Train will not render with Sodium in MC 1.19.4
   * BVE Sound breaks if player is outside loaded chunk (In per-car basis), where only a short period of sound is heard.
     * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
   * Vehicle Sounds are played multiple times when using shaders (Tested with **Iris 1.7.2+mc1.20.4**)
@@ -19,6 +20,8 @@ You can help the development of MTR 4 by contributing to such area.
 
 ==== QOL/Low Priority ====
 
+  * LRV Door Overlay animation not synced with the door
+  * Train announcement still gets played even when in-game sound volume is 0
   * The model of the player riding train would shake, while the train render smoothly.
   * Slight text jittering on Dashboard
 
