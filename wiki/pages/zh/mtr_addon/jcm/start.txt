@@ -1,18 +1,17 @@
-
 ====== Joban Client Mod ======
 
 <WRAP right>
 
 |  **Joban Client Mod**  ||
 |  {{ :mtr_addon:jcm:jcm_logo.png?200 }}//Logo of Joban Client Mod v2//  ||
-| **State**  | v1: Abandoned |
+| **状态**  | v1: Abandoned |
 | ::: | v2: Active Development |
-| **Creator** | [[mtr_community:contributors:lx862|LX86]] |
-| **Active contributors** | AozoraSky |
+| **创造者** | [[mtr_community:contributors:lx862|LX86]] |
+| **活跃的贡献者** | AozoraSky |
 | ::: | StrikeSNC |
 | ::: | 1081MTR |
-| **Git Repository (v2)** | [[https://github.com/DistrictOfJoban/JCM-Rewrite|GitHub]] |
-| **Modrinth Page** | [[https://modrinth.com/mod/jcm|Modrinth]] |
+| **Git 存储库 (v2)** | [[https://github.com/DistrictOfJoban/JCM-Rewrite|GitHub]] |
+| **Modrinth 页面** | [[https://modrinth.com/mod/jcm|Modrinth]] |
 
 </WRAP>
 
