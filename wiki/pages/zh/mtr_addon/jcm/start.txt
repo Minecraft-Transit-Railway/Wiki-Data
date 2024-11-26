@@ -30,11 +30,11 @@ Joban Client Mod 是一个 MTR 插件，添加了来自香港 MTR 的各种装�
 
 随着开发工作进入 v2，它不再被开发。
 
-===== Version 2.X =====
+===== 版本 2.X =====
 
-The Version 2 Series is a completely rewritten version of Joban Client Mod, with the version number starting from **v2.0.0**, with the hopes of being easier to maintain, add features, and be more lightweight.
+Version 2 系列是 Joban Client Mod 的完全重写版本，版本号从 **v2.0.0** 开始，希望更容易维护、添加功能、更轻量级。
 
-It is based on the rewritten version of the [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft Mappings]] project (Also used by MTR) to provide cross-version and modloader compatibility.
+它基于 [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft Mappings]] 项目（也被 MTR 使用）来提供跨版本和 Modloader 兼容性。
 
-A beta version is available on Modrinth and GitHub, albeit with some missing blocks & features. The official release date is targeted to be the same as [[mtr:4.0.x|MTR 4.0.0]] if time allows.
+在Modrinth和GitHub上有一个测试版，尽管有一些缺失的块和功能。如果时间允许，正式发布日期将与 [[mtr：4.0.x|MTR 4.0.0]] 相同。
 
