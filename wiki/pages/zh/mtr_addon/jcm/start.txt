@@ -17,11 +17,10 @@
 
 </WRAP>
 
-Joban Client Mod is an MTR Addon, adding various decoration blocks from the Hong Kong MTR.
+Joban Client Mod 是一个 MTR 插件，添加了来自香港 MTR 的各种装饰块。
 
-It is currently being maintained by the [[mtr_community:server:district_of_joban|The District of Joban]] Administration/Governor team.
-
-For the most up to date, and additional information regarding the content it provides, you may check the [[https://www.joban.org/wiki/JCM:Joban_Client_Mod_v2|Joban Client Mod wiki]].
+它目前由[[mtr_community:server:district_of_joban|The District of Joban]] 团队维护。
+有关其提供的内容的最新和其他信息，您可以查看[[https://www.joban.org/wiki/JCM:Joban_Client_Mod_v2|Joban Client Mod wiki]].
 
 ===== Version 1.X =====
 
