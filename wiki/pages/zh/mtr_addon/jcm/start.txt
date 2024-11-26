@@ -22,13 +22,13 @@ Joban Client Mod 是一个 MTR 插件，添加了来自香港 MTR 的各种装�
 它目前由[[mtr_community:server:district_of_joban|The District of Joban]] 团队维护。
 有关其提供的内容的最新和其他信息，您可以查看[[https://www.joban.org/wiki/JCM:Joban_Client_Mod_v2|Joban Client Mod wiki]].
 
-===== Version 1.X =====
+===== 版本1.X =====
 
-The Version 1 Series ranges from **v1.0.0** to **v1.2.2** with 22 feature/compatibility update release in between.
+版本 1 系列的范围从 **v1.0.0** 到 **v1.2.2**，中间有 22 个功能/兼容性更新版本。
 
-As of **v1.2.2**, it is based on Architectury and supports Minecraft Fabric/Forge 1.16.5 - 1.20.1.
+从 **v1.2.2** 开始，它基于 Architectury 并支持 Minecraft Fabric/Forge 1.16.5 - 1.20.1。
 
-It is no longer being developed as development work moves on to v2.
+随着开发工作进入 v2，它不再被开发。
 
 ===== Version 2.X =====
 
