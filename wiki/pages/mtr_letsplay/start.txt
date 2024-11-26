@@ -8,6 +8,7 @@ Since 2022, the server has amassed over 100 lines, a wide cast of builders, an H
 The longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 9 minutes and 3 seconds.
 )).
 
+The server has a special version of the resource pack, so be sure to read the [[mtr_letsplay:modpack|]] if you want to play the server!
 ===== Let's Play Pages =====
 
  <nspages -textPages="" -title -exclude>
