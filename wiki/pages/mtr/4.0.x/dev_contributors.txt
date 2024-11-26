@@ -16,21 +16,18 @@ You can help the development of MTR 4 by contributing to such area.
   * Elevator position is off on Minecraft 1.16.5
   * Train always open door when stopped with PSD/Platform block, even if it's not in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
-
+  * Train bogie will disappear/appear in wrong position when riding train
 
 ==== QOL/Low Priority ====
 
-  * LRV Door Overlay animation not synced with the door
   * Train announcement still gets played even when in-game sound volume is 0
   * The model of the player riding train would shake, while the train render smoothly.
-  * Slight text jittering on Dashboard
 
 ==== Unconfirmed issues/bugs ====
 
-  * Train bogie will disappear/appear in wrong position when riding train
   * MTR 4 will significantly raise the temperature of some CPU Model causing a bottleneck
 
-==== TODO ====
+==== Unimplemented Features ====
 
   * MTR System Map's Direction Pane is incomplete.
   * Disable Next Station Announcement does not work
@@ -41,12 +38,10 @@ You can help the development of MTR 4 by contributing to such area.
 
 ==== Shader Compatibility ====
 
-Some of the known problematic shaders are listed below:
+Some of the known problematic shaders are listed below (MTR 4.0.0 beta.13):
 
 | **Shaders** | **Issues with MTR** |
-| Complementary Reimagined r5.3 | Vehicle headlight texture is opaque (White background surrounding headlights) |
-| Complementary Unbound r5.3 | ::: |
-| Aurora's Shaders | ::: |
+| Aurora's Shaders | Vehicle headlight texture is opaque (White background surrounding headlights) |
 | Rethinking Voxels r0.1-beta-5 | ::: |
 | ::: |   |
 | Kappa v5.2 | Semi-transparent texture (i.e. Cyan Glass in SP1900) is washed out |
