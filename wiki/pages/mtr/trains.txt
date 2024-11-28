@@ -4,6 +4,8 @@
 
 
 
+
+
 # Trains
 
 As of version 3.0.0-beta-5 of the mod, trains can only be spawned on sidings. They will run according to schedules and instructions in the depot. Sidings must have a length based on the following equation:
@@ -63,7 +65,7 @@ There are currently eight different train types in the mod.
 | R211T | ![#D5D5D5](https://via.placeholder.com/16/D5D5D5/000000?text=+) #D5D5D5 | 19<br>9 (Mini) | `r211t`<br>`r211t_mini` | This is modelled after the New York Subway [R211](https://en.wikipedia.org/wiki/R211_(New_York_City_Subway_car)) subway cars manufactured by Kawasaki with walkthrough gangways. |
 | Class 802 (GWR) | ![#021E15](https://via.placeholder.com/16/021E15/000000?text=+) #021E15 | 24<br>18 (Mini) | `class_802_gwr`<br>`class_802_gwr_mini` | This is modelled after the [British Rail Class 802](https://en.wikipedia.org/wiki/British_Rail_Class_802) with the Great Western Railway livery manufactured by Hitachi Rail. |
 | Class 802 (TPE) | ![#00A6E6](https://via.placeholder.com/16/00A6E6/000000?text=+) #00A6E6 | 24<br>18 (Mini) | `class_802_tpe`<br>`class_802_tpe_mini` | This is modelled after the [British Rail Class 802](https://en.wikipedia.org/wiki/British_Rail_Class_802) with the TransPennine Express livery manufactured by Hitachi Rail. |
-| Minecart | ![#666666](https://via.placeholder.com/16/666666/000000?text=+) #666666 | 1 | `minecart` | Although they look visually similar, these are different from Minecraft [minecarts](https://minecraft.gamepedia.com/Minecart). |
+| Minecart | ![#666666](https://via.placeholder.com/16/666666/000000?text=+) #666666 | 1 | `minecart` | Although they look visually similar, these are different from Minecraft [minecarts](https://minecraft.wiki/w/Minecart). |
 
 </markdown>
 
@@ -74,6 +76,8 @@ The train doors will open if there are [[/platform_block|platform blocks]] linin
 To alight, simply walk off the train when the train doors are open. In the case of an emergency, the player may press and hold the dismount key (left shift by default), just like dismounting any other vehicle in Minecraft.
 
 <markdown>
+
+
 
 
 
