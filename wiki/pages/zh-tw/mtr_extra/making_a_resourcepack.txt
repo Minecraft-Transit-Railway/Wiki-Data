@@ -33,7 +33,9 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 </code>
 
 <WRAP center round info 90%>
+
 "pack_format"是指該資源包適用的 Minecraft 版本。如果您只添加MTR模型或材質，這並不重要。 \\ 但是，如果您覺得需要寫上數字，建議使用 8 或 9，因為它們分別對應版本 1.18 和 1.19。 \\ 如果一個資源包告訴您它“不相容”，請記住唯一改變的是這個數字，所以它實際上並不會說明太多。
+
 </WRAP>
 
   * 在''assets''資料夾裏新增一個叫''mtr''的資料夾。
@@ -109,13 +111,14 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 </WRAP>
 
 ==== 列車材質 ====
- - 下載一個支援透明度的影像編輯軟體。建議使用 Paint 3D 和 GIMP，因為它們都是免費且相對易於使用。 **不要**使用 MS Paint，因為它**不**支援透明度，並且會導致材質的所有透明部分變成白色
- - 前往 [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle]] 並下載你要編輯的材質
- - 開啟影像編輯軟體，找到要編輯的紋理，然後開啟它並開始進行編輯
- - 完成後，將材質檔案作為 PNG 匯出到資源包中，並將其放入適當的資料夾中（如果您不確定如何製作資源包或應儲存在哪裏，請重新閱讀上面有關製作資源包的部分）
- - 依照所有正確的步驟建立資源包，如上所示。
- - 確保您使用正確的基礎列車類型。這些類型現在可以在 github 上找到，因為模型檔案具有相同的名稱，但將來，這個 wiki 上將會有一個頁面。
- - 將其放入您的資源包資料夾中並套用該資源包。
+
+  * 下載一個支援透明度的影像編輯軟體。建議使用 Paint 3D 和 GIMP，因為它們都是免費且相對易於使用。 **不要**使用 MS Paint，因為它**不**支援透明度，並且會導致材質的所有透明部分變成白色。
+  * 前往 [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle]] 並下載你要編輯的材質。
+  * 開啟影像編輯軟體，找到要編輯的紋理，然後開啟它並開始進行編輯。
+  * 完成後，將材質檔案作為 PNG 匯出到資源包中，並將其放入適當的資料夾中（如果您不確定如何製作資源包或應儲存在哪裏，請重新閱讀上面有關製作資源包的部分）。
+  * 依照所有正確的步驟建立資源包，如上所示。
+  * 確保您使用正確的基礎列車類型。這些類型現在可以在 github 上找到，因為模型檔案具有相同的名稱，但將來，這個 wiki 上將會有一個頁面。
+  * 將其放入您的資源包資料夾中並套用該資源包。
 
 <WRAP center round tip 90%>
 
