@@ -1,0 +1,152 @@
+FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
+
+====== 製作資源包 ======
+
+本條目將指導您如何設定文件結構來製作資源包。
+
+需求: Windows 10 21H1 或以上。
+
+<WRAP center round important 90%>
+
+**我們建議您觀看 Jonathan 上傳關於此主題的教學影片：[[https://www.youtube.com/watch?v=QH1O-y6kPSk]]**
+
+</WRAP>
+
+===== 指南 =====
+
+==== 資料夾結構 ====
+
+  - 前往您的 //.minecraft// 資料夾。 {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}} 
+  - 然後尋找 //resourcepacks// 資料夾。 {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
+  - 使用您想要的名稱建立一個資料夾（例如：My custom M-Train） {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+  - 建立一個叫''assets''的資料夾，並將上一步創建的資料夾放進這個資料夾裏. 
+  - 上傳一張 pack.png 到您的資料夾裏。這張圖片會在選擇資源包的畫面裏出現，並且應該是128*128。
+  - 下載此範本 pack.mcmeta 並將其放入您的資源包資料夾中：
+
+<code json pack.mcmeta>
+{
+    "pack": {
+        "description": "在此輸入您的資源包的描述文字",
+        "pack_format": 9,
+    }
+}
+</code>
+
+<WRAP center round info 90%>
+"pack_format"是指該資源包適用的 Minecraft 版本。如果您只添加MTR模型或材質，這並不重要。 \\ 但是，如果您覺得需要寫上數字，建議使用 8 或 9，因為它們分別對應版本 1.18 和 1.19。 \\ 如果一個資源包告訴您它“不相容”，請記住唯一改變的是這個數字，所以它實際上並不會說明太多。
+</WRAP>
+
+  * 在''assets''資料夾裏新增一個叫''mtr''的資料夾。
+  * 創建一個叫''mtr_custom_resources.json''的文件。
+
+==== JSON 文件 ====
+
+要格式化 JSON 文件，只需複製、貼上和編輯下面的一些值。主要代碼在這裏：
+
+如果你只需新增一款列車:
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "My Custom Train Name",
+			"color": "#66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+如果你需要新增多款列車:
+
+<code json mtr_custom_resources.json>
+{
+	"custom_trains": {
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		},
+		
+		"{Base_Train_Name_here}": {
+			"name": "Another train name here",
+			"color": "66CCFF",
+			"base_train_type": "sp1900",
+			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+
+		}
+	}
+}
+</code>
+
+<WRAP center round important 90%>
+
+請記得**永遠不要**在檔案名稱或資源包內的 ID 中使用大寫字母。使用它們通常會導致 Minecraft 忽略它並使用預設值。
+
+</WRAP>
+
+<WRAP center round tip 90%>
+
+如需更多協助，您可以瀏覽GitHub裏的維基： [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
+
+</WRAP>
+
+<WRAP center round box 60%>
+
+**JSON 講解:**
+
+  *  ** "name":**    該列車在列車選擇器中顯示的名稱。
+  *  **"color":**    該列車在列車選擇器中顯示的名稱左邊的方格的顔色。
+  *  **"base_train_type":**    將套用該材質的模型的名稱。
+  *  **"texture_id":**    材質ID。
+
+**該長這個樣子:** {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?200&nolink }}
+
+</WRAP>
+
+==== 列車材質 ====
+ - 下載一個支援透明度的影像編輯軟體。建議使用 Paint 3D 和 GIMP，因為它們都是免費且相對易於使用。 **不要**使用 MS Paint，因為它**不**支援透明度，並且會導致材質的所有透明部分變成白色
+ - 前往 [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle]] 並下載你要編輯的材質
+ - 開啟影像編輯軟體，找到要編輯的紋理，然後開啟它並開始進行編輯
+ - 完成後，將材質檔案作為 PNG 匯出到資源包中，並將其放入適當的資料夾中（如果您不確定如何製作資源包或應儲存在哪裏，請重新閱讀上面有關製作資源包的部分）
+ - 依照所有正確的步驟建立資源包，如上所示。
+ - 確保您使用正確的基礎列車類型。這些類型現在可以在 github 上找到，因為模型檔案具有相同的名稱，但將來，這個 wiki 上將會有一個頁面。
+ - 將其放入您的資源包資料夾中並套用該資源包。
+
+<WRAP center round tip 90%>
+
+您也可以使用 blockbench 來設計列車塗裝！但是，為此您還必須先從以下鏈接下載列車的 bbmodel 檔案： \\  [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle]]
+
+</WRAP>
+
+您已經學會所有基礎知識了！
+
+<WRAP center round box 60%>
+
+範例資源包可以從下面下載：
+
+<WRAP center round download 60%>
+
+[[https://bit.ly/MtrExampleLink]]
+
+</WRAP>
+
+</WRAP>
+
+==== 音訊檔案 ====
+
+  * 下載Audacity。是可選的，但如果您想自己錄製聲音，它會更容易。
+  * 錄製任何聲音文件，或從外部來源下載一個音訊檔案。確保其格式為 .ogg 且檔案名稱不包含任何大寫字母。
+
+<WRAP center round info 90%>
+
+您希望聲音在玩家的耳朵中播放或從播放聲音的來源播放嗎？確保您的聲音檔案是**立體聲**（從玩家的耳朵）或**單聲道**（從聲音來源）。這可以在 Audacity 中更改。
+
+</WRAP>
+
+  * 返回資源包內的''mtr''資料夾，並在其中建立一個名為''sounds''的新資料夾，然後貼上聲音檔案。
+
