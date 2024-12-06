@@ -3,7 +3,7 @@ Waiting to fix **This page has not been fully translated请帮助翻译本页。
 ====== Spawn Grand Circular ======
 //Under production// **Spawn Grand Circular**
 
-| @#0CAF35:<color black>Spawn Grand Circular</color> |
+The Spawn Grand Circular is a subway loop on the Let's Play server, and is the oldest subway line on the server.
 
 <WRAP right>
 
