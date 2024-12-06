@@ -4,7 +4,7 @@
 
 服务器建设工作发展迅速。自2022年以来，[[mtr_letsplay:start|Let's Play 服务器]] 已有超过 100 条铁路线路，及连接了 [[/Spawn|重生区]], [[zh:mtr_letsplay:llanmara|湾堡城]], [[kallos|丽湾]] 和 [[yankton|杨克顿]] 等的高速铁路网络。线网单程最长耗时不超过 75 分钟。((车站之间最长行车时间为城际捷运-斜角线从重生区高铁一号客运大楼往永春，用时约9分3秒))
 
-服务器有专门的版本资源包，如需游玩服务器，务必阅读[[zh:mtr_letsplay:modpack|]]
+服务器有专门的版本资源包，如需游玩服务器，请务必阅读[[zh:mtr_letsplay:modpack|]]
 ===== Let's Play 服务器相关文章 =====
 
 <nspages -textPages="" -title -exclude>
