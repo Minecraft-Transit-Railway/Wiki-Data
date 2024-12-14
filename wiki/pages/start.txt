@@ -1,4 +1,3 @@
-
 Welcome to the MTR wiki!
 
 ===== Minecraft Transit Railway =====
@@ -6,7 +5,7 @@ Welcome to the MTR wiki!
   * [[mtr:start|Minecraft Transit Railway]] - Information about the mod itself
 
 
-===== Extra Content =====
+===== Extra Content for You =====
 
   * [[mtr_extra:start|Resource Packs]] - Introduction about resource packs for MTR
   * [[mtr_extra:making_a_resourcepack|Making a Resource Pack]] - How to make a resource pack
