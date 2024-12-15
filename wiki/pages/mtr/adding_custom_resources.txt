@@ -19,6 +19,10 @@ To add texture variants, the ''custom_trains'' JSON object should be added to ''
 <markdown>
 
 
+
+
+
+
 | Key | Data Type | Description | Required? | Default value if not specified | Notes |
 | --- | --- | --- | --- |
 | `name` | String | The name to be shown on [dashboards](https://wiki.minecrafttransitrailway.com/mtr:dashboards) when selecting trains for a route | Required| N/A ||
@@ -56,7 +60,7 @@ An example is shown below.
 
 ## Adding New Railway Sign Textures or Text
 
-To add new [railway signs](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Railway-Sign) textures or text, the `custom_signs` JSON object should be added to `mtr_custom_resouces.json`. Each JSON object under `custom_signs`, representing a new sign, should have a unique key and serveral required entries.
+To add new [railway signs](https://wiki.minecrafttransitrailway.com/mtr:railway_sign) textures or text, the `custom_signs` JSON object should be added to `mtr_custom_resouces.json`. Each JSON object under `custom_signs`, representing a new sign, should have a unique key and serveral required entries.
 
 | Key | Data Type | Description | Required? |
 | --- | --- | --- | --- |
@@ -94,6 +98,10 @@ This section is currently unwritten.
 </WRAP>
 
 <markdown>
+
+
+
+
 
 
 
