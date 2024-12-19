@@ -42,7 +42,7 @@ The table below shows the expected calling pattern once the line has linked, and
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
 | Liskeard International | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]], & [[Liskeard International]] |
-| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]],  [[Einsburg West]], [[Einsburg Central]] then //Einsburg East → Reston → Ilford Island → (Limited cont.) Kirkenkessie Gateway // or //→ Reston → Ilford Parkway → Marylebone →(Limited cont.) Sandy Palace → Denthrope Hbf// |
+| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]],  [[Einsburg West]], [[Einsburg Central]] then //Einsburg East → Reston → Ilford Island → (Limited cont.) Kirkenkessie Gateway // or //→ Reston → Ilford Parkway → Marylebone →(Limited cont.) Sandy Palace → Denthrope Hbf// |
 | Route In Planning | XC03 | Information Unavailable,  |
 | Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Kangchon], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
 | Walsall | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]], [[Walsall]]|
