@@ -17,7 +17,7 @@
 
 </WRAP>
 
-CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:staff:soodari|Soodari]], who operates the South Western Region services. Currently being built, it provides intercity and regional train services Portsmouth and the South West to destinations including Danielston Memorial, Liskeard Central, Einsburg Central, Ilford Island, and Marylebone.
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:staff:soodari|Soodari]], who operates the South Western Region services. Currently being built, it provides intercity and regional train services from Portsmouth and the South West to destinations including Danielston Memorial, Liskeard Central, Einsburg Central, Ilford Island, and Marylebone.
 
 ==== Fleet ====
 
