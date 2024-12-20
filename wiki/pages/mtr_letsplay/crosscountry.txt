@@ -33,7 +33,7 @@ Add Content Here
 
 ===== Current Services =====
 
-CrossCountry currently operates 4 principal services. In the North West, it operates between Kirkenkessie Gateway and Einsburg West, via Reston Intermodal, as well as from Marylebone to Denthrope Hauptbahnhof direct. South Western services operate from Portsmouth, where they are expected to extend further southwards, to Rikkashi Yongchun, via Gapyeong and Junee stations.
+CrossCountry currently operates 4 principal services. XC01, XC02a, XC02b, and XC11. XC03 is reserved for a future route, whilst XC02 is split into a & b dependent on northern termini. All services operating north of Yongchun must be formed of IET stock, and no Class 170s are currently used on diagrams apart from XC11.
 
 The table below shows the standard calling patterns for CrossCountry Trains services. The majority of services start from Portsmouth, but some also begin from Yongchun. Full through services commenced on 20/12/24
 
