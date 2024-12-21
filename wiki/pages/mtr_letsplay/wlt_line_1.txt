@@ -120,9 +120,9 @@ Because of the small turn radius((
 A lot of turns with radius less than 250m from Birch Hill station till Chik Shek Wan station
 )) in some sections in West Lake Area, Line 1 (Meyan Line) is never planning to run 25m 5-door trains. 21m 4-door trains are used as a balance of passengers load and ability to run on relatively small turn radius sections.
 
-Currently 36 sets of SP1900 Trains are available for use. A plan to install on-train passengers information system was announced, and first decided to get reference from the MTR dynamic route map or Shenzhen Metro passenger information system above each door, but switched to utilize the TV as it allows larger font size, more information and tidier layouts. However, the plan was on halt due to technical issues. 
+Currently 38 sets of SP1900 Trains are available for use. A plan to install on-train passengers information system was announced, and first decided to get reference from the MTR dynamic route map or Shenzhen Metro passenger information system above each door, but switched to utilize the TV as it allows larger font size, more information and tidier layouts. However, the plan was on halt due to technical issues. 
 
-There are also 3 MLR Trains, but they seldom carry passengers as they don't have regenerative brake. They will start service after [[/start|the server]] updates to 4.x.x version of MTR mod when trains can decelerate slower than acceleration rate. 
+There are also 3 MLR Trains, but they seldom carry passengers as they don't have regenerative brake and thus lower energy efficiency. They will only start regular service after [[/start|the server]] updates to 4.x.x version of MTR mod when trains can decelerate slower than acceleration rate. 
 
 8 additional sets of SP1900 Trains will be added for the Mei Foo Wan branch, they will start service after the remaining section of Line 1 (Meyan Line) from Tai Po to Yanjiang Mineshaft is open, making the whole fleet up to a total of 49 sets of trains. 
 
