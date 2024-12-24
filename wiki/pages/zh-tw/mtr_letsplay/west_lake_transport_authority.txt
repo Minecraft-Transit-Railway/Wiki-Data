@@ -18,7 +18,7 @@
 ==== 未來發展 ====
 
   * [[/west_lake_duck|西湖鴨子]]  
-  * [[/wlt_line_3|三號 (青灰) 綫]]
+  * [[mtr_letsplay:wlt_line_3|三號 (青灰) 綫 (英文版)]]
 
 ===== 物業 =====
   * [[/kwong_chow_grand_canal|光州大運河及水鄉]]
