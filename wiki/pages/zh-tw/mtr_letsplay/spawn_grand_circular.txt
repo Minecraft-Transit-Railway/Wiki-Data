@@ -2,7 +2,7 @@
 
 //正在製作// 
 
-| @#0CAF35:<color black>Spawn Grand Circular</color> |
+重生大循環是Let's Play服務器裏的一條地鐵環線，也是服務器裏最老舊的地鐵線路。
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?400|}}||
 ^  **概述**  |^
