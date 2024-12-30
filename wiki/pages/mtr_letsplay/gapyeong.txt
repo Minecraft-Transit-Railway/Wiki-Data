@@ -1,4 +1,4 @@
-====== Gapyeong Station ======
+====== Gapyeong (New Street) Station ======
 
 <WRAP right>
 
@@ -9,12 +9,14 @@
 | @#0063D3: ||
 | @#3C78D8: ||
 | @#14B9DE: ||
+| @#375E14: ||
 |  {{ :mtr_community:gapyeong.png?300 }}//Station Overview//  ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:gyeongchun_railway|Gyeongchun Railway]] |
 | ::: | [[mtr_letsplay:origin_railway|Origin Railway]] |
 | ::: | [[mtr_letsplay:mrw|Moszyan Railways]] |
 | ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
+| ::: | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
 | **Lines** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] |
 | ::: | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] |
 | ::: | [[mtr_letsplay:riverinaline|Riverina Intercity]] |
@@ -22,7 +24,8 @@
 | ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
 | ::: | [[mtr_letsplay:mount_birch_line|Mount Birch Line]] |
 | ::: | [[mtr_letsplay:nami_island_ferry|Nami Island Ferry]] |
-| **Owners** | [[mtr_community:builders:soodari|Soodari]] |
+| ::: | [[mtr_letsplay:snowie_line|Snowie Line]] |
+| **Owners** | [[mtr_community:staff:soodari|Soodari]] |
 | **Region** | [[mtr_letsplay:gapyeong_region|Gapyeong]] |
 | **Platforms** | 14 |
 | **Tracks** | 14 |
@@ -45,7 +48,7 @@
 
 </WRAP>
 
-**Gapyeong Station** (//Chinese: 加平站//) is the main train station in the Gapyeong region, and it is made with a motif of real [[wp>Gapyeong station|Gapyeong station]].
+**Gapyeong New Street Station** (//Chinese: 加平站//)(old English name: Gapyeong Station) is the main train station in the Gapyeong region, and it is made with a motif of real [[wp>Gapyeong station|Gapyeong station]].
 There's the Terrralith Desert Village, a cafe, and the unused parkour building near station, and people can catch a ferry to Nami Island.
 
 ===== History =====
@@ -57,6 +60,8 @@ Later, Riverina Express (now owned by [[mtr_letsplay:mrw|Moszyan Railway]]) ente
 In order to increase track capacity and reduce train delays, operator thought it was necessary to separate the platforms of long-distance and intercity trains from commuter train platforms, so new underground platform built in 2024.
 
 After moving the platform of a long-distance train, the two platforms on the ground and two underground platforms are empty now, but trains that take turns at Gapyeong Station or trains with Gapyeong Station as their last stop can use them in the future.
+
+The name is changed from Gapyeong Station to Gapyeong New Street Station, however it can still be identified as Gapyeong.
 
 ===== Layout =====
 
@@ -91,7 +96,7 @@ After moving the platform of a long-distance train, the two platforms on the gro
 | ::: | Platform **11** | [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:yongchun|Rikkashi Yongchun]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **12** | <- [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]]/[[mtr_letsplay:portsmouth|Portsmouth]] |
-| ::: | Platform **13** | Platform Not In use ->  |
+| ::: | Platform **13** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] ->  |
 | ::: |   Island Platform   ||
 | ::: | Platform **14** | <- Platform Not In use |
 </WRAP>
