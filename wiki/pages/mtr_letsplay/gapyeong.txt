@@ -101,5 +101,5 @@ The name is changed from Gapyeong Station to Gapyeong New Street Station, howeve
 | ::: | Platform **12** | <- [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]]/[[mtr_letsplay:portsmouth|Portsmouth]] |
 | ::: | Platform **13** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] ->  |
 | ::: |   Island Platform   ||
-| ::: | Platform **14** | [[mtr_letsplay:snowie_line|Snowie Line (Shuttle)]] to [[mtr_letsplay:gapyeong_east_station|Gapyeong East]] / [[mtr_letsplay:ktt|KTT]] to [[mtr_letsplay:cheri_island_station|Cheri Island]] -> -> |
+| ::: | Platform **14** | [[mtr_letsplay:snowie_line|Snowie Line (Shuttle)]] to [[mtr_letsplay:gapyeong_east_station|Gapyeong East]] / [[mtr_letsplay:ktt|KTT]] to [[mtr_letsplay:cheri_island_station|Cheri Island]] -> |
 </WRAP>
