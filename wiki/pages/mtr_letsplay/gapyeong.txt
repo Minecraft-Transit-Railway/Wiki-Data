@@ -91,8 +91,8 @@ The name is changed from Gapyeong Station to Gapyeong New Street Station, howeve
 | **B2** | @#37B366: **[[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] Platforms** ||
 | ::: | @#FFC917: **[[mtr_letsplay:riverinaline|Riverina Intercity]] Platforms** ||
 | ::: | @#AE0D3F: **[[mtr_letsplay:crosscountry|CrossCountry]] <color #ffffff>Platforms</color>** ||
-| ::: | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
-| ::: | @#FF98F2: **[[mtr_letsplay:ktt|KTT]] Platforms** ||
+| ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
+| ::: | @#5499A4: **[[mtr_letsplay:ktt|KTT]] Platforms** ||
 | ::: | Platform **9** | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **10** | <- [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:yongsan|Yongsan]] |
