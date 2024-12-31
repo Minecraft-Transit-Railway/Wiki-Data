@@ -1,0 +1,55 @@
+====== Yankton Metro ======
+
+<WRAP 400px right>
+
+|  @#0F84DE:  **Yankton Metro / Stronger Complex Transit Network 
+(YNM/SLC)**  ||
+|  @#0F84DE:  **楊克頓地鐵 / 強壯综合交通**  ||
+|  ||
+|  Logo of Yankton Metro (will be added later).  ||
+|  @#0F84DE:  **Overview**  ||
+| **Locale**  | [[mtr_letsplay:start|Let's Play Server]]  |
+| **Transit Type**  | [[wp>heavy_rail|Heavy Rail]]  |
+| ::: | [[wp>light_rail|LRT/APM]]  |
+| ::: | [[wp>Bus_rapid_transit|BRT]]  |
+| **Number of lines**  | Heavy Rail: 5  |
+| ::: | BRT: 1  |
+| **Number of stations**  | Heavy Rail: 23  |
+| ::: | Bus transit: 14  |
+| **Daily ridership**  | 7002  |
+| **Owner (s)** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
+| **Real-life / fictional basis** | [[wp>mtr|Mass Transit Railway]] |
+| **Corperate colour scheme** |  @#0FBFE4: **#0FBFE4** **//Blue//**  |
+| ::: |  @#FFF0C6: **#FFF0C6** **//WR Yellow//**  |
+|  @#0F84DE:  **Operation**  ||
+| **Began operation**  | August 2022  |
+| **Operator(s)**  | StrongerLock  |
+| **Served Area**  | Yankton |
+| ::: | Los Cham  |
+| ::: | Jacaranda  |
+| ::: | Spawn  |
+
+</WRAP>
+
+**Yankton Metro / Stronger Complex Transit Network** <sub>(aka YNM/SLC, 楊克頓地鐵 / 強壯综合交通)</sub> is a fictional railway company in Let's Play server, and was established on the 22th August 2022. Managed by [[mtr_community:builders:strongerlock|Stronger Lock]], one of the builders and ex-staff member.
+
+== Services Operated ==
+
+=== [[mtr_letsplay:snowie_line|Snowie Line]] ===
+
+=== [[mtr_letsplay:snowtral_line|Snowtral Line]] ===
+
+=== [[mtr_letsplay:wanton_line|Wanton Line]] ===
+
+=== Shirakawa Line ===
+
+=== Los Sants Line ===
+
+=== Yankton HSR APM ===
+
+=== SLCBus services (4S) ===
+
+=== Divillage Island LRT 55R ===
+
+[[/Category:Let's_Play|Category:Let's Play]]
+
