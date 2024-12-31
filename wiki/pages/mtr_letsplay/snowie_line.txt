@@ -49,7 +49,7 @@
 | **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
 | **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
 ^  Route Map  |^
-|  {{/line1_p1.png?422}}  ||
+|  added soon  ||
 
 </WRAP>
 
@@ -72,7 +72,7 @@ Trains are all serving between Eden and Gapyeong.
 <WRAP center>
 
 ^  Average Train Intervals (in mins)((May get up to 10/15/20 mins near first  and last train))  |||^
-|  @#EB7AE9:  ||||
+|  @#375E14:  ||||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |||
 | ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
 |  5 am - 9 am  |  2.5 / 5.5  |  8  |  8  |
