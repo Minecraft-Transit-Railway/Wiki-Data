@@ -61,12 +61,12 @@ Trains are all serving between Eden and Gapyeong.
 
 ^  Average Train Intervals (in mins)((May get up to 10/15/20 mins near first  and last train))  |||^
 |  @#375E14:  ||||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |||
-| ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Snowie Line**\\ **(+run-through trains)**  |||
+| ::: |  Eden - Gapyeong  |  Mcflurry - Yu Tei  |  Gapyeong East - Gapyeong  |
 |  4:30 am - 7 am  |  2.5 / 5.5  |  8  |  8  |
 |  7 am - 10 am  |  2.5 / 5.5  |  8  |  8  |
-|  10 am - 3 pm  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
-|  3 pm - 5 pm  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
+|  10 am - 3 pm  |  1.8 - 3.2  |  5 - 5.8  |
+|  3 pm - 5 pm  |  1.8 - 3.2  |  5 - 5.8  |
 |  5 pm - 9 pm  |  1.0 - 2.2  |  3.2  |  2.6 - 3.8  |
 |  9 pm - 1 am  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
 |  1 am - 2:30 am  |  2.5 / 5.5  |  8  |  8  |
