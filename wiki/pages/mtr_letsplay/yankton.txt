@@ -77,7 +77,7 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 | ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:divillage_island_station|Divillage Island]] |
-| ::: | Platform **3** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] -> |
+| ::: | Platform **3** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:gapyeong_station|Gapyeong (New Street)]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **4** | <- [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:southorn_station|Southorn]] |
 | **U4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
