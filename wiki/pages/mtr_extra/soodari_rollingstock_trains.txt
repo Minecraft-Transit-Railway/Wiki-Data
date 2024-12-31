@@ -1,0 +1,41 @@
+====== Soodari Rollingstock Trains ======
+
+<WRAP right>
+
+
+|  @#0054a6:  <color white>**Soodari Rollingstock Trains Resourcepacks**</color>  ||
+| Photo TBD ||
+^   **Informations**   ^^
+| **Creator** | [[mtr_community:staff:soodari]] |
+| **List of Contents** | [[https://docs.google.com/spreadsheets/d/1XJpXZ-VPmx4jfB2KUZq_S01TyVW_mByzDf4e8KK-RK0/edit?gid=0#gid=0|Spreadsheet]] |
+| **Download Page** | [[https://modrinth.com/user/Soodari|Modrinth Page]] |
+| **NTE Required** | Partial |
+| **MTR4 Compatibility** | Partial |
+
+</WRAP>
+
+Soodari Rollingstock Trains Resourcepack is a collection of [[mtr_extra:start|Resource Packs]] produced for [[mtr:start|Minecraft Transit Railway]] by Soodari, which began its released in the first half of 2023. Most trains in these RPs use the obj model, but initially started as a retexture for [[mtr:trains|existing trains]].
+
+===== History =====
+
+Since the second quarter of 2023, I have been releasing the obj model mainly, and I converted my models that originally used in other mod in the beginning, from the second half of 2023, there are more cases of making new models for this mod exclusively.
+
+I've been uploading most RPs to modrinth since the [[https://addons.minecrafttransitrailway.com/#/|MTR Contents DB Pag]]e opened and the existing discord's community works channel went down. Some RPs haven't been uploaded to modrinth yet so I didn't delete onedrive download centre.
+
+Starting Q4 2024, RP's MTR4-compatibility conversion work began. 
+This can take some time due to the need for model renovation ,cleanup and editing Json stuff.
+
+===== Features =====
+
+These resourcepacks mainly deals with trains from the Asia-Pacific region, but can also find trains from some European and other continents.
+
+Since most trains and structures use obj and capacity is quite large, it is recommended to modify JVM Arguments before RP installation. (Allocate 4~6GB or more is recommended)
+
+===== Let's Play Server Uses =====
+
+Trains and structures of this Resourcepack are in use on some lines of the [[mtr_letsplay:start|Let's Play Server]]. Most of them can be seen in the southwestern region, but a double decker tram can be found in [[mtr_letsplay:llanmara|Llanmara]].
+
+===== Trivia =====
+
+Work In Progress
+
