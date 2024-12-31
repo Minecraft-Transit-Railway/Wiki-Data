@@ -1,5 +1,9 @@
 ====== Moszyan Railways ======
 
+<WRAP round important 60%>
+Attention! In 2025, at the completion of the Western Mainline as projected, a new schedule will start for all Moszyan Railways railway services. To know what this means for you, keep a good eye on the Moszyan Railways line information thread on the discord server.
+</WRAP>
+
 <WRAP right>
 |  @#B0B0BE: **Moszyan Railways**  ||
 | {{:mtr_community:mosyzan_logo.png?250}} ||
@@ -9,7 +13,7 @@
 | Mayrowe-Anemone, Centralia ||
 | **Transit type** | Railway Transport |
 | **Train models** | 9 |
-| **Active lines** | 4 |
+| **Active lines** | 5 |
 </WRAP>
 
 ===== Info =====
@@ -19,10 +23,11 @@
 ===== Services =====
 
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  @#CC3733: **Bus** (393)  |  Operational  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
 |  @#BEEDFF: **Metro**\\ (Starlight Line)  |  Partially Operational  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  @#0063D3: **Sprinter**  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
-|  @#0063D3: **Sprinter**  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
-|  @#FFC917: **Intercity**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+|  @#0063D3: **Sprinter**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+|  @#FFC917: **Intercity**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]\\ //<< [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]//  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
 
 ===== Lines =====
 
@@ -33,8 +38,8 @@
 |  [[mtr_letsplay:westernmainline|Western Mainline]]  |  Partially Operational  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |
 
 ===== Fleet =====
-
-|  @#B0B0BE:**Train Class**  |  @#B0B0BE:**Train Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
+|  @#B0B0BE:**Vehicle Class**  |  @#B0B0BE:**Vehicle Model**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
+|       |  VDL Citea LLE-120  |  RNET Bus 393  |  Leeton Bus Shed  |
 |  NLRT  |  LIGHTACE 1999T  |    |    |
 |  GNUS  |  BVG Class H  |    |    |
 |  AM7  |  Amsterdam M7  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Rykkam Siding  |
