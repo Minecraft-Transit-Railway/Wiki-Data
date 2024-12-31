@@ -18,12 +18,12 @@ Soodari Rollingstock Trains Resourcepack is a collection of [[mtr_extra:start|Re
 
 ===== History =====
 
-Since the second quarter of 2023, I have been releasing the obj model mainly, and I converted my models that originally used in other mod in the beginning, from the second half of 2023, there are more cases of making new models for this mod exclusively.
+Since the second quarter of 2023, Soodari have been releasing the obj model mainly, and Soodari converted his models that originally used in other mod in the beginning, from the second half of 2023, there are more cases of making new models for this mod exclusively.
 
-I've been uploading most RPs to modrinth since the [[https://addons.minecrafttransitrailway.com/#/|MTR Contents DB Pag]]e opened and the existing discord's community works channel went down. Some RPs haven't been uploaded to modrinth yet so I didn't delete onedrive download centre.
+Soodari have been uploading most RPs to modrinth since the [[https://addons.minecrafttransitrailway.com/#/|MTR Contents DB Pag]]e opened and the existing discord's community works channel went down. Some RPs haven't been uploaded to modrinth yet so [[https://1drv.ms/f/c/d1eb72ccedcc8232/EjKCzO3McusggNG1AgAAAAAB7ccxNOTE_E0Gu5vhX6RNKQ?e=yRkLLi|onedrive download centre]] is still exist for non-released resourcepacks in modrinth.
 
 Starting Q4 2024, RP's MTR4-compatibility conversion work began. 
-This can take some time due to the need for model renovation ,cleanup and editing Json stuff.
+This can take some time due to the need for model renovation ,cleanup and editing json stuff.
 
 ===== Features =====
 
