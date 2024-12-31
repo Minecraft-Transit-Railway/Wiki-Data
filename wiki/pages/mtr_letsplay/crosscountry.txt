@@ -42,9 +42,9 @@ The table below shows the standard calling patterns for CrossCountry Trains serv
 |  @#EFEEF0:**Service Patterns**  |||
 |  **Termini**  |  **Route**  |  **Calling at**  |
 | Liskeard International | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong New Street]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]], & [[Liskeard International]]. Trains starting or terminating at //Yongchun// call additionally at //Paradise Fall SA//. |
-| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong New Street]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]],  [[Einsburg West]], [[Einsburg Central]], Reston then either //Woolwich → Ilford Island → Kirkenkessie Gateway // **or** // Woolwich → Marylebone → Sandy Palace → Denthrope Hbf//. Services starting/ending at //Yongchun// to/from //Denthrope Hbf//, & services starting/ending at //Portsmouth// to/from //Kirkenkessie Gateway// call additionally at //Einsburg East//.  |
+| Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong New Street]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], Paradise Fall SA, [[Hikariyama]], [[Acacialand Village]],  [[Einsburg West]], [[Einsburg Central]], Reston then either //Woolwich → Ilford Island → Kirkenkessie Gateway // **or** // Woolwich → Marylebone → Sandy Palace → Denthrope Hbf//. Services starting/ending at //Yongchun// to/from //Denthrope Hbf//, & services starting/ending at //Portsmouth// to/from //Kirkenkessie Gateway// call additionally at //Einsburg East//.  |
 | Route In Planning | XC03 | Information Unavailable,  |
-| Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Kangchon], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
+| Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
 | Walsall | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]], [[Walsall]]|
 </WRAP>
 
