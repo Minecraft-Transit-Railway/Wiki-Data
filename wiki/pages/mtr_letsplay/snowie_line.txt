@@ -13,25 +13,13 @@
 | **Locale** | Eden\\ Yankton\\ Montpelier\\ Aloha Zone\\ Gapyeong |
 | **Termini** | [[/eden_station|Eden]] / [[/gapyeong|Gapyeong (New Street)]]|
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
-| ::: | @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]] (WIP) |
-| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] (WIP)</color> |
-| ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (WIP) |
-| ::: | @#055214:<color white>Resort Ferries</color> |
-| ::: | @#D3A80A:<color white>[[/lilac_light_rail|Lilac Light Rail]] (WIP)</color> |
-| ::: | @#E41A56:<color white>Oculink Red Line (WIP)</color> |
-| ::: | @#22A046:<color white>Metro Marble Line</color> |
-| ::: | @#389165:<color white>Hillside Line</color> |
-| ::: | @#72B24A:Light Rail Metro |
-| ::: | @#0032B6:<color white>BCT Blue Line</color> |
-| ::: | @#7BACF6:Shinx Line |
-| ::: | @#9C5E31:<color white>Furret Line</color> |
-| ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
-| ::: | @#7090FF:<color white>[[/cyanex|Sightseeing Local Line]]</color> |
-| ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
-| ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
-| ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
-| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
-| ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
+| ::: | [[mtr_letsplay:snowtral_line|Snowtral Line]] |
+| ::: | [[mtr_letsplay:wanton_line|Wanton Line]] |
+| ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
+| ::: | [[mtr_letsplay:south_continental_line|South Continental Line]] |
+| ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] |
+| ::: | [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] |
+| ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
 | **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
