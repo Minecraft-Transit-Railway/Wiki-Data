@@ -65,12 +65,12 @@ Trains are all serving between Eden and Gapyeong.
 | ::: |  Eden - Gapyeong  |  Mcflurry - Yu Tei  |  Gapyeong East - Gapyeong  |
 |  4:30 am - 7 am  |  3-6  |    |  6  |
 |  7 am - 10 am  |  3-6  |  3  |  6  |
-|  10 am - 3 pm  |  3  |    |  6  |
-|  3 pm - 5 pm  |  1.8 - 3.2  |    |  6  |
+|  10 am - 3 pm  |  3-6  |    |  6  |
+|  3 pm - 5 pm  |  6  |    |  6  |
 |  5 pm - 9 pm  |  3-6  |  3  |  6  |
-|  9 pm - 1 am  |  1.8 - 3.2  |    |  6  |
-|  1 am - 2:30 am  |  2.5 / 5.5  |    |  6  |
-|  2:30 am - 4:30 am  |  2.5 / 5.5  |    |  6  |
+|  9 pm - 1 am  |  6  |    |  6  |
+|  1 am - 2:30 am  |  6  |    |  6  |
+|  2:30 am - 4:30 am  |  6  |    |  6  |
 
 </WRAP>
 
