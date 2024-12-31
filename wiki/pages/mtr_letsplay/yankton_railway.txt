@@ -34,11 +34,11 @@
 
 == Services Operated ==
 
-=== [[mtr_letsplay:snowie_line|Snowie Line]] ===
+[[mtr_letsplay:snowie_line|Snowie Line]]
 
-=== [[mtr_letsplay:snowtral_line|Snowtral Line]] ===
+[[mtr_letsplay:snowtral_line|Snowtral Line]]
 
-=== [[mtr_letsplay:wanton_line|Wanton Line]] ===
+[[mtr_letsplay:wanton_line|Wanton Line]]
 
 === Shirakawa Line ===
 
