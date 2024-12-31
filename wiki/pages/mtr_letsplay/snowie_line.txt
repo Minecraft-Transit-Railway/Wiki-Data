@@ -1,0 +1,136 @@
+====== Snowie Line ======
+
+<WRAP right>
+
+^  Snowie Line\\ 雪伊綫  |^
+|  @#375E14:  ||
+|  {{ :mtr_community:yankton.png?300 }}//"Yankton Circuit"//\\ //Station Art in Yankton Station//  ||
+^  **Overview**  |^
+| **Abbreviation** | SYL |
+| **Status** | Operational\\ //(Eden - Southorn)//\\ //(Mcflurry - Yu Tei)//\\ Work in Progress\\ //(Haymarket,//\\ //Zuidbaai Centraal,//\\ //Chung Kong,//\\ //Chi Chuk,//\\ //Ying Mo,//\\ //Yuen Chow Kok,//\\ //Tai Po)// |
+| **Owner** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
+| ::: | [[mtr_letsplay:gyeongchun_railway|Gyeongchun Railway]] |
+| **Locale** | Eden\\ Yankton\\ Montpelier\\ Aloha Zone\\ Gapyeong |
+| **Termini** | [[/eden_station|Eden]] / [[/gapyeong|Gapyeong (New Street)]]|
+| **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
+| ::: | @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]] (WIP) |
+| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] (WIP)</color> |
+| ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (WIP) |
+| ::: | @#055214:<color white>Resort Ferries</color> |
+| ::: | @#D3A80A:<color white>[[/lilac_light_rail|Lilac Light Rail]] (WIP)</color> |
+| ::: | @#E41A56:<color white>Oculink Red Line (WIP)</color> |
+| ::: | @#22A046:<color white>Metro Marble Line</color> |
+| ::: | @#389165:<color white>Hillside Line</color> |
+| ::: | @#72B24A:Light Rail Metro |
+| ::: | @#0032B6:<color white>BCT Blue Line</color> |
+| ::: | @#7BACF6:Shinx Line |
+| ::: | @#9C5E31:<color white>Furret Line</color> |
+| ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
+| ::: | @#7090FF:<color white>[[/cyanex|Sightseeing Local Line]]</color> |
+| ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
+| ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
+| ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
+| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
+| ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
+| **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
+^  Service  |^
+| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Service Hours** | 04:36 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Frequency** | Every 1 - 8 mins((May get up to 10/15/20 mins near first  and last train)) |
+| **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management)) |
+| **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
+^  History  |^
+| **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Kwong Chow - Tai Po)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Northern Snow Village to Mesa,//\\ //Northern Snow Village - Hung Ngai Tung)//\\ 2 July, 2024\\ //(Mei Foo Wan - Tung Yuen)// |
+^  Technical  |^
+| **Line Length** | ~20.8 km |
+| **Number of**\\ **Tracks** | Double Track |
+| **Gauge** | 1435 mm |
+| **Electrification** | 25 kV AC \\ //(Sakura Stream Junction - Providence)//\\ Non-electrified \\ //(Other sections)// |
+| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+^  Route Map  |^
+|  {{/line1_p1.png?422}}  ||
+
+</WRAP>
+
+**Line 1 (Meyan Line) Phase 1** (Chinese: //一號 (美岩) 綫一期//), is a rapid transit service operated by [[/west_Lake_Transport_Authority|West Lake Transport Authority (WLT)]], from [[/mesa_station|Mesa]] station and [[/mei_foo_wan_station|Mei Foo Wan]] station to [[/tai_po_station|Tai Po]] station. The name comes from being the first rapid transit line WLT has ever planned, with two future permanent termini Mesa station and [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] station. The Mei Foo Wan Branch / Northern Transverse Link adds in another "Me" side terminus.
+
+The line is currently around 20.8 km long, connects up West Denthrope (Mesa), [[/resort_area|Resort]], [[/east_north_tundra_area|East North Tundra]], [[/zuidbaai_centraal_station|Zuidbaai]], [[/northern_snowland|Northern Snowland]], [[/sakura_stream_area|Sakura Stream]] Area and [[/west_lake_area|West Lake]] Area, forming a western N-S connection and a SW-NW-NE half circular link.
+
+Line colour is <color #FFFFFF/#EB7AE9>orchid magenta</color> inspired from real life KCR West Rail and [[wp>West_Rail_line|West Rail Line]]((KCR West Rail has a pink line colour and West Rail Line has a dark magenta line colour, the two combined results in orchid magenta)).
+
+===== History =====
+
+The line is first proposed as a light rail service in the West Lake Area serving [[/chung_kwo_kok_station|Chung Kwo Kok]], Kwong Chow, 
+
+==== Timeline ====
+
+  * 26 July, 2022: First proposal of a light rail shuttle service.
+  * 7 August, 2022: Revised proposal published.
+
+===== Operations =====
+
+Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternating between the two northern terminus, and stopping at all intermediate stops. Train doors may not open and access is blocked off for the stations work in progress except Tai Po station and Zuidbaai Centraal station.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)((May get up to 10/15/20 mins near first  and last train))  |||^
+|  @#EB7AE9:  ||||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |||
+| ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
+|  5 am - 9 am  |  2.5 / 5.5  |  8  |  8  |
+|  9 am - 9 pm  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
+|  9 pm - 11 pm  |  1.0 - 2.2  |  3.2  |  2.6 - 3.8  |
+|  11 pm - 1 am  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
+|  1 am - 3 am  |  2.5 / 5.5  |  8  |  8  |
+
+</WRAP>
+
+===== Future Plans =====
+
+All the stations work in progress will gradually finish and open to public one by one. Tai Po station and Ying Mo station are currently the first batch to finish up. Meanwhile, Haymarket station will depend on the progress of other builders. 
+
+Sections from Tai Po to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //some time after the Let's Play Server has updated to 4.x.x version of MTR mod//. It will also depend on the progress of the stations.
+
+The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope Region. A full circular fast link will be also formed together with [[/kallos_express|Kallos Express]]. 
+
+===== Stations =====
+
+|  **%%Livery and Station Name%%**  |||||  **%%Connections%%**  |  **%%Opening date%%**  |  **District**  |
+|  English  |||  Chinese  |  Abbreviation((
+Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
+))  | ::: | ::: | ::: |
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - N. Section**</color>  ||||||||
+|  @#F7B85A:  |  @#202020:  |  [[/mesa_station|Mesa]]  |  %%美沙%%  |  MES  |  @#008000:  <color #ffffff>Harbour Line</color>  |  24 April, 2023  |  West Denthrope (Mesa)  |
+| ::: | ::: | ::: | ::: | ::: |  @#94d1d1: [[/wlt_line_3|Line 3 (Cyan Gray Line)]]  | ::: | ::: |
+|    | ::: |  <color #808080>//Chi Chuk//</color>((
+Not finished construction and not open
+))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
+|    | ::: |  <color #808080>//Ying Mo//</color>((
+Not finished construction and not open
+))  |  <color #808080>//%%櫻暮%%//</color>  |  <color #808080>//YIM//</color>  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  |  | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - Northern Transverse Link**</color>  ||||||||
+|  @#202020:  |  @#DE5594:  |  [[/mei_foo_wan_station|Mei Foo Wan]]  |  %%美麩灣%%  |  MFW  |    |  23 November, 2024  |  [[/resort_area|Resort Area]]  |
+| ::: |    |  <color #808080>//Haymarket//</color>((Not finished construction and not open))  |  <color #808080>//%%喜瑪旗%%//</color>  |  <color #808080>//HAY//</color>  |  @#E41A56:<color white>Oculink Red Line</color>  |  |  :::  |
+| ::: |  @#22A046:  |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  @#22A046:<color white>Metro Marble Line</color>  |  11 March, 2023  |  [[/east_north_tundra_area|East North Tundra Area]]  |
+| ::: |  @#0500FF:  |  Zuidbaai Centraal((Station is WIP but available for entering and exiting))  |  %%醉白池總站%%  |  ZUI  |  @#389165:<color white>Hillside Line</color>  |  11 October, 2024  |  Zuidbaai  |
+| ::: | ::: | ::: | ::: | ::: |  @#72B24A:Light Rail Metro  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#0032B6:<color white>BCT Blue Line (via Zuidbaai)</color>  | ::: | ::: |
+| ::: |    |  <color #808080>//Chung Kong//</color>((Not finished construction and not open))  |  <color #808080>//%%松江%%//</color>  |  <color #808080>//CHK//</color>  |  @#94D1D1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  |  :::  |
+|  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - Main Section**</color>  ||||||||
+|  @#317D09:  ||  Tung Yuen  |  %%凍原%%  |  TUY  |  |  30 November, 2024((Platforms open on 23 November, 2024))  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ Northern Snowland  |
+|  @#583700:  ||  [[/northern_snow_village_station|Northern Snow Village]]  |  %%北雪村%%  |  NSV  |  @#7BACF6:  Shinx Line  |  22 August, 2022  |  Northern Snowland  |
+| ::: || ::: | ::: | ::: |  @#9C5E31:  <color #ffffff>Furret Line</color>  | ::: | ::: |
+|  @#F62B11:  ||  [[/hung_ngai_tung_station|Hung Ngai Tung]]  |  %%紅崖洞%%  |  HNT  |   |  11 February, 2023  |  Sakura Stream  |
+|  @#00EBFF:  ||  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  SAS  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
+| ::: || ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Line]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
+|  @#A8DFF0:  ||  [[/providence_station|Providence]]  |  %%公積%%  |  PVD  |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Local Line]]</color>  |  15 July, 2022  | ::: |
+|  @#51C7FA:  ||  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  BIH  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
+|  @#F4B829:  ||  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  CKK  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
+|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
+| ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
+|   ||  //[[/yuen_chow_kok_station|Yuen Chow Kok]]//((
+Not finished construction and not open
+))  |  <color #808080>//%%圓周角%%//</color>  |  YCK  |   |   | ::: |
+|  @#E1DD46:  ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F:[[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((Interchange only))  | ::: |
