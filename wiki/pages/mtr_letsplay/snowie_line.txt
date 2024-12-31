@@ -25,7 +25,7 @@
 | **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
 ^  Service  |^
 | **Operator(s)** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
-| **Service Hours** | 04:36 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Service Hours** | 24 hours operation with defined 2:30-4:30am rare hours\\ //([[wp>UTC+08:00|UTC+8]])// |
 | **Frequency** | Every 1 - 8 mins((May get up to 10/15/20 mins near first  and last train)) |
 | **Depot** | Eden Depot / Mcflurry Sidings |
 | **Rolling Stock** | R Train |
