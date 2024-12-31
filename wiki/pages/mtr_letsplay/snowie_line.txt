@@ -24,20 +24,20 @@
 | ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
 | **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
 ^  Service  |^
-| **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
+| **Operator(s)** | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
 | **Service Hours** | 04:36 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
 | **Frequency** | Every 1 - 8 mins((May get up to 10/15/20 mins near first  and last train)) |
-| **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management)) |
-| **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]] (small variant) |
+| **Depot** | Eden Depot / Mcflurry Sidings |
+| **Rolling Stock** | R Train |
 ^  History  |^
-| **Opened**((For individual stations, please refer to [[/wlt_line_1#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Northern Snow Village - Birch Hill)//\\ 22 December, 2022 \\ //(Birch Hill - Kwong Chow)//\\ 24 April, 2023 \\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Kwong Chow - Tai Po)//\\ After renovation:\\ 31 December, 2023\\ //(Hung Ngai Tung - Kwong Chow)//\\ 16 January, 2024\\ //(Mesa to Northern Snow Village)//\\ 18 May, 2024\\ //(Northern Snow Village to Mesa,//\\ //Northern Snow Village - Hung Ngai Tung)//\\ 2 July, 2024\\ //(Mei Foo Wan - Tung Yuen)// |
+| **Opened**((For individual stations, please refer to [[/snowie_line#stations|Stations]])) | First open:\\ 25 September, 2022 \\ //(Eden - Southorn)//\\ 6 November, 2024 \\ //(Eden - Southorn, Royal Road - Shui Wai Village)//\\ 11 November, 2024 \\ //(Eden - Southorn, Royal Road - Gapyeong)//\\ 13 November, 2024\\ //(Eden/Gapyeong East - Gapyeong)//|
 ^  Technical  |^
-| **Line Length** | ~20.8 km |
+| **Line Length** | ~20 km |
 | **Number of**\\ **Tracks** | Double Track |
 | **Gauge** | 1435 mm |
-| **Electrification** | 25 kV AC \\ //(Sakura Stream Junction - Providence)//\\ Non-electrified \\ //(Other sections)// |
-| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s)\\ Maximum: 130 km/h (36.1 m/s) |
-| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+| **Electrification** | Non-electrified \\ //(Other sections)// |
+| **Operating**\\ **Speed** | Average: 47 km/h (13.1 m/s)\\ Maximum: 160 km/h |
+| **Signalling**\\ **System** | MTR Mod's Signalling |
 ^  Route Map  |^
 |  added soon  ||
 
