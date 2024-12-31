@@ -19,7 +19,7 @@
 | **Daily ridership**  | 7002  |
 | **Owner (s)** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | **Real-life / fictional basis** | [[wp>mtr|Mass Transit Railway]] |
-| **Corperate colour scheme** |  @#FFF0C6: **#0F84DE** **//Blue//**  |
+| **Corperate colour scheme** |  @#0F84DE: **#0F84DE** **//Blue//**  |
 |  @#0F84DE:  **Operation**  ||
 | **Began operation**  | August 2022  |
 | **Operator(s)**  | StrongerLock  |
