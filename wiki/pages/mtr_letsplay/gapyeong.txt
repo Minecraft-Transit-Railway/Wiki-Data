@@ -3,8 +3,10 @@
 <WRAP right>
 
 |   @#178C72: <color #ffffff>**Gapyeong**</color>   ||
+| @#204555: ||
 | @#37B366: ||
 | @#FFC917: ||
+| @#FF8200: ||
 | @#AE0D3F: ||
 | @#0063D3: ||
 | @#3C78D8: ||
@@ -14,14 +16,18 @@
 |  {{ :mtr_community:gapyeong.png?300 }}//Station Overview//  ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:gyeongchun_railway|Gyeongchun Railway]] |
+| ::: | [[mtr_letsplay:transport_for_west_midlands|Transport For West Midlands]] |
 | ::: | [[mtr_letsplay:origin_railway|Origin Railway]] |
 | ::: | [[mtr_letsplay:mrw|Moszyan Railways]] |
+| ::: | [[mtr_letsplay:argenti_west_coast|Argenti West Coast]] |
 | ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
 | ::: | [[mtr_letsplay:yankton_railway|Yankton Railway]] |
 | **Lines** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] |
+| ::: | [[mtr_letsplay:west_midlands_railway|West Midlands Railway]] |
+| ::: | [[mtr_letsplay:argenti_west_coast|Argenti West Coast]] |
 | ::: | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] |
-| ::: | [[mtr_letsplay:riverinaline|Riverina Intercity]] |
-| ::: | [[mtr_letsplay:riverinaline|Riverina Sprinter]] |
+| ::: | [[mtr_letsplay:riverinaline|Moszyan Railways Intercity]] |
+| ::: | [[mtr_letsplay:riverinaline|Moszyan Railways Sprinter]] |
 | ::: | [[mtr_letsplay:crosscountry|CrossCountry]] |
 | ::: | [[mtr_letsplay:mount_birch_line|Mount Birch Line]] |
 | ::: | [[mtr_letsplay:nami_island_ferry|Nami Island Ferry]] |
@@ -72,31 +78,33 @@ The name is changed from Gapyeong Station to Gapyeong New Street Station, howeve
 | **1** | Shops and Station Facilities ||
 | **G** | Ground Platforms and Exit | Exit A |
 | ::: | @#178C72: **[[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] <color #ffffff>Platforms</color>** ||
-| ::: | @#FFFFFF: **TBD Platforms** ||
+| ::: | @#FF8200: **[[mtr_letsplay:west_midlands_railway|West Midlands Railway]] <color #ffffff>Platforms</color>** ||
 | ::: | @#3C78D8: **[[mtr_letsplay:mount_birch_line|Mount Birch Line]] <color #ffffff>Platforms</color>** ||
 | ::: | @#0063D3: **[[mtr_letsplay:riverinaline|Riverina Sprinter]] <color #ffffff>Platforms</color>** ||
+| ::: | @#AE0D3F: **[[mtr_letsplay:crosscountry|CrossCountry]] <color #ffffff>Platforms</color>** ||
 | ::: | Platform **1** | [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] -> |
 | ::: |   Island Platform   ||
-| ::: | Platform **2** | Platform Not In use ->  |
-| ::: | Platform **3** | <- [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] to [[mtr_letsplay:cheongnyangni|Cheongnyangni]] |
+| ::: | Platform **2** | [[mtr_letsplay:west_midlands_railway|West Midlands Railway]] to [[mtr_letsplay:cannock|Cannock]] ->  |
+| ::: | Platform **3** | <- [[mtr_letsplay:west_midlands_railway|West Midlands Railway]] Terminated Platform |
 | ::: |   Island Platform   ||
-| ::: | Platform **4** | <- Platform Not In use |
-| ::: | Platform **5** | [[mtr_letsplay:riverinaline|Riverina Sprinter]] Terminated Platform -> |
+| ::: | Platform **4** | <- [[mtr_letsplay:gyeongchun_line|Gyeongchun Line]] to [[mtr_letsplay:cheongnyangni|Cheongnyangni]] |
+| ::: | Platform **5** | [[mtr_letsplay:riverinaline|Moszyan Railways Sprinter]] to [[mtr_letsplay:yongchun|Yongchun]] / [[mtr_letsplay:crosscountry|Crosscountry]] to [[mtr_letsplay:walsall|Walsall]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **6** | [[mtr_letsplay:mount_birch_line|Mount Birch Line]] to [[mtr_letsplay:einsburg_west|Einsburg West]] -> |
 | ::: | Platform **7** | <- [[mtr_letsplay:mount_birch_line|Mount Birch Line]] Terminated Platform |
 | ::: |   Island Platform   ||
-| ::: | Platform **8** | <- [[mtr_letsplay:riverinaline|Riverina Sprinter]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]] |
+| ::: | Platform **8** | <- [[mtr_letsplay:riverinaline|Moszyan Railways Sprinter]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]] / [[mtr_letsplay:crosscountry|Crosscountry]] to [[mtr_letsplay:portsmouth|Portsmouth]] |
 | **B1** | **Concourse** | Exit B Passageway |
 | **B2** | @#37B366: **[[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] Platforms** ||
+| ::: | @#204555: **[[mtr_letsplay:argenti_west_coast|Argenti West Coast]] <color #ffffff>Platforms</color>** ||
 | ::: | @#FFC917: **[[mtr_letsplay:riverinaline|Riverina Intercity]] Platforms** ||
 | ::: | @#AE0D3F: **[[mtr_letsplay:crosscountry|CrossCountry]] <color #ffffff>Platforms</color>** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
 | ::: | @#5499A4: **[[mtr_letsplay:ktt|KTT]] Platforms** ||
-| ::: | Platform **9** | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] -> |
+| ::: | Platform **9** | [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:danielston_memorial|Danielston Memorial]] / [[mtr_letsplay:argenti_west_coast|Argenti West Coast]] to [[mtr_letsplay:oxenholme_lake_district|Oxenholme Lake District]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **10** | <- [[mtr_letsplay:itx_cheongchun|ITX Cheongchun]] to [[mtr_letsplay:yongsan|Yongsan]] |
-| ::: | Platform **11** | [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:yongchun|Rikkashi Yongchun]] -> |
+| ::: | Platform **11** | [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:oxenholme_lake_district|Oxenholme Lake District]]/[[mtr_letsplay:liskeard_central|Liskeard Central]] |
 | ::: |   Island Platform   ||
 | ::: | Platform **12** | <- [[mtr_letsplay:riverinaline|Riverina Intercity]]/[[mtr_letsplay:crosscountry|CrossCountry]] to [[mtr_letsplay:collinsstreet|Albury Collins Street]]/[[mtr_letsplay:portsmouth|Portsmouth]] |
 | ::: | Platform **13** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] ->  |
