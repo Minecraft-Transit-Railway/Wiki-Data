@@ -5,6 +5,8 @@ Waiting to fix **This page has not been fully translated请帮助翻译本页。
 ====== Spawn Grand Circular ======
 //Under production// **Spawn Grand Circular**
 
+Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play server und der ältesten u bahn -verbindung auf dem server
+
 <WRAP right>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
