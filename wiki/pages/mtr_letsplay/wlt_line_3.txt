@@ -34,7 +34,7 @@
 | **Gauge** | 1435 mm |
 | **Electrification** | 1.5 kV DC Overhead |
 | **Operating**\\ **Speed** | Average: TBD\\ Maximum: 140 km/h (38.9 m/s) |
-| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (target speeds in increments of 5 km/h)\\ //([[wp>European_Train_Control_System#Level_2|ETCS Level 2]] / [[wp>automatic_train_control#Digital_ATC|D-ATC]] equivalent)//|
 ^  Route Map  |^
 |    ||
 
