@@ -61,7 +61,7 @@
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
 | **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s)((Maximum speed is 120 km/h on Sightseeing Line Phase 3, 4 and Bond Line sections))|
-| **Signalling**\\ **System** | MTR Mod's Signalling\\ (with advanced speed controlling) |
+| **Signalling**\\ **System** | MTR Mod's Signalling\\ (target speeds in increments of 5 km/h)\\ //([[wp>European_Train_Control_System#Level_2|ETCS Level 2]] / [[wp>automatic_train_control#Digital_ATC|D-ATC]] equivalent)//|
 ^  Route Map  |^
 |  {{/line2.png?420}}  ||
 
