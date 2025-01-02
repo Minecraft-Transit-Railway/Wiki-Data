@@ -1,0 +1,41 @@
+====== Western Mainline ======
+The **Western Mainline** is an intercity railway corridor to be constructed as a cooperative effort between Soodari and SzandorThe13th. The line was designed to be a high-frequency central railway corridor between the areas of Yongchun and 's Riddershoven. The line will feature seperated local and express tracks for its entire length, with a notable change of driving direction from left to right to the north of Oxenholme.
+
+<WRAP right>
+|  @#B0B0BE:  ||
+|  **Western Mainline**  ||
+|  @#B0B0BE:  ||
+|  {{mtr_letsplay:imagehere.png?400|image here}}  ||
+|  @#B0B0BE:**Overview**  ||
+|  **Operated by**  |  [[mtr_letsplay:mrw|Moszyan Railways]]  |
+|  :::  |  [[mtr_letsplay:argenti_west_coast|Argenti West Coast]]  |
+|  :::  |  [[mtr_letsplay:crosscountry|CrossCountry]]  |
+|  :::  |  [[mtr_letsplay:northern|Northern]]  |
+|  **Opening Date**  |  //TBD//  |
+|  **Serving Districts**  |  Rikkashi  |
+|  :::  |  Kurokusa  |
+|  :::  |  Oxenholme  |
+|  :::  |  Staalen  |
+|  :::  |  's Riddershoven  |
+|  **Operating Services**  |  8  |
+|  @#B0B0BE:**Technical**  ||
+|  **Character**  |  Overground  |
+|  :::  |  Underground  |
+|  **Track Gauge**  |  1435mm standard gauge  |
+|  **Electrification**  |  1.5kV DC Overhead Catenary  |
+</WRAP>
+
+===== Stations =====
+|  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
+|  **Yongchun**\\ 永春  |  Rikkashi  |  Intercity Metro Diagonally Line\\ Southern Cross Line\\ Dan Chun Line\\ Suu-Southlands Line\\ Mount Birch Line\\ Rikka LRT  |    |
+|  **Kamikita East**\\ 上北東  |  :::  |    |    |
+|  **Lavender Edge**\\ 紫邊  |    |    |    |
+|  **Carnforth**\\ 康福斯  |    |    |    |
+|  **Paradise Fall SA**\\ 天水風景  |    |  Sightseeing Line  |    |
+|  **Nishi-Kurokusa**\\ 西黑草  |  Kurokusa  |    |    |
+|  **Oxenholme Lake District**\\ 奧克森霍姆湖區  |  Oxenholme  |    |    |
+|  **Staalen Fort**\\ 鋼鐵堡壘  |  Staalen  |    |    |
+|  **Staalen**\\ 鋼鐵  |  :::  |    |    |
+|  **Den Hof Achterburg**\\ 騎士法庭阿赫特堡  |  's Riddershoven  |    |    |
+|  **Den Hof Europapark**\\ 騎士法庭歐洲公園  |  :::  |    |    |
+|  **Den Hof Centraal**\\ 騎士法庭中央  |  :::  |    |    |
