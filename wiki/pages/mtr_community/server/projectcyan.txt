@@ -1,23 +1,23 @@
-====== Project Cyan ======
+====== PurpleMTR ======
 
-Project Cyan is a server focused around creating a large and detailed transit system. It has been operating since 2024, and has gone through multiple rebranding and 2 resets, one of which has the map available for download
+PurpleMTR is a server focused around creating a large and detailed transit system. It has been operating since 2024, and has gone through multiple rebranding and 3 resets, one of which has the map publicly released after it reset.
 
 <WRAP right>
 
 |  @#4AA5C5: <color #FFFFFF>**Project Cyan**</color>  ||
 | {{mtr_community:projectcyan.png?300}} ||
 |  @#4AA5C5: <color #FFFFFF>**Overview**</color>  ||
-| **Creator** | Mxgbridgez and AwesomeKalin55 |
-| **Project Director** | Mxgbridgez |
-| **Builders** | Mxgbridgez |
+| **Creator** | Matcha and AwesomeKalin55 |
+| **Project Director** | Matcha |
+| **Builders** | Matcha |
 | ::: | AwesomeKalin55 |
 | ::: | VerySad |
-| ::: | RoskataBg |
+| ::: | Curt|
 | **Transit type** | All |
 | **Style/Inspiration** | Various |
 | **Transport Companies** | 4 |
-| **Non-transit Companies** | 5 |
-| **Active Lines** | 6 |
+| **Non-transit Companies** | 2 |
+| **Active Lines** | 1 |
 
 </WRAP>
 
