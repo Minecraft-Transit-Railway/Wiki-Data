@@ -25,7 +25,7 @@
 
 ===== The PäRail Pack Project =====
 
-The PäRail Pack((Known Shortly as the PRL Pack, Or Officially as the PäRail Trains Addon)) is one of Dragon's Projects. It is mainly for Mainline Railway Units.
+The [[mtr_extra:parail_trains|PäRail Pack]]((Known Shortly as the PRL Pack, Or Officially as the PäRail Trains Addon)) is one of Dragon's Projects. It is mainly for Mainline Railway Units.
 
 ===== Outside MTR =====
 
