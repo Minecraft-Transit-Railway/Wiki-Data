@@ -57,6 +57,7 @@ This Train is a Modified Mix of the MLR and Class 802. The MLR Became the Locomo
 | **Power Output** | 4250 Horsepower |
 | **Unit Length**  | 17 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/EMD_GP38-2|EMD GP38-2]] |
+| **Service Life**  | 1985- |
 
 </WRAP>
 
@@ -74,6 +75,7 @@ The Class 51 is an All-Purpose Locomotive Part of the Universal Series of Locomo
 | **Power Output** | 6000 |
 | **Unit Length**  | 19 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_91|BR Class 91]] |
+| **Service Life**  | 1992- |
 
 </WRAP>
 
@@ -89,6 +91,7 @@ The PäRail Class 96 is a High-Speed Electric Locomotive made by SRC, or the Sel
 | **Top Speed** | 160 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
+| **Service Life**  | 2003- |
 
 </WRAP>
 
@@ -104,6 +107,7 @@ The PäRail Class 381 is a Intercity EMU Made for Regional Services Across North
 | **Top Speed** | 100 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 20 Meters |
+| **Service Life**  | 2002-2025 |
 
 </WRAP>
 
@@ -119,6 +123,7 @@ The Class 416 a Commuter EMU part of the Urbanworker II Series of Trainsets. It 
 | **Top Speed** | 60 km/h |
 | **Wheel Arrangement** | C |
 | **Unit Length**  | 8 Meters |
+| **Service Life**  | 1970- |
 
 </WRAP>
 
@@ -134,6 +139,7 @@ The Class 04 is an Shunter Locomotive Made for Industrial, Shortline, and TMD Us
 | **Top Speed** | 160 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 24 Meters |
+| **Service Life**  | 2012- |
 
 </WRAP>
 
@@ -149,12 +155,14 @@ The Class 728 is a Dual Mode Trainset That makes up the Majority of the TWR Inte
 | **Top Speed** | 300 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
+| **Service Life**  | 2007- |
 ^ **PäRail Class 801** ^ ::: ^
-| **Manufactured** | 2014-Present |
+| **Manufactured** | 2014-2027((Predicted)) |
 | **Manufacturer** | PäRail Engineering |
 | **Top Speed** | 300 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
+| **Service Life**  | 2014- |
 
 </WRAP>
 
@@ -170,6 +178,7 @@ The Class 800 and 801 are Trains part of the HS300 Program, Designed to run on t
 | **Top Speed** | 80 km/h |
 | **Wheel Arrangement** | Bo'+Bo' |
 | **Unit Length**  | 19 Meters |
+| **Service Life**  | 1988- |
 
 </WRAP>
 
@@ -191,6 +200,7 @@ The Class 155 is a Regional Railcar built by KTRC for SER Services on the Unelec
 | **Top Speed** | 120 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
+| **Service Life**  | 2000- |
 
 </WRAP>
 
@@ -210,6 +220,7 @@ The Class 358 is an EMU Designed for HRR's North Commuter Rail lines. In 2009, T
 | **Power Output** | 5000 Horsepower |
 | **Unit Length**  | 18 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/SNCF_Class_BB_22200|SNCF Class BB22200]] |
+| **Service Life**  | 2000- |
 
 </WRAP>
 
@@ -226,6 +237,7 @@ The Class 79 is an Intercity Electric Locomotive manufactured by SRC for PäRail
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 18 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/London_Underground_D78_Stock|London Underground D78 Stock]] |
+| **Service Life**  | 2013((Units Entered Service on PCMA in 1979))- |
 
 </WRAP>
 
@@ -243,6 +255,7 @@ The Class 426 is a Regional EMU Built by Urbanworker for the PCMA Metro. After i
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_465|British Rail Class 465]] |
+| **Service Life**  | 1995- |
 
 </WRAP>
 
@@ -258,6 +271,7 @@ The Class 454 is a Regional EMY Built by Urbanworker for PNR As Part of the Urba
 | **Top Speed** | 160 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 24 Meters |
+| **Service Life**  | 2000- |
 
 </WRAP>
 
@@ -275,6 +289,7 @@ The Class 910 is a Departmental Bi-Mode Trainset Made by KTRC In Combination wit
 | **Wheel Arrangement** | Bo'+2'+2'+Bo'...+Bo'+2"+2'+Bo' |
 | **Unit Length**  | 20 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/Bombardier_Talent_2|Bombardier Talent 2]] |
+| **Service Life**  | 2007- |
 
 </WRAP>
 
@@ -291,6 +306,7 @@ The Class 332 is a Intercity EMU Built by Rodani Rail Manufacturing Company for 
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 24 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_345|British Rail Class 345]] |
+| **Service Life**  | 2011- |
 
 </WRAP>
 
@@ -306,6 +322,7 @@ The Class 720 is a Regional EMU Built by SRC As Part of the FLYER Series of Trai
 | **Top Speed** | 160 km/h |
 | **Wheel Arrangement** | Bo'+Bo' |
 | **Unit Length**  | 19 Meters |
+| **Service Life**  | 1968-2020 |
 
 </WRAP>
 
@@ -322,6 +339,7 @@ The Class 67 is a Intercity Diesel Locomotive made by DCCR for the JNA's Mainlin
 | **Wheel Arrangement** | B'+2'+...+2'+B' |
 | **Unit Length**  | 20 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_101|British Rail Class 101]] |
+| **Service Life**  | 1957- |
 
 </WRAP>
 
@@ -337,6 +355,7 @@ The Class 301 is the Oldest EMU on the PäRail Network. It was Built by Limov an
 | **Top Speed** | 120 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 22 Meters |
+| **Service Life**  | 2001- |
 
 </WRAP>
 
@@ -347,11 +366,12 @@ The Class 732 is a Double-Decker EMU Manufactured by Rodani Rail Manufacturing C
 <WRAP right>
 
 ^ **PäRail Class 773** ^ ::: ^
-| **Manufactured** | 2019-Present |
+| **Manufactured** | 2019-2025 |
 | **Manufacturer** | RRC |
 | **Top Speed** | 160 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 24 Meters |
+| **Service Life**  | 2020- |
 
 </WRAP>
 
@@ -367,6 +387,7 @@ The Class 773 is an Intercity EMU Built by Ra'av Rail Group for the SETN and SER
 | **Top Speed** | 120 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 18 Meters |
+| **Service Life**  | 1997- |
 
 </WRAP>
 
@@ -382,6 +403,7 @@ The Class 348 is a Regional EMU Built by Hostin Train Manufacturing Center for M
 | **Top Speed** | 200 km/h |
 | **Wheel Arrangement** | B'+B' |
 | **Unit Length**  | 24 Meters |
+| **Service Life**  | 1996- |
 
 </WRAP>
 
@@ -397,6 +419,7 @@ The Class 85 is a Mixed-Use Electric Locomotive manufactured by the Hostin Train
 | **Top Speed** | 120 km/h |
 | **Wheel Arrangement** | Bo'+2'+...+2'+Bo' |
 | **Unit Length**  | 24 Meters |
+| **Service Life**  | 2002- |
 
 </WRAP>
 
@@ -413,6 +436,7 @@ The Class 658 is a Intercity Dual-Mode EMU Built by SRC as part of the Highpoint
 | **Wheel Arrangement** | B'+B' |
 | **Unit Length**  | 12 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/EMD_SW1000|EMD SW1000]] |
+| **Service Life**  | 2007- |
 
 </WRAP>
 
@@ -429,10 +453,70 @@ The Class 16 is a Diesel-Mechanical Locomotive Built for Sherack Freight. It's m
 | **Wheel Arrangement** | B'+B' |
 | **Unit Length**  | 19 Meters |
 | **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_47|British Rail Class 47]] |
+| **Service Life**  | 1967-1998 |
 
 </WRAP>
 
 The Class 54 Was a Diesel-Mechanical Locomotive Made by RRG for Múçhávian Railways on Intercity Services. Once the Class 85 was Introduced, The Locomotives were moved to Odd Jobs and the Ocational Passenger Service. Most of the Units were Scraped in 1998 by PNR, With only 12 Being Preserved on Heritage Railways.
+
+===== Class 761 =====
+
+<WRAP right>
+
+^ **Class 761** ^ ::: ^
+| **Manufactured** | 2019- |
+| **Manufacturer** | RRG  |
+| **Top Speed** | 200 km/h |
+| **Wheel Arrangement((UIC))** | Bo'+B'+B'...B'+B'+Bo' |
+| **Unit Length**  | 18 Meters |
+| **Basis**  | [[https://en.wikipedia.org/wiki/British_Rail_Class_755|Class 755]] |
+| **Service Life**  | 2020- |
+
+</WRAP>
+
+The Class 761 is a Dual-Mode Multiple Unit Manufactured by RRG for Regional and Intercity Services in 2019. It's the First train in the pack to have Jacobs Bogies, and a Separate Power Car
+
+
+===== Class 94 =====
+
+<WRAP right>
+
+^ **Class 94** ^ ::: ^
+| **Manufactured** | 1975-1981 |
+| **Manufacturer** | Mevrik |
+| **Top Speed** | 200 km/h |
+| **Prime Mover** | MVRC CSTS-6500 V16 |
+| **Wheel Arrangement((UIC))** | B'B' |
+| **Power Output** | 6500 Horsepower |
+| **Unit Length**  | 25 Meters |
+| **Service Life**  | 1976-2021 |
+
+</WRAP>
+
+The Class 94 is an Electric Locomotive Built in 1999 For Jorniv National Associates. It was built for Long-Distance Travel on the central portion of the network.
+
+This Train is a model change of the MTR/KCR SP1900 Train. A Long Distance seating arrangement was Added, and a Barita Car.
+The Locomotive Itself was made into 3 Units. The A and B Units are at the Front and Provide Power. The C Unit is the Baggage Coach, and at the Back.
+
+===== Class 57 =====
+
+<WRAP right>
+
+^ **PäRail Class 57** ^ ::: ^
+| **Manufactured** | 1977-1970 |
+| **Manufacturer** | City of the Dragons Manufacturing (DCCR)  |
+| **Refurbished** | 2000-2001 by HRR((Only a Few units were Refurbished)) |
+| **Top Speed** | 120 km/h |
+| **Prime Mover** | DCCR PCRV-30UH V16 |
+| **Wheel Arrangement((UIC))** | B'B' |
+| **Power Output** | 3000 Horsepower |
+| **Unit Length**  | 25 Meters |
+| **Service Life**  | 1978-2008 |
+
+</WRAP>
+The Hàľĭ Railroad Class 57 was a Diesel-Electric Locomotive Used on the Hàľĭ Express Route. Being First Built in 1977 By DCCR. The Locomotive Contains a 3000 Horsepower DCCR PCRV-30UH Prime Mover. It was Highly Unreliable and was Replaced in 2008 With the Class 800.
+
+This Train is a Modified Mix of the MLR and Class 802. The MLR Became the Locomotives, and the Class 802 became the Coaches.
 
 ====== Trains outside the Pack ======
 
