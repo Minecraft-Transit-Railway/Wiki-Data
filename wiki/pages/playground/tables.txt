@@ -1,0 +1,10 @@
+====== Tables Test ======
+
+This page is basically to test out how tables work alongside other things.
+
+^ Graph ^ Yes ^ No ^
+| @#ff0000:<color #FFFFFF>Text!!</color> | Your...((name here)) | Me when the when the uhhhh I forgor |
+| The goofy | **//Movies!?//**((No.)) | ::: |
+
+Footnotes broken when in tables grr >:(
+
