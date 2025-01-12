@@ -120,3 +120,22 @@ Dan6 Services LLC operates various kinds of rail services including regional rai
 | @#f7c868:<color #000000>**BR2**</color> | DB Class 423 | 4 |
 | @#b1e6b1:<color #000000>**U61**</color> | LU 1996 Stock | 4 |
 | @#61e76c:<color #000000>**HLR1**</color> | R211 | 2 |
+
+===== Eastern Transport Union =====
+
+Eastern Transport Union (ETU) operates rail services mainly in the southeastern of the map.
+
+<WRAP right>
+
+|  @#b0b0b0:<color #FFFFFF>**ETU**</color>  ||
+^ Founded | 29th September 2024 |
+^ Owner | coinc1234 |
+^ Lines | 11 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#d83030:<color #FFFFFF>**RER A**</color> | Unknown | 6((Route VOKE/KOME))/16((Route JOTE/NOSA))/17((Route FEUS/QELE/KEMI/KANS)) |
+| @#579dc4:<color #FFFFFF>**RER B**</color> | Unknown | Unknown |
