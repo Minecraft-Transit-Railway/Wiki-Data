@@ -1,11 +1,5 @@
 ====== Fresh Start MTR ======
 
-<WRAP left round important 50%>
-
-When editing this page, do NOT switch it to Visual editor. This can cause the tables to break.
-
-</WRAP>
-
 <WRAP right>
 
 |  @#FF0000:<color #FFFFFF>**Fresh Start MTR**</color>  ||
