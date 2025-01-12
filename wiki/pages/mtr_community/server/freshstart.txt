@@ -51,12 +51,12 @@ As South West Rail, before renaming to National Rail CH
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#0dbb1a:<color #FFFFFF>**Marton Line**</color> | R-Train | 7((Slow Line only.))/5((Fast Line only.))  |
+| @#0dbb1a:<color #FFFFFF>**Marton Line**</color> | R-Train | 5/7 |
 | @#6f18ba:<color #FFFFFF>**Capital Line**</color> | SP1900, 1141A | 7 |
 | @#5c9399:<color #FFFFFF>**Origin Line**</color> | M-Train | 5 |
-| @#ff2b15:<color #FFFFFF>**Kapple Line**</color> | DB Class 423((Normal Kapple Line only.)) / S43-Tec 2020 LRV((CIA T2 branch lineonly.))  | 28((Normal Kapple Line only.))/7((CIA T2 branch line only.))  |
+| @#ff2b15:<color #FFFFFF>**Kapple Line**</color> | DB Class 423 / S43-Tec 2020 LRV  | 28/7 |
 | @#037cb8:<color #FFFFFF>**Whitney Line**</color> | BR Class 377 | 6 |
-| @#7fcc19:<color #000000>**Fresh Start Lake Line**</color> | SP1900 | 6((Llyn-by-the-Sea bound))/7((Fresh Start Lake bound))  |
+| @#7fcc19:<color #000000>**Fresh Start Lake Line**</color> | SP1900 | 6/7 |
 | @#054302:<color #FFFFFF>**Northside Intercity (R01)**</color> | BR Class 802 | 4 |
 | @#993333:<color #FFFFFF>**Hung Hom Line**</color> | 1141A | 11 |
 | @#191919:<color #FFFFFF>**Carper Line**</color> | SP1900 | 4 |
