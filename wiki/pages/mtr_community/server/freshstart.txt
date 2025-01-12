@@ -3,9 +3,12 @@
 <WRAP right>
 
 |  @#FF0000:<color #FFFFFF>**Fresh Start MTR**</color>  ||
-^ Created | 29th April, 2023((This is the day the Discord server was created.)) |
+| {{:mtr_community:trinsmoton_rail:fslogo.png?200}} ||
+^ Created | 29th April, 2023((
+This is the day the Discord server was created.
+)) |
 ^ Creator | The Interwebs |
-^ Companies | 21((See [[#Company list|The list of companies]].)) |
+^ Companies | 27 |
 ^ Style/Inspiration | Hong Kong |
 | ::: | British |
 | ::: | Japanese |
@@ -15,58 +18,9 @@
 | ::: | Russian |
 | ::: | Hungarian |
 | ::: | Austrian |
-^ Builders | 17 |
+^ Builders | 23 |
 ^ Moderators | 4 |
 
 </WRAP>
 
 Fresh Start MTR is an MTR server where its main purpose is for people to learn how to build with the functions provided by MTR mod.
-
-===== Companies =====
-==== Company list ====
-**Operating**\\ [[#kapple_transport_agency |Kapple Transport Agency]]\\ [[#Xalkarrmian Railways|Xalkarrmian Railways]]\\ [[#IAA|IAA]]\\ [[#IMCC|IMCC]]\\ [[#Dan6 Services|Dan6 Services LLC.]]\\ [[#TfS|Transport for Striaton]]\\ [[#National Rail CH|National Rail CH]]\\ [[#JR|JR]]\\ [[#Minecraft Rapid Transit|Minecraft Rapid Transit]]\\ [[#Fresh Start Bus Service|Fresh Start Bus Service]]\\ [[#CMB|Curt Motor Bus]]\\ [[#Singapore Shinkansen Authority|Singapore Shinkansen Authority]]\\ [[#Java Train Government|Java Train Government]]\\ [[#Kapple Snowville Zone|Kapple Snowville Zone]]\\ [[#Stars Local Transport|Stars Local Transport]]\\ [[#ULS|ULS]]\\ [[#Kenton Transport|Kenton Transport]]\\ [[#New Underground|New Underground]]\\ [[#Odakyu|Odakyu]]\\ [[#KTA Rural|KTA Rural]]\\ [[#Kapple Regional LRT|Kapple Regional LRT]]\\ 
-**Defunct**\\ [[#National Rail|National Rail]]\\ [[#South West Rail|South West Rail]]\\ [[#Land Transport Authority|Land Transport Authority]]\\ 
-==== Kapple Transport Agency ====
-Kapple Transport Agency (KTA) is a company split from [[#National Rail|National Rail]]. It controls most lines in the Kapple Area, with the exception being South Main Line, Fresh Start Lake City Express and Capital International Airport Access Line, which does not serve the Kapple area.
-=== Routes ===
-^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^ Variants ^
-| Central North Main Line((Originally known as North Main Line.)) | Kapple Transportation Resort <-> Happing Train Station <-> Diplo Green <-> Upnor <-> Ferringdon <-> Conby <-> Capital International Airport Terminal 2 <-> Airport East <-> Fresh Start Lake((Through-runs onto Central Main Line.)) | R-Train | 12-car | Local |
-| Airport Connect Line | South Horizon <-> Kapple Transportation Resort <-> Stefans Plaza South <-> Kapple City Airport Terminal 1 <-> Happing Train Station((Through-runs onto North Main Line (Rapid).)) | RK-Train | 6-car | Rapid |
-| North Main Line | Happing Train Station <-> Capital International Airport Terminal 2((Shares tracks with Central North Main Line.)) <-> Airport East((Shares tracks with Central North Main Line.)) <-> Fresh Start Lake((Shares tracks with Central North Main Line.)) | RK-Train | 6-car | Rapid |
-| Central Main Line | Fresh Start Lake <-> Binworth <-> Giles <-> Reckby West <-> Stone Village <-> Siu Hor River <-> Profacton <-> Forest Heights | R-Train | 12-car | Local |
-| Rock Sea Bay Line | Rock Sea Bay <-> Broughton <-> Stefans Plaza <-> Kapple Transportation Resort <-> South Sea Port | 1141A | 6-car | N/A |
-| Outer City Loop((Circular Line.)) | Kapple Swamp <-> Grassy Forests <-> Whitney South((Higher Fares when changing / exiting at this station.)) <-> Icy Plains <-> Snow <-> Rock Sea Bay <-> Ice-Water-Forest-Lake-Below-Mountain <-> Sangu Bridge <-> Teska <-> New lands <-> Happing Train Station <-> Bank <-> Kapple City Airport Terminal 2 <-> Kapple City Airport Terminal 1 <-> Stefans Plaza <-> Kapple Transportation Resort <-> South Sea Port <-> Kapple Beach <-> Poodle Lake <-> Kapple Swamp | SP1900 | 2-car | N/A |
-| Shuttle 1 | Kapple Pond <-> Kapple Desert East <-> Kapple Desert <-> Kapple Desert West <-> Kapple Plains <-> Stefans Plaza <-> Kapple Snow Mountain <-> Kapple Transportation Resort | Minecart | 5-car | N/A |
-| Shuttle 2 | Kapple Plains -> Kapple City Airport Terminal 2 -> Kapple City Airport Terminal 1 -> Kapple Park -> Light Rail Depot -> Kapple City Airport Terminal 2 -> Kapple Plains | Minecart | 4-car | N/A |
-| Shuttle 3 | Kapple City Airport Terminal 2 <-> Happing Tower <-> Kapple City Central Exit Plaza <-> Vista Street <-> Happing Train Station | Minecart | 5-car | N/A |
-| Gincaik Link Line((Formerly known as Gincaik Area Link.))((Originally split into RBS1 and Kapple Gincaik Link.)) | Broughton <-> Gincaik West <-> Gincaik <-> Kapple City Airport Terminal 1 | CX100 | 1-car | N/A |
-| North Park Shuttle((Clockwise loop only.)) | North Park -> Shuttle Stop A -> Shuttle Stop B -> North Park | SP1900 | 1-car | N/A |
-| T1 Tram | Kapple Swamp <-> Goftree <-> Kapple TV Tower <-> Kapple Forest <-> Kapple Transportation Resort((Through-runs onto T2 Tram.))/New Snowy Plains <-> Gincaik <-> Swamp Hill <-> New Lands <-> Desert River <-> Teska Bridge <-> Zhongka <-> Kapple South <-> Kapple Exhibition Center | R-Train | 3-car / 4-car | N/A |
-| T2 Tram | Kapple East <-> Hillside Trees <-> Kapple Transportation Resort <-> Kapple Forest((Through-runs onto T1 tram.)) | R-Train | 4-car | N/A |
-| Skyline Main Line A | Kapple Exhibition Center <-> New City West <-> New City | R-Train | 4-car | N/A |
-| ICHSR1 | Kapple Transportation Resort((Route A only.)) <-> Happing Train Station <-> Fresh Start Lake <-> Llyn-by-the-sea((Waterfront Route only. Route ends here.))/Stone Village((Route A only.)) <-> Forest Heights <-> Web Village Sea <-> Web Village | Class 802 | 2-car / 3-car | A / Waterfront |
-| Fresh Start Lake City Express((Formerly known as Fresh Start Lake Intercity)) | Fresh Start Lake <-> National Park <-> Fresh Start Lake Forest <-> Capital International Airport Terminal 1 <-> Capital International Airport Terminal 2 | K-Train | 5-car | Local |
-| Capital International Airport Access Line | Fresh Start Lake <-> Capital International Airport Terminal 1 <-> Capita International Airport Terminal 2 | K-Train | 5-car | Airport Rapid |
-==== JR ====
-JR (Not to be mistaken for [[wp>Japan_Railways_Group|Japan Railways Group (JR)]]) is a company that operates around the center of the map.
-=== Routes ===
-^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^ Variants ^
-| Kapple Urban Line((Originally known as Kapple Intercity.)) | Kapple Snowville <-> Broughton <-> Gincaik <-> New Lands <-> Happing Train Station <-> Kapple City Central <-> Kapple City Airport Terminal 2 <-> Kapple City Airport Terminal 1 <-> Stefans Plaza South <-> Kapple Transportation Resort <-> Four Forests <-> Kapple River <-> Thunder Island | SP1900 | 4-car | N/A |
-| Gincaik Line((Clockwise loop only.)) | Broughton -> Gincaik West -> Kapple Forest -> Kekney Pond -> Thames Hills -> Broughton | CAF Train | 2-car | N/A |
-| JH Line | PLACEHOLDER | MLR | 3-car | Local / Rapid |
-| JW Line | PLACEHOLDER | MLR((JW Local only.)) / SP1900((JW Branch only.)) | 3-car | Local / Branch |
-| JK Line | PLACEHOLDER | E44 | 3-car | N/A |
-| JL Line | PLACEHOLDER | N/A | N/A | Loop / Local / Rapid |
-| JO Line | PLACEHOLDER | N/A | N/A | N/A |
-| JC (Rinkai Line) | PLACEHOLDER | C-Train | 4-car | N/A |
-| JE Line | Rock Sea Bay <-> Gincha <-> Broughton <-> Stefans Plaza | MPL85 | 2-car | N/A |
-| JA Line | PLACEHOLDER | N/A | N/A | N/A |
-| Kapple Monorail | PLACEHOLDER | MK-Train | 3-car | Local / West Sea Access |
-| Airport Superexpress | Capital International Airport Terminal 2 <-> Fresh Start Lake | CAF Train | 4-car | N/A |
-==== Singapore Shinkansen Authority ====
-Singapore Shinkansen Authority (SAA) is a direct successor to the [[#Land Transport Authority|LTA]] and operates express services.
-=== Routes ===
-^ Line Name ^ Stations ^ Rolling Stock ^ Formation ^
-| Llyn Shinkansen | Llyn-by-the-sea <-> Bishan <-> Fresh Start Lake <-> East Coast | N/A | N/A |
-| Nozomi Super Express | Llyn-by-the-sea <-> East Coast | N/A | N/A |
-| Hayabusa Express | Llyn-by-the-sea <-> Fresh Start Lake <-> East Coast | N/A | N/A |
