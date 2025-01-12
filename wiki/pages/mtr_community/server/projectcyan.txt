@@ -4,7 +4,7 @@ PurpleMTR is a server focused around creating a large and detailed transit syste
 
 <WRAP right>
 
-|  @#4AA5C5: <color #FFFFFF>**Project Cyan**</color>  ||
+|  @#590090: <color #FFFFFF>**PurpleMTR**</color>  ||
 | {{mtr_community:purplemtr.webp?300}} ||
 |  @#4AA5C5: <color #FFFFFF>**Overview**</color>  ||
 | **Creator** | Matcha and AwesomeKalin55 |
@@ -12,9 +12,9 @@ PurpleMTR is a server focused around creating a large and detailed transit syste
 | **Builders** | Matcha |
 | ::: | AwesomeKalin55 |
 | ::: | VerySad |
-| ::: | Curt|
+| ::: | Curt |
 | **Transit type** | All |
-| **Style/Inspiration** | Various |
+| **Style/Inspiration** | British, Asian |
 | **Transport Companies** | 4 |
 | **Non-transit Companies** | 2 |
 | **Active Lines** | 1 |
