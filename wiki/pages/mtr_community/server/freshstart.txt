@@ -1,26 +1,122 @@
 ====== Fresh Start MTR ======
 
+<WRAP left round important 50%>
+
+When editing this page, do NOT switch it to Visual editor. This can cause the tables to break.
+
+</WRAP>
+
 <WRAP right>
 
 |  @#FF0000:<color #FFFFFF>**Fresh Start MTR**</color>  ||
-| {{:mtr_community:trinsmoton_rail:fslogo.png?200}} ||
+|  {{:mtr_community:trinsmoton_rail:fslogo.png?150}}  ||
 ^ Created | 29th April, 2023((
 This is the day the Discord server was created.
 )) |
 ^ Creator | The Interwebs |
 ^ Companies | 27 |
-^ Style/Inspiration | Hong Kong |
-| ::: | British |
-| ::: | Japanese |
-| ::: | American |
-| ::: | German |
-| ::: | Chinese |
-| ::: | Russian |
-| ::: | Hungarian |
-| ::: | Austrian |
 ^ Builders | 23 |
 ^ Moderators | 4 |
 
 </WRAP>
 
-Fresh Start MTR is an MTR server where its main purpose is for people to learn how to build with the functions provided by MTR mod.
+===== General Info =====
+
+Fresh Start MTR is an MTR server where its main purpose is for people to learn how to build with the functions provided by MTR mod and has a fast-growing network of railways and metro systems.
+
+===== Builder applications =====
+
+The builder applications are open for a certain week every single month. Non-builders may choose between 2 applications, depending if they've previously worked on another server or not. Once they pass the applications, they will move on to the builder test. Builder tests usually consist of a prompt that the individuals will need to build, if they pass the builder test they become a builder in the server.
+
+===== Companies =====
+
+The following companies are sorted in alphabetical order.
+
+===== CHTR FSL =====
+
+CHTR FSL is a railway company operated by CHTR Corporation that manages various lines, each operated by different sectors.
+
+<WRAP right>
+
+|  @#FFFF00:<color #000000>**CHTR FSL**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:chtrfsl.png?300}}  ||
+^ Founded | 3rd April 2024((
+As South West Rail, before renaming to National Rail CH
+)) |
+^ Owner | Curt |
+^ Lines | 15 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#0dbb1a:<color #FFFFFF>**Marton Line**</color> | R-Train | 7((Slow Line only.))/5((Fast Line only.))  |
+| @#6f18ba:<color #FFFFFF>**Capital Line**</color> | SP1900, 1141A | 7 |
+| @#5c9399:<color #FFFFFF>**Origin Line**</color> | M-Train | 5 |
+| @#ff2b15:<color #FFFFFF>**Kapple Line**</color> | DB Class 423((Normal Kapple Line only.)) / S43-Tec 2020 LRV((CIA T2 branch lineonly.))  | 28((Normal Kapple Line only.))/7((CIA T2 branch line only.))  |
+| @#037cb8:<color #FFFFFF>**Whitney Line**</color> | BR Class 377 | 6 |
+| @#7fcc19:<color #000000>**Fresh Start Lake Line**</color> | SP1900 | 6((Llyn-by-the-Sea bound))/7((Fresh Start Lake bound))  |
+| @#054302:<color #FFFFFF>**Northside Intercity (R01)**</color> | BR Class 802 | 4 |
+| @#993333:<color #FFFFFF>**Hung Hom Line**</color> | 1141A | 11 |
+| @#191919:<color #FFFFFF>**Carper Line**</color> | SP1900 | 4 |
+| @#cb701c:<color #FFFFFF>**Ekakis Line**</color> | LU 1995 Stock | 3 |
+| @#dc00cb:<color #FFFFFF>**North Kapple Loop**</color> | DB Class 423 | 8 |
+| @#664c33:<color #FFFFFF>**Llyn-by-the-Sea Line**</color> | SP1900, MLR | 6 |
+| @#e32c1c:<color #FFFFFF>**CMB (Route A1)**</color> | Yutong U12 | 5 |
+| @#e32c1c:<color #FFFFFF>**CMB (Route XA1)**</color> | Yutong U12 | 3 |
+| @#b26300:<color #FFFFFF>**Lee On Line**</color> | S43-Tec 2020 LRV | 5 |
+
+===== Cross-Country Rail Company of Lucasshire =====
+
+Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise operating fast transit between towns and cities.
+
+<WRAP right>
+
+|  @#000090:<color #FFFFFF>**CRCL**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:crcl.png?150}}  ||
+^ Founded | 20th September 2024 |
+^ Owner | King Of Lucasshire |
+^ Lines | 9 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#ff8080:<color #000000>**Abeckis Clipper**</color> | LCR Class 715 | 11 |
+| @#902000:<color #FFFFFF>**Pitchlink**</color> | LCR Class 715 | 14 |
+| @#ffdc8d:<color #000000>**Golden Clipper**</color> | LCR Class 715 | 8 |
+| @#ffdc4a:<color #000000>**Golden Skipper**</color> | LCR Class 99 | 6 |
+| @#d0a000:<color #FFFFFF>**Bridgelink**</color> | LCR Class 715 | 9 |
+| @#80ff80:<color #000000>**Newhaven Clipper**</color> | LCR Class 215 + 715 | 17 |
+| @#a0a0ff:<color #000000>**Vylstren Clipper**</color> | LCR Class 715 | 9 |
+| @#8050e0:<color #FFFFFF>**Kapple Skipper**</color> | LCR Class 215 + 715 | 4 |
+| @#d0a0ff:<color #000000>**Ghepo Clipper**</color> | LCR Class 715 | 11 |
+
+===== Dan6 Services LLC =====
+
+Dan6 Services LLC operates various kinds of rail services including regional rail, suburban rail and metro rail.
+
+<WRAP right>
+
+| @#00a000:<color #FFFFFF>**Dan6 Services**</color> ||
+|  {{:mtr_community:trinsmoton_rail:dan6.png?150}}  ||
+^ Founded | 17th March 2024 |
+^ Owner | DanLP6 |
+^ Lines | 9 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#008020:<color #FFFFFF>**L1**</color> | BR Class 802 | 3 |
+| @#02681e:<color #FFFFFF>**L2**</color> | BR Class 802 | 2 |
+| @#61f825:<color #000000>**L3**</color> | BR Class 802 | 3 |
+| @#00a919:<color #FFFFFF>**R2**</color> | K-Train | 6 |
+| @#bbf71a:<color #000000>**R4**</color> | K-Train | 4 |
+| @#8dbf00:<color #FFFFFF>**BR1**</color> | DB Class 423 | 2 |
+| @#f7c868:<color #000000>**BR2**</color> | DB Class 423 | 4 |
+| @#b1e6b1:<color #000000>**U61**</color> | LU 1996 Stock | 4 |
+| @#61e76c:<color #000000>**HLR1**</color> | R211 | 2 |
