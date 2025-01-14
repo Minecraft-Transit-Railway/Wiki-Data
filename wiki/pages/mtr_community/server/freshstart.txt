@@ -287,6 +287,7 @@ Faythe Transport is an operator based in the Lithia and Kapple area. Providing r
 <WRAP right>
 
 |  @#ff7ab1:<color #000000>**Faythe Transport**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:faythe.png?150}}  ||
 ^ Founded | 30th September 2024 |
 ^ Owner | Quanti |
 ^ Lines | 6 |
@@ -521,7 +522,7 @@ Privately operated lines (Private Lines) are lines that are not under any specif
 |  @#707070:<color #FFFFFF>**Private Lines**</color>  ||
 ^ Founded | 17th April 2024 |
 ^ Founded by | The Interwebs |
-^ Lines | 10 |
+^ Lines | 11 |
 
 </WRAP>
 
