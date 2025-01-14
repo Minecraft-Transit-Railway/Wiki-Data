@@ -14,15 +14,15 @@ This is the day the Discord server was created.
 
 </WRAP>
 
-===== General Info =====
+====== General Info ======
 
 Fresh Start MTR is an MTR server where its main purpose is for people to learn how to build with the functions provided by MTR mod and has a fast-growing network of railways and metro systems.
 
-===== Builder applications =====
+====== Builder applications ======
 
 The builder applications are open for a certain week every single month. Non-builders may choose between 2 applications, depending if they've previously worked on another server or not. Once they pass the applications, they will move on to the builder test. Builder tests usually consist of a prompt that the individuals will need to build, if they pass the builder test they become a builder in the server.
 
-===== Companies =====
+====== Companies ======
 
 The following companies are sorted in alphabetical order.
 
@@ -45,21 +45,72 @@ As South West Rail, before renaming to National Rail CH
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#0dbb1a:<color #FFFFFF>**Marton Line**</color> | R-Train | 5/7 |
-| @#6f18ba:<color #FFFFFF>**Capital Line**</color> | SP1900, 1141A | 7 |
-| @#5c9399:<color #FFFFFF>**Origin Line**</color> | M-Train | 5 |
-| @#ff2b15:<color #FFFFFF>**Kapple Line**</color> | DB Class 423 / S43-Tec 2020 LRV  | 28/7 |
-| @#037cb8:<color #FFFFFF>**Whitney Line**</color> | BR Class 377 | 6 |
-| @#7fcc19:<color #000000>**Fresh Start Lake Line**</color> | SP1900 | 6/7 |
-| @#054302:<color #FFFFFF>**Northside Intercity (R01)**</color> | BR Class 802 | 4 |
-| @#993333:<color #FFFFFF>**Hung Hom Line**</color> | 1141A | 11 |
-| @#191919:<color #FFFFFF>**Carper Line**</color> | SP1900 | 4 |
-| @#cb701c:<color #FFFFFF>**Ekakis Line**</color> | LU 1995 Stock | 3 |
-| @#dc00cb:<color #FFFFFF>**North Kapple Loop**</color> | DB Class 423 | 8 |
-| @#664c33:<color #FFFFFF>**Llyn-by-the-Sea Line**</color> | SP1900, MLR | 6 |
-| @#e32c1c:<color #FFFFFF>**CMB (Route A1)**</color> | Yutong U12 | 5 |
-| @#e32c1c:<color #FFFFFF>**CMB (Route XA1)**</color> | Yutong U12 | 3 |
-| @#b26300:<color #FFFFFF>**Lee On Line**</color> | S43-Tec 2020 LRV | 5 |
+| @#0dbb1a: |||
+| **Marton Line** | R-Train | 5((
+Fast Line only
+))/7((
+Slow Line only
+)) |
+| @#0dbb1a: |||
+| @#6f18ba: |||
+| **Capital Line** | SP1900 | 7 |
+| ::: | 1141A | ::: |
+| @#6f18ba: |||
+| @#5c9399: |||
+| **Origin Line** | M-Train | 5 |
+| @#5c9399: |||
+| @#ff2b15: |||
+| **Kapple Line** | DB Class 423((
+Normal route only
+)) | 28((
+Normal route only
+)) |
+| ::: | S43-Tec 2020 LRV((
+CIA T2 Branch only
+))  | 7((
+CIA T2 Branch only
+)) |
+| @#ff2b15: |||
+| @#037cb8: |||
+| **Whitney Line** | BR Class 377 | 6 |
+| @#037cb8: |||
+| @#7fcc19: |||
+| **Fresh Start Lake Line** | SP1900 | 6((
+Llyn-by-the-Sea bound
+))/7((
+Fresh Start Lake bound
+)) |
+| @#7fcc19: |||
+| @#054302: |||
+| **Northside Intercity (R01)** | BR Class 802 | 4 |
+| @#054302: |||
+| @#993333: |||
+| **Hung Hom Line** | 1141A | 11 |
+| @#993333: |||
+| @#191919: |||
+| **Carper Line** | SP1900 | 4 |
+| @#191919: |||
+| @#cb701c: |||
+| **Ekakis Line** | LU 1995 Stock | 3 |
+| @#cb701c: |||
+| @#dc00cb: |||
+| **North Kapple Loop** | DB Class 423 | 8 |
+| @#dc00cb: |||
+| @#664c33: |||
+| **Llyn-by-the-Sea Line** | SP1900 | 6 |
+| ::: | MLR | ::: |
+| @#664c33: |||
+| @#e32c1c: |||
+| **CMB (Route A1)** | Yutong U12 | 5 |
+| @#e32c1c: |||
+| @#e32c1c: |||
+| **CMB (Route XA1)** | Yutong U12 | 3 |
+| @#e32c1c: |||
+| @#b26300: |||
+| **Lee On Line**((
+Through service from Kapple Line CIA T2 Branch
+)) | S43-Tec 2020 LRV | 5 |
+| @#b26300: |||
 
 ===== Cross-Country Rail Company of Lucasshire =====
 
@@ -78,15 +129,33 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#ff8080:<color #000000>**Abeckis Clipper**</color> | LCR Class 715 | 11 |
-| @#902000:<color #FFFFFF>**Pitchlink**</color> | LCR Class 715 | 14 |
-| @#ffdc8d:<color #000000>**Golden Clipper**</color> | LCR Class 715 | 8 |
-| @#ffdc4a:<color #000000>**Golden Skipper**</color> | LCR Class 99 | 6 |
-| @#d0a000:<color #FFFFFF>**Bridgelink**</color> | LCR Class 715 | 9 |
-| @#80ff80:<color #000000>**Newhaven Clipper**</color> | LCR Class 215 + 715 | 17 |
-| @#a0a0ff:<color #000000>**Vylstren Clipper**</color> | LCR Class 715 | 9 |
-| @#8050e0:<color #FFFFFF>**Kapple Skipper**</color> | LCR Class 215 + 715 | 4 |
-| @#d0a0ff:<color #000000>**Ghepo Clipper**</color> | LCR Class 715 | 11 |
+| @#ff8080: |||
+| **Abeckis Clipper** | LCR Class 715 | 11 |
+| @#ff8080: |||
+| @#902000: |||
+| **Pitchlink** | LCR Class 715 | 14 |
+| @#902000: |||
+| @#ffdc8d: |||
+| **Golden Clipper** | LCR Class 715 | 8 |
+| @#ffdc8d: |||
+| @#ffdc4a: |||
+| **Golden Skipper** | LCR Class 99 | 6 |
+| @#ffdc4a: |||
+| @#d0a000: |||
+| **Bridgelink** | LCR Class 715 | 9 |
+| @#d0a000: |||
+| @#80ff80: |||
+| **Newhaven Clipper** | LCR Class 215 + 715 | 17 |
+| @#80ff80: |||
+| @#a0a0ff: |||
+| **Vylstren Clipper** | LCR Class 715 | 9 |
+| @#a0a0ff: |||
+| @#8050e0: |||
+| **Kapple Skipper** | LCR Class 215 + 715 | 4 |
+| @#8050e0: |||
+| @#d0a0ff: |||
+| **Ghepo Clipper** | LCR Class 715 | 11 |
+| @#d0a0ff: |||
 
 ===== Dan6 Services LLC =====
 
@@ -94,9 +163,9 @@ Dan6 Services LLC operates various kinds of rail services including regional rai
 
 <WRAP right>
 
-| @#00a000:<color #FFFFFF>**Dan6 Services**</color> ||
+|  @#00a000:<color #FFFFFF>**Dan6 Services**</color>  ||
 |  {{:mtr_community:trinsmoton_rail:dan6.png?150}}  ||
-^ Founded | 17th March 2024 |
+^ Founded | 29th April 2023 |
 ^ Owner | DanLP6 |
 ^ Lines | 9 |
 
@@ -105,15 +174,33 @@ Dan6 Services LLC operates various kinds of rail services including regional rai
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#008020:<color #FFFFFF>**L1**</color> | BR Class 802 | 3 |
-| @#02681e:<color #FFFFFF>**L2**</color> | BR Class 802 | 2 |
-| @#61f825:<color #000000>**L3**</color> | BR Class 802 | 3 |
-| @#00a919:<color #FFFFFF>**R2**</color> | K-Train | 6 |
-| @#bbf71a:<color #000000>**R4**</color> | K-Train | 4 |
-| @#8dbf00:<color #FFFFFF>**BR1**</color> | DB Class 423 | 2 |
-| @#f7c868:<color #000000>**BR2**</color> | DB Class 423 | 4 |
-| @#b1e6b1:<color #000000>**U61**</color> | LU 1996 Stock | 4 |
-| @#61e76c:<color #000000>**HLR1**</color> | R211 | 2 |
+| @#008020: |||
+| **L1** | BR Class 802 | 3 |
+| @#008020: |||
+| @#02681e: |||
+| **L2** | BR Class 802 | 2 |
+| @#02681e: |||
+| @#61f825: |||
+| **L3** | BR Class 802 | 3 |
+| @#61f825: |||
+| @#00a919: |||
+| **R2** | K-Train | 6 |
+| @#00a919: |||
+| @#bbf71a: |||
+| **R4** | K-Train | 4 |
+| @#bbf71a: |||
+| @#8dbf00: |||
+| **BR1** | DB Class 423 | 2 |
+| @#8dbf00: |||
+| @#f7c868: |||
+| **BR2** | DB Class 423 | 4 |
+| @#f7c868: |||
+| @#b1e6b1: |||
+| **U61** | LU 1996 Stock | 4 |
+| @#b1e6b1: |||
+| @#61e76c: |||
+| **HLR1** | R211 | 2 |
+| @#61e76c: |||
 
 ===== Eastern Transport Union =====
 
@@ -122,14 +209,366 @@ Eastern Transport Union (ETU) operates rail services mainly in the southeastern 
 <WRAP right>
 
 |  @#b0b0b0:<color #FFFFFF>**ETU**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:etu.png?150}}  ||
 ^ Founded | 29th September 2024 |
 ^ Owner | coinc1234 |
-^ Lines | 11 |
+^ Lines | 9 |
 
 </WRAP>
 
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#d83030:<color #FFFFFF>**RER A**</color> | Unknown | 6((Route VOKE/KOME))/16((Route JOTE/NOSA))/17((Route FEUS/QELE/KEMI/KANS)) |
-| @#579dc4:<color #FFFFFF>**RER B**</color> | Unknown | Unknown |
+| @#d83030: |||
+| **RER A** | Osaka Metro 21 Series((
+Route NOSA/JOTE only
+)) | 6((
+Route KOME/VOKE only
+))/16((
+Route NOSA/JOTE only
+))/17((
+Route QELE/FEUS/KEMI/KANS only
+)) (Total 25) |
+| ::: | M-Train((
+Route KOME/VOKE/QELE/KEMI only
+)) | ::: |
+| ::: | SMRT C751B((
+Route FEUS/KANS only
+)) | ::: |
+| @#d83030: |||
+| @#579dc4: |||
+| **RER B** | Tobu 30000 Series | 10((
+Route SONE/POMN only
+))/13((
+Route SETE/PELU only
+))/15((
+Route PARE/FETI only
+)) (Total 31) |
+| @#579dc4: |||
+| @#73627d: |||
+| **STRiKE (1X)** | ETU S43-Tec 2002 LRV | 11 |
+| ::: | ETU LIGHTACE 1999 | ::: |
+| ::: | ETU S43-Tec 1975 LRV | ::: |
+| ::: | S43-Tec 1980 LRV | ::: |
+| @#73627d: |||
+| @#dc1c1c: |||
+| **Abeckis Metro (Line 1)** | Unknown | 5 |
+| @#dc1c1c: |||
+| @#68a482: |||
+| **Abeckis Metro (Line 3)** | Bombardier CX 100 | 4 |
+| @#68a482: |||
+| @#616970: |||
+| **ETU Tram (T3)** | ETU S43-Tec 2002 LRV | 19 |
+| ::: | ETU LIGHTACE 1999 | ::: |
+| ::: | ORIYER LIGHTACE 1973D | ::: |
+| ::: | ETU S43-Tec 1975 LRV | ::: |
+| @#616970: |||
+| @#4a8c81: |||
+| **ORIYER (801P)** | ORIYER S43-Tec 1980 LRV | 20 |
+| ::: | ORIYER S43-Tec 1987 LRV | ::: |
+| ::: | ORIYER LIGHTACE 1973D | ::: |
+| @#4a8c81: |||
+| @#84342e: |||
+| **HLRT (Route 1)** | SMRT T251 | 10 |
+| ::: | K-Train | ::: |
+| @#84342e: |||
+| @#84342e: |||
+| **HLRT (Route 3)** | AGTKIT Type2Door2000 | 4 |
+| ::: | DLR B90 Stock | ::: |
+| @#84342e: |||
+| @#404a95: |||
+| **Nouriers Jet☆PresS** | Ngong Ping 360 Crystal Cabin | 2 (Total 3) |
+| @#404a95: |||
+
+===== Faythe Transport =====
+
+Faythe Transport is an operator based in the Lithia and Kapple area. Providing regional services across the map.
+
+<WRAP right>
+
+|  @#ff7ab1:<color #000000>**Faythe Transport**</color>  ||
+^ Founded | 30th September 2024 |
+^ Owner | Quanti |
+^ Lines | 6 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#0cbbc4: |||
+| **Faythe R1** | Odakyu 415 Series((
+Fictional train, made for Odakyu Kapple Line
+)) | 5 |
+| @#0cbbc4: |||
+| @#ff7ab1: |||
+| **Faythe R2** | JRS 415 Series((
+Fictional train, made for JR South
+)) | 13 |
+| ::: | JR 211 Series | ::: |
+| ::: | BR Class 377 | ::: |
+| ::: | JR 203 Series | ::: |
+| ::: | JR E231-500 | ::: |
+| ::: | JR 280 Series((
+Fictional train, made for JR JC Line
+)) | ::: |
+| ::: | Alstom Citadis | ::: |
+| @#ff7ab1: |||
+| @#fc661c: |||
+| **Faythe R3** | JRS 415 Series((
+Fictional train, made for JR South
+)) | 9 |
+| ::: | JR 211 Series | ::: |
+| ::: | BR Class 377 | ::: |
+| ::: | JR 203 Series | ::: |
+| ::: | JR E231-500 | ::: |
+| ::: | JR 280 Series((
+Fictional train, made for JR JC Line
+)) | ::: |
+| ::: | Alstom Citadis | ::: |
+| @#fc661c: |||
+| @#2ca0fa: |||
+| **Faythe R4** | JR 211 Series | 7 |
+| @#2ca0fa: |||
+| @#0f0a44: |||
+| **Faythe R5** | JRS 415 Series((
+Fictional train, made for JR South
+)) | 16 |
+| ::: | JR 211 Series | ::: |
+| ::: | BR Class 377 | ::: |
+| ::: | JR 203 Series | ::: |
+| ::: | JR E231-500 | ::: |
+| ::: | JR 280 Series((
+Fictional train, made for JR JC Line
+)) | ::: |
+| ::: | Alstom Citadis | ::: |
+| @#0f0a44: |||
+| @#ff00f9: |||
+| **Lithia Link** | JR 415 Series | 3 |
+| @#ff00f9: |||
+
+===== Fresh Start Bus Service =====
+
+Fresh Start Bus Service (FSBS) provides bus services around the map.
+
+<WRAP right>
+
+|  @#005cbe:<color #FFFFFF>**FSBS**</color>  ||
+^ Founded | 5th July 2024 |
+^ Owner | ZEP |
+^ Lines | 0 (1 planned) |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#707070: |||
+| **Route 260IX**((
+In planning phase
+)) | TBA | TBA |
+| @#707070: |||
+
+===== HorizonRail =====
+
+Soon(tm)
+
+===== International Aviation Administration =====
+
+International Aviation Administration (IAA) controls airlines and standardise airport names.
+
+<WRAP right>
+
+|  @#6ad4f1:<color #000000>**IAA**</color>  ||
+^ Founded | 5th May 2023 |
+^ Owner | The Interwebs |
+^ Lines | 4 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#fcf81f: |||
+| **Air 1** | Airbus A320 | 2 |
+| @#fcf81f: |||
+| @#dcb3dd: |||
+| **Air 2** | Airbus A320 | 2 |
+| @#dcb3dd: |||
+| @#707070: |||
+| **Air 3**((
+In planning phase
+)) | Airbus A320 | 2 |
+| @#707070: |||
+| @#60cb18: |||
+| **Air 4** | Airbus A320 | 2 |
+| @#60cb18: |||
+
+===== JR =====
+
+Soon(tm)
+
+===== JR South =====
+
+JR South (JRS) is a small branch off from JR and operates regional and metro rail services.
+
+<WRAP right>
+
+|  @#ff9000:<color #FFFFFF>**JR South**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:jrs.png?150}}  ||
+^ Founded | 4th August 2024((
+As Singapore Shinkansen Authority
+)) |
+^ Owner | Isaac |
+^ Lines | 2 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#004dff: |||
+| **Akagi Line** | JRS BVG Class H((
+Fictional train, made for JR South
+)) | 4 |
+| @#004dff: |||
+| @#ff7600: |||
+| **Tokaido Shinkansen** | N700A Series | 3 |
+| @#ff7600: |||
+
+===== JR Hankyu =====
+
+Soon(tm)
+
+===== Java Train Government =====
+
+Soon(tm)
+
+===== Kapple Regional LRT =====
+
+Soon(tm)
+
+===== Kapple Transport Agency =====
+
+Soon(tm)
+
+===== Kenton Transport =====
+
+Soon(tm)
+
+===== Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways) =====
+
+Soon(tm)
+
+===== Minecraft Rapid Transit =====
+
+Soon(tm)
+
+===== New Underground =====
+
+Soon(tm)
+
+===== New Water Rail =====
+
+Soon(tm)
+
+===== Odakyu =====
+
+Soon(tm)
+
+===== Phoenix Transport Authority =====
+
+Soon(tm)
+
+===== Stars Local Transport =====
+
+Soon(tm)
+
+===== SNCF Voyageurs =====
+
+Soon(tm)
+
+===== Striaton Boat Lines =====
+
+Striaton Boat Lines (SBL) operates ferry services within the Striaton area.
+
+<WRAP right>
+
+|  @#2fd7fc:<color #000000>**SBL**</color>  ||
+^ Founded | 11th August 2024((Originally part of the same channel as [[mtr_community:server:freshstart#java_train_government|JTG]])) |
+^ Owner | Kenzierr |
+^ Lines | 1 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#68de8f: |||
+| **Ghan Mainline** | Oak Boat | 5 |
+| @#68de8f: |||
+
+===== Transport for Striaton =====
+
+Soon(tm)
+
+===== Privately operated lines =====
+
+Privately operated lines (Private Lines) are lines that are not under any specific companies, or does not belong to one at all.
+
+<WRAP right>
+
+|  @#707070:<color #FFFFFF>**Private Lines**</color>  ||
+^ Founded | 17th April 2024 |
+^ Founded by | The Interwebs |
+^ Lines | 10 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Owner** ^ **Stops** ^
+| @#ec0e06: ||||
+| **Line A** | LU 1996 Stock | The Interwebs | 6 |
+| ::: | ::: | DanLP6 | ::: |
+| ::: | ::: | BricksTW | ::: |
+| @#ec0e06: ||||
+| @#f6272a: ||||
+| **TheEnd Railway (APM1)** | SK6000 | Curt | 2 |
+| @#f6272a: ||||
+| @#10ddd4: ||||
+| **TheEnd Railway (S3)** | R211 | Curt | 3 |
+| @#10ddd4: ||||
+| @#b0760d: ||||
+| **TheEnd Railway (S4)** | R211 | Curt | 3 |
+| @#b0760d: ||||
+| @#0f1f3b: ||||
+| **Harbour Link** | K-Train | Curt | 3 |
+| ::: | ::: | ZEP | ::: |
+| @#0f1f3b: ||||
+| @#c7470b: ||||
+| **Snowville Bus (Route 341)** | Yutong U12 | Kenzierr | 2 |
+| ::: | ::: | Curt | ::: |
+| @#c7470b: ||||
+| @#99b4a3: ||||
+| **Snowville LRT** | MTR Light Rail 1 (Refurbished) | Kenzierr | 2 |
+| @#99b4a3: ||||
+| @#a8afda: ||||
+| **Kapple Desert APM1** | SK6000 | ARmz((
+No longer a builder in the server.
+)) | 2 |
+| @#a8afda: ||||
+| @#79a293: ||||
+| **Happing - Birmingham Express** | C-Train | Curt | 2 |
+| @#79a293: ||||
+| @#ffe300: ||||
+| **River Line** | JR 211 Series | Curt | 5 |
+| @#ffe300: ||||
+| @#f00000: ||||
+| **U1** | S43-Tec LRVs | AGermanMain | 11 |
+| @#f00000: ||||
+
+====== Reception ======
+
+The reception of this server in the MTR Discord is mixed. Some say it is a good place to start their MTR careers, others make fun of it for its unrealistic parts, notably its floating tracks and undecorated stations, making the server notorious for its lower-than-usual building requirements compared to other bigger MTR servers, such as [[mtr_community:server:district_of_joban|District of Joban]].
+
