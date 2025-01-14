@@ -290,7 +290,7 @@ Faythe Transport is an operator based in the Lithia and Kapple area. Providing r
 |  {{:mtr_community:trinsmoton_rail:faythe.png?150}}  ||
 ^ Founded | 30th September 2024 |
 ^ Owner | Quanti |
-^ Lines | 6 |
+^ Lines | 7 |
 
 </WRAP>
 
@@ -347,6 +347,9 @@ Fictional train, made for JR JC Line
 | @#ff00f9: |||
 | **Lithia Link** | JR 415 Series | 3 |
 | @#ff00f9: |||
+| @#12ffdd: |||
+| **Poli A Line** | Unknown | 4 |
+| @#12ffdd: |||
 
 ===== Fresh Start Bus Service =====
 
@@ -451,11 +454,35 @@ Soon(tm)
 
 ===== Kapple Transport Agency =====
 
-Soon(tm)
+Kapple Transport Agency (KTA) provides all kinds of metro, regional and light rail services across many different cities.
+
+<WRAP right>
+
+|  @#ff7000:<color #FFFFFF>**KTA**</color>  ||
+^ Founded | 29th April 2023((As National Rail)) |
+^ Owner | The Interwebs |
+^ Lines | 33 |
 
 ===== Kenton Transport =====
 
-Soon(tm)
+Kenton Transport (KTT) is a regional rail transport based in the Kenton area.
+
+<WRAP right>
+
+|  @#900000:<color #FFFFFF>**Kenton Transport**</color>  ||
+^ Founded | 18th March 2024 |
+^ Founder | Aecth((No longer a builder in the server.)) |
+^ Owner | Curt |
+^ Lines (Divisions) | 1 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#27a621: |||
+| **Northern Division (R001)** | Unknown | 3 |
+| @#27a621: |||
 
 ===== Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways) =====
 
