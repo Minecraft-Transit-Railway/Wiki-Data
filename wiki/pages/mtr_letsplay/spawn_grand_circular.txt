@@ -8,7 +8,11 @@ The Spawn Grand Circular is a subway loop on the Let's Play server, and is the o
 <WRAP right>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
-^  **概述**  |^
-| **运营商** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
+^  **Overview**  |^
+| **Operator** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
+| **Owned by** | Jonathan Ho |
+| ::: | Jonathan Ho's wife((Build the Station)) |
+^  **Line Map**  |^
+|{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
