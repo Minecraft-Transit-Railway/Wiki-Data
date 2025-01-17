@@ -7,7 +7,7 @@ Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play serve
 <WRAP right>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
-^  **Skizziert**  |^
+^  **Übersicht**  |^
 | **exploitant** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
 | **Im Besitz von** | Jonathan Ho |
 | ::: | Aozora Sky |
