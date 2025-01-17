@@ -25,7 +25,7 @@ MTR Endeavour is an server purposed to have an semi-realistic world and to not j
 
 ==== Buckham ====
 
-<WRAP right>
+<WRAP left>
 
 | **Buckham** ||
 | {{:mtr_community:endeavourmtr:buckham.png?400}} ||
