@@ -16,4 +16,3 @@
 |{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
-
