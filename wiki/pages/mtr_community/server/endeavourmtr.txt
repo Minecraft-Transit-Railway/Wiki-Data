@@ -21,8 +21,6 @@ MTR Endeavour is an server purposed to have an semi-realistic world and to not j
 ===== Countries: =====
 
 
-
-
 ==== Buckham ====
 
 <WRAP right>
