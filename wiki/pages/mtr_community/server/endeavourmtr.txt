@@ -2,7 +2,7 @@
 
 <WRAP right>
 
-| ''@#FF0000:<color #FFFFFF>''**Endeavour MTR**''</color>'' ||
+| ''<color #FFFFFF>**Endeavour MTR''**</color> ||
 | {{:mtr_community:server:endeavourmtrlogo.png?400}} ||
 | **General Information:**  ||
 | Creation Date: | 29th November 2024 |
