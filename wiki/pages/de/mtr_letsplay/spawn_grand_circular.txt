@@ -3,7 +3,7 @@
 
 Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play server und der ältesten u bahn -verbindung auf dem server
 
-<WRAP right>
+<WRAP left>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
 ^  **概述**  |^
