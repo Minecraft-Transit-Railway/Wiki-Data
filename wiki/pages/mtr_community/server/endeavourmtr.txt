@@ -1,8 +1,5 @@
-====== Endeavour MTR ======
-
-<code ->
-<WRAP right>
-</code>
+====== Endeavour MTR
+ ======
 
 
 ===== General Information =====
