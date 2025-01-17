@@ -1,7 +1,9 @@
 ====== Endeavour MTR / MTR Endeavour ======
 
 <WRAP right>
-| Endeavour MTR ||
+| Endeavour MTR |
+
+|  ||
 
 | {{:mtr_community:server:endeavourmtrlogo.png?400|MTR Endeavour}} ||
 
