@@ -2,7 +2,7 @@
 
 <WRAP right>
 
-| ''@#FF0000:<color #FFFFFF>**Endeavour MTR''**</color> ||
+| ''@#FF0000:<color #FFFFFF>''**Endeavour MTR**''</color>'' ||
 | {{:mtr_community:server:endeavourmtrlogo.png?400}} ||
 | **General Information:**  ||
 | Creation Date: | 29th November 2024 |
@@ -35,5 +35,4 @@ MTR Endeavour is an server purposed to have an semi-realistic world and to not j
 === History: ===
 
 As the first country of MTR Endeavour , founded even before the server , approximately on the 25th of November 2024 , is the oldest country on the server. Its a medium sized country located on the approximate center of the server. It was the first country to make an Airport (Buckham International Airport) approximately finished on the 6th of December , 2024.
-
 
