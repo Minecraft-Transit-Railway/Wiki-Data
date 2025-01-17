@@ -3,7 +3,7 @@
 
 Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play server und der ältesten u bahn -verbindung auf dem server
 
-<WRAP right>
+<wrap right="">
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
 ^  **概述**  |^
@@ -11,5 +11,7 @@ Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play serve
 | **Im Besitz von** | Jonathan Ho |
 | ::: | Aozora Sky |
 | ::: | Zbx1245 |
+^  **Linie Karte**  |^
+|{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
-</WRAP>
+</wrap>
