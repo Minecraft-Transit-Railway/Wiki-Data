@@ -1,13 +1,16 @@
 ====== Endeavour MTR / MTR Endeavour ======
 
 <WRAP right>
-| Endeavour MTR |
 
-|  ||
-
-| {{:mtr_community:server:endeavourmtrlogo.png?400|MTR Endeavour}} ||
-
-| test | test |
+| ''@#FF0000:<color #FFFFFF>''**Endeavour MTR**''</color>'' ||
+| {{:mtr_community:server:endeavourmtrlogo.png?400}} ||
+| **General Information:**  ||
+| Creation Date: | 29th November 2024 |
+| Founder | gamiel72_ |
+| Current Owner | gamiel72_ |
+| Countries: | 10 |
+| Builders: | 14 |
+| Moderators: | 2 |
 
 </WRAP>
 
