@@ -2,7 +2,7 @@
 
 <WRAP right>
 
-| ''@#FF0000:<color #FFFFFF>''**Endeavour MTR**''</color>'' ||
+| ''@#FF0000:<color #FFFFFF>**Endeavour MTR''**</color> ||
 | {{:mtr_community:server:endeavourmtrlogo.png?400}} ||
 | **General Information:**  ||
 | Creation Date: | 29th November 2024 |
@@ -11,6 +11,7 @@
 | Countries: | 10 |
 | Builders: | 14 |
 | Moderators: | 2 |
+| Discord Server | https://discord.gg/8ds7jwSkUv |
 
 </WRAP>
 
@@ -19,7 +20,6 @@
 MTR Endeavour is an server purposed to have an semi-realistic world and to not just build rails. In Endeavour MTR countries are part of the United Nations which resolves international or/and multi country topics.
 
 ===== Countries: =====
-
 
 ==== Buckham ====
 
