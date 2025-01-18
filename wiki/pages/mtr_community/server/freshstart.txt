@@ -348,7 +348,7 @@ Fictional train, made for JR JC Line
 | **Lithia Link** | JR 415 Series | 3 |
 | @#ff00f9: |||
 | @#12ffdd: |||
-| **Poli A Line** | Unknown | 4 |
+| **Poli A Line** | S43-Tec 2014 LRV | 4 |
 | @#12ffdd: |||
 
 ===== Fresh Start Bus Service =====
@@ -375,7 +375,53 @@ In planning phase
 
 ===== HorizonRail =====
 
-Soon(tm)
+HorizonRail is a regional & mainline operator that currently operates mostly in the north.
+
+<WRAP right>
+
+|  @#900000:<color #FFFFFF>**HorizonRail**</color>  ||
+^ Founded | 22nd September 2024 |
+^ Owner | pca |
+^ Lines | 11 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#0FE8C3: |||
+| **Horizon Intercity - Greater Chome Connect** | GCC-Train((Fictional train, made for HIC Greater Chome Connect)) | 7 |
+| @#0FE8C3: |||
+| @#030952: |||
+| **Horizon Intercity - Kapple City Line** | KCL-Train((Fictional train, made for HIC Kapple City Line)) | 2 |
+| @#030952: |||
+| @#9462F2: |||
+| **Horizon Intercity - New Addlington Line** | NAL-Train((Fictional train, made for HIC New Addlington Line)) | 14 |
+| @#9462F2: |||
+| @#79062A: |||
+| **Horizon Intercity - Newhaven Line** | NHL-Train((Fictional train, made for HIC Newhaven Line)) | 10 |
+| @#79062A: |||
+| @#FF8C66: |||
+| **Horizon Intercity - Northeastern Main Line** | NML-Train((Fictional train, made for HIC Northeastern Main Line)) | 3 |
+| @#FF8C66: |||
+| @#52034E: |||
+| **Horizon Intercity - Bishan Shuttle Line** | BSL-Train((Fictional train, made for HIC Bishan Shuttle Line)) | 8 |
+| @#52034E: |||
+| @#046022: |||
+| **Horizon Intercity - Vylstren Main Line** | VML-Train((Fictional train, made for HIC Vylstren Main Line)) | 9 |
+| @#046022: |||
+| @#E4400B: |||
+| **Horizon Intercity - Chesham Connect** | CHC-Train((Fictional train, made for HIC Chesham Connect)) | 9 |
+| @#E4400B: |||
+| @#BE0A43: |||
+| **Horizon Intercity - Abeckis Line** | ABL-Train((Fictional train, made for HIC Abeckis Line)) | 6 |
+| @#BE0A43: |||
+| @#E3B905: |||
+| **Horizon Intercity - Phoenix Line** | PHL-Train((Fictional train, made for HIC Phoenix Line)) | 12 |
+| @#E3B905: |||
+| @#035273: |||
+| **Waterline** | Unknown | Unknown |
+| @#035273: |||
 
 ===== International Aviation Administration =====
 
@@ -410,21 +456,80 @@ In planning phase
 
 ===== JR =====
 
-Soon(tm)
-
-===== JR South =====
-
-JR South (JRS) is a small branch off from JR and operates regional and metro rail services.
+JR is a mainline / metro operator situated mainly in the Kapple region.
 
 <WRAP right>
 
-|  @#ff9000:<color #FFFFFF>**JR South**</color>  ||
-|  {{:mtr_community:trinsmoton_rail:jrs.png?150}}  ||
+|  @#909090:<color #FFFFFF>**JR**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:jrlogo.png?150}}  ||
+^ Founded | 24th December 2023 |
+^ Owner | The Interwebs |
+^ Lines | 13 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#0174D6: |||
+| **Kapple Urban Line** | JR E195 Series((Fictional train, made for Kapple Urban Line)) | 13 |
+| @#0174D6: |||
+| @#FAB02D: |||
+| **JH Line** | JR 394 Series((Fictional train, made for JH (Local) & JW (Normal) Line)) | 30 | 
+| ::: | @#FAB02D: ||
+| ::: | @#FA2D2D: ||
+| ::: | JR 394 Series((Fictional train, made for JH (Rapid) & JL (Rapid) Line)) | 16 |
+| @#FA2D2D: |||
+| @#B7003B: |||
+| **JW Line** | JR 394 Series((Fictional train, made for JH (Local) & JW (Normal) Line)) | 30((JW (Normal) line only)) |
+| ::: | JR E190 Series((Fictional train, made for JW (Branch) Line)) | 23((JW (Branch) Line only)) |
+| @#B7003B: |||
+| @#42418F: |||
+| **Gincaik Line**((Line goes in clockwise direction only)) | JR 551 Series((Fictional train, made for Gincaik Line)) | 6 |
+| @#42418F: |||
+| @#8FD2F7: |||
+| **JC Line** | JR 280 Series((Fictional train, made for JC Line)) | 7 |
+| @#8FD2F7: |||
+| @#FF8B00: |||
+| **JL Line** | JR E231 Series 500 | 10((JL (Local) Line only)) |
+| ::: | JR 394 Series((Fictional train, made for JH (Rapid) & JL (Rapid) Line)) | 6((JL (Rapid) Line only)) |
+| ::: | JR 211 Series | 2((Through-service onto Snow Line)) (Total 5) |
+| @#FF8B00: |||
+| @#5C7922: |||
+| **Snow Line** | JR 211 Series | 3((Through-service from JL (Snow) Line)) (Total 5) |
+| @#5C7922: |||
+| @#B9A1A7: |||
+| **Kapping Line** | JR 211 Series | 8 |
+| @#B9A1A7: |||
+| @#692EF1: |||
+| **Kapple Monorail** | JR 1651 Series((Fictional train, made for Kapple Monorail)) | 11((Route Local only))/6((Route Rapid only))/3((Route KTR Access/West Sea Access only)) |
+| @#692EF1: |||
+| @#3499C6: |||
+| **Airport Super Express** | JR 851 Series((Fictional train, made for Airport Super Express)) | 2 |
+| @#3499C6: |||
+| @#C672AE: |||
+| **New City Coast Line** | S-Train | 5 |
+| @#C672AE: |||
+| @#B8E27D: |||
+| **Lo Wu Line** | MLR | 7((Through-service onto KTA East Express)) (Total 13) |
+| @#B8E27D: |||
+| @#BA9584: |||
+| **JH Shinkansen** | BR Class 802 | 3((Through-service onto KTA Sigrad Express, KTA Kapple & City Line)) (Total 9) |
+| @#BA9584: |||
+
+===== JR Hankyu =====
+
+JR Hankyu is a successor to JR South, obtaining most of the planned lines from JR South.
+
+<WRAP right>
+
+|  @#a00000:<color #FFFFFF>**JR Hankyu**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:jrhankyu.png?300}}  ||
 ^ Founded | 4th August 2024((
 As Singapore Shinkansen Authority
 )) |
 ^ Owner | Isaac |
-^ Lines | 2 |
+^ Lines | 6 |
 
 </WRAP>
 
@@ -439,14 +544,38 @@ Fictional train, made for JR South
 | @#ff7600: |||
 | **Tokaido Shinkansen** | N700A Series | 3 |
 | @#ff7600: |||
-
-===== JR Hankyu =====
-
-Soon(tm)
+| @#707070: |||
+| **Nagahori-Tsurumiryokuchi Line**((In planning phase)) | N/A | N/A |
+| @#707070: |||
+| @#707070: |||
+| **Sennichimae Line**((In planning phase)) | N/A | N/A |
+| @#707070: |||
+| @#707070: |||
+| **Massy Line**((In planning phase)) | N/A | N/A |
+| @#707070: |||
+| @#707070: |||
+| **Triomphe Line**((In planning phase)) | N/A | N/A |
+| @#707070: |||
 
 ===== Java Train Government =====
 
-Soon(tm)
+Java Train Government (JTG) will operate mainline services in the north.
+
+<WRAP right>
+
+|  @#002090:<color #FFFFFF>**JTG**</color>  ||
+^ Founded | 4th August 2024 |
+^ Owner | kenzierr |
+^ Lines | 0 (1 planned) |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#707070: |||
+| **Cove Intercity (Burlington Express)**((In planning phase)) | FGV 3600 | 4 |
+| @#707070: |||
 
 ===== Kapple Regional LRT =====
 
@@ -459,9 +588,13 @@ Kapple Transport Agency (KTA) provides all kinds of metro, regional and light ra
 <WRAP right>
 
 |  @#ff7000:<color #FFFFFF>**KTA**</color>  ||
-^ Founded | 29th April 2023((As National Rail)) |
+^ Founded | 29th April 2023((
+As National Rail
+)) |
 ^ Owner | The Interwebs |
 ^ Lines | 33 |
+
+</WRAP>
 
 ===== Kenton Transport =====
 
@@ -471,7 +604,9 @@ Kenton Transport (KTT) is a regional rail transport based in the Kenton area.
 
 |  @#900000:<color #FFFFFF>**Kenton Transport**</color>  ||
 ^ Founded | 18th March 2024 |
-^ Founder | Aecth((No longer a builder in the server.)) |
+^ Founder | Aecth((
+No longer a builder in the server.
+)) |
 ^ Owner | Curt |
 ^ Lines (Divisions) | 1 |
 
@@ -523,7 +658,9 @@ Striaton Boat Lines (SBL) operates ferry services within the Striaton area.
 <WRAP right>
 
 |  @#2fd7fc:<color #000000>**SBL**</color>  ||
-^ Founded | 11th August 2024((Originally part of the same channel as [[mtr_community:server:freshstart#java_train_government|JTG]])) |
+^ Founded | 11th August 2024((
+Originally part of the same channel as [[mtr_community:server:freshstart#java_train_government|JTG]]
+)) |
 ^ Owner | Kenzierr |
 ^ Lines | 1 |
 
