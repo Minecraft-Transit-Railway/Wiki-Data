@@ -574,8 +574,11 @@ Java Train Government (JTG) will operate mainline services in the north.
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#707070: |||
-| **Cove Intercity (Burlington Express)**((In planning phase)) | FGV 3600 | 4 |
+| **Cove Intercity (Burlington Express)**((
+In planning phase
+)) | FGV 3600 | 4 |
 | @#707070: |||
+
 
 ===== Kapple Regional LRT =====
 
