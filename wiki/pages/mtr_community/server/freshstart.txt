@@ -559,14 +559,15 @@ Fictional train, made for JR South
 
 ===== Java Train Government =====
 
-Java Train Government (JTG) will operate mainline services in the north.
+Java Train Government (JTG) will operate mainline services in the north and north Kapple area
+.
 
 <WRAP right>
 
 |  @#002090:<color #FFFFFF>**JTG**</color>  ||
 ^ Founded | 4th August 2024 |
 ^ Owner | kenzierr |
-^ Lines | 0 (2 planned) |
+^ Lines | 0 (3 planned) |
 
 </WRAP>
 
