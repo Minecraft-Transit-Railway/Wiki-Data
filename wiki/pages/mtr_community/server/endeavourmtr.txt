@@ -25,8 +25,8 @@ MTR Endeavour is an server purposed to have an semi-realistic world and to not j
 
 <WRAP right>
 
-| **Buckham** ||
-| {{:mtr_community:endeavourmtr:buckham.png?400}} ||
+| **United Republic of Buckham** ||
+| {{:mtr_community:server:buckamnew.png?400}} ||
 | **Date of Creation**(approximately): | 25th November 2024 |
 | Governmental Structure | Semi-Presidential Unitary Constitutional Republic |
 | Official Languages | English , Portuguese |
@@ -50,3 +50,4 @@ As the first country of MTR Endeavour , founded even before the server , approxi
 | President | Curt |
 
 </WRAP>
+
