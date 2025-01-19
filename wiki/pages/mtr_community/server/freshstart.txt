@@ -574,11 +574,11 @@ Java Train Government (JTG) will operate mainline services in the north and nort
 ==== List of lines ====
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
-| @#707070: |||
+| @#610920: |||
 | **Cove Intercity (Burlington Express)**((
 In planning phase
 )) | FGV 3600 | 4 |
-| @#707070: |||
+| @#610920: |||
 | @#707070: |||
 | **Kebayoran Mainline** ((In planning phase)) | TBA | 10 |
 | @#707070: |||
