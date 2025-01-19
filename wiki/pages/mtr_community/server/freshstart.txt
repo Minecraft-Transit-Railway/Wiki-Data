@@ -688,7 +688,12 @@ Originally part of the same channel as [[mtr_community:server:freshstart#java_tr
 | @#68de8f: |||
 | **Ghan Mainline** | Oak Boat | 5 |
 | @#68de8f: |||
-
+| @#707070: |||
+| **Skojetje Line** ((In planning phase)) | TBA | 11 |
+| @#707070: |||
+| @#707070: |||
+| **Kseuse Line** ((In planning phase)) | TBA | 9 |
+| @#707070: |||
 ===== Transport for Striaton =====
 
 Soon(tm)
