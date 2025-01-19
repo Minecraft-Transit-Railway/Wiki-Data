@@ -567,7 +567,7 @@ Java Train Government (JTG) will operate mainline services in the north and nort
 |  @#002090:<color #FFFFFF>**JTG**</color>  ||
 ^ Founded | 4th August 2024 |
 ^ Owner | kenzierr |
-^ Lines | 0 (5 planned) |
+^ Lines | 1 (4 planned) |
 
 </WRAP>
 
