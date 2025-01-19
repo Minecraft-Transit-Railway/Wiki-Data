@@ -44,7 +44,9 @@ As the first country of MTR Endeavour , founded even before the server , approxi
 | **Smolia** ||
 | {{:mtr_community:endeavourmtr:smolia.webp?400}} ||
 | **Date of Creation**(approximately): | 3rd December 2024 |
-| Official Languages |   |
-| Capital |   |
-| President | curtxdddd |
+| Official Languages | Chinese |
+| ::: | English |
+| Capital | Central |
+| President | Curt |
 
+</WRAP>
