@@ -578,7 +578,8 @@ Java Train Government (JTG) will operate mainline services in the north.
 In planning phase
 )) | FGV 3600 | 4 |
 | @#707070: |||
-
+| @#707070: |||
+| **Kebayoran Mainline** ((In planning phase)) | TBA | TBA |
 
 ===== Kapple Regional LRT =====
 
