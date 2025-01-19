@@ -678,7 +678,7 @@ Striaton Boat Lines (SBL) operates ferry services within the Striaton area.
 Originally part of the same channel as [[mtr_community:server:freshstart#java_train_government|JTG]]
 )) |
 ^ Owner | Kenzierr |
-^ Lines | 1 |
+^ Lines | 1 (2 Planned)|
 
 </WRAP>
 
