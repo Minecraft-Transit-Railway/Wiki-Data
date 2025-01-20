@@ -130,19 +130,19 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#ff8080: |||
-| **Abeckis Clipper** | LCR Class 715 | 11 |
+| **Abeckis Clipper** | LCR Class 330 | 11 |
 | @#ff8080: |||
 | @#902000: |||
-| **Pitchlink** | LCR Class 715 | 14 |
+| **Pitchlink** | LCR Class 215 | 14 |
 | @#902000: |||
 | @#ffdc8d: |||
-| **Golden Clipper** | LCR Class 715 | 8 |
+| **Golden Clipper** | LCR Class 330 | 8 |
 | @#ffdc8d: |||
 | @#ffdc4a: |||
 | **Golden Skipper** | LCR Class 99 | 6 |
 | @#ffdc4a: |||
 | @#d0a000: |||
-| **Bridgelink** | LCR Class 715 | 9 |
+| **Bridgelink** | LCR Class 215 | 9 |
 | @#d0a000: |||
 | @#80ff80: |||
 | **Newhaven Clipper** | LCR Class 215 + 715 | 17 |
@@ -154,7 +154,7 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 | **Kapple Skipper** | LCR Class 215 + 715 | 4 |
 | @#8050e0: |||
 | @#d0a0ff: |||
-| **Ghepo Clipper** | LCR Class 715 | 11 |
+| **Ghepo Clipper** | LCR Class 330 | 11 |
 | @#d0a0ff: |||
 
 ===== Dan6 Services LLC =====
@@ -390,34 +390,54 @@ HorizonRail is a regional & mainline operator that currently operates mostly in 
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#0FE8C3: |||
-| **Horizon Intercity - Greater Chome Connect** | GCC-Train((Fictional train, made for HIC Greater Chome Connect)) | 7 |
+| **Horizon Intercity - Greater Chome Connect** | GCC-Train((
+Fictional train, made for HIC Greater Chome Connect
+)) | 7 |
 | @#0FE8C3: |||
 | @#030952: |||
-| **Horizon Intercity - Kapple City Line** | KCL-Train((Fictional train, made for HIC Kapple City Line)) | 2 |
+| **Horizon Intercity - Kapple City Line** | KCL-Train((
+Fictional train, made for HIC Kapple City Line
+)) | 2 |
 | @#030952: |||
 | @#9462F2: |||
-| **Horizon Intercity - New Addlington Line** | NAL-Train((Fictional train, made for HIC New Addlington Line)) | 14 |
+| **Horizon Intercity - New Addlington Line** | NAL-Train((
+Fictional train, made for HIC New Addlington Line
+)) | 14 |
 | @#9462F2: |||
 | @#79062A: |||
-| **Horizon Intercity - Newhaven Line** | NHL-Train((Fictional train, made for HIC Newhaven Line)) | 10 |
+| **Horizon Intercity - Newhaven Line** | NHL-Train((
+Fictional train, made for HIC Newhaven Line
+)) | 10 |
 | @#79062A: |||
 | @#FF8C66: |||
-| **Horizon Intercity - Northeastern Main Line** | NML-Train((Fictional train, made for HIC Northeastern Main Line)) | 3 |
+| **Horizon Intercity - Northeastern Main Line** | NML-Train((
+Fictional train, made for HIC Northeastern Main Line
+)) | 3 |
 | @#FF8C66: |||
 | @#52034E: |||
-| **Horizon Intercity - Bishan Shuttle Line** | BSL-Train((Fictional train, made for HIC Bishan Shuttle Line)) | 8 |
+| **Horizon Intercity - Bishan Shuttle Line** | BSL-Train((
+Fictional train, made for HIC Bishan Shuttle Line
+)) | 8 |
 | @#52034E: |||
 | @#046022: |||
-| **Horizon Intercity - Vylstren Main Line** | VML-Train((Fictional train, made for HIC Vylstren Main Line)) | 9 |
+| **Horizon Intercity - Vylstren Main Line** | VML-Train((
+Fictional train, made for HIC Vylstren Main Line
+)) | 9 |
 | @#046022: |||
 | @#E4400B: |||
-| **Horizon Intercity - Chesham Connect** | CHC-Train((Fictional train, made for HIC Chesham Connect)) | 9 |
+| **Horizon Intercity - Chesham Connect** | CHC-Train((
+Fictional train, made for HIC Chesham Connect
+)) | 9 |
 | @#E4400B: |||
 | @#BE0A43: |||
-| **Horizon Intercity - Abeckis Line** | ABL-Train((Fictional train, made for HIC Abeckis Line)) | 6 |
+| **Horizon Intercity - Abeckis Line** | ABL-Train((
+Fictional train, made for HIC Abeckis Line
+)) | 6 |
 | @#BE0A43: |||
 | @#E3B905: |||
-| **Horizon Intercity - Phoenix Line** | PHL-Train((Fictional train, made for HIC Phoenix Line)) | 12 |
+| **Horizon Intercity - Phoenix Line** | PHL-Train((
+Fictional train, made for HIC Phoenix Line
+)) | 12 |
 | @#E3B905: |||
 | @#035273: |||
 | **Waterline** | Unknown | Unknown |
@@ -472,49 +492,93 @@ JR is a mainline / metro operator situated mainly in the Kapple region.
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#0174D6: |||
-| **Kapple Urban Line** | JR E195 Series((Fictional train, made for Kapple Urban Line)) | 13 |
+| **Kapple Urban Line** | JR E195 Series((
+Fictional train, made for Kapple Urban Line
+)) | 13 |
 | @#0174D6: |||
 | @#FAB02D: |||
-| **JH Line** | JR 394 Series((Fictional train, made for JH (Local) & JW (Normal) Line)) | 30 | 
+| **JH Line** | JR 394 Series((
+Fictional train, made for JH (Local) & JW (Normal) Line
+)) | 30 |
 | ::: | @#FAB02D: ||
 | ::: | @#FA2D2D: ||
-| ::: | JR 394 Series((Fictional train, made for JH (Rapid) & JL (Rapid) Line)) | 16 |
+| ::: | JR 394 Series((
+Fictional train, made for JH (Rapid) & JL (Rapid) Line
+)) | 16 |
 | @#FA2D2D: |||
 | @#B7003B: |||
-| **JW Line** | JR 394 Series((Fictional train, made for JH (Local) & JW (Normal) Line)) | 30((JW (Normal) line only)) |
-| ::: | JR E190 Series((Fictional train, made for JW (Branch) Line)) | 23((JW (Branch) Line only)) |
+| **JW Line** | JR 394 Series((
+Fictional train, made for JH (Local) & JW (Normal) Line
+)) | 30((
+JW (Normal) line only
+)) |
+| ::: | JR E190 Series((
+Fictional train, made for JW (Branch) Line
+)) | 23((
+JW (Branch) Line only
+)) |
 | @#B7003B: |||
 | @#42418F: |||
-| **Gincaik Line**((Line goes in clockwise direction only)) | JR 551 Series((Fictional train, made for Gincaik Line)) | 6 |
+| **Gincaik Line**((
+Line goes in clockwise direction only
+)) | JR 551 Series((
+Fictional train, made for Gincaik Line
+)) | 6 |
 | @#42418F: |||
 | @#8FD2F7: |||
-| **JC Line** | JR 280 Series((Fictional train, made for JC Line)) | 7 |
+| **JC Line** | JR 280 Series((
+Fictional train, made for JC Line
+)) | 7 |
 | @#8FD2F7: |||
 | @#FF8B00: |||
-| **JL Line** | JR E231 Series 500 | 10((JL (Local) Line only)) |
-| ::: | JR 394 Series((Fictional train, made for JH (Rapid) & JL (Rapid) Line)) | 6((JL (Rapid) Line only)) |
-| ::: | JR 211 Series | 2((Through-service onto Snow Line)) (Total 5) |
+| **JL Line** | JR E231 Series 500 | 10((
+JL (Local) Line only
+)) |
+| ::: | JR 394 Series((
+Fictional train, made for JH (Rapid) & JL (Rapid) Line
+)) | 6((
+JL (Rapid) Line only
+)) |
+| ::: | JR 211 Series | 2((
+Through-service onto Snow Line
+)) (Total 5) |
 | @#FF8B00: |||
 | @#5C7922: |||
-| **Snow Line** | JR 211 Series | 3((Through-service from JL (Snow) Line)) (Total 5) |
+| **Snow Line** | JR 211 Series | 3((
+Through-service from JL (Snow) Line
+)) (Total 5) |
 | @#5C7922: |||
 | @#B9A1A7: |||
 | **Kapping Line** | JR 211 Series | 8 |
 | @#B9A1A7: |||
 | @#692EF1: |||
-| **Kapple Monorail** | JR 1651 Series((Fictional train, made for Kapple Monorail)) | 11((Route Local only))/6((Route Rapid only))/3((Route KTR Access/West Sea Access only)) |
+| **Kapple Monorail** | JR 1651 Series((
+Fictional train, made for Kapple Monorail
+)) | 11((
+Route Local only
+))/6((
+Route Rapid only
+))/3((
+Route KTR Access/West Sea Access only
+)) |
 | @#692EF1: |||
 | @#3499C6: |||
-| **Airport Super Express** | JR 851 Series((Fictional train, made for Airport Super Express)) | 2 |
+| **Airport Super Express** | JR 851 Series((
+Fictional train, made for Airport Super Express
+)) | 2 |
 | @#3499C6: |||
 | @#C672AE: |||
 | **New City Coast Line** | S-Train | 5 |
 | @#C672AE: |||
 | @#B8E27D: |||
-| **Lo Wu Line** | MLR | 7((Through-service onto KTA East Express)) (Total 13) |
+| **Lo Wu Line** | MLR | 7((
+Through-service onto KTA East Express
+)) (Total 13) |
 | @#B8E27D: |||
 | @#BA9584: |||
-| **JH Shinkansen** | BR Class 802 | 3((Through-service onto KTA Sigrad Express, KTA Kapple & City Line)) (Total 9) |
+| **JH Shinkansen** | BR Class 802 | 3((
+Through-service onto KTA Sigrad Express, KTA Kapple & City Line
+)) (Total 9) |
 | @#BA9584: |||
 
 ===== JR Hankyu =====
@@ -545,22 +609,29 @@ Fictional train, made for JR South
 | **Tokaido Shinkansen** | N700A Series | 3 |
 | @#ff7600: |||
 | @#707070: |||
-| **Nagahori-Tsurumiryokuchi Line**((In planning phase)) | N/A | N/A |
+| **Nagahori-Tsurumiryokuchi Line**((
+In planning phase
+)) | N/A | N/A |
 | @#707070: |||
 | @#707070: |||
-| **Sennichimae Line**((In planning phase)) | N/A | N/A |
+| **Sennichimae Line**((
+In planning phase
+)) | N/A | N/A |
 | @#707070: |||
 | @#707070: |||
-| **Massy Line**((In planning phase)) | N/A | N/A |
+| **Massy Line**((
+In planning phase
+)) | N/A | N/A |
 | @#707070: |||
 | @#707070: |||
-| **Triomphe Line**((In planning phase)) | N/A | N/A |
+| **Triomphe Line**((
+In planning phase
+)) | N/A | N/A |
 | @#707070: |||
 
 ===== Java Train Government =====
 
-Java Train Government (JTG) will operate mainline services in the north and north Kapple area
-.
+Java Train Government (JTG) will operate mainline services in the north and north Kapple area .
 
 <WRAP right>
 
@@ -578,18 +649,25 @@ Java Train Government (JTG) will operate mainline services in the north and nort
 | **Cove Intercity (Burlington Express)** | FGV 3600 | 4 |
 | @#610920: |||
 | @#707070: |||
-| **Kebayoran Mainline** ((In planning phase)) | TBA | 10 |
+| **Kebayoran Mainline** ((
+In planning phase
+)) | TBA | 10 |
 | @#707070: |||
 | @#707070: |||
-| **Manggarai Connect Line** ((In planning phase)) | TBA | 6 |
+| **Manggarai Connect Line** ((
+In planning phase
+)) | TBA | 6 |
 | @#707070: |||
 | @#707070: |||
-| **Pasar Senin Local Line** ((In planning phase)) | TBA | 12 |
+| **Pasar Senin Local Line** ((
+In planning phase
+)) | TBA | 12 |
 | @#707070: |||
 | @#707070: |||
-| **Pasar Senin Intercity Line** ((In planning phase)) | TBA | 5 |
+| **Pasar Senin Intercity Line** ((
+In planning phase
+)) | TBA | 5 |
 | @#707070: |||
-
 
 ===== Kapple Regional LRT =====
 
@@ -676,7 +754,7 @@ Striaton Boat Lines (SBL) operates ferry services within the Striaton area.
 Originally part of the same channel as [[mtr_community:server:freshstart#java_train_government|JTG]]
 )) |
 ^ Owner | Kenzierr |
-^ Lines | 1 (2 Planned)|
+^ Lines | 1 (2 Planned) |
 
 </WRAP>
 
@@ -687,11 +765,16 @@ Originally part of the same channel as [[mtr_community:server:freshstart#java_tr
 | **Ghan Mainline** | Oak Boat | 5 |
 | @#68de8f: |||
 | @#707070: |||
-| **Skojetje Line** ((In planning phase)) | TBA | 11 |
+| **Skojetje Line** ((
+In planning phase
+)) | TBA | 11 |
 | @#707070: |||
 | @#707070: |||
-| **Kseuse Line** ((In planning phase)) | TBA | 9 |
+| **Kseuse Line** ((
+In planning phase
+)) | TBA | 9 |
 | @#707070: |||
+
 ===== Transport for Striaton =====
 
 Soon(tm)
