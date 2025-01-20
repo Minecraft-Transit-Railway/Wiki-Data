@@ -7,78 +7,17 @@
 |  @#EFEEF0:**United Cities Railways**  ||
 |  {{:mtr_community:ucr.png?250}}  ||
 |  @#EFEEF0:**Overview**  ||
-| **Owner** | AIEMERIC |
+| **Owners** | AIEMERIC\\ szandorthe13th |
+| **Date of Creation** | June 11th, 2022 |
 | **Transit type** | Mixed |
-| **Number of companies** | 6 |
 
 </WRAP>
 
 ===== History =====
 
-**United Cities Railways** started out as a small group of a few people with interest in the Minecraft Transit Railway mod, using the mod to make existing railway systems work in cities such as Greenfield and Sayama. Season 2 sought to broaden the reach of people beyond just the French, and the server saw significant growth in people from all over, but mainly Europe. The railways constructed in Season 2 went through better planning than before, but towards the end of the season, it became clear that too many oversights had caused the system to become messy, as well as that the amount of companies was problematic as no new companies could easily integrate. Season 3 aims to put a new mayor system to use to try and bring a bit of fun and (hopefully) cooperative realism to the world.
+**United Cities Railways** started out as a small group of a few people with interest in the Minecraft Transit Railway mod, using the mod to make existing railway systems work in cities such as Greenfield and Sayama. Season 2 sought to broaden the reach of people beyond just the French, and the server saw significant growth in people from all over, but mainly Europe. The railways constructed in Season 2 went through better planning than before, but towards the end of the season, it became clear that too many oversights had caused the system to become messy, as well as that the amount of companies was problematic as no new companies could easily integrate. Season 3 aimed to put a new mayor system to use to try and bring a bit of fun and (hopefully) cooperative realism to the world. Unfortunately, a prolonged absence from the owner during the wait for the 4.0 version of MTR to release, later proven to be because the owner got hacked and impersonated for a while, caused season 3 to become a mess of lines that had no real owner, or were mostly built by a different builder than who owned it by the end. //Season 4 is planned to start at the release of MTR's 4.0.0 version.//
 
-===== Operators =====
-
-{{:mtr_community:unitedcitiesrailways:urbanexpress.png?50|UrbanExpress}} UrbanExpress {{:mtr_community:mosyzan_logo.png?50|Moszyan Transport}} Moszyan Transport {{:mtr_community:st_logo.png?50|SMART Transit}} SMART Transit {{:mtr_community:sct_logo.png?50|Serverwide City Transit}} Serverwide City Transit
-
-{{:mtr_community:unitedcitiesrailways:yorkshire.png?50|Yorkshire Airways}} Yorkshire Airways {{:mtr_community:unitedcitiesrailways:apostosrail.png?50|ApostosRail}} ApostosRail {{:mtr_community:unitedcitiesrailways:brunelrailways.png?50|Brunel Railways}} Brunel Railways {{:mtr_community:unitedcitiesrailways:apacherail.png?50|ApacheRail}} ApacheRail {{:mtr_community:unitedcitiesrailways:velocitas.png?50|Velocitas}} Velocitas
-
-===== Cities & Lines =====
-
-==== Greenfield ====
-
-<WRAP right>
-
-|  @#EFEEF0:  **City of Greenfield**  ||
-|  {{:mtr_community:unitedcitiesrailways:greenfield.png?250}}  ||
-|  @#EFEEF0:  **Overview**  ||
-| **Operator** | Greenfield Transit Authority |
-| **Central Station** | Greenfield Union |
-| **Location** | 7307, 26531 |
-| **Transit type** | Mixed |
-| **Operating lines** | 6 |
-
+===== Important Info =====
+<WRAP center round todo 60%>
+Hello! Szandor here, I basically run UCR as it's most active administrative member. The information tab below has been removed because the chaos mentioned in the history section above has made it kind of unmanageable to constantly update with ownership constantly shifting around. Everything from here on downwards will be back in season 4.
 </WRAP>
-
-//All Greenfield lines are operated under the GTA name, even though they are run by different operators//
-
-|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  | @#EFEEF0:Evaluation |
-|  @#FFFF00:Yellow Line  |  Operational  |  Ashfield West  |  Outer Palma  |  Moszyan Railways  | 75.8 |
-| ::: |  Peak Hours Only  |  Sonora River Transfer  |  Komplex  | ::: |   |
-|  @#DC30F8:Magenta Line  |  Operational  |  Sunnyside  |  Melrose North  |  SMART Transit  | 86.6 |
-|  @#0000FF:Blue Line  |  Operational  |  Westwood  |  Lincoln Port  |  CountryLink*  |   |
-|  @#FFAD00:Orange Line  |  Operational  |  Melrose West  |  Grand Lannex  |  UrbanExpress  | 79.0 |
-|  @#800000:Brown Line  |  Operational  |  Sunnyside  |  Outer Palma  |  Brunel Railways  | 87.4 |
-|  @#00FF00:Green Line  |  Operational  |  Sunnyside  |  Kazias Center  |  Moszyan Railways  | 93.6 |
-|  @#00C1FF:Cyan Line  |  Operational  |  Glenview  |  Delta Pier  |  ApacheRail  | 83.0 |
-|  @#FF0000:Red Line  |  Work In Progress  |  Ashfield West  |  Whitestone  |  SCT  |   |
-|  @#8000FF:Purple Line  |  Work In Progress  |  Melrose West  |  Richmond  |  ApostosRail  |   |
-|  @#00EDFF:Aqua LRT  |  Operational  |  Northpark  |  Ashfield  |  UrbanExpress  | 85.6 |
-|  East LRT  |  Work In Progress |  Longport Keys  |  Airport/Central Avenue  |  SMART Transit  |   |
-|  @#475493:Airport APM  |  Work In Progress  |  Grand Lannex  |  Airport Terminal 3  |  Yorkshire Airlines  |   |
-|  @#C9C9C9:Bus Line 1  |  Operational  |  Centrum/Bus Terminal  |  Glenview  |  Greenfield Transit  |   |
-|  @#CACACA:Bus Line 2  |  Operational  |  Centrum/Bus Terminal  |  Melrose North  |  Greenfield Transit  |   |
-|  @#CBCBCB:Bus Line 3  |  Operational  |  Centrum/Bus Terminal  |  Ashfield Station  |  Greenfield Transit  |   |
-|  @#CCCCCC:Bus Line 4  |  Work In Progress  |  Centrum/Bus Terminal  |  Airport Terminals  |  Greenfield Transit  |   |
-|  @#CDCDCD:Bus Line 5  |  Planned  |  Centrum/Bus Terminal  |  Sonora River Transfer  |  Greenfield Transit  |   |
-|  @#CECECE:Bus Line 6  |  Planned  |  Centrum/Bus Terminal  |  Longport Keys East  |  Greenfield Transit  |   |
-|  @#CFCFCF:Bus Line 7  |  Planned  |  Centrum/Bus Terminal  |  Kazias Center  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 8  |  Planned  |  Centrum/Bus Terminal  |  Outer Palma  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 9  |  Planned  |  Kazias Center  |  Delta Cruise Terminal  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 10  |  Planned  |  Sonora River Transfer  |  Grand Lannex  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 11  |  Planned  |  Dawson  |  Grand Lannex  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 12  |  Planned  |  Dawson  |  Delta Cruise Terminal  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 13  |  Planned  |  Dawson  |  Longport Zoo  |  Greenfield Transit  |   |
-|  @#D0D0D0:Bus Line 14  |  Planned  |  Dawson  |  Mall Avenue Station  |  Greenfield Transit  |   |
-
-//*Operators with an asterisk are decommissioned and no longer exist//
-
-==== Intercity ====
-
-|  @#EFEEF0:Line Name  |  @#EFEEF0:Status  |  @#EFEEF0:Starting Station  |  @#EFEEF0:Terminus Station  |  @#EFEEF0:Operator  |
-|  @#A1C742:Sayama Corridor Intercity  |  Work In Progress  |  Mattupolis Medford  |  Outer Palma  |  ApacheRail / Moszyan Railways  |
-|  @#BF9052:Sayama Corridor Sprinter  |  Work In Progress  |  Sayama Sendindai  |  Outer Palma  |  Moszyan Railways  |
-|  @#75BF52:Sayama Corridor Regional  |  Work In Progress  |  Mattupolis Medford  |  Sayama Okamachi  |  ApacheRail  |
-|  @#385475:Great Western Mainline  |  Work In Progress  |  Shmar Union  |  Ashfield  |  Brunel Railways  |
-|  @#575757:Novig'Express  |  Work In Progress  |  Novigard  |  Ashfield  |  UrbanExpress  |
-
