@@ -21,10 +21,13 @@ Below are the headcodes currently in use on the Let's Play Server's high-speed r
 |  :::  |  **1**  |  **JON** (//Jonathan's Resort//)  |  **43**  |
 |  Dan Chun Line  |  **9**  |  **SPW**  (//Spawn//)  |  **24**  |
 |  :::  |  **9**  |  **YOC** (//Yongchun//)  |  **55**  |
-|  Kallos-WaiteMara Link Line  |  **1**  |  **KAL** (//Kallos LRT Depot//)  |  **72**  |
-|  :::  |  **9**  |  **LLA** (//Llanmara Saint Ann's//)  |  **82**  |
-|  :::  |  ****  |  **WTM** (//Waitematā//)  |   //(Waitematā is no longer the terminus of the WaiteMara Link line)//   |
+|  Kalliskeard Line  |  **1**  |  **KAL** (//Kallos LRT Depot//)  |  **72**  |
+|  :::  |  **9**  |  **LSK** (//Liskeard Central//)  |  **82**  |
 |  Kallos Line  |  **9**  |  **KAL** (//Kallos LRT Depot//)  |  **06**  |
 |  :::  |  **9**  |  **SPW** (//Spawn//)  |  **12**  |
 |  Intercity Metro-Diagonally Line  |  **2**  |  **YOC** (//Yongchun//)  |  **57**  |
 |  :::  |  **2**  |  **SUR** (//Sunrise//)  |  **90**  |
+|  Argenti West Coast  |  **2**  |  **BYE** (//Byeollae//)  |  **34**  |
+|  :::  |  **2**  |  **RHC** (//Den Hof Centraal//)  |  **88**  |
+|  ITX Cheongchun  |  **2**  |  **BYE** (//Byeollae//)  |  **24**  |
+|  :::  |  **2**  |  **DAN** (//Danielston Memorial//)  |  **40**  |
