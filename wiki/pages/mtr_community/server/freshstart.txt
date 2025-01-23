@@ -26,6 +26,66 @@ The builder applications are open for a certain week every single month. Non-bui
 
 The following companies are sorted in alphabetical order.
 
+<WRAP center round info 70%>
+Companies without a logo are represented with a Minecraft Transit Railway ({{:mtr_community:trinsmoton_rail:nologonew.png?20}}) logo.
+</WRAP>
+
+{{:mtr_community:trinsmoton_rail:chtr.png?40}} [[#chtr_fsl|CHTR FSL]]
+
+{{:mtr_community:trinsmoton_rail:crcl.png?40}} [[#Cross-Country Rail Company of Lucasshire|Cross-Country Rail Company of Lucasshire]]
+
+{{:mtr_community:trinsmoton_rail:dan6.png?40}} [[#Dan6 Services LLC|Dan6 Services LLC]]
+
+{{:mtr_community:trinsmoton_rail:etu.png?40}} [[#East Transport Union|East Transport Union]]
+
+{{:mtr_community:trinsmoton_rail:faythe.png?40}} [[#Faythe Transport|Faythe Transport]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Fresh Start Bus Service|Fresh Start Bus Service]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#German Trams|German Trams]]
+
+{{:mtr_community:trinsmoton_rail:hzr.png?40}} [[#HorizonRail|HorizonRail]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#International Aviation Administration|International Aviation Administration]]
+
+{{:mtr_community:trinsmoton_rail:jrlogo.png?40}} [[#JR|JR]]
+
+{{:mtr_community:trinsmoton_rail:jrhankyunotext.png?40}} [[#JR Hankyu|JR Hankyu]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Java Train Government|Java Train Government]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Kapple Regional LRT|Kapple Regional LRT]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Kapple Transport Agency|Kapple Transport Agency]]
+
+{{:mtr_community:trinsmoton_rail:ktnnew.png?40}} [[#Kenton Transport|Kenton Transport]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways)|Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways)]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Minecraft Rapid Transit|Minecraft Rapid Transit]]
+
+{{:mtr_community:trinsmoton_rail:nu.png?40}} [[#New Underground|New Underground]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#New Water Rail|New Water Rail]]
+
+{{:mtr_community:trinsmoton_rail:odakyu.png?40}} [[#Odakyu|Odakyu]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Phoenix Transport Authority|Phoenix Transport Authority]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Stars Local Transport|Stars Local Transport]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#SNCF Voyageurs|SNCF Voyageurs]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Striaton Boat Lines|Striaton Boat Lines]]
+
+{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Transport for Striaton|Transport for Striaton]]
+
+{{:mtr_community:trinsmoton_rail:private.png?40}} [[#Privately operated lines|Privately operated lines]]
+
+<WRAP center round info 70%>
+Planned lines that are listed in each companies default their colour to gray if no line colour is planned.
+</WRAP>
+
 ===== CHTR FSL =====
 
 CHTR FSL is a railway company operated by CHTR Corporation that manages various lines, each operated by different sectors.
@@ -373,6 +433,26 @@ In planning phase
 )) | TBA | TBA |
 | @#707070: |||
 
+===== German Trams =====
+
+German Trams operates various lines on the east of the map.
+
+<WRAP right>
+
+|  @#E00000:<color #FFFFFF>**German Trams**</color>  ||
+^ Founded | 11th October 2024 |
+^ Owner | AGermanMain |
+^ Lines | 1 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#f00000: |||
+| **U1** | S43-Tec LRVs | 11 |
+| @#f00000: |||
+
 ===== HorizonRail =====
 
 HorizonRail is a regional & mainline operator that currently operates mostly in the north.
@@ -380,6 +460,7 @@ HorizonRail is a regional & mainline operator that currently operates mostly in 
 <WRAP right>
 
 |  @#900000:<color #FFFFFF>**HorizonRail**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:hzr.png?150}}  ||
 ^ Founded | 22nd September 2024 |
 ^ Owner | pca |
 ^ Lines | 11 |
@@ -690,11 +771,12 @@ As National Rail
 
 ===== Kenton Transport =====
 
-Kenton Transport (KTT) is a regional rail transport based in the Kenton area.
+Kenton Transport (KTS) is a regional rail transport based in the Kenton area.
 
 <WRAP right>
 
 |  @#900000:<color #FFFFFF>**Kenton Transport**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:ktnnew.png?150}}  ||
 ^ Founded | 18th March 2024 |
 ^ Founder | Aecth((
 No longer a builder in the server.
@@ -786,9 +868,10 @@ Privately operated lines (Private Lines) are lines that are not under any specif
 <WRAP right>
 
 |  @#707070:<color #FFFFFF>**Private Lines**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:private.png?150}}  ||
 ^ Founded | 17th April 2024 |
 ^ Founded by | The Interwebs |
-^ Lines | 11 |
+^ Lines | 10 |
 
 </WRAP>
 
@@ -831,9 +914,6 @@ No longer a builder in the server.
 | @#ffe300: ||||
 | **River Line** | JR 211 Series | Curt | 5 |
 | @#ffe300: ||||
-| @#f00000: ||||
-| **U1** | S43-Tec LRVs | AGermanMain | 11 |
-| @#f00000: ||||
 
 ====== Reception ======
 
