@@ -450,7 +450,14 @@ German Trams operates various lines on the east of the map.
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#f00000: |||
-| **U1** | S43-Tec LRVs | 11 |
+| **U1** | S43-Tec 1975 LRV | 11 |
+| ::: | S43-Tec 1980 LRV | ::: |
+| ::: | S43-Tec 1987 LRV | ::: |
+| ::: | S43-Tec 1995 LRV | ::: |
+| ::: | S43-Tec 2002 LRV | ::: |
+| ::: | S43-Tec 2010 LRV | ::: |
+| ::: | S43-Tec 2020 LRV | ::: |
+| ::: | S43-Tec 2024 LRV | ::: |
 | @#f00000: |||
 
 ===== HorizonRail =====
