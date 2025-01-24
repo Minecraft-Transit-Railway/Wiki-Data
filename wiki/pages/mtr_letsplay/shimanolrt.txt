@@ -142,7 +142,7 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 =====Routes=====
 ^Route Name^Transit point^Parallel routes^Note^
 |相01(AC01)|Kurokusa Depot ⇄ Acacialand Village (⇄ Higashi Huggy 8 Chome((Only 4-car trains available.))) ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai |Shimano Line\\ Marine Line\\ Cross Country(XC11)\\ Hybra Line\\ Northern Line|　|
-|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Oasis Red ⇄ Kamiyonai|Hybra Line\\ Northern Line|　|
+|相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
 |黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
