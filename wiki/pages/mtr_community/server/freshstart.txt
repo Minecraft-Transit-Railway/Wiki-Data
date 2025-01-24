@@ -52,7 +52,7 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 
 {{:mtr_community:trinsmoton_rail:jrhankyunotext.png?40}} [[#JR Hankyu|JR Hankyu]]
 
-{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Java Train Government|Java Train Government]]
+{{:mtr_community:trinsmoton_rail:jtg.png?40}} [[#Java Train Government|Java Train Government]]
 
 {{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Kapple Regional LRT|Kapple Regional LRT]]
 
@@ -724,6 +724,7 @@ Java Train Government (JTG) will operate mainline services in the north and nort
 <WRAP right>
 
 |  @#002090:<color #FFFFFF>**JTG**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:jtg.png?150}}  ||
 ^ Founded | 4th August 2024 |
 ^ Owner | kenzierr |
 ^ Lines | 1 (4 planned) |
