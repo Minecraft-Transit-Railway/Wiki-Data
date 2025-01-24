@@ -27,7 +27,9 @@ The builder applications are open for a certain week every single month. Non-bui
 The following companies are sorted in alphabetical order.
 
 <WRAP center round info 70%>
+
 Companies without a logo are represented with a Minecraft Transit Railway ({{:mtr_community:trinsmoton_rail:nologonew.png?20}}) logo.
+
 </WRAP>
 
 {{:mtr_community:trinsmoton_rail:chtr.png?40}} [[#chtr_fsl|CHTR FSL]]
@@ -66,7 +68,7 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 
 {{:mtr_community:trinsmoton_rail:nu.png?40}} [[#New Underground|New Underground]]
 
-{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#New Water Rail|New Water Rail]]
+{{:mtr_community:trinsmoton_rail:nwr.png?40}} [[#New Water Rail|New Water Rail]]
 
 {{:mtr_community:trinsmoton_rail:odakyu.png?40}} [[#Odakyu|Odakyu]]
 
@@ -83,7 +85,9 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 {{:mtr_community:trinsmoton_rail:private.png?40}} [[#Privately operated lines|Privately operated lines]]
 
 <WRAP center round info 70%>
+
 Planned lines that are listed in each companies default their colour to gray if no line colour is planned.
+
 </WRAP>
 
 ===== CHTR FSL =====
@@ -760,7 +764,55 @@ In planning phase
 
 ===== Kapple Regional LRT =====
 
-Soon(tm)
+Kapple Regional LRT (KRLR) operates 'light rail' services north of Kapple.
+
+<WRAP right>
+
+|  @#ce9800:<color #FFFFFF>**KRLR**</color>  ||
+^ Founded | 11th May 2024((
+As part of [[#Privately operated lines|Private Lines]]
+)) |
+^ Owners | Curt |
+| ::: | The Interwebs |
+^ Co-Workers | Kenzierr |
+| ::: | ZEP |
+| ::: | GalaxyFox |
+| ::: | rapidkyokeirailservices |
+| ::: | BricksTW |
+| ::: | ARmz((
+No longer a builder in the server.
+)) |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#cf9837: |||
+| **LRT1** | BR Class 700 | 19((On Shan bound)), 20((Kapple Transportation Resort bound)) |
+| @#cf9837: |||
+| @#409091: |||
+| **LRT2S** | BR Class 710 | 21 |
+| @#409091: |||
+| @#3e8dd3: |||
+| **LRT2F** | CAF-Train | 5 |
+| @#3e8dd3: |||
+| @#9db037: |||
+| **LRT3** | BR Class 720 | 30((On Shan bound)), 31((Popping Central bound)) |
+| @#9db037: |||
+| @#9e1f69: |||
+| **LRT8** | S43-Tec 2014 Light-Metro | 6 |
+| @#9e1f69: |||
+| @#00d8ff: |||
+| **LRT9** | KAI Commuter JR 203 Series | 21 |
+| @#00d8ff: |||
+| @#50a477: |||
+| **LRT12** | S43-Tec 2022 Light-Metro | 8 |
+| @#50a477: |||
+| @#70fe32: |||
+| **LRT14** | S43-Tec 2002 LRV | 8 |
+| @#70fe32: |||
+
 
 ===== Kapple Transport Agency =====
 
@@ -773,9 +825,110 @@ Kapple Transport Agency (KTA) provides all kinds of metro, regional and light ra
 As National Rail
 )) |
 ^ Owner | The Interwebs |
-^ Lines | 33 |
+^ Lines | 31 |
 
 </WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#EF72F9: |||
+| **North Main Line**((Through-service from Odakyu West Sea Line))((Through-service onto Central Main Line)) | R-Train | 11 (Total 26) |
+| @#EF72F9: |||
+| @#132111: |||
+| **Central Main Line**((Through-service from North Main Line)) | R-Train | 15 (Total 26) |
+| @#132111: |||
+| @#F97297: |||
+| **Central North Main Line** | R-Train | 9 / Total 14((Through-service from Sky Line only)) |
+| @#F97297: |||
+| @#F6153A: |||
+| **Central North Rapid Main Line**((Through-service from Airport Connect Line)) | KR-Train((Fictional train)) | 9 (Total 14) |
+| @#F6153A: |||
+| @#DA8C0C: |||
+| **East Main Line** | R-Train | 8 |
+| @#DA8C0C: |||
+| @#76FCE5: |||
+| **Airport Connect Line**((Through-service onto Central North Rapid Main Line)) | KR-Train((Fictional train)) | 5 (Total 14) |
+| @#76FCE5: |||
+| @#C45029: |||
+| **Sky Line**((Through-service onto Central North Main Line)) | R-Train | 5 (Total 14) |
+| @#C45029: |||
+| @#05F71E: |||
+| **Outer City Loop** | SP1900 | 21 |
+| @#05F71E: |||
+| @#D2FE27: |||
+| **Kapple City New Tram** | AGTKIT-type2door2000 | 12 |
+| ::: | @#D2FE27: ||
+| ::: | @#2751FE: ||
+| ::: | AGTKIT-type2door2000 | 4 |
+| @#2751FE: |||
+| @#01255C: |||
+| **Kapple & City Line** | CAF-Train | 4 |
+| ::: | BR Class 802 | 4 (Total 9)((Through-service from JR JH Shinkansen & Sigrad Express only)) |
+| @#01255C: |||
+| @#DC32A7: |||
+| **Shuttle 1** | Minecart | 8 |
+| @#DC32A7: |||
+| @#E54B06: |||
+| **Kapple Plains Connect Line** | SK6000 | 2 |
+| @#E54B06: |||
+| @#71586F: |||
+| **Gincaik Link Line** | CX-100 | 3 |
+| @#71586F: |||
+| @#1AC269: |||
+| **Rock Sea Bay Line** | 1141A | 5 |
+| @#1AC269: |||
+| @#A7E755: |||
+| **North Park Shuttle**((Clockwise direction only)) | SP1900 | 4 |
+| @#A7E755: |||
+| @#FF0001: |||
+| **T1 Tram** | R-Train | 4 (Total 8)((Through-service from T2 tram only))/13 |
+| @#FF0001: |||
+| @#1D0FDD: |||
+| **T2 Tram** | R-Train | 4 (Total 8)((Through-service onto T1 tram only))/5 |
+| @#1D0FDD: |||
+| @#1D24A9: |||
+| **T101I Bus**((Clockwise direction only)) | Yutong U12 | 8 |
+| @#1D24A9: |||
+| @#341DEF: |||
+| **Sigrad Express**((Through-service from JH Shinkansen))((Through-service onto Kapple & City Line)) | BR Class 802 | 4 (Total 9) |
+| @#341DEF: |||
+| @#D91FE2: |||
+| **East Express**((Through-service from JR Lo Wu Line)) | MLR | 6 (Total 13) |
+| @#D91FE2: |||
+| @#2C5AFE: |||
+| **ICHSR1** | BR Class 802 | 3((Route Waterfront only))/7((Route A only)) |
+| @#2C5AFE: |||
+| @#49D81A: |||
+| **Frosty Bay Line** | JR E231 Series 500 | 7 |
+| @#49D81A: |||
+| @#3A8BBF: |||
+| **Arctic Liner** | N700A Series | 2 |
+| @#3A8BBF: |||
+| @#AF4227: |||
+| **Kapple Beach Link** | BDR Class 400 | 3 |
+| @#AF4227: |||
+| @#159EC4: |||
+| **Water 1** | Oak Boat | 9((Route Inbound only))/11((Route Outbound only)) |
+| @#159EC4: |||
+| @#8111B3: |||
+| **Water 2** | Oak Boat | 2 |
+| @#8111B3: |||
+| @#70B466: |||
+| **Water 3** | Oak Boat | 2 |
+| @#70B466: |||
+| @#EAD8CE: |||
+| **AirLine 1** | Ngong Ping 360 Crystal Cabin | 2 |
+| @#EAD8CE: |||
+| @#09D478: |||
+| **AirLine 2** | Ngong Ping 360 Crystal Cabin | 2 |
+| @#09D478: |||
+| @#3461A3: |||
+| **AirLine 3** | Ngong Ping 360 Crystal Cabin | 2 |
+| @#3461A3: |||
+| @#E01DF8: |||
+| **AirLine 4** | Ngong Ping 360 Crystal+ Cabin | 2 |
+| @#E01DF8: |||
 
 ===== Kenton Transport =====
 
