@@ -141,22 +141,23 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 
 =====Routes=====
 ^Route Name^Transit point^Parallel routes^Note^
-|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village (⇄ Higashi Huggy 8 Chome((Only 4-car trains available.))) ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai |Shimano Line\\ Marine Line\\ Cross Country(XC11)\\ Hybra Line\\ Northern Line|　|
+|相01(AC01)|Kurokusa Depot ⇄ Acacialand Village (⇄ Higashi Huggy 8 Chome((Only 4-car trains available.))) ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Yumeshima |Shimano Line\\ Marine Line\\ Cross Country(XC11)\\ Hybra Line\\ Northern Line|　|
 |相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
+|閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
+|閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
+|閃10(CD10)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring ⇄ Cinderace|Shinx Line\\ Furret Line\\ Cinderace Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
 |黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
 |黑10-2(KR10-2)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|Only operates during certain hours. Formerly In-Station Transit　|
-|緑01(MI01)|Minami Shingai ⇄ Green Cape ⇄ Daisetu Town|Jigllypuff Line||
-|緑01-2(MI01-2)|Minami Shingai ⇄ Higashi Shingai⇄ (→ San →) ( ← Green Cape← ) ⇄ Daisetu Town|Jigllypuff Line||
 |萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|Dialga Line|　|
 |萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|Dialga Line|　|
 |平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line|　|
+|緑01(MI01)|Minami Shingai ⇄ Green Cape ⇄ Daisetu Town|Jigllypuff Line||
+|緑01-2(MI01-2)|Minami Shingai ⇄ Higashi Shingai⇄ (→ San →) ( ← Green Cape← ) ⇄ Daisetu Town|Jigllypuff Line||
 |沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Slumbering Weald ⇄ Daisetu Town ⇄ Extreme Hot Spring|Shinx Line\\ Furret Line|Kamaboko LRT|
-|閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
-|閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
-|閃10(CD10)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring ⇄ Cinderace|Shinx Line\\ Furret Line\\ Cinderace Line||
+|夢01(YM01)|Hokai Mura ⇄ Ancient 2 Chome ⇄ Yumeshima|None|　|
 |AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None|Access line to CyanEX|
 |AL03|Minami Shingai ⇄ Green Cape ⇄ Nishi Daisetu 2 Chome ⇄ ???(WIP)|None|Access line to WIP Line|
 
