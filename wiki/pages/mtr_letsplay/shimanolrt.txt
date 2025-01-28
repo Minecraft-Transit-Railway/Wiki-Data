@@ -26,11 +26,9 @@
 |  @#EFEEF0:  **Construction Specifications**  ||
 | **Distance between nodes** | 3 blocks |
 </WRAP>
-Shimano LRT (zh:縞野軽鐵) is an LRT line owned by [[Terralith Rapid Transit|Terralith Rapid Transit]] (TRT) and operated by [[Shimano MTR|Shimano LRT]] (the LRT division of SMTR). It has a role to complement the railroad blank area of the route such as SMTR.
+Shimano LRT (zh:縞野軽鐵) is an LRT line owned by [[Terralith Rapid Transit|Terralith Rapid Transit]] (TRT) and operated by [[ShimanoMTR|Shimano LRT]] (the LRT division of SMTR). It has a role to complement the railroad blank area of the route such as SMTR.
 
-This system is based on the former Teufort LRT (TLRT) and customized for left-hand traffic. The vehicles were originally S43-Tec LRVs used in the Teufort LRT, but all of them have been replaced with compatible vehicles created by OTS.
-
-Initially, it was planned to be based on the Hong Kong LRT, but due to its maneuverability and ease of handling, the S43-Tec LRV and its derivatives were used instead.
+This system is based on the old TeufortLRT (TLRT) and has been customized for left-hand traffic. The vehicles were originally S43-Tec LRVs used in the TeufortLRT (TLRT), but they have all been replaced with compatible vehicles made by OTS. However, due to the expansion of the line, a plan is being implemented to buy back all old vehicles by around February.
 
 =====Features=====
   * This line basically plays a complementary role to existing or planned lines with long distances between stations, including lines other than SMTR, so there is a strong tendency to construct it in parallel with the line. ((There are some routes that do not have parallel routes, such as the HG system.))
@@ -61,11 +59,24 @@ Currently, trains with four or more cars are operated with the same model and th
 ===Standard Model===
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
-| **1928 Stock** | Dark Green | 2 or 4 |
-| **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker | ::: |
+| **1928 Stock** | Dark Green\\ Blue((repaint by k51zu)) | 2 or 4 |
+| **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker\\ Keikyu Vermilion((repaint by k51zu)) | ::: |
 | **1999 Stock**((Advert Wrapping compatible vehicles)) | Alps Green/Tamaden((repaint by k51zu))\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
 | **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange\\ Rose Pink((repaint by k51zu))\\ Blue((repaint by k51zu))\\ Orange((repaint by k51zu))\\ Yellow((repaint by k51zu))| ::: |
-| @#888888: **1954 Stock** | @#888888:TBA | @#888888:2 or 4 |
+
+==Feature==
+^  Model  ^  Livery  ^  Cars  ^
+| @#888888: **1975 Stock** | @#888888: Pink | @#888888: 2 or 4 |
+| @#888888: **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with 2002 Stock igbt-vvvf.)) | @#888888: Pink | ::: |
+| @#888888: **1980 Stock** | @#888888: Sky((Former:Blue)) | ::: |
+| @#888888: **Refurbished 1980 Stock** | @#888888: Yellow\\ White\\ Violet(Evangelion Unit-01)\\ Smoke Pink((Formerly [[mtr_letsplay:13-000_series|TRT 13-000 Series]]. SMTR through service is not supported.))\\ Lavender((SMTR through service is not supported.)) | ::: |
+| @#888888: **1987 Stock** | @#888888: Green\\ Beige(Commemorating the extension of the Kita-Osaka Kyuko Line Livery)  | ::: |
+| @#888888: **1995 Stock** | @#888888: Teufort Orange\\ Wood\\ Reaf((Toden 8500 style))\\ Peppermint((SMTR through service is not supported.)) | ::: |
+| @#888888: **2002 Stock** | @#888888: Teufort Red\\ Scarlet(Evangelion Unit-02) | ::: |
+| @#888888: **2010 Stock** | @#888888: Purple | ::: |
+| @#888888: **2020 Stock** | @#888888: Gold\\ Yellow & Dark Gray((Utsunomiya Light Rail Opening Commemoration Livery)) | ::: |
+| @#888888: **2024 Stock** | @#888888: Magenta | ::: |
+| @#888888: **1954 Stock** | @#888888:TBA | ::: |
 | @#888888: **1954M Stock** | ::: | ::: |
 | @#888888: **1954MM Stock** | ::: | ::: |
 | @#888888: **1980 Stock** | ::: | ::: |
@@ -84,6 +95,7 @@ Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 | @#888888: //2020 Stock// | @#888888: //Gold\\ Yellow & Dark Gray(Utsunomiya Light Rail Opening Commemoration Livery)// | ::: |
 | @#888888: //2024 Stock// | @#888888: //Magenta// | ::: |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
+All vehicles will be reinstated.
 
 ==Shimano MTR Compatible Model==
 A model compatible with through service to Shimano MTR.
@@ -102,7 +114,7 @@ Later, the introduction of the LRV 1995T, modeled after the Nightmare Critters l
 | ::: | Vanilla(DogDay) | ::: |
 | ::: | Ylang-ylang((Cananga odorata))(Kickin Chicken) | ::: |
 | ::: | Citrus(PickyPiggy) | ::: |
-| @#888888:1995(T) Stock | @#888888:Baba chops | @#888888:2 or 4 |
+| @#888888:1973D(T) Stock | @#888888:Baba chops | @#888888:2 or 4 |
 | ::: | @#888888:Icky Licky | ::: |
 | ::: | @#888888:Rabie Baby | ::: |
 | ::: | @#888888:Allister Gator | ::: |
