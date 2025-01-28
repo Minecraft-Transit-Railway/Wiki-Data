@@ -789,7 +789,11 @@ No longer a builder in the server.
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#cf9837: |||
-| **LRT1** | BR Class 700 | 19((On Shan bound)), 20((Kapple Transportation Resort bound)) |
+| **LRT1** | BR Class 700 | 19((
+On Shan bound
+)), 20((
+Kapple Transportation Resort bound
+)) |
 | @#cf9837: |||
 | @#409091: |||
 | **LRT2S** | BR Class 710 | 21 |
@@ -798,7 +802,11 @@ No longer a builder in the server.
 | **LRT2F** | CAF-Train | 5 |
 | @#3e8dd3: |||
 | @#9db037: |||
-| **LRT3** | BR Class 720 | 30((On Shan bound)), 31((Popping Central bound)) |
+| **LRT3** | BR Class 720 | 30((
+On Shan bound
+)), 31((
+Popping Central bound
+)) |
 | @#9db037: |||
 | @#9e1f69: |||
 | **LRT8** | S43-Tec 2014 Light-Metro | 6 |
@@ -812,7 +820,6 @@ No longer a builder in the server.
 | @#70fe32: |||
 | **LRT14** | S43-Tec 2002 LRV | 8 |
 | @#70fe32: |||
-
 
 ===== Kapple Transport Agency =====
 
@@ -833,25 +840,43 @@ As National Rail
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#EF72F9: |||
-| **North Main Line**((Through-service from Odakyu West Sea Line))((Through-service onto Central Main Line)) | R-Train | 11 (Total 26) |
+| **North Main Line**((
+Through-service from Odakyu West Sea Line
+))((
+Through-service onto Central Main Line
+)) | R-Train | 11 (Total 26) |
 | @#EF72F9: |||
 | @#132111: |||
-| **Central Main Line**((Through-service from North Main Line)) | R-Train | 15 (Total 26) |
+| **Central Main Line**((
+Through-service from North Main Line
+)) | R-Train | 15 (Total 26) |
 | @#132111: |||
 | @#F97297: |||
-| **Central North Main Line** | R-Train | 9 / Total 14((Through-service from Sky Line only)) |
+| **Central North Main Line** | R-Train | 9 / Total 14((
+Through-service from Sky Line only
+)) |
 | @#F97297: |||
 | @#F6153A: |||
-| **Central North Rapid Main Line**((Through-service from Airport Connect Line)) | KR-Train((Fictional train)) | 9 (Total 14) |
+| **Central North Rapid Main Line**((
+Through-service from Airport Connect Line
+)) | KR-Train((
+Fictional train
+)) | 9 (Total 14) |
 | @#F6153A: |||
 | @#DA8C0C: |||
 | **East Main Line** | R-Train | 8 |
 | @#DA8C0C: |||
 | @#76FCE5: |||
-| **Airport Connect Line**((Through-service onto Central North Rapid Main Line)) | KR-Train((Fictional train)) | 5 (Total 14) |
+| **Airport Connect Line**((
+Through-service onto Central North Rapid Main Line
+)) | KR-Train((
+Fictional train
+)) | 5 (Total 14) |
 | @#76FCE5: |||
 | @#C45029: |||
-| **Sky Line**((Through-service onto Central North Main Line)) | R-Train | 5 (Total 14) |
+| **Sky Line**((
+Through-service onto Central North Main Line
+)) | R-Train | 5 (Total 14) |
 | @#C45029: |||
 | @#05F71E: |||
 | **Outer City Loop** | SP1900 | 21 |
@@ -864,7 +889,9 @@ As National Rail
 | @#2751FE: |||
 | @#01255C: |||
 | **Kapple & City Line** | CAF-Train | 4 |
-| ::: | BR Class 802 | 4 (Total 9)((Through-service from JR JH Shinkansen & Sigrad Express only)) |
+| ::: | BR Class 802 | 4 (Total 9)((
+Through-service from JR JH Shinkansen & Sigrad Express only
+)) |
 | @#01255C: |||
 | @#DC32A7: |||
 | **Shuttle 1** | Minecart | 8 |
@@ -879,25 +906,43 @@ As National Rail
 | **Rock Sea Bay Line** | 1141A | 5 |
 | @#1AC269: |||
 | @#A7E755: |||
-| **North Park Shuttle**((Clockwise direction only)) | SP1900 | 4 |
+| **North Park Shuttle**((
+Clockwise direction only
+)) | SP1900 | 4 |
 | @#A7E755: |||
 | @#FF0001: |||
-| **T1 Tram** | R-Train | 4 (Total 8)((Through-service from T2 tram only))/13 |
+| **T1 Tram** | R-Train | 4 (Total 8)((
+Through-service from T2 tram only
+))/13 |
 | @#FF0001: |||
 | @#1D0FDD: |||
-| **T2 Tram** | R-Train | 4 (Total 8)((Through-service onto T1 tram only))/5 |
+| **T2 Tram** | R-Train | 4 (Total 8)((
+Through-service onto T1 tram only
+))/5 |
 | @#1D0FDD: |||
 | @#1D24A9: |||
-| **T101I Bus**((Clockwise direction only)) | Yutong U12 | 8 |
+| **T101I Bus**((
+Clockwise direction only
+)) | Yutong U12 | 8 |
 | @#1D24A9: |||
 | @#341DEF: |||
-| **Sigrad Express**((Through-service from JH Shinkansen))((Through-service onto Kapple & City Line)) | BR Class 802 | 4 (Total 9) |
+| **Sigrad Express**((
+Through-service from JH Shinkansen
+))((
+Through-service onto Kapple & City Line
+)) | BR Class 802 | 4 (Total 9) |
 | @#341DEF: |||
 | @#D91FE2: |||
-| **East Express**((Through-service from JR Lo Wu Line)) | MLR | 6 (Total 13) |
+| **East Express**((
+Through-service from JR Lo Wu Line
+)) | MLR | 6 (Total 13) |
 | @#D91FE2: |||
 | @#2C5AFE: |||
-| **ICHSR1** | BR Class 802 | 3((Route Waterfront only))/7((Route A only)) |
+| **ICHSR1** | BR Class 802 | 3((
+Route Waterfront only
+))/7((
+Route A only
+)) |
 | @#2C5AFE: |||
 | @#49D81A: |||
 | **Frosty Bay Line** | JR E231 Series 500 | 7 |
@@ -909,7 +954,11 @@ As National Rail
 | **Kapple Beach Link** | BDR Class 400 | 3 |
 | @#AF4227: |||
 | @#159EC4: |||
-| **Water 1** | Oak Boat | 9((Route Inbound only))/11((Route Outbound only)) |
+| **Water 1** | Oak Boat | 9((
+Route Inbound only
+))/11((
+Route Outbound only
+)) |
 | @#159EC4: |||
 | @#8111B3: |||
 | **Water 2** | Oak Boat | 2 |
@@ -951,20 +1000,130 @@ No longer a builder in the server.
 
 ^ **Line name** ^ **Rolling stock** ^ **Stops** ^
 | @#27a621: |||
-| **Northern Division (R001)** | Unknown | 3 |
+| **Northern Division:** | ::: | ::: |
+| **R001**((Extension works ongoing)) | TBA | TBA |
+| **R002**((In planning phase)) | TBA | TBA |
+| **R003**((In planning phase)) | TBA | TBA |
 | @#27a621: |||
 
 ===== Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways) =====
 
-Soon(tm)
+Ksalkarrmskije Železnyje Dorogi (Xalkarrmian Railways, KŽD) operates services into / within the Xalkarrm area.
+
+<WRAP right>
+
+|  @#7f0000:<color #FFFFFF>**KŽD**</color>  ||
+^ Founded | 3rd March 2024((On this date //my_tiamos// announced the completion of Xalkarrm Express: "**@The Interwebs** I built my first line")) |
+^ Owner | my_tiamos |
+^ Lines | 3 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#7f0000: |||
+| **Xalkarrm Express** | K-Train | 5 |
+| @#7f0000: |||
+| @#d3a80a: |||
+| **Krasnoje Metro** | Siemens S200 | 4 |
+| @#d3a80a: |||
+| @#2711e3: |||
+| **FSL Shuttle** | CX-100 | 3 |
+| @#2711e3: |||
 
 ===== Minecraft Rapid Transit =====
 
-Soon(tm)
+Minecraft Rapid Transit (MRT) is a metro operator based on the [[wp>SMRT_Trains|SMRT]] network.
+
+<WRAP right>
+
+|  @#FF0000:<color #FFFFFF>**MRT**</color>  ||
+^ Founded | 17th March 2024 |
+^ Owner | ZEP |
+^ Lines | 11 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#81008F: |||
+| **North East Line** | C851E | 4 |
+| @#81008F: |||
+| @#F1990E: |||
+| **Circle Line** | C851E | 2 |
+| @#F1990E: |||
+| @#1F9A45: |||
+| **Cavern Island Monorail** | KM-Train((Fictional train)) | 2 |
+| ::: | @#1F9A45: ||
+| ::: | @#A3482C: ||
+| ::: | KM-Train((Fictional train)) | 2 |
+| ::: | @#A3482C: ||
+| ::: | @#464C3D: ||
+| ::: | KM-Train((Fictional train)) | 2 |
+| ::: | @#464C3D: ||
+| ::: | @#CF678E: ||
+| ::: | KM-Train((Fictional train)) | 2 |
+| @#CF678E: |||
+| @#DF8BCA: |||
+| **123M Bus (Harbourfront Loop)** | Yutong U12 | 8 |
+| @#DF8BCA: |||
+| @#6EDD32: |||
+| **103 Bus** | Volgabus 5270-02 | 2 |
+| ::: | MA3 203-948 | ::: |
+| ::: | Lia3 5292-65 | @#6EDD32: |
+| ::: | ElectroBus KamA3-6282 | @#6F417D: |
+| ::: | CBAP3-MA3 6275 | 3 |
+| @#6F417D: |||
+| @#91CEFE: |||
+| **Service Route 1** | S43-Tec 2023 LightMetro | 2 |
+| @#91CEFE: |||
+| @#891FE1: |||
+| **GTest** | S43-Tec 2023 LightMetro | 2 |
+| @#891FE1: |||
+| @#24E893: |||
+| **Llyn Region Shuttle** | Ngong Ping 360 Crystal+ Cabin | 2 |
+| @#24E893: |||
+| @#63E8C3: |||
+| **Connect R042** | BVG Class H | 2 |
+| @#63E8C3: |||
+| @#B770D1: |||
+| **Express R080** | BR Class 802 | 2 |
+| @#B770D1: |||
+| @#B15B2E: |||
+| **Builder_Test Shuttle** | Chongqing Monorail | 2 |
+| @#B15B2E: |||
 
 ===== New Underground =====
 
-Soon(tm)
+New Underground (NU) is a [[wp>London_Underground|London Underground]] based metro operator running underground services within the Kapple Suburbs area.
+
+<WRAP right>
+
+|  @#FF0000:<color #FFFFFF>**New Underground**</color>  ||
+|  {{mtr_community:trinsmoton_rail:nu.png?150}}  ||
+^ Founded | 31st December 2023 |
+^ Owner | The Interwebs |
+^ Lines | 4 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#A6171D: |||
+| **Central Line**((Through-service onto North Line)) | LU 1996 Stock | 6 (Total 13) |
+| @#A6171D: |||
+| @#D1F2FF: |||
+| **North Line**((Through-service from Central Line)) | LU 1996 Stock | 7 (Total 13) |
+| @#D1F2FF: |||
+| @#EC2020: |||
+| **West Line** | CX-100 | 6 |
+| @#EC2020: |||
+| @#2B3FB0: |||
+| **Subcentral Line** | LU 1992 Stock | 6 |
+| @#2B3FB0: |||
 
 ===== New Water Rail =====
 
