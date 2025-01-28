@@ -69,7 +69,7 @@ Currently, trains with four or more cars are operated with the same model and th
 | @#888888: **1975 Stock** | @#888888: Pink | @#888888: 2 or 4 |
 | @#888888: **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with 2002 Stock igbt-vvvf.)) | @#888888: Pink | ::: |
 | @#888888: **1980 Stock** | @#888888: Sky((Former:Blue)) | ::: |
-| @#888888: **Refurbished 1980 Stock** | @#888888: Yellow\\ White\\ Violet(Evangelion Unit-01)\\ Smoke Pink((Formerly [[mtr_letsplay:13-000_series|TRT 13-000 Series]]. SMTR through service is not supported.))\\ Lavender((SMTR through service is not supported.)) | ::: |
+| @#888888: **Refurbished 1980 Stock**((Advert Wrapping compatible vehicles)) | @#888888: Yellow\\ Violet(Evangelion Unit-01)\\ Smoke Pink((Formerly [[mtr_letsplay:13-000_series|TRT 13-000 Series]]. SMTR through service is not supported.))\\ Lavender((SMTR through service is not supported.)) | ::: |
 | @#888888: **1987 Stock** | @#888888: Green\\ Beige(Commemorating the extension of the Kita-Osaka Kyuko Line Livery)  | ::: |
 | @#888888: **1995 Stock** | @#888888: Teufort Orange\\ Wood\\ Reaf((Toden 8500 style))\\ Peppermint((SMTR through service is not supported.)) | ::: |
 | @#888888: **2002 Stock** | @#888888: Teufort Red\\ Scarlet(Evangelion Unit-02) | ::: |
