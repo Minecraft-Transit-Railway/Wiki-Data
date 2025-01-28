@@ -2,7 +2,7 @@
 
 Beneden is een lijst van alle stafpagina's. Voor meer informatie, zorg dat je goed de [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] en [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]] leest.
 
-===== Stafpagina's =====
+===== Medewerkerspagina's =====
 
  <nspages -textPages="" -title -exclude>
 
