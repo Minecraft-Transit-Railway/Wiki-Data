@@ -5,7 +5,7 @@ Hieronder is een lijst van alle communitypagina's. Deze kunnen gerelateerd zijn 
 ===== Communitypagina's =====
 [[nl:mtr_community:server:start|Serverpagina's]]
 
-[[nl:mtr_community:staff:start|Stafpagina's]]
+[[nl:mtr_community:staff:start|Medewerkerspagina's]]
 
 [[nl:mtr_community:contributors:start|Bijdragerspagina's]]
 
