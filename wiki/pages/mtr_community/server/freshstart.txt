@@ -1127,8 +1127,25 @@ New Underground (NU) is a [[wp>London_Underground|London Underground]] based met
 
 ===== New Water Rail =====
 
-Soon(tm)
+New Water Rail (NWR) is a metro operator which is currently still under planning phase.
 
+<WRAP right>
+
+|  @#2090FF:<color #FFFFFF>**NWR**</color>  ||
+|  {{mtr_community:trinsmoton_rail:nwr.png?150}}  ||
+^ Founded | 30th December 2024 |
+^ Owner | verysad |
+^ Lines | 0 (1 planned) |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#3d85c6: |||
+| **Dahuan Line**((In planning phase)) | S-Train | 8((Phase 1 only)), 12((Phases 1&2 only)) (Total 19)((Including Phase 3)) |
+| ::: | M-Train((Manual driving only)) | ::: |
+| @#3d85c6: |||
 ===== Odakyu =====
 
 Soon(tm)
