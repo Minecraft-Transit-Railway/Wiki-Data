@@ -57,13 +57,13 @@
 
 如果您更喜欢使用它，以下是在官方 Mojang 启动器上设置它的步骤：
 
-下载 Fabric Installer 并安装适用于 Minecraft 1.19.2 的 Fabric Loader。
+下载[[https://fabricmc.net/use/installer/|Fabric Installer]]并安装适用于 Minecraft 1.19.2 的 Fabric Loader。
 
 启动 Minecraft 安装程序，转到“Minecraft：Java 版”，然后选择“安装”页面。
 
 找到 “fabric-loader-1.19.2” 安装。如果您需要更改其“游戏目录”，请立即更改。您也可以根据自己的喜好重命名它。
 
-单击文件夹按钮以打开其游戏目录。下载此 ZIP 存档，其中包含 Packwiz-Installer 的 JAR，并将 JAR 解压到此游戏目录中。它们需要位于此目录中，不要将它们提取到子目录中。 单击此安装旁边的三点按钮，选择编辑，然后选择“更多选项”。 将以下文本添加到“JVM 命令行”前面： （在 “toml” 的末尾和其余的现有文本之间留一个空格！
+单击文件夹按钮以打开其游戏目录。[[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/packwiz-installer.zip|This ZIP archive containing JARs for Packwiz-Installer]]，其中包含 Packwiz-Installer 的 JAR，并将 JAR 解压到此游戏目录中。它们需要位于此目录中，不要将它们提取到子目录中。 单击此安装旁边的三点按钮，选择编辑，然后选择“更多选项”。 将以下文本添加到“JVM 命令行”前面： （在 “toml” 的末尾和其余的现有文本之间留一个空格！
 
 <code ->
 -javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
