@@ -53,12 +53,22 @@
   * 双击新出现的实例图标。然后您将看到这么个窗口：
 
 <tabbox Minecraft launcher>
-
 在官方 Mojang 启动器上设置它有点复杂。我建议使用其他启动器之一，例如 PrismLauncher。它很容易适应，而且它是免费和开源的。您可以在此处获取 PrismLauncher。
 
 如果您更喜欢使用它，以下是在官方 Mojang 启动器上设置它的步骤：
 
-下载 Fabric Installer 并安装适用于 Minecraft 1.19.2 的 Fabric Loader。 启动 Minecraft 安装程序，转到“Minecraft：Java 版”，然后选择“安装”页面。 找到 “fabric-loader-1.19.2” 安装。如果您需要更改其“游戏目录”，请立即更改。您也可以根据自己的喜好重命名它。 单击文件夹按钮以打开其游戏目录。下载此 ZIP 存档，其中包含 Packwiz-Installer 的 JAR，并将 JAR 解压到此游戏目录中。它们需要位于此目录中，不要将它们提取到子目录中。 单击此安装旁边的三点按钮，选择编辑，然后选择“更多选项”。 将以下文本添加到“JVM arguments”前面： （在 “toml” 的末尾和其余的现有文本之间留一个空格！喜欢：。。。toml -Xmx，不喜欢： ...toml-Xmx） -javaagent:packwiz-installer-bootstrap-wrapper.jar=[[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml]] 建议为 Java 分配 8 GiB 或更多。要编辑该参数，请将现有 JVM 参数中的“-Xmx*G”（例如 -Xmx2G）部分替换为“-Xmx8G”或更多。 这不是“越多越好”，您应该考虑计算机上安装的 RAM 总量，并至少留出 4 GiB 的备用空间。（建议使用至少具有 16 GiB RAM 的计算机加入。 返回 Installations 屏幕，然后单击此安装旁边的 Play 按钮。稍等片刻，您将看到如下所示的窗口：
+下载 Fabric Installer 并安装适用于 Minecraft 1.19.2 的 Fabric Loader。
+
+启动 Minecraft 安装程序，转到“Minecraft：Java 版”，然后选择“安装”页面。
+
+找到 “fabric-loader-1.19.2” 安装。如果您需要更改其“游戏目录”，请立即更改。您也可以根据自己的喜好重命名它。
+
+单击文件夹按钮以打开其游戏目录。下载此 ZIP 存档，其中包含 Packwiz-Installer 的 JAR，并将 JAR 解压到此游戏目录中。它们需要位于此目录中，不要将它们提取到子目录中。 单击此安装旁边的三点按钮，选择编辑，然后选择“更多选项”。 将以下文本添加到“JVM 命令行”前面： （在 “toml” 的末尾和其余的现有文本之间留一个空格！
+
+-javaagent:packwiz-installer-bootstrap-wrapper.jar=[[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml]]
+
+ 建议为 Java 分配 8 GiB 或更多。要编辑该参数，请将现有 JVM 参数中的“-Xmx*G”（例如 -Xmx2G）部分替换为“-Xmx8G”或更多。 这不是“越多越好”，您应该考虑计算机上安装的 RAM 总量，并至少留出 4 GiB 的备用空间。（建议使用至少具有 16 GiB RAM 的计算机加入。 返回屏幕，然后单击此安装旁边的 Play 按钮。稍等片刻，您将看到如下所示的窗口：
+
 
 <tabbox 其他启动器>
 
