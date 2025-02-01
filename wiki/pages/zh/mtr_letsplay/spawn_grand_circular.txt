@@ -16,3 +16,5 @@
 |{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
+
+这个地铁线路一共有17个车站，其中大部分站名…
