@@ -5,17 +5,17 @@
 |   ||
 |   ||
 |  @#ffa79e:  **Overview**  ||
-| **In service**  | 2023–2024  |
+| **In service**  | 2023–2024, 2025((As a dedicated SLRT vehicle))  |
 | **Manufacturer**  | [[S43-Tec]](Original)|
 |   | Metro Ace(Refurbishment)|
 | **Number built**  | |
 | **Formation**  | 2 cars per trainset  |
 | **Capacity**  | 307 (254 seated)  |
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
-| **Operator(s)** | [[ShimanoMTR|Shimano MTR]] |
-| |[[ShimanoMTR|Shimano LRT]]|
+| **Operator(s)** | [[ShimanoMTR|Shimano MTR]](Former) |
+| |[[shimanolrt|Shimano LRT]]|
 | **Depot(s)** | |
-| **Line(s) served** | (S13)[[Jigglypuff Line]], [[shimanolrt|Shimano LRT]] |
+| **Line(s) served** | [[shimanolrt|Shimano LRT]]\\ (S13)[[Jigglypuff Line]](Former)|
 |  @#ffa79e:  **Specifications**  ||
 | **Car body construction** | Steel |
 | **Train length** |31.0m|
@@ -31,12 +31,12 @@
 | **Acceleration** |5.8 km/(h⋅s)|
 | **Deceleration** |5.8 km/(h⋅s) (service)|
 | ::: | 8.5 km/(h⋅s) (emergency) |
-| **Electric system(s)** |600 V/1,500 V DC overhead catenary|
+| **Electric system(s)** |Former:600 V/1,500 V DC overhead catenary\\ Current:600 V DC overhead catenary|
 | **Current collector(s)** |Pantograph|
 | **UIC classification** |2′Bo′+2′Bo′|
 | **Bogies** | |
 | **Braking system(s)** |Regenerative and electro-pneumatic|
-| **Safety system(s)** |CS-ATC, ATO(GoA 2), LRT Mode(GoA 0)|
+| **Safety system(s)** |Former:CS-ATC, ATO(GoA 2), LRT Mode(GoA 0)\\ Current:LRT Mode(GoA 0)|
 | **Track gauge** |1,435 mm|
 
 
@@ -65,13 +65,11 @@ Therefore, Metro Ace modified the S43-Tec 1980 with the following items.
   * Renovated exterior and interior.
 
 The 13-000 Series was born as a result of the above-mentioned large-scale renovation.
-=====Operation and scrapping=====
+=====Operation, disposal, and return.=====
 It debuted with the start of Jigglypuff Line operation in September 2023. It provided through service to stations up to Acacia Village on AC01 and almost the entire line on KR01.
 
 It was suddenly suspended along with other SLRTs on August 19, 2024. It was scrapped on August 29 of the same year.
 
-The reason is said to be that the base car was manufactured more than 40 years ago and that it required extensive modifications. In addition, since no transferee could be found, all of them were dismantled and no longer exist.
-
-Except for test cars, this is the first SMTR vehicle to be scrapped without being preserved. (The 1300 series still exists because there are other vehicles of the same type running and they have been transferred to other companies.)
+However, not all of the cars were scrapped, and some were stored in a warehouse, but were revived as SLRT-exclusive cars six months later. The reason they are not included in the SMTR is that after the replacement in August 2024, all cars will be limited to cars that make up a four-car through train with gangways. As a result, equipment only used for SMTR, such as ATO, has been removed. Also, the paint is mostly the same as before, but the TRT logo has been painted over.
 
 The successor, the TRT13-100 series, largely inherits the paintwork and door shape of this model.
