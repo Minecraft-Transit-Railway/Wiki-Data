@@ -155,7 +155,8 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 |緑01-2(MI01-2)|Minami Shingai ⇄ Higashi Shingai⇄ (→ San →) ( ← Green Cape← ) ⇄ Daisetu Town|Jigllypuff Line||
 |沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Slumbering Weald ⇄ Daisetu Town ⇄ Extreme Hot Spring|Shinx Line\\ Furret Line|Kamaboko LRT|
-|縞01(SJ01)|Amethyst Valley ⇄ Daisetu Town ⇄ Extreme Hot Spring |Shinx Line\\ Furret Line|　|
+|蒲01-2(KM01-2)|Amethyst Valley ⇄ Slumbering Weald|None|Kamaboko LRT|
+|縞01(SJ01)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring |Shinx Line\\ Furret Line|　|
 |夢01(YM01)|Hokai Mura ⇄ Ancient 2 Chome ⇄ Yumeshima|None|　|
 |AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None|Access line to CyanEX|
 |AL03|Minami Shingai ⇄ Green Cape ⇄ Nishi Daisetu 2 Chome ⇄ ???(WIP)|None|Access line to WIP Line|
