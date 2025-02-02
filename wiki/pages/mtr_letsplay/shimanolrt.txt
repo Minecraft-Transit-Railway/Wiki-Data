@@ -60,6 +60,7 @@ Currently, trains with four or more cars are operated with the same model and th
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
 | **1928 Stock** | Dark Green\\ Blue((repaint by k51zu)) | 2 or 4 |
+| **1954MM Stock** | Retro Green | ::: |
 | **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker\\ Keikyu Vermilion((repaint by k51zu)) | ::: |
 | **1999 Stock**((Advert Wrapping compatible vehicles)) | Alps Green/Tamaden((repaint by k51zu))\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
 | **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange\\ Rose Pink((repaint by k51zu))\\ Blue((repaint by k51zu))\\ Orange((repaint by k51zu))\\ Yellow((repaint by k51zu))| ::: |
@@ -78,7 +79,6 @@ Currently, trains with four or more cars are operated with the same model and th
 ^  Model  ^  Livery  ^  Cars  ^
 | @#888888: **1954 Stock** | @#888888:TBA | ::: |
 | @#888888: **1954M Stock** | ::: | ::: |
-| @#888888: **1954MM Stock** | ::: | ::: |
 | @#888888: **1980 Stock** | ::: | ::: |
 | @#888888: **1990 Stock** | ::: | ::: |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
