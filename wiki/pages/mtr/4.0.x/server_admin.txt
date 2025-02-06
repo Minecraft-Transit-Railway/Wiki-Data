@@ -1,6 +1,8 @@
-===== MTR 4 for Server Admins =====
+====== MTR 4 for Server Admins ======
 
 Learn what you need to know to migrate your Minecraft server towards MTR 4!
+
+===== Migration Steps =====
 
 ==== Before migrating ====
 
@@ -10,13 +12,17 @@ Learn what you need to know to migrate your Minecraft server towards MTR 4!
 
 ==== Migration ====
 
-You may now shut down the Minecraft Server, replace the MTR 3 mod and put MTR 4 mod in the server's mod directory.
+MTR 4 automatically migrates datas from MTR 3, and there shouldn't be a lot of steps for the users. In any case, the process is outlined below:
 
-After that you can start the server. The first startup may take longer as MTR tries to automatically migrate your MTR 3 data into MTR 4.
+  - Shut down the Minecraft Server, replace the MTR 3 mod jar with MTR 4 in the server's mod directory.
+  - Start the server. Note that the first startup may take longer as MTR tries to automatically migrate your MTR 3 data into MTR 4. Subsequent startup should be much faster.
+  - After the server has started, you should run the ''/mtr generate'' command to refresh all depot's path and make trains run again.
 
-After the server has started, you should run the ''/mtr generate'' command to refresh all depot's path and make trains run again.
+===== Performance =====
 
-==== Upgrading Minecraft Version ====
+MTR 4 no longer simulates train with the Minecraft Game, but instead runs the simulation in a background thread. This means that MTR 4 now poses much less impact to the tick rate of the server. At the same time, train simulations are not affected by the Minecraft Game's Tick Rate. Please note that this may also result in an increase in CPU usage.
+
+===== Upgrading Minecraft Version =====
 
 While upgrading Minecraft version may seems like a straight forward steps, there are some attention needed, more importantly:
 
