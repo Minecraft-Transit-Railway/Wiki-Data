@@ -32,6 +32,8 @@ Track shape and custom model can now be applied, this feature is incorporated fr
 
 {{:mtr:mtr4_railcustomization.png?600|Custom Rail Shape & Model GUI}}
 
+In MTR 4, custom track model (Rail Style) allows the use of multiple models, which means different rail models can be composited. Removing all rail models will make the track invisible.
+
 ==== Horizontal/Diagonal Elevator ====
 
 Elevator can now go vertically and horizontally at the same time, horizontal track are now added in addition to the already-existing vertical track.
@@ -126,6 +128,17 @@ To board the train, you must now board from the door area when the door is opene
 ==== Train Movement Changes ====
 
 Train movements has been altered slightly in MTR 4 to take account for the bogie position. This may however result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+
+===== Migration from MTR 3 =====
+
+Migration is automatically done when loading an MTR 3 world. After loading in the world, you need to run the command ''/mtr generate'' to refresh paths from all depot and make train operates again.
+
+Please note that there are some artifacts after upgrading, which is listed below:
+
+  * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
+  * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
+  * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
+  * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
 
 ===== Addon Compatibility =====
 
