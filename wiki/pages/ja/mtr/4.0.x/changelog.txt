@@ -2,11 +2,7 @@ FIXME **このページはまだ完全には、翻訳されません。翻訳の
 
 FIXME **このページは完全には完成していません。 加筆修正にご協力ください。**\\ //(remove this note when the page is completed)//
 
-====== Version 4.0.X ======
-
-Minecraft Transit Railway v4.0 は、Minecraft Transit Railway mod の今後のメジャー アップデートであり、現在開発中です。
-
-===== Releases =====
+====== Releases ======
 MTR 4.0 はまだ開発中であるため、正式なリリースはまだ公開されていません。現時点でのベータ版のアップデートは以下の通り。
 
 <WRAP center round important 60%>
