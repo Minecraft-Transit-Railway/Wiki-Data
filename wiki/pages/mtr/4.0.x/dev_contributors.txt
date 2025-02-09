@@ -16,6 +16,7 @@ You can help the development of MTR 4 by contributing to such area.
   * Train always open door when stopped with PSD/Platform block, even if it's not in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
   * Train bogie will disappear/appear in wrong position when riding train
+  * The resource pack editor cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
 
 ==== QOL/Low Priority ====
 
