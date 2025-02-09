@@ -1,0 +1,148 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+====== MTR4におけるプレイヤーとビルダー ======
+Minecraft Transit Railway 4.0 は、MTR 3.2 の後継となる Minecraft Transit Railway Modのメジャー アップデートです。既存のMTR3を導入していたワールドのMTR4へのアップグレードは、若干の不具合を伴いますが利用可能です。
+
+このリリースでは、機能改良、長年のクラッシュやバグの修正、フレームレートの大幅な改善、編成内の混結など、長らく要望のあった機能の追加に重点を置いています。 
+
+===== 主な機能と改善点 =====
+
+==== 側線ごとの編成の組成 ====
+
+以前のバージョンでは各車両基地の側線に原則として1形式しか配置できませんでしたが、MTR 4 では、側線に他の形式の車両を自由に組成できます。
+
+たとえば、**SP1900 (先頭車)、M-Train (中間車)、K-Train (後尾車)** を使用して、側線用のカスタム編成を作成し、その編成を線路で走らせることができます。
+
+これは、混合車両構成 (長さの異なる車体を連結された路面電車車両など、いわゆる「変態連結((主に気動車で見られる、中間に先頭車両を挟んだ車両など。))」も可能。)、塗装、および他の編成を牽引する機関車に便利です。
+
+{{:mtr:mtr4_consist.png?400|UI Configuration for MTR 4 Consist}}
+
+==== 加減速度の仕様変更 ====
+
+列車の加速度と減速度が分離されました。
+
+==== レール接続ツールのプレビュー ====
+
+ノードに接続されたレールを接続する前に、レール接続ツールを保持すると、レールの線形がどのように見えるかのプレビューが表示されます。
+
+{{:mtr:mtr4_trackpreview.png?600|Track Preview of MTR 4, before it is connected}}
+
+==== レールの線形とカスタムモデル ====
+
+レールの線形とカスタムモデルを適用できるようになりました。この機能はNTEから組み込まれており、原則としてそのままの状態で利用可能。
+
+{{:mtr:mtr4_railcustomization.png?600|Custom Rail Shape & Model GUI}}
+
+MTR4では、カスタムレールモデル (レール形式) により複数のモデルを使用できるため、さまざまなレール形式を合成できます。すべてのレール形式を削除すると、レールは透明になります。
+
+==== 水平/斜行エレベーター ====
+
+エレベーターは垂直と水平に同時に移動できるようになり、既存の垂直ガイドレールに加えて水平ガイドレールが追加されました。
+
+{{:mtr:mtr4_elevator.png?600|Elevator going up diagonally}}
+
+速度は600m/min(10m/s)とMTR3の半分になっております。
+
+==== 改良されたシステムマップ ====
+
+書き換えられたシステムマップは、見た目が改良され、動作が軽くなったことにより、信頼性も高まりました。
+
+{{:mtr:mtr4_sysmap.png?600|Online System Map for MTR 4}}
+
+==== 信号灯 ====
+
+信号灯を斜めに配置できるようになりました (22.5 度刻み)。また、特定の色の閉塞信号の側面のみを表示するようにフィルタリングできるようになりました。
+
+{{:mtr:mtr4_signallight.png?600|MTR Signal Light placed diagonally}}
+
+==== 車体動揺 ====
+
+列車の走行中に車両が左右に揺れるようになり、乗車体験が向上しました。
+
+==== OBJレンダリング ====
+
+OBJモデルはNTEから組み込まれ、MTR4に統合されました。
+
+つまり、MTRは .obj形式でエクスポートされる詳細な列車/線路モデルをサポートできるようになりました。
+
+==== 橋りょう建設ツール ====
+
+ブリッジクリエーターの速度がMTR3単体と比較して建設速度が向上しました。
+
+==== 距離効果 ====
+
+MTR4では、[[https://ja.minecraft.wiki/w/%E8%B7%9D%E9%9B%A2%E5%8A%B9%E6%9E%9C/Java_Edition|距離効果]] の多くが緩和されました。鉄道施設や列車は、非常に高い距離 (つまり、デフォルト設定のワールド境界付近) でも正しくレンダリングされ、[[ja:mtr:dashboards|ダッシュボード]] も、エリアを変更しても精度を失うことなく正しく機能します。
+
+{{:mtr:mtr4_disteffect.png?600}}
+
+==== FPSのラグ ====
+
+NTE アドオンのレンダリング最適化が **Minecraft-Mappings** プロジェクトに統合されました。これはMTR4.0でも使用されています。これにより、ゲームプレイ中のFPSが大幅に向上する可能性があります。((
+[[https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s|https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s]]
+))
+
+==== サーバーラグ ====
+
+バックエンドが書き直され、Minecraftスレッドで実行されなくなりました。これにより、ゲームループの実行速度が向上し、TPS((20が正常))がより安定し、MSPT((50以下が正常))が低くなります。
+
+この改善は、規模の大きい路線ネットワークを備えた大規模なMTRサーバーでより顕著になります。
+==== Modの互換性 ====
+
+MTR3で報告された主要なmod互換性の問題は MTR4で解決されています。主な問題は次のとおりです:
+
+* 船の車両基地を作成するときにクラッシュする (MrCrayFish Framework)
+* 1.20.1 でインベントリを開くときにクラッシュする (Botarium)
+* ロケットから追い出される (Ad Astra)
+* JEI/The One Probe を使用すると、目に見えない MTR エンティティが常に表示される
+
+===== その他の改善点 =====
+
+==== レッドストーンで動くホームドア ====
+
+ホームドアおよびエレベーターのドアにレッドストーン信号を与えると開閉できるようになりました。
+
+==== 自動放送ブロックの遅延 ====
+
+自動放送ブロックの音声は、列車が通過した後、乗客に再生されるまで一定時間遅延できるようになりました。
+
+==== ダッシュボードの改善 ====
+
+ダッシュボードは MTR 3よりも大幅に軽量化され、プレイヤーのYレベルの周囲を表示できる地下モードも追加されました。
+==== ホームのハーフブロック ====
+
+ホームブロックにハーフブロックが追加されました。
+
+==== モザイクブロック ====
+
+MTR4にモザイクブロックが追加されました。これは、香港MTR駅でよく見られるモザイクタイルを再現したものです。
+===== 挙動の変化 =====
+
+==== Game Pausing ====
+
+Due to the new MTR back-end change, currently MTR's train simulation will continue even after the Minecraft game have been paused.
+
+==== Boarding a train ====
+
+To board the train, you must now board from the door area when the door is opened instead of being in the general train area.
+
+==== Train Movement Changes ====
+
+Train movements has been altered slightly in MTR 4 to take account for the bogie position. This may however result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+
+===== Migration from MTR 3 =====
+
+Migration is automatically done when loading an MTR 3 world. After loading in the world, you need to run the command ''/mtr generate'' to refresh paths from all depot and make train operates again.
+
+Please note that there are some artifacts after upgrading, which is listed below:
+
+  * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
+  * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
+  * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
+  * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
+
+===== Addon Compatibility =====
+
+Due to the major backend rewrite, most if not all addons depending on the MTR Mod needs to be updated. A non-exhaustive list of addons can be found [[mtr_addon:start|here]], with MTR 3/4 tags appropriately applied to them.
+
+Highly popular addons such as [[mtr_addon:lu:start|The Tube]] and [[mtr_addon:jcm:start|Joban Client Mod]] should already be available for MTR 4, with the exception of [[mtr_addon:nte:start|Nemo's Transit Expansion]], where much of the feature is already incorporated to the MTR Mod.
+
