@@ -7,16 +7,17 @@ You can help the development of MTR 4 by contributing to such area.
 ==== Issues & Bugs ====
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in this case)
-  * BVE Sound breaks if player is outside loaded chunk (In per-car basis), where only a short period of sound is heard.
+  * BVE Sound will no longer be able to play if the sound hasn't been played for 20 client ticks (Whether due to lag or other reasons)
     * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
   * Vehicle Sounds are played multiple times when using shaders (Tested with **Iris 1.7.2+mc1.20.4**)
-  * Action bar and destination shows the destination station's custom destination, instead of the next station's custom destination
-  * NTE Rail flipped to the other side after upgrading to MTR 4.
+  * Custom Destination for trains does not work reliably. (TBC, current observation includes different behavior for migrated/un-migrated world)
+  * Migration: NTE Rail flipped to the other side after upgrading to MTR 4.
   * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
-  * Train always open door when stopped with PSD/Platform block, even if it's not in the route (Boardable)
+  * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
   * Train bogie will disappear/appear in wrong position when riding train
   * The resource pack editor cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
+  * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
 
 ==== QOL/Low Priority ====
 
