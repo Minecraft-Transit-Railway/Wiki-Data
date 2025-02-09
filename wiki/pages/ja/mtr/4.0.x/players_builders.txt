@@ -90,10 +90,10 @@ NTE アドオンのレンダリング最適化が **Minecraft-Mappings** プロ�
 
 MTR3で報告された主要なmod互換性の問題は MTR4で解決されています。主な問題は次のとおりです:
 
-* 船の車両基地を作成するときにクラッシュする (MrCrayFish Framework)
-* 1.20.1 でインベントリを開くときにクラッシュする (Botarium)
-* ロケットから追い出される (Ad Astra)
-* JEI/The One Probe を使用すると、目に見えない MTR エンティティが常に表示される
+  * 船の車両基地を作成するときにクラッシュする (MrCrayFish Framework)
+  * 1.20.1 でインベントリを開くときにクラッシュする (Botarium)
+  * ロケットから追い出される (Ad Astra)
+  * JEI/The One Probe を使用すると、目に見えない MTR エンティティが常に表示される
 
 ===== その他の改善点 =====
 
