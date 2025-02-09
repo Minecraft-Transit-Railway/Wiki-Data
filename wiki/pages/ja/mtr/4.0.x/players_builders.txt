@@ -1,6 +1,6 @@
 FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
 
-====== MTR4におけるプレイヤーとビルダー ======
+====== MTR4.0 ======
 Minecraft Transit Railway 4.0 は、MTR 3.2 の後継となる Minecraft Transit Railway Modのメジャー アップデートです。既存のMTR3を導入していたワールドのMTR4へのアップグレードは、若干の不具合を伴いますが利用可能です。
 
 このリリースでは、機能改良、長年のクラッシュやバグの修正、フレームレートの大幅な改善、編成内の混結など、長らく要望のあった機能の追加に重点を置いています。 
@@ -117,32 +117,32 @@ MTR3で報告された主要なmod互換性の問題は MTR4で解決されて�
 MTR4にモザイクブロックが追加されました。これは、香港MTR駅でよく見られるモザイクタイルを再現したものです。
 ===== 挙動の変化 =====
 
-==== Game Pausing ====
+==== ゲームの一時停止 ====
 
-Due to the new MTR back-end change, currently MTR's train simulation will continue even after the Minecraft game have been paused.
+新しいMTRバックエンドの変更により、現在、メニュー画面を表示するなどのゲームが一時停止された後でもMTRの列車シミュレーションは継続されます。
 
-==== Boarding a train ====
+==== 電車への乗車 ====
 
-To board the train, you must now board from the door area when the door is opened instead of being in the general train area.
+電車に乗車するには、一般の電車エリアではなく、ドアが開いたときにドアエリアの部分から乗車する必要があります。
 
-==== Train Movement Changes ====
 
-Train movements has been altered slightly in MTR 4 to take account for the bogie position. This may however result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+==== 列車挙動の変更 ====
 
-===== Migration from MTR 3 =====
+MTR 4 では、台車の位置を考慮して列車の動きが若干変更されています。ただし、これにより、MTR 3 で構築された非常に狭いトンネルや構造物へ内輪差で列車がめり込む可能性があり、変更に対応するために調整が必要になる場合があります。
 
-Migration is automatically done when loading an MTR 3 world. After loading in the world, you need to run the command ''/mtr generate'' to refresh paths from all depot and make train operates again.
+===== MTR 3からの移行 =====
 
-Please note that there are some artifacts after upgrading, which is listed below:
+移行は、MTR3を導入していたワールドをロードする際に自動的に行われます。ワールドにロードした後、コマンド''/mtr generate''を実行して、すべての車両基地からの経路を更新し、列車を再び運行させる必要があります。
 
-  * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
-  * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
-  * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
-  * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
+アップグレード後には、以下に示すようなアーティファクトがいくつか発生することに注意してください。
 
-===== Addon Compatibility =====
+* **エレベーター階数表示パネル** が正しく表示されない場合があります。 パネルを壊して再度設置する必要があります。
+* 前述の通り、列車が台車の位置をより正確にシミュレートするようになったため、**列車がMTR3用に構築された狭いトンネル/橋をめり込む場合があります**。 これらの構造物は、MTR4の新しい列車の動きに対応するために再構築/変更する必要がある場合があります。
+* 列車が遅れている場合、列車は自動的に速度を上げたり、停車時間を短縮したりします。 側線ごとにこれを0%にして、MTR3のときのような動作にすることもできます。(列車はスケジュールに関係なく同じ速度で走行します)
+* さまざまなMTRアドオンの新しいバージョンでは、MTR3で構築されたブロックが破損する変更が加えられている可能性があります。
 
-Due to the major backend rewrite, most if not all addons depending on the MTR Mod needs to be updated. A non-exhaustive list of addons can be found [[mtr_addon:start|here]], with MTR 3/4 tags appropriately applied to them.
+===== アドオンの互換性 =====
+バックエンドの大幅な書き換えにより、MTR Mod に依存するアドオンのほとんど、またはすべてを更新する必要があります。アドオンの網羅的ではないリストは [[mtr_addon:start|こちら]] で参照できます。これらのアドオンには MTR 3/4タグが適切に適用されています。
 
-Highly popular addons such as [[mtr_addon:lu:start|The Tube]] and [[mtr_addon:jcm:start|Joban Client Mod]] should already be available for MTR 4, with the exception of [[mtr_addon:nte:start|Nemo's Transit Expansion]], where much of the feature is already incorporated to the MTR Mod.
+[[mtr_addon:lu:start|The Tube]]や[[mtr_addon:jcm:start|Joban Client Mod]]などの非常に人気のあるアドオンは、MTR Mod に多くの機能がすでに組み込まれている [[mtr_addon:nte:start|Nemo's Transit Expansion]] を**除き**、MTR4ですでに利用できると思われます。
 
