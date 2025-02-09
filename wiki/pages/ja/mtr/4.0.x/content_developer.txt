@@ -1,0 +1,14 @@
+FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+
+===== MTR4におけるリソースパックの対応について =====
+
+このページでは、MTR3のリソースパックを MTR4へ読み込むときに必要な移行手順の一部について説明します。
+==== Javascriptについて ====
+
+[[mtr_addon:nte:start|Nemo Transit Expansion]] の JS スクリプトは現時点では**実装されていません**。このような機能を利用するコンテンツに依存している場合は、Nemo Transit Expansion Mod を使用してMTR3に留まることをお勧めします。
+
+==== mtr_custom_resources.json の変更 ====
+
+  * ''base_train_type'' を使用するが ''texture_id'' を指定しない列車には、ベース列車のテクスチャが適用されなくなりました (台車と通路がある透明な列車のみ)
+  * 有効な ''gangway_connection_id'' を指定しない列車は、MTR3のように通路間を移動できなくなりました。
+  * 組み込みの 転落防止幌/貫通幌/車両のテクスチャを指定する場合、''textures/entity'' をそれぞれ ''textures/barrier''、''textures/gangway''、''textures/vehicle'' に置き換えます。
