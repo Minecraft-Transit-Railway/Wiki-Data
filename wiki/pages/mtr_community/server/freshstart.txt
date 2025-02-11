@@ -1148,8 +1148,21 @@ New Water Rail (NWR) is a metro operator which is currently still under planning
 | @#3d85c6: |||
 ===== Odakyu =====
 
-Soon(tm)
+Odakyu is a privately owned rail company that operates in the Kapple Area.
 
+<WRAP right>
+
+|  @#0090FF:<color #FFFFFF>**Odakyu**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:odakyutextnosvg.png?150}}  ||
+^ Founded | 2nd June 2024 |
+^ Owner | The Interwebs |
+^ Lines | 5 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ Line name ^ Rolling Stock ^ Stops ^
 ===== Phoenix Transport Authority =====
 
 Soon(tm)
