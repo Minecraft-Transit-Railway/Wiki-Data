@@ -5,7 +5,7 @@
 |  @#900000:  <color white>**PäRail Trains Addon**</color>  ||
 |  {{:mtr_extra:parail_1_0_1.png?250}}  ||
 |  @#900000:  <color white>**Overview**</color>  ||
-| **Creator** | [[mtr_community:aecth]] |
+| **Creator** | [[mtr_community:staff:dragon|Aecth Thean]] |
 | Trains | 31 |
 | TBA | UsaDragon22 |
 | **Latest Version** | 1.3.1 |
