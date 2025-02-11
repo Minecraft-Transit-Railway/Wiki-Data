@@ -832,7 +832,7 @@ Kapple Transport Agency (KTA) provides all kinds of metro, regional and light ra
 As National Rail
 )) |
 ^ Owner | The Interwebs |
-^ Lines | 31 |
+^ Lines | 30 |
 
 </WRAP>
 
@@ -918,7 +918,7 @@ Through-service from T2 tram only
 | @#1D0FDD: |||
 | **T2 Tram** | R-Train | 4 (Total 8)((
 Through-service onto T1 tram only
-))/5 |
+))/5((Through-service from Odakyu West Sea Line only)) |
 | @#1D0FDD: |||
 | @#1D24A9: |||
 | **T101I Bus**((
@@ -947,9 +947,6 @@ Route A only
 | @#49D81A: |||
 | **Frosty Bay Line** | JR E231 Series 500 | 7 |
 | @#49D81A: |||
-| @#3A8BBF: |||
-| **Arctic Liner** | N700A Series | 2 |
-| @#3A8BBF: |||
 | @#AF4227: |||
 | **Kapple Beach Link** | BDR Class 400 | 3 |
 | @#AF4227: |||
@@ -1163,6 +1160,22 @@ Odakyu is a privately owned rail company that operates in the Kapple Area.
 ==== List of lines ====
 
 ^ Line name ^ Rolling Stock ^ Stops ^
+| @#0d82cf: |||
+| **Odakyu Main Line** | Odakyu 415 Series((Fictional train, made for Odakyu)) | 5 |
+| @#0d82cf: |||
+| @#69f669: |||
+| **Odakyu Kapple Line** | Odakyu 415 Series((Fictional train, made for Odakyu)) | 6 |
+| @#69f669: |||
+| @#4ac4cb: |||
+| **Odakyu West Sea Line**((Through-service onto T2 Tram)) | R-Train | 3 |
+| @#4ac4cb: |||
+| @#77D387: |||
+| **Odakyu Nankai Line** | Odakyu 445 Series((Fictional train, made for Odakyu)) | 9 |
+| @#77D387: |||
+| @#3A8BBF: |||
+| **Arctic Liner** | N700A Series | 2 |
+| @#3A8BBF: |||
+
 ===== Phoenix Transport Authority =====
 
 Soon(tm)
