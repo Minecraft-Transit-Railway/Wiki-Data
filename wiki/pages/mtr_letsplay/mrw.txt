@@ -17,20 +17,35 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 </WRAP>
 
 ===== Info =====
-
 [[mtr_letsplay:mrw|Moszyan Railways]] is a railway operator originating in [[mtr_community:server:centralia|Centralia]]. It was established as a union of the former CityLink and Trident Railways, to ensure a consistent designs across all forms of transport it operates. It was granted entry to the Let's Play network on December 9th 2023. As of 2024, it is working on a centralised transport hub in the city of **'s Riddershoven**.
 
 ===== Services =====
+==== Active ====
+|  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Frequency**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  @#CC3733: **Bus** (393)  |  ~3 minutes  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
+|  @#BEEDFF: **Metro**\\ (Starlight Line)  |  ~1.5 minutes  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
+|  @#0063D3: **Sprinter**  |  7.5 minutes  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  @#0063D3: **Sprinter**  |  2.5 minutes  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+|  @#FFC917: **Intercity**  |  5 minutes  |  [[mtr_letsplay:oxenholme|Oxenholme Lake District]]\\  |  [[mtr_letsplay:junee|Junee]]\\ //>> [[mtr_letsplay:banksia|Banksia]]//  |
+//>> actual terminus of line, but not open to the public//
 
-|  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#CC3733: **Bus** (393)  |  Operational  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
-|  @#BEEDFF: **Metro**\\ (Starlight Line)  |  Partially Operational  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
-|  @#0063D3: **Sprinter**  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
-|  @#0063D3: **Sprinter**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
-|  @#FFC917: **Intercity**  |  Partially Operational  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]\\ //<< [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]//  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+==== New Timetable ====
+|  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Frequency***  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
+|  @#CC3733: **Bus** (393)  |  3 minutes  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
+|  @#BEEDFF: **Metro**\\ (Starlight Line)  |  3 minutes  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
+|  @#0063D3: **Sprinter**  |  7.5 minutes  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
+|  @#0063D3: **Sprinter**  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]  |  [[mtr_letsplay:collinsstreet|Albury Collins Street]]  |
+|  @#0063D3: **Sprinter**  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]\\ //<< [[mtr_letsplay:denhofsendsevijzen|Den Hof Sendse Vijzen]]//  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |
+|  @#0063D3: **Sprinter**  |  15 minutes  |  [[mtr_letsplay:liskeardcentral|Liskeard Central]]  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |
+|  @#0063D3: **Sprinter**  |  15 minutes  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:banksia|Banksia]]  |
+|  @#0063D3: **Sprinter**  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]\\ //<< [[mtr_letsplay:denhofzantillen|Den Hof Zantillen^]]//  |  [[mtr_letsplay:reston|Reston]]  |
+|  @#FFC917: **Intercity**  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal^]]  |  [[mtr_letsplay:liskeardcentral|Liskeard Central]]  |
+|  @#FFC917: **Intercity**  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal^]]  |  [[mtr_letsplay:banksia|Banksia^]]  |
+|  @#FFC917: **Intercity**  |  15 minutes  |  [[mtr_letsplay:reston|Reston]]  |  [[mtr_letsplay:banksia|Banksia]]  |
+//*frequency subject to change//\\ //^not the final extension of service//
+
 
 ===== Lines =====
-
 |  @#B0B0BE: **Line Name**  |  @#B0B0BE: **Status**  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
 |  [[mtr_letsplay:starlightline|Starlight Line]]  |  Partially Operational  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
@@ -48,8 +63,8 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 |  OLS  |  BR Class 378  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Yongchun Sidings  |
 |  RMS  |  Stadler FLIRT 3  |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Royal Park Depot  |
 |  :::  |  :::  |  [[mtr_letsplay:riverinaline|Riverina Sprinter]]  |  Yongchun Sidings  |
-|  ICFR  |  Yuunitetsu 701  |    |    |
-|  HSDD  |  NS VIRM  |  [[mtr_letsplay:riverinaline|Riverina Intercity]]  |  Temporary Sidings  |
+|  HSDD  |  VIRM  |  [[mtr_letsplay:riverinaline|Riverina Intercity]]  |  Temporary Sidings  |
+|  LDC  |  Vectron + Eurofirma  |    |    |
 
 ===== Screenshots =====
 |{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station, as seen from a somewhat birds-eye view. On a rare occasion like this, all platforms are occupied.}}|
