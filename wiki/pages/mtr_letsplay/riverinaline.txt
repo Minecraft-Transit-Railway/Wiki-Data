@@ -1,11 +1,11 @@
 ====== Riverina Line ======
-The **Riverina Line** is a railway corridor spanning between the cities of [[mtr_letsplay:gapyeong|Gapyeong]] and [[mtr_letsplay:albury|Albury]]. Its name stems from the originally exclusive Riverina Regional service (now the Riverina Sprinter, to be renamed to Moszyan Railways Sprinter) that ran until [[mtr_letsplay:culcairn|Culcairn]]. In 2024, ownership of multiple lines in the area was transferred and service extended towards the city of Albury, requiring multiple rebuilds from the originally two-track line into 4 in some places.
+The **Riverina Line** is a railway corridor spanning between the cities of [[mtr_letsplay:gapyeong|Gapyeong]] and [[mtr_letsplay:albury|Albury]]. Its name stems from the real-life area in Australia and the originally exclusive Riverina Regional service (now the Riverina Sprinter, to be renamed to Moszyan Railways Sprinter) that ran until [[mtr_letsplay:culcairn|Culcairn]]. In 2024, ownership of multiple lines in the area was transferred and service extended towards the city of Albury, requiring multiple rebuilds from the originally two-track line into 4 in some places.
 
 <WRAP right>
 |  @#A0A0BE:  ||
 |  **Riverina Line**  ||
 |  @#A0A0BE:  ||
-|  {{mtr_letsplay:imagehere.png?400|image here}}  ||
+|  {{mtr_letsplay:leeton.png?400}}  ||
 |  @#A0A0BE:**Overview**  ||
 |  **Operated by**  |  [[mtr_letsplay:mrw|Moszyan Railways]]  |
 |  :::  |  [[mtr_letsplay:crosscountry|CrossCountry]]  |
@@ -24,4 +24,14 @@ The **Riverina Line** is a railway corridor spanning between the cities of [[mtr
 ===== Stations =====
 |  @#A0A0BE:**Name**  |  @#A0A0BE:**District**  |  @#A0A0BE:**Connections**  |  @#A0A0BE:**Opened**  |
 |  **Gapyeong New Street**\\ 加平 가평  |  Gapyeong  |  Snowie Line\\ Gyeongchun Line\\ Mount Birch Line\\ ITX Cheongchun\\ KTT\\ West Midlands Railway\\ Nami Island Ferry  |    |
-|will finish later lol|
+|  **Leeton**\\ 利頓  |  :::  |  RNET Bus 393  |
+|  **Narrandera**\\ 納蘭德拉  |  Junee  |    |
+|  **Coolamon**\\ 庫拉蒙  |  :::  |    |
+|  **Junee**\\ 朱尼  |  :::  |    |
+|  **Wagga Wagga**\\ 沃加沃加  |  Wagga Wagga  |  Lilypad Bus 98\\ The Rock Funicular  |
+|  **Culcairn**\\ 庫爾凱恩  |  :::  |  Lilypad Bus 98  |
+|  **Santa Mesa**\\ 聖瑪莎  |  Albury  |    |
+|  **West End**\\ 西終  |  :::  |  Banksia Line\\ Early Light Rail L1T  |
+|  **Parliament**\\ 議會  |  :::  |  Banksia Line  |
+|  **Albury-Des Moines**\\ 雅浦德梅因  |  :::  |  Banksia Line\\ Ship Line\\ Adrian Line  |
+|  **Collins Street**\\ 哥連臣街  |  :::  |  Banksia Line  |
