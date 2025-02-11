@@ -1,0 +1,27 @@
+====== Riverina Line ======
+The **Riverina Line** is a railway corridor spanning between the cities of [[mtr_letsplay:gapyeong|Gapyeong]] and [[mtr_letsplay:albury|Albury]]. Its name stems from the originally exclusive Riverina Regional service (now the Riverina Sprinter, to be renamed to Moszyan Railways Sprinter) that ran until [[mtr_letsplay:culcairn|Culcairn]]. In 2024, ownership of multiple lines in the area was transferred and service extended towards the city of Albury, requiring multiple rebuilds from the originally two-track line into 4 in some places.
+
+<WRAP right>
+|  @#A0A0BE:  ||
+|  **Riverina Line**  ||
+|  @#A0A0BE:  ||
+|  {{mtr_letsplay:imagehere.png?400|image here}}  ||
+|  @#A0A0BE:**Overview**  ||
+|  **Operated by**  |  [[mtr_letsplay:mrw|Moszyan Railways]]  |
+|  :::  |  [[mtr_letsplay:crosscountry|CrossCountry]]  |
+|  :::  |  [[mtr_letsplay:southwesttrains|South West Trains]]  |
+|  **Serving Districts**  |  Gapyeong  |
+|  :::  |  Junee  |
+|  :::  |  Wagga Wagga  |
+|  :::  |  Albury  |
+|  **Operating Services**  |  10  |
+|  @#A0A0BE:**Technical**  ||
+|  **Character**  |  Overground  |
+|  **Track Gauge**  |  1435mm standard gauge  |
+|  **Electrification**  |  1.5kV DC Overhead Catenary((pending installation))  |
+</WRAP>
+
+===== Stations =====
+|  @#A0A0BE:**Name**  |  @#A0A0BE:**District**  |  @#A0A0BE:**Connections**  |  @#A0A0BE:**Opened**  |
+|  **Gapyeong New Street**\\ 加平 가평  |  Gapyeong  |  Snowie Line\\ Gyeongchun Line\\ Mount Birch Line\\ ITX Cheongchun\\ KTT\\ West Midlands Railway\\ Nami Island Ferry  |    |
+|will finish later lol|
