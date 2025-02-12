@@ -1,6 +1,6 @@
 ====== 重生区站 ======
 
-重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:wlt_line_2|光洲-北海岸线]] 此外，还有附属车站蓝台站和2个高铁客运大楼
+重生区站是本服务器上的第一个车站，服务的线路有[[mtr_letsplay:spawn_grand_circular|重生大循环]]、[[mtr_letsplay:airport_express|机场快线]]、[[mtr_letsplay:scottetsu_line|苏铁线]]、[[mtr_letsplay:red_line|红线]]、[[mtr_letsplay:furret_line|大立线]]、[[mtr_letsplay:wlt_line_2|光北观线]] 此外，还有附属车站蓝台站和2个高铁客运大楼
 
 <WRAP right>
 
@@ -20,7 +20,7 @@
 | ::: | [[scottetsu_line|苏铁线(B)]] |
 | ::: | [[red_line|红线(B)]] |
 | ::: | [[furret_line|大立线(B)]] |
-| ::: | [[wlt_line_2|光洲-北海岸线(A)]] |
+| ::: | [[mtr_letsplay:wlt_line_2|光北观线(A)]] |
 | ::: | [[sightseeing_local_line|观光缓行线(C)]] |
 | ::: | [[sightseeing_express|观光快速(C)]] |
 | ::: | [[south_continental_line|地铁南大陆线(C)]] |
@@ -65,13 +65,14 @@
 {{:mtr_letsplay:spawnperim_new.png?600}}\\ //车站的区域地图.//
 
 {{ :zh:mtr_letsplay:c47c87b8-e035-4c0b-b849-3243ecd425c7.jpeg?600}}//车站外部地图（可见该建筑的布局庞大）//
+
 ===== 运营 =====
 
 |  **区域**  |  **站台**  |  **运营服务**  |  **终点站**  |
 |  \\ **重生区**  ||||
-|  @#144C6C:\\ \\ <color white>**<html><font size="4">A</font></html>**</color>  |  9  |  2号(光州-北海岸)线  |  光州  |
-| ::: |  10  |  2号(光州-北海岸)线  | ::: |
-| ::: |  11  |  2号(光州-北海岸)线  |  森林峰  |
+|  @#144C6C:\\ \\ <color white>**<html><font size="4">A</font></html>**</color>  |  9  |  [[mtr_letsplay:wlt_line_2|2号(光北观)线]]  |  光州  |
+| ::: |  10  |  [[mtr_letsplay:wlt_line_2|2号(光北观)线]]  | ::: |
+| ::: |  11  |  [[mtr_letsplay:wlt_line_2|2号(光北观)线]]  |  森林峰  |
 | ::: |  12  |   |   |
 |  @#37620E:\\ \\ \\ \\ \\ <color white>**<html><font size="4">B</font></html>**</color>  |  1  |  重生大循环  |  顺时针经绿色  |
 | ::: |  2  |  机场快线  |  北雪地枢纽  |
