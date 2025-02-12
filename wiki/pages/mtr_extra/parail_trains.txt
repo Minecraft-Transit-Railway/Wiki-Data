@@ -546,3 +546,148 @@ The Class 658 'Highpoint III' is an Electric Multiple Unit manufactured by Selma
 
 The Class 728 'Urbanworker 3' is an Electric Multiple Unit manufactured by Urbanworker under their Parent company, Selmarã Railnet, between 2011 and 2022. It is used on TWR's Commuter Services.
 
+ ===== Class 732 =====
+
+<WRAP right>
+
+^ **PäRail Class 732** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2000-2005 |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2001- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 732 'Double Decker Mark 4' is a Bilevel Electric Multiple Unit manufactured by RRMC between 2000 and 2005. It is used on Hàlí Railroad's Commuter and High-Dencity Lines. It has a Top speed of 120 km/h
+
+===== Class 760 =====
+
+<WRAP right>
+
+^ **PäRail Class 760** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2010-2017 |
+| **Manufacturer** | Selmarã Railnet|
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2011- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 760 'FLYER' is an Electric Multiple Unit manufactured by SRC between 2010 and 2017. It's used on Many Urban lines of PNR and HRR. It has a Top Speed of 160 km/h, and is Built for Carrying Hundreds on a Single Train.
+
+===== Class 761 =====
+
+<WRAP right>
+
+^ **PäRail Class 761** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2019- |
+| **Manufacturer** | RRG |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'-2'-2'-B'-B'-2'-2'-B' |
+| **Service Life**  | 2019- |
+| **Typical Train Length** | 6 Coaches |
+
+</WRAP>
+
+The Class 761 'Camtoran' is an Electric Multiple Unit manufactured by RRG Between 2019 and Today for use Across the Network. It's used on PäRail, SER, and CVR Trains. This Train is notable for having a Power Car that can run the train of Diesel Power of Needed. There is a Variant that can Run on Cog Railways for EMR Services.
+
+===== Class 762 =====
+
+<WRAP right>
+
+^ **PäRail Class 762** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2021- |
+| **Manufacturer** | RRG |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'-2'-Bo'-2'-B' |
+| **Service Life**  | 2022- |
+| **Typical Train Length** | 4 Coaches |
+
+</WRAP>
+
+The Class 762 'Navtara' is an Electric Multiple Unit manufactured by RRG between 2021 and Today. It's used on Urban Trains on PNR, HRR, and JNA. It has a Top Speed of 120 km/h.
+
+===== Class 773 =====
+
+<WRAP right>
+
+^ **PäRail Class 773** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2014-2025 |
+| **Manufacturer** | RRG |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2012- |
+| **Typical Train Length** | 5 Coaches |
+
+</WRAP>
+
+The Class 773 'FRONTIER' is an Electric Multiple Unit manufactured by RRG Between 2014 and 2025. It's a Variation of their RR D44 Units, and is used on SER and SETN Trains. It has a Top speed of 120 km/h.
+
+===== Class 778 =====
+
+<WRAP right>
+
+^ **PäRail Class 778** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2020- |
+| **Manufacturer** | Urbanworker LLC/Selmarã Railnet |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2021- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 778 'Urbanworker 4' is an Electric Multiple Unit manufactured by Urbanworker/Selmarã Railnet Between 2020 and Today. It's used almost all PNR Services. There are also Variants for PCMA, LRR, and C. 
+
+===== Class 800 and 801 =====
+
+<WRAP right>
+
+^ **PäRail Class 800** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2006-2015 |
+| **Manufacturer** | PäRail Engineering |
+| **Top Speed** | 300 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2007- |
+| **Typical Train Length** | 8 Coaches |
+^ **PäRail Class 801** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2014-2027 |
+| **Manufacturer** | PäRail Engineering |
+| **Top Speed** | 300 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2015- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 800 'HS300' is a High Speed Electric Multiple Unit manufactured by PäRail Engineering between 2006 and 2015 for the Hàlí Express. These Units have a Top Speed of 300 km/h. The Trains include First Class, A Baritro, and a Staff Area.
+
+The Class 801 'HS300' is a High Speed Electric Multiple Unit manufactured by PäRail Engineering between 2014, with The last Unit expected to be Made in 2027. These units are designed for Operation on All PäRail High Speed Lines.
+
+===== Class 910 =====
+
+<WRAP right>
+
+^ **PäRail Class 910** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1996-1999 |
+| **Manufacturer** | KTRC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 1997- |
+| **Typical Train Length** | 5 Coaches |
+
+</WRAP>
+
+The Class 910 is a Departmental EMU Manufactured by KTRC for use on PäRail Engineering Trains. They are able to Measure Track Geometry, Check Voltages on Overhead Lines, and Assist in Maintaining the Rails. They are also Frequently used in Driver Trainings, given that it's a Variant of the Class 363.
