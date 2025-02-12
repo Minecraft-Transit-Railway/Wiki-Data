@@ -12,10 +12,11 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 
 不像在先前的版本中，每条侧线只有拥有一种车型，MTR4可以自由使用不同车型的车厢来填充侧线
 
-举个例子，你可以使用 **SP1900的头部，M-Train的车厢，K-Train的尾部** 去为你的侧线创造自定义编组，并让它们行走在轨道上。(如图)
-{{:mtr:mtr4_consist.png?|MTR4编组功能的配置界面}}
+举个例子，你可以使用 **SP1900的头部，MLR-Train的车厢，K-Train的尾部** 去为你的侧线创造自定义编组，并让它们行走在轨道上。(如图) {{:mtr:mtr4_consist.png|MTR4编组功能的配置界面}}
 
-这对于混合车辆配置（例如链接不同代数的轻轨列车）((MTR模组中一共拥有五代轻轨列车(此注释由译者增加) ))、涂装和牵引其他编组的机车很有用。
+这对于混合车辆配置（例如链接不同代数的轻轨列车）((
+MTR模组中一共拥有五代轻轨列车(此注释由译者增加)
+))、涂装和牵引其他编组的机车很有用。
 
 ==== 不同的加速度与减速度 ====
 
@@ -28,6 +29,7 @@ Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重
 {{:mtr:mtr4_trackpreview.png?600|MTR 4的铁轨预览功能, 在连接另一个节点前}}
 
 ==== 新的列车 ====
+
 FIXME 英语下此条目尚未完成
 
 ==== 系统地图改进 ====
@@ -38,21 +40,21 @@ FIXME 英语下此条目尚未完成
 
 ==== 信号灯 ====
 
-信号灯现可斜着放置(以22.5°为最小增量角度)。他们现在还可以进行过滤以只显示某些颜色的信号。
-{{mtr:mtr4_signallight.png?600|斜着放置的信号灯}}
+信号灯现可斜着放置(以22.5°为最小增量角度)。他们现在还可以进行过滤以只显示某些颜色的信号。 {{mtr:mtr4_signallight.png?600|斜着放置的信号灯}}
+
 ==== OBJ渲染 ====
 
 对于OBJ模型的支持已从NTE集成进MTR 4中。
 
 这代表着MTR现在支持.obj格式的精细模型/轨道。
 
-====显著的改进====
+==== 显著的改进 ====
 
-===桥梁创建器===
+=== 桥梁创建器 ===
 
 桥梁创建器的速度现已提升到合理水平。
 
-===距离效应===
+=== 距离效应 ===
 
 在MTR4中，大部分距离效应已得到缓解。即使在非常远的距离（即默认世界边界）中，铁路设施和火车也能正确呈现，并且仪表盘在修改区域时也能正常运行而不会精度丢失。
 
@@ -63,17 +65,16 @@ FIXME 英语下此条目尚未完成
   * 在前些版本中，每一条车厂侧线只能有一个车型；但是MTR 4却允许您使用不同车型的车厢填满一条侧线。举个例子，你可以将**SP1900 (车头), M-Train (车厢) and K-Train (车尾)** 作为你的侧线的默认组合并使其在轨道上正常运行。
   * 修复了MTR 3中的许多问题并做出了一些改进，如修复了旧1.20.1 alpha中的问题、提高了桥梁建设速度、缓解掉帧问题等等。
 
-
 ===== 技术变化 =====
 
 ==== Minecraft-Mappings ====
 
 [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]]项目已重写，允许在多个Minecraft版本和跨modloader之间进行开发。新的Minecraft-Mappings项目取代了以往为MTR 3提供多平台兼容前置模组**Architectury模组**
+
 ==== 渲染优化 ====
 
 来自[[mtr_addon:nte:start|NTE Addon]]的渲染优化已集成到**Minecraft-Mappings**项目中，该项目也在MTR 4.0中使用。 这应该在游戏过程中提供实质性的帧率改进。((
-
- (需翻墙)https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s
+ (需翻墙)[[https://www.youtube.com/watch?v=isNtUyUaNjY&t=104s]]
 ))
 
 ==== Transport-Simulation-Core ====
@@ -87,3 +88,4 @@ FIXME 英语下此条目尚未完成
 由于后端的大量重写，大部分依赖于MTR的附属模组都需要更新，需要更新的模组的菜单可在[[mtr_addon:start|此处]]查看，拥有兼容MTR3或MTR4的标签提示
 
 非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4，但 Nemo's Transit Expansion 除外，其大部分功能已合并进 MTR 本体中
+
