@@ -88,7 +88,7 @@ A model compatible with through service to Shimano MTR.
 Unlike the Shimano MTR vehicles mentioned below, these vehicles operate without distinction as long as the tracks are connected.
 Currently, all vehicles have a livery modeled on [[https://poppy-playtime.fandom.com/wiki/Smiling_Critters|Smiling Critters]], but currently only the Catnap livery is in operation. Initially, it was planned to modify an S43-LRV, but with the retirement of all the vehicles mentioned above, the plans were changed to building new vehicles instead.
 
-Later, the introduction of the LRV 1995T, modeled after the Nightmare Critters livery, was announced. Unlike the LRV 1995, this vehicle has a walk-through head and is designed to operate from a two-car formation. Unlike when SMTR used the S43-LRV, operation is not permitted if all cars do not have gangways, but when forming a train of four or more LRV 1995Ts, if the leading cars are connected with a gangway, through service can be provided.
+Later, the introduction of the LRV 1973DT, modeled after the Nightmare Critters livery, was announced. Unlike the LRV 1973D, this vehicle has a walk-through head and is designed to operate from a two-car formation. Unlike when SMTR used the S43-LRV, operation is not permitted if all cars do not have gangways, but when forming a train of four or more LRV 1973DTs, if the leading cars are connected with a gangway, through service can be provided.
 
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
@@ -169,3 +169,10 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 ====Former====
 ^Company&Route^Route Name^Operation section^
 |Teufort LRT Line U2|相01(AC01)|Kurokusa Depot ⇄ Landfall((Current:Kamiyonai)) ⇄ Banana Bay |
+
+=====Future plans for MTR4 update=====
+The following is mainly a plan after the MTR4 update, and may not be implemented depending on the future situation of LPS.
+
+  * A large-scale update is planned mainly for the S43-Tec-manufactured LRV ((which was out of service from August 2024 to January 2025)), and as a result, LRT 2020 will be replaced with a new vehicle. In addition, some liveries are scheduled to end operation or be changed. ((Due to a major change in the model.))
+
+  * In addition, we plan to insert a 12m intermediate car into S43-Tec and LIGHTACE to operate 3-car and 5-car formations. ((There are platforms where 3-car preparation work is being done on Kamaboko LRT, etc.))
