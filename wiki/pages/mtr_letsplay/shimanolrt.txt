@@ -60,6 +60,7 @@ Currently, trains with four or more cars are operated with the same model and th
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
 | **1928 Stock** | Dark Green\\ Blue((repaint by k51zu)) | 2 or 4 |
+| **1954M Stock** | Gold | ::: |
 | **1954MM Stock** | Retro Green | ::: |
 | **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker\\ Keikyu Vermilion((repaint by k51zu)) | ::: |
 | **1999 Stock**((Advert Wrapping compatible vehicles)) | Alps Green/Tamaden((repaint by k51zu))\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
@@ -78,7 +79,6 @@ Currently, trains with four or more cars are operated with the same model and th
 ==Feature==
 ^  Model  ^  Livery  ^  Cars  ^
 | @#888888: **1954 Stock** | @#888888:TBA | ::: |
-| @#888888: **1954M Stock** | ::: | ::: |
 | @#888888: **1980 Stock** | ::: | ::: |
 | @#888888: **1990 Stock** | ::: | ::: |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
@@ -176,3 +176,4 @@ The following is mainly a plan after the MTR4 update, and may not be implemented
   * A large-scale update is planned mainly for the S43-Tec-manufactured LRV ((which was out of service from August 2024 to January 2025)), and as a result, LRT 2020 will be replaced with a new vehicle. In addition, some liveries are scheduled to end operation or be changed. ((Due to a major change in the model.))
 
   * In addition, we plan to insert a 12m intermediate car into S43-Tec and LIGHTACE to operate 3-car and 5-car formations. ((There are platforms where 3-car preparation work is being done on Kamaboko LRT, etc.))
+  * Since the addition of the "instant-deploy" function will significantly shorten the period of time that routes will be unable to function due to being stuck, there are plans to switch from the current principle of operating one route per depot to operating multiple routes at the same time.
