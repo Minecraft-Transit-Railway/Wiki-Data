@@ -38,7 +38,6 @@ You can help the development of MTR 4 by contributing to such area.
 
 ==== Unimplemented Features ====
 
-  * MTR System Map's Direction Pane is incomplete.
   * Re-implement Manual driving
   * Hide Route not working on System Map
   * Missing Ding Sound in Elevator
