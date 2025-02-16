@@ -2,12 +2,12 @@
 Useful information about Let's Play servers(LPS)
 =====Recommended specs for participating in LPS=====
 There are no strict recommended specs other than RAM and the launcher, but they are roughly as follows:
-OS: Windows10, 11
-CPU: Mid-range or higher CPU
-GPU: Mid-range or higher GPU
-Storage: 10GB or more (including 3GB resource pack), SSD recommended.
-RAM: 16GB(8GB allocated to games)
-Launcher: Prism Launcher (illegal launchers such as TLauncher are not supported.)
+  * OS: Windows10, 11
+  * CPU: Mid-range or higher CPU
+  * GPU: Mid-range or higher GPU
+  * Storage: 10GB or more (including 3GB resource pack), SSD recommended.
+  * RAM: 16GB(8GB allocated to games)
+  * Launcher: Prism Launcher (illegal launchers such as TLauncher are not supported.)
 
 =====About server connection errors=====
 We will teach you about errors that can occur when connecting to a Let's Play server and how to deal with them.
