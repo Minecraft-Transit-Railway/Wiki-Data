@@ -52,7 +52,7 @@
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]]  |
 | **Service Hours** | 04:47 - next day 03:23 \\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 1 - 12 mins |
+| **Frequency** | Every 1 - 8 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]] |
 ^  History  |^
@@ -218,7 +218,7 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 | |  Kwong Chow - Spawn  |  Kwong Chow - Makki Memorial Village  |  Kwong Chow - Ostania  |
 |  5 am - 9 am  |  3 - 7  |  4 - 8  |  8  |
 |  9 am - 9 pm  |  1.7 - 3.2  |  3.2 - 4.8  |  8  |
-|  9 pm - 11 pm  |  1.2 - 2.0  |  1.3 - 3.5  |  4.5 - 7  |
+|  9 pm - 11 pm  |  1.3 - 2.7  |  2.3 - 3.7  |  5 - 7  |
 |  11 pm - 1 am  |  1.7 - 3.2  |  3.2 - 4.8  |  8  |
 |  1 am - 3 am  |  3 - 7  |  5.5 - 8  |  8  |
 
