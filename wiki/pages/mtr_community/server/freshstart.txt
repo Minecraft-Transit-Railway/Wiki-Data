@@ -814,6 +814,9 @@ Popping Central bound
 | @#00d8ff: |||
 | **LRT9** | KAI Commuter JR 203 Series | 21 |
 | @#00d8ff: |||
+| @#C172CC: |||
+| **LRT11** | DLR B90 | 8 (Total 10((Including stations on the Maplewood Branch / Pinewood Branch.))) |
+| @#C172CC: |||
 | @#50a477: |||
 | **LRT12** | S43-Tec 2022 Light-Metro | 8 |
 | @#50a477: |||
