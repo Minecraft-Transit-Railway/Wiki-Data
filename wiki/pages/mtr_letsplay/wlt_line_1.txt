@@ -29,7 +29,7 @@
 | ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
-| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]</color> |
+| ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]</color> |
 | ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
 | **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
 ^  Service  |^
