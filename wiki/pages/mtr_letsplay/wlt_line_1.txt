@@ -13,8 +13,8 @@
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/tai_po_station|Tai Po]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
 | ::: | @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]] (WIP) |
-| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] (WIP)</color> |
-| ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (WIP) |
+| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] </color> |
+| ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]]  |
 | ::: | @#055214:<color white>Resort Ferries</color> |
 | ::: | @#D3A80A:<color white>[[/lilac_light_rail|Lilac Light Rail]] (WIP)</color> |
 | ::: | @#E41A56:<color white>Oculink Red Line (WIP)</color> |
@@ -113,6 +113,7 @@ The branch is opened as trial service soon after tracks are primarily done and G
   * 2 July 2024: Mei Foo Wan Branch / Northern Transverse Link opened as trial service and trains run from Mei Foo Wan down to Tai Po through existing sections after merging at Tung Yuen.
   * 11 October 2024: Platforms in Zuidbaai Centraal station is open for passengers service. 
   * 23 November 2024: Platforms in Tung Yuen station is open for passengers service. Resort Ferries transfer at Mei Foo Wan station is also available. 
+  * 13 February 2025: Platforms in Ying Mo station is open for passengers service. Connection to Ying Chuk station is available.
 
 ===== Rolling Stocks =====
 
@@ -168,7 +169,7 @@ Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternati
 | ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
 |  5 am - 9 am  |  2.5 / 5.5  |  8  |  8  |
 |  9 am - 9 pm  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
-|  9 pm - 11 pm  |  1.0 - 2.2  |  3.2  |  2.6 - 3.8  |
+|  9 pm - 11 pm  |  1.4 - 2.9  |  3.5 - 4.5  |  3.4 - 4.6  |
 |  11 pm - 1 am  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
 |  1 am - 3 am  |  2.5 / 5.5  |  8  |  8  |
 
@@ -194,9 +195,7 @@ Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 |    | ::: |  <color #808080>//Chi Chuk//</color>((
 Not finished construction and not open
 ))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
-|    | ::: |  <color #808080>//Ying Mo//</color>((
-Not finished construction and not open
-))  |  <color #808080>//%%櫻暮%%//</color>  |  <color #808080>//YIM//</color>  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  |  | ::: |
+|    | ::: |  Ying Mo  |  %%櫻暮%%((Station is WIP and available for interchange))  |  YIM  |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  |  13 February, 2025((Interchange only))  | ::: |
 | ::: | ::: | ::: | ::: | ::: |  @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - Northern Transverse Link**</color>  ||||||||
 |  @#202020:  |  @#DE5594:  |  [[/mei_foo_wan_station|Mei Foo Wan]]  |  %%美麩灣%%  |  MFW  |    |  23 November, 2024  |  [[/resort_area|Resort Area]]  |
