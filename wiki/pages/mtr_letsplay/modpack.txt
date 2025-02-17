@@ -93,3 +93,21 @@ To install more additional mods that you prefer, simply drop them into the mods 
 
 In case you've been previously playing and want to keep your Map, Distant Horizons data etc., simply move the associated folders inside ''%%.minecraft%%'' over. These might include ''%%Distant_Horizons_server_data%%'', ''%%XaeroWorldMap%%'', ''%%XaeroWaypoints%%'', etc.
 
+===== Troubleshooting =====
+
+Sometimes when attempting to join the Let's Play Server, you may encounter some errors, especially on your first attempt. Below are some common situations.
+
+====Registry remapping failed====
+This error occurs when a mod required for joining the server has not been installed correctly. In many cases, the [[mtr_letsplay:modpack|Modpack]] has not been installed correctly or a mod has downloaded incorrectly, so please check the installation procedure again.
+
+====Connection reset====
+This error generally occurs when the socket connection is closed by the other side. To resolve this, please check your internet and firewall settings, or try reconnecting after a while.
+
+====Invalid Session====
+This can sometimes be resolved by restarting Minecraft and the launcher as instructed by the error.
+
+====Failed to resolve username====
+You are either using a cracked Minecraft launcher, which cannot connect to the server and is against rule 6, or your launcher isnt properly logged into your Minecraft account, usually due to a bad login token. Please try logging out and then logging back in.
+
+====Disconnected, server closed====
+The Let's Play Server restarts every day at 20:00 UTC. You will be notified via chat about 5 minutes in advance. Please wait for a while and then reconnect.
