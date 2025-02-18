@@ -532,7 +532,7 @@ Fictional train, made for HIC Phoenix Line
 )) | 12 |
 | @#E3B905: |||
 | @#035273: |||
-| **Waterline** | Unknown | Unknown |
+| **Waterline**((In planning phase)) | TBA | TBA |
 | @#035273: |||
 
 ===== International Aviation Administration =====
