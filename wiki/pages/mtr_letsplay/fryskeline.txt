@@ -8,7 +8,7 @@ The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor con
 |  {{mtr_letsplay:hylkemarewieringawijk.png?400|Hylkemare Wieringawijk station}}  ||
 |  @#B0B0BE:**Overview**  ||
 |  **Owned by**  |  Moszyan Transport  |
-|  **Opening Date**  |  //Testing//  |
+|  **Opening Date**  |  June 1st, 2024  |
 |  **Serving Districts**  |  Hylkemare  |
 |  :::  |  Taipa  |
 |  :::  |  Oculus  |
@@ -38,9 +38,11 @@ On May 12th, all tracks between the two terminus stations were finished, and the
 
 On May 22nd, construction of **Rykkam**'s "temporary station design", probably to stay as a permanent structure due to its castle wall design, was finished. This meant that all stations on the line had now been completed and were just awaiting connection.
 
+On June 1st, the very first public journey was made using the Moszyan Railways FLIRT, from Kallos Royal Park to Hylkemare. The event was memorable for all the wrong reasons, due to the excessive amount of visitors present at the opening creating huge lag that almost broke the server. The normally 15-minute drive took well over half an hour due to this, and as the train was being driven back to Kallos, the regular FLIRT 3 trains began operating.
+
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (306((interchange available only via an out-of-station interchange at Hylkemare Bayside))/633P/804)  |  January 29th, 2024  |
+|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (300/P300/305/633P/804)  |  January 29th, 2024  |
 |  **Hylkemare Wieringawijk**  |  :::  | |  February 4th, 2024  |
 |  **De Marren**  |  :::  | |  February 10th, 2024  |
 |  **Rykkam**\\ Ridgecrest  |  Taipa  |  Starlight Line (Planned)  |  May 22nd, 2024  |
