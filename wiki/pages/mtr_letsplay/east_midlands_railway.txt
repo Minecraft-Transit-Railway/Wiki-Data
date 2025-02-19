@@ -1,1 +1,21 @@
 ====== East Midlands Railway ======
+
+<WRAP right>
+
+|  @#4D2F49:  ||
+|  @#FFFFFF:  <html><b><font size = "4">East Midlands Railway</b></html>  ||
+| {{ mtr_letsplay:emrwikicover.png?600 |East Midlands Railway "Aurora Lite" and "Electrics" fleets seen at Liskeard Central}} ||
+|  @#EFEEF0:  **Overview**  |  |
+| **Area Served** | North |  
+| **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |  |
+| **Number of lines** | 5 |  
+| **Stations Served** | 27 |  
+| **Real-Life Inspiration** | [[wp>East_Midlands_Railway|Abellio/Transport UK East Midlands Railway]] |  
+|  @#EFEEF0:  **Service & Operations**  |  
+| **Began passenger operations** | 2022 (as //Electrostar Rail//) |  
+| **Min/Max Train lengths** | 2/8 (Regional/Electrics/Connect), 5/10 (Long-Distance) |  
+
+</WRAP>
+
+**East Midlands Railway** is a train operating company on the Minecraft Transit Railway Let's Play server. It operates services from Llanmara Prince's Street to Ilford Island, as well as regional services around the Liskeard area, alongside long-distance and stopping services towards the North-West from Liskeard Central. The operator replaced the now-defunct Electrostar Rail brand.
+
