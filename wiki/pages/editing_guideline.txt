@@ -45,7 +45,6 @@ You can create a page below:
 
 For the [[wiki_guidelines|Wiki Guidelines]], please visit the corresponding page.
 
-As per the new rules drafted 22 January 2024, adopted 27 January 2024, revised 29 January, taking affect 31 January 2024 at 02:00 HKT, server pages should no longer have the "Server -" prefix, as they now have their own sub-namespace under mtr_community, that being mtr_community:server. Please update your pages accordingly during the transitional period. Thereafter, Staff will change the namespaces for all pages organised incorrectly. The same rule applies to Staff, Contributor, and Builder user pages dropping the "User -" prefix and resource pack pages dropping the "Resource Pack -" prefix. Please review the above chart for where to correctly assign a page. 
 
 Your user page should belong in the respective category according to the Staff > Contributor > Builder priority. If you have the orange Contributor role and you are a builder as well, your page should be placed in the Contributor namespace.
 
