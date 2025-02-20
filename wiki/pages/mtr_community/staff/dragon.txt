@@ -1,8 +1,8 @@
-======Dragon ======
+====== Dragon ======
 
 <WRAP right>
 
-|  @#900000:  <color white>**Æçħ**</color>  ||
+|  @#900000:  <color white>**Äçħ**</color>  ||
 |  {{ :mtr_community:dragon_skin.png?150 }}//Dragon's Skin//\\ //As Seen on NameMC//  ||
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Also known as** | Dragon |
@@ -21,11 +21,17 @@
 
 </WRAP>
 
-**Æçħ**, Also known as **Dragon**, Is a Resource Pack Developer known for his Medium-Quality Models. He Originates from the United states of America. He is known for being a Fan of [[https://en.wikipedia.org/wiki/F-Zero|F-Zero]] and the [[https://en.wikipedia.org/wiki/Wings_of_Fire_(novel_series)|Wings of Fire Book Series]].
+**Äçħ**((Mūñkskaki)), Also known as **Dragon**, Is a Resource Pack Developer known for his Medium-Quality Models. He Originates from the United states of America. He is known for being a Fan of [[https://en.wikipedia.org/wiki/F-Zero|F-Zero]] and the [[https://en.wikipedia.org/wiki/Wings_of_Fire_(novel_series)|Wings of Fire Book Series]].
 
 ===== The PäRail Pack Project =====
 
 The [[mtr_extra:parail_trains|PäRail Pack]]((Known Shortly as the PRL Pack, Or Officially as the PäRail Trains Addon)) is one of Dragon's Projects. It is mainly for Mainline Railway Units.
+
+===== Other MTR Projects =====
+
+[[mtr_extra:class_777|British Rail Class 777]], The Current Stock of Merseyrail.
+
+[[mtr_extra:apm_100|Bombardier Innova APM 100]], An Automated Guideway Transit Train.
 
 ===== Outside MTR =====
 
@@ -42,7 +48,8 @@ Along with the previous era, Information from 2022 is Limited. What's known is t
 **Early 2023-The Latitude Era**
 This is the Largest Part of Dragon's History, Including his Brief Stint on the LPS. He Restarted development of the PCMA World, Twice. This is also where he started Development of the PäRail Pack.
 
-**Late 2023/2024-The Ideapad Era**
+**Late 2023 to 2025-The Ideapad Era**
+Here, He returned to The MTR Staff team as part of the Support Team.
 
 
 ===== THIS PAGE IS STILL A WORK IN PROGRESS =====
