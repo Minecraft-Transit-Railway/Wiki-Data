@@ -3,14 +3,14 @@
 <WRAP right>
 
 |  @#900000:  <color white>**PäRail Trains Addon**</color>  ||
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:1.4.0_relace_banner_hd.png?250|}}  ||
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Creator** | [[mtr_community:staff:dragon|Aecth Thean]] |
-| Trains | 31 |
+| Trains | +30 |
 | TBA | UsaDragon22 |
-| **Latest Version** | 1.3.1 |
+| **Latest Version** | 1.4.0 |
 | **Initial Release** | October 5th, 2022 |
-| **Modrinth** | [[https://modrinth.com/resourcepack/dragon_railway|Click]] |
+| **Download** | [[https://modrinth.com/resourcepack/dragon_railway|Modrinth]] |
 | **Compatable With** | 3.2.2 for V1.2, 4.0.0 for V1.3 and later |
 
 </WRAP>
@@ -162,7 +162,7 @@ The Class 67 'Universal Locomotive' is a Diesel-Electric Locomotive manufactured
 <WRAP right>
 
 ^ **PäRail Class 77** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:class77.png?250|}}  ||
 | **Manufactured** | 1979-1986 |
 | **Manufacturer** | LACB |
 | **Top Speed** | 200 km/h |
@@ -223,11 +223,11 @@ The Class 85  is an Electric Locomotive manufactured by Hòstín Train Manufactu
 
 The Class 94 is a Tri-Mode Electric Locomotive in 3 parts. It was Manufactured by Mevrik between 1975 and 1981 as a Replacement for the Class 67. They are Paired with the matching C404 Coaches. The 'A' Unit provides Head-End Power, a Front Cab, and Electric Equipment. The 'B' Unit has the Prime Mover. And the 'C' Unit has a Rear Cab, and Baggage area.
 
-===== Class 77 =====
+===== Class 96 =====
 
 <WRAP right>
 
-^ **PäRail Class 77** ^ ::: ^
+^ **PäRail Class 96** ^ ::: ^
 |  {{:mtr_extra:parail_1_0_1.png?250}}  ||
 | **Manufactured** | 1991-2001 |
 | **Manufacturer** | Selmarã Railnet |
@@ -238,6 +238,24 @@ The Class 94 is a Tri-Mode Electric Locomotive in 3 parts. It was Manufactured b
 </WRAP>
 
 The Class 96 'HS200' is a High-Speed Electric Locomotive manufactured by Selmarã Railnet between 1991 and 2001. They were Designed for High-Speed Trains, with a Top speed of 200 km/h. They were Supplemented by the Class 801 in 2015.
+
+===== Class 145 =====
+
+<WRAP right>
+
+^ **PäRail Class 145** ^ ::: ^
+|  {{:mtr_extra:145.png?250|}}  ||
+| **Manufactured** | 1970-1982 |
+| **Manufacturer** | ZRMC |
+| **Top Speed** | 80 km/h |
+| **Wheel Arrangement** | A-1-1-A |
+| **Service Life**  | 1971-2022 |
+| **Train Length** | 2 Coaches |
+
+</WRAP>
+
+The Class 145 was a Diesel Railcar manufactured by ZRMC between 1970 and 1982. It was a Cheep commuter Train for the Eastern Routes of the MR Network. It was then Transferd to PNR, and later, SETN. They were then Withdrawn
+
 
 ===== Class 155 =====
 
@@ -363,7 +381,7 @@ The Class 348 'Unionliners' is an Electric Multiple Unit manufactured by HTMC Be
 <WRAP right>
 
 ^ **PäRail Class 354** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:backcab354.png?250|}}  ||
 | **Manufactured** | 1986-1989 |
 | **Manufacturer** | DCCR |
 | **Top Speed** | 120 km/h |
@@ -431,7 +449,7 @@ The Class 381 'IntraLink' is an Electric Multiple Unit manufactured by KTRC betw
 <WRAP right>
 
 ^ **PäRail Class 387** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:387.png?250}}  ||
 | **Manufactured** | 1988-1993 |
 | **Manufacturer** | Mevrik |
 | **Top Speed** | 160 km/h |
@@ -568,7 +586,7 @@ The Class 732 'Double Decker Mark 4' is a Bilevel Electric Multiple Unit manufac
 <WRAP right>
 
 ^ **PäRail Class 760** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:class_760_hrr.png?250}}  ||
 | **Manufactured** | 2010-2017 |
 | **Manufacturer** | Selmarã Railnet|
 | **Top Speed** | 160 km/h |
@@ -585,7 +603,7 @@ The Class 760 'FLYER' is an Electric Multiple Unit manufactured by SRC between 2
 <WRAP right>
 
 ^ **PäRail Class 761** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:761cvr.png?250}}  ||
 | **Manufactured** | 2019- |
 | **Manufacturer** | RRG |
 | **Top Speed** | 160 km/h |
@@ -602,7 +620,7 @@ The Class 761 'Camtoran' is an Electric Multiple Unit manufactured by RRG Betwee
 <WRAP right>
 
 ^ **PäRail Class 762** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:762.png?250}}  ||
 | **Manufactured** | 2021- |
 | **Manufacturer** | RRG |
 | **Top Speed** | 120 km/h |
@@ -691,3 +709,19 @@ The Class 801 'HS300' is a High Speed Electric Multiple Unit manufactured by Pä
 </WRAP>
 
 The Class 910 is a Departmental EMU Manufactured by KTRC for use on PäRail Engineering Trains. They are able to Measure Track Geometry, Check Voltages on Overhead Lines, and Assist in Maintaining the Rails. They are also Frequently used in Driver Trainings, given that it's a Variant of the Class 363.
+
+===== Type 44 =====
+
+<WRAP right>
+
+^ **ZRCP((PNR)) Type 44** ^ ::: ^
+|  {{:mtr_extra:type44.png?250}}  ||
+| **Manufactured** | 1930-1937 |
+| **Manufacturer** | LACB |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement**((Wyhte Notation)) | 4-8-4 |
+| **Service Life**  | 1931-1947 |
+
+</WRAP>
+
+The Type 44 is a 4-8-4 Express Steam Locomotive manufactured By LACB Between 1930 and 1937. They were used on Zísráħratapí Ràkà Crän Päsow((Mūñkskaki, English: Päsow National Railway)), and later MR Until the Rise of Diesel and Electric units in the late 40's. Only survive into Preservation with 44073 owned by PäRail.
