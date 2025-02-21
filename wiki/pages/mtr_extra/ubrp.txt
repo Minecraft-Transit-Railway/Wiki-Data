@@ -1,5 +1,7 @@
 ====== Ultimate Briddle Rail Pack ======
 
+<WRAP round info>**Regarding renaming of Version 0.0.1**\\ Version 0.0.1 of this pack will be renamed to V1. Although the currently released versions will still remain v0.0.1.</WRAP>
+
 <WRAP right>
 
 | @#E00000: <color #FFFFFF>**Ultimate Briddle Rail Pack**</color> ||
