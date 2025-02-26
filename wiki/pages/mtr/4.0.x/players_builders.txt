@@ -137,6 +137,7 @@ Please note that there are some artifacts after upgrading, which is listed below
 
   * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
   * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
+  * Rail model configured with the Nemo Transit Expansion would be flipped to the opposite side. You will need to flip again for asymmetric rail model. 
   * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
   * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
 
