@@ -7,8 +7,6 @@ You can help the development of MTR 4 by contributing to such area.
 ==== Issues & Bugs ====
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in this case)
-  * ** BVE Sound will no longer be able to play if the sound hasn't been played for 20 client ticks (Whether due to lag or other reasons)**
-    * Reinstating the train (Going out and back in the area) would fix the issue, but F3+T does not fix it.
   * Vehicle Sounds are played multiple times when using shaders (Tested with Iris 1.7.2+mc1.20.4)
   * ** Custom destination for trains does not work reliably.**
     * Cannot find a way to reproduce reliably yet other than specific routes in a migrated world
