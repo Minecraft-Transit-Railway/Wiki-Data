@@ -8,12 +8,7 @@ You can help the development of MTR 4 by contributing to such area.
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in this case)
   * Vehicle Sounds are played multiple times when using shaders (Tested with Iris 1.7.2+mc1.20.4)
-  * ** Custom destination for trains does not work reliably.**
-    * Cannot find a way to reproduce reliably yet other than specific routes in a migrated world
-    * Train's custom destination are displaying the custom destination from the furthest custom destination in specific route
-    * Example: A route running from A to D.
-      * If C has a custom destination, then train will always show C's destination even before reaching C
-      * If D has a custom destination as well, then train will always show D's destination even before reaching D
+  * Custom destination for trains does not work properly after the 1st route.
   * Migration: NTE Rail flipped to the other side after upgrading to MTR 4.
   * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
   * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
