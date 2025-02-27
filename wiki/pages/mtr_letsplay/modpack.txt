@@ -103,6 +103,9 @@ This error occurs when a mod required for joining the server has not been instal
 ====Connection reset====
 This error generally occurs when the socket connection is closed by the other side. To resolve this, please check your internet and firewall settings, or try reconnecting after a while.
 
+====Please update your Resource Pack Updater (You are now using N/A)====
+You have not properly set up packwiz, this is usually because the JVM arguments were not added. Try following the guide again and look for the part that tells you to add Java arguments to your installation.
+
 ====Invalid Session====
 This can sometimes be resolved by restarting Minecraft and the launcher as instructed by the error.
 
