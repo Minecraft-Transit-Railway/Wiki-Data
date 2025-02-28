@@ -56,7 +56,7 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 
 {{:mtr_community:trinsmoton_rail:jtg.png?40}} [[#Java Train Government|Java Train Government]]
 
-{{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Kapple Regional LRT|Kapple Regional LRT]]
+{{:mtr_community:trinsmoton_rail:krlr.png?40}} [[#Kapple Regional LRT|Kapple Regional LRT]]
 
 {{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Kapple Transport Agency|Kapple Transport Agency]]
 
@@ -68,7 +68,7 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 
 {{:mtr_community:trinsmoton_rail:nu.png?40}} [[#New Underground|New Underground]]
 
-{{:mtr_community:trinsmoton_rail:nwr.png?40}} [[#New Water Rail|New Water Rail]]
+{{:mtr_community:trinsmoton_rail:nwrnew.png?40}} [[#New Water Rail|New Water Rail]]
 
 {{:mtr_community:trinsmoton_rail:odakyu.png?40}} [[#Odakyu|Odakyu]]
 
@@ -769,6 +769,7 @@ Kapple Regional LRT (KRLR) operates 'light rail' services north of Kapple.
 <WRAP right>
 
 |  @#ce9800:<color #FFFFFF>**KRLR**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:krlr.png?150}}  ||
 ^ Founded | 11th May 2024((
 As part of [[#Privately operated lines|Private Lines]]
 )) |
@@ -777,7 +778,7 @@ As part of [[#Privately operated lines|Private Lines]]
 ^ Co-Workers | Kenzierr |
 | ::: | ZEP |
 | ::: | GalaxyFox |
-| ::: | rapidkyokeirailservices |
+| ::: | Isaac |
 | ::: | BricksTW |
 | ::: | ARmz((
 No longer a builder in the server.
@@ -1132,7 +1133,7 @@ New Water Rail (NWR) is a metro operator which is currently still under planning
 <WRAP right>
 
 |  @#2090FF:<color #FFFFFF>**NWR**</color>  ||
-|  {{mtr_community:trinsmoton_rail:nwr.png?150}}  ||
+|  {{mtr_community:trinsmoton_rail:nwrnew.png?150}}  ||
 ^ Founded | 30th December 2024 |
 ^ Owner | verysad |
 ^ Lines | 0 (1 planned) |
@@ -1173,7 +1174,7 @@ Odakyu is a privately owned rail company that operates in the Kapple Area.
 | **Odakyu West Sea Line**((Through-service onto T2 Tram)) | R-Train | 3 |
 | @#4ac4cb: |||
 | @#77D387: |||
-| **Odakyu Nankai Line** | Odakyu 445 Series((Fictional train, made for Odakyu)) | 9 |
+| **Odakyu Nankai Line** | Odakyu 445 Series((Fictional train, made for Odakyu)) | 14 |
 | @#77D387: |||
 | @#3A8BBF: |||
 | **Arctic Liner** | N700A Series | 2 |
@@ -1181,7 +1182,33 @@ Odakyu is a privately owned rail company that operates in the Kapple Area.
 
 ===== Phoenix Transport Authority =====
 
-Soon(tm)
+Phoenix Transport Authority (PTA) controls the Phoenix LRT and various lines within the Phoenix area.
+
+<WRAP right>
+
+|  @#2090FF:<color #FFFFFF>**PTA**</color>  ||
+^ Founded | 14th September 2024 |
+^ Owner | my_tiamos |
+^ Lines | 5 |
+
+</WRAP>
+
+==== List of lines ====
+
+^ **Line name** ^ **Rolling stock** ^ **Stops** ^
+| @#7F7F7F: |||
+| **Phoenix LRT 30** | S43-Tec 2002 LRV | 2 |
+| @#7F7F7F: |||
+| @#540000: |||
+| **Phoenix LRT 31** | S43-Tec 2022 LRV | 38 |
+| @#540000: |||
+| @#AB0000: |||
+| **Phoenix LRT 32** | S43-Tec 1975 LRV | 34 |
+| @#AB0000: |||
+| @#FF00FF: |||
+| **Phoenix LRT 37** | S43-Tec 2002 LRV | 22 |
+| **Phoenix LRT 37X** | S43-Tec 2010 LRV | 11 |
+| @#FF00FF: |||
 
 ===== Stars Local Transport =====
 
