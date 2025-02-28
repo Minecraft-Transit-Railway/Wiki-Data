@@ -1,0 +1,10 @@
+====== Types of boxes ======
+
+<WRAP round box> minecraft:air </WRAP>
+<WRAP round info> Text </WRAP>
+<WRAP round alert> Task failed successfully. </WRAP>
+<WRAP round tip> Tip: Ur funni </WRAP>
+<WRAP round important> IMPORTANTE!!!11 </WRAP>
+<WRAP round help> Information, ur welcome </WRAP>
+<WRAP round todo> Nothing </WRAP>
+<WRAP round download> Download Roblox </WRAP>
