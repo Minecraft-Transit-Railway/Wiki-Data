@@ -167,7 +167,7 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 ^Company&Route^Route Name^Operation section^
 |Shimano MTR Jigglypuff Line|相01(AC01)|Cinderace Depot ⇄ Kurokusa ⇄ Acacialand Village ⇄ Higashi Huggy 8 Chome |
 | ::: |黑01(KR01)|Cinderace Depot ⇄ Kurokusa ⇄ Daisetu Town ⇄ Cinderace |
-|Shimano MTR Dialga Line|覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ (Feature: ⇄ Peak of Awakening)|
+|Shimano MTR Dialga Line|覺01(PA01)|Huggy Wuggy ⇄ Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ (Feature: ⇄ Peak of Awakening)|
 ====Former====
 ^Company&Route^Route Name^Operation section^
 |Teufort LRT Line U2|相01(AC01)|Kurokusa Depot ⇄ Landfall((Current:Kamiyonai)) ⇄ Banana Bay |
