@@ -143,19 +143,20 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 |相02(AC02)|Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
 |閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
 |閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
-|閃10(CD10)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring ⇄ Cinderace|Shinx Line\\ Furret Line\\ Cinderace Line||
+|閃10(CD10)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring ⇄ Cinderace(Feature: ⇄ Oxenholme)|Shinx Line\\ Furret Line\\ Cinderace Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
 |黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
 |黑10-2(KR10-2)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|Only operates during certain hours. Formerly In-Station Transit　|
-|萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy|Dialga Line|　|
+|萩01(HG01)|Acacialand Village ⇄ Huggy Wuggy ⇄ Oxenholme|Dialga Line|　|
 |萩02(HG02)|Acacialand Village ⇄ Huggy Wuggy ⇄ Mesa Arch|Dialga Line|　|
-|平10(HR10)|Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line|　|
+|平10(HR10)|Oxenholme ⇄ Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line|　|
 |緑01(MI01)|Minami Shingai ⇄ Green Cape ⇄ Daisetu Town|Jigllypuff Line||
 |緑01-2(MI01-2)|Minami Shingai ⇄ Higashi Shingai⇄ (→ San →) ( ← Green Cape← ) ⇄ Daisetu Town|Jigllypuff Line||
 |沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Slumbering Weald ⇄ Daisetu Town ⇄ Extreme Hot Spring|Shinx Line\\ Furret Line|Kamaboko LRT|
 |蒲01-2(KM01-2)|Amethyst Valley ⇄ Slumbering Weald|None|Kamaboko LRT|
+|覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ (Feature: ⇄ Peak of Awakening)|Shimano Line\\ Zasian Line||
 |縞01(SJ01)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring |Shinx Line\\ Furret Line|　|
 |夢01(YM01)|Hokai Mura ⇄ Ancient 2 Chome ⇄ Yumeshima|None|　|
 |AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None|Access line to CyanEX|
@@ -166,6 +167,7 @@ These are vehicles belonging to the Teufort LRT, which once ran from the Teufort
 ^Company&Route^Route Name^Operation section^
 |Shimano MTR Jigglypuff Line|相01(AC01)|Cinderace Depot ⇄ Kurokusa ⇄ Acacialand Village ⇄ Higashi Huggy 8 Chome |
 | ::: |黑01(KR01)|Cinderace Depot ⇄ Kurokusa ⇄ Daisetu Town ⇄ Cinderace |
+|Shimano MTR Dialga Line|覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ (Feature: ⇄ Peak of Awakening)|
 ====Former====
 ^Company&Route^Route Name^Operation section^
 |Teufort LRT Line U2|相01(AC01)|Kurokusa Depot ⇄ Landfall((Current:Kamiyonai)) ⇄ Banana Bay |
