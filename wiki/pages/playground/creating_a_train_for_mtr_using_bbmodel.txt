@@ -52,10 +52,42 @@ It is important that all cubes are within a group, and all groups have at least 
 
 </WRAP>
 
-With a group selected, let's create a cube. The button is next to the Create Group button. Alternatively, press ''Ctrl + N'' will also do the trick. You will then see a 2x2x2 cube appearing in the working area. {{ :playground:bbmodel_tutorial_5.png?300}}
+With a group selected, let's create a cube. The button is next to the Create Group button. Alternatively, press ''Ctrl + N'' will also do the trick. You will then see a 2x2x2 cube appearing in the working area.
 
-==== Bodyframe ====
-Before you do anything else, you're advised to firstly create a bodyshell. You will need a reference image if you're creating a real-world train. In this case, I am going to use this image. 
+{{ :playground:bbmodel_tutorial_5.png?300}}
+
+=== Basic Controls ===
+
+| ''V'' | Move the cube around. |
+| ''S'' | Resize the cube. |
+| ''R'' | Rotate the cube. |
+| ''P'' | Change the pivot of the cube. |
+
+==== Body frame ====
+
+Before you do anything else, you're advised to firstly create a bodyshell. You will need a reference image if you're creating a real-world train. In this case, I am going to use this image.
+
+{{:playground:153.png?200}}
+
+Click the blue ball without the "Z" word to make the camera facing North. {{:playground:screenshot_2025-03-02_164927.png?200}}
+
+Now paste the image as a reference image by ''right click>Add reference Image''.
+
+A window showing that if the reference image should be pasted to all projects. Click "Add to this Project" and the reference image should appear. You can now resize and move the image around.{{ :playground:screenshot_2025-03-02_165343.png?200}}
+
+<WRAP round tip>
+
+You can resize and change the position of the image precisely by clicking the ''burger menu on the top (in a blue border) > reference image > Properties''.{{:playground:screenshot_2025-03-02_165641.png?100}}
+
+</WRAP>
+
+After you've set the size and position of the reference image, you can start and model the body frame following the reference image.
+
+<WRAP center round important 60%>
+
+Make sure that you're certain that the size and position of the reference image is correct; you may encounter issues later on if you don't do so.
+
+</WRAP>
 
 WIP by Navi
 
