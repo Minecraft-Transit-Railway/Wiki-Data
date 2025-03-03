@@ -11,15 +11,16 @@
 |  @#B0B0BE:**Opening Date**  |  @#B0B0BE:**Reopening Date**  |
 |  May 4th, 2023  |  January 4th, 2024  |
 |  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
-|  Moszyan Transport  |  Moszyan Railways\\ Lilac Right Rail  |
+|  Moszyan Transport  |  Moszyan Railways  |
+|  :::  |  Lilac Light Rail\\ 633/633P  |
 |  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
 |  4  |  4  |
 </WRAP>
 
 ===== Layout =====
-The station has 4 platforms, two north-south through tracks for the Lilac Light Rail on the lower level, and two eastbound terminus platforms for Moszyan Railways on the upper level. Unlike the rest of the [[mtr_letsplay:fryskeline|Fryske Line]], these upper platforms have grass for a ballast, referencing the real life station's upper platforms originally being light rail platforms.
+The station has 4 platforms, two north-south through tracks for the Lilac Light Rail on the lower level, and two east-west platforms for Moszyan Railways on the upper level. Unlike the rest of the [[mtr_letsplay:fryskeline|Fryske Line]], these upper platforms have grass for a ballast, referencing the real life station's upper platforms originally being light rail platforms.
 
-The relatively short length of the platforms also makes it impossible for longer //Intercity// trains to access the station, limiting service to mostly //Sprinter// trains.
+The original upper terminus platforms were later extended in the //Kallosaansluiting// project.
 
 ===== Trivia =====
   * Despite the rename to **Froastpoarte**, the original Chinese name **Shuangmen Xuegui** remains the CJK notation for the station.
