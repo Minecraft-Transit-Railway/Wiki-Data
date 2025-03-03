@@ -8,8 +8,8 @@
 | **State** | Opened |
 | **President** | Kinson |
 | **Admin** | Yoshi |
-| ::: | [[mtr_community:staff:isaaclao|Isaac]] |
-| ::: | [[mtr_community:staff:strongerlock|Stronger Lock]] |
+| ::: | [[mtr_community:builders:isaaclao|Isaac]] |
+| ::: | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | ::: | Anson |
 | ::: | BloodEarth |
 | ::: | Forest |
@@ -47,16 +47,16 @@ Lines opened in 1:2 Server:
 
 **Current services**
 
-  * **Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line** is fully operational.
+  * **Tsuen Wan Line**, **Tung Chung Line**, **Disneyland Resort Line**, **South Island Line** is fully operational.
   * **Tuen Ma Line** (Tuen Mun - Hung Hom) section is opened while the remaining section is under construction.
-  * **LRT 505, 507, 614P, 615P** is fully operational.
+  * **LRT 505, 507, 614P, 615P, 705, 706, 751P, 761P** is fully operational.
   * Others are NOT publicly opened, **DO NOT TRESPASS** into respective areas.
 
 //For lines and stations' descriptions, you may take a look in MTR Fandom Pages.//
 
 **Future plans**
 
-**South Island Line**, **Kwun Tong Line** is planned to open before June 2024. While **Tuen Ma Line [HUH-CIO]** is planned to open in late or mid-2024.
+**Kwun Tong Line** is planned to open before June 2025. While **Tuen Ma Line [HUH-CIO]** is planned to open April 2025.
 
 //Please check our construction progress in MTR Crafters Trello Page.[[https://trello.com/b/5zRbQu9s]]//
 
