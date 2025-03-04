@@ -10,10 +10,8 @@ You can help the development of MTR 4 by contributing to such area.
   * Vehicle Sounds are played multiple times when using shaders (Tested with Iris 1.7.2+mc1.20.4)
   * Custom destination for trains does not work properly after the 1st route.
   * Migration: NTE Rail flipped to the other side after upgrading to MTR 4.
-  * Vehicle sounds cannot be overriden with BVE Sounds on custom trains with ''base_train_type''.
   * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
-  * Train bogie will disappear/appear in wrong position when riding train
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
   * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
   * Dynamic Texture generation could potentially fail? (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
@@ -34,7 +32,7 @@ You can help the development of MTR 4 by contributing to such area.
   * Re-implement Manual driving
   * Hide Route not working on System Map
   * Missing Ding Sound in Elevator
-  * Single Arrival Vertical PIDS not implemented
+  * Single Arrival Vertical PIDS
 
 ==== Shader Compatibility ====
 
@@ -47,8 +45,4 @@ Some of the known problematic shaders are listed below (MTR 4.0.0 beta.13):
 | Kappa v5.2 | Semi-transparent texture (i.e. Cyan Glass in SP1900) is washed out |
 | Photon v1.0a | Semi-transparent texture (i.e. Cyan Glass in SP1900) is completely opaque |
 | PotatoShaders v1.0d | ::: |
-
-==== Other notes ====
-
-Some custom door sound does not get played for whatever reason, to be investigated
 
