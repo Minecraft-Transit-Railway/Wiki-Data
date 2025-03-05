@@ -198,7 +198,7 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 | **Abeckis Clipper** | LCR Class 330 | 11 |
 | @#ff8080: |||
 | @#902000: |||
-| **Pitchlink** | LCR Class 215 | 14 |
+| **Pitchlink** | LCR Class 161 | 14 |
 | @#902000: |||
 | @#ffdc8d: |||
 | **Golden Clipper** | LCR Class 330 | 8 |
@@ -221,6 +221,7 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 | @#d0a0ff: |||
 | **Ghepo Clipper** | LCR Class 330 | 11 |
 | @#d0a0ff: |||
+
 
 ===== Dan6 Services LLC =====
 
