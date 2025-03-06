@@ -9,7 +9,9 @@
 | Type: All styles |
 | Members (as of 25.09.2024): 45 (including bots), 40 |
 | Server slogan: **"MTR at its finest"** |
-| @#5960FF:<color #FFFFFF>**GeoRail Logo**</color> |
+| ''@#5960FF:<color #FFFFFF>''**New GeoRail Logo**''</color>'' |
+| {{https://wiki.minecrafttransitrailway.com/?ns=mtr_community%3Aserver%3A&image=mtr_community%3Aserver%3Ageorailnew.png&do=media?150}} |
+| @#5960FF:<color #FFFFFF>**Old GeoRail Logo**</color> |
 | {{mtr_community:server:georail.png?150 |Logo of GeoRail}}{{mtr_community:server:georail-animated.gif?150}} Logo made using [[https://www.figma.com/|Figma]] |
 | GeoRail colors: |
 | @#FFB800:‎#FFB800 |
