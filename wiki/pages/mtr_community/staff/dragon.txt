@@ -33,6 +33,8 @@ The [[mtr_extra:parail_trains|PäRail Pack]]((Known Shortly as the PRL Pack, Or 
 
 [[mtr_extra:apm_100|Bombardier Innova APM 100]], An Automated Guideway Transit Train.
 
+[[mtr_extra:ampack|The Amtrak trains Addon]], The National Railroad Passenger Corporation 
+
 ===== Outside MTR =====
 
 Dragon is Mainly known outside of MTR For his Art and Love of the Wings of Fire book Series. He also has an Interest in the F-ZERO Series of Games.
