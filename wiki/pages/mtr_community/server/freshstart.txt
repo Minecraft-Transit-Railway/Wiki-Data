@@ -1311,6 +1311,7 @@ No longer a builder in the server.
 | **River Line** | JR 211 Series | Curt | 5 |
 | @#ffe300: ||||
 
+
 ====== Reception ======
 
 The reception of this server in the MTR Discord is mixed. Some say it is a good place to start their MTR careers, others make fun of it for its unrealistic parts, notably its floating tracks and undecorated stations, making the server notorious for its lower-than-usual building requirements compared to other bigger MTR servers, such as [[mtr_community:server:district_of_joban|District of Joban]].
