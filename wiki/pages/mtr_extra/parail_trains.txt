@@ -313,7 +313,7 @@ The Class 183 '1998 Design' is a Diesel-Electric Multiple Unit manufactured by D
 <WRAP right>
 
 ^ **PäRail Class 301** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_17.51.10.png?250}}  ||
 | **Manufactured** | 1957-1960 |
 | **Manufacturer** | LACB |
 | **Top Speed** | 120 km/h |
@@ -415,7 +415,7 @@ The Class 358 '1998 Design' is an Electric Multiple Unit manufactured by DCCR be
 <WRAP right>
 
 ^ **PäRail Class 363** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.38.15.png?250}}  ||
 | **Manufactured** | 1996-2004 |
 | **Manufacturer** | KTRC |
 | **Top Speed** | 160 km/h |
@@ -432,7 +432,7 @@ The Class 363 'Pioneer' is an Electric Multiple Unit manufactured by KTRC betwee
 <WRAP right>
 
 ^ **PäRail Class 381** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.35.02.png?250}}  ||
 | **Manufactured** | 2002-2007 |
 | **Manufacturer** | KTRC |
 | **Top Speed** | 160 km/h |
@@ -535,7 +535,7 @@ The Class 454 'Urbanworker 1' is an Electric Multiple Unit manufactured by Urban
 <WRAP right>
 
 ^ **PäRail Class 658** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.36.39.png?250}}  ||
 | **Manufactured** | 1995-1997 |
 | **Manufacturer** | Selmarã Railnet |
 | **Top Speed** | 160 km/h |
@@ -620,7 +620,7 @@ The Class 761 'Camtoran' is an Electric Multiple Unit manufactured by RRG Betwee
 <WRAP right>
 
 ^ **PäRail Class 762** ^ ::: ^
-|  {{:mtr_extra:762.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.11.36.png?250}}  ||
 | **Manufactured** | 2021- |
 | **Manufacturer** | RRG |
 | **Top Speed** | 120 km/h |
@@ -654,7 +654,7 @@ The Class 773 'FRONTIER' is an Electric Multiple Unit manufactured by RRG Betwee
 <WRAP right>
 
 ^ **PäRail Class 778** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.37.29.png?250}}  ||
 | **Manufactured** | 2020- |
 | **Manufacturer** | Urbanworker LLC/Selmarã Railnet |
 | **Top Speed** | 160 km/h |
@@ -679,7 +679,7 @@ The Class 778 'Urbanworker 4' is an Electric Multiple Unit manufactured by Urban
 | **Service Life**  | 2007- |
 | **Typical Train Length** | 8 Coaches |
 ^ **PäRail Class 801** ^ ::: ^
-|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+|  {{:mtr_extra:2025-02-27_18.31.22.png?250}}  ||
 | **Manufactured** | 2014-2027 |
 | **Manufacturer** | PäRail Engineering |
 | **Top Speed** | 300 km/h |
