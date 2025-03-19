@@ -7,8 +7,7 @@
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Creator** | [[mtr_community:staff:dragon|Aecth Thean]] |
 | Trains | +30 |
-| TBA | UsaDragon22 |
-| **Latest Version** | 1.4.0 |
+| **Latest Version** | 2.0.0 |
 | **Initial Release** | October 5th, 2022 |
 | **Download** | [[https://modrinth.com/resourcepack/dragon_railway|Modrinth]] |
 | **Compatable With** | 3.2.2 for V1.2, 4.0.0 for V1.3 and later |
@@ -60,6 +59,22 @@ These units have an Open Cab, and large Radiator Vents on the side.
 </WRAP>
 
 The Class 09 is a Diesel-Electric Shunting Locomotive manufactured by DCCR between 1989 and 1993 for Mūñkskaki Railways in order to Supplement, and Eventually Replace, the Class 04s. These units were Powerful, with a Maximum output of 5000 Horsepower, but with a top Speed of 60 km/h.
+
+===== Class 15 =====
+
+<WRAP right>
+
+^ **PäRail Class 15** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1983-1988 |
+| **Manufacturer** | LACB |
+| **Top Speed** | 80 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 1984- |
+
+</WRAP>
+
+The Class 15 is a Diesel-Mechanical Locomotive manufactured by LACB Between 1983 and 1988. It has a top speed of 80 km/h, and is often used on Shunting and Small Freight and Passinger Services. A Unique Variant was designed for Work on the EMR
 
 ===== Class 16 =====
 
@@ -156,6 +171,22 @@ The Class 57 'HS200' is a Diesel-Electric High-Speed Rail Locomotive manufacture
 </WRAP>
 
 The Class 67 'Universal Locomotive' is a Diesel-Electric Locomotive manufactured by DCCR between 1967 and 1970 for Mūñkskaki Railways' Central-Southern Region Express Trains. They have a Top speed of 160 km/h. During their Stint on JNA, they were Refreshed. Eventually ending with their Withdrawal in 2019, but in 2020, they Re-entered Service on the Lake City C.
+
+===== Class 72 =====
+
+<WRAP right>
+
+^ **PäRail Class 72** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2010-2017 |
+| **Manufacturer** | Mevrik |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 2011- |
+
+</WRAP>
+
+The Class 72 'Mako' is a Third-Rail Electric Locomotive manufactured by Mevrik between 2010 and 2017. They were made to Replace the Urbanworker IIs. It was Designed for Passenger work on Commuter and Intercity routes. They have a Top speed of 160 km/h. They later also proved to be of use on Freight Networks. They have 2 Cabs, and a Rear Gangway.
 
 ===== Class 77 =====
 
@@ -307,6 +338,23 @@ The Class 156 'Urbalink' is a Diesel-Mechanical Railcar manufactured by KTRC bet
 </WRAP>
 
 The Class 183 '1998 Design' is a Diesel-Electric Multiple Unit manufactured by DCCR between 1998 and 1999 for CVR. It was used on the Route to Dänthòñt, which is Unelectrified. It has a Top speed of 120 km/h
+
+===== Class 222 =====
+
+<WRAP right>
+
+^ **PäRail Class 222** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2016-2020 |
+| **Manufacturer** | SRC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 2017- |
+| **Train Length** | 6 Coaches |
+
+</WRAP>
+
+The Class 222 is a Diesel-Electric Multiple Unit manufactured by Selmarã Railnet between 2016 and 2020 for SER. They were made for Regional services, mainly for the area around Ònyästàr. They have a Top speed of 160 km/h. They were built as a Replacement for the Class 33 Locomotives, And the Class 145 DMU's.
 
 ===== Class 301 =====
 
@@ -530,6 +578,23 @@ The Class 426 'Type D' is an Electric Multiple Unit manufactured by Urbanworker 
 
 The Class 454 'Urbanworker 1' is an Electric Multiple Unit manufactured by Urbanworker between 1994 and 1997. This train is used by PNR on its Southeast Lines. 
 
+===== Class 605 =====
+
+<WRAP right>
+
+^ **PäRail Class 605** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2022-2023 |
+| **Manufacturer** | Khammnos |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 2023- |
+| **Train Length** | 1 Coach |
+
+</WRAP>
+
+The Class 605 is an Automated Electric Railcar manufactured by Khammnos between 2022 and 2023 as a Proof of Concept on Automated Trains on the HRR Network. The Trains are formed of Single Independently Powered Units. They have a Top speed of 120 km/h.
+
 ===== Class 658 =====
 
 <WRAP right>
@@ -692,6 +757,23 @@ The Class 778 'Urbanworker 4' is an Electric Multiple Unit manufactured by Urban
 The Class 800 'HS300' is a High Speed Electric Multiple Unit manufactured by PäRail Engineering between 2006 and 2015 for the Hàlí Express. These Units have a Top Speed of 300 km/h. The Trains include First Class, A Baritro, and a Staff Area.
 
 The Class 801 'HS300' is a High Speed Electric Multiple Unit manufactured by PäRail Engineering between 2014, with The last Unit expected to be Made in 2027. These units are designed for Operation on All PäRail High Speed Lines.
+
+===== Class 834 =====
+
+<WRAP right>
+
+^ **PäRail Class 834** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2017- |
+| **Manufacturer** | Urbanworker LLC |
+| **Top Speed** | 300 km/h |
+| **Wheel Arrangement** | Bo'-Bo'-2'-2'-2'-B'-B'-2'-2'-Bo'-Bo' |
+| **Service Life**  | 2018- |
+| **Train Length** | 10 Coaches |
+
+</WRAP>
+
+The Class 834 'Urbanworker Express' is a High Speed Tri-Mode Multiple Unit Manufactured by Urbanworker LLC Between 2017 and Present, as part of the HS300 Initiative. They replaced some of the Class 96 Units. They have a Top Speed of 300 km/h, and while used on High-speed Services, they are also used on Regional services, and are able to Run on 3rd-Rail and Diesel.
 
 ===== Class 910 =====
 
