@@ -12,8 +12,8 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 | **Based at** ||
 | Mayrowe-Anemone, Centralia ||
 | **Transit type** | Railway Transport |
-| **Train models** | 9 |
-| **Active lines** | 5 |
+| **Train models** | 16 |
+| **Active services** | 8 |
 </WRAP>
 
 ===== Info =====
@@ -25,8 +25,10 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 |  @#CC3733: **Bus** (393)  |  ~3 minutes  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
 |  @#BEEDFF: **Metro**\\ (Starlight Line)  |  ~1.5 minutes  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  @#0063D3: **Sprinter**  |  7.5 minutes  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
-|  @#0063D3: **Sprinter**  |  2.5 minutes  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
-|  @#FFC917: **Intercity**  |  5 minutes  |  [[mtr_letsplay:oxenholme|Oxenholme Lake District]]\\  |  [[mtr_letsplay:junee|Junee]]\\ //>> [[mtr_letsplay:banksia|Banksia]]//  |
+|  @#0063D3: **Sprinter**  |  10 minutes  |  [[mtr_letsplay:oxenholme|Oxenholme Lake District]]\\ //<< [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]//  |  [[mtr_letsplay:waggawagga|Wagga Wagga]]\\ //>> [[mtr_letsplay:collinsstreet|Albury Collins Street]]//  |
+|  @#0063D3: **Sprinter**  |  10 minutes  |  [[mtr_letsplay:oxenholme|Oxenholme Lake District]]\\ //<< [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]//  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |
+|  @#0063D3: **Sprinter**  |  10 minutes  |  [[mtr_letsplay:yongchun|Rikkashi Yongchun]]  |  [[mtr_letsplay:culcairn|Culcairn]]\\ //>> [[mtr_letsplay:banksia|Banksia]]//  |
+|  @#FFC917: **Intercity**  |  10 minutes  |  [[mtr_letsplay:oxenholme|Oxenholme Lake District]]\\ //<< [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]//  |  [[mtr_letsplay:junee|Junee]]\\ //>> [[mtr_letsplay:banksia|Banksia]]//  |
 //>> actual terminus of line, but not open to the public//
 
 ==== New Timetable ====
@@ -64,16 +66,19 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 |  Metro  |  BVG Class H  |    |    |    |
 |  Metro  |  Amsterdam M7  |    |    |    |
 |  Train  |  NSW Xplorer DMU  |  4 cars  |  5000  |  Yongchun Temporary  |
-|  Train  |  BR Class 378  |  11 cars  |  4100  |  Den Hof Temporary  |
-|  :::  |  :::  |  6 cars  |  5000  |  Yongchun Temporary  |
+|  Train  |  LCR Class 161  |  4 cars  |  5000  |  Yongchun Temporary  |
+|  Train  |  LCR Class 330  |  8 cars  |  4100  |  Den Hof Temporary  |
+|  Train  |  LCR Class 430  |    |    |    |
+|  Train  |  LCR Class 431  |    |    |    |
+|  Train  |  BR Class 378  |  7 cars  |  4400  |  Den Hof Temporary  |
 |  Train  |  BR Class 508  |    |    |    |
 |  Train  |  BR Class 730  |  8 cars  |  4100  |  Den Hof Temporary  |
 |  Train  |  Stadler FLIRT 3  |  12 cars  |  4100  |  Den Hof Temporary  |
-|  :::  |  :::  |  6 cars  |  5000  |  Yongchun Temporary  |
+|  :::  |  :::  |  8 cars  |  4400  |  Den Hof Temporary  |
 |  :::  |  :::  |  2 cars  |  7800  |  Kallos Royal Park Depot  |
 |  :::  |  :::  |  4 cars  |  7900  |  :::  |
 |  :::  |  :::  |  2 cars  |  78500  |  Rykkam Sidings  |
-|  Train  |  VIRM  |  8 cars  |  500  |  Den Hof Temporary  |
+|  Train  |  NS VIRM  |  8 cars  |  500  |  Den Hof Temporary  |
 |  Locomotive  |  Vectron + Eurofirma  |    |    |    |
 
 ===== Screenshots =====
