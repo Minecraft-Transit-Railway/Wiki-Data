@@ -56,6 +56,8 @@ Signal lights can now be placed diagonally (In 22.5 deg increments). They can no
 
 Train carriage may now sway left and right when the train is running, improving the riding experience.
 
+The sway intensity is configurable in the mod settings.
+
 ==== OBJ Rendering ====
 
 OBJ model has been incorporated from NTE and is now integrated into MTR 4.
@@ -135,9 +137,10 @@ Migration is automatically done when loading an MTR 3 world. After loading in th
 
 Please note that there are some artifacts after upgrading, which is listed below:
 
+  * **MTR 4 currently does not work with Sodium on 1.19.4, consider upgrading to a newer Minecraft version if you would like to upgrade.**
   * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
   * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
-  * Rail model configured with the Nemo Transit Expansion would be flipped to the opposite side. You will need to flip again for asymmetric rail model. 
+  * Rail model configured with the Nemo Transit Expansion (NTE) would be flipped to the opposite side. You will need to flip again for asymmetric rail model. 
   * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
   * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
 
