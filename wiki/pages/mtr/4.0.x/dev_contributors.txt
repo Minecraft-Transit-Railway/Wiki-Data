@@ -1,35 +1,31 @@
-===== MTR 4 for Developers/Contributors =====
+===== MTR 4.0 for Developers/Contributors =====
 
-MTR 4 is still in active development, and there are some issues and features to be completed.
-
-You can help the development of MTR 4 by contributing to such area.
+MTR 4 still have some issues / features to be completed, which you can help the development of MTR 4 by contributing to such area.
 
 ==== Issues & Bugs ====
 
-  * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in this case)
-  * Vehicle Sounds are played multiple times when using shaders (Tested with Iris 1.7.2+mc1.20.4)
+  * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in that case)
   * Custom destination for trains does not work properly after the 1st route.
   * Migration: NTE Rail flipped to the other side after upgrading to MTR 4.
   * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
   * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
-  * Dynamic Texture generation could potentially fail? (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
+  * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
+  * Solid color displayed for route map in terminating platforms/platforms without route
 
 ==== QOL/Low Priority ====
 
   * Train announcement still gets played even when in-game sound volume is 0
-  * The model of the player riding train would shake, while the train render smoothly.
+  * The model of the player riding train would shake when in F5, while the train render smoothly.
 
 ==== Unconfirmed issues/bugs ====
 
-  * MTR 4 will significantly raise the temperature of some CPU Model causing a bottleneck
   * Sometimes certain train will be completely silent?
-  * Solid color displayed for route map in terminating platforms/platforms without route. (Reproduced with Tianjin Metro Addon, haven't tried reproducing without it installed)
 
 ==== Unimplemented Features ====
 
-  * Re-implement Manual driving
+  * Manual driving (To be reworked after MTR 4.0)
   * Hide Route not working on System Map
   * Missing Ding Sound in Elevator
   * Single Arrival Vertical PIDS
