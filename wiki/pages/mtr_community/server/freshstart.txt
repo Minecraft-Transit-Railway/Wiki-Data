@@ -828,7 +828,12 @@ Popping Central bound
 | @#70fe32: |||
 | **LRT14** | S43-Tec 2002 LRV | 8 |
 | @#70fe32: |||
-
+| @#0AC7A0: |||
+| **LRT17** | BR Class 700 | 6 |
+| @#0AC7A0: |||
+| @#BB4EEE: |||
+| **LRT17E**((Through-service from KTA T1 Trams)) | R-Train | 4 |
+| @#BB4EEE: |||
 ===== Kapple Transport Agency =====
 
 Kapple Transport Agency (KTA) provides all kinds of metro, regional and light rail services across many different cities.
