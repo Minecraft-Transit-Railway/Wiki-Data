@@ -926,12 +926,16 @@ Clockwise direction only
 | @#FF0001: |||
 | **T1 Tram** | R-Train | 4 (Total 8)((
 Through-service from T2 tram only
-))/13 |
+))/16 (Total 20)((
+Through-service onto LRT17E
+)) |
 | @#FF0001: |||
 | @#1D0FDD: |||
 | **T2 Tram** | R-Train | 4 (Total 8)((
 Through-service onto T1 tram only
-))/5((Through-service from Odakyu West Sea Line only)) |
+))/5((
+Through-service from Odakyu West Sea Line only
+)) |
 | @#1D0FDD: |||
 | @#1D24A9: |||
 | **T101I Bus**((
@@ -976,6 +980,9 @@ Route Outbound only
 | @#70B466: |||
 | **Water 3** | Oak Boat | 2 |
 | @#70B466: |||
+| @#A7C1EC: |||
+| **Water 4** | Ferry (Small) | 3 |
+| @#A7C1EC: |||
 | @#EAD8CE: |||
 | **AirLine 1** | Ngong Ping 360 Crystal Cabin | 2 |
 | @#EAD8CE: |||
@@ -988,6 +995,7 @@ Route Outbound only
 | @#E01DF8: |||
 | **AirLine 4** | Ngong Ping 360 Crystal+ Cabin | 2 |
 | @#E01DF8: |||
+
 
 ===== Kenton Transport =====
 
