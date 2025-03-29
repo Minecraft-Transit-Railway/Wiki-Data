@@ -1,5 +1,7 @@
 ====== Fresh Start MTR ======
 
+<WRAP round info>Some contents on the page may be outdated.</WRAP>
+
 <WRAP right>
 
 |  @#FF0000:<color #FFFFFF>**Fresh Start MTR**</color>  ||
