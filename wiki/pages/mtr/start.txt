@@ -1,6 +1,6 @@
 ====== Minecraft Transit Railway ======
 
-**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods| Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds various types of transport such as Trains, Boats, Cable Cars and more into the game, accompanied with miscellaneous blocks to facilitate your build. With this mod, players can build fully functional transit systems in Singleplayer or Multiplayer world!
+**Minecraft Transit Railway** is a [[https://minecraft.wiki/Mods| Minecraft mod]] based on Hong Kong's MTR, the London Underground, and the New York Subway. It adds various types of transport such as Trains, Boats, Cable Cars and more into the game, accompanied with miscellaneous blocks to facilitate your build. With this mod, players can build fully functional transit systems in Singleplayer or Multiplayer worlds!
 
 This mod is available for Minecraft Forge and Fabric versions 1.16, 1.17, 1.18, and 1.19 (1.20 is also available in Alpha stages, please create backups before using this version).
 
