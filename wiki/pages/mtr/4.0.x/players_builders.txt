@@ -1,8 +1,8 @@
 ====== MTR 4 for Players & Builders ======
 
-Minecraft Transit Railway 4.0 is a major update to the Minecraft Transit Railway mod, succeeding MTR 3.2. In-place upgrade of existing MTR 3 world are available with minor quirks.
+**Minecraft Transit Railway 4.0** is a major update to the Minecraft Transit Railway mod, succeeding MTR 3.2. In-place upgrade of existing MTR 3 world is available with minor quirks.
 
-This releases focuses on refining the player experience, fixing numerous long-standing crashes and bugs, substantially improved frame-rate and adding long-requested features such as mixing carriage in a train.
+This releases focuses on refining the player experience, fixing long-standing crashes and bugs, substantially improved frame-rate and adding long-requested features such as mixing carriage in a train.
 
 ===== Key Features & Improvements =====
 
@@ -12,27 +12,29 @@ Unlike previous versions where each depot siding can only have 1 train type, MTR
 
 As an example, you can have an **SP1900 (Head), M-Train (Carriage) and K-Train (Rear Head)** to create a custom consist for your siding, and let that consist run on the track.
 
-This is useful for mixed vehicle configuration (Such as coupled LRV with different phases), liveries and locomotives pulling other consists.
+This is useful for mixed vehicle configuration (Such as coupled LRV/trams with different phases), liveries and locomotives pulling other consists.
 
 {{:mtr:mtr4_consist.png?400|UI Configuration for MTR 4 Consist}}
 
 ==== Different train acceleration & deceleration ====
 
-Train acceleration and deceleration are now separated.
+Train acceleration and deceleration are now separated, with separate slider to configure them.
 
 ==== Rail Preview ====
 
-Before placing a track connected to a node, an instant preview of what the track will look like would be displayed when holding the rail item.
+Before placing a track connected to a node, an instant preview of what the track will look like, along with statistics such as the length and radii of the track will be displayed when holding the rail item.
 
 {{:mtr:mtr4_trackpreview.png?600|Track Preview of MTR 4, before it is connected}}
 
 ==== Track Shape and Custom Model ====
 
-Track shape and custom model can now be applied, this feature is incorporated from NTE.
+Track shape and custom model can now be applied, this feature is incorporated from Nemo Transit Expansion mod.
 
 {{:mtr:mtr4_railcustomization.png?600|Custom Rail Shape & Model GUI}}
 
-In MTR 4, custom track model (Rail Style) allows the use of multiple models, which means different rail models can be composited. Removing all rail models will make the track invisible.
+Note that in MTR 4, Custom Track Model (Rail Style) allows the use of **multiple rail models**, which means different rail models can be composited together.
+
+To make a track invisible, simply remove all rail models.
 
 ==== Horizontal/Diagonal Elevator ====
 
@@ -42,13 +44,13 @@ Elevator can now go vertically and horizontally at the same time, horizontal tra
 
 ==== Revamped System Map ====
 
-The rewritten system map nows look better, runs faster and runs more reliably.
+The rewritten system map now looks better, runs faster and runs more reliably.
 
 {{:mtr:mtr4_sysmap.png?600|Online System Map for MTR 4}}
 
 ==== Signal Light ====
 
-Signal lights can now be placed diagonally (In 22.5 deg increments). They can now also be filtered to only show the aspects of certain colored signals.
+Signal lights can now be placed diagonally (In 22.5 degree increments). They can now also be filtered to only show the aspects of certain colored signals.
 
 {{:mtr:mtr4_signallight.png?600|MTR Signal Light placed diagonally}}
 
@@ -64,9 +66,11 @@ OBJ model has been incorporated from NTE and is now integrated into MTR 4.
 
 This means MTR can now support detailed train/track models that are exported in the .obj format.
 
-==== Bridge Creator ====
+==== Tunnel/Bridge Creator ====
 
 The speed of bridge creator has been increased to a more reasonable speed.
+
+This brings the speed on-par with **MTR 3 + Nemo Transit Expansion** addon installed.
 
 ==== Distance Effect ====
 
@@ -84,7 +88,7 @@ Rendering optimizations from the NTE Addon has been integrated to the **Minecraf
 
 The back-end has been rewritten to no longer run on the Minecraft thread, which means the game loop is able to run faster, resulting in more consistent TPS/Lower MSPT.
 
-The improvements is more visible in large-scale MTR servers with large transit networks.
+This improvement is more visible in large-scale transit networks.
 
 ==== Mod Compatibility ====
 
@@ -111,7 +115,7 @@ Dashboard is now notably smoother than in MTR 3, and also has an underground mod
 
 ==== Platform Slabs ====
 
-A slab-variants of platform block has been added.
+A slab-variant of platform blocks has been added.
 
 ==== Mosaic Blocks ====
 
@@ -125,11 +129,19 @@ Due to the new MTR back-end change, currently MTR's train simulation will contin
 
 ==== Boarding a train ====
 
-To board the train, you must now board from the door area when the door is opened instead of being in the general train area.
+To board the train, you must now board from the door area when the door is opened instead of being within the train's bounding box.
 
 ==== Train Movement Changes ====
 
-Train movements has been altered slightly in MTR 4 to take account for the bogie position. This may however result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+Train movements have been altered slightly in MTR 4 to take account for the bogie position. This may result in train clipping through very tight tunnels/structures built in MTR 3, and may need adjustments to accommodate for the changes.
+
+===== Feature removal =====
+
+Some features have been removed/not implemented yet from MTR 3, notably:
+
+  * Resource packs which relies on "scripting" feature from **Nemo Transit Expansion** does not work at the moment.
+  * The single-arrival Vertical PIDS does not work, and would still show arrivals across multiple rows.
+  * Manual driving has been removed entirely as it is in need of a major overhaul rather than simply ported over. The **Driver key** is now hidden from the creative menu.
 
 ===== Migration from MTR 3 =====
 
@@ -138,15 +150,15 @@ Migration is automatically done when loading an MTR 3 world. After loading in th
 Please note that there are some artifacts after upgrading, which is listed below:
 
   * **MTR 4 currently does not work with Sodium on 1.19.4, consider upgrading to a newer Minecraft version if you would like to upgrade.**
-  * **Lift/Elevator Display Panel** may be displayed incorrectly. You need to break and place it again.
+  * **Lift/Elevator Display Panel** may be displayed incorrectly. This is a one-time migration issue, you would need to break and place it again.
   * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
-  * Rail model configured with the Nemo Transit Expansion (NTE) would be flipped to the opposite side. You will need to flip again for asymmetric rail model. 
+  * Rail model configured with the Nemo Transit Expansion (NTE) would be flipped to the opposite side. You will need to re-flip it again for asymmetric rail model. 
   * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
-  * New versions of various MTR addons may have made changes which breaks blocks built in MTR 3.
+  * New version of various MTR addons may have made breaking changes, please check the respective addon page for details.
 
 ===== Addon Compatibility =====
 
-Due to the major backend rewrite, most if not all addons depending on the MTR Mod needs to be updated. A non-exhaustive list of addons can be found [[mtr_addon:start|here]], with MTR 3/4 tags appropriately applied to them.
+Due to the major backend rewrite, most if not all addons depending on the MTR Mod need to be updated. A non-exhaustive list of addons can be found [[mtr_addon:start|here]], with MTR 3/4 tags appropriately applied to them.
 
 Highly popular addons such as [[mtr_addon:lu:start|The Tube]] and [[mtr_addon:jcm:start|Joban Client Mod]] should already be available for MTR 4, with the exception of [[mtr_addon:nte:start|Nemo's Transit Expansion]], where much of the feature is already incorporated to the MTR Mod.
 
