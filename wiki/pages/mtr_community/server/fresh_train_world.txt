@@ -3,7 +3,6 @@
 <WRAP right>
 
 |  @#00FF00:<color #FFFFFF>**Fresh Start MTR**</color>  ||
-|  {{:mtr_community:trinsmoton_rail:fslogo.png?150}}  ||
 ^ Created | 21st December, 2024((
 This is the day the Discord server was created.
 )) |
