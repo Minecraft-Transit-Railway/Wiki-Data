@@ -6,7 +6,7 @@
 
 
 
-# Trains
+# Trains (Outdated)
 
 As of version 3.0.0-beta-5 of the mod, trains can only be spawned on sidings. They will run according to schedules and instructions in the depot. Sidings must have a length based on the following equation:
 
