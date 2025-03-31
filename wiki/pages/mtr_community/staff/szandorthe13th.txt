@@ -2,29 +2,38 @@
 
 <WRAP right>
 |  @#6D59A0:  **SzandorThe13th**  |||
-| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023, bibi hat and all.  |||
+| {{ :mtr_community:szandor_default.png?300 }}Szandor's avatar as of November 2nd 2023. It represents a\\ minecraft version of himself, including clothes derived from\\ those he wore when the skin was created.  |||
 |  @#6D59A0:  **Profile**  |||
 | **Known as** | Szandor ||
 | ::: | Szan((i stopped asking people not to shorten my name like this after a while)) ||
 | **MTR Discord Join Date** | January 2nd, 2023 ||
-| **Roles** | Train Operators | (02/01/2023) |
-| ::: | Resource Pack Authors | (23/06/2023) |
+| **Roles** | @#3498DB:Staff | (28/03/2025) |
+| ::: | @#11ABAB:Support Team | (18/09/2024) |
 | ::: | Modders | (23/06/2023) |
 | ::: | Let's Play Builders | (09/12/2023) |
-| ::: | @#11ABAB:Support Team | (18/09/2024) |
+| ::: | Resource Pack Authors | (23/06/2023) |
+| ::: | Train Operators | (02/01/2023) |
+| **Lets Play Franchises** | @#B0B0BE:Moszyan Railways / Moszyan Transport ||
+| ::: | @#CC3733:R-net ||
+| ::: | @#688FE5:DER Bahn | @#77dd66: |
 | **Date of Birth** | May 5th, 2004 ||
 | **Gender** | Male ||
 | **Nationality** | Dutch ||
+| **Spoken Languages** | Dutch ||
+| ::: | English ||
+| ::: | German ||
+| ::: | French ||
 | **Timezone** | CET (GMT+1) ||
 | ::: | CEST (GMT+2)((summer time)) ||
 </WRAP>
 
-**Szandor** is one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community. As of September 2024, he has taken on a more dedicated support role within the community, officially becoming part of the staff team.
+**Szandor** is one of the more active members in the [[mtr:start|Minecraft Transit Railway]] community. In September 2024, he took on a more dedicated support role within the community, officially becoming part of the staff team, before becoming a full-fledged member of the Staff team in March of 2025.
 
-He's most known for his [[https://discord.com/channels/763273460465270816/953329579567767572/1133230266463293471|RNET Stadler FLIRT 3]] skin published in the public resourcepacks channel, as well as the MTR community's equivalent of the rickroll where any mention of Boskoop or anything related to the railway line running through it will result in receiving the "get boskoop snijdelwijk'd" gif as reaction, the reason for it being that [[https://en.wikipedia.org/wiki/Boskoop_Snijdelwijk_railway_station|Boskoop Snijdelwijk]] is often joked about as a useless station due to it seeing the lowest passenger numbers in the region despite 7.5 minute train frequencies.
+Szandor is most known for a number of his retextures and remodels, such as the [[https://modrinth.com/resourcepack/rnet-stadler-flirt-3|R-net Stadler FLIRT 3]] and [[https://modrinth.com/resourcepack/rnet-lightace|LIGHTACE 1999T]], the [[https://modrinth.com/resourcepack/vdl-citea-lle-120|VDL Citea LLE-120]], but also  his first ever custom model in the [[https://modrinth.com/resourcepack/tyne-and-wear-metrocar|Tyne and Wear Metrocar]]. 
 
-Besides that, he's also the creator of the widespread copypasta((Becoming a builder on the lets play server is not as much about screenshots as it is about being an active member of the community. It also helps to be proven to be someone who is good at working together with other builders. Things like those, weighed together with your activity and general build quality (not an extremely high standard to be honest), may increase your chances of recieving an invitation to join the builders team. As of right now however, I don't think staff is looking for many more builders for the time being anyway as there is already quite a lot.)) to explain to the common user that becoming a builder on the Let's Play Server isn't as easy as they think it is.
+Another recurring theme with him is the MTR community's equivalent of the rickroll where any mention of Boskoop or anything related to the railway line running through it will result in receiving the "get boskoop snijdelwijk'd" gif as reaction, the reason for it being that [[https://en.wikipedia.org/wiki/Boskoop_Snijdelwijk_railway_station|Boskoop Snijdelwijk]] is often joked about as a useless station due to it seeing the lowest passenger numbers in the region despite 7.5 minute train frequencies.
 
-On [[mtr_community:server:centralia|Centralia]] he works on helping the map develop, adapting his builds to the existing ones somewhat, and on [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] he works on making sure the system is accurate to the map and that odd ideas don't spiral out of control. 
+He can also be found on the [[mtr_letsplay:start|Let's Play]] server with his company [[mtr_letsplay:mrw|Moszyan Railways]], running primarily in the northwesternmost part of the server in a dedicated metropolitan area by the name of 's Riddershoven (though generally known as Den Hof in short), but also owning lines in other parts of the server, such as the [[mtr_letsplay:fryskeline|Fryske Line]] in the east. As of now, he runs the longest intercity railway service on the server, at approximately 55 kilometers((rough estimation, not a direct calculation)) spanning from [[mtr_letsplay:denhofcentraal|Den Hof Centraal]] to [[mtr_letsplay:banksia|Banksia]].
+Besides that, he is also part owner of the [[mtr_letsplay:argentiwestcoast|Argenti West Coast]] venture, which currently stands at a near equal length((maybe more, as stated before, only rough estimations were made)), connecting the metropolitan areas of Den Hof and Seoul.
 
-With his company [[mtr_letsplay:mrw|Moszyan Railways]] you can also find him on the [[mtr_letsplay:start|Let's Play]] server! There, he plans to make use of his local references to make a system that operates like he is used to at home, while still fitting the style of the server itself.
+Hes also an important manager of the [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] server, working to make sure development doesn't spiral out of control with ridiculous or otherwise unrealistic ideas.
