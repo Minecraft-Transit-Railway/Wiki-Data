@@ -8,12 +8,12 @@ MTR Addons are Minecraft Mods that add new content (such as blocks and items) an
 A full list of user-submitted MTR Addons and Resource packs can be found at [[https://addons.minecrafttransitrailway.com|addons.minecrafttransitrailway.com]]
 </WRAP>
 
-==== MSD (aka: Station Decoration Addon) ====
+==== Joban Client Mod ====
 
-The [[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that adds new Signs, PIDS and Catenary objects. This mod is essential for those who seek realism in railway lines that require the use of overhead wires for trains to draw power from.
+[[mtr_addon:jcm:start|Joban Client Mod]] is an addon based on Minecraft Transit Railway Mod, adding various blocks from the Hong Kong MTR and utility blocks that will greatly improve your world. Some of the blocks this mod adds including Static Signal Light, Fare Saver machine, Railway Vision PIDS and other decoration blocks to help you build your very own railway system!
 
-<WRAP round download>
-**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/station-decoration]]
+<WRAP round download 90%>
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap> [[https://modrinth.com/mod/jcm]]
 </WRAP>
 
 ==== NTE (aka: Nemo's Transit Expansion) ====
@@ -26,12 +26,12 @@ The [[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that ad
 **Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/mtr-nte]]
 </WRAP>
 
-==== Joban Client Mod ====
+==== MSD (aka: Station Decoration Addon) ====
 
-[[mtr_addon:jcm:start|Joban Client Mod]] is an addon based on Minecraft Transit Railway Mod, adding various blocks from the Hong Kong MTR and utility blocks that will greatly improve your world. Some of the blocks this mod adds including Static Signal Light, Fare Saver machine, Railway Vision PIDS and other decoration blocks to help you build your very own railway system!
+The [[mtr_addon:msd:start|Station Decoration Addon]] is a decorative mod that adds new Signs, PIDS and Catenary objects. This mod is essential for those who seek realism in railway lines that require the use of overhead wires for trains to draw power from.
 
-<WRAP round download 90%>
-**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box> MTR 4</wrap> [[https://modrinth.com/mod/jcm]]
+<WRAP round download>
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/station-decoration]]
 </WRAP>
 
 ==== The Tube (aka: London Underground) ====
@@ -50,3 +50,26 @@ The [[mtr_addon:rma:start|Russian Metro Addon]] is an addon that adds features f
 **Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/russian-metro-addon]]
 </WRAP>
 
+==== Tianjin Metro ====
+
+The [[mtr_addon:tianjinmetro:start|Tianjin Metro]] mod adds decorative blocks and items in Tianjin Metro style, like new Railway Signs, new Platform Screen Doors and smaller station name signs based on the ones in the base mod.
+
+<WRAP round download 90%>
+**Download** \\  <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/tianjin-metro]]
+</WRAP>
+
+==== British Transport Addon ====
+
+The [[mtr_addon:bta:start|British Transport Addon]] is a collective of decorative and functional blocks inspired by various things across the UK.
+
+<WRAP round download 90%>
+**Download** \\  <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/bta]]
+</WRAP>
+
+==== European Rail Addon ====
+
+The [[mtr_addon:era:start|European Rail Addon]] adds numerous decorative blocks inspired by a number of European countries, including shunting signals, banner repeaters, caution semaphore signals, speed limit signage, and other important railside signage.
+
+<WRAP round download 90%>
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/european-rail-addon]]
+</WRAP>
