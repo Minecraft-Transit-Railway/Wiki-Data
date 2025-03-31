@@ -125,9 +125,9 @@ https://bit.ly/MtrExampleLink
   * Download Audacity, its optional, but it makes it easier if you want to record a sound yourself.
   * Record any sound file, or perhaps download one from an external source. Make sure its in .ogg format and the filename doesnt contain any uppercase letters.
 <WRAP center round info 90%>
-Do you want the sound to play in the player's ears or from the source that plays the sound?
-Make sure your sound file is **stereo** (player's ear) or **mono** (source). This can be changed in Audacity.
+You are going to want the sound to originate from the source that plays the sound, so make sure your sound file is **mono**. This can be changed easily by importing the sound file into Audacity and exporting it as a mono ogg file.
 </WRAP>
-  * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', then paste in the sound file.
-  * 
- 
+  * Make sure you have two long sound file that sounds approximately like your train accelerating from 0 to about 160-200 or so, and decelerating the other way (since sometimes the sound may vary between the two, such as brake whine or motors only making sound when accelerating)
+  * hi future szandor please paste your little tutorial to easily cut the file into a gazillion parts thanks
+  * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', create another new folder inside that called whatever you want, then paste in the sound files. That last folder will be your "sound id" that you will have to specify later in the process.
+  * bla bla sounds.json stuff
