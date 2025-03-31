@@ -7,10 +7,17 @@
 | Repository | [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft-Mappings]] |
 | Supported Mod Loader | Fabric\\ Forge |
 | Supported Minecraft Version | 1.16.5\\ 1.17.1\\ 1.18.2\\ 1.19.2\\ 1.19.4\\ 1.20.1\\ 1.20.4 |
+| Development Status | No future MC version will be added |
+| Used by | Minecraft Transit Railway 4.0.0 |
+| ::: | Addon mods designed for MTR 4.0.0 |
 
 </WRAP>
 
 **Minecraft Mappings** is a project made for the MTR Mod that allows cross version (1.16.5+) and mod-loader compatibility with 1 single codebase.
+
+There is no plan to continue expanding support for new version/modloader due to the number of breaking changes made by Mojang.
+
+When MTR gains support for version above 1.20.4, it will likely be based on **Architectury** for multi-loader support, and multi-version support will be dropped entirely.
 
 ===== Using =====
 
@@ -32,5 +39,7 @@ The RenderSystem class is a bit special, as in it is not obfuscated like the res
 
 ==== Getting Started (Integrate to your Minecraft Mod Project) ====
 
-TODO.
+Consider checking open source addon mods made for MTR 4 for implementation detail.
+
+Note that you should no longer count on this project updating to newer Minecraft version.
 
