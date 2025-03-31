@@ -12,7 +12,7 @@ MTR 4 still have some issues / features to be completed, which you can help the 
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
   * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
   * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
-  * Solid color displayed for route map in terminating platforms/platforms without route
+  * Solid color would sometimes be displayed for route map in terminating platforms/platforms without route
 
 ==== QOL/Low Priority ====
 
@@ -31,12 +31,9 @@ MTR 4 still have some issues / features to be completed, which you can help the 
 
 ==== Shader Compatibility ====
 
-Some of the known problematic shaders are listed below (MTR 4.0.0 beta.13):
+Some of the known problematic shaders are listed below (MTR 4.0.0 beta.16):
 
 | **Shaders** | **Issues with MTR** |
-| Aurora's Shaders | Vehicle headlight texture is opaque (White background surrounding headlights) |
-| Rethinking Voxels r0.1-beta-5 | ::: |
-| ::: |   |
 | Kappa v5.2 | Semi-transparent texture (i.e. Cyan Glass in SP1900) is washed out |
 | Photon v1.0a | Semi-transparent texture (i.e. Cyan Glass in SP1900) is completely opaque |
 | PotatoShaders v1.0d | ::: |
