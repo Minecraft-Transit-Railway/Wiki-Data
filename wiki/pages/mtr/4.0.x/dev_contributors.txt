@@ -26,7 +26,6 @@ MTR 4 still have some issues / features to be completed, which you can help the 
 ==== Unimplemented Features ====
 
   * Manual driving (To be reworked after MTR 4.0)
-  * Hide Route not working on System Map
   * Missing Ding Sound in Elevator
   * Single Arrival Vertical PIDS
 
