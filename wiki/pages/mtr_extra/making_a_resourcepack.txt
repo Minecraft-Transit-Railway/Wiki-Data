@@ -122,12 +122,15 @@ https://bit.ly/MtrExampleLink
 </WRAP>
 
 ==== Sound files ====
-  * Download Audacity, its optional, but it makes it easier if you want to record a sound yourself.
+  * Download Audacity, you're going to need it.
   * Record any sound file, or perhaps download one from an external source. Make sure its in .ogg format and the filename doesnt contain any uppercase letters.
 <WRAP center round info 90%>
 You are going to want the sound to originate from the source that plays the sound, so make sure your sound file is **mono**. This can be changed easily by importing the sound file into Audacity and exporting it as a mono ogg file.
 </WRAP>
-  * Make sure you have two long sound file that sounds approximately like your train accelerating from 0 to about 160-200 or so, and decelerating the other way (since sometimes the sound may vary between the two, such as brake whine or motors only making sound when accelerating)
-  * hi future szandor please paste your little tutorial to easily cut the file into a gazillion parts thanks
-  * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', create another new folder inside that called whatever you want, then paste in the sound files. That last folder will be your "sound id" that you will have to specify later in the process.
+  * Make sure you have two long sound files that sound approximately like your train accelerating from 0 to about 160-200 or so, and decelerating the other way (since sometimes the sound may vary between the two, such as brake whine or motors only making sound when accelerating) you may also use a single file if acceleration and braking is identical.
+  * Open this sound file in Audacity, select the sound in the timeline and then find "Regular Interval Labels" under "Tools" at the top.
+  * Choose the amount of sounds you want to end up with. More is not necessarily better, but does give better precision if sounds change drastically over a small time frame. Try to make the files approximately half a second to a second long.
+  * Now click export, and select "Multiple Files" below, click "Labels", then hit export. (Make sure again to export them as **mono** .ogg files)
+  * Now comes the fun part! You have to manually rename EVERY. SINGLE. SOUND FILE. Follow a pattern that goes speed_0a, speed_0b, speed_0c, speed_1a, speed_1b, etc.
+  * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', create another new folder inside that called whatever you want, then paste the sound files in a folder called ''acceleration'' or ''deceleration''. That second-to-last folder will be your "sound id" that you will have to specify later in the process.
   * bla bla sounds.json stuff
