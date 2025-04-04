@@ -5,8 +5,6 @@ MTR 4 still have some issues / features to be completed, which you can help the 
 ==== Issues & Bugs ====
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in that case)
-  * Custom destination for trains does not work properly after the 1st route.
-  * Migration: NTE Rail flipped to the other side after upgrading to MTR 4.
   * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
   * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
@@ -26,7 +24,7 @@ MTR 4 still have some issues / features to be completed, which you can help the 
 ==== Unimplemented Features ====
 
   * Manual driving (To be reworked after MTR 4.0)
-  * Missing Ding Sound in Elevator
+  * Ding Sounds in Elevator
   * Single Arrival Vertical PIDS
 
 ==== Shader Compatibility ====
