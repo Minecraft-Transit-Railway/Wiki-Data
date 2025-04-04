@@ -12,3 +12,13 @@ JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not im
   * Train which does not specify a valid ''gangway_connection_id'' (Or does not have it) can no longer walk between gangways like they can in MTR 3
   * When specifying built-in MTR barrier/gangway/vehicle texture, replace ''textures/entity/*'' to ''textures/barrier'', ''textures/gangway'' and ''textures/vehicle'' respectively, as they are now separated.
 
+==== Custom Model Changes ====
+
+  * **Custom Destination's CJK Ratio has been changed in MTR 4**
+    * Previously, **-2.0** means English is bigger than Chinese, **0.0** for equal weight, **2.0** means Chinese is bigger than english
+    * In MTR 4, this is changed to represent the scale CJK characters are rendered at:
+      * Non-CJK characters always takes up a weight of **1.0**
+      * For example, assume we have the text ''English1|中文|English2''.
+        * If CJK Ratio is **2.5**, this would mean ''English''1 has a weight of **100%**, ''中文'' has a weight of **250%**, and ''English2'' has a weight of **100%**
+        * If CJK Ratio is **0.1**, this would mean ''English1'' has a weight of **100%**, ''中文'' has a weight of **10%**, and ''English2'' has a weight of **100%**
+
