@@ -1,0 +1,52 @@
+====== Commonwealth Transport Group ======
+
+<WRAP 400px right>
+
+|  @#0054A6: <color #FFFFFF>**Commonwealth Transport Group**</color>  ||
+|  {{:mtr_letsplay:commonwealth_transport_group.png?250}}  ||
+|  @#0054A6: <color #FFFFFF>**Overview**</color>  ||
+| **Owner** | [[mtr_community:staff:soodari|Soodari]] |
+| **Real-life / fictional basis** | Korail |
+| ::: | Transport for NSW |
+| ::: | Transport for West Midlands |
+| ::: | Former Gyeongchun Railway co.ltd |
+| ::: | National Rail  |
+| ::: | Hoyoverse |
+| ::: | Animal Crossing |
+| ::: | Blue Archive |
+| **Transit type** | TBD |
+| **Train models** | TBD |
+| **Active services** | TBD |
+
+</WRAP>
+
+===== Info =====
+
+Commonwealth Transport Group is a holding company that provides transportation services in the southwestern part of the LPS and is based on the Geongchun Railway, which was established in August 2023.
+
+===== Fleet =====
+
+Work In Progress
+
+|  @#0054A6: <color #FFFFFF>**Vehicle Type**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Model**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Length**</color>  |  @#0054A6: <color #FFFFFF>**Operating on**</color>  |  @#0054A6: <color #FFFFFF>**Further Information**</color>  |
+|  Bus  |  VDL Citea  |  1  |  Chuncheon Bus, Namyangju Bus  |  Made & added by  OTS&szandor  |
+|  Light Rail  |  Siemens S700 (Proposed)  |  3~4  |  West Midlands Metro  |  TBD  |
+|  Light Rail  |  Tyne and Wear Metrocar  |  2  |  Namyangju MRT(Proposed)  |  Made & added by szandor  |
+|  Metro  |  Alstom Metropolis  |  4  |  Sumeru-Fontaine Line  |    |
+|  Metro  |  Seoul Metro Series 1000 & 4000  |  6~10  |  Byeollae Line  |  Made & added by  Navi  |
+|  Commuter Train  |  Korail Class 361000  |  8  |  Gyeongchun Line  |  TBD  |
+|  Commuter Train  |  Sydney Trains B Set  |  8  |  Cross-Natlan Line  |    |
+|  Commuter Train  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway  |    |
+|  Commuter Train  |  WMR Class 323  |  3, 6  |  West Midlands Railway  |  Made & added by  Navi  |
+|  High Speed Train  |  BR Class 805  |  7  |  Argenti West Coast  |  Made & added by  Navi  |
+|  High Speed Train  |  BR Class 390  |  9  |  Argenti West Coast  |  added by  Navi  |
+|  High Speed Train  |  BR Class 802 NS Retexture  |  7  |  Argenti West Coast  |    |
+|  High Speed Train  |  KTT  |  6  |  KTT  |  added by Tea  |
+|  High Speed Train  |  Korail Class 368000  |  8  |  ITX Cheongchun  |    |
+|  High Speed Train  |  BR Class 802 Railjet Retexture  |  4  |  ITX Maum  |    |
+|  High Speed Train  |  BR Mark X Mugunghwa Retexture  |  7  |  ITX Maum  |    |
+
+===== Trivia =====
+
+Work In Progress
+
