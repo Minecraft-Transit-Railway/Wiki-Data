@@ -9,7 +9,7 @@
 | **Real-life / fictional basis** | Korail |
 | ::: | Transport for NSW |
 | ::: | Transport for West Midlands |
-| ::: | Former Gyeongchun Railway co.ltd |
+| ::: | Former Gyeongchun Railway co.ltd((It is a private company that operated the Gyeongchun Line, founded in the 1930s during the colonial period.)) |
 | ::: | National Rail  |
 | ::: | Hoyoverse |
 | ::: | Animal Crossing |
@@ -22,7 +22,29 @@
 
 ===== Info =====
 
-Commonwealth Transport Group is a holding company that provides transportation services in the southwestern part of the LPS and is based on the Geongchun Railway, which was established in August 2023.
+Commonwealth Transport Group (**CTG**) is a holding company that provides transportation services in the southwestern part of the [[mtr_letsplay:start|Let's Play Server]] and is based on the Gyeongchun Railway co, which was established in August 2023.
+
+some of which are jointly owned by CTG and other companies.
+
+===== Subsiadaries =====
+
+CTG have several subsidiaries by region and theme, and the list is as follows.
+
+* Gyeongchun Railway
+
+* Transport for West Midlands
+
+* Transport for Teyvat
+
+* Transpoft for Chuncheon
+
+* Argenti West Coast
+
+* Seoul Metro
+
+===== Services =====
+
+Work In Progress
 
 ===== Fleet =====
 
@@ -45,6 +67,7 @@ Work In Progress
 |  High Speed Train  |  Korail Class 368000  |  8  |  ITX Cheongchun  |    |
 |  High Speed Train  |  BR Class 802 Railjet Retexture  |  4  |  ITX Maum  |    |
 |  High Speed Train  |  BR Mark X Mugunghwa Retexture  |  7  |  ITX Maum  |    |
+|  Miscellaneous  |  Old Taitung Line Railcar  |  1  |  Nami Island Streetcar  |    |
 
 ===== Trivia =====
 
