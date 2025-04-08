@@ -17,5 +17,21 @@
 
 </WRAP>
 
+<WRAP round info>
+Some lines are not yet open to passengers. If it's not on the system map, it's not recommended to board, due to the risk of getting stuck!
+</WRAP>
 **East Midlands Railway** is a train operating company on the Minecraft Transit Railway Let's Play server. It operates services from Llanmara Prince's Street to Ilford Island, as well as regional services around the Liskeard area, alongside long-distance and stopping services towards the North-West from Liskeard Central. The operator replaced the now-defunct Electrostar Rail brand.
+
+
+|  @#EFEEF0:**Service Patterns**  |||
+|  **Starts from**  |  **Calls at**  |
+| Llanmara Prince's Street/Liskeard Central | Liskeard Central, Liskeard East, Liskeard Great Victoria Street, Essex Road, Liskeard Parkway, Northam, Eastgate, Sandhurst, Montauk, Pawtecket Green Road, Pawtecket South, Kensington, Ashton Junction, Reston, Deansgate, Woolwich, Ilford Island, Cliffside Oceanview, Mickleham, Kirkenkessie Gateway, Mt. Dencradle, Faarverness Junction, Milford, Winbeck, & Llanmara Prince's Street  |
+|Liskeard Central/Nottingham (Via Corby) | TBA  |
+|Liskeard Central/Sheffield | TBA  |
+|Ashport/Skegness | TBA  |
+|Ashport/Corby | TBA  |
+
+
+</WRAP>
+
 
