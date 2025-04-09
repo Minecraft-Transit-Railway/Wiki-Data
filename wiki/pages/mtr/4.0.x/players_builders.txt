@@ -151,7 +151,6 @@ Please note that there are some artifacts after upgrading, which is listed below
 
   * **MTR 4 currently have compatibility issues with Sodium v0.4.9 & v0.4.10. Consider using other versions (Note that Minecraft 1.19.4 only offers v0.4.10, you would need to update to a newer Minecraft version in that case)**
   * **Lift/Elevator Display Panel** may be displayed incorrectly. This is a one-time migration issue, you would need to break and place it again.
-  * Rotation of **Decoration Block** from the **Nemo Transit Expansion** addon may be displayed incorrectly. This is a one-time migration issue, you would need to reconfigure the rotation again.
   * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
   * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
   * New version of various MTR addons may have made breaking changes, please check the respective addon page for details.
