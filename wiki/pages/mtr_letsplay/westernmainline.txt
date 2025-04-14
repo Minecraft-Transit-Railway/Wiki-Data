@@ -1,5 +1,7 @@
 ====== Western Mainline ======
-The **Western Mainline** is an intercity railway corridor to be constructed as a cooperative effort between Soodari and SzandorThe13th. The line was designed to be a high-frequency central railway corridor between the areas of Yongchun and 's Riddershoven. The line will feature seperated local and express tracks for its entire length, with a notable change of driving direction from left to right to the north of Oxenholme.
+The **Western Mainline** is an intercity railway corridor to be constructed as a cooperative effort between [[mtr_community:staff:soodari|Soodari]] and [[mtr_community:staff:szandorthe13th|SzandorThe13th]]. The line was designed to be a high-frequency central railway corridor between the areas of Gapyeong and 's Riddershoven. The line will feature seperated local and express tracks for its entire length, with a notable change of driving direction from left to right to the north of Oxenholme.
+
+Gapyeong - Baegyang-ri section shares tracks with the Gyeongchun Line, and Baegyang-ri - Mermania section also shares tracks with the Mount Birch Line, which is also recognized as the Western Mainline.
 
 <WRAP right>
 |  @#B0B0BE:  ||
@@ -12,7 +14,10 @@ The **Western Mainline** is an intercity railway corridor to be constructed as a
 |  :::  |  [[mtr_letsplay:crosscountry|CrossCountry]]  |
 |  :::  |  [[mtr_letsplay:northern|Northern]]  |
 |  **Opening Date**  |  //TBD//  |
-|  **Serving Districts**  |  Rikkashi  |
+|  **Serving Districts**  |  Gapyeong  |
+|  :::  |  Chuncheon  |
+|  :::  |  Fontaine  |
+|  :::  |  Rikkashi  |
 |  :::  |  Kurokusa  |
 |  :::  |  Oxenholme  |
 |  :::  |  Staalen  |
@@ -22,18 +27,25 @@ The **Western Mainline** is an intercity railway corridor to be constructed as a
 |  **Character**  |  Overground  |
 |  :::  |  Underground  |
 |  **Track Gauge**  |  1435mm standard gauge  |
-|  **Electrification**  |  1.5kV DC Overhead Catenary  |
+|  **Electrification**  |  1.5kV DC Overhead Catenary\\ 25kV AC Overhead Catenary((Gapyeong-Baegyang-ri Section.))  |
 </WRAP>
 
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  **Yongchun**\\ 永春  |  Rikkashi  |  Intercity Metro Diagonally Line\\ Southern Cross Line\\ Dan Chun Line\\ Suu-Southlands Line\\ Mount Birch Line\\ Rikka LRT  |    |
+|  **Gapyeong New Street**\\ 加平 가평  |  Gapyeong  |    |    |
+|  **Gulbongsan**\\ 屈峰山 굴봉산  |  Chuncheon  |  West Midlands Metro\\ Gyeongchun Line \\ Mount Birch Line  |    |
+|  **Baegyang-ri**\\ 白楊里 백양리  |  :::  |  West Midlands Metro\\ Gyeongchun Line \\ Mount Birch Line  |    |
+|  **Mermonia**\\ 沫芒  |  Fontaine  |  Cross Natlan Line\\ Mount Birch Line\\ Ferry  |    |
+|  **Elynas**\\ 厄里那斯  |  :::  |    |    |
+|  **Bordertown**\\ 邊境村  |  Rikkashi  |    |    |
+|  **Waiwan Village**\\ 外灣村  |  :::  |    |    |
+|  **Yongchun**\\ 永春  |  :::  |  Intercity Metro Diagonally Line\\ Southern Cross Line\\ Dan Chun Line\\ Suu-Southlands Line\\ Mount Birch Line\\ Rikka LRT  |    |
 |  **Kamikita East**\\ 上北東  |  :::  |    |    |
 |  **Lavender Edge**\\ 紫邊  |    |    |    |
 |  **Carnforth**\\ 康福斯  |    |    |    |
 |  **Paradise Fall SA**\\ 天水風景  |    |  Sightseeing Line  |    |
 |  **Nishi-Kurokusa**\\ 西黑草  |  Kurokusa  |    |    |
-|  **Oxenholme Lake District**\\ 奧克森霍姆湖區  |  Oxenholme  |    |    |
+|  **Oxenholme Lake District**\\ 奧克森霍姆湖區  |  Oxenholme  |  Northern\\ Shimano LRT  |    |
 |  **Staalen Fort**\\ 鋼鐵堡壘  |  Staalen  |    |    |
 |  **Staalen**\\ 鋼鐵  |  :::  |    |    |
 |  **Den Hof Achterburg**\\ 騎士法庭阿赫特堡  |  's Riddershoven  |    |    |
