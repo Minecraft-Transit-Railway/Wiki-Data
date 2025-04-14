@@ -1,8 +1,8 @@
 ====== Elirail ======
 
 
-The '''EliRail Lines''' (German: '''EliRail Linien'''; short: '''EliRail''' or '''ER''') is a transport authority, founded at Jan 28th, 2023.
+The **EliRail Lines** (German: **EliRail Linien**; short: **EliRail**) is a transport authority, founded by Elimue on Jan 28th, 2023. It was closed in May 2023 when the founder and PIC Elimue resigned from the Let's Play builder position. 
 
-= Currently served lines: =
+The operating **Tundra Link** / **North Tundra Shuttle** (originally proposed as //EliRail Commuter Line 1//) was transferred to Lilypad Rail, and replaced by re-routing of Metro Marble Line to North Tundra in November 2023. 
 
-* [[/EliRail_Commuter_Line_1|ER Commuter Line 1 (Phase 1; in test service)]]
+**EliRail Urban Line/U-Bahn 1** was proposed but only the reserved platforms at Ghost Forest station were built. They are now used by [[/wlt_line_1|Line 1 (Meyan Line) Northern Transverse Link/Mei Foo Wan Branch]]. 
