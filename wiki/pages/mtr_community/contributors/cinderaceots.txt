@@ -29,8 +29,9 @@ From August 2022, we have become a builder of MTR's Let's Play server. We are co
 
 Currently, due to my health, I am progressing at a slower pace than when I first started participating.
 
-=====Activities at Crowdin=====
+=====Activities at Localizing MTR and related add-ons=====
 I am in charge of Japanese localization for MTR's Crowdin. I localized and corrected almost all items.
+I am also localizing some MTR-related add-ons into Japanese.
 
 =====Activities at MTR wiki=====
 Similar to Crowdin, we are translating existing English articles (with some exceptions) and writing new Japanese articles.
