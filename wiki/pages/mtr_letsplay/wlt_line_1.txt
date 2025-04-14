@@ -27,6 +27,7 @@
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#7090FF:<color white>[[/cyanex|Sightseeing Local Line]]</color> |
 | ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
+| ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]] (WIP)</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]</color> |
@@ -213,7 +214,8 @@ Not finished construction and not open
 |  @#00EBFF:  ||  [[/sakura_stream_junction_station|Sakura Stream Junction]]  |  %%櫻河交匯%%  |  SAS  |  @#00FFFF: Azalea Cyan Line  |  25 September, 2022  | ::: |
 | ::: || ::: | ::: | ::: |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Line]]\\ (via Cyanex Sakura Stream)</color>  | ::: | ::: |
 |  @#A8DFF0:  ||  [[/providence_station|Providence]]  |  %%公積%%  |  PVD  |  @#7091FF: <color white>[[/sightseeing_express|Sightseeing Local Line]]</color>  |  15 July, 2022  | ::: |
-|  @#51C7FA:  ||  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  BIH  |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
+|  @#51C7FA:  ||  [[/birch_hill_station|Birch Hill]]  |  %%樺山%%  |  BIH  |  @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color>  |  25 September, 2022  |  [[/west_lake_area|West Lake]]  |
+| ::: || ::: | ::: | ::: |  @#0FBFE4:[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]  | ::: | ::: |
 |  @#F4B829:  ||  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  CKK  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
 |  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Chow - North Coast Line)]]  |  22 December, 2022  | ::: |
 | ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
