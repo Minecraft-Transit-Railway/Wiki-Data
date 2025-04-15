@@ -17,6 +17,15 @@
 | **Transit type** | TBD |
 | **Train models** | TBD |
 | **Active services** | TBD |
+|  @#0054A6: <color #FFFFFF>**Operation**</color>  ||
+| **Began operation**  | August 2023  |
+| **Operator(s)**  | Soodari  |
+| **Served Area**  | Chuncheon |
+| ::: | Fontaine  |
+| ::: | Gapyeong  |
+| ::: | Rikkashi  |
+| ::: | Namyangju  |
+| ::: | Seoul  |
 
 </WRAP>
 
@@ -32,29 +41,112 @@ CTG have several subsidiaries by region and theme, and the list is as follows.
 
 * Gyeongchun Railway
 
-* Transport for West Midlands
-
 * Transport for Teyvat
-
-* Transpoft for Chuncheon
-
-* Argenti West Coast
 
 * Seoul Metro
 
+* Northern Trains
+
+* Argenti West Coast (Co-owned with szandor)
+
+* Transport for West Midlands (Co-owned with szandor)
+
+* KTT (Co-owned with strongerlock)
+
+* Crosscountry (Co-owned with electrostarjudge)
+
 ===== Services =====
 
-Work In Progress
+**Mainline Intercity Service**
+
+Argenti West Coast 🤝 🟠🛠️
+🔴 (Oxenholme ~ Den Hof is not opened to public yet)
+
+Crosscountry 🤝🟡🛠️
+
+KTT 🤝🟡🛠️
+
+ITX Cheongchun 🟠🛠️
+
+ITX Maum 🟠🛠️
+
+
+**Regional / Commuter Rail**
+
+Gyeongchun Line 🟢
+
+Jungang Line 🟡
+
+Cross Natlan Line 🟡🛠️
+
+West Midlands Railway  🟢
+
+Northern Trains 🤝🟢🛠️
+
+
+**Rapid Transit / Light Rail**
+
+Sumeru-Fontaine Line 🔵
+
+Byeollae Line  🔵
+
+West Midlands Metro 🤝🟡🛠️
+
+Namyangju MRT 🔵
+
+
+**Ferry/Boat**
+
+Navia Ferry 🟢
+
+Callas Ferry 🟢
+
+Clementine Ferry 🟢
+
+Lemuria Ferry 🟢
+
+Nami Island Ferry 🔵
+
+Kangchon Ferry 🟢
+
+Abydos Ferry 🔵
+
+Dodo Ferry 🔵
+
+East San Ferry 🔵
+
+Nostalgia Ferry 🤝🟢
+
+Shrubland-Ichthus Ferry 🤝🟡🛠️
+
+
+**Miscellaneous**
+
+Chuncheon Bus 🟢
+
+GBus 🔵
+
+Samaksan Cable Car 🟢
+
+Chicken City Sky Cruise 🟢
+
+Namyangju Cable 🟢
+
+Elysian Cable/Chair 🟢
+
+Byeollae Heritage Railway 🟢
+
+Nami Island Streetcar 🔵
 
 ===== Fleet =====
 
 [[Crosscountry]] Fleet is not included in this chart, please move to Crosscountry page.
 
-Some trains have not migrated to mtr4 yet and the information and operational fleets within this chart are subject to change at any time.
+Some trains((class 805, 390, duck boat, taitung railcar)) have not migrated to mtr4 yet and the information and operational fleets within this chart are subject to change at any time.
 
 |  @#0054A6: <color #FFFFFF>**Vehicle Type**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Model**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Length**</color>  |  @#0054A6: <color #FFFFFF>**Operating on**</color>  |  @#0054A6: <color #FFFFFF>**Note**</color>  |
 |  Bus  |  VDL Citea  |  1  |  Chuncheon Bus, Namyangju Bus  |  Made & added by  OTS&szandor  |
-|  Light Rail  |  Siemens S700 (Proposed)  |  3~4  |  West Midlands Metro  |  TBD  |
+|  Light Rail  |  Siemens S700 (Proposed)  |  3~4  |  West Midlands Metro  |  Made by Jonathan  |
 |  Light Rail  |  Tyne and Wear Metrocar  |  2  |  Namyangju MRT(Proposed)  |  Made & added by szandor  |
 |  Metro  |  Alstom Metropolis  |  4  |  Sumeru-Fontaine Line  |    |
 |  Metro  |  Seoul Metro Series 1000 & 4000  |  6~10  |  Byeollae Line  |  Made & added by  Navi  |
@@ -63,15 +155,15 @@ Some trains have not migrated to mtr4 yet and the information and operational fl
 |  Commuter Train  |  WMR Class 323  |  3, 6  |  West Midlands Railway  |  Made & added by  Navi  |
 |  Regional Train  |  WMR Class 350  |  4, 8  |  West Midlands Railway  |  Made & added by  Navi  |
 |  Regional Train  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway  |    |
-|  Regional Train  |  Northern Class 155  |  1~3  |  Northern Trains  |  TBD, Original Model(153) by Navi  |
+|  Regional Train  |  Northern Class 155 (Proposed)  |  1~3  |  Northern Trains  |  TBD, Original Model(153) by Navi  |
 |  Regional Train  |  Northern Class 157  |  2, 4  |  Northern Trains  |  Original Model(153) by Navi  |
 |  Regional Train  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway  |    |
 |  High Speed Train  |  BR Class 805  |  7  |  Argenti West Coast  |  Made & added by  Navi  |
 |  High Speed Train  |  BR Class 390  |  9  |  Argenti West Coast  |  added by  Navi  |
 |  High Speed Train  |  BR Class 802 NS Retexture  |  7  |  Argenti West Coast  |    |
-|  High Speed Train  |  KTT  |  6  |  KTT  |  added by Tea  |
+|  High Speed Train  |  KTT  |  6  |  KTT  |    |
 |  High Speed Train  |  Korail Class 368000  |  8  |  ITX Cheongchun  |    |
-|  High Speed Train  |  BR Class 802 Railjet Retexture  |  4  |  ITX Maum  |    |
+|  High Speed Train  |  BR Class 802 Railjet Retexture  |  4  |  ITX Maum  |  Made by Electrostarjudge  |
 |  High Speed Train  |  BR Mark X Mugunghwa Retexture  |  7  |  ITX Maum  |    |
 |  Miscellaneous  |  Old Taitung Line Railcar  |  1  |  Nami Island Streetcar  |  Migration not decided  |
 |  Miscellaneous  |  Boat (Single & Double deck)  |  1  |  Ferry Services  |  Made by Jonathan  |
