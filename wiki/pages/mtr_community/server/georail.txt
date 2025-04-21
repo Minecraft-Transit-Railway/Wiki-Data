@@ -7,7 +7,7 @@
 | Creation date: 01.05.2024 / Re-created: 15.06.2024 |
 | Server type: Fabric 1.20.1 |
 | Type: All styles |
-| Members (as of 25.09.2024): 195 (including bots), 40 |
+| Members (as of 25.09.2024): 195 (including bots), 187 |
 | Server slogan: **"MTR at its finest"** |
-|  |
+|   |
 
