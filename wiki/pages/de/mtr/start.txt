@@ -2,7 +2,7 @@ FIXME **Diese Seite wurde noch nicht vollständig übersetzt. Bitte helfen Sie b
 
 ====== Minecraft Transit Railway ======
 
-**Minecraft Transit Railway** ist eine [[https://minecraft.wiki/Mods| Minecraft mod]], basierend auf Zügen der Hongkong MTR, der London Underground und der New York Subway. Mit Minecraft Transit Railway kann man durch die vielen Züge und Blöcke ein vollwertiges Zugnetz bauen.
+**Minecraft Transit Railway** ist eine [[https://minecraft.wiki/Mods| Minecraft Mod]], basierend auf Zügen der Hongkong MTR, der London Underground und der New York Subway. Mit Minecraft Transit Railway kann man durch die vielen Züge und Blöcke ein vollwertiges Zugnetz bauen.
 
 Minecraft Transit Railway ist für Forge/Fabric 1.16, 1.17, 1.18 und 1.19 vollwertig verfügbar. 1.20 befindet sich derzeit in Entwicklung.
 
