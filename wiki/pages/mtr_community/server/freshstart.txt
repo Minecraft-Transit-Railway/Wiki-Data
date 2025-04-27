@@ -84,6 +84,8 @@ Companies without a logo are represented with a Minecraft Transit Railway ({{:mt
 
 {{:mtr_community:trinsmoton_rail:nologonew.png?40}} [[#Transport for Striaton|Transport for Striaton]]
 
+{{:mtr_community:server:uls.webp?40}} [[#ULS|ULS]]
+
 {{:mtr_community:trinsmoton_rail:private.png?40}} [[#Privately operated lines|Privately operated lines]]
 
 <WRAP center round info 70%>
