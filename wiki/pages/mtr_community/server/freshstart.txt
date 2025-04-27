@@ -280,6 +280,12 @@ It also completly owns the subcompany ULS for underground rails
 | @#b1e6b1: |||
 | **U61** | LU 1996 Stock | 4 |
 | @#b1e6b1: |||
+| @#b1e6b1: |||
+| **U62** | LU 1996 Stock | 4 |
+| @#b1e6b1: |||
+| @#e9a1a1: |||
+| **U1-1** | C1 | 4 |
+| @#e9a1a1: |||
 | @#61e76c: |||
 | **HLR1** | R211 | 2 |
 | @#61e76c: |||
