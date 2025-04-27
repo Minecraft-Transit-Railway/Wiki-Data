@@ -230,6 +230,18 @@ Cross-Country Rail Company of Lucasshire (CRCL) is a regional rail franchise ope
 ===== Dan6 Services LLC =====
 
 Dan6 Services LLC operates various kinds of rail services including regional rail, suburban rail and metro rail.
+It also completly owns the subcompany ULS for underground rails
+
+
+<WRAP right>
+
+|  @#00a000:<color #FFFFFF>**Dan6 Services**</color>  ||
+|  {{ :mtr_community:server:uls.webp?100}}  ||
+^ Founded | ~ Feb 2024 |
+^ Owner | DanLP6 |
+^ Lines | 0 (3) |
+
+</WRAP>
 
 <WRAP right>
 
