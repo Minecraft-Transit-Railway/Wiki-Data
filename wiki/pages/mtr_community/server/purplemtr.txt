@@ -16,11 +16,11 @@ PurpleMTR is a server focused around creating a large and detailed transit syste
 
 ===== List of companies =====
 
-CHTR
+[[mtr_community:server:purplemtr#chtr|CHTR]]
 
-Pufferfish Transport
+[[mtr_community:server:purplemtr#Pufferfish Transport|Pufferfish Transport]]
 
-PurpleRail
+[[mtr_community:server:purplemtr#PurpleRail|PurpleRail]]
 
 West Water Rail
 
