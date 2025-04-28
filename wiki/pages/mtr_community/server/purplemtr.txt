@@ -1,0 +1,41 @@
+====== PurpleMTR ======
+
+PurpleMTR is a server focused around creating a large and detailed transit system. It has been operating since 2024, and has gone through multiple rebranding and 3 resets, one of which has the map publicly released after it reset.
+
+<WRAP right>
+
+|  @#590090: <color #FFFFFF>**PurpleMTR**</color>  ||
+| {{mtr_community:purplemtr.webp?300}} ||
+|  @#590090: <color #FFFFFF>**Overview**</color>  ||
+| **Creator** | Matcha and AwesomeKalin55 |
+| **Project Director** | Matcha |
+| **Builders** | 12 |
+| **Companies** | 12 |
+
+</WRAP>
+
+===== List of companies =====
+
+CHTR
+
+Pufferfish Transport
+
+PurpleRail
+
+West Water Rail
+
+Java Train Government
+
+Iarnród Éireann MTR
+
+Metropolitan Republic Transit
+
+SebRail
+
+CITI
+
+Kordai Rapid Transit
+
+Son of Light
+
+Purple Light Metro
