@@ -39,3 +39,44 @@ Kordai Rapid Transit
 Son of Light
 
 Purple Light Metro
+
+===== Companies =====
+
+===== CHTR =====
+
+<WRAP right>
+
+|  @#FFFF00: <color #000000>**CHTR Heung Chi Rail**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:yeys.png?300}}  ||
+| **Owner** | Curt |
+| **Lines** | 9 |
+
+</WRAP>
+
+CHTR Heung Chi Rail (CHTR HCR) operates primarily regional and metro rail transport. The company contains sectors, with different sectors controlling different types of lines. These sectors, however, do not have their own unique logo, and instead uses the universal CHTR logo (Exception to Docklands Metro).
+
+===== Pufferfish Transport =====
+
+<WRAP right>
+
+|  @#EAB308: <color #FFFFFF>**Pufferfish Transport**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:dmdmdmdmd.png?300}}  ||
+| **Owner** | AwesomeKalin55 |
+| **Lines** | 3 |
+
+</WRAP>
+
+Pufferfish Transport provides ferry services within the server.
+
+===== PurpleRail =====
+
+<WRAP right>
+
+|  @#590090: <color #FFFFFF>**PurpleRail**</color>  ||
+|  {{:mtr_community:trinsmoton_rail:gmme.png?300}}  ||
+| **Owner** | Matcha|
+| **Lines** | 2 |
+
+</WRAP>
+
+PurpleRail serves rail services through the central part of the server.
