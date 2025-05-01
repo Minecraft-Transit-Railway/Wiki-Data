@@ -1,6 +1,6 @@
 ===== MTR 4.0 for Developers/Contributors =====
 
-MTR 4 still have some issues / features to be completed, which you can help the development of MTR 4 by contributing to such area.
+MTR 4 still have some issues / regressions introduced since MTR 3, which you can help the development of MTR 4 by contributing to such area.
 
 ==== Issues & Bugs ====
 
@@ -10,16 +10,20 @@ MTR 4 still have some issues / features to be completed, which you can help the 
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
   * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
   * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
-  * Solid color would sometimes be displayed for route map in terminating platforms/platforms without route
+  * Track signals would get cleared if edited with a brush
+  * Exception/Crash when loading rail model which points to an non-existent file
+  * Built-in R-train is lacking some interior model
 
 ==== QOL/Low Priority ====
 
   * Train announcement still gets played even when in-game sound volume is 0
   * The model of the player riding train would shake when in F5, while the train render smoothly.
 
-==== Unconfirmed issues/bugs ====
+==== Unconfirmed/Untested issues/bugs ====
 
   * Sometimes certain train will be completely silent?
+  * Redstone sensors reportedly not working
+  * Some mod/environment combination would result in train getting speed up with shaders enabled
 
 ==== Unimplemented Features ====
 
