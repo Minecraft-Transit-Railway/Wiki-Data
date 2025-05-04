@@ -60,6 +60,14 @@ CHTR Heung Chi Rail (CHTR HCR) operates primarily regional and metro rail transp
 
 Pufferfish Transport provides ferry services within the server.
 
+===== Java Train Government =====
+
+|  @##26B62E: <color #FFFFFF>**Java Train Government**</color>  ||
+|  {{mtr_community:trinsmoton_rail:jtg.png?300&linkonly}}  ||
+| **Owner** | kenzierrr |
+| **Lines** | 2 |
+
+
 ===== PurpleRail =====
 
 |  @#590090: <color #FFFFFF>**PurpleRail**</color>  ||
