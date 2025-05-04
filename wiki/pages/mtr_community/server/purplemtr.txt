@@ -7,8 +7,8 @@ PurpleMTR is a server focused around creating a large and detailed transit syste
 |  @#590090: <color #FFFFFF>**PurpleMTR**</color>  ||
 | {{mtr_community:purplemtr.webp?300}} ||
 |  @#590090: <color #FFFFFF>**Overview**</color>  ||
-| **Creator** | Matcha and AwesomeKalin55 |
-| **Project Director** | Matcha |
+| **Creator** | four and AwesomeKalin55 |
+| **Project Director** | four |
 | **Builders** | 12 |
 | **Companies** | 12 |
 
