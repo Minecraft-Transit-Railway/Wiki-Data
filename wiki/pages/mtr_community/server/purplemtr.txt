@@ -64,9 +64,11 @@ Pufferfish Transport provides ferry services within the server.
 ===== Java Train Government =====
 
 |  @##26B62E: <color #FFFFFF>**Java Train Government**</color>  ||
-|  {{mtr_community:trinsmoton_rail:jtg.png?300&linkonly}}  ||
+|  {{:mtr_community:trinsmoton_rail:jtg.png?300&linkonly}}  ||
 | **Owner** | kenzierrr |
 | **Lines** | 2 |
+
+Java Train Government Provides a Metro link troughout the server
 
 
 ===== PurpleRail =====
