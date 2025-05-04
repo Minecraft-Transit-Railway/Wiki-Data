@@ -1,5 +1,7 @@
 ====== Fresh Train World ======
 
+<WRAP round info>Some contents on the page may be outdated.</WRAP>
+
 <WRAP right>
 
 |  @#00FF00:<color #FFFFFF>**Fresh Train World**</color>  ||
