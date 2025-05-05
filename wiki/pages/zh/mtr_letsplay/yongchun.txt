@@ -1,0 +1,72 @@
+====== 永春站 ======
+
+<WRAP right>
+
+|  @#0F84DE: <color #ffffff>永春</color>  ||
+| @#AE0D3F: ||
+| @#FEB43F: ||
+| @#3C78D8: ||
+| @#0063D2: ||
+| @#C29355: ||
+| @#1BA9AC: ||
+| @#204555: ||
+| @#FFC916: ||
+| @#C68335: ||
+| @#252261: ||
+| @#94E922: ||
+^  **概述**  |^
+| **站台** | 10 (7个岛式站台, 3个侧式站台) |
+| **坐标** | (-19128, 8073) |
+^  **翻译**  |^
+| **繁体** | 永春 |
+| **简体** | 永春 |
+
+</WRAP>
+
+**永春站** 是服务器西南部一个11线换乘站。
+
+车站分为3个部分，分别为地铁部分、高速铁路与区域铁路部分和轻铁部分。
+
+===== 车站布局 =====
+
+<WRAP left>
+
+**地铁部分**
+
+| **G** | 出口 | 出口 A-B |
+| **B1** | **站厅** | 出口 A-B 通道 |
+| **B2** | @#375E14: **奥斯跛线站台 <color #ffffff>Platforms</color>** ||
+| ::: | Platform **1** | **奥斯跛线** 往 **奥斯跛西** -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **2** | <- **奥斯跛线** to **阿尔法岛** |
+| **B3** | @#151C69: **小丝南域线站台 <color #ffffff>Platforms</color>** ||
+| ::: | Platform **3** | **小丝南域线** 往 **赛莫德绿洲** -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **4** | <- **小丝南域线** 往 **上北** |
+
+高速铁路与区域铁路部分
+
+| **G** | 出口 | 出口 D |
+| **B1** | **站厅** | 出口 D 通道 |
+| **B2** | Platform **1** | **城际捷运-斜角线** 往 **晨辉** -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **2** | **南横线** 往 **杨克顿**，**丹春线** 往 **重生区**-> |
+| ::: | Platform **3** | <- **南横线**，**丹春线 **终到站台 |
+| ::: |  Side Platform  ||
+| ::: | Platform **4** | **Moszyan Railways Sprinter** 往 **雅哥连臣街/板沙** -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **5** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央（骑士法庭森塞维森/奥斯跛中央）** |
+| ::: | Platform **6** | <- **北部铁路 **往 **温德米尔，Crosscountry **往 **登福普中心/砾丝架国际** |
+| ::: |  Island Platform  ||
+| ::: | Platform **7** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央，Moszyan Railways Sprinter **终到站台 |
+| **B3** | Platform **8** | **Crosscountry** 往 **朴茨茅斯** -> |
+| ::: |  Island Platform  ||
+| ::: | Platform **9** | **银枝西海线** 往 **清凉里，Moszyan Railways Intercity **往 **板沙** -> |
+| ::: | Platform **10** | <- **银枝西海线** 往 **骑士法庭中央，Moszyan Railways Intercity **往 **骑士法庭中央（碧终端）** |
+| ::: |  Island Platform  ||
+| ::: | Platform **11** | <- **Crosscountry **往 **登福普中心/砾丝架国际/科坑金门** |
+
+</WRAP>
+
+</WRAP>
+
