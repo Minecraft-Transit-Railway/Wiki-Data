@@ -45,7 +45,7 @@
 
 </WRAP>
 
-**杨克顿站** 是一个7线换乘站, 包括 [[mtr_letsplay:snowie_line|雪伊线]], [[mtr_letsplay:snowtral_line|雪央线]], [[mtr_letsplay:wanton_line|弯顿线]], [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]], [[mtr_letsplay:south_continental_line|地铁南大陆线]], [[mtr_letsplay:hsr_northern_heights_line|高铁北原线]], [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]]。它是Let's Play服务器中最繁忙、最老旧的车站之一.
+**杨克顿站** 是一个7线换乘站, 包括 [[mtr_letsplay:snowie_line|雪伊线]], [[mtr_letsplay:snowtral_line|雪央线]], [[mtr_letsplay:wanton_line|弯顿线]], [[mtr_letsplay:lakeside_mystic_line|湖岸迷离线]], [[mtr_letsplay:south_continental_line|地铁南大陆线]], [[mtr_letsplay:hsr_northern_heights_line|高铁北原线]], [[mtr_letsplay:hsr_southern_cross_line|高铁南横线]]。它是Let's Play服务器中最繁忙、最老旧的车站之一。
 
 车站分为两个阶段，主要地铁阶段和高速铁路阶段。两个阶段都有APM服务和通道连接。
 
