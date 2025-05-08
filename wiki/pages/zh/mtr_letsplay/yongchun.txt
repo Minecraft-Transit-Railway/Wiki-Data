@@ -54,7 +54,7 @@
 | ::: | Platform **4** | **Moszyan Railways Sprinter** 往 **雅哥连臣街/板沙** -> |
 | ::: |  Island Platform  ||
 | ::: | Platform **5** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央（骑士法庭森塞维森/奥斯跛中央）** |
-| ::: | Platform **6** | <- **北部铁路 **往 **温德米尔，Crosscountry **往 **登福普中心/砾丝架国际** |
+| ::: | Platform **6** | <- **北部铁路 **往 **温德米尔，Crosscountry **往 **登福浦中心/砾丝架国际** |
 | ::: |  Island Platform  ||
 | ::: | Platform **7** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央，Moszyan Railways Sprinter **终到站台 |
 | **B3** | Platform **8** | **Crosscountry** 往 **朴茨茅斯** -> |
@@ -62,6 +62,5 @@
 | ::: | Platform **9** | **银枝西海线** 往 **清凉里，Moszyan Railways Intercity **往 **板沙** -> |
 | ::: | Platform **10** | <- **银枝西海线** 往 **骑士法庭中央，Moszyan Railways Intercity **往 **骑士法庭中央（碧终端）** |
 | ::: |  Island Platform  ||
-| ::: | Platform **11** | <- **Crosscountry **往 **登福普中心/砾丝架国际/科坑金门** |
-
+| ::: | Platform **11** | <- **Crosscountry **往 **登福浦中心/砾丝架国际/科坑金门** |
 
