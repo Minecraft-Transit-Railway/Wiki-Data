@@ -33,34 +33,35 @@
 
 | **G** | 出口 | 出口 A-B |
 | **B1** | **站厅** | 出口 A-B 通道 |
-| **B2** | @#375E14: **奥斯跛线站台 <color #ffffff>Platforms</color>** ||
+| **B2** | @#375E14: **<color #ffffff>奥斯跛线站台</color>** ||
 | ::: | Platform **1** | **奥斯跛线** 往 **奥斯跛西** -> |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **2** | <- **奥斯跛线** to **阿尔法岛** |
-| **B3** | @#151C69: **小丝南域线站台 <color #ffffff>Platforms</color>** ||
+| **B3** | @#151C69: **<color #ffffff>小丝南域线站台</color>** ||
 | ::: | Platform **3** | **小丝南域线** 往 **赛莫德绿洲** -> |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **4** | <- **小丝南域线** 往 **上北** |
 
-高速铁路与区域铁路部分
+**高速铁路与区域铁路部分**
 
 | **G** | 出口 | 出口 D |
 | **B1** | **站厅** | 出口 D 通道 |
 | **B2** | Platform **1** | **城际捷运-斜角线** 往 **晨辉** -> |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **2** | **南横线** 往 **杨克顿**，**丹春线** 往 **重生区**-> |
 | ::: | Platform **3** | <- **南横线**，**丹春线 **终到站台 |
-| ::: |  Side Platform  ||
+| ::: |  侧式站台  ||
+| ::: |
 | ::: | Platform **4** | **Moszyan Railways Sprinter** 往 **雅哥连臣街/板沙** -> |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **5** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央（骑士法庭森塞维森/奥斯跛中央）** |
 | ::: | Platform **6** | <- **北部铁路 **往 **温德米尔，Crosscountry **往 **登福浦中心/砾丝架国际** |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **7** | <- **Moszyan Railways Sprinter **往 **骑士法庭中央，Moszyan Railways Sprinter **终到站台 |
 | **B3** | Platform **8** | **Crosscountry** 往 **朴茨茅斯** -> |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **9** | **银枝西海线** 往 **清凉里，Moszyan Railways Intercity **往 **板沙** -> |
 | ::: | Platform **10** | <- **银枝西海线** 往 **骑士法庭中央，Moszyan Railways Intercity **往 **骑士法庭中央（碧终端）** |
-| ::: |  Island Platform  ||
+| ::: |  岛式站台  ||
 | ::: | Platform **11** | <- **Crosscountry **往 **登福浦中心/砾丝架国际/科坑金门** |
 
