@@ -59,12 +59,12 @@ Currently, trains with four or more cars are operated with the same model and th
 ===Standard Model===
 ==Current==
 ^  Model  ^  Livery  ^  Cars  ^
-| **1928 Stock** | Dark Green\\ Blue((repaint by k51zu)) | 2 or 4 |
+| **1928 Stock** | Dark Green\\ Blue((repaint by RFT51(Former:k51zu) )) | 2 or 4 |
 | **1954M Stock** | Gold | ::: |
 | **1954MM Stock** | Retro Green | ::: |
-| **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker\\ Keikyu Vermilion((repaint by k51zu)) | ::: |
-| **1999 Stock**((Advert Wrapping compatible vehicles)) | Alps Green/Tamaden((repaint by k51zu))\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
-| **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange\\ Rose Pink((repaint by k51zu))\\ Blue((repaint by k51zu))\\ Orange((repaint by k51zu))\\ Yellow((repaint by k51zu))| ::: |
+| **1998 Stock** | Red((Los Santos Transit Livery))\\ Starscream\\ Skywarp\\ Thundercracker\\ Keikyu Vermilion((repaint by RFT51(Former:k51zu) )) | ::: |
+| **1999 Stock**((Advert Wrapping compatible vehicles)) | Alps Green/Tamaden((repaint by RFT51(Former:k51zu) ))\\ Morning Blue\\ Classic Blue\\ Apple Green\\ Cherry Red\\ Relief Yellow\\ Bluish Lavender\\ Sunshine\\ Burnt Orange\\ Turquoise Green\\ Teufort Red| ::: |
+| **2015 Stock** | Teufort Red\\ Teufort Lime\\ Teufort Orange\\ Rose Pink((repaint by RFT51(Former:k51zu) ))\\ Blue((repaint by RFT51(Former:k51zu) ))\\ Orange((repaint by RFT51(Former:k51zu) ))\\ Yellow((repaint by RFT51(Former:k51zu) ))| ::: |
 | **1975 Stock** | Pink | ::: |
 | **VVVF Refurbished 1975 Stock**((Only Traction System was replaced with 2002 Stock igbt-vvvf.)) | Pink | ::: |
 | **1980 Stock** | Sky((Former:Blue)) | ::: |
