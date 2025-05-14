@@ -22,7 +22,7 @@
 
 **Donald** is a member in the Minecraft Transit Railway community since 2021, before the discord server reached the 1000 members milestone. He became part of the support team since May 2025.
 
-He can be found in [[United Cities Railways|United Cities Railways]] and Steamville with his company Metropolitan Railway.((
+He can be found in [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] and Steamville with his company Metropolitan Railway.((
 This is a fictional transport company unrelated to the real railway company in England (1863-1933).
-)) He is also active in testing [[MTR4|MTR4]] beta versions in his singleplayer world.
+)) He is also active in testing [[mtr:4.0.x|MTR4]] beta versions in his singleplayer world.
 
