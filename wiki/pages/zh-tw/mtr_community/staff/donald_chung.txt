@@ -24,5 +24,5 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 **Donald** 自 2021 年 Discord 伺服器達到 1000 名成員的里程碑之前起就是 MTR 社群的成員。2025 年 5 月，他成為了支援團隊的一員。
 
-他的公司都會鐵路(Metropolitan Railway)活躍於 [[https://wiki.minecrafttransitrailway.com/mtr_community:server:unitedcitiesrailways|United Cities Railways]] 和 Steamville。他還積極在單人遊戲中測試 [[https://wiki.minecrafttransitrailway.com/mtr:4.0.x|MTR4]] 試用版。\\
+他的公司都會鐵路(Metropolitan Railway)活躍於 [[mtr_community:server:unitedcitiesrailways|United Cities Railways]] 和 Steamville。他還積極在單人遊戲中測試 [[mtr:4.0.x|MTR4]] 試用版。\\
 
