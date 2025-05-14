@@ -5,42 +5,47 @@ This guide will tell you how to set up your file structure to make a resource pa
 Requirements: Windows 10 21H1 or later.
 
 <WRAP center round important 90%>
+
 **It is recommended to watch Jonathan's tutorial video for this topic: [[https://www.youtube.com/watch?v=QH1O-y6kPSk]]**
 
 </WRAP>
 
 ===== Guide =====
+
 ==== Folder structure ====
+
   - Go to your //.minecraft// folder. {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}} 
   - Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
   - Create a folder with a name that you want (for example: My custom M-Train) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
   - Create a new folder inside of the existing folder called ''assets''. 
   - Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
   - Download this template pack.mcmeta and put it into your resourcepack folder:
-<file json pack.mcmeta>
+
+<code json pack.mcmeta>
 {
     "pack": {
         "description": "put your pack description here",
-        "pack_format": 9,
+        "pack_format": 9
     }
 }
-</file>
+</code>
 
 <WRAP center round info 90%>
-The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\
-However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\
-If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
-</WRAP>
 
+The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\  However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\  If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
+
+</WRAP>
 
   * Create a new folder named MTR in the assets folder.
   * Create a text file inside the folder named ''mtr_custom_resources.json''
 
 ==== JSON files ====
+
 To format your JSON file, simply copy, paste & edit some of the values. The main code is here:
 
 If you have just one train:
-<file json mtr_custom_resources.json>
+
+<code json mtr_custom_resources.json>
 {
 	"custom_trains": {
 		"{Base_Train_Name_here}": {
@@ -52,10 +57,11 @@ If you have just one train:
 		}
 	}
 }
-</file>
+</code>
 
 If you have more than one (you cannot simply duplicate the piece above, as this messes with the json format):
-<file json mtr_custom_resources.json>
+
+<code json mtr_custom_resources.json>
 {
 	"custom_trains": {
 		"{Base_Train_Name_here}": {
@@ -75,31 +81,35 @@ If you have more than one (you cannot simply duplicate the piece above, as this 
 		}
 	}
 }
-</file>
+</code>
 
 <WRAP center round important 90%>
+
 Make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
+
 </WRAP>
+
 <WRAP center round tip 90%>
+
 Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Trains]], [[https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Adding-Custom-Resources]]
+
 </WRAP>
 
 <WRAP center round box 60%>
+
 **JSON explanation:**
 
   *  ** "name":**    The name that MTR shows in the train picker.
   *  **"color":**    The color that MTR shows in the train picker.
   *  **"base_train_type":**    The type of the retextured train.
   *  **"texture_id":**    The custom texture that will display when train has been spawned.
- 
-**What it should look like:**
-{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?nolink&200 |}}
-{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?nolink&200 |}}
-{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?nolink&200 |}}
-{{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?nolink&200 |}}
+
+**What it should look like:** {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181818.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181802.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181516.png?200&nolink }} {{ :mtr_extra:resourcepack:screenshot_2023-05-17_181411.png?200&nolink }}
+
 </WRAP>
 
 ==== Train textures ====
+
   - Download an image editing software of your choice, that supports transparency. Recommended are Paint 3D and GIMP, as they are both free and relatively easy to use. **Do not** use MS Paint, because it **does not** support transparency and will cause all transparent parts of your texture to turn white
   - Go to [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle]] and download the texture file you want to edit
   - Open your image editing software, find the texture you want to edit, then open it and start making your edits
@@ -109,24 +119,36 @@ Also for more help check out the MTR Github Wiki [[https://github.com/jonafanho/
   - All that is left is to put it in your resourcepacks folder and start your MTR installation!
 
 <WRAP center round tip 90%>
-You can also use blockbench to retexture trains! To do so however, you must first also download the train bbmodel file from the following link: \\
-[[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle]]
+
+You can also use blockbench to retexture trains! To do so however, you must first also download the train bbmodel file from the following link: \\  [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle]]
+
 </WRAP>
 
 And you are done with the basics!
+
 <WRAP center round box 60%>
+
 The example resource pack can be downloaded below:
+
 <WRAP center round download 60%>
-https://bit.ly/MtrExampleLink
+
+[[https://bit.ly/MtrExampleLink]]
+
 </WRAP>
+
 </WRAP>
 
 ==== Sound files ====
+
   * Download Audacity, you're going to need it.
   * Record any sound file, or perhaps download one from an external source. Make sure its in .ogg format and the filename doesnt contain any uppercase letters.
+
 <WRAP center round info 90%>
+
 You are going to want the sound to originate from the source that plays the sound, so make sure your sound file is **mono**. This can be changed easily by importing the sound file into Audacity and exporting it as a mono ogg file.
+
 </WRAP>
+
   * Make sure you have two long sound files that sound approximately like your train accelerating from 0 to about 160-200 or so, and decelerating the other way (since sometimes the sound may vary between the two, such as brake whine or motors only making sound when accelerating) you may also use a single file if acceleration and braking is identical.
   * Open this sound file in Audacity, select the sound in the timeline and then find "Regular Interval Labels" under "Tools" at the top.
   * Choose the amount of sounds you want to end up with. More is not necessarily better, but does give better precision if sounds change drastically over a small time frame. Try to make the files approximately half a second to a second long.
@@ -134,3 +156,4 @@ You are going to want the sound to originate from the source that plays the soun
   * Now comes the fun part! You have to manually rename EVERY. SINGLE. SOUND FILE. Follow a pattern that goes speed_0a, speed_0b, speed_0c, speed_1a, speed_1b, etc.
   * Go back to the ''mtr'' folder inside your resourcepack and create a new folder within that called ''sounds'', create another new folder inside that called whatever you want, then paste the sound files in a folder called ''acceleration'' or ''deceleration''. That second-to-last folder will be your "sound id" that you will have to specify later in the process.
   * bla bla sounds.json stuff
+
