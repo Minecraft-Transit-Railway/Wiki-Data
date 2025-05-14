@@ -7,15 +7,15 @@
 |  @#6D59A0:  **Profile**  |||
 | **Known as** | Metropolitan Chemist ||
 | ::: | Donald ||
-| **MTR Discord Join Date** | November 18, 2025 ||
-| **Roles** | @#11ABAB:Support Team | (16/05/2025) |
-|   | Train Operators | (18/11/2021) |
+| **MTR Discord Join Date** | November 18, 2021 ||
+| **Roles** | @#11ABAB:Support Team | (06/05/2025) |
+| ::: | Train Operators | (18/11/2021) |
 | **Date of Birth** | December 21st, 2006 ||
 | **Gender** | Male ||
 | **Nationality** | Hong Kong ||
 | **Spoken Languages** | Cantonese ||
-|   | English ||
-|   | Mandarin Chinese ||
+| ::: | English ||
+| ::: | Mandarin Chinese ||
 | **Timezone** | HKT (GMT+8) ||
 
 </WRAP>
