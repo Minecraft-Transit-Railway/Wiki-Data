@@ -52,7 +52,7 @@ If you have just one train:
 			"name": "My Custom Train Name",
 			"color": "#66CCFF",
 			"base_train_type": "sp1900",
-			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+			"texture_id": "mtr:{folder_name}/{texture_name}.png"
 
 		}
 	}
@@ -68,7 +68,7 @@ If you have more than one (you cannot simply duplicate the piece above, as this 
 			"name": "Another train name here",
 			"color": "66CCFF",
 			"base_train_type": "sp1900",
-			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+			"texture_id": "mtr:{folder_name}/{texture_name}.png"
 
 		},
 		
@@ -76,7 +76,7 @@ If you have more than one (you cannot simply duplicate the piece above, as this 
 			"name": "Another train name here",
 			"color": "66CCFF",
 			"base_train_type": "sp1900",
-			"texture_id": "mtr:{FOLDERNAME}/{TEXTURENAME}.png"
+			"texture_id": "mtr:{folder_name}/{texture_name}.png"
 
 		}
 	}
@@ -85,7 +85,13 @@ If you have more than one (you cannot simply duplicate the piece above, as this 
 
 <WRAP center round important 90%>
 
-Make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
+==== Note on Naming ====
+
+By definition, Minecraft only supports the character set ''a-z'', ''0-9'', ''/._-''. This means characters such as uppercase letters **is not allowed and will not work**.
+
+If it works on your Minecraft instance, it means you have installed some mods which explicitly bypass this behavior. However they do not work for other people without such mod, and you are discouraged from using these invalid characters as much as possible.
+
+As such, make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
 
 </WRAP>
 
