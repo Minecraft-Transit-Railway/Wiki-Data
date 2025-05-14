@@ -33,7 +33,9 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 
 ==== New Timetable ====
 |  @#B0B0BE: **Service Type**  |  @#B0B0BE: **Service ID**  |  @#B0B0BE: **Frequency***  |  @#B0B0BE: **Starting Station**  |  @#B0B0BE: **Terminus Station**  |
-|  @#CC3733: **Bus 393**  |    |  3 minutes  |  [[mtr_letsplay:leeton|Leeton, Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon, Station]]  |
+|  @#CC3733: **Bus 365**  |    |  3 minutes  |  [[mtr_letsplay:gapyeong|Gapyeong New Street Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon Station]]  |
+|  @#CC3733: **Bus 370**  |    |  3 minutes  |  [[mtr_letsplay:gapyeong|Gapyeong New Street Station]]  |  [[mtr_letsplay:leeton|Leeton Station]]  |
+|  @#CC3733: **Bus 393**  |    |  3 minutes  |  [[mtr_letsplay:leeton|Leeton Station]]  |  [[mtr_letsplay:sangcheon|Sangcheon Station]]  |
 |  @#BEEDFF: **Metro**\\ (Starlight Line)  |    |  3 minutes  |  [[mtr_letsplay:badgerstown|Badgerstown]]  |  [[mtr_letsplay:turtlebay|Turtle Bay]]  |
 |  @#FFC917: **Intercity**  |  500  |  15 minutes  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal^]]  |  [[mtr_letsplay:banksia|Banksia^]]  |
 |  @#FFC917: **Intercity**  |  860  |  15 minutes  |  [[mtr_letsplay:baymain|Bay Main]]  |  [[mtr_letsplay:banksia|Banksia]]  |
@@ -56,30 +58,33 @@ Attention! In 2025, at the completion of the Western Mainline as projected, a ne
 |  [[mtr_letsplay:fryskeline|Fryske Line]]  |  Operational  |  [[mtr_letsplay:hylkemare|Hylkemare]]  |  [[mtr_letsplay:royalpark|Kallos Royal Park]]  |
 |  [[mtr_letsplay:riverinaline|Riverina Line]]  |  Partially Operational  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |  [[mtr_letsplay:collinsstreet|Albury Collins Street]]  |
 |  [[mtr_letsplay:westernmainline|Western Mainline]]  |  Partially Operational  |  [[mtr_letsplay:denhofcentraal|Den Hof Centraal]]  |  [[mtr_letsplay:gapyeong|Gapyeong]]  |
+|  [[mtr_letsplay:northwesternline|Northwestern Line]]  |  Unbuilt  |  [[mtr_letsplay:einsburgcentral|Einsburg Central]]  |  KDBR Airport (to be renamed)  |
 
 ===== Fleet =====
 |  @#B0B0BE:**Vehicle Type**  |  @#B0B0BE:**Vehicle Model**  |  @#B0B0BE:**Vehicle Length**  |  @#B0B0BE:**Operating on**  |  @#B0B0BE:**Depot Location**  |
-|  Bus     |  VDL Citea LLE-120  |    |  RNET Bus 393  |  Leeton Bus Shed  |
-|  Light Rail  |  LIGHTACE 1999T\\ //Mat '99//  |    |    |    |
-|  Light Rail  |  Metrocar\\ //Mat '77//  |    |    |    |
+|  Bus  |  VDL Citea LLE-120  |    |  R-net Bus 365\\ R-net Bus 370\\ R-net Bus 393  |  Gapyeong Bus Garage  |
+|  Light Rail  |  Sound Transit S700  |    |    |    |
+|  Light Rail  |  RRG Class 392  |    |    |    |
+|  Metro  |  Metrocar\\ //Mat '77//  |    |    |    |
+|  Metro  |  LIGHTACE 1999T\\ //Mat '99//  |    |    |    |
 |  Metro  |  RRG Class 762\\ //Mat '21//  |    |    |    |
-|  Metro  |  BVG Class H  |    |    |    |
-|  Metro  |  Amsterdam M7  |    |    |    |
 |  Train  |  NSW Xplorer DMU  |  4 cars  |  5000  |  Yongchun Temporary  |
 |  Train  |  LCR Class 161  |  4 cars  |  5000  |  Yongchun Temporary  |
 |  Train  |  LCR Class 330  |  8 cars  |  4100  |  Den Hof Temporary  |
 |  Train  |  LCR Class 430  |    |    |    |
 |  Train  |  LCR Class 431  |    |    |    |
+|  Train  |  BR Class 321  |    |    |    |
 |  Train  |  BR Class 378  |  7 cars  |  4400  |  Den Hof Temporary  |
-|  Train  |  BR Class 508  |    |    |    |
 |  Train  |  BR Class 730  |  8 cars  |  4100  |  Den Hof Temporary  |
+|  Train  |  Urbanworker Class 778  |    |    |    |
 |  Train  |  Stadler FLIRT 3  |  12 cars  |  4100  |  Den Hof Temporary  |
 |  :::  |  :::  |  8 cars  |  4400  |  Den Hof Temporary  |
 |  :::  |  :::  |  2 cars  |  7800  |  Kallos Royal Park Depot  |
 |  :::  |  :::  |  4 cars  |  7900  |  :::  |
 |  :::  |  :::  |  2 cars  |  78500  |  Rykkam Sidings  |
 |  Train  |  NS VIRM  |  8 cars  |  500  |  Den Hof Temporary  |
-|  Locomotive  |  Vectron + Eurofirma  |    |    |    |
+|  Loco-Hauled  |  DCCR Class 51 + C36  |    |    |    |
+|  Loco-Hauled  |  Vectron + Eurofirma  |    |    |    |
 
 ===== Screenshots =====
 |{{mtr_letsplay:froastepoarte.png?1000|Froastepoarte Station}}|
