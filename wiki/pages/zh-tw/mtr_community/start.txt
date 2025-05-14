@@ -1,0 +1,14 @@
+====== MTR 社群 ======
+
+以下是所有社群頁面的清單。這些頁面與使用者、伺服器或資源包相關。欲了解更多信息，請務必閱讀[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|維基指南]]和[[https://wiki.minecrafttransitrailway.com/editing_guideline|編輯指南]]。
+
+===== 社群頁面 =====
+
+[[mtr_community:server:start|伺服器頁面]]
+
+[[mtr_community:staff:start|工作人員頁面]]
+
+[[mtr_community:contributors:start|貢獻者頁面]]
+
+[[mtr_community:builders:start|建築者頁面]]
+
