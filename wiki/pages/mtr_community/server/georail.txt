@@ -1,13 +1,70 @@
 ====== GeoRail ======
 
+{{:mtr_community:server:geologo_banner.png?1200x200|Logo of GeoRail on a banner}}
+
 **GeoRailways**, or just **GeoRail** for short, is a community MTR server that was created on the 1st of May, 2024 as a private server for a small community of a few builders which eventually grew to 15 members (excluding bots). After an issue with an member and a raid, the server was shut down and became invite only. The server was made public again on the 22nd of August, despite a prior vote indicating the members the server had at the time preferred the server to stay private and grow internally before opening to the public. The server corrupted at one point, which lead to the loss of the world. The server currently sports cities dotted around, and a generalised spawn area which is planned to connect to the other cities in due time.
 
-|  @#5960FF:<color #FFFFFF>**GeoRail overview**</color>  |
-| Owner: JustNoone |
-| Creation date: 01.05.2024 / Re-created: 15.06.2024 |
-| Server type: Fabric 1.20.1 |
-| Type: All styles |
-| Members (as of 25.09.2024): 195 (including bots), 187 |
-| Server slogan: **"MTR at its finest"** |
-|   |
+===== Our Wiki =====
 
+We do have an (WIP) wiki, which is accessible from this URL: [[https://georail.miraheze.org/wiki/Main_Page]]. It will be moved to the GeoRail[[https://geo.justnoone.eu/|website]] overtime.
+
+===== Logo changes =====
+
+|  @#dba81a:<color #FFFFFF>**Logo Changes**</color>  || @#dba81a:<color #FFFFFF>**Description of change**</color> |
+| 01.05.2024 - 01.01.2025 | {{ :mtr_community:server:georail.png?80 }} |  Original logo  |
+|  01.01.2025 - 01.05.2025  | {{ :mtr_community:server:georailnew.png?80 }} |  Simplified the logo.Fixed all inconsistencies as well as improved the colors.  |
+|  01.05.2025 - Now  | {{ :mtr_community:server:geologo_final_4x.png?80 }} |  Made the logo look more lively as well as new color scheme.  |
+
+As you might have seen, the logo got more round and vivid overtime. The logo also changes most of the times when there is a special international event going on, for example: Saint Patricks Day, in which the logo looked like this:
+
+{{:mtr_community:server:geologo_final_stpatricks_2x.png?200}}
+
+===== GeoRail areas =====
+
+The GeoRail server has a diversity of areas, featuring European, Asian and American styles.
+
+Some of them are; Damaia (Maintained by @Vitor2005_), Beekant (Maintained by @nicquelbay), Gmina Jachowice (Maintained by @justtnoone, also the owner of GeoRail), Tobolski Kraii (Тобольский край) (Maintained by @ddave_2911_). There are more which aren't listed for the sake of being concise. All of them are to be found on the Wiki.
+
+===== Bot =====
+
+GeoRail also features its own bot, which has functions of welcoming, tickets and moderation. The bot has been developed by a member and developer of the GeoRail server; @ba_azs.
+
+===== People =====
+(No particular order except for roles)
+
+|  @#4a3bd9:<color #FFFFFF>**Person**</color>  | @#4a3bd9:<color #FFFFFF>**Role**</color> |
+|  @#3bd965:<color #FFFFFF>**Manager**</color>  ||
+| JustNoone | Owner of the server |
+| Damián Salaba | Manager of the server, Event organizer |
+| Dave | Manager of the server |
+| ProbablyIdiot | Ex-Minecraft server owner, Manager |
+| TruckManiac | Manager of the server |
+| Vitor | Manager of the server, Event organizer, Supplier, GeoVision manager |
+|  @#e3225c:<color #FFFFFF>**Developer - Admin**</color>  ||
+| Balazs | Admin of the server, Developer of the GeoRail bot |
+| BootsXA | Admin of the server |
+| SzandorThe13Th | Admin of the server, MTR staff |
+|  @#c6e322:<color #000000>**Moderators**</color>  ||
+| BitOne | Moderator of the server |
+| Nicquelbay | Moderator of the server |
+| Pourlo | Moderator of the server |
+| Szafka | Moderator of the server |
+
+The wiki is under constant developement.
+
+
+========== SEARCHING TRANSLATORS ======
+
+We are searching translators for our website! We would need those following languages:
+
+🇮🇹 Italian,
+
+🇹🇷 Turkish,
+
+🇸🇪 Swedish,
+
+🇫🇮 Finnish,
+
+🇯🇵 Japanese,
+
+We would greatly appreciate the contributions, for more informations DM @justtnoone. Thank you!
