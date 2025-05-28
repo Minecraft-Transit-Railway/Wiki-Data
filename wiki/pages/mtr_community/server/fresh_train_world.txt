@@ -9,8 +9,8 @@
 This is the day the Discord server was created.
 )) |
 ^ Creator | Steff08 |
-^ Companies | 14 |
-^ Builders | 19 |
+^ Companies | 22 |
+^ Builders | 18 |
 ^ Moderators | 4 |
 
 </WRAP>
