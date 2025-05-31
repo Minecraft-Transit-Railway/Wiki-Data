@@ -9,7 +9,7 @@ To join our server you need to install some associated mods. They are distribute
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
 
 <code ->
-https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
+https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
   * Click the **Add Instance** button on the top-left corner.
@@ -25,7 +25,7 @@ https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
 
 <code ->
-https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
+https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
   * Click the **Instance** tab on the right, then click the **Import** button on the top-left corner.
