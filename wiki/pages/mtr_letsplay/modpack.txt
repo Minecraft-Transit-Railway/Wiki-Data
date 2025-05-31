@@ -36,23 +36,7 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <tabbox Minecraft Launcher>
 
-Setting it up on the official Mojang launcher is a bit more complicated. I'd recommend using one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
-
-Here are the steps to set it up on the official Mojang launcher if you prefer using it anyways:
-
-  * Download the [[https://fabricmc.net/use/installer/|Fabric Installer]] and install Fabric Loader for Minecraft 1.19.2.
-  * Start the Minecraft Installer, go to "Minecraft: Java Edition", and select the "Installations" page.
-  * Find the "fabric-loader-1.19.2" installation. If you needs to change its "Game Directory", change it now. You can also rename it to your preference.
-
-  * Click on the folder button to open its game directory. Download [[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/packwiz-installer.zip|This ZIP archive containing JARs for Packwiz-Installer]], and extract the JARs into this game directory. They need to be in this directory, don't extract them into a sub-directory.
-  * Click the three-dots button besides this installation, select edit, and select "more options".
-  * Prepend the following text to "JVM arguments": \\ (Leave a space between the end of "toml" and the rest of the existing texts! Like: ...toml -Xmx, Not like: ...toml-Xmx)
-<code ->
--javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
-</code>
-  * Assigning 8 GiB or more to Java is recommended. To edit that, replace the "-Xmx*G" (for example -Xmx2G) part in the existing JVM arguments with "-Xmx8G" or more. \\ This is not "the more the better", you should consider the total amount of RAM installed on your computer and leave at least 4 GiBs to spare. (It is recommended to join with a computer with at least 16 GiBs of RAM.)
-
-  * Get back to the Installations screen, and click the Play button next to this installation. Wait a bit and you'll see a window like this:
+It is no longer the policy of the Minecraft Transit Railway Let's Play Support Team to support setting up the instance through the vanilla official Mojang launcher. We recommend using one of the other launchers, such as PrismLauncher. It is easy to get used to, the download method is simple, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**. Should you chose to use the vanilla official Mojang launcher, it is your perogative to set it up on your own.
 
 
 
