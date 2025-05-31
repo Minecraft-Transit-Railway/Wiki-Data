@@ -22,6 +22,8 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <tabbox ATLauncher> 
 
+You must own a genuine Minecraft account purchased from Mojang to join our server. Offline ("cracked") login is not supported and won't work.
+
 The following instructions will involve copying and pasting a link into your launcher. You can copy that link here:
 
 <code ->
@@ -36,7 +38,9 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <tabbox Minecraft Launcher>
 
-It is no longer the policy of the Minecraft Transit Railway Let's Play Support Team to support setting up the instance through the vanilla official Mojang launcher. We recommend using one of the other launchers, such as PrismLauncher. It is easy to get used to, the download method is simple, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**. Should you chose to use the vanilla official Mojang launcher, it is your perogative to set it up on your own.
+It is no longer the policy of the Minecraft Transit Railway Let's Play Support Team to support setting up the instance through the vanilla official Mojang launcher. We recommend using one of the other launchers, such as PrismLauncher. It is easy to get used to, the download method is simple, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**. Should you choose to use the vanilla official Mojang launcher, it is your prerogative to set it up on your own.
+
+Also, you must own a genuine Minecraft account purchased from Mojang to join our server. Offline ("cracked") login is not supported and won't work.
 
 
 
@@ -48,9 +52,9 @@ It is no longer the policy of the Minecraft Transit Railway Let's Play Support T
 
 <tabbox Curseforge / Others>
 
-It's recommended to use one of the other launchers, such as PrismLauncher. It's sorta easy to get used to, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**.
+We recommend using one of the other launchers, such as PrismLauncher. It is easy to get used to, the download method is simple, and it's free and open-source. You can **[[https://prismlauncher.org/download/|get PrismLauncher here]]**. Should you choose to use the Curseforge launcher or other third party launchers, it is your prerogative to set it up on your own.
 
-Also, you must own a geniune Minecraft account purchased from Mojang in order to join our server. Offline ("cracked") login is not supported and won't work.
+Also, you must own a genuine Minecraft account purchased from Mojang to join our server. Offline ("cracked") login is not supported and won't work.
   
 </tabbox>
 
