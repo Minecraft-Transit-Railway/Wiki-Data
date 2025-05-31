@@ -8,7 +8,7 @@ Let's Playサーバー(以下LPS鯖)に参加するには、関連する MOD を
    * 左上隅にある **起動構成の追加** ボタンをクリックします。
    * 上にある入力欄に任意の名前とグループ名を入力します。
    * 左側の **インポート** をクリックし、　右側の入力欄に下記のリンクを貼り付けます。 そして、**OK**をクリックします。
-   <code ->https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip</code>
+   <code ->https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip</code>
    *メモリは約6GB以上割り当てることをお勧めします。 メモリ割り当てを変更するには、作成した起動構成を選択し、右側の**編集**をクリックし、左側の**設定**を選択して、**メモリ**チェックボックスにチェックを入れ、**最大メモリ割り当て**を6000MB以上に設定します。 ただし大きすぎると<color #ed1c24>**PCの動作に影響を及ぼす恐れがあるため**</color>、PC に搭載されているメモリサイズを考慮し、搭載しているメモリのうち4GB分(約4000MB)を残して割り当てる必要があります。 (少なくとも16GBのメモリを搭載したPCで参加することをお勧めします。)
    * 作成した起動構成をダブルクリックして起動させます。少し待つと、後述するウィンドウが表示されます。
 
@@ -19,29 +19,9 @@ Let's Playサーバー(以下LPS鯖)に参加するには、関連する MOD を
    * 右側の **Instance** タブをクリックし、左上隅にある **Import** ボタンをクリックします。
    * **URL:**の横の入力欄に下記のリンクを貼り付け、**Import**をクリックします。
    <code ->
-   https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/MTR-LetsPlay.zip
-   </code>
+   https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip</code>
    *作成したInstanceの**Play**ボタンをクリックして起動させます。少し待つと、後述するウィンドウが表示されます。
 
-
-
-<tabbox 公式Minecraftランチャー>
-
-公式のMinecraftランチャー(以下公式ランチャー)での設定は導入手順が複雑です。 PrismLauncherなどの他のランチャーを使用することをお勧めします。 
-
-どうしても公式ランチャーを使用したい場合に、公式ランチャーでセットアップする手順は次のとおりです。
-
-   * [[https://fabricmc.net/use/installer/|Fabric Installer]]をダウンロードし、Minecraft 1.19.2のFabric Loaderをインストールします。
-   * Minecraftランチャーを起動し、**Minecraft: Java Edition**に移動し、起動構成ページを選択します。
-   * インストールした**fabric-loader-1.19.2**を見つけます。 .minecraft以外の**ゲームディレクトリ**を指定する場合は場合はこの段階で指定します。 任意で名前を入力します。
-   * フォルダーボタンをクリックして、ゲームディレクトリを開きます。 [[https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/packwiz-installer.zip|Packwiz-Installer のJARファイルを含むZIPファイル]] をダウンロードしJARファイルをゲームディレクトリに移動します。 これらはゲームディレクトリ直下に存在する必要があります。サブディレクトリには移動しないでください。
-  * インストールした起動構成の横にある**「…」**をクリックし、プルダウンから**編集**を選択し、**その他のオプション**を選択します。
-  * 下記のテキストを**JVM引数**の**先頭**に追加します: \\ (「toml」の終端と残りの既存のテキストの間には**半角スペースを入れてください！** OK: ...toml -Xmx、NG: ...toml-Xmx)
-<code ->
--javaagent:packwiz-installer-bootstrap-wrapper.jar=https://minecraft-transit-railway.github.io/LetsPlay-Packwiz/pack.toml
-</code>
-  *メモリは約6GB以上割り当てることをお勧めします。メモリ割り当てを変更するには、JVM引数の**-Xmx*G**(-Xmx2G など) の部分を**-Xmx6G**以上に置き換えます。  ただし大きすぎると<color #ed1c24>**PCの動作に影響を及ぼす恐れがあるため**</color>、PC に搭載されているメモリサイズを考慮し、搭載しているメモリのうち4GB分(約4000MB)を残して割り当てる必要があります。  (少なくとも16GBのメモリを搭載したPCで参加することをお勧めします。)
-  * **起動構成**画面に戻り、起動構成の横にある **プレイ**をクリックして起動させます。少し待つと、後述するウィンドウが表示されます。
 
 <tabbox その他のランチャー>
 
