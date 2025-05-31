@@ -5,35 +5,36 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
 ==== Issues & Bugs ====
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in that case)
-  * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Boardable)
-  * F3+T when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
+  * F3+T/lagging when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
   * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
-  * Clearing a depot's vehicle while onboard the train will cause the train to continue persist until the player gets off
   * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
-  * Track signals would get cleared if edited with a brush
   * Exception/Crash when loading rail model which points to an non-existent file
-  * Built-in R-train is lacking some interior model
+  * Built-in R-train is lacking some interior decoration
+  * Sometimes certain train will be completely silent, then become normal again after riding the train for a period of time
+  * F5-ing 2 times may result in the train rendering with the wrong rotation
+  * Rail model may occasionally flicker with a dimmed color.
 
-==== QOL/Low Priority ====
+==== Non-blocking issues/bugs ====
 
   * Train announcement still gets played even when in-game sound volume is 0
-  * The model of the player riding train would shake when in F5, while the train render smoothly.
+  * Occlusion culling might be slow, causing trains & tracks to take a longer amount of time to show up (And train/tracks suddenly appearing out of nowhere)
+  * BVE sound would get stuck if the train got occlusion culled
 
 ==== Unconfirmed/Untested issues/bugs ====
 
-  * Sometimes certain train will be completely silent?
-  * Redstone sensors reportedly not working
-  * Some mod/environment combination would result in train getting speed up with shaders enabled
+  * Some specific mod/environment combination would result in train getting speed up with shaders enabled
+  * Train always open door when stopped with PSD/Platform block, even if it's not a stop in the route (Unconfirmed if fixed or not)
+  * Elevator Lift Door only opens half-way
 
 ==== Unimplemented Features ====
 
-  * Manual driving (To be reworked after MTR 4.0)
   * Ding Sounds in Elevator
   * Single Arrival Vertical PIDS
+  * Scripting functionalities from Nemo Transit Expansion for MTR 3 (NTE)
 
 ==== Shader Compatibility ====
 
-Some of the known problematic shaders are listed below (MTR 4.0.0 beta.16):
+Some of the known problematic shaders are listed below (as of MTR 4.0.0 beta.16):
 
 | **Shaders** | **Issues with MTR** |
 | Kappa v5.2 | Semi-transparent texture (i.e. Cyan Glass in SP1900) is washed out |
