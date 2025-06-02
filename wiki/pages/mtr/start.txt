@@ -14,6 +14,10 @@ This [[/getting_started|text tutorial]] or [[https://www.youtube.com/playlist?li
 
 Head over to the [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth page]] or [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge Page]] to download the mod or to see the project information.
 
+===== Troubleshooting =====
+
+Mod is not working? Check out the [[mtr:troubleshooting|Troubleshooting]] page to see common issues and how to resolve them!
+
 ===== Version History =====
 
   * [[mtr:3.0.X| V3.0.X]]
