@@ -1,0 +1,16 @@
+FIXME This page is yet to be complete!
+
+====== Troubleshooting ======
+
+This page lists common issues with people either installing or using their mod, which may lead to incorrect behavior or game crash.
+
+===== Route Map is showing a black image =====
+
+This may be due to your GPU not being able to handle displaying such a high resolution image, tuning the resolution down by following the steps below may help:
+
+  - Go into a world
+  - Obtain an [[mtr:dashboards|MTR Dashboard]] item
+  - Right click on the dashboard
+  - Click the **Options...** button at the bottom right
+  - Find the **Dynamic Resolution** entry and turn the slider down
+
