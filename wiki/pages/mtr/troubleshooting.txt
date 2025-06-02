@@ -4,6 +4,12 @@ FIXME This page is yet to be complete!
 
 This page lists common issues with people either installing or using their mod, which may lead to incorrect behavior or game crash.
 
+===== My game is crashing on launch =====
+
+If you are using MTR 4, make sure that all the MTR addon mods you are using is compatible with MTR 4.
+
+A notable case is the **Nemo Transit Expansion (MTR-NTE/NTE)** addon mod which has **NOT** been updated to MTR 4. Note that MTR 4 already integrated much of NTE's functionality (Such as optimization/OBJ rendering/Decoration Block), with the exception of **Scripting** and a few other cosmetic blocks.
+
 ===== Route Map is showing a black image =====
 
 This may be due to your GPU not being able to handle displaying such a high resolution image, tuning the resolution down by following the steps below may help:
