@@ -7,7 +7,7 @@
 |  @#900000:  <color white>**Overview**</color>  ||
 | **Creator** | [[mtr_community:staff:dragon|Aecth Thean]] |
 | Trains | +30 |
-| **Latest Version** | 2.0.0 |
+| **Latest Version** | 2.3.0 |
 | **Initial Release** | October 5th, 2022 |
 | **Download** | [[https://modrinth.com/resourcepack/dragon_railway|Modrinth]] |
 | **Compatable With** | 3.2.2 for V1.2, 4.0.0 for V1.3 and later |
@@ -96,6 +96,23 @@ The Class 15 is a Diesel-Mechanical Locomotive manufactured by LACB Between 1983
 
 The Class 16 is a Diesel-Electric Locomotive manufactured by Ra'av Rail Group between 2006 and 2009 for Sherak Freight. These units have a top Speed of 120 km/h, and mostly run Regional and Local Freight trains.
 
+===== Class 33 =====
+
+<WRAP right>
+
+^ **PäRail Class 33** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1952-1956 |
+| **Manufacturer** | LACB |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | C'C' |
+| **Power Output** | 4000 Horsepower |
+| **Service Life**  | 1953-2025 |
+
+</WRAP>
+
+The Class 33 was a Diesel-Mechanical Locomotive manufactured by LACB between 1952 and 1956 as Part of MR phasing out Steam. They replaced Steam on Intercity lines in 1955. They had a Top speed of 120 km/h. They were slowly replaced by the Class 54 and Class 67. After being taken out of PNR’s Fleet, they were sent to SETN. Where they would spend the last few years of service while the Class 222 was being manufactured. Units 33034 and 33057 were sent to PäRail Engineering to power the ‘Ítràcrän’ (The Yellow Train).
+
 ===== Class 51 =====
 
 <WRAP right>
@@ -172,6 +189,22 @@ The Class 57 'HS200' is a Diesel-Electric High-Speed Rail Locomotive manufacture
 
 The Class 67 'Universal Locomotive' is a Diesel-Electric Locomotive manufactured by DCCR between 1967 and 1970 for Mūñkskaki Railways' Central-Southern Region Express Trains. They have a Top speed of 160 km/h. During their Stint on JNA, they were Refreshed. Eventually ending with their Withdrawal in 2019, but in 2020, they Re-entered Service on the Lake City C.
 
+===== Class 71 =====
+
+<WRAP right>
+
+^ **PäRail Class 71** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1971-1977 |
+| **Manufacturer** | ZRMC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 1972- |
+
+</WRAP>
+
+The Class 71 'InterCity Electric' is an Electric Locomotive manufactured by ZRMC Between 1971 and 1977 For MR's Intercity Services. They were later transferred to PäRail when it was formed in 1995. They are currently being withdrawn, and some units are being added to the Lake City Metro C Network.
+
 ===== Class 72 =====
 
 <WRAP right>
@@ -238,11 +271,27 @@ The Class 79 'Frontier 3' is an Express Electric Locomotive manufactured by Selm
 
 The Class 85  is an Electric Locomotive manufactured by Hòstín Train Manufacturing Center (HTMC) between 1992 and 1997 for Mūñkskaki Railways, and later, PäRail. They had a Short Service life on Interstate Passenger trains before being Put on Long-Distance Freight. They have a Top speed of 160 km/h.
 
-===== Class 94 =====
+===== Class 90 =====
 
 <WRAP right>
 
-^ **PäRail Class 94** ^ ::: ^
+^ **PäRail Class 90** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1972-1976 |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 200 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | 1973- |
+
+</WRAP>
+
+The Class 90 'HS200' is an Electric Locomotive Manufactured by RRMC between 1972 and 1976. They are a Variant of the D392 Intercity Locomotives. They have a Top speed of 200 km/h, and were used in MR's Intercity Trains. In 1988, They were Retrofitted with 3rd Rail Contact Shoes and given an additional Green Stripe. In 1995, they started to slowly be removed from High Speed Trains on PRL in favor for the Class 96. They are still occasionally in use today, but mostly on High Speed Freight Trains alongside the Class 85. Though they are begining to be phased out in favor for the Class 834.
+
+===== Class 92 =====
+
+<WRAP right>
+
+^ **PäRail Class 92** ^ ::: ^
 |  {{:mtr_extra:parail_1_0_1.png?250}}  ||
 | **Manufactured** | 1975-1981 |
 | **Manufacturer** | Mevrik |
@@ -252,7 +301,39 @@ The Class 85  is an Electric Locomotive manufactured by Hòstín Train Manufactu
 
 </WRAP>
 
-The Class 94 is a Tri-Mode Electric Locomotive in 3 parts. It was Manufactured by Mevrik between 1975 and 1981 as a Replacement for the Class 67. They are Paired with the matching C404 Coaches. The 'A' Unit provides Head-End Power, a Front Cab, and Electric Equipment. The 'B' Unit has the Prime Mover. And the 'C' Unit has a Rear Cab, and Baggage area.
+The Class 92 is a Tri-Mode Electric Locomotive in 3 parts. It was Manufactured by Mevrik between 1975 and 1981 as a Replacement for the Class 67. They are Paired with the matching C404 Coaches. The 'A' Unit provides Head-End Power, a Front Cab, and Electric Equipment. The 'B' Unit has the Prime Mover. And the 'C' Unit has a Rear Cab, and Baggage area.
+
+===== Class 93 =====
+
+<WRAP right>
+
+^ **PäRail Class 93** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2019- |
+| **Manufacturer** | Mevrik |
+| **Top Speed** | 300 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | 2020- |
+
+</WRAP>
+
+The Class 93 'HS300' is a Dual-Mode High Speed Locomotive manufactured by Mevrik between 2019 and Today as a Replacement for the Class 96. The Trainset was designed in Cooperation with KTRC, who made the accompanying C55 Coaches. The unit has a Top Speed of 300 km/h. They also have an ability to run under Diesel Power with a Top speed of 200 km/h.
+
+===== Class 94 =====
+
+<WRAP right>
+
+^ **PäRail Class 94** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2025- |
+| **Manufacturer** | KTRC |
+| **Top Speed** | 200 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | Entry in 2026 |
+
+</WRAP>
+
+The Class 94 is a Tri-Mode Electric Locomotive Manufactured by KTRC Between 2025 and Today as a Successor to the Class 92. The 3 Section design remained. The ‘A’ Unit provides Power to the Coaches and Has the Pantograph for 25kV 60Hz AC. The ‘B’ Unit provides the Diesel Power, and the ‘C’ Unit provides a space for Baggage. All 3 Units have Contact Shoes for 750V and 600V DC Electrification.
 
 ===== Class 96 =====
 
@@ -270,6 +351,23 @@ The Class 94 is a Tri-Mode Electric Locomotive in 3 parts. It was Manufactured b
 
 The Class 96 'HS200' is a High-Speed Electric Locomotive manufactured by Selmarã Railnet between 1991 and 2001. They were Designed for High-Speed Trains, with a Top speed of 200 km/h. They were Supplemented by the Class 801 in 2015.
 
+===== Class 133 =====
+
+<WRAP right>
+
+^ **PäRail Class 133** ^ ::: ^
+|  {{:mtr_extra:145.png?250|}}  ||
+| **Manufactured** | 1988-1991 |
+| **Manufacturer** | Darmosat |
+| **Top Speed** | 80 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | 1989- |
+| **Train Length** | 1 Coach |
+
+</WRAP>
+
+The Class 133 'SuperShuttle' is a Diesel Railcar manufactured by Darmosat Between 1988 and 1991. They have a top speed of 80 km/h, and are used on Shuttle Services on the CSR Network.
+
 ===== Class 145 =====
 
 <WRAP right>
@@ -286,7 +384,6 @@ The Class 96 'HS200' is a High-Speed Electric Locomotive manufactured by Selmar�
 </WRAP>
 
 The Class 145 was a Diesel Railcar manufactured by ZRMC between 1970 and 1982. It was a Cheep commuter Train for the Eastern Routes of the MR Network. It was then Transferd to PNR, and later, SETN. They were then Withdrawn
-
 
 ===== Class 155 =====
 
@@ -373,6 +470,40 @@ The Class 222 is a Diesel-Electric Multiple Unit manufactured by Selmarã Railne
 
 The Class 301 'Mark 2' is an Electric Multiple Unit manufactured by LACB for Mūñkskaki Railways' Eastern Region between 1957 and 1960 to Replace Steam Traction, and It has a Top speed of 120 km/h. It was Replaced by Much newer trains when the Hàlí Railroad took over in 1993, and Fully Withdrawn in 2000. But the 24 units that Survived did receive new Life on the National Rail Network, when PNR took Ownership, and Refurbished them for the Central Network Commuter line in 2010.
 
+===== Class 312 =====
+
+<WRAP right>
+
+^ **PäRail Class 312** ^ ::: ^
+|  {{:mtr_extra:2025-02-27_17.51.10.png?250}}  ||
+| **Manufactured** | 1996-1998 |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | 1997- |
+| **Typical Train Length** | 6 Coaches |
+
+</WRAP>
+
+The Class 312 ‘Modular EMU’ is a C35 Derived Electric Multiple Unit manufactured by RRMC Between 1996 and 1998. Though they usually are assembled in 4 Coach Sets, They can be reassembled to a service’s needs. They are used by HRR and JNA Commuter Services, as well as a Unique Version for TriMet Rail Services. It was designated as the G492 on the RodanïRoad.
+
+===== Class 331 =====
+
+<WRAP right>
+
+^ **PäRail Class 331** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1997-2001 |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 1998- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 331 'Tares' is an Electric Multiple Unit manufactured by Lukälle Jöhnbëhnwöhkre at CVR Works. the trains were built for operations all across the Country betwwen 1997 and 2001. The trains have a top speed of 160 km/h. The /0 Variant is used on PNR, the /1 Variant was used on HRR and Later, SETN, the /2 Variant was used on JNA, and the /3 Variant is used on SER. The /1 and /3 have the ability to use 3rd Rail via A Contact Shoe.
+
 ===== Class 332 =====
 
 <WRAP right>
@@ -389,6 +520,23 @@ The Class 301 'Mark 2' is an Electric Multiple Unit manufactured by LACB for Mū
 </WRAP>
 
 The Class 332 'Southern Star' is an Electric Multiple Unit manufactured by the Rodani Rail Manufacturing Center for CVR between 2006 And 2009. It's a Standard Guage Variant of the RodaniRail Type 595, and has a Top speed of 160 km/h. It is used on CVR's Flagship train as it's main Rolling Stock.
+
+===== Class 336 =====
+
+<WRAP right>
+
+^ **PäRail Class 336** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2018- |
+| **Manufacturer** | SRC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | Bo'-Bo' |
+| **Service Life**  | 2019- |
+| **Typical Train Length** | 5-6 Coaches |
+
+</WRAP>
+
+The Class 336 'K42' Is an Electric Multiple Unit manufactured by SRC Between 2018 and Today. They are used on Suburban Routes on the Jòñòt National Associates. They were designed to Supplement the Class 331 units. They have a top speed of 160 km/h, and has 2 Variants. The Class 336/0 is a 5 Coach unit used on Suburban routes, and the Class 336/3 is a 6 Coach Unit used on Commuter routes.
 
 ===== Class 347 =====
 
@@ -509,6 +657,40 @@ The Class 381 'IntraLink' is an Electric Multiple Unit manufactured by KTRC betw
 
 The Class 387 'Cityliner' is a Bilevel Electric Multiple Unit manufactured by Mevrik between 1988 and 1993. They are used all across the TWR Network, Especially on high Demand lines. They have a Top Speed of 160 km/h.
 
+===== Class 392 =====
+
+<WRAP right>
+
+^ **PäRail Class 392** ^ ::: ^
+|  {{:mtr_extra:387.png?250}}  ||
+| **Manufactured** | 2018 |
+| **Manufacturer** | RRG |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'+B'+B' |
+| **Service Life**  | 2019- |
+| **Typical Train Length** | 5 Coaches |
+
+</WRAP>
+
+The Class 392 'Transverse' is a Tram-Train manufactured by RRG Between 2018 and Today. They are designed to operate on Tram Networks, and switch to Heavy Rail Networks. They are able to run on 1.5 kV DC and 25 kV 60 Hz AC. They come in 5 Coach sets and have a Top speed of 120 km/h. But are Limited to 80 km/h when on Roads. They also have Low-Floor Boarding. They operate on SETN Tramlink and HRR Light Metro Lines.
+
+===== Class 393 =====
+
+<WRAP right>
+
+^ **PäRail Class 393** ^ ::: ^
+|  {{:mtr_extra:387.png?250}}  ||
+| **Manufactured** | 2019- |
+| **Manufacturer** | Mevrik |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'+B'+B' |
+| **Service Life**  | 1990- |
+| **Typical Train Length** | 5 Coaches |
+
+</WRAP>
+
+The Class 393 'Transverse' is a Tram-Train manufactured by RRG Between 2019 and Today. They are designed to operate on Tram Networks, and switch to Heavy Rail Networks. They are able to run on 1.5 kV DC and 25 kV 60 Hz AC. They come in 5 Coach sets and have a Top speed of 120 km/h. But are Limited to 80 km/h when on Roads. They operate on CVR Tramway Routes.
+
 ===== Class 416 =====
 
 <WRAP right>
@@ -578,6 +760,40 @@ The Class 426 'Type D' is an Electric Multiple Unit manufactured by Urbanworker 
 
 The Class 454 'Urbanworker 1' is an Electric Multiple Unit manufactured by Urbanworker between 1994 and 1997. This train is used by PNR on its Southeast Lines. 
 
+===== Class 488 =====
+
+<WRAP right>
+
+^ **PäRail Class 454** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 1987-1993 |
+| **Manufacturer** | Urbanworker LLC |
+| **Top Speed** | 80 km/h |
+| **Wheel Arrangement** | B'B' |
+| **Service Life**  | 1988- |
+| **Typical Train Length** | 4 Coaches |
+
+</WRAP>
+
+The Class 488 'Urbanworker Metro' is an Electric Multiple Unit manufactured by Urbanworker between 1987 and 1993. They were built for Metro networks across the SER Network. They are one of the few Trains equiped with MCH-45 Couplers, and have a top speed of 80 km/h.
+
+===== Class 553 =====
+
+<WRAP right>
+
+^ **PäRail Class 454** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2015-2023 |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'+B'+B' |
+| **Service Life**  | 2016- |
+| **Typical Train Length** | 3 Coaches |
+
+</WRAP>
+
+The Class 553 'G441' is an Electric Multiple Unit manufactured by Rodani Rail between 2015 and 2023 for PNR's Nerkden and Elston Railway. They were Designed as 3 Coach Articulated sets due to the short Platforms. They come Equiped with Rack Railway equipment in order to Traverse the Steep grades in the Eastern parts of the Railway. They also have the ability to be Automatically Controlled via CBTC. The units have a Top speed of 120 km/h.
+
 ===== Class 605 =====
 
 <WRAP right>
@@ -612,6 +828,23 @@ The Class 605 is an Automated Electric Railcar manufactured by Khammnos between 
 
 The Class 658 'Highpoint III' is an Electric Multiple Unit manufactured by Selmarã Railnet between 1995 and 1997. They are used on HRR and CSR Services, with One train on PNR's University Express.
 
+===== Class 725 =====
+
+<WRAP right>
+
+^ **PäRail Class 725** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2024- |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'B'+B'B' |
+| **Service Life**  | 2025- |
+| **Typical Train Length** | 2 Coaches((in Sets of 4)) |
+
+</WRAP>
+
+The Class 725 ‘Modular EMU Mark 2’ is a Tri Mode Electric Multiple Unit manufactured by RRMC Between 2024 and Present day. Based on the G331, these Trains have a Top speed of 160 km/h. They are used on PäRail, PCMA CityLink, TriMet, HRR, LCM C, HRR, and PNR. They usually are in 4 Units of 2 cars, Each unit has an A End, and a B End.
+
 ===== Class 728 =====
 
 <WRAP right>
@@ -645,6 +878,23 @@ The Class 728 'Urbanworker 3' is an Electric Multiple Unit manufactured by Urban
 </WRAP>
 
 The Class 732 'Double Decker Mark 4' is a Bilevel Electric Multiple Unit manufactured by RRMC between 2000 and 2005. It is used on Hàlí Railroad's Commuter and High-Dencity Lines. It has a Top speed of 120 km/h
+
+ ===== Class 757 =====
+
+<WRAP right>
+
+^ **PäRail Class 732** ^ ::: ^
+|  {{:mtr_extra:parail_1_0_1.png?250}}  ||
+| **Manufactured** | 2025- |
+| **Manufacturer** | RRMC |
+| **Top Speed** | 160 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | Entry in 2026 |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 757 ‘M39’ is a C36 Derived Electric Multiple Unit manufactured by SRC Between 2025 and Present. They are designed to be interoperable with the C36 coaches. They have a top speed of 160 km/h, and are used on PRL Regional Services. They are replacing the Class 312.
 
 ===== Class 760 =====
 
@@ -696,6 +946,23 @@ The Class 761 'Camtoran' is an Electric Multiple Unit manufactured by RRG Betwee
 </WRAP>
 
 The Class 762 'Navtara' is an Electric Multiple Unit manufactured by RRG between 2021 and Today. It's used on Urban Trains on PNR, HRR, and JNA. It has a Top Speed of 120 km/h.
+
+===== Class 771 =====
+
+<WRAP right>
+
+^ **PäRail Class 771** ^ ::: ^
+|  {{:mtr_extra:2025-02-27_18.11.36.png?250}}  ||
+| **Manufactured** | 2024- |
+| **Manufacturer** | CVR Works |
+| **Top Speed** | 120 km/h |
+| **Wheel Arrangement** | B'-B' |
+| **Service Life**  | 2025- |
+| **Typical Train Length** | 8 Coaches |
+
+</WRAP>
+
+The Class 771 'Lark' is a Dual Mode Multiple Unit manufactured by CVR Works between 2024 and Today. It is used across The CVR Intercity, TWR Intercity and Metro, And HRR Intercity and Metro Lines. They have a Top speed of 120 km/h. They were designed to Replace the Class 348 and 354.
 
 ===== Class 773 =====
 
