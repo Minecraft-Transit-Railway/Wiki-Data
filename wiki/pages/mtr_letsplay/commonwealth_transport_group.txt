@@ -48,133 +48,100 @@ CTG have several subsidiaries by region and theme, and the list is as follows.
 
 * Northern Trains
 
-* Argenti West Coast (Co-owned with szandor)
+* Eurostar (Co-owned with szandor)
 
 * Transport for West Midlands (Co-owned with szandor)
 
-* KTT (Co-owned with strongerlock)
+* KTT (Co-owned with strongerlock, Tea)
 
 * Crosscountry (Co-owned with electrostarjudge)
 
 ===== Services =====
 
-**Mainline Intercity Service**
-
-Argenti West Coast 🤝 🟠🛠️
-🔴 (Oxenholme ~ Den Hof is not opened to public yet)
-
-Crosscountry 🤝🟡🛠️
-
-KTT 🤝🟡🛠️
-
-ITX Cheongchun 🟠🛠️
-
-ITX Maum 🟠🛠️
+|  @#0054A6: <color #FFFFFF>**Service Type**</color>  |  @#0054A6: <color #FFFFFF>**Service name**</color>  |  @#0054A6: <color #FFFFFF>**Operator**</color>  |  @#0054A6: <color #FFFFFF>**Status**</color>  |  @#0054A6: <color #FFFFFF>**Note**</color>  |
+|  HSR/Intercity  |  Eurostar  |  Eurostar  |  In Operation (Partial)  |  Co-owned with szandor  |
+|  HSR/Intercity  |  KTX-EUM  |  Gyeongchun Railway  |  In Operation (Partial)  |  Former ITX Cheongchun  |
+|  HSR/Intercity  |  KTT  |  KTT  |  In Operation (Partial)  |  Co-owned with Stronger & Tea  |
+|  HSR/Intercity  |  Taebaek Line  |  Gyeongchun Railway  |  Ceased  |  Former ITX Maum  |
+|  HSR/Intercity  |  Crosscountry  |  Crosscountry  |  In Operation (Partial)  |  Co-owned with electrostar  |
+|  HSR/Intercity  |  Great Western  |  Great Western  |  WIP  |  Co-owned with electrostar  |
 
 
 **Regional / Commuter Rail**
-
-Gyeongchun Line 🟢
-
-Jungang Line 🟡
-
-Cross Natlan Line 🟡🛠️
-
-West Midlands Railway  🟢
-
-Northern Trains 🤝🟢🛠️
-
+Gyeongchun Line 🟡
+Jungang Line ⛔ 🛠️
+Airport & Natlan Line 🟡 🛠️
+West Midlands Railway  🟢 🛠️
+Northern Trains 🤝🟢
+First Great Western 🤝 ⛔ 🛠️
 
 **Rapid Transit / Light Rail**
-
-Sumeru-Fontaine Line 🔵
-
-Byeollae Line  🔵
-
-West Midlands Metro 🤝🟡🛠️
-
-Namyangju MRT 🔵
-
+Sumeru-Fontaine Line 🟢 (Manual Drive Available) (Siding locale: Elynas)
+Byeollae Line  🟢
+West Midlands Metro 🤝 🟡  🛠️
+Namyangju Metro 🟢
 
 **Ferry/Boat**
-
-Navia Ferry 🟢
-
-Callas Ferry 🟢
-
-Clementine Ferry 🟢
-
-Lemuria Ferry 🟢
-
-Nami Island Ferry 🔵
-
+Navia Ferry ⛔ 
+Callas Ferry ⛔ 
+Clementine Ferry ⛔ 
+Lemuria Ferry ⛔ 
+Nami Island Ferry 🟡
 Kangchon Ferry 🟢
-
-Abydos Ferry 🔵
-
-Dodo Ferry 🔵
-
-East San Ferry 🔵
-
-Nostalgia Ferry 🤝🟢
-
-Shrubland-Ichthus Ferry 🤝🟡🛠️
-
+Abydos Ferry 🟢 
+Dodo Ferry 🟢
+East San Ferry 🟢
+Nostalgia Ferry 🤝🟡
+Shrubland-Ichthus Ferry 🤝🟢
 
 **Miscellaneous**
-
 Chuncheon Bus 🟢
-
-GBus 🔵
-
+GBus (Namyangju) 🟢
 Samaksan Cable Car 🟢
-
-Chicken City Sky Cruise 🟢
-
+Chicken City Sky Cruise ⛔ 
 Namyangju Cable 🟢
-
-Elysian Cable/Chair 🟢
-
+Elysian Cable/Chair ⛔ 
 Byeollae Heritage Railway 🟢
-
-Nami Island Streetcar 🔵
+Nami Island Streetcar/Coaster 🟢
 
 ===== Fleet =====
 
-[[Crosscountry]] Fleet is not included in this chart, please move to Crosscountry page.
+[[Crosscountry]] Fleets are not included in this chart, please move to Crosscountry page.
 
 Some trains((class 805, 390, duck boat, taitung railcar)) have not migrated to mtr4 yet and the information and operational fleets within this chart are subject to change at any time.
 
 **Current/Proposed Fleet**
 
 |  @#0054A6: <color #FFFFFF>**Vehicle Type**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Model**</color>  |  @#0054A6: <color #FFFFFF>**Vehicle Length**</color>  |  @#0054A6: <color #FFFFFF>**Operating on**</color>  |  @#0054A6: <color #FFFFFF>**Note**</color>  |
-|  Bus  |  VDL Citea  |  1  |  Chuncheon Bus, Namyangju Bus  |  Made & added by  OTS&szandor  |
-|  Light Rail  |  Siemens S200 (Proposed)  |  2  |  West Midlands Metro  |  Made by Eric  |
-|  Light Rail  |  Siemens S700 (Proposed)  |  3~4  |  West Midlands Metro  |  Made by Jonathan  |
-|  Light Rail  |  Class 392  |  3~4  |  West Midlands Metro  |  Made by Ultimate-USA YT  |
-|  Metro  |  Tyne and Wear Metrocar  |  2  |  Namyangju MRT  |  Made & added by szandor  |
+|  Bus  |  VDL Citea  |  1  |  Chuncheon Bus, Namyangju Bus  |    |
+|  Light Rail  |  Siemens S200 (Proposed)  |  2  |  West Midlands Metro  |    |
+|  Light Rail  |  Siemens S700  |  3~4  |  West Midlands Metro  |    |
+|  Light Rail  |  Class 392  |  3~4  |  West Midlands Metro  |    |
+|  Metro  |  Tyne and Wear Metrocar  |  2  |  Namyangju MRT  |    |
 |  Metro  |  Alstom Metropolis  |  4  |  Sumeru-Fontaine Line  |    |
-|  Metro  |  Seoul Metro Series 1000 & 4000  |  6~10  |  Byeollae Line  |  Made & added by  Navi  |
-|  Commuter/Regional  |  Korail Class 312000 (Proposed)  |  8~10  |  Gyeongchun/Jungang Line  |    |
-|  Commuter/Regional  |  Sydney Trains B Set  |  8  |  Cross-Natlan Line  |    |
-|  Commuter/Regional  |  WMR Class 323  |  3, 6  |  West Midlands Railway  |  Made & added by  Navi  |
-|  Commuter/Regional  |  WMR Class 350  |  4, 8  |  West Midlands Railway  |  Made & added by  Navi  |
-|  Commuter/Regional  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway  |    |
-|  Commuter/Regional  |  WMR Class 153 (Proposed)  |  1~3  |  West Midlands Railway  |  
-|  Commuter/Regional  |  Northern Class 155 (Proposed)  |  1~3  |  Northern Trains  |  TBD, Original Model(153) by Navi  |
-|  Commuter/Regional  |  Northern Class 157  |  2, 4  |  Northern Trains  |  Original Model(153) by Navi  |
-|  Intercity/HSR  |  BR Class 43+Mark 3 (Proposed)  |  ?  |  Argenti West Coast  |    |
-|  Intercity/HSR  |  BR Class 802 NS Retexture  |  7  |  Argenti West Coast  |    |
-|  Intercity/HSR  |  BR Class 805  |  7  |  Argenti West Coast  |  Made & added by  Navi  |
-|  Intercity/HSR  |  KTT  |  6  |  KTT  |    |
-|  Intercity/HSR  |  Korail Class 368000  |  8  |  ITX Cheongchun  |    |
-|  Intercity/HSR  |  BR Class 802 Railjet Retexture  |  4  |  ITX Maum  |  Made by Electrostarjudge  |
-|  Intercity/HSR  |  BR Mark X Mugunghwa Retexture  |  7  |  ITX Maum  |    |
+|  Metro  |  Seoul Metro Series 1000 & 4000  |  6~10  |  Byeollae Line  |    |
+|  Metro  |  Korail Class 3000  |  6~10  |  Byeollae Line  |    |
+|  Commuter/Regional  |  Korail Class 312000  |  8~10  |  Gyeongchun/Jungang Line  |    |
+|  Commuter/Regional  |  Sydney Trains B Set  |  8  |  Airport & Natlan Line  |    |
+|  Commuter/Regional  |  WMR Class 323  |  3, 6  |  West Midlands Railway  |    |
+|  Commuter/Regional  |  WMR Class 350  |  4, 8  |  West Midlands Railway  |    |
+|  Commuter/Regional  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway, Airport & Natlan Line  |    |
+|  Commuter/Regional  |  WMR Class 153  |  1~3  |  West Midlands Railway  |  
+|  Commuter/Regional  |  Northern Class 153  |  1~3  |  Northern Trains  |    |
+|  Commuter/Regional  |  Northern Class 157  |  4  |  Northern Trains  |    |
+|  Commuter/Regional  |  Northern Class 158  |  2  |  Northern Trains  |    |
+|  Intercity/HSR  |  TGV TMST(Class 373)  |  10  |  Eurostar  |    |
+|  Intercity/HSR  |  BR Class 802 NS Retexture  |  7  |  Eurostar  |    |
+|  Intercity/HSR  |  KTT  |  7  |  KTT  |    |
+|  Intercity/HSR  |  Korail Class 150000(KTX-EUM)  |  8  |  KTX-EUM  |    |
+|  Intercity/HSR  |  BR Class 802 Railjet Retexture (Proposed)  |  4  |  Taebaek Line  |    |
+|  Intercity/HSR  |  BR Mark X Mugunghwa Retexture  |  7  |  Taebaek Line  |    |
 |  Intercity/HSR  |  Nightjet Eurofima Carriage (Proposed)  |  TBD  |  TBD  |    |
-|  Miscellaneous  |  Boat (Single & Double deck-Proposed)  |  1  |  Ferry Services  |  Made by Jonathan  |
-|  Miscellaneous  |  Duck Boat  |  1  |  Teyvat Ferry Services  |    |
-|  Miscellaneous  |  Star Ferry  |  1  |  Nami Island Ferry  |  Ported by Jonathan  |
-|  Miscellaneous  |  Ngong Ping 360  |  1  |  Cable Car Services  |  Made by Jonathan  |
+|  Miscellaneous  |  Boat (Single & Double deck)  |  1  |  Ferry Services  |    |
+|  Miscellaneous  |  Duck Boat (Proposed)  |  1  |  Teyvat Ferry Services  |    |
+|  Miscellaneous  |  Star Ferry (Proposed)  |  1  |  Nami Island Ferry  |    |
+|  Miscellaneous  |  Ngong Ping 360  |  1  |  Cable Car Services  |    |
+|  Miscellaneous  |  San Francisco Cable  |  1  |  Nami Island Streetcar  |    |
 
 **Past Fleet**
 
@@ -186,16 +153,19 @@ note: Trains in this list are not currently in use or are not subject to MTR4 mi
 |  Light Rail  |  Innovia Metro Mark 2  |  2  |  Namyangju MRT  |  |
 |  Metro  |  MBTA Blue Line Train  |  2  |  West Midlands Metro  |  |
 |  Metro  |  CTA 7000 Series  |  2  |  West Midlands Metro  |  |
-|  Metro  |  Seoul Metro Series 7000 & 8000  |  6~8  |  Byeollae/Cross Natlan Line  |  |
-|  Commuter/Regional  |  Korail Class 331000/361000  |  8  |  Gyeongchun/Jungang Line  |  |
+|  Metro  |  Seoul Metro Series 7000 & 8000  |  6~8  |  Byeollae/Airport & Natlan Line  |  |
+|  Commuter/Regional  |  Korail Class 331000  |  8  |  Jungang Line  |  |
+|  Commuter/Regional  |  Korail Class 361000  |  8  |  Gyeongchun Line  |  |
 |  Commuter/Regional  |  Sydney Trains A Set  |  8  |  Cross-Natlan Line  |  |
 |  Commuter/Regional  |  JR 211 Series  |  4  |  Sumeru-Fontaine Line  |  |
-|  Commuter/Regional  |  Northern Class 150  |  3  |  Northern Trains  |  TBD, Original Model(153) by Navi  |
-|  Commuter/Regional  |  Northern Class 170  |  3  |  Northern Trains  |  Original Model(153) by Navi  |
-|  Intercity/HSR  |  BR Class 390  |  9  |  Argenti West Coast  |  added by  Navi  |
+|  Commuter/Regional  |  Northern Class 150  |  3  |  Northern Trains  |  |
+|  Commuter/Regional  |  Northern Class 170  |  3  |  Northern Trains  |  |
+|  Intercity/HSR  |  BR Class 390  |  9  |  Argenti West Coast  |  |
+|  Intercity/HSR  |  BR Class 805  |  7  |  Argenti West Coast  |  |
+|  Intercity/HSR  |  Korail Class 368000  |  8  |  ITX Cheongchun  |  |
 |  Miscellaneous  |  KCR 1950 Carriage  |  3  |  Byeollae Heritage Railway  |  |
 |  Miscellaneous  |  JR Kiha 54 Series  |  3  |  Byeollae Heritage Railway  |  |
-|  Miscellaneous  |  Old Taitung Line Railcar  |  1  |  Nami Island Streetcar  |  Migration not decided  |
+|  Miscellaneous  |  Old Taitung Line Railcar  |  1  |  Nami Island Streetcar  |  |
 
 ===== Trivia =====
 
