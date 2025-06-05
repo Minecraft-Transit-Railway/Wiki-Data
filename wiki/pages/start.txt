@@ -3,6 +3,7 @@ Welcome to the MTR wiki!
 ===== Minecraft Transit Railway =====
 
   * [[mtr:start|Minecraft Transit Railway]] - Information about the mod itself
+    * Looking for information about MTR 4.0? [[mtr:4.0.x|Visit the 4.0 home page]]!
 
 ===== Extra Content =====
 
@@ -17,7 +18,7 @@ Welcome to the MTR wiki!
 ===== Multiplayer Servers =====
 
   * [[mtr_letsplay:start|Let's Play Server]] - the official server of the MTR mod
-    * Trying to download the modpack? Visit the [[mtr_letsplay:modpack|Let's Play Modpack]] page.
+    * Trying to download the modpack? Visit the [[mtr_letsplay:modpack|Let's Play Modpack]] page!
   * [[mtr_community:start|MTR Communities]] - the other community made servers, and more
 
 ===== Contributing to Wiki =====
