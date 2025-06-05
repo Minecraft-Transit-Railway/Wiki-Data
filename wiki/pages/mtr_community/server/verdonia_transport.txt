@@ -13,6 +13,7 @@
 | ::: | Chinese |
 | **Transport Operator** | Verdonia State Railway |
 | **Active lines** | 3 |
+| **Status**  | Private |
 </WRAP>
 
 ===== History =====
