@@ -2,7 +2,7 @@
 
 As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[https://youtu.be/xYEbU6G7jzo|significantly overhauled]]. When the Let's Play upgraded to MTR4, builders were able to utilise the new features to enhance the visitor experience on their lines and services. The Let's Play now has a number of lines that are able to be manually driven by visitors. Below is a list of lines and services that are able to be manually driven. The list will be updated as lines are added.
 
-<sup>The original version of the driving manual was compiled by JamesQQ</sup>
+<sup>The original version of the manual driving guide was compiled by JamesQQ</sup>
 
 ----
 
