@@ -1,0 +1,68 @@
+====== Verdonia Transport ======
+
+[[mtr_community:server:verdonia_transport|Verdonia Transport]] is a Minecraft Railway System that was started on the 3rd of June 2025 by Yannis.
+
+<WRAP right>
+|  @#04388B: <color #FFFFFF>**Verdonia Transport**</color>  ||
+| {{add image}} ||
+|  @#04388B: <color #FFFFFF>**Overview**</color>  ||
+| **Founder** | Yannis |
+| **Co-Founder** | EpicFlynn |
+| **Transit type** | Rail |
+| **Style/Inspiration** | European |
+| ::: | Chinese |
+| **Transport Operator** | Verdonia State Railway |
+| **Active lines** | 3 |
+</WRAP>
+
+===== History =====
+
+The founder (Yannis) started being passionate about trains around 2023. Since then, he has done many rail related activities. He slowly started becoming a huge rail enthusiast and started looking for something where he could fulfill his dream of driving trains and managing a railway. After he found the MTR mod, he began working. He never got too far, as he always quit after doing just one or two lines. But this time, he decided that he can not quit. He realised that he always quit due to being bored. So he found EpicFlynn and they started building.
+
+===== Operators =====
+{{:add image}} [[mtr_community:server:verdonia_transport#Verdonia_State_Railway|Verdonia State Railway]] 
+
+==== Verdonia State Railway ====
+
+<WRAP right>
+|  @#04388B: <color #FFFFFF>**Verdonia State Railway**</color>  ||
+| {{add image}} ||
+|  @#04388B: <color #FFFFFF>**Overview**</color>  ||
+| **Owner** | [[mtr_community:server:verdonia_transport|Verdonia Transport]] |
+| **Based at** | Porchester City |
+| **Transit type** | Regional Rail |
+| ::: | Suburban Rail |
+| **Train models** | 4 |
+| **Active lines** | 3 |
+</WRAP>
+
+=== Info ===
+
+Verdonia State Railway is the currently only operator in Verdonia. It currently runs all the railway services in the country. This line first started out with the Metropolitan Line but now also runs the Mint Line and future lines. This operator is mostly a Regional/Suburban Rail operator meaning that it won't go far from its base at Porchester City.
+
+=== Lines ===
+
+|  @#28CCE0: **Line Name**  |  @#28CCE0: **Status**  |  @#28CCE0: **Starting Station**  |  @#28CCE0: **Terminus Station**  |
+|  @#2886E0:Metropolitan Line  |  Operational  |  Porchester City  |  Verdonia Valley  |
+|  @#2886E0:Mint Line  |  Operational  |  Porchester City  |  Snake Island  |
+|  @#2886E0:Mountain Line  |  @#FC211D: //Under Construction (Subject to renaming)//  |  Porchester City  |  Mountain Base  |
+
+
+=== Fleet ===
+
+|  @#28CCE0:**Train Model**  |  @#28CCE0:**Operating on**  |  @#28CCE0:**Depot Location**  |
+|  TML C-Train  |  @#2886E0:Metropolitan Line  |  //Verdonia Valley (temporary)//  |
+|  R-Train  |  @#2886E0:Mint Line  |  Snake Island  |
+|  A-Train  |  :::  |  :::  |
+|  K-Train  |  @#FC211D://Mountain Line (Under Construction)//  |  Mountain Base |
+
+
+===== The System =====
+
+{{add image}}
+
+//A map of all Verdonia State Railway services.//
+
+{{add image}}
+
+//The full system map of the world in progress as of June 5th, 2025.//
