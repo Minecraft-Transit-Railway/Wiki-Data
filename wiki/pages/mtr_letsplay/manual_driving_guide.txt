@@ -4,7 +4,7 @@ As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[h
 
 ----
 
-===== [[mtr_letsplay:nostalgia_line|Nostalgia Line]] =====
+====== Nostalgia Line ======
 
 The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
 
@@ -14,7 +14,9 @@ The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is ra
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
 
-===== [[mtr_letsplay:shipton_line|Shipton Line]] =====
+For more information on the <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color>, click [[mtr_letsplay:nostalgia_line|here]].
+
+===== Shipton Line =====
 
 The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The line features above underground stations and subterranean driving including shared sections with the Wanton Line.
 
@@ -24,7 +26,9 @@ The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rate
 | **Acceleration** | 3.2m/s/s |
 | **Deceleration** | 3.2m/s/s |
 
-===== [[mtr_letsplay:sumeru_fontaine_line|Sumeru-Fontaine Line]] =====
+For more information on the <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color>, click [[mtr_letsplay:shipton_line|here]].
+
+===== Sumeru-Fontaine Line =====
 
 The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
 
@@ -34,7 +38,9 @@ The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>
 | **Acceleration** | 2.8m/s/s |
 | **Deceleration** | 2.8m/s/s |
 
-===== [[mtr_letsplay:slc_bus_4s|SLCBus Route 4S]] =====
+For more information on the <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>, click [[mtr_letsplay:sumeru_fontaine_line|here]].
+
+===== SLCBus Route 4S =====
 
 <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and bus terminals, and features driving on both "rural" and "city" roads.
 
@@ -44,7 +50,9 @@ The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
 
-===== [[mtr_letsplay:fryskeline|Fryske Sprinter]] =====
+For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|here]].
+
+===== Fryske Sprinter =====
 
 The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping pattern variations, but the stopping pattern is not known to the player at the depot. Therefore, the player should be careful of speeding past any one station.
 
@@ -54,7 +62,9 @@ The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is r
 | **Acceleration** | 1.2m/s/s |
 | **Deceleration** | 1.2m/s/s |
 
-===== [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] =====
+For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color>, click [[mtr_letsplay:fryskeline|here]].
+
+===== Line 1 (Meyan Line) Phase 1 =====
 
 <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Tai Po, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Tai Po and up the Mei Foo Wan branch.
 
@@ -63,6 +73,8 @@ The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is r
 | **Speed limit(s)** |   |
 | **Acceleration** | 1.1m/s/s |
 | **Deceleration** | 0.9m/s/s |
+
+For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|here]].
 
 ----
 
