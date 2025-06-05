@@ -1,0 +1,72 @@
+====== Let's Play Server Manual Driving Guide ======
+
+As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[https://youtu.be/xYEbU6G7jzo|significantly overhauled]]. When the Let's Play upgraded to MTR4, builders were able to utilise the new features to enhance the visitor experience on their lines and services. The Let's Play now has a number of lines that are able to be manually driven by visitors. Below is a list of lines and services that are able to be manually driven. The list will be updated as lines are added.
+
+----
+
+===== [[mtr_letsplay:nostalgia_line|Nostalgia Line]] =====
+
+The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
+
+| **Available Consist Count**  | 4 |
+| **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station  |
+| **Speed limit(s)** | 300km/h |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+===== [[mtr_letsplay:shipton_line|Shipton Line]] =====
+
+The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The line features above underground stations and subterranean driving including shared sections with the Wanton Line.
+
+| **Available Consist Count**  | 2 |
+| **Depot Access**  | Alight at Aoba station and use the Route 53S shuttle bus route to access the depot.  |
+| **Speed limit(s)** | 80-120km/h  |
+| **Acceleration** | 3.2m/s/s |
+| **Deceleration** | 3.2m/s/s |
+
+===== [[mtr_letsplay:sumeru_fontaine_line|Sumeru-Fontaine Line]] =====
+
+The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
+
+| **Available Consist Count**  | 1 |
+| **Depot Access**  | Alight at Elynas station and walk to the depot (-18352, 68, 12221) |
+| **Speed limit(s)** |   |
+| **Acceleration** | 2.8m/s/s |
+| **Deceleration** | 2.8m/s/s |
+
+===== [[mtr_letsplay:slc_bus_4s|SLCBus Route 4S]] =====
+
+<color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and bus terminals, and features driving on both "rural" and "city" roads.
+
+| **Available Vehicle Count**  | 3 |
+| **Depot Access**  | Alight at the bus stop adjacent to the depot. Buses only stop there, however, eastbound after Sai Mo Island bus terminal. The depot is also walking distance from South Mo Island bus stop in the westbound direction.  |
+| **Speed limit(s)** |   |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+===== [[mtr_letsplay:fryskeline|Fryske Sprinter]] =====
+
+The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping pattern variations, but the stopping pattern is not known to the player at the depot. Therefore, the player should be careful of speeding past any one station.
+
+| **Available Consist Count**  | 2 |
+| **Depot Access**  | Alight at Mou Lun light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
+| **Speed limit(s)** |   |
+| **Acceleration** | 1.2m/s/s |
+| **Deceleration** | 1.2m/s/s |
+
+===== [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]] =====
+
+<color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Tai Po, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Tai Po and up the Mei Foo Wan branch.
+
+| **Available Consist Count**  | 3 |
+| **Depot Access**  | Travel to Haymarket station and walk to the depot (4737, 70, -4361) |
+| **Speed limit(s)** |   |
+| **Acceleration** | 1.1m/s/s |
+| **Deceleration** | 0.9m/s/s |
+
+----
+
+The following lines are planned to receive manual driving options in the future:
+
+  * [[mtr_letsplay:metro_east_llanmara_line|Metro East Llanmara Line]]
+
