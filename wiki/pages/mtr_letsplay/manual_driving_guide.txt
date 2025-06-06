@@ -11,7 +11,7 @@ As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[h
 The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
 
 | **Available Consist Count**  | 4 |
-| **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station |
+| **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station. |
 | **Speed limit(s)** | 300km/h |
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
@@ -35,7 +35,7 @@ For more information on the <color white/#520DFA>**<html>&nbspShipton Line&nbsp<
 The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
 
 | **Available Consist Count**  | 1 |
-| **Depot Access**  | Alight at Elynas station and walk to the depot (-18352, 68, 12221) |
+| **Depot Access**  | Alight at Elynas station and walk to the depot (-18352, 68, 12221). |
 | **Speed limit(s)** |   |
 | **Acceleration** | 2.8m/s/s |
 | **Deceleration** | 2.8m/s/s |
@@ -71,7 +71,7 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Chik Shek Wan, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Chik Shek Wan and up the Mei Foo Wan branch.
 
 | **Available Consist Count**  | 3 |
-| **Depot Access**  | Travel to Haymarket station and walk to the depot (4737, 70, -4361) |
+| **Depot Access**  | Travel to Haymarket station and walk to the depot (4737, 70, -4361). |
 | **Speed limit(s)** |   |
 | **Acceleration** | 1.1m/s/s |
 | **Deceleration** | 0.9m/s/s |
