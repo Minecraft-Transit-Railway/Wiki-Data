@@ -6,12 +6,12 @@ As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[h
 
 ----
 
-====== Nostalgia Line ======
+===== Nostalgia Line =====
 
 The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
 
 | **Available Consist Count**  | 4 |
-| **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station  |
+| **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station |
 | **Speed limit(s)** | 300km/h |
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
@@ -20,11 +20,11 @@ For more information on the <color white/#25ADF6>**<html>&nbspNostalgia Line&nbs
 
 ===== Shipton Line =====
 
-The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The line features above underground stations and subterranean driving including shared sections with the Wanton Line.
+The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The line features underground stations and subterranean driving including shared sections with the Wanton Line.
 
 | **Available Consist Count**  | 2 |
 | **Depot Access**  | Alight at Aoba station and use the Route 53S shuttle bus route to access the depot.  |
-| **Speed limit(s)** | 80-120km/h  |
+| **Speed limit(s)** |  |
 | **Acceleration** | 3.2m/s/s |
 | **Deceleration** | 3.2m/s/s |
 
@@ -47,7 +47,7 @@ For more information on the <color white/#04959E>**<html>&nbspSumeru-Fontaine Li
 <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and bus terminals, and features driving on both "rural" and "city" roads.
 
 | **Available Vehicle Count**  | 3 |
-| **Depot Access**  | Alight at the bus stop adjacent to the depot. Buses only stop there, however, eastbound after Sai Mo Island bus terminal. The depot is also walking distance from South Mo Island bus stop in the westbound direction.  |
+| **Depot Access**  | Alight at the bus stop adjacent to the depot. Buses only stop there, however, eastbound after Sai Mo Island bus terminal. The depot is also walking distance from South Mo Island bus stop in the westbound direction, at (-708, 68, 935). |
 | **Speed limit(s)** |   |
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
@@ -59,7 +59,7 @@ For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</
 The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping pattern variations, but the stopping pattern is not known to the player at the depot. Therefore, the player should be careful of speeding past any one station.
 
 | **Available Consist Count**  | 2 |
-| **Depot Access**  | Alight at Mou Lun light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
+| **Depot Access**  | Alight at Whale Lake light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
 | **Speed limit(s)** |   |
 | **Acceleration** | 1.2m/s/s |
 | **Deceleration** | 1.2m/s/s |
@@ -68,7 +68,7 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 
 ===== Line 1 (Meyan Line) Phase 1 =====
 
-<color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Tai Po, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Tai Po and up the Mei Foo Wan branch.
+<color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Chik Shek Wan, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Chik Shek Wan and up the Mei Foo Wan branch.
 
 | **Available Consist Count**  | 3 |
 | **Depot Access**  | Travel to Haymarket station and walk to the depot (4737, 70, -4361) |
