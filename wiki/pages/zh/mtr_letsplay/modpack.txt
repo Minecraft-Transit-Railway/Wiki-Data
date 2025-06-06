@@ -49,9 +49,14 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
   * 建议为 Java 分配 6 GiB 或更多运行内存。要进行编辑，请选择新出现的实例图标，单击右侧的 “编辑” 按钮，选择左侧的 “设置”，勾选 “内存” 复选框，并将 “最大内存分配” 设置为至少 6144 MiB。 \\ 但是这并不是“越多越好”，最好留出来至少 4GB 的余量。您可能得有一台安装了至少 16GB 内存的计算机才能玩得顺畅。
   * 双击新出现的实例图标。然后您将看到这么个窗口：
 
-<tabbox Minecraft launcher或其他启动器>
+<tabbox Minecraft launcher>
+Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原版官方 Mojang 启动器设置实例。我们建议使用其他启动器之一，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
 
-在Mojang Minecraft Launcher或其他一些启动器上设置模组包可能不那么直观，这种情况下建议使用列表中的启动器，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
+此外，您必须拥有从 Mojang 购买的正版 Minecraft 帐户才能加入我们的服务器。离线（“破解”）登录不受支持，也不起作用。
+
+<tabbox 其他启动器>
+
+在其他一些启动器上设置模组包可能不那么直观，这种情况下建议使用列表中的启动器，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
 
 </tabbox>
 
