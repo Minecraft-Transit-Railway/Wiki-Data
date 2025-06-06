@@ -56,11 +56,11 @@ For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</
 
 ===== Fryske Sprinter =====
 
-The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping pattern variations, but the stopping pattern is not known to the player at the depot. Therefore, the player should be careful of speeding past any one station.
+The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping position variations, which vary by the length of the driven train. Therefore, the player should be careful of speeding past their markerboard. The line also features ATB for speed limit changes.
 
 | **Available Consist Count**  | 2 |
 | **Depot Access**  | Alight at Whale Lake light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
-| **Speed limit(s)** |   |
+| **Speed limit(s)** | 40-120km/h |
 | **Acceleration** | 1.2m/s/s |
 | **Deceleration** | 1.2m/s/s |
 
