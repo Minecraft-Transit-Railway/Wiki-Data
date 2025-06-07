@@ -1,12 +1,26 @@
-===== MTR 4 for Custom Content/Trains Creator =====
+====== MTR 4 for Custom Content/Trains Creator ======
 
 This page documents some of the migration steps needed when loading MTR 3 custom content in MTR 4.
 
-==== Javascript Scripting ====
+===== Javascript Scripting =====
 
 JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not implemented** at the moment. If you rely on contents that make use of such feature, you are advised to either stay on **MTR 3.x + Nemo Transit Expansion addon**, or explore with the new Resource Pack Creator in MTR 4 and see whether similar effects can be achieved.
 
-==== mtr_custom_resources.json Changes ====
+===== Train (Concept) =====
+
+In MTR 3, a train refers to a single type of train, which can be dynamically fitted with any amount of carriage length depending on the siding length.
+
+In MTR 4, the concept of a **Train** no longer exists. Instead we now have carriage (Vehicle car), where player can mixes different carriage together to form a **train (consist)**. (Which, to the surprise of some, is actually how a train is made up in real life!)
+
+  * For MTR 4 loading legacy trains made for MTR 3, the MTR mod will try to detect and split your "Train" into several parts (e.g. Cab Forward, Trailer, Cab Backward)
+  * For the new MTR 4 format, you are suppose to define everything per-carriage instead of a single train.
+  * While JS scripting is not implemented yet, if and when it is implemented, you are expected to make heavy modification to your script to align with the new per-carriage system.
+
+To reflect the different transport types supported in the MTR mod, **train** are now referred as **vehicle.**
+
+===== Custom Resources =====
+
+==== mtr_custom_resources.json (MTR 3 format) ====
 
   * Train which uses a ''base_train_type'' but without providing ''texture_id'' no longer has base train's texture applied (Only transparent train with bogie & gangway)
   * Train which does not specify a valid ''gangway_connection_id'' (Or does not have it) can no longer walk between gangways like they can in MTR 3
