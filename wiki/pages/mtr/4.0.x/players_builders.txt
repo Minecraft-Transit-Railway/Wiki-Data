@@ -121,6 +121,12 @@ A slab-variant of platform blocks has been added.
 
 Mosaic Block has been added to MTR 4, which mimics the mosaic tiles seen in various MTR stations.
 
+==== Better Rail Speed Limit Handling ====
+
+In MTR 3, vehicles would //start// to slow down if it reaches a piece of rail with a lower speed limit.
+
+For better control, vehicles in MTR 4 will now slow down ahead of time (depending on acceleration) so that it is guaranteed to already be decelerated to the lower speed limit when it hits the rail.
+
 ===== Behavioral changes =====
 
 ==== Game Pausing ====
@@ -141,7 +147,6 @@ Some features have been removed/not implemented yet from MTR 3, notably:
 
   * Resource packs which relies on "scripting" feature from **Nemo Transit Expansion** does not work at the moment.
   * The single-arrival Vertical PIDS does not work, and would still show arrivals across multiple rows.
-  * Manual driving has been removed entirely as it is in need of a major overhaul rather than simply ported over. The **Driver key** is now hidden from the creative menu.
 
 ===== Migration from MTR 3 =====
 
@@ -151,9 +156,8 @@ Please note that there are some artifacts after upgrading, which is listed below
 
   * **MTR 4 currently have compatibility issues with Sodium v0.4.9 & v0.4.10. Consider using other versions (Note that Minecraft 1.19.4 only offers v0.4.10, you would need to update to a newer Minecraft version in that case)**
   * **Lift/Elevator Display Panel** may be displayed incorrectly. This is a one-time migration issue, you would need to break and place it again.
-  * **Sidings with Manual Driving** set in MTR 3 needs to have their **max speed** reconfigured, otherwise it would display "Unlimited" in the GUI while only allowing you to drive at 1 km/h.
   * As trains now more accurately simulate bogie position, **train may clip through tight tunnels/bridges built for MTR 3**. These structures may have to be rebuilt/modified to accommodate for the new train movement in MTR 4.
-  * Trains now speed-up/reduce dwell time automatically if it's running late. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
+  * Trains now speed-up/reduce dwell time automatically if it's running late, and waits at the platform if it arrives early. You can turn this off per-siding to restore the behavior in MTR 3. (Where train runs the same speed regardless of schedule)
   * New version of various MTR addons may have made breaking changes, please check the respective addon page for details.
 
 ===== Addon Compatibility =====
