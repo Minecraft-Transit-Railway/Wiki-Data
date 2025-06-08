@@ -1,0 +1,46 @@
+====== Sumeru - Fontaine line ======
+The **Sumeru - Fontaine line** is a Rapid Transit Line that connects Elynas to Al-Tighnari. Most of this line's station names are motivated from Hoyoverse's game 'Genshin Impact', but the overall theme is more of a combination of Sydney Metro and Ile-de-France.
+
+Since MTR4 Migration, this route allows Manual Driving. For more information, visit [[mtr_letsplay:manual_driving_guide|Manual Guide]]
+
+
+<WRAP right>
+|  @#04959e:  ||
+|  **Sumeru - Fontaine line**  ||
+|  @#04959e:  ||
+|  {{mtr_letsplay:imagehere.png?400|image here}}  ||
+|  @#B0B0BE:**Overview**  ||
+|  **Operated by**  |  [[mtr_letsplay:commonwealth_transport_group|Transport For Teyvat]]  |
+|  **Opening Date**  |  28.08.2023  |
+|  **Serving Districts**  |  Fontaine  |
+|  :::  |  Chuncheon  |
+|  :::  |  Yonhana  |
+|  :::  |  Danielston  |
+|  :::  |  Sumeru  |
+|  @#04959e:**Technical**  ||
+|  **Type**  |  Rapid Transit  |
+|  **Character**  |  Overground  |
+|  :::  |  Underground  |
+|  **Track Gauge**  |  1435mm standard gauge  |
+|  **Electrification**  |  1.5kV DC Overhead Catenary  |
+|  **Fleet**  |  Alstom Metropolis  |
+</WRAP>
+
+===== Stations =====
+|  @#04959e:**Name**  |  @#04959e:**District**  |  @#04959e:**Connections**  |  @#04959e:**Note**  |
+|  **Elynas**\\ 厄里那斯  |  Fontaine  |  Ferry \\ MRW Sprinter \\ Crosscountry \\ Airport & Natlan Line  |    |
+|  **Merusea**\\ 海沫  |  :::  |  Mount Birch Line  |    |
+|  **Marcotte**\\ 茉潔  |  :::  |  Navia Ferry  |    |
+|  **Salacia**\\ 塞洛  |  :::  |  West Midlands Metro  |    |
+|  **Poisson**\\ 白淞鎮  |  :::  |  Dodo Ferry  |    |
+|  **Belleau**\\ 白露  |  :::  |  Shawano Line\\ West Midlands Metro  |    |
+|  **Romaritime Harbour**\\ 海露港  |  :::  |  Clementine Ferry  |    |
+|  **Barsom**\\ برسوم 跋松  |  Chuncheon  |    |    |
+|  **Chuncheon**\\ 春川 춘천  |  :::  |  Gyeongchun Line\\ Los Sants Line\\ [[mtr_letsplay:crosscountry|Crosscountry]]\\ KTX-EUM \\ Clementine Ferry  |    |
+|  **MT. Damavand**\\ جبل دماوند 達馬山  |  :::  |    |    |
+|  **Thamud Oasis**\\ واحة ثمود 賽莫德綠洲  |  Yonhana  |  Suu-Southlands Line\\ Yonhana LRT  |    |
+|  **Abydos**\\ أبيدوس 阿比都斯  |  :::  |  Overground\\ Abydos Ferry  |    |
+|  **Bainbridge**\\ 班布里治  |  Danielston?  |  Circulator IT  |    |
+|  **Ashwaubenon**\\ 雅斯華比塱  |  :::  |  Wanton Line\\ Cupid Line\\ Violet Line  |    |
+|  **Vimara**\\ بيمارا 維摩莊  |  Sumeru  |    |    |
+|  **Al-Tighnari**\\ الطغنري  |  :::  |  Sumeru Line\\ [[mtr_letsplay:sightseeing_express|Sightseeing Express]]  |    |
