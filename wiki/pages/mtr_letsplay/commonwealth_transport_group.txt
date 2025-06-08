@@ -118,25 +118,22 @@ Some trains((class 805, 390, duck boat, taitung railcar)) have not migrated to m
 |  Light Rail  |  Siemens S700  |  3~4  |  West Midlands Metro  |    |
 |  Light Rail  |  Class 392  |  3~4  |  West Midlands Metro  |    |
 |  Metro  |  Tyne and Wear Metrocar  |  2  |  Namyangju MRT  |    |
-|  Metro  |  Alstom Metropolis  |  4  |  Sumeru-Fontaine Line  |    |
+|  Metro  |  Alstom Metropolis  |  4  |  [[mtr_letsplay:sumeru_fontaine_line|Sumeru-Fontaine Line]]  |    |
 |  Metro  |  Seoul Metro Series 1000 & 4000  |  6~10  |  Byeollae Line  |    |
 |  Metro  |  Korail Class 3000  |  6~10  |  Byeollae Line  |    |
 |  Commuter/Regional  |  Korail Class 312000  |  8~10  |  Gyeongchun/Jungang Line  |    |
 |  Commuter/Regional  |  Sydney Trains B Set  |  8  |  Airport & Natlan Line  |    |
 |  Commuter/Regional  |  WMR Class 323  |  3, 6  |  West Midlands Railway  |    |
-|  Commuter/Regional  |  WMR Class 350  |  4, 8  |  West Midlands Railway  |    |
 |  Commuter/Regional  |  WMR Class 730  |  3, 5, 6  |  West Midlands Railway, Airport & Natlan Line  |    |
 |  Commuter/Regional  |  WMR Class 153  |  1~3  |  West Midlands Railway  |  
 |  Commuter/Regional  |  Northern Class 153  |  1~3  |  Northern Trains  |    |
-|  Commuter/Regional  |  Northern Class 157  |  4  |  Northern Trains  |    |
 |  Commuter/Regional  |  Northern Class 158  |  2  |  Northern Trains  |    |
 |  Intercity/HSR  |  TGV TMST(Class 373)  |  10  |  Eurostar  |    |
 |  Intercity/HSR  |  BR Class 802 NS Retexture  |  7  |  Eurostar  |    |
 |  Intercity/HSR  |  KTT  |  7  |  KTT  |    |
-|  Intercity/HSR  |  Korail Class 150000(KTX-EUM)  |  8  |  KTX-EUM  |    |
-|  Intercity/HSR  |  BR Class 802 Railjet Retexture (Proposed)  |  4  |  Taebaek Line  |    |
-|  Intercity/HSR  |  BR Mark X Mugunghwa Retexture  |  7  |  Taebaek Line  |    |
-|  Intercity/HSR  |  Nightjet Eurofima Carriage (Proposed)  |  TBD  |  TBD  |    |
+|  Intercity/HSR  |  Korail Class 150000(KTX-EUM)  |  6  |  KTX-EUM  |    |
+|  Intercity/HSR  |  BR Class 802 Railjet Retexture  |  4  |  Taebaek Line  |    |
+|  Intercity/HSR  |  Nightjet Eurofima Carriage (Proposed)  |  8  |  TBD  |    |
 |  Miscellaneous  |  Boat (Single & Double deck)  |  1  |  Ferry Services  |    |
 |  Miscellaneous  |  Duck Boat (Proposed)  |  1  |  Teyvat Ferry Services  |    |
 |  Miscellaneous  |  Star Ferry (Proposed)  |  1  |  Nami Island Ferry  |    |
@@ -159,10 +156,13 @@ note: Trains in this list are not currently in use or are not subject to MTR4 mi
 |  Commuter/Regional  |  Sydney Trains A Set  |  8  |  Cross-Natlan Line  |  |
 |  Commuter/Regional  |  JR 211 Series  |  4  |  Sumeru-Fontaine Line  |  |
 |  Commuter/Regional  |  Northern Class 150  |  3  |  Northern Trains  |  |
+|  Commuter/Regional  |  Northern Class 157  |  4  |  Northern Trains  |    |
 |  Commuter/Regional  |  Northern Class 170  |  3  |  Northern Trains  |  |
+|  Commuter/Regional  |  WMR Class 350  |  4, 8  |  Cross-Natlan Line  |    |
 |  Intercity/HSR  |  BR Class 390  |  9  |  Argenti West Coast  |  |
 |  Intercity/HSR  |  BR Class 805  |  7  |  Argenti West Coast  |  |
 |  Intercity/HSR  |  Korail Class 368000  |  8  |  ITX Cheongchun  |  |
+|  Intercity/HSR  |  BR Mark X Mugunghwa Retexture  |  7  |  Taebaek Line  |    |
 |  Miscellaneous  |  KCR 1950 Carriage  |  3  |  Byeollae Heritage Railway  |  |
 |  Miscellaneous  |  JR Kiha 54 Series  |  3  |  Byeollae Heritage Railway  |  |
 |  Miscellaneous  |  Old Taitung Line Railcar  |  1  |  Nami Island Streetcar  |  |
