@@ -80,7 +80,7 @@ For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Ph
 
 ===== Chuncheon Bus Route 92 =====
 
-<color white/#2954D5>**<html>&nbspChuncheon Bus Route 4S&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
+<color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
 
 | **Available Vehicle Count**  | 1 |
 | **Depot Access**  | Alight at East Hills station and walk to the depot (-11647, 68, 12787). |
