@@ -78,6 +78,18 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 
 For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|here]].
 
+===== Chuncheon Bus Route 92 =====
+
+<color white/#2954D5>**<html>&nbspChuncheon Bus Route 4S&nbsp</html>**</color> is rated ?/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
+
+| **Available Vehicle Count**  | 1 |
+| **Depot Access**  | Alight at East Hills station and walk to the depot (-11647, 68, 12787). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+For more information on <color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|here]].
+
 ----
 
 The following lines are planned to receive manual driving options in the future:
