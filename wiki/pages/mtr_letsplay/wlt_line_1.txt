@@ -27,7 +27,7 @@
 | ::: | @#00FFFF:<color black>Azalea Cyan Line</color> |
 | ::: | @#7090FF:<color white>[[/cyanex|Sightseeing Local Line]]</color> |
 | ::: | @#7091FF:<color white>[[/cyanex|Sightseeing Line]]</color> |
-| ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]] (WIP)</color> |
+| ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color> |
 | ::: | @#0FBFE4:<color white>[[/wr_sw_plains_line|Wilds Railway SW Plains Line]]</color> |
 | ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]</color> |
