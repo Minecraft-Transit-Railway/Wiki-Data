@@ -13,7 +13,7 @@
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
-| ::: | @#6B4799:<color white>Elizabeth Line</color> |
+| ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color> |
 | ::: | @#F09191:<color white>Hana-Koshi Line</color> |
 | ::: | @#0CAF35:<color black>Spawn Grand Circular</color> |
 | ::: | @#1C7670:<color white>Airport Express(WIP)</color> |
@@ -48,7 +48,7 @@
 | ::: | @#FC7FAE:Metro Blossom East Line |
 | ::: | @#00B081:<color white>Bond Line</color> |
 | ::: | @#F3009D:<color white>Effirt Express</color> |
-| **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 13 //(3 work in progress)// |
+| **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 12 //(2 work in progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]]  |
 | **Service Hours** | 04:47 - next day 03:23 \\ //([[wp>UTC+08:00|UTC+8]])// |
@@ -61,7 +61,7 @@
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
 | **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s)((Maximum speed is 120 km/h on Sightseeing Line Phase 3, 4 and Bond Line sections))|
-| **Signalling**\\ **System** | MTR Mod's Signalling\\ (target speeds in increments of 5 km/h)\\ //([[wp>European_Train_Control_System#Level_2|ETCS Level 2]] / [[wp>automatic_train_control#Digital_ATC|D-ATC]] equivalent)//|
+| **Signalling**\\ **System** | Minecraft Transit Railway Signals 4003((4003 refers to being the fourth update on signals and speed limits since 4.0.0 betas and pre-releases))\\ //([[wp>European_Train_Control_System#Level_3|ETCS Level 3]] / [[wp>automatic_train_control#ATACS|D-ATACS]] equivalent)//|
 ^  Route Map  |^
 |  {{/line2.png?420}}  ||
 
@@ -135,6 +135,7 @@ When throughrunning starts, WLT decides to change the name to account for a long
   * 13 April, 2024: Sha Tsui station opens to the public.
   * 5 May, 2024: First stage of merge kicks in.
   * 29 August, 2024: Full merge kicks in and throughrunning starts. Name is changed to account for a rather long throughrunning section in Sightseeing Line Phase 3, 4 comparing to Kwong Chow Line section. 
+  * 3 June, 2025: Trains are no longer stopping at Three Rivers station to reduce the travelling time from/to former North Coast Line stations. 
 
 ===== Rolling Stocks =====
 
@@ -226,7 +227,11 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 
 ===== Future Plans =====
 
-There are no expected further expansion on the line. Existing non-finished stations and track sections will be gradually worked on. 
+Existing non-finished stations and track sections will be gradually worked on. 
+
+As Tsim Pei Tsui Peninsula east of Eden, south of Kallos and New Buckingham, north of Yunlong not served by any means of transport, and **Line 2 (Kwong Pak Kwun Line)** fleet is expected to be in a large surplus even when operating at ultimate peak hour frequency, it is proposed to expand [[/makki_memorial_village_station|Makki Memorial Village station]] to fit an eastbound platform in, then extend the line in 115° heading, tunnel under Lilac Light Rail tracks and turn to heading east again, finally arrive at the Peninsula after crossing the ocean east of [[/hung_shan_station|Hung Shan station]]. 
+
+The line will add three stops, Hung Shan, Lung Tau and Tsim Pei Tsui. Hung Shan will be an interchange station with Metro South Continental Line and Guri Bay Line while Tsim Pei Tsui will be another interchange station with [[/wlt_line_4|Line 4 (Elizabeth Line)]] besides the current West Lake station and proposed Toitoi station. 
 
 ===== Stations (WIP) =====
 
@@ -239,6 +244,6 @@ Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 | ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
 |  @#8C6AD2:  ||  [[/sha_tsui_station|Sha Tsui]]  |  %%沙咀%%  |  SHT  | |  13 April, 2024  | ::: |
 |  @#e0e060:  ||  [[/west_lake_station|West Lake]]  |  %%西湖%%  |  WEA  |  @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  8 October, 2024((Interchange only))  | ::: |
-| ::: || ::: | ::: | ::: |  @#6b4799:<color white>Elizabeth Line</color>  | ::: | ::: |
+| ::: || ::: | ::: | ::: |  @#6950a1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color>  | ::: | ::: |
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - North Coast Line section**  ||||||||
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Sightseeing Line Phase 3, 4 section**  ||||||||
