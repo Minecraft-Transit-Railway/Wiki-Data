@@ -2,9 +2,9 @@
 
 <WRAP 400px right>
 
-|  @#1797d6:  <color #ffffff>**ElectrostarJudge**</color>  ||
+|  @#e91e63:  <color #ffffff>**ElectrostarJudge**</color>  ||
 | {{ mtr_user:electrostarskin.jpg?200 }}ElectrostarJudge's avatar ||
-|  @#1797d6:  <color #ffffff>**Overview**</color>  ||
+|  @#e91e63:  <color #ffffff>**Overview**</color>  ||
 | **Known as ** | Electro |
 | ::: | Electrostar((
  Named after his childhood favourite train, the [[https://en.wikipedia.org/wiki/British_Rail_Class_377|Class 377 Electrostar]].
@@ -16,12 +16,12 @@
 | ::: | Let's Play Members |
 | ::: | Train Operators |
 | **Languages Spoken** | English |
-| ::: | German |
+| ::: | German (Ein Bisschen!) |
 | **Let's Play Lines** | @#AE0D3F: <color #FFFFFF>%% %%CrossCountry </color> |
 | ::: | @#FF8000: <color #FFFFFF>%% %%South West Trains </color> |
 | ::: | @#7E95C7: <color #FFFFFF>%% %%SouthEastern </color> |
 | ::: | @#4D2F49: <color #FFFFFF>%% %%East Midlands Railway </color> |
-| ::: | @#E20177: <color #FFFFFF>%% %%Great Western </color> |
+| ::: | @#E20177: <color #FFFFFF>%% %%First Great Western </color> |
 | ::: | @#10CF44: <color #FFFFFF>%% %%Electrostar Rail (Defunct) </color> |
 | **Joined Discord** | 27th December 2021 |
 
@@ -29,4 +29,5 @@
 
 **ElectrostarJudge** is a staff member in the [[mtr:start|Minecraft Transit Railway]] Discord community. He joined in December 2021 and became a member of the Staff Team as a Moderator in July 2022, known for his unique sense of humour ((
 citation needed
-)). %%On the Let's Play Server, Electrostar owns Great Western, a small regional suburban project, as well as CrossCountry, an InterCity style service operating across a number of other lines on the %%Let's Play Server%% to connect cities in the similar style to the real life %%CrossCountry Trains%% franchise, sharing the brand and partnering with builder Soodari for the mass extension project. Electrostar also operates East Midlands Railway, an electric suburban and long distance regional train operator. On the South side of the Let's Play server, Electrostar runs the SouthEastern, and South West Trains brands. %%Electrostar is primarily interested in trains and sportscar racing. He is also a parkrunner (100, v100) and a developing squash player(502pts on SquashLevels).
+)). %%On the Let's Play Server, Electrostar operates some of the Sidelines services jointly with Lily (sleepy_sapph), CrossCountry, an InterCity style service operating across a number of other lines on the %%Let's Play Server%% to connect cities in the similar style to the real life %%CrossCountry Trains%% franchise, sharing the brand and partnering with builder Soodari for the mass extension project. Electrostar also operates East Midlands Railway, an electric suburban and long distance regional train operator. On the South side of the Let's Play server, Electrostar runs the SouthEastern, and South West Trains brands. %%Electrostar is primarily interested in trains and sportscar racing. He is also a parkrunner (100, v100) and a developing squash player.
+
