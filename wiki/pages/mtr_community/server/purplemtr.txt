@@ -1,5 +1,7 @@
 ====== PurpleMTR ======
 
+<WRAP round info>THIS ENTIRE THING IS OUTDATED!!!!</WRAP>
+
 PurpleMTR is a server focused around creating a large and detailed transit system. It has been operating since 2024, and has gone through multiple rebranding and 3 resets, with all maps being made public. There was also a spin-off survival server made called Matcha's MTR, but this was short lived.
 
 <WRAP right>
