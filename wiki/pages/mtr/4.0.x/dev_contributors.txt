@@ -24,6 +24,5 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
 ==== Unimplemented Features ====
 
   * Ding Sounds in Elevator
-  * Single Arrival Vertical PIDS
   * Scripting functionalities from Nemo Transit Expansion for MTR 3 (NTE)
 
