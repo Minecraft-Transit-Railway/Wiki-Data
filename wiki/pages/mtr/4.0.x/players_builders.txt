@@ -146,7 +146,6 @@ Train movements have been altered slightly in MTR 4 to take account for the bogi
 Some features have been removed/not implemented yet from MTR 3, notably:
 
   * Resource packs which relies on "scripting" feature from **Nemo Transit Expansion** does not work at the moment.
-  * The single-arrival Vertical PIDS does not work, and would still show arrivals across multiple rows.
 
 ===== Migration from MTR 3 =====
 
