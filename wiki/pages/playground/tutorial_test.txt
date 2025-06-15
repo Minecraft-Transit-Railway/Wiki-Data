@@ -8,5 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {{:playground:mtr4_tutorial_test_rail.png?350}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Rails** in MTR Mod is another fundamental concept, these are essentially tracks for train to run on. Unlike other train mod, each piece of track have a designated speed in which the automated train that is running on the rail will try to follow.
+
+**But what about boat & buses you may ask?**
+
+Rails are equally applicable to boats, planes and more! A better way to think of Rail is that **it is a path for automated vehicles to follow**. It is possible to change the appearance of a piece of rail by applying 3D model, or even without any model at all (an invisible path), which makes it suitable for transport types like buses & boats.
+
+We'll go through on how to connect these rails later!
 
