@@ -13,6 +13,7 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
   * Sometimes certain train will be completely silent, then become normal again after riding the train for a period of time
   * F5-ing 2 times may result in the train rendering with the wrong rotation during curves
   * Some mod would result in vehicles getting speed up with shaders enabled
+  * OBJ Texture name would have their capital letter removed (Abc.png -> bc.png), causing missing texture for models made for Nemo Transit Expansion.
 
 ==== Non-blocking issues/bugs ====
 
