@@ -6,7 +6,7 @@
 ^ Created | 26 January, 2024((
 This is around the time the Discord server was created.
 )) |
-^ Creator | noobontond/noot |
+^ Creator | blazas |
 ^ Companies | 16 |
 ^ Builders | 14 |
 ^ Staff | 6 |
