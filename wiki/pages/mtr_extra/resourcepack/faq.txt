@@ -1,0 +1,54 @@
+====== Frequently Asked Questions ======
+
+This page contains a list of the most often-asked questions about the Minecraft Transit Railway Mod.
+
+===== FAQs =====
+
+Q: What are the required mods?
+
+  * A: You will need different mods depending on whether you are using the Fabric or Forge versions of the mod. Fabric versions need the [[https://www.curseforge.com/minecraft/mc-mods/fabric-api|Fabric API]], whilst the Forge versions use Architectury
+
+Q: Where can I download stable builds?
+
+  * A: See the [[https://modrinth.com/mod/minecraft-transit-railway|Modrinth]] Mod Page.
+
+Q: Where can I download preview builds?
+
+  * A: In the⁠ previews channel in the [[https://discord.gg/KctzFcdfF5|Discord]].
+
+Q: Where can I download addons or train packs?
+
+  * A: You can download them from the [[https://addons.minecrafttransitrailway.com|Addons site]].
+
+Q: Where can I find information about the mod?
+
+  * A: On this wiki, the [[https://discord.gg/KctzFcdfF5|Discord]] and [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|tutorial videos on YouTube]].
+
+Q: Where can I download more train/vehicle resource packs?
+
+  * A: See our user-contributed database, the [[https://addons.minecrafttransitrailway.com|Addons site]]!
+
+Q: I speak or read another language but the mod doesn't have it! How can I contribute?
+
+  * A: A [[https://crowdin.com/project/minecraft-transit-railway|Crowdin]] site is now available for you to contribute translations!
+
+Q: How can I support the mod?
+
+  * A: You can support Minecraft Transit Railway and Jonathan through [[https://www.patreon.com/minecraft_transit_railway|Patreon]]!
+
+Q: When will the next update be released?
+
+  * A: Whenever Jonathan has time. Jon works on the mod when in his free time, but also has other things in life to take care of, such as his job which take precedence.
+
+Q: Will this mod support Minecraft 1.12 or Bedrock Edition?
+
+  * A: No, it already takes a lot of time just developing for the latest versions, and managing their differences in code.
+
+Q: How can I ask a question or request support?
+
+  * A: Create a ticket in the discord, using the button in ⁠the mtr-support channel.
+
+Q: I can't join the Let's Play server!
+
+  * A: Please read ⁠lets-play-server-info carefully.
+
