@@ -2,7 +2,9 @@
 
 <WRAP right>
 
-|  @#38D7E6:<color #FFFFFF>**Steamville**</color>  ||
+<WRAP right>
+{{:mtr_community:server:steamville_square.png?230|}}
+|  @#38D7E6: <color #FFFFFF>**Overview**</color>  ||
 ^ Created | 26 January, 2024((
 This is around the time the Discord server was created.
 )) |
@@ -20,3 +22,7 @@ Steamville is an MTR server focused on utilising both the MTR mods, Create mod a
 
 ==== Trivia ====
 Steamville was initially for resource pack sharing and did not have a server, however in March 2024 the Minecraft server was created.
+
+==== System Map ====
+{{:mtr_community:server:steamville_sysmap.png?600|}}
+{{:mtr_community:server:steamville_sysmap_spawn.png?600|}}
