@@ -8,9 +8,15 @@ This is around the time the Discord server was created.
 )) |
 ^ Creator | Balazs |
 ^ Companies | 16 |
+^ Lines | 92((
+Lines on system map. May not be fully accurate.
+)) | |
 ^ Builders | 14 |
 ^ Staff | 6 |
 ^ Admin | 3 |
 
 </WRAP>
 Steamville is an MTR server focused on utilising both the MTR mods, Create mod and lots of decoration mods such as chipped. It sports a large and well connected map and a small but dedicated community. It is generally differentiated from other servers for offering less of a ‘vanilla’ experience, allowing for greater creative freedom.
+
+==== Trivia ====
+Steamville was initially for resource pack sharing and did not have a server, however in March 2024 the Minecraft server was created.
