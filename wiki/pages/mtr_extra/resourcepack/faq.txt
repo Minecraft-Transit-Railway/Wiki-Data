@@ -6,7 +6,7 @@ This page contains a list of the most often-asked questions about the Minecraft 
 
 **Q: What are the required mods?**
 
-  * A: You will need different mods depending on whether you are using the Fabric or Forge versions of the mod. Fabric versions need the [[https://www.curseforge.com/minecraft/mc-mods/fabric-api|Fabric API]], whilst the Forge versions use Architectury
+  * A: You will need different mods depending on whether you are using the Fabric or Forge versions of the mod. Fabric versions need the [[https://www.curseforge.com/minecraft/mc-mods/fabric-api|Fabric API]], whilst the Forge versions use [[https://www.curseforge.com/minecraft/mc-mods/architectury-api|Architectury]].
 
 **Q: Where can I download stable builds?**
 
