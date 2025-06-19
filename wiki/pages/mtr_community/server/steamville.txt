@@ -33,7 +33,7 @@ Steamville is an MTR server focused on utilising both the MTR mods, Create mod a
 ^ ExpressRailFanner  | Current owner of Transit Company ltd. and Minecraft Railways. |
 ^ Lt. Serg  | Current owner of Greater Rimemond Overseas Development Corporation - This is currently Inactive. |
 |  @#bc2828: <color #FFFFFF>**Admin **</color>  ||
-^ NooBontond  | Current owner of nooBotond transit. Often works on sever and modpack maintenance. |
+^ NooBotond  | Current owner of nooBotond transit. Often works on sever and modpack maintenance. |
 ^ Balazs  | Current owner of Balazs' railworks. Often works on sever and modpack maintenance. |
 ^ Adamantium  | Current owner of TALE. Often works on sever and modpack maintenance. |
 
@@ -60,9 +60,9 @@ Initailly owned by Desrubio, he relinquished control to ExpressRailFanner on the
 
 Currently owned by Desrubio, this company was created after he relinquished control of minecraft railways. Currently, no lines or proposals have been created under this company.
 
-=== NooBontond transit ===
+=== NooBotond transit ===
 
-Being responsible for enormous numbers of lines throughout the server, NooBontond transit has extensive network of heavy, light and high speed rail.    
+Being responsible for enormous numbers of lines throughout the server, NooBotond transit has extensive network of heavy, light and high speed rail.    
 
 Lines list for noot is not complete
 
