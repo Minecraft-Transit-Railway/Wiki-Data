@@ -24,7 +24,6 @@ Steamville is an MTR server focused on utilising both the MTR mods, Create mod a
 
 |  @#488016: <color #FFFFFF>**Builders **</color>  ||
 ^ AnomalousBacon | Has gone by DeltaBlack in the past. Current owner of DB10 transit. |
-^ Desrubio | Ex-owner of Minecraft Railways. Current owner of Chitochikeikaku Railway Company. |
 ^ Donald Chung | Current owner of New Metropolitan Railway. |
 ^ Borism  | Current owner of Borism's railways. |
 ^ Glemn1  | Current owner of WildLine. |
@@ -46,19 +45,15 @@ Owned by AnomalousBacon, DB10 transit mainly serves his project area - White San
 |  **Line Name**  | **Status**  |**Starting Station**  | **Terminus Station**  |
 |  @#23c1a2:SLR  |  Operational  |  Lime Plateau  |  Kelptown Village  |
 |  :::  |  Operational  |  :::  |  Kelptown East  |
-|  @#8e1e19:DB10 HSR  |  WIP  |  Shelfield  |  Lentzal South  |
+|  @#8e1e19:DB10 HSR  |  Operational  |  Shelfield  |  Lentzal South  |
 |  @#28537a:DB10 Local A  |  WIP  |  White Sands ROC  |  Lentzal East  |
 
 === Minecraft Railways ===
 
-Initailly owned by Desrubio, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  it's hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map.
+Initailly owned by Desrubio - a since demoted builder, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  it's hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map.
 
 |  **Line Name**  | **Status**  |**Starting Station**  | **Terminus Station**  |
 |  @#23b73a:Shinkansen Main Line  |  WIP  |  Hinohana  |  Estonia  |
-
-=== Chitochikeikaku Railway Company ===
-
-Currently owned by Desrubio, this company was created after he relinquished control of minecraft railways. Currently, no lines or proposals have been created under this company.
 
 === NooBotond transit ===
 
