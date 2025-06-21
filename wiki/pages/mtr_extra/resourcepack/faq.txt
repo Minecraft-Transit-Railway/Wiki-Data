@@ -8,6 +8,10 @@ This page contains a list of the most often-asked questions about the Minecraft 
 
   * A: You will need different mods depending on whether you are using the Fabric or Forge versions of the mod. Fabric versions need the [[https://www.curseforge.com/minecraft/mc-mods/fabric-api|Fabric API]], whilst the Forge versions use [[https://www.curseforge.com/minecraft/mc-mods/architectury-api|Architectury]] (in versions 3.2.2 and below).
 
+**Q: Will NeoForge/1.21 be supported?**
+
+  * A: **MTR** has historically supported most major versions from **Fabric/Forge 1.16.5 to 1.20.4**, however ultimately it proved too much work to include supports for 1.21 alongside all existing versions. As MTR 4.0 is nearing its release, we will maintain the status quo and only release versions from 1.16.5 and 1.20.4. After MTR 4.0, we will consider moving to 1.21 and switching to NeoForge in place of Minecraft Forge.
+
 **Q: Where can I download stable builds?**
 
   * A: See the [[https://modrinth.com/mod/minecraft-transit-railway|Modrinth]] Mod Page.
@@ -31,24 +35,24 @@ This page contains a list of the most often-asked questions about the Minecraft 
 **Q: I speak or read another language but the mod doesn't have it! How can I contribute?**
 
   * A: A [[https://crowdin.com/project/minecraft-transit-railway|Crowdin]] site is now available for you to contribute translations!
-**
-Q: How can I support the mod?**
+
+** Q: How can I support the mod?**
 
   * A: You can support Minecraft Transit Railway and Jonathan through [[https://www.patreon.com/minecraft_transit_railway|Patreon]]!
-**
-Q: When will the next update be released?**
+
+** Q: When will the next update be released?**
 
   * A: Whenever Jonathan has time. Jon works on the mod when in his free time, but also has other things in life to take care of, such as his job which take precedence.
 
-**Q: Will this mod support Minecraft 1.12 or Bedrock Edition?
-**
-  * A: No, it already takes a lot of time just developing for the latest versions, and managing their differences in code.
+**Q: Will this mod support versions older than Minecraft 1.16.5 or Bedrock Edition? **
 
-**Q: How can I ask a question or request support?
-**
+  * A: No, it already takes a lot of time just developing for the latest versions and managing their differences in code. In addition Bedrock Edition runs in a completely different game engine, therefore we do not have any plan to support Bedrock Edition at the moment.
+
+**Q: How can I ask a question or request support? **
+
   * A: Create a ticket in the discord, using the button in ⁠the mtr-support channel.
-**
-Q: I can't join the Let's Play server!**
+
+** Q: I can't join the Let's Play server!**
 
   * A: Please read [[mtr_letsplay:modpack|the modpack instructions]] carefully.
 
