@@ -1,5 +1,15 @@
 ====== Introduction to MTR Mod ======
 
+{{:playground:mtr4_intro_goal.png?350|Goal}}
+
+Before starting, it is important to recognize the primary goal of **Minecraft Transit Railway**.
+
+First and foremost, MTR primarily caters towards building **transit networks** in Minecraft that are designed to **run autonomously, on-time and with predictability**, all without the need of manual interventions by players. This means that while each MTR update will bring more sophisticated simulation details & mechanics, having extremely accurate and realistic vehicle simulation mechanics is not a primary goal of the mod nor something that the mod actively aims for.
+
+This also means that MTR empowers player with easy to use tools to oversee & manage their transit network effectively, this deviates from some other mods with the focus of mechanics and interactions directly within the Minecraft world.
+
+Sounds good? Let's dive in!
+
 {{:playground:mtr4_tutorial_test_dashboard.png?350}}
 
 The **Dashboard** is one of the most fundamental items in the MTR Mod! In contrast to mods like **Create** which have minimal User Interface screens, MTR Mod have the requirements of managing large-scale automated transport networks, therefore it is important that players are kept in the loop about their the status of their network no matter where they are.
@@ -16,11 +26,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {{:playground:mtr4_tutorial_test_rail.png?350}}
 
-**Rails** in MTR Mod is another fundamental concept, these are essentially tracks for train to run on. Unlike other train mod, each piece of track have a designated speed in which the automated train that is running on the rail will try to follow.
+**Rail** in MTR Mod is another fundamental concept, it is essentially a track for trains to run on. Unlike most other train mods, each piece of track have a designated speed in which the automated train that is running on the rail will try to follow, rather than the other way around (Train having it's own speed limit)
 
 **But what about boat & buses you may ask?**
 
-Rails are equally applicable to boats, planes and more! A better way to think of Rail is that **it is a path for automated vehicles to follow**. It is possible to change the appearance of a piece of rail by applying 3D model, or even without any model at all (an invisible path), which makes it suitable for transport types like buses & boats.
+Rails are equally applicable to boats, planes and more! A better way to think of Rail is that **it is a path for automated vehicles to follow**. It is possible to change the appearance of a piece of rail by applying 3D model, or even without any model at all (an invisible path), which makes it possible to cater towards different transport types like buses & boats.
 
 We'll go through on how to connect these rails later!
 
