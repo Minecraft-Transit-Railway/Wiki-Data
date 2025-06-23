@@ -16,7 +16,7 @@ Head over to the [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth 
 
 ===== Troubleshooting =====
 
-Mod is not working? Check out the [[mtr:troubleshooting|Troubleshooting]] page to see common issues and how to resolve them!
+Mod is not working? Check out the [[mtr:troubleshooting|Troubleshooting]] page to see common issues and how to resolve them! Have a good time. 
 
 ===== Version History =====
 
