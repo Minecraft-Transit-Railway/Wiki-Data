@@ -6,13 +6,14 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in that case)
   * F3+T/lagging when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
-  * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
   * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
-  * Exception/Crash when loading rail model which points to an non-existent file (Need confirmation if still reproducible)
   * Built-in R-train is lacking some interior decoration
   * Sometimes certain train will be completely silent, then become normal again after riding the train for a period of time
-  * F5-ing 2 times may result in the train rendering with the wrong rotation during curves
-  * Some mod would result in vehicles getting speed up with shaders enabled
+
+==== Unconfirmed issues/bugs ====
+
+  * Exception/Crash when loading rail model which points to an non-existent file
+  * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
 
 ==== Non-blocking issues/bugs ====
 
@@ -20,6 +21,7 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
   * Occlusion culling might be slow, causing trains & tracks to take a longer amount of time to show up (Resulting in train/tracks suddenly appearing out of nowhere, decreasing render distance helps)
   * BVE sound would get stuck if the train got occlusion culled
   * Rail model may occasionally flicker with a dimmed color.
+  * Some mod combinations would result in vehicles getting speed up with shaders enabled
 
 ==== Unimplemented Features ====
 
