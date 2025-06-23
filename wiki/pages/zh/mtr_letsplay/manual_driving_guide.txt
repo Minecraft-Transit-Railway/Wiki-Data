@@ -1,6 +1,6 @@
 ====== 齐齐玩服务器手动驾驶指南 ======
 
-As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[https://youtu.be/xYEbU6G7jzo|significantly overhauled]]. When the Let's Play upgraded to MTR4, builders were able to utilise the new features to enhance the visitor experience on their lines and services. The Let's Play now has a number of lines that are able to be manually driven by visitors. Below is a list of lines and services that are able to be manually driven. The list will be updated as lines are added.
+作为[[mtr:4.0.x|MTR 4.0更新]]的一部分，手动驾驶系统是[[https://youtu.be/xYEbU6G7jzo|重大更新]]。当Let's Play升级到MTR4时，建筑商能够利用新功能来增强其线路和服务的访客体验。Let's Play现在有许多线路可以由访客手动驱动。以下是可以手动驾驶的线路和服务的列表。
 
 <sup>该指南最初版本由 JamesQQ 编写。</sup>
 
@@ -24,7 +24,7 @@ As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[h
 
 | **手动驾驶车辆数**  | 2 |
 | **如何前往车厂**  | 前往青叶站，在站外搭乘穿梭巴士即可到达。 |
-| **限速表** |  |
+| **限速表** |   |
 | **加速度** | 3.2m/s/s |
 | **减速度** | 3.2m/s/s |
 
@@ -36,11 +36,11 @@ The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>
 
 | **手动驾驶车辆数**  | 1 |
 | **如何前往车厂**  | 前往厄里那斯站，步行即可到达。 |
-| **限速表** |  |
+| **限速表** |   |
 | **加速度** | 2.8m/s/s |
 | **减速度** | 2.8m/s/s |
 
-For more information on the <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>, click [[mtr_letsplay:sumeru_fontaine_line|here]].
+有关<color white/#04959E>**<html>&nbsp须弥枫丹线&nbsp</html>**</color>的更多信息，请单击[[mtr_letsplay:sumeru_fontaine_line|here]]。
 
 ===== 强乐巴士 4S =====
 
@@ -48,7 +48,7 @@ For more information on the <color white/#04959E>**<html>&nbspSumeru-Fontaine Li
 
 | **手动驾驶车辆数**  | 3 |
 | **如何前往车厂**  | 前往4S巴士手动驾驶车厂站即可到达。 |
-| **限速表** |  |
+| **限速表** |   |
 | **加速度** | 4.0m/s/s |
 | **减速度** | 4.0m/s/s |
 
@@ -60,7 +60,7 @@ The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is r
 
 | **手动驾驶车辆数**  | 2 |
 | **如何前往车厂**  | 前往鲸鱼湖站，沿着小路走即可到达。 |
-| **限速表** |  |
+| **限速表** |   |
 | **加速度** | 1.2m/s/s |
 | **减速度** | 1.2m/s/s |
 
@@ -72,7 +72,7 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 
 | **手动驾驶车辆数**  | 3 |
 | **如何前往车厂**  | 前往喜玛旗站，步行即可到达。 |
-| **限速表** |  |
+| **限速表** |   |
 | **加速度** | 1.1m/s/s |
 | **减速度** | 0.9m/s/s |
 
