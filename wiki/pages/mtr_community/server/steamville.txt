@@ -46,11 +46,13 @@ Owned by AnomalousBacon, DB10 transit mainly serves his project area - White San
 |  @#23c1a2:SLR  |  Operational  |  Lime Plateau  |  Kelptown Village  |
 |  :::  |  Operational  |  :::  |  Kelptown East  |
 |  @#8e1e19:DB10 HSR  |  Operational  |  Shelfield  |  Lentzal South  |
-|  @#28537a:DB10 Local A  |  WIP  |  White Sands ROC  |  Lentzal East  |
+|  @#28537a:DB10 Lost Sands Line |  WIP  |  White Sands Airport  |  Lentzal East  |
+|  @#c99628:DB10 AirLink  |  Planned  |  White Sands Airport  |  White Sands Central  |
+
 
 === Minecraft Railways ===
 
-Initailly owned by Desrubio - a since demoted builder, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  it's hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map.
+Initailly owned by Desrubio - a since demoted builder, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  its hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map. However, the future of this line and company are currently unknown.
 
 |  **Line Name**  | **Status**  |**Starting Station**  | **Terminus Station**  |
 |  @#23b73a:Shinkansen Main Line  |  WIP  |  Hinohana  |  Estonia  |
