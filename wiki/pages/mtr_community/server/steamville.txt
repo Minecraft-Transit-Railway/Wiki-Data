@@ -40,7 +40,7 @@ Steamville is an MTR server focused on utilising both the MTR mods, Create mod a
 
 === DB10 Transit ===
 
-Owned by AnomalousBacon, DB10 transit mainly serves his project area - White Sands. However, this company is still responsible for routes such as the SLR (Saville Light Rail) around spawn.
+Owned by AnomalousBacon, DB10 transit mainly serves his project area - White Sands. However, this company is still responsible for routes such as the SLR (Saville Light Rail) around spawn. Plans are in the works for a monorail based metro system by DB10 Transit to serve White Sands and it's surrounding deserts.
 
 |  **Line Name**  | **Status**  |**Starting Station**  | **Terminus Station**  |
 |  @#23c1a2:SLR  |  Operational  |  Lime Plateau  |  Kelptown Village  |
@@ -52,7 +52,7 @@ Owned by AnomalousBacon, DB10 transit mainly serves his project area - White San
 
 === Minecraft Railways ===
 
-Initailly owned by Desrubio - a since demoted builder, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  its hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map. However, the future of this line and company are currently unknown.
+Initailly owned by Dusbrio - a since demoted builder, he relinquished control to ExpressRailFanner on the 13/06/2025. Only one route is run by this operator, a 16 car Shinkasen line from  its hub at Hinohana to Estonia. Further extension is planned on this line towards the South East quadrant of the map. However, the future of this line and company are currently unknown.
 
 |  **Line Name**  | **Status**  |**Starting Station**  | **Terminus Station**  |
 |  @#23b73a:Shinkansen Main Line  |  WIP  |  Hinohana  |  Estonia  |
