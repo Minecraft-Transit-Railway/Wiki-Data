@@ -30,7 +30,7 @@ Steamville is an MTR server focused on utilising both the MTR mods, Create mod a
 ^ TruckMainiac  | Current owner of MainRail. |
 |  @#156eda: <color #FFFFFF>**Staff **</color>  ||
 ^ ExpressRailFanner  | Current owner of Transit Company ltd. and Minecraft Railways. |
-^ Lt. Serg  | Current owner of Greater Rimemond Overseas Development Corporation - This is currently Inactive. |
+^ Lt. Serg  | Current owner of Greater Rimemond Overseas Development Corporation. |
 |  @#bc2828: <color #FFFFFF>**Admin **</color>  ||
 ^ NooBotond  | Current owner of nooBotond transit. Often works on sever and modpack maintenance. |
 ^ Balazs  | Current owner of Balazs' railworks. Often works on sever and modpack maintenance. |
@@ -154,4 +154,5 @@ More companies coming soon - feel free to help out.
 
 ==== Trivia ====
 Steamville was initially for resource pack sharing and did not have a server, however in March 2024 the Minecraft server was created.
+ 
 
