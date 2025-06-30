@@ -14,4 +14,4 @@
 | **Timezone** | (GMT+9) ||
 </WRAP>
 
-Soodari is a member of MTR discord, who primarily produces train [[mtr_extra:soodari_rollingstock_trains|Resource Packs]] in the Asia-Pacific region and develops the southwestern region on the [[mtr_letsplay:start|Let's Play Server]].
+Soodari is a member of MTR discord, who primarily produces train [[mtr_extra:soodari_rollingstock_trains|Resource Packs]] in the Asia-Pacific region and develops the southwestern region on the [[mtr_letsplay:start|Let's Play Server]]. He is also a builder on [[mtr_community:server:steamville|Steamville]].
