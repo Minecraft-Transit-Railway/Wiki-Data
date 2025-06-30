@@ -62,9 +62,7 @@ Owned by Balazs, Balazs' Railworks operates many major lines, including Line 100
 
 ===Transit Company Limited===
 
-Owned by ExpressRailfanner, this company has 2 local long distance lines - The Northwestern Line ((
-Once completed it is likely this line will be merged with the Pukkeo Commuter.
-)) and the Hampton Line, and 2 local LRT networks.
+Owned by ExpressRailfanner, this company has 2 local long distance lines - The northwestern line and the Hampton Line, and 2 local LRT networks.
 
 
 
