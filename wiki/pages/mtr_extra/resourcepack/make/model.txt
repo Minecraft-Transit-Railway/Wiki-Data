@@ -1,0 +1,15 @@
+====== How to create models for MTR ======
+
+This guide will tell you how to create models for MTR mod.
+
+===== Before we get started =====
+
+Minecraft Transit Railway mod utilises Blockbench models (BBMODEL) for all train models. Starting from MTR4 one can also import Wavefront OBJ models for the mod, but that will not be discussed in this tutorial. There are no de facto standards or best practices for creating a model, but this tutorial will teach you to create a model based on the built-in models.
+
+==== TODO ====
+
+  - Initialisation
+  - Basic parts (window, door, head, end, display)
+  - Spacing
+  - Texturing
+
