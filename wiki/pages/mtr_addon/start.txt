@@ -73,3 +73,19 @@ The [[mtr_addon:era:start|European Rail Addon]] adds numerous decorative blocks 
 <WRAP round download 90%>
 **Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/european-rail-addon]]
 </WRAP>
+
+==== MTR Renfe Addon ====
+
+The [[mtr_addon:mtrrenfeaddon:start|MTR Renfe Addon]] adds decorative blocks related to Renfe, including signals, ticket barriers, ticket machines & new platform signals.
+
+<WRAP round download 90%>
+**Download** \\  <wrap safety round box>MTR 3</wrap> <wrap notice round box>MTR 4</wrap> [[https://modrinth.com/mod/mtr-renfe-addon]]
+</WRAP>
+
+==== TransitManager ====
+
+The [[mtr_addon:transitmanager:start|TransitManager]] is a server-side addon for MTR3 that adding commands that allows you to have better control of trains in the Minecraft Transit Railway Mod.
+
+<WRAP round download 90%>
+**Download** \\  <wrap safety round box>MTR 3</wrap> [[https://modrinth.com/mod/transitmanager]]
+</WRAP>
