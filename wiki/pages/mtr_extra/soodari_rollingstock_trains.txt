@@ -6,11 +6,11 @@
 |  @#0054a6:  <color white>**Soodari Rollingstock Trains Resourcepacks**</color>  ||
 | Photo TBD ||
 ^   **Informations**   ^^
-| **Creator** | [[mtr_community:staff:soodari]] |
+| **Creator** | Soodari |
 | **List of Contents** | [[https://docs.google.com/spreadsheets/d/1XJpXZ-VPmx4jfB2KUZq_S01TyVW_mByzDf4e8KK-RK0/edit?gid=0#gid=0|Spreadsheet]] |
 | **Download Page** | [[https://modrinth.com/user/Soodari|Modrinth Page]] |
-| **NTE Required** | Partial |
-| **MTR4 Compatibility** | Partial |
+| **NTE Required** | For MTR3 Version |
+| **MTR4 Compatibility** | Yes |
 
 </WRAP>
 
@@ -20,16 +20,17 @@ Soodari Rollingstock Trains Resourcepack is a collection of [[mtr_extra:start|Re
 
 Since the second quarter of 2023, Soodari have been releasing the obj model mainly, and Soodari converted his models that originally used in other mod in the beginning, from the second half of 2023, there are more cases of making new models for this mod exclusively.
 
-Soodari have been uploading most RPs to modrinth since the [[https://addons.minecrafttransitrailway.com/#/|MTR Contents DB Pag]]e opened and the existing discord's community works channel went down. Some RPs haven't been uploaded to modrinth yet so [[https://1drv.ms/f/c/d1eb72ccedcc8232/EjKCzO3McusggNG1AgAAAAAB7ccxNOTE_E0Gu5vhX6RNKQ?e=yRkLLi|onedrive download centre]] is still exist for non-released resourcepacks in modrinth.
+Soodari have been uploading all of RPs to modrinth since the [[https://addons.minecrafttransitrailway.com/#/|MTR Contents DB Pag]]e opened and the existing discord's community works channel went down.
 
-Starting Q4 2024, RP's MTR4-compatibility conversion work began. 
+Starting Q4 2024, RP's MTR4-compatibility conversion work began and before Q3 2025 begins, all of srt resourcepack's mtr4 compatibility work is finished.
 This can take some time due to the need for model renovation ,cleanup and editing json stuff.
+To use this resourcepack on [[mtr:4.0.x|MTR4]], you need to download a new version for mtr4.
 
 ===== Features =====
 
 These resourcepacks mainly deals with trains from the Asia-Pacific region, but can also find trains from some European and other continents.
 
-Since most trains and structures use obj and capacity is quite large, it is recommended to modify JVM Arguments before RP installation. (Allocate 4~6GB or more is recommended)
+Since most trains and structures use obj and capacity is quite large, it is recommended to modify JVM Arguments before RP installation. (Allocate 6GB or more is recommended)
 
 ===== Let's Play Server Uses =====
 
