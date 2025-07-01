@@ -12,13 +12,18 @@ This page contains a list of the most often-asked questions about the Minecraft 
 
   * A: **MTR** has historically supported most major versions from **Fabric/Forge 1.16.5 to 1.20.4**, however ultimately it proved too much work to include supports for 1.21 alongside all existing versions. As MTR 4.0 is nearing its release, we will maintain the status quo and only release versions from 1.16.5 and 1.20.4. After MTR 4.0, we will consider moving to 1.21 and switching to NeoForge in place of Minecraft Forge.
 
-**Q: Where can I download stable builds?**
+**Q: Where can I download the MTR mod?**
 
-  * A: See the [[https://modrinth.com/mod/minecraft-transit-railway|Modrinth]] Mod Page.
+  * A: You may download the mod in either [[https://modrinth.com/mod/minecraft-transit-railway|Modrinth]] or [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway|CurseForge]]!
 
-**Q: Where can I download preview builds?**
+**Q: What is preview build, and where may I obtain them?**
 
-  * A: In the⁠ previews channel in the [[https://discord.gg/KctzFcdfF5|Discord]].
+  * A: Preview builds are non-official releases of the MTR mod which contains the latest in-development features. They may be buggy, and therefore you are expected to take appropriate measures (Such as backing up your world regularly) before using. These builds are announced in our [[https://discord.gg/KctzFcdfF5|Discord]] server.
+
+**Q: What is Early Access build, and where may I obtain them?**
+
+  * A: Early Access builds are unofficial mod releases distributed to our **Patreon members** in return for their generous support! They are published irregularly and contains experimental new features for testing. These features would be polished based on the feedback received before making it's way to the public preview build. This can also help stabilize preview builds before their debut to the public.
+  * //Note that we are committed to developing the MTR mod as an open source project and have no intentions to lock features behind paywalls.//
 
 **Q: Where can I download addons or train packs?**
 
