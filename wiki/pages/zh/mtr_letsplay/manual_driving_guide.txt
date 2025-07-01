@@ -32,7 +32,7 @@
 
 ===== 须弥枫丹线 =====
 
-The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
+The <color white/#04959E>**<html>&nbsp须弥枫丹线&nbsp</html>**</color> 驾驶难度：2/5。 The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
 
 | **手动驾驶车辆数**  | 1 |
 | **如何前往车厂**  | 前往厄里那斯站，步行即可到达。 |
