@@ -23,6 +23,8 @@ Some resource packs aren't packed in this format. For these cases, you should op
 
 For other questions about the use of resourcepacks, see [[https://minecraft.wiki/wiki/Resource_pack|Minecraft Wiki]] for more information.
 
+Models in obj format do not work in MC 1.16.5 version.((Both MTR4 & MTR3))
+
 ===== Making Resource Packs =====
 
 For creating custom trains and signage, see [[mtr_extra:making_a_resourcepack|Making a Resource Pack]].
