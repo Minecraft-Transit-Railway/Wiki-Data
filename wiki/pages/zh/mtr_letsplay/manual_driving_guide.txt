@@ -66,9 +66,9 @@ The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is r
 
 For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color>, click [[mtr_letsplay:fryskeline|here]].
 
-===== 一号（美岩线）一期 =====
+===== 一号（美岩）线一期 =====
 
-<color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. 手动驾驶交路为：美麸湾-直石湾-美沙-直石湾-美麸湾。
+<color white/#EB7AE9>**<html>&nbsp一号（美岩）线一期&nbsp</html>**</color> 驾驶难度：2/5 。 The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. 手动驾驶交路为：美麸湾-直石湾-美沙-直石湾-美麸湾。
 
 | **手动驾驶车辆数**  | 3 |
 | **如何前往车厂**  | 前往喜玛旗站，步行即可到达。 |
