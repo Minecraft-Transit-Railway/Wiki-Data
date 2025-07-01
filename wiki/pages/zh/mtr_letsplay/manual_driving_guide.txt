@@ -82,5 +82,5 @@ For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Ph
 
 The following lines are planned to receive manual driving options in the future:
 
-  * [[mtr_letsplay:metro_east_llanmara_line|Metro East Llanmara Line]]
+  * [[mtr_letsplay:metro_east_llanmara_line|地铁东湾堡城线]]
 
