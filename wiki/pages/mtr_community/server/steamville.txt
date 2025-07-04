@@ -17,7 +17,7 @@ Lines on system map. May not be fully accurate.
 ^ Admin | 3 |
 
 </WRAP>
-Steamville is an MTR server focused on utilising both the MTR mod and it expansion but also Create mod and decoration mods such as chipped. It sports a large and well connected map and a small but dedicated community. It is generally differentiated from other servers for offering less of a ‘vanilla’ experience, allowing for greater creative freedom.
+Steamville is an MTR server focused on utilising both the MTR mod and it expansion but also Create mod and decoration mods such as chipped. It sports a large and well connected map and a small but dedicated community. It is generally differentiated from other servers for offering less of a ‘vanilla’ experience, allowing for greater creative freedom. Steamville still uses MTR 3 and MC 1.19.2, however the server's admin have expressed an intent to eventually update to MTR 4 and this would likely come with an update to the MC version.
 
 
 ==== Server builders and staff ====
