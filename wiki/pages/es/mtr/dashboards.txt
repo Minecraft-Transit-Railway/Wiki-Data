@@ -1,0 +1,257 @@
+FIXME **Esta página no está completamente traducida, aún. Por favor, contribuye a su traducción.**\\ //(Elimina este párrafo una vez la traducción esté completa)//
+
+====== Paneles ======
+
+<WRAP right>
+
+|  @#00C42A: **Paneles**  ||
+| {{ :mtr:railway_dashboard.png?100 }} | {{ :mtr:boat_dashboard.png?100 }} |
+|  Iconos de los paneles ferroviario y de botes.  ||
+|  {{ :mtr:cable_car_dashboard.png?100 }}  |  {{ :mtr:airplane_dashboard.png?100 }}  |
+|  Iconos de los paneles de teleférico y vuelo.  ||
+| **[[https://minecraft.wiki/w/Rarity|Color de rareza]]** | Común |
+| **[[https://minecraft.wiki/w/Renewable_resource|Renovable]]** | Sí |
+| **Stackable** | No |
+| **Creado por** | %%Jonathan%% |
+
+</WRAP>
+
+El **Panel ferroviario,** **Panel de botes**, **Panel de teleféricos**, y **Panel de vuelo** son obligatorios para crear estaciones y rutas en el mundo.
+
+===== Obtención =====
+
+==== Crafteo ====
+
+Todos los paneles, excepto el Panel de vuelo, se pueden [[https://minecraft.wiki/w/Crafting|Craftear]].
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Nombre | Ingredientes | Receta de [Crafteo](https://minecraft.wiki/w/Crafting) |
+| --- | --- | --- |
+| Panel ferroviario | [Lingote de hierro](https://minecraft.wiki/w/Iron_Ingot) + [Polvo de redstone](https://minecraft.wiki/w/Redstone_Dust) + [Panel de cristal](https://minecraft.wiki/w/Glass_Pane) + [Polvo de piedra luminosa](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Receta con forma_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
+| Panel de botes | [Tablones](https://minecraft.wiki/w/Planks) + [Polvo de redstone](https://minecraft.wiki/w/Redstone_Dust) + [Panel de cristal](https://minecraft.wiki/w/Glass_Pane) + [Polvo de piedra luminosa](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Receta con forma_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_2.png" width=200> |
+| Panel de teleférico | [Telaraña](https://minecraft.wiki/w/String) + [Polvo de redstone](https://minecraft.wiki/w/Redstone_Dust) + [Panel de cristal](https://minecraft.wiki/w/Glass_Pane) + [Polvo de piedra luminosa](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Receta con forma_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_3.png" width=200> |
+
+</markdown>
+
+===== Uso =====
+
+Los paneles se abren al hacer clic derecho..
+
+==== Pestañas ====
+
+Los paneles de ferrocarril y botes tienen tres pestañas para gestionar las redes de transporte.
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Pestaña | Funcionalidad |
+| --- | --- |
+| Estaciones | <li>Crear una estación con el botón `Añadir estación`<li>Editar el nombre de la estación, color o el área<li>Borrar una estación<li>Listar las plataformas en una estación y edita el tiempo de espera y el número de plataforma para cada plataforma listada. |
+| Rutas | <li>Crear una ruta con el botón `Añadir ruta`<li>Editar el nombre de la ruta o el color<li>Añadir una plataforma a una ruta existente<li>Eliminar una plataforma de una ruta existente<li>Reordenar plataformas de una ruta<li>Borrar una ruta |
+| Depósitos | <li>Crear un depósito con el botón `Añadir depósito`<li>Edita el nombre del depósito, color o el área<li>Borrar un depósito<li>Listar apartaderos de un depósito y editar el número del apartadero o el tipo del tren por cada apartadero listadas |
+
+</markdown>
+
+==== Campo de nombre de Estación / Ruta / Depósito ====
+
+Cuando se hace clic en ''Añadir Estación'', ''Añadir Ruta'', o ''Añadir Depósito'' o cuando se edita una estación, ruta o apartadero, aparecerá el campo de texto de "nombre" en la parte inferior. Usa el carácter "|" para separar distintos idiomas, por ejemplo: ''第一城|City One''.
+
+Si se deja en blanco, la estación o la ruta aparecerá por defecto a "Sín título".
+
+==== Campo de color de Estación / Ruta / Depósito ====
+
+Cuando se hace clic en ''Añadir Estación'', ''Añadir Ruta'', o ''Añadir Depósito'' o cuando se edita una estación, ruta o apartadero, el campo de texto "color" aparecerá en la parte inferior, junto al campo de texto de "nombre". Este cuadro acepta un código hexadecimal RGB de seis caracteres, compuesto por números o letras de la A a la F. Puedes usar un [[https://www.w3schools.com/colors/colors_picker.asp|selector de color]] para generar fácilmente un código hexadecimal.
+
+Si se deja en blanco, se elegirá un color aleatorio.
+
+==== Agrupar rutas ====
+
+La mayoría de las veces, una línea de tren tendrá trenes circulando en más de una dirección. Por ejemplo, una sola línea que atraviesa una ciudad probablemente tendrá trenes en sentido de ida y de vuelta. En el juego, se debe definir una ruta de ida y otra de vuelta, ¡creando dos rutas para una sola línea! Por eso, es importante poder agrupar rutas.
+
+Cuando dos o más rutas comparten exactamente el mismo color (el mismo código hexadecimal RGB), se agruparán. En los bloques [[mtr:railway_sign]] y [[mtr:route_sign]], las rutas se mostrarán como una sola línea con un único nombre.
+
+Se utilizan dos caracteres de barra vertical, ''||'', para añadir notas al final de cada ruta. Estas notas no aparecerán en los letreros; solo serán visibles en el panel de control.
+
+Se recomienda usar el mismo nombre de línea (antes de ''||'') para las rutas que deban agruparse. Por ejemplo, dos rutas en el mismo grupo podrían llamarse ''東涌綫|Tung Chung Line||Westbound'' y ''東涌綫|Tung Chung Line||Eastbound''. Si los nombres de línea son diferentes, se elegirá un nombre aleatorio para mostrarse en los letreros.
+
+==== Uso del mapa ====
+
+Cuando se selecciona la pestaña ''Estaciones'' o ''Rutas'' y no se está editando una estación o ruta, se puede hacer clic en una plataforma del mapa para abrir la pantalla de configuración de plataforma. A continuación, se pueden editar las siguientes propiedades de la plataforma:
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Campo | Descripción |
+| --- | --- |
+| Número de plataforma | <li>Generalmente, para reducir la confusión de los pasajeros, las plataformas están numeradas.<li>Aunque no sea común en la vida real, se puede usar letras o palabras en el "numero" de la plataforma. |
+| Tiempo de atenuación del vehículo | <li>Esto determina por cuanto tiempo el tren estará detenido en la plataforma.<li>Generalmente, el valor debe de ser suficientemente bajo para que el siguiente tren no llegue antes de que el tren actual se vaya. |
+
+</markdown>
+
+Cuando las pestañas ''Depósitos'' es seleccionado, y mientras no sea editado, se puede clicar en un apartadero en el mapa, saldrá la configuración del apartadero. Estas son las propiedades del apartadero que se puede editar:
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Campo | Descripción |
+| --- | --- |
+| Número de apartadero | <li> Los trenes de un depósito serán desplegados según el número del apartadero.<li>Sí dos apartaderos tienen el mismo número, se desplegará un tren al azar entre los apartaderos. |
+| Vehículo seleccionado | <li>Esto determina que tipo de tren será desplegado del apartadero. (Nota: el apartadero debe de ser lo suficientemente largo para el tren seleccionado pueda generarse.) |
+
+</markdown>
+
+Las estaciones puede ser creado y compartido entre todos los paneles, pero las plataformas, rutas, apartaderos y los depósitos, solo puede ser creado y estar visible con el panel correspondiente.
+
+===== Historial de cambios =====
+
+3.0.0-Beta-2: Added Railway Dashboard.
+
+%%3.0.0-Beta-5-unofficial-2: %%Railway Dashboard can now %%configure platform numbers and dwell times.%%
+
+%%3.0.0-Beta-5-unofficial-8: %%Railway %%Dashboard lists are now separated into pages and include a search box.%%
+
+%%3.0.0-Beta-5-prerelease: Mod configuration where custom fonts can be disabled is created and accessible from the dashboard.%%
+
+%%3.0.0-Beta-6-unofficial-1: When two players edit the dashboard at once, there will no longer be conflicts or overwriting of data.%%
+
+%%3.0.0-Beta-6-unofficial-2: Railway Dashboard can now configure the station's fare zone.%%
+
+%%3.0.0-Beta-7-depot-snapshot: Depots tab is added in response of the depot update.%%
+
+%%3.0.0-Beta-7-depot-snapshot: Train selection is now moved to depots tab.%%
+
+%%3.0.0-Beta-7-depot-snapshot-2: The Railway Dashboard will return an error message to the player when pathfinding cannot find a complete route.%%
+
+%%3.0.0-Beta-7-depot-snapshot-3: The Railway Dashboard can now set infinite train spawn in the train selection tab.%%
+
+%%3.0.0-Beta-7-depot-snapshot-4: Fixed a bug where a siding without "unlimited trains" selected won't spawn any trains.%%
+
+%%3.0.0-Beta-7-depot-snapshot-4-hotfix: Pathfinding feedback has been improved.%%
+
+%%3.0.0-Beta-7-depot-snapshot-5: The Railway Dashboard can now set exits of a station.%%
+
+%%3.0.0-Beta-8-unofficial-9: When searching for items in the Railway Dashboard, the search term will persist.%%
+
+%%3.0.0-Beta-8-unofficial-9: The Railway Dashboard can now set a finite number of train can be spawned in one siding in the train selection tab.%%
+
+%%3.0.0-Beta-9-unofficial-2: Added Boat Dashboard in response of the boat update.%%
+
+%%3.0.0-Beta-9-unofficial-8: Fixed depot sliders resetting when editing train instructions.%%
+
+%%3.0.0-Beta-9-unofficial-8: Serverside protection from adventure mode players editing the dashboard.%%
+
+%%3.0.1-unofficial-1: Added Cable Car Dashboard in response of the cable car update.%%
+
+%%3.1.0-unofficial-5: Real time scheduling can now be set in the Depot menu.%%
+
+%%3.1.1: Overlapping station areas on the Dashboard will now be considered as connecting stations.%%
+
+%%3.1.5: Customizable destination displays is now avaliable.%%
+
+%%3.1.9: Data logging is experimentally logged in a CSV file.%%
+
+%%3.1.10: Added Flight Dashboard in response of the airplane update.%%
+
+%%3.1.11: Fixed Dashboards list mouse crash.%%
+
+%%3.1.11: Improved Dashboards' performance.%%
+
+===== Galería =====
+
+<markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img alt="Campo de nombre y color" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/dashboard/name-colour-fields.png" width=512/><br>El carácter `|` separa los distintos idiomas en el nombre de la estación o ruta.<br>El campo de color tiene seis caracteres, compuestos por números o letras de la A a la F.
+
+</markdown>
+
