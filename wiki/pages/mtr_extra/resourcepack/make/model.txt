@@ -4,12 +4,62 @@ This guide will tell you how to create models for MTR mod.
 
 ===== Before we get started =====
 
-Minecraft Transit Railway mod utilises Blockbench models (BBMODEL) for all train models. Starting from MTR4 one can also import Wavefront OBJ models for the mod, but that will not be discussed in this tutorial. There are no de facto standards or best practices for creating a model, but this tutorial will teach you to create a model based on the built-in models.
+Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all train models. Starting from MTR4, one can also import Wavefront OBJ models for the mod, but that will not be discussed in this tutorial. There are no de facto standards or best practices for creating a model; however, this tutorial will teach you how to create a model based on the built-in models.
 
-==== TODO ====
+You can get Blockbench [[https://www.blockbench.net/|here]].
 
-  - Initialisation
-  - Basic parts (window, door, head, end, display)
-  - Spacing
-  - Texturing
+===== How a train model is formed =====
+
+Typically, a train is formed of several parts:
+
+  - **window**: The window of a carriage.
+  - **door**: The doors of a carriage.
+  - **head**: The front of a carriage with a driving cab.
+  - **end**: The back of a carriage without a driving cab.
+
+In most cases, a train model is a combination of these parts in the following pattern:
+
+  * Leading vehicle: head-(door-window)-end 
+  * Intermediate vehicle: end-(door-window)-end 
+  * Back vehicle: end-(door-window)-head
+
+Most trains will have a window part to be around 48 Blockbench units (3m) in length, and a door part to be around 32 Blockbench units (2m) in length. This makes the train to be able to align with the platform screen doors. The end part is usually around 16 Blockbench units to 20 units (1m to 1.25m) in length, so there is enough space for the train to take a turn.
+
+Most trains' bodies will be 16 Blockbench units (1 metre) above ground to allow them to match the height of the platform, and have a width of around 40 to 44 Blockbench units (2.5 to 2.75m) so that the platform gap won't be too wide.
+
+===== Initialisation =====
+
+  * In the main menu, select **Modded Entity**.
+
+<WRAP center round important 90%>
+
+**ONLY** use the Modded Entity option. Other options will not work with MTR mod.
+
+</WRAP>
+
+  * Type in a file name. (!)
+
+<WRAP center round important 90%>
+
+**ONLY** use alphanumeric characters, 0-9, -, and _. CAPITAL LETTERS, special characters, white spaces, and other characters will not work.
+
+</WRAP>
+
+  * Click **Confirm**.
+
+===== Building your model =====
+
+For each part, repeat this process:
+
+  * Create a folder (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
+  * You can now start building your model. Create a cube (Ctrl + N) and translate, rotate, and scale it to your liking.
+
+==== Note ====
+
+  - You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
+  - Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
+
+===== TODO =====
+
+Texturing
 
