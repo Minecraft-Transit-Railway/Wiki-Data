@@ -1,5 +1,7 @@
 ====== Docklands Light Railway (DLR) ======
 
+<html><span style="display:inline-block; position:relative; vertical-align:middle; width:16px; height:16px; border:2px solid #FFD700; border-radius:10%; background:white; text-align:center; color:black; font-weight:Bold; font-size:10px;"><span style="position: absolute; white-space:nowrap; width:16px; height:10px; line-height:10px; top:3px; left:0; text-align:center;">JB</span></span></html>
+
 <WRAP right>
 
 |  @#EFEEF0:  <html><b><font size = "4">Docklands Light Railway (DLR)</b></html>  ||
@@ -88,9 +90,12 @@ On 4 July 2023, Waterloo Gate and City Northshore were unceremoniously closed as
 
 On 1 October 2023, service was reinstated on B1 as far as Saint Ann's along with the station's soft reopening.
 
-On 27 January 2024, DLR Route D1 was reinstated, albeit running on a completely different alignment from the original route via Hampton West. The route runs from Winbeck's terminating platform out to the newly refurbished  and  stations for connections to the Northern Line and Victory Line respectively. It is the only line to use the specially branded blue Docklands livery.(( From a lore perspective, it is assumed that these stations and the Docklands area were left abandoned after the Llanmara Docklands Railway closed. However, from a real life timeline perspective, the Docklands area was constructed as apart of the Northern Line proposal, which brought the Victory Line out of the old Llanmara Bay Tunnel and across a new viaduct atop the old right of way ))
+On 27 January 2024, DLR Route D1 was reinstated, albeit running on a completely different alignment from the original route via Hampton West. The route runs from Winbeck's terminating platform out to the newly refurbished  and  stations for connections to the Northern Line and Victory Line respectively. It is the only line to use the specially branded blue Docklands livery.((
+ From a lore perspective, it is assumed that these stations and the Docklands area were left abandoned after the Llanmara Docklands Railway closed. However, from a real life timeline perspective, the Docklands area was constructed as apart of the Northern Line proposal, which brought the Victory Line out of the old Llanmara Bay Tunnel and across a new viaduct atop the old right of way
+))
 
 On 23 July 2024, however, DLR Route D1 was once again suspended. It was subsumed by Route B1 which was extended to Docklands North via D1 from Winbeck. This change was made in accordance with the new DLR platforms that were opened in Saint Ann's on the same day.
+
 ==== The Mainline Connection Integration Plan ====
 
 The DLR released a plan on 2 April 2023 which aimed to connect the new stations along the [[Northern Mainline|Northern Mainline]] for [[Electrostar Rail|Electrostar Rail]] with the DLR stations of similar name. On 11 April 2023, DLR Route F1 opened between Kirkenkessie Bank and [[Mt. Dencradle|Mt. Dencradle]]. It ran to Kirkenkessie Bank until the construction works at [[Dencradle|Dencradle]] were complete, where it was shortened to a new bay platform at the station.
