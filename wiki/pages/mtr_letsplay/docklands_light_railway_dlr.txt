@@ -1,7 +1,5 @@
 ====== Docklands Light Railway (DLR) ======
 
-<html><span style="display:inline-block; position:relative; vertical-align:middle; width:16px; height:16px; border:2px solid #FFD700; border-radius:10%; background:white; text-align:center; color:black; font-weight:Bold; font-size:10px;"><span style="position: absolute; white-space:nowrap; width:16px; height:10px; line-height:10px; top:3px; left:0; text-align:center;">JB</span></span></html>
-
 <WRAP right>
 
 |  @#EFEEF0:  <html><b><font size = "4">Docklands Light Railway (DLR)</b></html>  ||
