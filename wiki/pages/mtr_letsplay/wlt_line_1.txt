@@ -35,8 +35,8 @@
 | **Stations** | 13 //(Opened)//\\ 5 //(Work in Progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
-| **Service Hours** | 04:36 - next day 03:11\\ //([[wp>UTC+08:00|UTC+8]])// |
-| **Frequency** | Every 1 - 8 mins((May get up to 10/15/20 mins near first  and last train)) |
+| **Service Hours** | 04:06 - next day 03:32\\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Frequency** | Mostly Every 1 - 6 mins |
 | **Depot** | [[/chung_kwo_kok_depot|Chung Kwo Kok Depot]]((Temporary sidings are added at Chik Shek Wan station for better train interval management)) |
 | **Rolling Stock** | [[wp>SP1900_EMU|SP1900 Train]]\\ [[wp>MTR_Metro_Cammell_EMU_(AC)|MLR Train]]\\ (small variant) |
 ^  History  |^
@@ -164,15 +164,14 @@ Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternati
 
 <WRAP center>
 
-^  Average Train Intervals (in mins)((May get up to 10/15/20 mins near first  and last train))  |||^
+^  Average Train Intervals (in mins)  |||^
 |  @#EB7AE9:  ||||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line)**\\ **Phase 1**  |||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 1 (Meyan Line) Phase 1**  |||
 | ::: |  Tung Yuen - Tai Po  |  Mesa - Tai Po  |  Mei Foo Wan - Tai Po  |
-|  5 am - 9 am  |  2.5 / 5.5  |  8  |  8  |
-|  9 am - 9 pm  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
-|  9 pm - 11 pm  |  1.0 - 2.2  |  3.2  |  2.8 - 3.6  |
-|  11 pm - 1 am  |  1.8 - 3.2  |  5 - 5.8  |  5 - 5.8  |
-|  1 am - 3 am  |  2.5 / 5.5  |  8  |  8  |
+|  Early Morning\\ \\ (5 am - 9 am)  |  \\ 3  |  \\ 6  ||
+|  Day Time\\ \\ (9 am - 9 pm)  |  \\ 2  |  \\ 4  ||
+|  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.3  |  \\ 2.7  ||
+|  Other\\ \\ Sessions  |  \\ 2 - 7  |  \\ 3 - 9  |  \\ 2 - 10  |
 
 </WRAP>
 
@@ -180,7 +179,7 @@ Trains are all serving between Mesa or Mei Foo Wan and Tai Po, usually alternati
 
 All the stations work in progress will gradually finish and open to public one by one. Tai Po station and Ying Mo station are currently the first batch to finish up. Meanwhile, Haymarket station will depend on the progress of other builders. 
 
-Sections from Tai Po to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] targets to open <del>in 2023 Q2</del> //some time after the Let's Play Server has updated to 4.x.x version of MTR mod//. It will also depend on the progress of the stations.
+Sections from Tai Po to [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] will be depending on the progress of the stations.
 
 The line will become one of the important, fast and convenient north-south connection at the west side. People can also enjoy single ride between [[/southern_snowland|Southern Snowland]] and Denthrope Region. A full circular fast link will be also formed together with [[/kallos_express|Kallos Express]]. 
 
