@@ -35,20 +35,20 @@
 <WRAP right>
 
 |  @#b0c4de:  **Docklands Light Railway**  ||
-| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 碼頭輕軌 |
-| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 码头轻轨 |
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 碼頭區輕鐵 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 码头区轻铁 |
 |  @#F9FFBB: **Transcriptions**  ||
 |  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
-| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | %%mǎ tóu %%qīng guǐ |
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | mǎ tóu qū qīng tiě |
 |  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
-| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | máh tàuh hēng gwái |
-| [[wp>Jyutping|JyutPing]] | maa5 tau4 heng1 gwai2 |
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | máh tàuh kēui hīng tit |
+| [[wp>Jyutping|JyutPing]] | maa5 tau4 keoi1 hing1 tit3 |
 
 </WRAP>
 
 </WRAP>
 
-The Docklands Light Railway ([[wp>Chinese_language|Chinese]]: 碼頭輕軌, Common Notation: DLR) is a core part of the [[/Lilypad_Rail|Lilypad Rail]] network of services, and provides vital connections to many lines in the [[Greater Llanmara|Greater Llanmara]] Region. The line runs as light rail, and in some cases acts as a local to the Metro services' express. The DLR notably features the Central Suburban Loop, with bidirectional travel linking up the major villages in the core of [[Llanmara|Llanmara]] City's suburbs.
+The Docklands Light Railway ([[wp>Chinese_language|Chinese]]: 碼頭區輕鐵, Common Notation: DLR) is a core part of the [[/Lilypad_Rail|Lilypad Rail]] network of services, and provides vital connections to many lines in the [[Greater Llanmara|Greater Llanmara]] Region. The line runs as light rail, and in some cases acts as a local to the Metro services' express. The DLR notably features the Central Suburban Loop, with bidirectional travel linking up the major villages in the core of [[Llanmara|Llanmara]] City's suburbs.
 
 ===== History =====
 
