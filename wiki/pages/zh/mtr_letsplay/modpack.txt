@@ -21,14 +21,13 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
   - 返回 HMCL 主界面，点击右下方的 “启动游戏”。然后您将看到这么个窗口：
 
 <tabbox PCL2>
-
 以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
-  - **请确保您使用的是最新版 PCL2！旧版本的 PCL2 安装不了此整合包**。要查看使用的是否是最新版，在 PCL2 中前往 设置->启动器->检查更新。
+  - **请确保您使用的是最新版 PCL2！旧版本的 PCL2 安装不了此整合包**。要查看使用的是否是最新版，在 PCL2 中前往 设置->其他->系统->检查更新。
   - 打开 PCL2 点击“更多”，点击“百宝箱”，你会看到一个“下载器”功能
   - 往“下载地址”里填入上述链接的任意一个，请记住“保存路径”中的路径，一会儿要用，然后点“开始下载”
   - 点击 “启动”，点击 “版本选择”，点击 “导入整合包”，找到之前“保存路径”的位置，然后选择刚刚下载的 MTR-LetsPlay.zip 。
