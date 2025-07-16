@@ -21,7 +21,7 @@ You can add a model that uses JavaScript to control rendering by writing somethi
 
 In general, the parameters are the same as those required for regular decoration object json for NTE, except for the ''scriptFiles'' parameter.
 
-If the ''model'' parameter is not specified, the JavaScript-driven elements will be overlaid on top of the existing model. Otherwise, the appearance will be controlled solely by JavaScript.
+If the ''model'' parameter is specified, the JavaScript-driven elements will be overlaid on top of the existing model. Otherwise, the appearance will be controlled solely by JavaScript.
 
 ^ Parameter ^ Description ^
 | ''scriptFiles'' | An array containing the locations of .js scripts. Multiple scripts can be specified. |
