@@ -18,7 +18,7 @@ The Spawn Grand Circular is a subway loop on the Let's Play server, and is the o
 
 </WRAP>
 
-There are 16 stations along this subway line, with the Rebirth District station being the oldest and largest station on the server
+There are 16 stations along this subway line, with the [[mtr_letsplay:spawn|Spawn station]] being the oldest and largest station on the server
 
 Here is a list of stations and transfers along the line
 
