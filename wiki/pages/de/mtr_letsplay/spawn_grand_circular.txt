@@ -3,7 +3,6 @@
 
 Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play server und der ältesten u bahn -verbindung auf dem server
 
-
 <WRAP right>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
@@ -20,3 +19,21 @@ Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play serve
 Es gibt 16 Stationen entlang dieser U-Bahn-Linie, wobei die Station Rebirth District die älteste und größte Station auf dem Server ist
 
 Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke
+
+| Name | Im Uhrzeigersinn ↓ Plattform  | Gegen den Uhrzeigersinn ↑ Plattform | Übertragung |
+| Spawn | 1  | 4 |  |
+| Green | 3  | 4 |  |
+| Cheung Chau | 1  | 2 | nein |
+| Chung Chau | 1  | 2 | nein |
+| Tuen Chau | 1  | 2 |  |
+| Enchanted Parkway | 1  | 2 |  |
+| Mou Tapu | 1  | 2 |  |
+| Void Park | 1  | 2 | nein |
+| Makki Meorial Village | 2  | 3 |  |
+| Lei Yue Mun | 1  | 2 |  |
+| Deluxe Breakfast | 1  | 2 |  |
+| McFlurry | 2  | 3 |  |
+| Yanjiang Mineshaft | 1  | 2 |  |
+| Narnia | 1  | 2 | nein |
+| Icesert Estate | 1  | 2 |  |
+| Red Leaves | 1  | 2 |  |
