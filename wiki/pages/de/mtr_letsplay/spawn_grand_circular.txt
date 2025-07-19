@@ -16,3 +16,7 @@ Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play serve
 |{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
+
+Es gibt 16 Stationen entlang dieser U-Bahn-Linie, wobei die Station Rebirth District die älteste und größte Station auf dem Server ist
+
+Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke
