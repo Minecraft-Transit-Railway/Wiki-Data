@@ -16,7 +16,7 @@ Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play serve
 
 </WRAP>
 
-Es gibt 16 Stationen entlang dieser U-Bahn-Linie, wobei die [[de:mtr_letsplay:spawn station|Station Spawn]] die älteste und größte Station auf dem Server ist
+Es gibt 16 Stationen entlang dieser U-Bahn-Linie, wobei die [[de:mtr_letsplay:spawn|Station Spawn]] die älteste und größte Station auf dem Server ist
 
 Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke
 
