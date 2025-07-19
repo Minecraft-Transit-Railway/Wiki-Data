@@ -17,3 +17,25 @@ The Spawn Grand Circular is a subway loop on the Let's Play server, and is the o
 |{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
+
+There are 16 stations along this subway line, with the Rebirth District station being the oldest and largest station on the server
+
+Here is a list of stations and transfers along the line
+
+| Name | Clockwise ↓ platform  | Counterclockwise ↑ Platform | Transfer |
+| Spawn | 1  | 4 |  |
+| Green | 3  | 4 |  |
+| Cheung Chau | 1  | 2 | none |
+| Chung Chau | 1  | 2 | none |
+| Tuen Chau | 1  | 2 |  |
+| Enchanted Parkway | 1  | 2 |  |
+| Mou Tapu | 1  | 2 |  |
+| Void Park | 1  | 2 | none |
+| Makki Meorial Village | 2  | 3 |  |
+| Lei Yue Mun | 1  | 2 |  |
+| Deluxe Breakfast | 1  | 2 |  |
+| McFlurry | 2  | 3 |  |
+| Yanjiang Mineshaft | 1  | 2 |  |
+| Narnia | 1  | 2 | none |
+| Icesert Estate | 1  | 2 |  |
+| Red Leaves | 1  | 2 |  |
