@@ -228,9 +228,9 @@ Not finished construction and not open
 |  @#202020:  |  @#DE5594:  |  [[/mei_foo_wan_station|Mei Foo Wan]]  |  %%美麩灣%%  |  MFW  |    |  23 November, 2024  |  [[/resort_area|Resort Area]]  |
 | ::: |    |  <color #808080>//Haymarket//</color>((Not finished construction and not open))  |  <color #808080>//%%喜瑪旗%%//</color>  |  <color #808080>//HAY//</color>  |  @#E41A56:<color white>Oculink Red Line</color>  |  |  :::  |
 | ::: |  @#22A046:  |  [[/ghost_forest_station|Ghost Forest]]  |  %%死森林%%  |  GHF  |  @#22A046:<color white>Metro Marble Line</color>  |  11 March, 2023  |  [[/east_north_tundra_area|East North Tundra Area]]  |
-| ::: |  @#0500FF:  |  Zuidbaai Centraal((Station is WIP but available for entering and exiting))  |  %%醉白池總站%%  |  ZUI  |  @#389165:<color white>Hillside Line</color>  |  11 October, 2024  |  Zuidbaai  |
+| ::: |  @#0500FF:  |  Zuidbaai((Station is WIP but available for entering and exiting))  |  %%醉白池%%  |  ZUI  |  @#389165:<color white>Sidelines Hillside</color>  |  11 October, 2024  |  Zuidbaai  |
 | ::: | ::: | ::: | ::: | ::: |  @#72B24A:Light Rail Metro  | ::: | ::: |
-| ::: | ::: | ::: | ::: | ::: |  @#0032B6:<color white>BCT Blue Line (via Zuidbaai)</color>  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#0032B6:<color white>BCT Blue Line</color>  | ::: | ::: |
 | ::: |    |  <color #808080>//Chung Kong//</color>((Not finished construction and not open))  |  <color #808080>//%%松江%%//</color>  |  <color #808080>//CHK//</color>  |  @#94D1D1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  |  :::  |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - Main Section**</color>  ||||||||
 |  @#317D09:  ||  Tung Yuen  |  %%凍原%%  |  TUY  |  |  30 November, 2024((Platforms open on 23 November, 2024))  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ Northern Snowland  |
