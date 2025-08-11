@@ -14,6 +14,10 @@ Minecraft Transit Railway是一个依据港铁、伦敦地铁和纽约地铁制�
 
 前往[[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway |CurseForge页面]]或者[[https://modrinth.com/mod/minecraft-transit-railway|Modrinth页面]]下载Mod或查看项目信息。
 
+===== 疑难解答 =====
+
+Mod 不能正常工作了吗? 请查看一下 [[mtr:troubleshooting|疑难解答]] 页面来检查常见的问题和如何解决他们! 祝你游玩愉快。
+
 ===== 版本 =====
   * [[mtr:3.0.X | V3.0.X]]
   * [[mtr:3.1.X | V3.1.X]]
