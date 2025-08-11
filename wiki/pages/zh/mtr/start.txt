@@ -1,4 +1,4 @@
-====== Minecraft Transit Railway 3.X ======
+====== Minecraft Transit Railway Mod ======
 
 Minecraft Transit Railway是一个依据港铁、伦敦地铁和纽约地铁制作的[[https://minecraft.fandom.com/zh/wiki/%E5%8A%A0%E8%BD%BD%E5%99%A8Mod | Minecraft Mod]]。它将列车与其他铁路设施和物品一起添加到了游戏中。凭借这个MOD就可以在你的世界里建立一个功能齐全的铁路系统。
 
