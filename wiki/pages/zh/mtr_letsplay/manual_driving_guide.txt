@@ -64,7 +64,7 @@ The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is r
 | **加速度** | 1.2m/s/s |
 | **减速度** | 1.2m/s/s |
 
-For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color>, click [[mtr_letsplay:fryskeline|here]].
+For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color>, click [[mtr_letsplay:fryskeline|这里]].
 
 ===== 一号（美岩）线一期 =====
 
