@@ -65,7 +65,7 @@ TODO: add links
   * Added the K-train
   * Added [[mtr:depot|Depots]]
   * Added turn back rails
-  * Added ticket processors ([[mtr_community:lx862|LX86]])
+  * Added ticket processors ([[mtr_community:staff:lx862|LX86]])
   * Added station exits
   * Added one-way rails
   * Added Light Rail Phase 2 and 3 trains ([[mtr_community:eric|Eric]])
@@ -78,24 +78,24 @@ TODO: add links
   * Added the MLR train
   * Added the R179 train
   * Added the Light Rail Phase 5 train ([[mtr_community:eric|Eric]])
-  * Added another type of PIDS ([[mtr_community:lx862|LX86]])
+  * Added another type of PIDS ([[mtr_community:staff:lx862|LX86]])
   * Added [[mtr:platform_blocks|platform block]] variants
   * Added the KCR E44 "Yellow Head"
   * Added clockwise and counterclockwise to circle lines
   * Added the train sensor block ([[mtr_community:cherbert|Cherbert]])
-  * Added blue and sandy marble blocks ([[mtr_community:kettlekettle|Kettle]])
+  * Added blue and sandy marble blocks ([[mtr_community:contributors:kettlekettle|Kettle]])
   * Added the online system map
   * Added blockbench model loading
-  * Added the tactile map ([[mtr_community:snc|Snc]], [[mtr_community:lx862|LX86]], and [[mtr_community:bosco|Bosco]])
+  * Added the tactile map ([[mtr_community:snc|Snc]], [[mtr_community:staff:lx862|LX86]], and [[mtr_community:bosco|Bosco]])
   * Added signals & signal related blocks
   * Added 22.5 and 45 degree rail node angles
   * Added the train schedule sensor ([[mtr_community:cherbert|Cherbert]])
-  * Added sign, [[passenger_information_display_system|PIDS]], and clock poles ([[mtr_community:lx862|LX86]])
+  * Added sign, [[passenger_information_display_system|PIDS]], and clock poles ([[mtr_community:staff:lx862|LX86]])
   * Added ceiling blocks with light or no light
-  * Added custom [[passenger_information_display_system|PIDS]] messages ([[mtr_community:lx862|LX86]])
+  * Added custom [[passenger_information_display_system|PIDS]] messages ([[mtr_community:staff:lx862|LX86]])
   * Added old and fictional liveries to light rail trains ([[mtr_community:pz_hoshiyomi|PZ Hoshiyomi]] and [[mtr_community:account_disabled|Account Disabled]])
   * Added C-Train ([[mtr_community:eric|Eric]])
-  * Added 4-door trains ([[mtr_community:bdark000|BDark000]])
+  * Added 4-door trains ([[mtr_community:staff:bdark000|BDark000]])
 
 === Beta-9 ===
 
@@ -108,14 +108,14 @@ TODO: add links
   * Added route finder to the online system map
   * Added the CM-train
   * Added the S-Train ([[mtr_community:aozoramarcus|AozoraMarcus]])
-  * Added hidden routes ([[mtr_community:lx862|LX86]])
+  * Added hidden routes ([[mtr_community:staff:lx862|LX86]])
   * Added a separate block for the top of PSDs
   * Added arrival projector route filtering
   * Added the R211 train ([[mtr_community:eric|Eric]])
   * Added station color slabs ([[mtr_community:cherbert|Cherbert]], [[mtr_community:eric|Eric]])
   * Added the BR 802 train
   * Added the dashboard color picker
-  * Emerald rail (60km/h) and Quartz rail (200km/h) ([[mtr_community:bdark000|BDark000]])
+  * Emerald rail (60km/h) and Quartz rail (200km/h) ([[mtr_community:staff:bdark000|BDark000]])
 
 ==== V3.0.0 ====
 
@@ -159,5 +159,4 @@ TODO: add links
   * Added BVE sound support ([[mtr_community:nemo|Nemo]])
 
 ^  <- Prev  ^  Current  ^  Next ->  ^
-|  --  |  [[mtr:3.0.x| V3.0.X]]  |  [[mtr:3.1.x| V3.1.X]]  |
-
+|  [[mtr:alpha test 0.0.1| alpha test 0.0.1]]  |  [[mtr:3.0.x| V3.0.X]]  |  [[mtr:3.1.x| V3.1.X]]  |
