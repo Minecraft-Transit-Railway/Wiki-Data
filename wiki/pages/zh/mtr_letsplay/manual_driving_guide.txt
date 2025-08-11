@@ -52,7 +52,7 @@ The <color white/#04959E>**<html>&nbsp须弥枫丹线&nbsp</html>**</color> 驾�
 | **加速度** | 4.0m/s/s |
 | **减速度** | 4.0m/s/s |
 
-For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|here]].
+For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|这里]].
 
 ===== Fryske Sprinter =====
 
