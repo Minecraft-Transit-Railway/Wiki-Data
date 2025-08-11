@@ -98,8 +98,7 @@ TODO: add links
   * Added 4-door trains ([[mtr_community:staff:bdark000|BDark000]])
 
 === Beta-8 unofficial 10a ===
-This is a small update that includes several clientside only bug fixes and improvements. Servers do not have to update to this version; players using unofficial-10a can join servers using unofficial-10.
-Changes
+  *This is a small update that includes several clientside only bug fixes and improvements. Servers do not have to update to this version
   *Right clicking the tactile map (at a station) will show a nice welcome message
   *Tactile map music will no longer stop when resource pack are changed, music is now part of the "Blocks" category
   *Iris shader compatibility and rendering fixes for 1.16 and 1.17!
