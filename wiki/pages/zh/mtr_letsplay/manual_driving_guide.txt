@@ -28,7 +28,7 @@
 | **加速度** | 3.2m/s/s |
 | **减速度** | 3.2m/s/s |
 
-关于<color white/#520DFA>**<html>&nbsp船顿线&nbsp</html>**</color>的更多信息详见[[mtr_letsplay:shipton_line|here]]。
+关于<color white/#520DFA>**<html>&nbsp船顿线&nbsp</html>**</color>的更多信息详见[[mtr_letsplay:shipton_line|这里]]。
 
 ===== 须弥枫丹线 =====
 
