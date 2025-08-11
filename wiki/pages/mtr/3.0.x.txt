@@ -97,6 +97,17 @@ TODO: add links
   * Added C-Train ([[mtr_community:eric|Eric]])
   * Added 4-door trains ([[mtr_community:staff:bdark000|BDark000]])
 
+=== Beta-8 unofficial 10a ===
+This is a small update that includes several clientside only bug fixes and improvements. Servers do not have to update to this version; players using unofficial-10a can join servers using unofficial-10.
+Changes
+  *Right clicking the tactile map (at a station) will show a nice welcome message
+  *Tactile map music will no longer stop when resource pack are changed, music is now part of the "Blocks" category
+  *Iris shader compatibility and rendering fixes for 1.16 and 1.17!
+  *Path generation messages will no longer show "Untitled" for missing paths from one route to the next
+Known Issues
+  *(1.17 only) Text shows up as red with a black background when using Iris or Optifine shaders
+As always, please let me know if you encounter any bugs. Thank you and enjoy slight_smile
+
 === Beta-9 ===
 
   * Added [[mtr:cargo_loaders_and_unloaders|cargo loader and unloader]] ([[mtr_community:simba|Simba]])
