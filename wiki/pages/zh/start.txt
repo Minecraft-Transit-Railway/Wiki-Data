@@ -3,6 +3,7 @@
 ===== Minecraft Transit Railway =====
 
   * [[zh:mtr:start|Minecraft Transit Railway 模组]] - 关于本模组的文章
+    * 正在寻找关于MTR4.0版本的信息吗? [[zh:mtr:4.0.x|访问MTR4.0版本的主页]]!
 
 ===== 更多资源 =====
 
@@ -24,4 +25,3 @@
 
 Wiki 共笔网站就是要汇聚众多人的见解。注册账号之后，您即可编辑补充本站内容，或增添新内容，以更好地将 MTR 介绍给更多人。
   * 确保你阅读了 [[wiki_guidelines|维基指南]] 和 [[edit_guideline|编辑指南]]。
-
