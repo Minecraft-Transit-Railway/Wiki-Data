@@ -16,7 +16,7 @@
 | **加速度** | 4.0m/s/s |
 | **减速度** | 4.0m/s/s |
 
-关于<color white/#25ADF6>**<html>&nbsp怀旧线&nbsp</html>**</color>的更多信息详见[[mtr_letsplay:nostalgia_line|here]]。
+关于<color white/#25ADF6>**<html>&nbsp怀旧线&nbsp</html>**</color>的更多信息详见[[mtr_letsplay:nostalgia_line|这里]]。
 
 ===== 船顿线 =====
 
