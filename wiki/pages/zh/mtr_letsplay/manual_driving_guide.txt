@@ -76,7 +76,7 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 | **加速度** | 1.1m/s/s |
 | **减速度** | 0.9m/s/s |
 
-For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|here]].
+For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|这里]].
 
 ----
 
