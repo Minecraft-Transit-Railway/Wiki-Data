@@ -1,3 +1,9 @@
+|  @#b42249: <color white>**Minecraft Transit Railway 4.0**</color>  ||
+|  **MTR 4.0** is an upcoming major release of the Minecraft Transit Railway Mod. \\ It focuses on refining the player experience, fixing long-standing crashes/bugs, substantially improved frame-rate, as well as adding long-requested features such as mixing carriage in a train. \\ Below, you can learn more about MTR 4.0 depending on your role!  ||
+|  **[[zh:mtr:4.0.x:players_builders|MTR 4 for Players/Builders]]**\\ Explore new features and improvements you can benefit from in MTR 4!  |  **[[mtr:4.0.x:content_developer|MTR 4 for Content Developers]]**\\ Learn more about what to do to adapt your work to MTR 4!  |
+|  **[[mtr:4.0.x:server_admin|MTR 4 for Server Admins]]**\\ For server administrator/manager looking to upgrade to MTR 4  |  **[[mtr:4.0.x:dev_contributors|MTR 4 for Developers/Contributors]]**\\ Looking to contribute to the mod? \\ Learn more about areas where MTR 4 can be improved with helping hands like you!  |
+|  **Expansion & Development**\\ Looking into making your MTR Addons and tools integrating with the MTR Mod?\\ Check out the [[mtr:development|development page]], which contains API references and documentation of the various projects used by the MTR Mod.  ||
+
 ====== 版本 4.0.X ======
 
 Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重大更新，MTR3.2的下一个版本。现有的MTR 3存档可直接升级至MTR 4(但是会有少量问题)。
@@ -88,4 +94,3 @@ FIXME 英语下此条目尚未完成
 由于后端的大量重写，大部分依赖于MTR的附属模组都需要更新，需要更新的模组的菜单可在[[mtr_addon:start|此处]]查看，拥有兼容MTR3或MTR4的标签提示
 
 非常受欢迎的附属模组，比如 [[mtr_addon:lu:start|The Tube]] 和 [[mtr_addon:jcm:start|Joban Client Mod]] 应该已经可用于 MTR 4，但 Nemo's Transit Expansion 除外，其大部分功能已合并进 MTR 本体中
-
