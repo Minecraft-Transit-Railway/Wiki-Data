@@ -16,16 +16,6 @@
 | ::: |  岛式站台  ||
 | ::: | 站台 **2** | <- [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:lake_city_station|湖城]] |
 
-<WRAP left>
-| @#0FBFE4:  **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]** ||
-| ⇅ | [[zh:mtr_letsplay:lake_city_station|湖城]] |
-| ◉ | [[zh:mtr_letsplay:shek_tan_island_station|石滩岛]] |
-| ⇅ | [[zh:mtr_letsplay:sw_plains_station|西南旷野]] |
-| ⇅ | ... |
-| ⇅ | [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
-
-</WRAP>
-
 <WRAP right>
 
 |  @#3bf443:  石滩岛站  ||
@@ -52,5 +42,15 @@
 | **车站代码** | STI |
 | **开通日期** | 9 August, 2022 |
 | **电气化设施** | 750伏第三轨直流电 |
+
+</WRAP>
+
+<WRAP left>
+| @#0FBFE4:  **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]** ||
+| ⇅ | [[zh:mtr_letsplay:lake_city_station|湖城]] |
+| ◉ | [[zh:mtr_letsplay:shek_tan_island_station|石滩岛]] |
+| ⇅ | [[zh:mtr_letsplay:sw_plains_station|西南旷野]] |
+| ⇅ | ... |
+| ⇅ | [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
 
 </WRAP>
