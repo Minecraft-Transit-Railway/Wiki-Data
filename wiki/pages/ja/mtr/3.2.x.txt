@@ -21,4 +21,4 @@ TODO: links
   * 試験的だがマインクラフト1.20以降に対応。
 
 ^   <- Prev   ^   Current   ^   Next ->   ^
-|   [[ja:mtr:3.1.x | V3.1.X]]   |   [[ja:mtr:3.2.x | V3.2.X]]   |   [[ja:mtr:4.0.x | V3.3.X]]   |
+|   [[ja:mtr:3.1.x | V3.1.X]]   |   [[ja:mtr:3.2.x | V3.2.X]]   |   [[ja:mtr:4.0.x | V4.0.X]]   |
