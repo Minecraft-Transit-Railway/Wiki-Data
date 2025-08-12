@@ -3,4 +3,3 @@
 |  **[[mtr:4.0.x:players_builders|MTR 4 for Players/Builders]]**\\ Explore new features and improvements you can benefit from in MTR 4!  |  **[[mtr:4.0.x:content_developer|MTR 4 for Content Developers]]**\\ Learn more about what to do to adapt your work to MTR 4!  |
 |  **[[mtr:4.0.x:server_admin|MTR 4 for Server Admins]]**\\ For server administrator/manager looking to upgrade to MTR 4  |  **[[mtr:4.0.x:dev_contributors|MTR 4 for Developers/Contributors]]**\\ Looking to contribute to the mod? \\ Learn more about areas where MTR 4 can be improved with helping hands like you!  |
 |  **Expansion & Development**\\ Looking into making your MTR Addons and tools integrating with the MTR Mod?\\ Check out the [[mtr:development|development page]], which contains API references and documentation of the various projects used by the MTR Mod.  ||
-
