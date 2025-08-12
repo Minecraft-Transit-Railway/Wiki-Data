@@ -1,0 +1,172 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== Version 3.0.X ======
+
+TODO: description
+
+===== Releases =====
+
+Version 3.0 was developed in a series of unofficial, preview, and pre-releases on the Discord server.
+
+TODO: add links
+
+=== Beta-2 ===
+
+  * Improved train dismounting position checks
+  * Added the [[mtr:clock|Clock]] block
+  * Flattened textures to reduce file size
+  * Fixed OptiFine crash when breaking PSD/APG
+  * Increased maximum speed on most trains
+  * Display speedometer when riding trains
+
+=== Beta-3 ===
+
+  * Added the Light Rail (Phase 1) train
+  * Added 9 new station colour blocks, including quartz and purpur
+  * Added the ticket machine, glass fence, and the station name entrance block
+  * Optimised the escalator ([[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/issues/11|#11]])
+  * Don't show repeated destinations or terminating destination on the PSD/APG
+  * Increased train speeds
+  * Improved train movement
+
+=== Beta-4 ===
+
+  * Added lots of signs! These include platform route signs and direction signs that hang from the ceiling.
+  * PSD, APG and platform route signs now show interchanges
+  * Improved train auto spacing at stations
+  * When in GUI, clients no longer sends packets to server until GUI is closed
+  * Fixed some serverside concurrent modification exception errors
+  * Fixed GUI crashing from null pointer exceptions when rendering background
+  * Fixed model and texture z-fighting with 1.16.5
+  * Renamed mtr:textures/signs to mtr:textures/sign
+  * For resource pack authors: Moved logo.png from mtr:textures/block to mtr:textures/sign
+
+=== Beta-5 ===
+
+  * Added smoother train rides
+  * Added train sounds
+  * Added the C1141A model
+  * Added multiple platforms and routes to [[mtr:railway_sign|railway signs]]
+
+=== Beta-6 ===
+
+  * Fixed dashboard conflicts
+  * Added [[mtr:ticket_barrier|Ticket Barrier]]
+  * Added a new type of [[mtr:passenger_information_display_system|PIDS]]
+  * Added [[mtr:arrival_projector|Arrival Projectors]]
+  * Added the Tung Chung Line CAF train
+  * Added the Airport Express train
+  * A new type of [[mtr:platform_screen_doors|PSD]] ([[mtr_community:choco|Choco]])
+  * Added more types of signs ([[mtr_community:twinklesprinkle|TwinkleSprinkle]])
+  * Added crafting recipes to most items
+
+=== Beta-7 ===
+
+  * Omni-directional [[mtr:platform_blocks|platform blocks]]
+  * Add train variants through a resource pack
+  * Added the K-train
+  * Added [[mtr:depot|Depots]]
+  * Added turn back rails
+  * Added ticket processors ([[mtr_community:staff:lx862|LX86]])
+  * Added station exits
+  * Added one-way rails
+  * Added Light Rail Phase 2 and 3 trains ([[mtr_community:eric|Eric]])
+  * Replay mod support
+  * Default stop time for trains has been increased from 6 seconds to 10 seconds (K-train requires more than 6 seconds to play the open and close door animations.)
+
+=== Beta-8 ===
+
+  * Added car lengths to [[mtr:passenger_information_display_system|PIDS]]
+  * Added the MLR train
+  * Added the R179 train
+  * Added the Light Rail Phase 5 train ([[mtr_community:eric|Eric]])
+  * Added another type of PIDS ([[mtr_community:staff:lx862|LX86]])
+  * Added [[mtr:platform_blocks|platform block]] variants
+  * Added the KCR E44 "Yellow Head"
+  * Added clockwise and counterclockwise to circle lines
+  * Added the train sensor block ([[mtr_community:cherbert|Cherbert]])
+  * Added blue and sandy marble blocks ([[mtr_community:contributors:kettlekettle|Kettle]])
+  * Added the online system map
+  * Added blockbench model loading
+  * Added the tactile map ([[mtr_community:snc|Snc]], [[mtr_community:staff:lx862|LX86]], and [[mtr_community:bosco|Bosco]])
+  * Added signals & signal related blocks
+  * Added 22.5 and 45 degree rail node angles
+  * Added the train schedule sensor ([[mtr_community:cherbert|Cherbert]])
+  * Added sign, [[passenger_information_display_system|PIDS]], and clock poles ([[mtr_community:staff:lx862|LX86]])
+  * Added ceiling blocks with light or no light
+  * Added custom [[passenger_information_display_system|PIDS]] messages ([[mtr_community:staff:lx862|LX86]])
+  * Added old and fictional liveries to light rail trains ([[mtr_community:pz_hoshiyomi|PZ Hoshiyomi]] and [[mtr_community:account_disabled|Account Disabled]])
+  * Added C-Train ([[mtr_community:eric|Eric]])
+  * Added 4-door trains ([[mtr_community:staff:bdark000|BDark000]])
+
+=== Beta-8 unofficial 10a ===
+  *This is a small update that includes several clientside only bug fixes and improvements. Servers do not have to update to this version
+  *Right clicking the tactile map (at a station) will show a nice welcome message
+  *Tactile map music will no longer stop when resource pack are changed, music is now part of the "Blocks" category
+  *Iris shader compatibility and rendering fixes for 1.16 and 1.17!
+  *Path generation messages will no longer show "Untitled" for missing paths from one route to the next Known Issues
+  *(1.17 only) Text shows up as red with a black background when using Iris or Optifine shaders
+
+=== Beta-9 ===
+
+  * Added [[mtr:cargo_loaders_and_unloaders|cargo loader and unloader]] ([[mtr_community:simba|Simba]])
+  * Added the Disneyland Resort Line train ([[mtr_community:eric|Eric]])
+  * Added the tunnel, bridge, and tunnel wall creator
+  * Added boats
+  * Added the LU D78 train
+  * Added the LU 1996 train ([[mtr_community:eric|Eric]])
+  * Added route finder to the online system map
+  * Added the CM-train
+  * Added the S-Train ([[mtr_community:aozoramarcus|AozoraMarcus]])
+  * Added hidden routes ([[mtr_community:staff:lx862|LX86]])
+  * Added a separate block for the top of PSDs
+  * Added arrival projector route filtering
+  * Added the R211 train ([[mtr_community:eric|Eric]])
+  * Added station color slabs ([[mtr_community:cherbert|Cherbert]], [[mtr_community:eric|Eric]])
+  * Added the BR 802 train
+  * Added the dashboard color picker
+  * Emerald rail (60km/h) and Quartz rail (200km/h) ([[mtr_community:staff:bdark000|BDark000]])
+
+==== V3.0.0 ====
+
+  * New trains: London Underground D78, London Underground 1996, S-Train, unrefurbished M-Train, R211, British Rail Class 802
+  * Route maps on route signs, platform screen doors, and automatic platform gates will now combine lines if they share common stations
+  * Certain signs will now show text using the custom font (without crashing)
+  * Added new functional blocks: [[mtr:cargo_loaders_and_unloaders|Cargo Loaders & Unloaders]]
+  * Bridge creator, tunnel creator, and tunnel wall creator items
+  * Boats
+  * Train rendering ratio option
+  * OptiFine compatibility
+  * Smooth scrolling for the online system map
+  * Partial Vivecraft support
+  * Railway data is now saved as individual files instead of through the NBT
+  * Shift clicking the train frequency sliders will move all the sliders at once
+  * Route finder feature on the online system map
+  * Hidden route option
+  * Adjustable train acceleration per siding
+  * Bogies
+  * Only survival and creative players can edit the dashboards
+  * The white part above Platform Screen Doors is now also a standalone block
+  * The announcer block can now play sound files to train riders
+  * Arrival projectors can now be configured to only show certain arrivals
+  * Marble and station coloured slabs
+  * Players riding trains no longer jitter
+  * Added dashboard colour picker
+  * Increased the range where PIDS can detect platform rails by one block
+  * For circular routes, the PIDS and online map will now show more detail, for example "Clockwise via Green Horizons" rather than just the last stop of the route
+
+==== V3.0.1 ====
+
+  * Added cable cars ([[mtr_community:aozoramarcus|AozoraMarcus]])
+  * Added lifts
+  * Added the resource pack creator
+  * Increased the maximum dwell time for platforms
+  * Better Bluemap, Dynmap, and Squaremap support
+  * Train barriers ([[mtr_community:extrememakerx:ExtremeMakerX]])
+  * R-Train ([[mtr_community:aozoramarcus|AozoraMarcus]] and [[mtr_community:eric|Eric]])
+  * RHT variants for light rail trains
+  * Online system map now shows train delays
+  * Added BVE sound support ([[mtr_community:nemo|Nemo]])
+
+^  <- Prev  ^  Current  ^  Next ->  ^
+|  [[mtr:alpha test 0.0.1| alpha test 0.0.1]]  |  [[mtr:3.0.x| V3.0.X]]  |  [[mtr:3.1.x| V3.1.X]]  |
