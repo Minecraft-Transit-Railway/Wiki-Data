@@ -1,5 +1,31 @@
 ====== 石滩岛站 ======
 
+**石滩岛**是一个[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]的车站。
+
+该车站是[[zh:mtr_letsplay:start|齐齐玩服务器]]使用率最少的车站之一
+
+===== 历史 =====
+
+  * **2022年8月9日**: 随着[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]而开通
+
+===== 布局 =====
+
+| **C** | **大堂** | 出口 A/B |
+| **P** | @#0FBFE4: **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 站台** ||
+| ::: | 站台 **1** | [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] -> |
+| ::: |  岛式站台  ||
+| ::: | 站台 **2** | <- [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:lake_city_station|湖城]] |
+
+<WRAP left>
+| @#0FBFE4:  **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]** ||
+| ⇅ | [[zh:mtr_letsplay:lake_city_station|湖城]] |
+| ◉ | [[zh:mtr_letsplay:shek_tan_island_station|石滩岛]] |
+| ⇅ | [[zh:mtr_letsplay:sw_plains_station|西南旷野]] |
+| ⇅ | ... |
+| ⇅ | [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
+
+</WRAP>
+
 <WRAP right>
 
 |  @#3bf443:  石滩岛站  ||
@@ -26,31 +52,5 @@
 | **车站代码** | STI |
 | **开通日期** | 9 August, 2022 |
 | **电气化设施** | 750伏第三轨直流电 |
-
-</WRAP>
-
-**石滩岛**是一个[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]的车站。
-
-该车站是[[zh:mtr_letsplay:start|齐齐玩服务器]]使用率最少的车站之一
-
-===== 历史 =====
-
-  * **2022年8月9日**: 随着[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]而开通
-
-===== 布局 =====
-
-| **C** | **大堂** | 出口 A/B |
-| **P** | @#0FBFE4: **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 站台** ||
-| ::: | 站台 **1** | [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] -> |
-| ::: |  岛式站台  ||
-| ::: | 站台 **2** | <- [[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]] 往 [[zh:mtr_letsplay:lake_city_station|湖城]] |
-
-<WRAP left>
-| @#0FBFE4:  **[[zh:mtr_letsplay:wr_sw_plains_line|西南旷野线]]** ||
-| ⇅ | [[zh:mtr_letsplay:lake_city_station|湖城]] |
-| ◉ | [[zh:mtr_letsplay:shek_tan_island_station|石滩岛]] |
-| ⇅ | [[zh:mtr_letsplay:sw_plains_station|西南旷野]] |
-| ⇅ | ... |
-| ⇅ | [[zh:mtr_letsplay:chong_shu_chau_station|仓鼠洲]] |
 
 </WRAP>
