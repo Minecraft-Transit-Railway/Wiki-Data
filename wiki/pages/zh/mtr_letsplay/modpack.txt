@@ -12,7 +12,7 @@
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>
+</code>((国内用户需通过VPN下载))
 
   - 打开 HMCL，点击左侧的 “版本列表”。
   - 点击左下方的 “安装整合包”，选择 “从互联网下载整合包”，将上述的链接粘贴进去，点击确认。
@@ -25,7 +25,7 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>
+</code>((国内用户需通过VPN下载))
 
   - **请确保您使用的是最新版 PCL2！旧版本的 PCL2 安装不了此整合包**。要查看使用的是否是最新版，在 PCL2 中前往 设置->其他->系统->检查更新。
   - 打开 PCL2 点击“更多”，点击“百宝箱”，你会看到一个“下载器”功能
@@ -41,7 +41,7 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>
+</code>((国内用户需通过VPN下载))
 
   * 点击左上角的 **添加实例** 按钮。
   * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
@@ -112,4 +112,3 @@ Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原�
 ==== 服务器已关闭 ====
 
 Let's Play 服务器每天凌晨 4 点 (UTC+8) 重启。您将提前大约 5 分钟通过聊天收到通知。请稍等片刻，然后重新连接。
-
