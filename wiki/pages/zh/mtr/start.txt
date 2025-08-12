@@ -21,7 +21,7 @@ Mod 不能正常工作了吗? 请查看一下[[mtr:troubleshooting|疑难解答]
 ===== 版本 =====
   * [[mtr:3.0.X | V3.0.X]]
   * [[mtr:3.1.X | V3.1.X]]
-  * [[mtr:3.2.X | V3.2.X]]
+  * [[zh:mtr:3.2.X | V3.2.X]]
   * [[zh:mtr:4.0.x | V4.0.X]]
 ===== Wiki页面 =====
 ~~NOCACHE~~
