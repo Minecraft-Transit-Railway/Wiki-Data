@@ -1,3 +1,4 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 |  @#b42249: <color white>**Minecraft Transit Railway 4.0**</color>  ||
 |  **MTR 4.0** is an upcoming major release of the Minecraft Transit Railway Mod. \\ It focuses on refining the player experience, fixing long-standing crashes/bugs, substantially improved frame-rate, as well as adding long-requested features such as mixing carriage in a train. \\ Below, you can learn more about MTR 4.0 depending on your role!  ||
 |  **[[zh:mtr:4.0.x:players_builders|MTR 4 for Players/Builders]]**\\ Explore new features and improvements you can benefit from in MTR 4!  |  **[[mtr:4.0.x:content_developer|MTR 4 for Content Developers]]**\\ Learn more about what to do to adapt your work to MTR 4!  |
