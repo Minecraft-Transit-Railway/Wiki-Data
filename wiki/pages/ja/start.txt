@@ -1,4 +1,4 @@
-FIXME **このページはまだ完全には、翻訳されません。翻訳の完了を支援して下さい。**\\ //（翻訳が完了したらこの段落を削除して下さい）//
+TODO:add links!
 
 ようこそ！Minecraft Transit Railway公式Wikiへ！！
 
