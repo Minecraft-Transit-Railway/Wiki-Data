@@ -1,6 +1,6 @@
 等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 |  @#b42249: <color white>**Minecraft Transit Railway 4.0**</color>  ||
-|  **MTR 4.0** 是我的世界交通铁路模组即将推出的重大更新版本。 \\ 本次更新重点在于优化玩家体验、修复长期存在的崩溃/错误问题、大幅提升帧率，以及添加玩家长期期待的功能，例如在列车中混合车厢。 \\ 以下内容将根据您的角色为您详细介绍 MTR 4.0 的相关内容！ ||
+|  **MTR 4.0** 是我的世界交通铁路模组即将推出的重大更新版本。 \\ 本次更新重点在于优化玩家体验、修复长期存在的崩溃/错误问题、大幅提升帧率，以及添加玩家长期期待的功能，例如在列车中混合车厢。 \\ 以下内容将根据您的角色为您详细介绍 MTR 4.0 的相关内容！  ||
 |  **[[zh:mtr:4.0.x:players_builders|MTR 4 for Players/Builders]]**\\ Explore new features and improvements you can benefit from in MTR 4!  |  **[[mtr:4.0.x:content_developer|MTR 4 for Content Developers]]**\\ Learn more about what to do to adapt your work to MTR 4!  |
 |  **[[mtr:4.0.x:server_admin|MTR 4 for Server Admins]]**\\ For server administrator/manager looking to upgrade to MTR 4  |  **[[mtr:4.0.x:dev_contributors|MTR 4 for Developers/Contributors]]**\\ Looking to contribute to the mod? \\ Learn more about areas where MTR 4 can be improved with helping hands like you!  |
 |  **Expansion & Development**\\ Looking into making your MTR Addons and tools integrating with the MTR Mod?\\ Check out the [[mtr:development|development page]], which contains API references and documentation of the various projects used by the MTR Mod.  ||
