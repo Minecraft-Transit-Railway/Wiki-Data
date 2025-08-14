@@ -69,4 +69,4 @@ TODO: add links
   * Fixed a bunch of issues
 
 ^   <- Prev   ^   Current   ^   Next ->   ^
-|   [[mtr:3.0.x | V3.0.X]]   |   [[mtr:3.1.x | V3.1.X]]   |   [[mtr:3.2.x | V3.2.X]]   |
+|   [[zh:mtr:3.0.x | V3.0.X]]   |   [[zh:mtr:3.1.x | V3.1.X]]   |   [[zh:mtr:3.2.x | V3.2.X]]   |
