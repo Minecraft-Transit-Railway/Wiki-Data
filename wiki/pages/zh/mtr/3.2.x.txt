@@ -9,17 +9,17 @@ TODO: links
 
 
 ==== V3.2.0 ====
-  * Added destination display support to custom trains
-  * Signal fixes
+  * 新增自定义列车目的地显示功能
+  * 信号修复
 
 === V3.2.1 ===
-  * Crystal+ cable car
-  * BR 423 train
+  * 水晶+缆车
+  * BR 423列车
 
 === V3.2.2 ===
-  * 3D escalator model
-  * Added vertical PIDS variants
-  * BR 423 train changes
+  * 3D自动扶梯模型
+  * 新增垂直PIDS变体
+  * BR 423列车改动
 
 ^   <- Prev   ^   Current   ^   Next ->   ^
 |   [[zh:mtr:3.1.x | V3.1.X]]   |   [[zh:mtr:3.2.x | V3.2.X]]   |   [[zh:mtr:4.0.x | V4.0.X]]   |
