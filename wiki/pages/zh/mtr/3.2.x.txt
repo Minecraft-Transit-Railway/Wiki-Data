@@ -22,4 +22,4 @@ TODO: links
   * BR 423 train changes
 
 ^   <- Prev   ^   Current   ^   Next ->   ^
-|   [[mtr:3.1.x | V3.1.X]]   |   [[mtr:3.2.x | V3.2.X]]   |   [[mtr:4.0.x | V4.0.X]]   |
+|   [[zh:mtr:3.1.x | V3.1.X]]   |   [[zh:mtr:3.2.x | V3.2.X]]   |   [[zh:mtr:4.0.x | V4.0.X]]   |
