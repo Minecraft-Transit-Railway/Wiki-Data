@@ -169,4 +169,4 @@ TODO: add links
   * Added BVE sound support ([[mtr_community:nemo|Nemo]])
 
 ^  <- Prev  ^  Current  ^  Next ->  ^
-|  [[mtr:alpha test 0.0.1| alpha test 0.0.1]]  |  [[mtr:3.0.x| V3.0.X]]  |  [[mtr:3.1.x| V3.1.X]]  |
+|  [[zh:mtr:alpha test 0.0.1| alpha test 0.0.1]]  |  [[zh:mtr:3.0.x| V3.0.X]]  |  [[zh:mtr:3.1.x| V3.1.X]]  |
