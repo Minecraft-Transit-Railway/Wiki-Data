@@ -7,30 +7,30 @@ TODO: description
 TODO: add links
 
 ==== V3.1.0 ====
-  * BVE format vehicle sounds (London Underground trains only)
-  * Manual vehicle driving
-  * Additional dynamic textures and fixed memory leaks
-  * Fixed Forge tile entities not rendering when outside the camera view
-  * Clientside railway map when connected to a server
-  * Lockable Platform Screen Doors, Automatic Platform Gates, and Lift Doors
-  * Real-time scheduling and compatibility with the Time & Wind mod
-  * Dismount delay
-  * Ability to loop vehicle instructions forever
+  * BVE格式车辆声音（仅限伦敦地铁列车）
+  * 手动驾驶车辆
+  * 新增动态纹理并修复内存泄漏问题
+  * 修复Forge地砖实体在摄像头视图外无法渲染的问题
+  * 连接服务器时显示客户端铁路地图
+  * 可锁定站台屏蔽门、自动站台闸门及电梯门
+  * 实时调度功能及与Time & Wind模组的兼容性
+  * 下车延迟
+  * 支持无限循环车辆指令
 
 === V3.1.1 ===
-  * Fixed slow world loading
-  * Added an option to disable next station announcements for a specific route
-  * Overlapping station areas on the dashboard will now act as interchanges
+  * 修复世界加载速度过慢问题
+  * 新增选项可关闭特定路线的下一站广播
+  * 仪表盘上重叠的车站区域现可作为换乘站使用
 
 === V3.1.2 ===
-  * Added the Class 377 train
-  * Fixed some issues regarding overlapping stations
+  * 新增 Class 377 列车
+  * 修复部分重叠车站相关问题
 
 === V3.1.3 ===
-  * Fixed some font rendering issues with unicode
-  * Pehkui compatability
-  * Lifts/Elevators now use railway data instead of entities
-  * Lift/Elevator display panel
+  * 修复了与Unicode相关的字体渲染问题
+  * Pehkui兼容性
+  * 电梯/升降机现在使用铁路数据而非实体
+  * 电梯/升降机显示面板
 
 === V3.1.4 ===
   * Fixed lift issues when at high speed
