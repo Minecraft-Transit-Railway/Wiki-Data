@@ -33,40 +33,40 @@ TODO: add links
   * 电梯/升降机显示面板
 
 === V3.1.4 ===
-  * Fixed lift issues when at high speed
-  * Updated route finder on the online system map
-  * Added the odd and flat variants for the lift/elevator display panel
-  * Lift/Elevator buttons can now be locked using the brush
+  * 修复了高速行驶时的电梯问题
+  * 更新了在线系统地图上的路线查找器
+  * 为电梯显示面板添加了奇数和偶数变体
+  * 现在可以使用画笔锁定电梯按钮
 
 === V3.1.5 ===
-  * Fixed issue with cable cars
-  * Added destination displays for most trains
-  * Routes can now be assigned a custom destination
+  * 修复了缆车问题
+  * 为大多数列车添加了目的地显示
+  * 现在可以为路线分配自定义目的地
 
 === V3.1.7 ===
-  * Arrows will now be displayed on the online system map for one-way routes
-  * PIDS can now be configured to only display arrivals at specific platforms
+  * 在线系统地图上将显示单向路线的箭头
+  * PIDS现在可以配置为仅显示特定站台的到站信息
 
 === V3.1.8 ===
-  * Metal blocks and slab
-  * Added a driver key crafting recipes
+  * 金属块和板材
+  * 添加了驾驶员钥匙的制作配方
 
 === V3.1.9 ===
-  * Fixed some more graphics bugs
-  * Arrival projectors can now be configured to display a certain page
-  * Added the MPL 85 train
-  * Experimental railway data logging
+  * 修复了一些图形错误
+  * 到站投影仪现在可以配置为显示特定页面
+  * 添加了MPL 85列车
+  * 实验性铁路数据记录
 
 === V3.1.10 ===
-  * Added sounds for the MPL 85 and Class 377
-  * Sidings no longer accept trains that are too long to fit a single car in the siding
-  * Added planes
+  * 为MPL 85和377型列车添加了声音
+  * 侧线不再接受长度超过侧线单节车厢容纳范围的列车
+  * 添加了飞机
 
 === V3.1.11 ===
-  * Added 3 and 4 aspect signals
-  * Signals will now function even if there is no signal connector
-  * Show vehicle descriptions when hovering over vehicles in the depot menu
-  * Fixed a bunch of issues
+  * 添加了3和4方面信号
+  * 信号现在即使没有信号连接器也能正常工作
+  * 在车库菜单中悬停车辆时显示车辆描述
+  * 修复了一系列问题
 
 ^   <- Prev   ^   Current   ^   Next ->   ^
 |   [[zh:mtr:3.0.x | V3.0.X]]   |   [[zh:mtr:3.1.x | V3.1.X]]   |   [[zh:mtr:3.2.x | V3.2.X]]   |
