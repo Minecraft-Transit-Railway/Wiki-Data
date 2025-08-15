@@ -10,7 +10,7 @@
 
 以下是目前正在Let’s Play服务器中使用的高速铁路车站编号:
 
-|  @#B0B0B0:**线路名称**  |  @#B0B0B0:**Priority Number**  |  @#B0B0B0:**终点站**  |  @#B0B0B0:**线路编号**  |
+|  @#B0B0B0:**线路名称**  |  @#B0B0B0:**优先级编号**  |  @#B0B0B0:**终点站**  |  @#B0B0B0:**线路编号**  |
 |  Northern Heights Line  |  **1**  |  **YNK** (//Yankton//)  |  **32**  |
 |  :::  |  **1**  |  **LLA** (//Llanmara Saint Ann's//)  |  **39**  |
 |  Einsburg Line  |  **9**  |  **ENS** (//Einsburg Central//)  |  **45**  |
