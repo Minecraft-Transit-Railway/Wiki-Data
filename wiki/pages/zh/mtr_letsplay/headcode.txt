@@ -2,10 +2,32 @@
 
 高速铁路线路编号是一种给高速铁路进行编号的数字和字母串
 
-在[[..:start|齐齐玩]]服务器中，编号采用以下编号方式
+在[[:start|齐齐玩]]服务器中，编号采用以下编号方式
 
 1数字+终点站缩写3位字母+2数字
 
-如：[[..:1lla39|1LLA39]]，[[..:hsr_northern_heights_line|北原线]]往[[..:llanmara|湾堡城]]，中间的“LLA”为湾堡城（Llanmara）的缩写
+如：[[:1lla39|1LLA39]]，[[:hsr_northern_heights_line|北原线]]往[[:llanmara|湾堡城]]，中间的“LLA”为湾堡城（Llanmara）的缩写
 
 以下是目前正在Let’s Play服务器中使用的高速铁路车站编号:
+
+|  @#B0B0B0:**线路名称**  |  @#B0B0B0:**Priority Number**  |  @#B0B0B0:**终点站**  |  @#B0B0B0:**线路编号**  |
+|  Northern Heights Line  |  **1**  |  **YNK** (//Yankton//)  |  **32**  |
+|  :::  |  **1**  |  **LLA** (//Llanmara Saint Ann's//)  |  **39**  |
+|  Einsburg Line  |  **9**  |  **ENS** (//Einsburg Central//)  |  **45**  |
+|  :::  |  **9**  |  **DEN** (//Denthrope Hauptbahnhof//)  |  **62**  |
+|  Southern Cross Line  |  **9**  |  **YOC** (//Yongchun//)  |  **12**  |
+|  :::  |  **9**  |  **YNK** (//Yankton//)  |  **53**  |
+|  North East Line  |  **9**  |  **SPW** (//Spawn//)  |  **08**  |
+|  :::  |  **1**  |  **JON** (//Jonathan's Resort//)  |  **43**  |
+|  Dan Chun Line  |  **9**  |  **SPW**  (//Spawn//)  |  **24**  |
+|  :::  |  **9**  |  **YOC** (//Yongchun//)  |  **55**  |
+|  Kalliskeard Line  |  **1**  |  **KAL** (//Kallos LRT Depot//)  |  **72**  |
+|  :::  |  **9**  |  **LSK** (//Liskeard Central//)  |  **82**  |
+|  Kallos Line  |  **9**  |  **KAL** (//Kallos LRT Depot//)  |  **06**  |
+|  :::  |  **9**  |  **SPW** (//Spawn//)  |  **12**  |
+|  Intercity Metro-Diagonally Line  |  **2**  |  **YOC** (//Yongchun//)  |  **57**  |
+|  :::  |  **2**  |  **SUR** (//Sunrise//)  |  **90**  |
+|  Argenti West Coast  |  **2**  |  **BYE** (//Byeollae//)  |  **34**  |
+|  :::  |  **2**  |  **RHC** (//Den Hof Centraal//)  |  **88**  |
+|  ITX Cheongchun  |  **2**  |  **BYE** (//Byeollae//)  |  **24**  |
+|  :::  |  **2**  |  **DAN** (//Danielston Memorial//)  |  **40**  |
