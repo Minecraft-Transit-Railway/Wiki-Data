@@ -20,3 +20,9 @@ This may be due to your GPU not being able to handle displaying such a high reso
   - Click the **Options...** button at the bottom right
   - Find the **Dynamic Resolution** entry and turn the slider down
 
+===== Contact Us =====
+If you still have any questions about your game, you can contact us with following links:
+==GitHub==
+https://github.com/jonafanho/Minecraft-Transit-Railway
+==Discord==
+https://discord.com/invite/PVZ2nfUaTW
