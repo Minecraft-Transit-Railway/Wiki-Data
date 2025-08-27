@@ -16,13 +16,13 @@
 |  @#EFEEF0:  **Service & Operation**  ||
 | **Began passenger operation** | August 26, 2023 |
 | **Operator(s)** | [[shimanomtr|Shimano LRT]] |
-| **Train length** | 2 or 4 vehicles per trainset |
+| **Train length** | 1 - 5 vehicles per trainset |
 |  @#EFEEF0:  **Technical**  ||
 | **No. of tracks** | 2 |
 | **Track gauge** | 1435mm |
 | **Electrification** | [[wp>List_of_railway_electrification_systems#750_V_DC|750V DC Overhead systems]] |
-| **Maximum speed** | 70 km/h\\ 80km/h(Partnal) |
-| **Top operational speed** | 60 km/h\\ 80km/h(Partnal) |
+| **Maximum speed** | 80 km/h\\ 100km/h(Partnal) |
+| **Top operational speed** | 80km/h |
 |  @#EFEEF0:  **Construction Specifications**  ||
 | **Distance between nodes** | 3 blocks |
 </WRAP>
