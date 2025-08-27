@@ -30,206 +30,173 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 =====Routes=====
 ====In operation====
- * (S1)[[Shinx Line]]
+* (S1)[[Shinx Line]]
 
- * (S2)[[Sprigatito Line]]
+* (S2)[[Sprigatito Line]]
 
- * (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
+* (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
 
- * (S8)[[Zacyan Line]]
+* (S8)[[Zacyan Line]]
 
- * (S10)[[Furret Line]]
+* (S10)[[Furret Line]]
 
- * (S11)[[Cinderace Line]]
+* (S11)[[Cinderace Line]]
 
- * (S12)[[Decidueye Line]]
+* (S12)[[Decidueye Line]]
 
- * (S13)[[Jigglypuff Line]]
+* (S13)[[Jigglypuff Line]]
 
- * (S14)[[Dialga Line]]
+* (S14)[[Dialga Line]]
 
 ====Under Construction & Planning====
- * (S4)[[Momoyama Line]]
+* (S4)[[Momoyama Line]]
 
- * (S15)Toadette Line((Number assigned only. Tentative name.))
+* (S15)Toadette Line((Number assigned only. Tentative name.))
 
 ====Abolition====
- * (S2T)[[Sprigatito Line]]
+* (S2T)[[Sprigatito Line]]
 
- * (S11T)[[Cinderace Line]]
+* (S11T)[[Cinderace Line]]
 
 ====Others====
- * [[Cinderace Light Railway]]
+* [[Cinderace Light Railway]]
 
- * [[shimanolrt]]
+* [[shimanolrt]]
 
- * [[Kamaboko LRT]]
+* [[Kamaboko LRT]]
 
- * [[In-Station Transit (SMTR)|In-Station Transit]]
+* [[In-Station Transit (SMTR)|In-Station Transit]]
 
- * [[Spring-Autumn Shuttle]]
+* [[Spring-Autumn Shuttle]]
 
 =====Rolling Stocks=====
-The model numbering method will be revised after the MTR4 update.
-====Legend====
- S01A01
-
- *<S01> - The main route it belongs to.
-
- *<A> - Vehicle specifications
-|**Vehicle specifications**|**Overview**|
-|A|25m/5 doors. Used on the M-Train, etc.|
-|B|20m/4 doors. Used on the Eidan 9000, etc.|
-|C|15m/3 doors. Used on the S-Stock, etc.　Not adopted within TRT.|
-|LC|15m/3 doors/Linear Induction Motor. Used on the LIMACE.|
-|SA|15m/2 doors. Used on the S43-Tec LRT. SLRT is not yet revised|
-|SB|15m/2 doors. Used on the LIGHTACE. SLRT is not yet revised|
-|SC|3-body articulation. Used on the Siemens S700. SLRT is not yet revised|
-|GA|10m/2 doors/AGT. Used on the Mini.|
-|GB|9m/1 doors/AGT. Used on the Kobe 8000.|
- *<01> - Vehicle generation. Up to 99 generations can be set.
 ====Current====
 ===Shinx Line===
- *[[S01A01]](MTR3:1000 Series/K-Train)
+* [[1000 Series]]
 
- *[[S01A02]](MTR3:1100 Series/K-Train Shiny)
+* [[1100 Series]]
 
- *[[S01A03]](MTR3:1200 Series/E233-2000)
+* [[1200 Series]]
 
 ===Sprigatito Line===
- *[[S02A01]](MTR3:2000 Series/Sendai 1000 Sprigatito)
+* [[2000 Series]]
 
- *[[S02A02]](MTR3:2000 Series/Sendai 1000 Meowscarada)
+* [[2100 Series]]
 
 ===Shimano Line===
- *[[S03A01]](MTR3:3000 Series/CM-Stock)
+* [[3000 Series]]
 
- *[[S03A02]](MTR3:3100 Series/GZMTRA1(Shanghai Metro 01A03))
+* [[3100 Series]]
 
- *[[S03A03]](MTR3:3200 Series/209-1000)
+* [[3200 Series]]
 
- *[[S03A04]](MTR3:3300 Series/C-Train)
+* [[3300 Series]]
 
- *[[S03A05]](MTR3:3300R Series/C-Train+CM-Stock)
+* [[3300R Series]]
 
 ===Zacian Line===
- *[[S08B01]](MTR3:8000 Series/Eidan 9000)
+* [[8000 Series]]
 
 ===Furret Line===
- *[[S10A05]](MTR3:10-000 Series/A-Train)
+* [[10-000 Series]]
 
 ===Cinderace Line===
- *[[11-000_series|S11LC01]](MTR3:11-000 Series/LIMACE-PT)
+* [[11-000_series|11-000 Series]]
 
- *[[11-000_series|S11LC02]](MTR3:11-100 Series/LIMACE-PT)
+* [[11-000_series#section11100|11-100 Series]]
 
- *[[11-000_series|S11LC03]](MTR3:11-200 Series/LIMACE-PT)
+* [[11-000_series#section11200|11-200 Series]]
 
- *[[11-000_series|S11LC04]](MTR3:11-300 Series/LIMACE-PT)
+* [[11-000_series#section11300|11-300 Series]]
 
- *[[11-000_series|S11LC05]](MTR3:11-400 Series/LIMACE-UB)
+* [[11-000_series#section11500|11-400 Series]]
 
- *[[11-000_series|S11LC06]](MTR3:11-500 Series/LIMACE-UB)
+* [[11-000_series#section11500|11-500 Series]]
 
- *[[11-000_series#section11600700800|S11L<sub>C</sub>07]](MTR3:11-600 Series/LIMACE)
+* [[11-000_series#section11600700800|11-600 Series]]
 
 ===Decidueye Line===
- *[[S12GB05]](MTR3:12-000 Series/Kobe 8000)
+* [[12-000 Series]]
 
 ===Jigglypuff Line===
- *[[S13SB01]](MTR3:13-100 Series/LIGHTACE LRV 1999T)
+* [[13-100 Series]]
 
 ===Dialga Line===
- *[[S14SB01]](MTR3:14-000 Series/LIGHTACE LRV 2015T)
+* [[14-000 Series]]
 
 ===Shimano LRT===
- *[[LRV 1928]]
+See [[shimanolrt|Shimano LRT]]
 
- *[[LRV 1973D]]
-
- *[[LRV 1999]]
-
- *[[LRV 1999T]]
-
- *[[LRV 2015]]
-
- *[[LRV 2015T]]
-
- *[[S15SA01]](MTR3:15-000 Series/LIGHTACE LRV 2015T)
-((Scheduled to be transferred to Shimano MTR.))
-
- *[[Alexander Denis Enviro 200 JPN]](Bus)
-
- *[[Yutong U12]](Bus)
- 
 ===CLR===
- *[[LMV 2014]]
-
- *[[LMV 2023]]
-
- *[[Metro Car]]
+* [[CLR B90]]
 
 ===in-Station Transit===
 * [[LRV 2015]]
 
- *AGT 2000
+* [[CLR B90]]
 
 ====Former====
 ===Shinx Line===
- *[[8000 Series]](Trial operation)
+* [[8000 Series]](Trial operation)
 
 ===Jigglypuff Line===
- *[[13-000 Series]]
-
-===CLR===
- *[[CLR B90]]
+* [[13-000 Series]]
 
 ===Kamaboko LRT===
- *[[1992 Stock]]
+* [[1992 Stock]]
 
- *[[1995 Stock]]
+* [[1995 Stock]]
 
- *[[1996 Stock]]
+* [[1996 Stock]]
 
- *[[BVG Crass H]](Trial operation)
+* [[BVG Crass H]](Trial operation)
 
- *[[LRV 1975]]
+* [[LRV 1975]]
+
+===Shimano LRT===
+* [[LRV 1975]]
+
+* [[LRV 1980]]
+
+* [[LRV 1980R]]
+
+* [[LRV 1987]]
+
+* [[LRV 1995]]
+
+* [[LRV 2002]]
+
+* [[LRV 2010]]
+
+* [[LRV 2020]]
+
+* [[LRV 2024]]
 
 ===in-Station Transit===
- *[[Lightrail Phase 3]]
+* [[Lightrail Phase 3]]
 
- *[[LRV 2002]]
+* [[LRV 2002]]
 
 ====Feature====
 ===Sprigatito Line===
- *[[2300 Series]]
+* [[2300 Series]]
 
 ===Momoyama Line===
- *[[4000 Series]]
+* [[4000 Series]]
 
 ===Toadette Line===
- *[[S15SA01]](MTR3:15-000 Series/LIGHTACE LRV 2015T)((Planned to be transferred from Shimano LRT.))
+* [[15-000 Series]]((Planned to be transferred from Shimano LRT.))
 
 ===SMTR Lines(Routes to be introduced are undecided)===
 Note:Temporary name
 
- *7500 Series
-
- *Shanghai subway Trains
+* 7500 Series
 
 ===Shimano LRT===
- *LRV 1980R
-
- *LRV 1987
-
- *LRV 1995
-
- *LRV 1995R
-
- *LRV 2002
+* [[LRV 1943]]
 
 =====Related page=====
- *[[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
+* [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
 
 =====Reference(Credit)=====
 カービィ☆PuPuPuとれいん☆
