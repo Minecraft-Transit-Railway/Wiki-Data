@@ -16,7 +16,7 @@
 |  @#EFEEF0:  **Service & Operation**  ||
 | **Began passenger operation** | August 26, 2023 |
 | **Operator(s)** | [[shimanomtr|Shimano LRT]] |
-| **Train length** | 1 - 5 vehicles per trainset |
+| **Train length** | 1 - 5 and 7 vehicles per trainset |
 |  @#EFEEF0:  **Technical**  ||
 | **No. of tracks** | 2 |
 | **Track gauge** | 1435mm |
