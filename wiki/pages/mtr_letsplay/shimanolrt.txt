@@ -43,7 +43,7 @@ Through service with Teifot LRT U2 will begin on 13 February 2024.
 
 All routes except for AL02 will be suspended on August 19, 2024. Through services of Teufort LRT and SMTR will also be suspended. In addition, all vehicles in service at the time, except for LRT 1928, will be taken out of service.
 
-The next day, on August 20, the HG route temporarily resumed service with buses. Other routes were gradually resumed with the introduction of compatible LIGHTACE vehicles, and after through service with SMTR resumed on August 29, all SLRT services were restored. On the same day, all vehicles except for 1928 were deregistered. In connection with this, Landfall Station was renamed Kamiyonai Station. Management of the area around the station was transferred from Teufort LRT to TRT.
+The next day, on August 20, the HG route temporarily resumed service with buses. Other routes were gradually resumed with the introduction of compatible LIGHTACE vehicles, and after through service with SMTR resumed on August 29, all SLRT services were restored. In connection with this, Landfall Station was renamed Kamiyonai Station. Management of the area around the station was transferred from Teufort LRT to TRT.
 
 Between September 16th and 23rd, operation of the Cinderace Light Rail and Kamaboko LRT was transferred from SMTR to SLRT.
 
@@ -62,19 +62,19 @@ Vehicles transplanted from MTR3.
 There have been no major changes to the model except for 1998.
 Odd numbers of cars cannot be included in a train formation.
 ^  Model  ^  Livery  ^  Cars  ^
-| **LRV 1928** | Dark Green | 2 or 4 |
-| **LRV 1954M** | Gold | ::: |
-| **LRV 1954MM** | Retro Green | ::: |
-| **LRV 1973D** | Blue | ::: |
-| **LRV 1998** | Red((Los Santos Transit Livery))| ::: |
-| **LRV 1999** | Alps Green((repaint by RFT51(Former:k51zu) ))| ::: |
-| **LRV 2015** | Rose Pink((repaint by RFT51(Former:k51zu) ))| ::: |
+| **LIGHTACE LRV 1928** | Dark Green | 2 or 4 |
+| **LIGHTACE LRV 1954M** | Gold | ::: |
+| **LIGHTACE LRV 1954MM** | Retro Green | ::: |
+| **LIGHTACE LRV 1973D** | Blue | ::: |
+| **LIGHTACE LRV 1998** | Red((Los Santos Transit Livery))| ::: |
+| **LIGHTACE LRV 1999** | Alps Green((repaint by RFT51(Former:k51zu) ))| ::: |
+| **LIGHTACE LRV 2015** | Rose Pink((repaint by RFT51(Former:k51zu) ))| ::: |
 
 ===STADTACE===
 This is the successor model to LIGHTACE, created with reference to the S43-Tec Stadtbahn, described below.
 It is possible for a train to contain an odd number of cars, but not a single car.
 ^  Model  ^  Livery  ^  Cars  ^
-| **Stadtbahn 1994** | Subaru Vista Blue | 2 - 5 |
+| **STADTACE Stadtbahn 1994** | Subaru Vista Blue | 2 - 5 |
 
 ===S43-Tec Stadtbahn===
 A vehicle made by S43. It is the successor model to the S43-Tec LRT that existed when the SLRT opened.
@@ -82,12 +82,12 @@ It is possible to connect an odd number of cars to a train, and single-car forma
 As a general rule, the colors used in the previous model have been retained.
 Only Stadtbahn 2002 has a Metro model with a larger proportion of seats across the street. This is mainly used for short distance routes.
 ^  Model  ^  Livery  ^  Cars  ^
-| **Stadtbahn 1980mod** | Yellow | 1 - 5 |
-| **Stadtbahn 1987** | Green | ::: |
-| **Stadtbahn 1987mod** | Silver | ::: |
-| **Stadtbahn 1995** | Orange | ::: |
-| **Stadtbahn 1995mod** | Blue Green | ::: |
-| **Stadtbahn 2002** | Red | ::: |
+| **S43-Tec Stadtbahn 1980mod** | Yellow | 1 - 5 |
+| **S43-Tec Stadtbahn 1987** | Green | ::: |
+| **S43-Tec Stadtbahn 1987mod** | Silver | ::: |
+| **S43-Tec Stadtbahn 1995** | Orange | ::: |
+| **S43-Tec Stadtbahn 1995mod** | Blue Green | ::: |
+| **S43-Tec Stadtbahn 2002** | Red | ::: |
 
 ==Shimano MTR Compatible Model==
 A model compatible with through service to Shimano MTR.
@@ -95,13 +95,26 @@ Unlike the Shimano MTR vehicles mentioned below, these vehicles operate without 
 Due to its design, it is not possible to couple it with other trains.
 
 ^  Model  ^  Livery  ^  Cars  ^
-| **1999T Stock** | Lavender(Catnap) | 4 |
+| **LIGHTACE 1999T Stock** | Lavender(Catnap) | 4 |
+
+====Kamaboko LRT====
+This is a carriage exclusively for the Kamaboko LRT. It features a kamaboko-like design with wooden boards.
+There are sections with a height limit of 3.8m, so the carriages used are designed to comply with this.
+Operation with three-car trains began in June 2025.
+^  Model  ^  Livery  ^  Cars  ^
+| **S43-Tec Stadtbahn 1995mod** | Kamaboko | 3 |
+| **LIGHTACE LRV 1973D** | Kamaboko | 2 |
+
+====Cinderace Light Rail====
+Cinderace Light Rail is formerly served by the DLR B90, but now uses the same S43-Tec Stadtbahn as some other SLRTs. It is the only SLRT line to use Thirdrail.
+^  Model  ^  Livery  ^  Cars  ^
+| **S43-Tec Stadtbahn 1995** | Orange | 5 or 7 |
 
 ====Shimano MTR====
-A train that connects to LRT from Shimano MTR. We provide through service for part of AC01 and almost all of KR01.
-Due to its design, it is not possible to couple it with other trains.
+A train that connects to LRT from Shimano MTR. Due to its design, it is not possible to couple it with other trains.
 ^  Model  ^  Livery  ^  Cars  ^
 | **[[mtr_letsplay:13-100_series|13-100 Series]]** | Jigglypuff Line Smoke Pink | 4 |
+| **[[mtr_letsplay:14-000_series|14-000 Series]]** | Dialga Line Blue | 4 |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 
 ===Teufort LRT====
@@ -127,7 +140,7 @@ All of the vehicles were older models for the MTR3.
 |沼10(NM10)|White Snow Village ⇄ Tanagar 1 chome(Feature: ⇄ Unknown station) |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Slumbering Weald ⇄ Daisetu Town ⇄ Extreme Hot Spring|Shinx Line\\ Furret Line|Kamaboko LRT|
 |蒲01-2(KM01-2)|Amethyst Valley ⇄ Slumbering Weald|None|Kamaboko LRT|
-|覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ (Feature: ⇄ Peak of Awakening)|Shimano Line\\ Zasian Line||
+|覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ Peak of Awakening|Shimano Line\\ Zasian Line||
 |縞01(SJ01)|Amethyst Valley ⇄ Mossy River ⇄ Daisetu Town ⇄ Extreme Hot Spring |Shinx Line\\ Furret Line|　|
 |夢01(YM01)|Hokai Mura ⇄ Ancient 2 Chome ⇄ Yumeshima|None|　|
 |AL02|Hana-koshi Hutagojima ⇄ Lakeside Hospital|None|Access line to CyanEX|
