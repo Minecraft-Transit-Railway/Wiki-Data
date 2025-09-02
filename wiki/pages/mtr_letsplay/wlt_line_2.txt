@@ -217,11 +217,10 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  @#FFDA33:  ||||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Pak Kwun Line)**  |||
 | |  Kwong Chow - Spawn  |  Kwong Chow - Makki Memorial Village  |  Kwong Chow - Ostania  |
-|  5 am - 9 am  |  3 - 7  |  4 - 8  |  8  |
-|  9 am - 9 pm  |  1.7 - 3.2  |  3.2 - 4.8  |  8  |
-|  9 pm - 11 pm  |  1.2 - 2.0  |  1.3 - 3.5  |  4.5 - 7  |
-|  11 pm - 1 am  |  1.7 - 3.2  |  3.2 - 4.8  |  8  |
-|  1 am - 3 am  |  3 - 7  |  5.5 - 8  |  8  |
+|  Early Morning\\ \\ (5 am - 9 am)  |  \\ 2.5 - 3.5  |  \\ 6  ||
+|  Day Time\\ \\ (9 am - 9 pm)  |  \\ 1.6 - 2.3  |  \\ 2.3 - 3.7  |  \\ 6  |
+|  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.0 - 1.7  |  \\ 1.3 - 2.7  |  \\ 4  |
+|  \\ Other Sessions\\ <html>&nbsp;</html>  |  \\ 2 - 8  |  \\ 3 - 9  |  \\ 6 - 10  |
 
 </WRAP>
 
