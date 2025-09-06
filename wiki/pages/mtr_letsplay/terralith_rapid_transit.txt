@@ -128,12 +128,12 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 See [[shimanolrt|Shimano LRT]]
 
 ===CLR===
-* [[CLR B90]]
+See [[shimanolrt|Shimano LRT]]
 
 ===in-Station Transit===
-* [[LRV 2015]]
+* S43-Tec Stadtbahn 2002
 
-* [[CLR B90]]
+* S43-Tec Stadtbahn 1995
 
 ====Former====
 ===Shinx Line===
@@ -154,23 +154,7 @@ See [[shimanolrt|Shimano LRT]]
 * [[LRV 1975]]
 
 ===Shimano LRT===
-* [[LRV 1975]]
-
-* [[LRV 1980]]
-
-* [[LRV 1980R]]
-
-* [[LRV 1987]]
-
-* [[LRV 1995]]
-
-* [[LRV 2002]]
-
-* [[LRV 2010]]
-
-* [[LRV 2020]]
-
-* [[LRV 2024]]
+see [[shimano_lrt|Shimano LRT]]
 
 ===in-Station Transit===
 * [[Lightrail Phase 3]]
@@ -178,22 +162,11 @@ See [[shimanolrt|Shimano LRT]]
 * [[LRV 2002]]
 
 ====Feature====
-===Sprigatito Line===
-* [[2300 Series]]
-
 ===Momoyama Line===
 * [[4000 Series]]
 
 ===Toadette Line===
 * [[15-000 Series]]((Planned to be transferred from Shimano LRT.))
-
-===SMTR Lines(Routes to be introduced are undecided)===
-Note:Temporary name
-
-* 7500 Series
-
-===Shimano LRT===
-* [[LRV 1943]]
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
