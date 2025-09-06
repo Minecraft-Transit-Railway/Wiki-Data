@@ -1,0 +1,44 @@
+====== Signals ======
+
+Signals are an important addition to a transportation system. They can prevent vehicles from jamming on a line, especially on single tracked sections or on merges.
+
+There are two important components for signals: signal connectors and signal lights.
+
+===== Signal Connectors =====
+
+Signal connectors apply a signal block on an existing rail with a specific colour. There are 16 different colours for signal connectors. To use, right click on each node of an existing rail. There can be signal blocks of more than one colour on each rail. To remove a signal block, use the Signal Remover item of the corresponding colour. When touching rails share signal blocks of the same colour, they are considered connected. There can be only one vehicle in each connected signal block at one time.
+
+===== Signal Lights =====
+
+Signal lights include 2-aspect, 3-aspect, 4-aspect, and semaphore signals. Signal lights can visually display the state of a signal block on a rail. They must be placed close to a node to function.
+
+When right clicked with a brush, signal lights can be set to only show the state of specific colours of signal blocks rather than the combined state of all the colours.
+
+  * 2-aspect signal lights or semaphores:
+    * Red: Signal block is occupied
+    * Green or blue: Signal block is clear
+  * 3-aspect signal lights:
+    * Red: Signal block is occupied
+    * Yellow: The signal block is clear, but was occupied within the last two seconds
+    * Green: Signal block is clear
+  * 4-aspect signal lights:
+    * Red: Signal block is occupied
+    * Single yellow: The signal block is clear, but was occupied within the last two seconds
+    * Double yellow: The signal block is clear, but was occupied within the last four seconds
+    * Green: Signal block is clear
+
+===== Mechanics =====
+
+Signals in 4.0.0 has changed significantly. Vehicles now require the space in front of a signal block (equal to the vehicle length) to be clear before entering the signal block. For all examples below, vehicles are 100 metres long.
+
+==== Example 1 ====
+
+Consider a simple example below. The vehicle is currently on an unsignalled portion of the track, about to enter a rail with a green signal block. After this, there is a 200 m section of rail without any signal blocks.
+ 
+  - When the vehicle is at a safe braking distance away from the start node of the green signal block, it performs a check to see if the green signal block is occupied.
+  - Since there are no other vehicles on the green signal block, it is considered clear.
+  - The vehicle also checks if 100 m (equal to the length of the vehicle) after the green signal block is clear.
+  - Since there are no other vehicles on that section either, it is also considered clear.
+  - The vehicle reserves the signal block. The green signal block will now show short flashes.
+  - The vehicle continues to move towards the green signal block. When the front of the vehicle enters the green signal block, it is now occupied by the vehicle. The green signal block now show long flashes and the signal light turns red.
+  - After the vehicle leaves the green signal block, the signal light turns green again.
