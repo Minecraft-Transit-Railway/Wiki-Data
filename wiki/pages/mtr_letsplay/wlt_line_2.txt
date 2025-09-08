@@ -235,7 +235,7 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  @#FFDA33:  |||||||
 |  @#FFDA33:  |||||||
 
-<WRAP>
+</WRAP>
 ===== Future Plans =====
 
 Existing non-finished stations and track sections will be gradually worked on. 
