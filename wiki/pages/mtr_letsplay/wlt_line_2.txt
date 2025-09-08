@@ -224,6 +224,18 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 
 </WRAP>
 
+<WRAP center>
+
+^  \\ Stations  ^  First Train\\  (in [[wp>UTC+08:00|UTC+8]])  ||^  Last Train\\  (in [[wp>UTC+08:00|UTC+8]])  ||^
+^  :::  ^  to Kwong Chow  ^  to Makki Memorial Village  ^  to Ostania  ^  to Kwong Chow  ^  to Makki Memorial Village ^  to Ostania  ^
+|  @#FFDA33:  |||||||
+|  **Kwong Chow**  |  --  |  04:04  |  04:05  |  --  |  --  |  --  |
+|  **Sha Tsui**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **West Lake**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  @#FFDA33:  |||||||
+|  @#FFDA33:  |||||||
+
+<WRAP>
 ===== Future Plans =====
 
 Existing non-finished stations and track sections will be gradually worked on. 
