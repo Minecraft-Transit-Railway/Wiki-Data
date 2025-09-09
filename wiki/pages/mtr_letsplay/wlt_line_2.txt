@@ -235,8 +235,31 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  **Kwong Chow**  |  --  |  04:04  |  04:05  |  --  |  --  |  --  |
 |  **Sha Tsui**  |  --  |  --  |  --  |  --  |  --  |  --  |
 |  **West Lake**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Sai Mo Island**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **See Tsuen \\ (Heart of Let's Play)**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Spawn**  |  --  |  --  |  --  |  --  |  --  |  --  |
 |  @#FFDA33:  |||||||
+|  **Forest Peaks**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Coast City**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Ōrākei West**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Toitoi**  |  --  |  --  |  --  |  --  |  --  |  --  |
+|  **Makki Memorial Village**  |  --  |  --  |  --  |  --  |  --  |  --  |
 |  @#FFDA33:  |||||||
+|  **W. Laputa**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Bayside Exchange**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Lake Vecuro**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Ho's Bridge**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Oceanline**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Lindberg**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Belvedere**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Jonathan's Resort**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Bamboo Pavillion**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Zunice**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Springpond**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Twilight Spruce**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Westalis**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Tridoron**  |  --  ||  --  |  --  |  --  |  --  |
+|  **Ostania**  |  --  ||  --  |  --  |  --  |  --  |
 
 </WRAP>
 ===== Future Plans =====
