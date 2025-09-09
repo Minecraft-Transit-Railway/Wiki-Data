@@ -135,7 +135,10 @@ When throughrunning starts, WLT decides to change the name to account for a long
   * 13 April, 2024: Sha Tsui station opens to the public.
   * 5 May, 2024: First stage of merge kicks in.
   * 29 August, 2024: Full merge kicks in and throughrunning starts. Name is changed to account for a rather long throughrunning section in Sightseeing Line Phase 3, 4 comparing to Kwong Chow Line section. 
+  * 31 May, 2025: Proposal of eastern extension from Makki Memorial Village to Tsim Pei Tsui is published. 
   * 3 June, 2025: Trains are no longer stopping at Three Rivers station to reduce the travelling time from/to former North Coast Line stations. 
+  * 10 August, 2025: See Tsuen station is renamed as See Tsuen (Heart of Let's Play) station and open to public. 
+  * 28 August, 2025: Trains are now using the new platform 0 at Makki Memorial Village and carry out testing on the east extension part. Trains are also more frequent from that day onwards. 
 
 ===== Rolling Stocks =====
 
