@@ -42,3 +42,20 @@ Consider a simple example below. The vehicle is currently on an unsignalled port
   - The vehicle reserves the signal block. The green signal block will now show short flashes.
   - The vehicle continues to move towards the green signal block. When the front of the vehicle enters the green signal block, it is now occupied by the vehicle. The green signal block now show long flashes and the signal light turns red.
   - After the vehicle leaves the green signal block, the signal light turns green again.
+
+==== Example 2 ====
+
+Similar to the above example, but this time the vehicle is stopping at a platform before entering the rail with a green signal block. 
+
+  - Same, when the vehicle is at a safe braking distance away from the start node of the green signal block, it performs a check to see if the green signal block is occupied.
+  - Since there are no other vehicles on the green signal block, it is considered clear.
+  - The vehicle also checks if 100 m (equal to the length of the vehicle) after the green signal block is clear.
+  - Since there are no other vehicles on that section either, it is also considered clear.
+  - The vehicle reserves the signal block. The green signal block will now show short flashes.
+  - The vehicle continues to move towards the green signal block and stops at the platform. 
+  - When the vehicle stops at the platform, it "cancels reservation" and releases the signal block. The green signal block now stops flashing. 
+  - When the vehicle is about to depart and prepares to close the doors, it will perform the check again and the green signal block will now show short flashes.
+  - As there are still no other vehicles on the green signal block and 100m after it, it is considered clear.
+  - The vehicle will then close the doors and depart from the platform. 
+  - When the front of the vehicle enters the green signal block, it is now occupied by the vehicle. The green signal block now show long flashes and the signal light turns red.
+  - After the vehicle leaves the green signal block, the signal light turns green again.
