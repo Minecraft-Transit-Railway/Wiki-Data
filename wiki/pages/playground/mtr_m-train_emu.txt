@@ -101,3 +101,17 @@ Disneyland Resort Line units only.
 
 The MTR M-Train EMU is a train that is available in the Minecraft Transit Railway mod.
 
+===== Changelog =====
+
+26th April, 2018: A branch was created in GitHub containing an MTR2 version of the M-train.((
+[[https://web.archive.org/web/20190911054008/http://minecraftmtr.blogspot.com/p/updates.html]]
+))
+
+3.0.0-beta-2: Added M-train to the mod. The MTR logo is present.
+
+3.0.0-beta-5: The MTR logo on the M-train is removed. Sounds for M-trains are added.
+
+3.0.0-beta-8-unofficial-11: Translucent UV position for M-train moved.
+
+3.0.0-beta-9-unofficial-2: Added Disneyland Resort Line M-train to the mod.
+
