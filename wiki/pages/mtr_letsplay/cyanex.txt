@@ -18,15 +18,17 @@
     * K1: (Express) T.U.Martissu -> Ostania
     * K2: (Express) Al-Tighnari -> Ostania
     * K3: (Express) Al-Tighnari -> Jonathan's Resort
-    * 40: Cyan Heights -> Twilight Spruce
-    * 41: Cyan Heights -> Jonathan's Resort
+    * 40: Red Leaves -> Twilight Spruce
+    * 41: Red Leaves -> Jonathan's Resort
     * 51: Providence -> T.U.Martissu
 
   * **Sightseeing Local Line**
-    * 10: Cyan Heights -> Scarlet D. Mansion
+    * 10: Cyan Heights -> Scarlet Mansion
 
   * **Sumeru Line**
-    * 30: Nahida -> Grand Bazaar
+    * 30: Scarlet Mansion -> Grand Bazaar
+    * 35: Niloufar -> Nahida (Nahida Branch)
+    * 36: Scarlet Mansion -> SW Plains (Flora Temple Branch) 
 
 ===== Members =====
 
@@ -63,38 +65,19 @@ The Winter Olympics Loop Line was once the longest operating line in Xinghai Cit
 | 重生区摩天楼 | SPT | 爱康港 | ICP | 普达西 | WLP | 西城 | WET | 蓝星花越海岸 | HKB | 花神庙 | FLT |
 | 客运站镇 | SUA | 蓝星樱河 | SAS | 碧沙交汇 | BAC | 赛特朗 | TRI | 环湖医院 | LAH | 红馆 | SDM |
 | 泰恒 | MOE | 红馆 | SDM | 仙林湖 | LAV | 东城 | OST | 白石平原 | WHP | 纳西妲 | NAH |
-| 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |  |  | 霓台蜜雪冰城 | MXI | 妮露法 | NIF |
-| 滨州 | PET | 西滨 | WES | 北海路 | OCI |  |  | 天水风景区 | PAF | 莱伊拉 | LAY |
-| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN |  |  | 工大西翠校区 | TUT | 神木 | RUK |
-| 香田 | KOD |  |  | 美景宫 | BEV |  |  | 石花洞天池 | BLC | 海萨列岛 | HAI |
-| 月光湾 | MOB |  |  | 装奶粉度假村 | JOR |  |  | 紫竹红树 | VBM | 稻毛海岸 | INK |
-| 蓝星樱河 | SAS |  |  | 竹青亭 | BAP |  |  | 蘑菇岛多蘑态 | MMM | 欧莫斯洲 | ORD |
-| 公积 | PRO |  |  | 朱家角 | ZUN |  |  | 橙光谷 | AUV | 阿戈滩 | ALB |
-| 红馆 | SDM |  |  | 春池嫣韵 | SPP |  |  | 高地览胜 | MEV | 提纳里 | TIG |
-|  |  |  |  | 霞松 | TWS |  |  |  |  | 坎蒂斯 | CAN |
-|  |  |  |  |  |  |  |  |  |  | 基斯石滩 | GRP |
-|  |  |  |  |  |  |  |  |  |  | 大巴扎 | GRB |
-
-==== Major Stations ====
-
-Major stations have music assigned in their PIS automatic announcements.
-
-^ Name ^ Code ^ Arrive ^ Depart ^
-| 蓝台 | CYH | いい日旅立ち D ((谷村新司; Arrange by [[https://www.youtube.com/watch?v=GNaMx4odwhQ|Keitaro]])) | いい日旅立ち C |
-| 装奶粉度假村 | JOR | いい日旅立ち B | 銀河鉄道 999 A ((EXILE; Arrange by [[https://www.youtube.com/watch?v=i8uwBfy3OS4|Keitaro]])) |
-| 霞松 | TWS | 津軽海峡冬景色 A | いい日旅立ち D |
-| 东城 | OST | 津軽海峡冬景色 B | いい日旅立ち E |
-| 红馆 | SDM | 赤より紅い夢 A ((太田顺也; Arrange by [[https://www.youtube.com/watch?v=_NQ2ElgSCCc|Artifex]])) | 赤より紅い夢 A |
-| 蓝星花越海岸 | HKB | 北陸ロマン B ((谷村新司; Arrange by [[https://www.youtube.com/watch?v=GNaMx4odwhQ|Keitaro]])) | 北陸ロマン A |
-| 霓台蜜雪冰城 ((Temporary)) | MXI | 津軽海峡冬景色 B | いい日旅立ち E |
-| 蘑菇岛多蘑态 | MMM | 津軽海峡冬景色 A | 北陸ロマン A |
-| 高地览胜 | MEV | 津軽海峡冬景色 B | いい日旅立ち E |
-| 蘑菇岛 | MUI | / | 人形の夢と目覺め A |
-| 提纳里 | TIG | いい日旅立ち B | いい日旅立ち A |
-| 大巴扎 | GRB | <TBD> | <TBD> |
-^ Terminating Trains ^^ いい日旅立ち A+B ^ / ^
-
+| 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |   |   | 霓台蜜雪冰城 | MXI | 妮露法 | NIF |
+| 滨州 | PET | 西滨 | WES | 北海路 | OCI |   |   | 天水风景区 | PAF | 莱伊拉 | LAY |
+| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN |   |   | 工大西翠校区 | TUT | 神木 | RUK |
+| 香田 | KOD |   |   | 美景宫 | BEV |   |   | 石花洞天池 | BLC | 海萨列岛 | HAI |
+| 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 紫竹红树 | VBM | 稻毛海岸 | INK |
+| 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 蘑菇岛多蘑态 | MMM | 欧莫斯洲 | ORD |
+| 公积 | PRO |   |   | 朱家角 | ZUN |   |   | 橙光谷 | AUV | 阿戈滩 | ALB |
+| 红馆 | SDM |   |   | 春池嫣韵 | SPP |   |   | 高地览胜 | MEV | 提纳里 | TIG |
+|   |   |   |   | 霞松 | TWS |   |   |   |   | 坎蒂斯 | CAN |
+|   |   |   |   |   |   |   |   |   |   | 基斯石滩 | GRP |
+|   |   |   |   |   |   |   |   |   |   | 大巴扎 | GRB |
 
 ===== See Also =====
 
   * [[mtr_letsplay:chi|CyanEX Heavy Industries]]
+
