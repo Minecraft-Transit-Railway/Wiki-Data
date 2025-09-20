@@ -1,0 +1,56 @@
+====== Tactile Map ======
+
+<WRAP right>
+
+|  @#00C42A: **Tactile Map**  ||
+| {{ :mtr:tactile_map_render.png?200x200 }}  ||
+|  Render of all lengths of an even Railway Sign.  ||
+| **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
+| **Stackable** | Yes (64) |
+| **[[https://minecraft.wiki/w/Tool|Tool]]** | From Wooden Pickaxe |
+| **[[https://minecraft.wiki/w/Explosion#Blast_resistance|Blast resistance]]** | TBC |
+| **[[https://minecraft.wiki/w/Light|Luminous]]**  | No  |
+| **[[https://minecraft.wiki/w/Opacity|Transparent]]**  | No  |
+| **[[https://minecraft.wiki/w/Fire#Burning_blocks|Flammable]]**  | No  |
+| **Catches fire from lava** | No |
+| **Created by** | Snc |
+| ::: | LX86 |
+| ::: | bosco_501((
+Music only
+)) |
+
+</WRAP>
+
+Tactile Map is a two-block-high structures that play tactile map music and send a welcome message to the player when the player right-clicks on the tactile map. The tactile map music is [[wp>Für Elise|Für Elise]] played by bosco_501.
+
+===== Obtaining =====
+
+==== Breaking ====
+
+Tactile Maps require a [pickaxe]([[https://minecraft.wiki/w/Pickaxe]]) to be mined, in which case it drops itself. When mined without a pickaxe, it drops nothing. It has a [hardness]([[https://minecraft.wiki/w/Breaking#Blocks_by_hardness]]) of 2.
+
+==== Crafting ====
+
+<markdown>
+
+
+
+
+| Name | Ingredients | [Crafting](https://minecraft.gamepedia.com/Crafting) Recipe |
+| --- | --- | --- |
+| Route Sign (Standing, Light) | [Jukebox](https://minecraft.wiki/w/Jukebox) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:tactile_map_carfting_recipe.png" width=200/> |
+
+</markdown>
+
+===== Usage =====
+
+The following message:
+
+>歡迎光臨XXX站。Welcome to YYY Station.
+
+will be shown in the chat upon right-clicking, if the tactile map is placed within a station area. XXX represents the CJK part of the station name, and YYY represents non-CJK part of the station name. If the station name consists of non-CJK characters only, only the English part will be displayed, vice versa. If the tactile map is not placed in a station, the tactile map will not output anything in the chat.
+
+===== Changelog =====
+
+%%3.0.0-beta-8-unofficial-10: Added.%%
+
