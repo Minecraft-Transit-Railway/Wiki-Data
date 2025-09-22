@@ -21,4 +21,3 @@ A quest-wide failure criterion may also be defined. This can be used for e.g. pr
 Each criterion generates an automatic description that is shown to the player. If the default description is insufficient (e.g., when using complex logic), you may provide a custom one with the ''Descriptor'' criterion.
 
 ===== Criteria =====
-
