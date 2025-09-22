@@ -1,0 +1,24 @@
+[[https://mc.zbx1425.cn/nquest-editor/|NQuest Editor]] is an online tool designed to assist in creating JSON-formatted quest data used by NQuest.
+
+The tool is publicly accessible, but only staff members can apply the generated data to the server. If you are not a staff member but wish to contribute, you can export the JSON data from the tool and send it to a staff member.
+
+===== Structure & Conventions =====
+
+==== Metadata ====
+
+  * **Quest ID**: Must be unique, lowercase, and written in kebab-case. \\ Example: ''west-lake-tour-1'' \\ Bad examples: ''westlaketour1'', ''West Lake Tour 1'' 
+  * **Category**, **Tier**: Must match one of the predefined category–tier combinations (list TBD). \\ Quests without a valid combination will not appear in the list. Contact staff if you would like to suggest improvements to the category list. 
+  * **Quest Points**: The reward players receive upon completing the quest. Ensure the points are proportional to the quest’s difficulty.
+
+==== Steps & Criteria ====
+
+Each step consists of a criterion that, once fulfilled, advances the quest to the next step.
+
+Optionally, a step may include a failure criterion that aborts the entire quest if triggered. Since this results in the player losing all progress, use failure conditions carefully and ensure they are clearly communicated to the player.
+
+A quest-wide failure criterion may also be defined. This can be used for e.g. preventing teleportation during the entire quest. Note that step-level failure criteria override quest-wide ones, rather than working in parallel.
+
+Each criterion generates an automatic description that is shown to the player. If the default description is insufficient (e.g., when using complex logic), you may provide a custom one with the ''Descriptor'' criterion.
+
+===== Criteria =====
+
