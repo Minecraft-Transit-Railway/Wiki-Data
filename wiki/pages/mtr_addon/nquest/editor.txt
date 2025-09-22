@@ -51,7 +51,7 @@ For banning the usage of a line using ''RideLineCriterion'' as failure condition
 
 ==== ManualTriggerCriterion ====
 
-A criterion met when manually triggered by an command block.
+A criterion met when manually triggered by an command block. The associated command is ''/nquest trigger <player e.g. @p> <trigger_id>''.
 
   * ''id'': (string) A unique identifier for the trigger.
   * ''description'': (string) A user-facing description for how they can trigger it.
