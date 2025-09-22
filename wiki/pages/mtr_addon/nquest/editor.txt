@@ -81,6 +81,8 @@ Wraps another criterion to provide a custom description, overriding the base cri
   * ''base'': (Criterion) The criterion to wrap.
   * ''description'': (string) The new description to display to the user.
 
+===== Criteria for Advanced Logic =====
+
 ==== ConstantCriterion ====
 
 A criterion that is always either true or false.
