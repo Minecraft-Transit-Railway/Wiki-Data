@@ -26,7 +26,7 @@ Each criterion generates an automatic description that is shown to the player. I
 
 True as long as the player is a passenger on a vehicle on a specific transit line.
 
-  * ''lineName'': (string) The name of the transit line.
+  * ''lineName'': (string) A **prefix** to match the required transit line's English part. For example, "Line 1" will match both "Line 1" and "Line 1 Phase 1".
 
 ==== VisitStationCriterion ====
 
@@ -40,7 +40,7 @@ Triggers once when the player enters the X-Z bound of a specific station, and at
 
 For banning the usage of a line using ''RideLineCriterion'' as failure condition is better. Using this will result in player not knowing they have failed until they arrive at the station, which is suboptimal.
 
-  * ''lineName'': (string) A **prefix** to match the required transit line's English part.For example, "Line 1" will match both "Line 1" and "Line 1 Phase 1".
+  * ''lineName'': (string) A **prefix** to match the required transit line's English part. For example, "Line 1" will match both "Line 1" and "Line 1 Phase 1".
   * ''stationName'': (string) The name or ID of the destination station.
 
 ==== RideToStationCriterion ====
