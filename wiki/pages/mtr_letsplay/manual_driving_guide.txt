@@ -24,7 +24,7 @@ The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rate
 
 | **Available Consist Count**  | 2 |
 | **Depot Access**  | Alight at Aoba station and use the Route 53S shuttle bus route to access the depot.  |
-| **Speed limit(s)** |  |
+| **Speed limit(s)** |   |
 | **Acceleration** | 3.2m/s/s |
 | **Deceleration** | 3.2m/s/s |
 
@@ -90,7 +90,19 @@ For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Ph
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
 
-For more information on <color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|here]].
+For more information on <color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color>, click [[mtr_letsplay:chuncheonbus_92|here]].
+
+===== Oakville-Castleton Bus (Route 72) =====
+
+<color white/#B3B452>**<html>&nbspOakville-Castleton Bus (Route 72)&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" roads.
+
+| **Available Vehicle Count**  | 1 |
+| **Depot Access**  | Alight at Diorite Bay, adjacent to the bus garage (8535, 67, 3919). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 2.0m/s/s |
+| **Deceleration** | 2.2m/s/s |
+
+For more information on the <color white/#B3B452>**<html>&nbspOakville-Castleton Bus (Route 72)&nbsp</html>**</color>, click [[mtr_letsplay:oakville_castleton_bus|here]].
 
 ----
 
