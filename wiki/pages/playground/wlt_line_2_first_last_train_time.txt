@@ -3,8 +3,8 @@
 ^  \\ Stations  ^  First Train\\  (in [[wp>UTC+08:00|UTC+8]])  ||^  Last Train\\  (in [[wp>UTC+08:00|UTC+8]])  ||^
 ^  :::  ^  to Kwong Chow  ^  to Tsim Pei Tsui  ^  to Ostania  ^  to Kwong Chow  ^  to Tsim Pei Tsui  ^  to Ostania  ^
 |  @#FFDA33:  |||||||
-|  **Kwong Chow**  |  --  |  04:04  |  04:05  |  --  |  03:21  |  03:01  |
-|  **Sha Tsui**  |  --  |  04:06  |  04:07  |  --  |  03:22  |  03:02  |
+|  **Kwong Chow**  |  --  |  04:04:42  |  04:05  |  --  |  03:21  |  03:01  |
+|  **Sha Tsui**  |  --  |  04:06:15  |  04:07  |  --  |  03:22  |  03:02  |
 |  **West Lake**  |  --  |  04:07  |  04:08  |  --  |  03:24  |  03:04  |
 |  **Sai Mo Island**  |  --  |  04:09  |  04:10  |  --  |  03:25  |  03:05  |
 |  **See Tsuen \\ (Heart of Let's Play)**  |  --  |  04:10  |  04:11  |  --  |  03:26  |  03:06  |
