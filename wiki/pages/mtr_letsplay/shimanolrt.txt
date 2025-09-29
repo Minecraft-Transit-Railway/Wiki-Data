@@ -72,9 +72,10 @@ Odd numbers of cars cannot be included in a train formation.
 
 ===STADTACE===
 This is the successor model to LIGHTACE, created with reference to the S43-Tec Stadtbahn, described below.
-It is possible for a train to contain an odd number of cars, but not a single car.
+It is possible to connect an odd number of cars to a train, and single-car formations are also possible.
 ^  Model  ^  Livery  ^  Cars  ^
-| **STADTACE Stadtbahn 1994** | Subaru Vista Blue | 2 - 5 |
+| **STADTACE Stadtbahn 1994** | Subaru Vista Blue | 1 - 5 |
+| **STADTACE Stadtbahn 1999** | ::: | 2 - 5 |
 
 ===S43-Tec Stadtbahn===
 A vehicle made by S43. It is the successor model to the S43-Tec LRT that existed when the SLRT opened.
@@ -84,7 +85,7 @@ Only Stadtbahn 2002 has a Metro model with a larger proportion of seats across t
 ^  Model  ^  Livery  ^  Cars  ^
 | **S43-Tec Stadtbahn 1980mod** | Yellow | 1 - 5 |
 | **S43-Tec Stadtbahn 1987** | Green | ::: |
-| **S43-Tec Stadtbahn 1987mod** | Silver | ::: |
+| **S43-Tec Stadtbahn 1987mod** | Silver\\ Orange(Goku) | ::: |
 | **S43-Tec Stadtbahn 1995** | Orange | ::: |
 | **S43-Tec Stadtbahn 1995mod** | Blue Green | ::: |
 | **S43-Tec Stadtbahn 2002** | Red | ::: |
