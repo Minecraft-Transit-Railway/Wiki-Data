@@ -128,7 +128,7 @@ All of the vehicles were older models for the MTR3.
 |相02(AC02)|(Feature: Poolroom ⇄)Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
 |閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
 |閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
-|閃10(CD10)|Amethyst Valley ⇄ Extreme Hot Spring ⇄ Cinderace( ⇄ Feature:Shinkita ⇄ )Nishi-Kakuseiyama ⇄ Crater Valley ⇄ Oxenholme|Shinx Line\\ Furret Line\\ Cinderace Line||
+|閃10(CD10)|Amethyst Valley ⇄ Extreme Hot Spring ⇄ Cinderace⇄(Feature: ⇄ Unknown station⇄ ) Shinkita ⇄Nishi-Kakuseiyama ⇄ Crater Valley ⇄ Oxenholme|Shinx Line\\ Zasian Line\\ Furret Line\\ Cinderace Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
 |黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
