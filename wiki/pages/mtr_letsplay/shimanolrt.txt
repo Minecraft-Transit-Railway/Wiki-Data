@@ -128,7 +128,7 @@ All of the vehicles were older models for the MTR3.
 |相02(AC02)|(Feature: Poolroom ⇄)Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
 |閃01(CD01)|Cinderace ⇄ Extreme Hot Spring|Cinderace Line|Cinderace Light Rail|
 |閃02(CD02)|Cinderace ⇄ East Yukiyama|Cinderace Line|Cinderace Light Rail|
-|閃10(CD10)|Amethyst Valley ⇄ Extreme Hot Spring ⇄ Cinderace⇄(Feature: ⇄ Unknown station⇄ ) Shinkita ⇄Nishi-Kakuseiyama ⇄ Crater Valley ⇄ Oxenholme|Shinx Line\\ Zasian Line\\ Furret Line\\ Cinderace Line||
+|閃10(CD10)|Amethyst Valley ⇄ Extreme Hot Spring ⇄ Cinderace ⇄ Shinkita ⇄ Crater Valley ⇄ Oxenholme|Shinx Line\\ Zasian Line\\ Furret Line\\ Cinderace Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Cinderace Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
 |黑10(KR10)|Whitestone Plain West ⇄ Akahaiyama ⇄ Kurokaba Yashiki|None|　|
@@ -138,7 +138,7 @@ All of the vehicles were older models for the MTR3.
 |平10(HR10)|Oxenholme ⇄ Silver Desert ⇄ Plain Harbor ⇄ Tanagar-in-Marsh|Zasian Line|　|
 |緑01(MI01)|Minami Shingai ⇄ Green Cape ⇄ Daisetu Town|Jigllypuff Line||
 |緑01-2(MI01-2)|Minami Shingai ⇄ Higashi Shingai⇄ (→ San →) ( ← Green Cape← ) ⇄ Daisetu Town|Jigllypuff Line||
-|沼10(NM10)|(Feature: Poolroom ⇄)White Snow Village ⇄ Tanagar 1 chome(Feature: ⇄ Unknown station) |None|　|
+|沼10(NM10)|(Feature: Poolroom ⇄)White Snow Village ⇄ Tanagar 1 chome(Feature: ⇄ Sakuramon) |None|　|
 |蒲01(KM01)|Amethyst Valley ⇄ Slumbering Weald ⇄ Daisetu Town ⇄ Extreme Hot Spring(Feature: ⇄ Diamond Tower)|Shinx Line\\ Furret Line|Kamaboko LRT|
 |蒲01-2(KM01-2)|Amethyst Valley ⇄ Slumbering Weald|None|Kamaboko LRT|
 |覺01(PA01)|Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ Peak of Awakening|Shimano Line\\ Zasian Line||
