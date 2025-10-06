@@ -203,7 +203,11 @@ Most trains are serving between Mesa or Mei Foo Wan and Yanjiang Mineshaft, usua
 |  **Chung Kwo Kok**  |  04:10  |  04:13  |  04:24  |  03:43  |  03:36  |  03:43  |
 |  **Kwong Chow**  |  04:08  |  04:20  |  04:15  |  03:41  |  03:34  |  03:45  |
 |  **Yuen Chow Kok**  |  04:26  |  04:19  |  04:16  |  03:40  |  03:33  |  03:46  |
-|  **Tai Po**  |  04:25  |  04:18  |  --  |  03:39  |  03:32  |  --  |
+|  **Tai Po**  |  04:25  |  04:18  |  04:18  |  03:39  |  03:32  |  03:47  |
+|  **Chik Shek Wan**  |  04:23  |  04:16  |  04:19  |  03:37  |  03:30  |  03:49  |
+|  **Suet Yuen**  |  04:22  |  04:15  |  04:20  |  03:36  |  03:29  |  03:50  |
+|  **Cheesy Champignon**  |  04:21  |  04:14  |  04:22  |  03:34  |  03:27  |  03:51  |
+|  **Yanjiang Mineshaft**  |  04:19  |  04:12  |  --  |  03:32  |  03:25  |  --  |
 
 </WRAP>
 ===== Future Plans =====
