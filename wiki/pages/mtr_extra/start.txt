@@ -5,7 +5,7 @@ There are several built-in vehicles and signs in this mod. For many people, it's
 For solving this, MTR supports custom resource packs. Right now, it supports to add new vehicles and signs. Besides, you can also moderate something like decoration blocks in vanilla way.
 
 <WRAP center round important 90%>
-**Please note, some resource packs are not currently compatible with the 4.0.0 beta builds. Unless they have been marked otherwise by the author, assume they will only work in MTR3 until 4.0.0 fully releases!**
+**Please note, some resource packs are not currently compatible with MTR 4.0.0/4.0.1. Non-updated/legacy resource packs may still work in MTR 4.0.0/4.0.1, but could have unintended appearances/behaviour.**
 
 </WRAP>
 
