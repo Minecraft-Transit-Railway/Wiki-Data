@@ -1,6 +1,6 @@
 等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
 
-====== MTR Community Servers ======
+====== MTR 国家服务器 ======
 
 Below is a list of community server pages. For more information, make sure to read the [[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki Guidelines]] and [[https://wiki.minecrafttransitrailway.com/editing_guideline|Editing Guidelines]].
 
