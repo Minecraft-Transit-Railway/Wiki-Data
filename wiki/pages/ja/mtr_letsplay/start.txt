@@ -9,9 +9,9 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 ===== Websites of Let's Play server =====
 
-[[https://letsplay.minecrafttransitrailway.com/world-map/ | Server’s  map
-]]
-[[https://letsplay.minecrafttransitrailway.com/system-map/ | Server’s Traffic Map]]
-[[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- | YouTube Let's Play Channel]]
+[[https://letsplay.minecrafttransitrailway.com/world-map/ |サーバーマップ]]
+[[https://letsplay.minecrafttransitrailway.com/system-map/ |サーバー交通路線図]]
+[[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- |パイプラインで一緒にチャンネルをしましょう]]
+[[https://m.bilibili.com/space/307994687?from=search|ビリビリ動画チャンネル]]
 
 ~~NOCACHE~~
