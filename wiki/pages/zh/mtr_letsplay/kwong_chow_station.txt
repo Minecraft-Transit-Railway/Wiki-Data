@@ -5,14 +5,14 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 <WRAP right>
 
-|   @#EB4881:  <color white>**Kwong Chow**\\ **光州**</color>   ||
+|   @#EB4881:  <color white>**光州**\\ **광주**</color>   ||
 | @#EB7AE9: ||
 | @#FFDA33: ||
 |  {{/kwc_1.png?400}}\\ //Platforms,  Escalators to north concourse//\\ //(taken on 21 January, 2024)//  ||
 ^   **Overview**   ^^
 | **Operator** | [[/west_lake_transport_authority|West Lake Transport Authority]] |
 | **Lines** | [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
-| ::: | [[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]] |
+| ::: | [[/wlt_line_2|2号线(光北观)]] |
 | **Owner** | [[mtr_community:staff:bdark000|BDark000]] |
 | **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | **Platforms** | 4 |
