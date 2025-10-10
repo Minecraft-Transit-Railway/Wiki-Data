@@ -11,20 +11,20 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 |  {{/kwc_1.png?400}}\\ //Platforms,  Escalators to north concourse//\\ //(taken on 21 January, 2024)//  ||
 ^   **Overview**   ^^
 | **Operator** | [[/west_lake_transport_authority|West Lake Transport Authority]] |
-| **Lines** | [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
+| **Lines** | [[/wlt_line_1|1号线(美兰线)一期]] |
 | ::: | [[/wlt_line_2|2号线(光北观)]] |
-| **Owner** | [[mtr_community:staff:bdark000|BDark000]] |
+| **Owner** | [[mtr_community:建造者:bdark000|BDark000]] |
 | **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
-| **Platforms** | 4 |
+| **站台** | 4 |
 | **Tracks** | 4 |
 | **Coordinates** | (-2130, 2304) |
-^   **Station**   ^^
-| **Type** | Underground |
-| **Floors** | 3 |
-| **Platform Floors** | 2 |
+^   **车站**   ^^
+| **Type** |地下|
+| **楼层** | 3 |
+| **站台楼层** | 2 |
 | **Step-Free Accessible** | Yes |
-| **Station Code** | KWC |
-| **Opened** | 22 December, 2022 |
+| **车站码** | KWC |
+| **开通时间** | 22 December, 2022 |
 | **Electrification** | 25kV Overhead Cable AC (WIP)\\ //(Line 1 (Meyan Line) Phase 1)// |
 | ::: | 1.5kV Overhead Cable DC (WIP)\\ //(Line 2 (Kwong Pak Kwun Line))// |
 
