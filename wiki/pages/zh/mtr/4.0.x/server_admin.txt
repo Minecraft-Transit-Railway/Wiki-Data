@@ -6,12 +6,8 @@ Learn what you need to know to migrate your Minecraft server towards MTR 4!
 
 ===== Migration Steps =====
 
-==== Before migrating ====
-
-  * Some addons like [[mtr_addon:nte:start|Nemo Transit Expansion]] and [[https://modrinth.com/mod/transitmanager|TransitManager]] does not have an MTR 4 version. Please double-check your addon list and evaluate your path before upgrading.
-  * MTR 4 requires a Minecraft version of either 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.4, 1.20.1 or 1.20.4. Consider upgrading/downgrading your Minecraft version if you are not using a version listed here.
-  * **Make a backup before you attempt to migrate, it's an irreversible process!**
-
+====在迁移之前==== 
+*有些插件像[[MTR _ addon:NTE:start | Nemo Transit Expansion]]和[[https://modrinth . com/mod/Transit manager | Transit manager]]没有MTR 4版本。请仔细检查你的插件列表，并在升级前评估你的路径。* MTR 4需要《我的世界》版本1.16.5、1.17.1、1.18.2、1.19.2、1.19.4、1.20.1或1.20.4。如果您没有使用此处列出的版本，请考虑升级/降级您的《我的世界》版本。* * *在尝试迁移之前进行备份，这是一个不可逆的过程！**
 ==== Migration ==== 
 MTR 4自动从MTR 3迁移数据，对于用户来说应该没有很多步骤。无论如何，该过程概述如下:-关闭《我的世界》服务器，在服务器的mod目录中用MTR 4替换MTR 3 mod jar。-启动服务器。请注意，首次启动可能需要更长时间，因为MTR会尝试自动将您的MTR 3数据迁移到MTR 4。后续启动应该会快很多。-服务器启动后，您应该运行“/mtr generate”命令来刷新所有停车场的路径并使列车再次运行。
 =====性能=====
