@@ -1,16 +1,8 @@
 FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
 
-====== Let's Play Server ======
-
-The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.19.2 Minecraft server owned and self-hosted by [[mtr:start|Minecraft Transit Railway]] mod creator [[/User:Jonafanho|Jonathan]], established in June 2022.
-
-It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to make for a more varied landscape, using new biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swathes of visitors.
-
-Since 2022, the server has amassed over 100 lines, a wide cast of builders, an HSR network serving [[mtr_letsplay:spawn|Spawn]], [[mtr_letsplay:llanmara|Llanmara]], [[Kallos|Kallos]], [[mtr_letsplay:yankton|Yankton]], and the southwest through [[Danielston Memorial|Danielston Memorial]]. The longest journey between every two stations is expected to be less than 90 minutes((
-The longest time between two stations by rail is from Spawn to Yongchun on the Intercity Metro-Diagonally Line, at 9 minutes and 3 seconds.
-)).
-
-The server has a special version of the resource pack, so be sure to read the [[mtr_letsplay:modpack|]] if you want to play the server!
+公式Let's Playサーバーです
+公式のLet's Playサーバーは、MTRModの作者であるJonathan氏が所有・運営する1.19.2Minecraftサーバーで、2022年6月に開設されました。このサーバーはMinecraft 1.18+の新しい地形を使用し、Terralith modにより多様な生物群系を提供しています。メインワールド内の明るい景色とJonathan製作のLet's Play実況シリーズは多くの来場者を惹きつけ、その一部は後に建築作業に参加しました。
+サーバーの建設は急速に進んでいます。2022年以降、Let's Playサーバーは100を超える鉄道路線と、リボーン地区、ベイブルシティ、レイベイ、ヤンカートンなどの高速鉄道網を接続しています。片道最長平均時間は90分を超えません。1です)
 ===== Let's Play Pages =====
 
  <nspages -textPages="" -title -exclude>
