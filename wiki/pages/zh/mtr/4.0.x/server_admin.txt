@@ -1,9 +1,6 @@
 FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
 
-====== MTR 4 for Server Admins ======
-
-Learn what you need to know to migrate your Minecraft server towards MTR 4!
-
+===== MTR 4 for Server Admins ======了解将您的《我的世界》服务器迁移到MTR 4所需的知识！
 ===== Migration Steps =====
 
 ====在迁移之前==== 
