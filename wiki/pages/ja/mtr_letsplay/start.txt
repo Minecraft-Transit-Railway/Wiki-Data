@@ -3,7 +3,7 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 公式Let's Playサーバーです
 公式のLet's Playサーバーは、MTRModの作者であるJonathan氏が所有・運営する1.19.2Minecraftサーバーで、2022年6月に開設されました。このサーバーはMinecraft 1.18+の新しい地形を使用し、Terralith modにより多様な生物群系を提供しています。メインワールド内の明るい景色とJonathan製作のLet's Play実況シリーズは多くの来場者を惹きつけ、その一部は後に建築作業に参加しました。
 サーバーの建設は急速に進んでいます。2022年以降、Let's Playサーバーは100を超える鉄道路線と、リボーン地区、ベイブルシティ、レイベイ、ヤンカートンなどの高速鉄道網を接続しています。片道最長平均時間は90分を超えません。1です)
-===== Let's Play Pages =====
+===== Let's Play バージョン =====
 
  <nspages -textPages="" -title -exclude>
 
