@@ -30,7 +30,7 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 该服务器主要以现代香港式快速公交为主题，不过目前正在努力为服务器的各个部分增加更多的种类和多样性。
 joban区也有自己的wiki(由zbx1425提供)，其中包含加入说明，以及关于服务器的更详细概述。
 
-The District of Joban also has [[https://www.joban.org/wiki|it's own wiki]] (In courtesy of zbx1425) which contains the join instructions, along with more detailed overview about the server.
+若班区也有[[https://www.Joban.org/wiki |它自己的wiki]](由zbx1425提供)，其中包含加入说明，以及关于服务器的更详细的概述。
 
 ===== Mod Development =====
 
