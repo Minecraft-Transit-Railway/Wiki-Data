@@ -12,13 +12,7 @@ Learn what you need to know to migrate your Minecraft server towards MTR 4!
   * MTR 4 requires a Minecraft version of either 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.4, 1.20.1 or 1.20.4. Consider upgrading/downgrading your Minecraft version if you are not using a version listed here.
   * **Make a backup before you attempt to migrate, it's an irreversible process!**
 
-==== Migration ====
-
-MTR 4 automatically migrates datas from MTR 3, and there shouldn't be a lot of steps for the users. In any case, the process is outlined below:
-
-  - Shut down the Minecraft Server, replace the MTR 3 mod jar with MTR 4 in the server's mod directory.
-  - Start the server. Note that the first startup may take longer as MTR tries to automatically migrate your MTR 3 data into MTR 4. Subsequent startup should be much faster.
-  - After the server has started, you should run the ''/mtr generate'' command to refresh all depot's path and make trains run again.
-
+==== Migration ==== 
+MTR 4自动从MTR 3迁移数据，对于用户来说应该没有很多步骤。无论如何，该过程概述如下:-关闭《我的世界》服务器，在服务器的mod目录中用MTR 4替换MTR 3 mod jar。-启动服务器。请注意，首次启动可能需要更长时间，因为MTR会尝试自动将您的MTR 3数据迁移到MTR 4。后续启动应该会快很多。-服务器启动后，您应该运行“/mtr generate”命令来刷新所有停车场的路径并使列车再次运行。
 =====性能=====
  MTR 4不再用《我的世界》游戏模拟火车，而是在后台线程中运行模拟。这意味着MTR 4现在对服务器的滴答率的影响要小得多。同时，火车模拟不受《我的世界》游戏滴答率的影响。请注意，这也可能导致CPU使用率增加。=====升级《我的世界》版本=====虽然升级《我的世界》版本可能看起来是一个简单的步骤，但需要注意一些事项，更重要的是:*由于《我的世界》版本之间的命令语法变化，数据包可能会中断*从1.16/1.17升级到1.18+时，地形生成会有所不同，您将无法将地形重新生成回1.17的形式，即使使用WorldEdit也是如此。*升级到1.20时，字体json格式发生了变化。继续使用旧格式将导致(即JCM PIDS)显示为方形字体。
