@@ -1,0 +1,23 @@
+FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
+
+====== MTR 4 for Server Admins ======
+
+Learn what you need to know to migrate your Minecraft server towards MTR 4!
+
+===== Migration Steps =====
+
+==== Before migrating ====
+
+  * Some addons like [[mtr_addon:nte:start|Nemo Transit Expansion]] and [[https://modrinth.com/mod/transitmanager|TransitManager]] does not have an MTR 4 version. Please double-check your addon list and evaluate your path before upgrading.
+  * MTR 4 requires a Minecraft version of either 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.4, 1.20.1 or 1.20.4. Consider upgrading/downgrading your Minecraft version if you are not using a version listed here.
+  * **Make a backup before you attempt to migrate, it's an irreversible process!**
+
+==== Migration ====
+
+MTR 4 automatically migrates datas from MTR 3, and there shouldn't be a lot of steps for the users. In any case, the process is outlined below:
+
+  - Shut down the Minecraft Server, replace the MTR 3 mod jar with MTR 4 in the server's mod directory.
+  - Start the server. Note that the first startup may take longer as MTR tries to automatically migrate your MTR 3 data into MTR 4. Subsequent startup should be much faster.
+  - After the server has started, you should run the ''/mtr generate'' command to refresh all depot's path and make trains run again.
+
+=====性能===== MTR 4不再用《我的世界》游戏模拟火车，而是在后台线程中运行模拟。这意味着MTR 4现在对服务器的滴答率的影响要小得多。同时，火车模拟不受《我的世界》游戏滴答率的影响。请注意，这也可能导致CPU使用率增加。=====升级《我的世界》版本=====虽然升级《我的世界》版本可能看起来是一个简单的步骤，但需要注意一些事项，更重要的是:*由于《我的世界》版本之间的命令语法变化，数据包可能会中断*从1.16/1.17升级到1.18+时，地形生成会有所不同，您将无法将地形重新生成回1.17的形式，即使使用WorldEdit也是如此。*升级到1.20时，字体json格式发生了变化。继续使用旧格式将导致(即JCM PIDS)显示为方形字体。
