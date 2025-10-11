@@ -4,7 +4,8 @@
 
 | **Available Consist Count**  | 2 |
 | **Depot Access**  |  |
-| **Speed limit(s)** |   |
+| **Speed limit(s)** | 22 (inside depot) |
+| ::: | 40 - 135 (running line) |
 | **Acceleration** | 1.12m/s/s (P7) |
 | **Deceleration** | 1.12m/s/s (B7) |
 
