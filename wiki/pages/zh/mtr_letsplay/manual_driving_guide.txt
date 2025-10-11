@@ -78,6 +78,30 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 
 For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line) Phase 1&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|这里]].
 
+===== 春川巴士 92 =====
+
+<color white/#2954D5>**<html>&nbsp春川巴士 92&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
+
+| **手动驾驶车辆数**  | 1 |
+| **如何前往车厂**  | 前往东丘陵站，步行前往车厂(-11647, 68, 12787)。 |
+| **限速表** |   |
+| **加速度** | 4.0m/s/s |
+| **减速度** | 4.0m/s/s |
+
+For more information on <color white/#2954D5>**<html>&nbsp春川巴士 92&nbsp</html>**</color>, click [[mtr_letsplay:chuncheonbus_92|here]].
+
+===== 橡树村-城堡镇巴士 (72路) =====
+
+<color white/#B3B452>**<html>&nbsp橡树村-城堡镇巴士 (72路)&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" roads.
+
+|| **手动驾驶车辆数**  | 1 |
+| **如何前往车厂**  | 前往辉长岩湾站，步行前往巴士车库(8535, 67, 3919)。 |
+| **限速表** |   |
+| **加速度** | 2.0m/s/s |
+| **减速度** | 2.2m/s/s |
+
+For more information on the <color white/#B3B452>**<html>&nbsp橡树村-城堡镇巴士 (72路)&nbsp</html>**</color>, click [[mtr_letsplay:oakville_castleton_bus|here]].
+
 ----
 
 The following lines are planned to receive manual driving options in the future:
