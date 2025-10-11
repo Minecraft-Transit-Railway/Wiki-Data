@@ -1,0 +1,11 @@
+===== Line 1 (Meyan Line) Manual Driving Guide =====
+
+<color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line)&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above ground, underground, surface-tunnel, and trenched stations. The line features viaduct, surface level, surface tunnels, trenched, and subterranean driving. The driving time for the entire route is significant, as the train travels the length of the Mei Foo Wan branch down to Chik Shek Wan, before traveling north to the Mesa branch. After terminating at Mesa, the train reverses its entire route down to Chik Shek Wan and up the Mei Foo Wan branch.
+
+| **Available Consist Count**  | 2 |
+| **Depot Access**  |  |
+| **Speed limit(s)** |   |
+| **Acceleration** | 1.12m/s/s (P7) |
+| **Deceleration** | 1.12m/s/s (B7) |
+
+For more information on <color white/#EB7AE9>**<html>&nbspLine 1 (Meyan Line)&nbsp</html>**</color>, click [[mtr_letsplay:wlt_line_1|here]].
