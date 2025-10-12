@@ -91,6 +91,18 @@ For more information on <color white/#2954D5>**<html>&nbspChuncheon Bus Route 92
 
 For more information on the <color white/#B3B452>**<html>&nbspOakville-Castleton Bus (Route 72)&nbsp</html>**</color>, click [[mtr_letsplay:oakville_castleton_bus|here]].
 
+===== Hawai'i Skyline =====
+
+The <color white/#041E87>**<html>&nbspHawai'i Skyline&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features breathtaking above-ground scenery and heart-racing underwater glass tunnels. There are several stations where players must quickly run from one end of the train to the other at intermediate stations!
+
+| **Available Consist Count**  | 4 |
+| **Depot Access**  | Use Keone'ae (University of Hawai'i – West O'ahu) station. The manual driving siding is within the paid area of the station. |
+| **Speed limit(s)** | 300km/h |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+For more information on the <color white/#041E87>**<html>&nbspHawai'i Skyline&nbsp</html>**</color>, click [[mtr_letsplay:hawaii_skyline|here]].
+
 ----
 
 The following lines are planned to receive manual driving options in the future:
