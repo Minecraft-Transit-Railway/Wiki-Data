@@ -15,24 +15,24 @@ Die Spawn Grand Circular //(dt. Große Spawn-Ringlinie)// ist eine der ältesten
 
 </WRAP>
 
-Es gibt 16 Stationen entlang dieser Linie, wobei die [[de:mtr_letsplay:spawn|Station Spawn]] die älteste und größte Station auf dem Server ist.
+Es gibt 16 Stationen entlang dieser Linie, wobei die [[mtr_letsplay:spawn|Station Spawn]] die älteste und größte Station auf dem Server ist.
 
 Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke:
 
 | Name | Im Uhrzeigersinn ↓ Bstg. Nr.  | Gegen den Uhrzeigersinn ↑ Bstg. Nr. | Umstiege |
-| Spawn | 1  | 4 | [[en:furret_line|(S10) Furret Line]], [[en:spawn_hsr_apm|Spawn HSR APM]], [[en:wlt_line_2|Linie 2 (Kwong Pak Kwun Line)]], [[en:bta_red_line|Red Line]], [[en:scottetsu_line|Scottetsu Line]], [[en:wilds_railway_bus_services|WR Bus Service 1]], [[en:lilypad_busways|Lilypad Busways 2A]], [[en:mtr_letsplay:yankton_metro|SLCBus 4S]] |
-| Green | 3  | 4 |  |
+| Spawn | 1  | 4 | [[mtr_letsplay:terralith_rapid_transit#routes|(S10) Furret Line]], [[mtr_letsplay:spawn_hsr_apm|Spawn HSR APM]], [[mtr_letsplay:wlt_line_2|Linie 2 (Kwong Pak Kwun Line)]], [[mtr_letsplay:bta_red_line|Red Line]], [[mtr_letsplay:scottetsu_line|Scottetsu Line]], [[mtr_letsplay:wilds_railway|WR Bus Service 1]], [[mtr_letsplay:lilypad_busways|Lilypad Busways 2A]], [[mtr_letsplay:yankton_railway|SLCBus 4S]] |
+| Green | 3  | 4 | [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]], [[mtr_letsplay:auckland_transport#services|Bateau à Grande Vitesse]] |
 | Cheung Chau | 1  | 2 | nein |
 | Chung Chau | 1  | 2 | nein |
-| Tuen Chau | 1  | 2 |  |
-| Enchanted Parkway | 1  | 2 |  |
-| Mou Tapu | 1  | 2 |  |
+| Tuen Chau | 1  | 2 | [[mtr_letsplay:enchanted_scenic_free_cable_car|Enchanted Scenic Free Cable Car]] |
+| Enchanted Parkway | 1  | 2 | [[mtr_letsplay:enchanted_scenic_free_cable_car|Enchanted Scenic Free Cable Car]] |
+| Mou Tapu | 1  | 2 | [[mtr_letsplay:oculink_blue_line|Oculink Blue Line]], [[mtr_letsplay:lrt_410|Lilac Light Rail 410]], [[mtr_letsplay:lrt_810|Lilac Light Rail 810]] |
 | Void Park | 1  | 2 | nein |
-| Makki Meorial Village | 2  | 3 |  |
-| Lei Yue Mun | 1  | 2 |  |
-| Deluxe Breakfast | 1  | 2 |  |
-| McFlurry | 2  | 3 |  |
-| Yanjiang Mineshaft | 1  | 2 |  |
-| Narnia | 1  | 2 | nein |
+| Makki Meorial Village | 2  | 3 | [[mtr_letsplay:wlt_line_2|Line 2 (Kwong Pak Kwun Line)]], [[mtr_letsplay:kallos_ferry|Kallos Ferry]], [[mtr_letsplay:lrt_505|Lilac Light Rail 505]], [[mtr_letsplay:lrt_526e|Lilac Light Rail 526E]], [[mtr_letsplay:lrt_576e|Lilac Light Rail 576E]], [[mtr_letsplay:lrt_583|Lilac Light Rail 583]] |
+| Lei Yue Mun | 1  | 2 | [[mtr_letsplay:metro_south_continental_line|Metro South Continental Line N. Section]], [[mtr_letsplay:chin_ka_lrt|Chin Ka Village F, F & F Light Rail]] |
+| Deluxe Breakfast | 1  | 2 | [[mtr_letsplay:mcdonalds_line|McDonald's Line]] |
+| McFlurry | 2  | 3 | [[mtr_letsplay:mcdonalds_line|McDonald's Line]], [[mtr_letsplay:shirakawa_line|Shirakawa Line]] |
+| Yanjiang Mineshaft | 1  | 2 | [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line)]], [[mtr_letsplay:kallos_express|Kallos Express]], [[mtr_letsplay:wilds_railway#routes|Wilds Railway Yanyu Line]] |
+| Narnia | 1  | 2 | [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] (künftig) |
 | Icesert Estate | 1  | 2 |  |
-| Red Leaves | 1  | 2 |  |
+| Red Leaves | 1  | 2 | [[mtr_letsplay:sightseeing_express|Sightseeing Line]], [[mtr_letsplay:metro_south_continental_line|Metro South Continental Line N. Section]], [[mtr_letsplay:weiss_express_line|Weiss Express]] |
