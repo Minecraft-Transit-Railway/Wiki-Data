@@ -1,4 +1,3 @@
-Need more translate
 ====== Llanmara ======
 Llanmara is a hub on the [[start|Let's Play Server]]. It mainly serves the north of the server and was primarily built by [[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]].\\ It comprises of following stations：[[llanmara_saint_anns|Llanmara Saint Ann's]], [[llanmara_saint_devota|LLanmara Saint Devota]], [[llanmara_princes_street|Llanmara Prince's Street]] and [[llanthrow_airport|Llanthrow Airport]].
 
