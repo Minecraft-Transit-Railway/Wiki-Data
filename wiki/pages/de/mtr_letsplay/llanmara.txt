@@ -1,3 +1,4 @@
+links to future german pages needed
 ====== Llanmara ======
 Llanmara ist ein Verkehrsknoten auf dem [[start|Let's Play Server]]. Er bedient hauptsächlich den Norden des Servers und wurde größtenteils von Community-Mitglied [[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]] gebaut.\\ Er besteht aus folgenden Stationen：[[en:llanmara_saint_anns|Llanmara Saint Ann's]], [[en:llanmara_saint_devota|Llanmara Saint Devota]], [[en:llanmara_princes_street|Llanmara Prince's Street]] und [[en:llanthrow_airport|Llanthrow Airport]].
 
