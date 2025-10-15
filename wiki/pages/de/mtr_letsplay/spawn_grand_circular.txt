@@ -1,27 +1,26 @@
 ====== Spawn Grand Circular ======
-//Es ist die produktion// **Spawn Grand Circular**
 
-Der zyklus der erneuerung dreht sich um einen u-bahnhof auf dem Let's Play server und der ältesten u bahn -verbindung auf dem server
+Die Spawn Grand Circular //(dt. Große Spawn-Ringlinie)// ist eine der ältesten und wichigsten Linien auf dem Server.
 
 <WRAP right>
 
 | {{ :mtr_letsplay: spawngrandcircular_icon.png?500}}||
 ^  **Übersicht**  |^
-| **exploitant** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
+| **Betreiber** | [[mtr_letsplay:jonafanho|Jonathan Ho]] |
 | **Im Besitz von** | Jonathan Ho |
 | ::: | Aozora Sky |
 | ::: | Zbx1245 |
-^  **Linie Karte**  |^
+^  **Linienkarte**  |^
 |{{ :mtr_letsplay:spawngrandcircular_line_map.png?500}}||
 
 </WRAP>
 
-Es gibt 16 Stationen entlang dieser U-Bahn-Linie, wobei die [[de:mtr_letsplay:spawn|Station Spawn]] die älteste und größte Station auf dem Server ist
+Es gibt 16 Stationen entlang dieser Linie, wobei die [[de:mtr_letsplay:spawn|Station Spawn]] die älteste und größte Station auf dem Server ist.
 
-Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke
+Hier ist eine Liste der Stationen und Umsteigemöglichkeiten entlang der Strecke:
 
-| Name | Im Uhrzeigersinn ↓ Plattform  | Gegen den Uhrzeigersinn ↑ Plattform | Übertragung |
-| Spawn | 1  | 4 |  |
+| Name | Im Uhrzeigersinn ↓ Bstg. Nr.  | Gegen den Uhrzeigersinn ↑ Bstg. Nr. | Umstiege |
+| Spawn | 1  | 4 | [[en:furret_line|(S10) Furret Line]], [[en:spawn_hsr_apm|Spawn HSR APM]], [[en:wlt_line_2|Linie 2 (Kwong Pak Kwun Line)]], [[en:bta_red_line|Red Line]], [[en:scottetsu_line|Scottetsu Line]], [[en:wilds_railway_bus_services|WR Bus Service 1]], [[en:lilypad_busways|Lilypad Busways 2A]], [[en:mtr_letsplay:yankton_metro|SLCBus 4S]] |
 | Green | 3  | 4 |  |
 | Cheung Chau | 1  | 2 | nein |
 | Chung Chau | 1  | 2 | nein |
