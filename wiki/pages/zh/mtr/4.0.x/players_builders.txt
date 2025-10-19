@@ -1,4 +1,4 @@
-====== 版本 4.0.X ======
+====== MTR 4.0 ======
 
 Minecraft Transit Railway v4.0是Minecraft Transit Railway mod即将推出的重大更新，MTR3.2的下一个版本。现有的MTR 3存档可直接升级至MTR 4(但是会有少量问题)。
 
