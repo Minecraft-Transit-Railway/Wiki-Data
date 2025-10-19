@@ -1,6 +1,6 @@
 FIXME **This page is not fully translated, yet. Please help completing the translation.**\\ //(remove this paragraph once the translation is finished)//
 
-====== How to create models for MTR ======
+====== 如何为MTR模组制作列车模型 ======
 
 This guide will tell you how to create models for MTR mod.
 
