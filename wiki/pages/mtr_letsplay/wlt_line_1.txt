@@ -50,7 +50,7 @@
 | **Operating**\\ **Speed** | Average: 46 km/h (12.8 m/s)\\ Maximum: 135 km/h (37.5 m/s) |
 | **Signalling**\\ **System** | Minecraft Transit Railway Signals 4003((4003 refers to being the fourth update on signals and speed limits since 4.0.0 betas))\\ //([[wp>European_Train_Control_System#Level_3|ETCS Level 3]] / [[wp>automatic_train_control#ATACS|ATACS]] equivalent)//|
 ^  Route Map  |^
-|  {{/l1-u-yam-mp-l-w2.png?500}}  ||
+|  {{/l1-u-yam-mp-l-w2.png?420}}  ||
 
 </WRAP>
 
