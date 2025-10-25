@@ -19,7 +19,7 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
   - **车头**: 有驾驶室的车头
   - **车尾**: 没有驾驶室的车尾
 
-In most cases, a train model is a combination of these parts in the following pattern:
+在大多数情况下，列车模型是由以下模式组成
 
   * Leading vehicle: head-(door-window)-end 
   * Intermediate vehicle: end-(door-window)-end 
