@@ -2,22 +2,22 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 ====== 如何为MTR模组制作列车模型 ======
 
-This guide will tell you how to create models for MTR mod.
+本指南将告诉您如何创建MTR模型。
 
-===== Before we get started =====
+===== 在我们开始之前 =====
 
 Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all train models. Starting from MTR4, one can also import Wavefront OBJ models for the mod, but that will not be discussed in this tutorial. There are no de facto standards or best practices for creating a model; however, this tutorial will teach you how to create a model based on the built-in models.
 
-You can get Blockbench [[https://www.blockbench.net/|here]].
+你可以在这里获取 [[https://www.blockbench.net/|Blockbench]]。
 
-===== How a train model is formed =====
+===== 列车模型是怎样组成的？ =====
 
-Typically, a train is formed of several parts:
+通常，列车由几个部分组成：
 
-  - **window**: The window of a carriage.
-  - **door**: The doors of a carriage.
-  - **head**: The front of a carriage with a driving cab.
-  - **end**: The back of a carriage without a driving cab.
+  - **车窗**: The window of a carriage.
+  - **车门**: The doors of a carriage.
+  - **车头**: The front of a carriage with a driving cab.
+  - **车尾**: The back of a carriage without a driving cab.
 
 In most cases, a train model is a combination of these parts in the following pattern:
 
@@ -64,4 +64,3 @@ For each part, repeat this process:
 ===== TODO =====
 
 Texturing
-
