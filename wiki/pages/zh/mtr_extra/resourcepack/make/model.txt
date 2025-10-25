@@ -6,7 +6,7 @@ FIXME **This page is not fully translated, yet. Please help completing the trans
 
 ===== 在我们开始之前 =====
 
-Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all train models. Starting from MTR4, one can also import Wavefront OBJ models for the mod, but that will not be discussed in this tutorial. There are no de facto standards or best practices for creating a model; however, this tutorial will teach you how to create a model based on the built-in models.
+MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模型。从MTR4开始，也可以为mod导入Wavefront OBJ模型，但不在本教程中教学。而且目前没有创建模型的实际标准或最佳实践；然而，本教程将教你如何基于内置模型创建模型。
 
 你可以在这里获取 [[https://www.blockbench.net/|Blockbench]]。
 
