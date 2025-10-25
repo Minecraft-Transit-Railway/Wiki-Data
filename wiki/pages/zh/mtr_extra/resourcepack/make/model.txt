@@ -14,10 +14,10 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 通常，列车由几个部分组成：
 
-  - **车窗**: The window of a carriage.
-  - **车门**: The doors of a carriage.
-  - **车头**: The front of a carriage with a driving cab.
-  - **车尾**: The back of a carriage without a driving cab.
+  - **车窗**: 车厢的窗户
+  - **车门**: 车厢的门
+  - **车头**: 有驾驶室的车头
+  - **车尾**: 没有驾驶室的车尾
 
 In most cases, a train model is a combination of these parts in the following pattern:
 
