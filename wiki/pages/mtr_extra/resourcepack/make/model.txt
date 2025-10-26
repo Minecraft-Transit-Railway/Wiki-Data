@@ -14,8 +14,8 @@ Typically, a train is formed of several parts:
 
   - **window**: The window of a carriage.
   - **door**: The doors of a carriage.
-  - **head**: The front of a carriage with a driving cab.
-  - **end**: The back of a carriage without a driving cab.
+  - **head**: The front / back of a carriage with a driving cab.
+  - **end**: The front / back of a carriage without a driving cab.
 
 In most cases, a train model is a combination of these parts in the following pattern:
 
@@ -25,7 +25,7 @@ In most cases, a train model is a combination of these parts in the following pa
 
 There’s an example of a 4-car train
 
-''(Head)    Leading vehicle    (end)''   ''(end)    Intermediate vehicle    (end)''   ''(end)    Intermediate vehicle    (end)''   ''(end)    Back vehicle    (head-no driving cab)''
+''(Head)    Leading vehicle    (end)''   ''(end)    Intermediate vehicle    (end)''   ''(end)    Intermediate vehicle    (end)''   ''(end)    Back vehicle    (head)''
 
 <—forward
 
@@ -68,3 +68,4 @@ For each part, repeat this process:
 ===== TODO =====
 
 Texturing
+
