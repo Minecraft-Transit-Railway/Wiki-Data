@@ -41,7 +41,7 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 <WRAP center round important 90%>
 
-**ONLY** use the Modded Entity option. Other options will not work with MTR mod.
+**只能** 使用模组实体选项 其他选项将不会对 MTR 起作用。
 
 </WRAP>
 
