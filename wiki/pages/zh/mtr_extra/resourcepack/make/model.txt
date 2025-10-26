@@ -55,14 +55,14 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
   * Click **Confirm**.
 
-===== Building your model =====
+===== 创建你的模型 =====
 
-For each part, repeat this process:
+创建每个列车模型请遵循以下步骤:
 
-  * Create a folder (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
+  * 创建一个文件夹 (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
   * You can now start building your model. Create a cube (Ctrl + N) and translate, rotate, and scale it to your liking.
 
-==== Note ====
+==== 注意 ====
 
   - You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
   - Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
