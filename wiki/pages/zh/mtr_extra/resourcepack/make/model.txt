@@ -35,9 +35,9 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 大多数列车的车体将在地面以上16个Blockbench单位（1米），以使它们与平台的高度相匹配，宽度约为40到44个Blockbench单位（2.5到2.75米），这样列车与站台之间的间隙就不会太宽。
 
-===== Initialisation =====
+===== 安装 =====
 
-  * In the main menu, select **Modded Entity**.
+  * 在主菜单里选择 **模组实体**.
 
 <WRAP center round important 90%>
 
