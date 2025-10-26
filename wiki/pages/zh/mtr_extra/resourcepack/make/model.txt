@@ -27,7 +27,8 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 ''(头部)    车头    (末端)''   ''(末端)    车箱    (末端)''   ''(末端)    车箱    (末端)''   ''(末端)    车尾    (头部-无驾驶室)''
 
-<—列车前进方向                  <—列车前进方向                  <—列车前进方向
+<—列车前进方向
+
 Most trains will have a window part to be around 48 Blockbench units (3m) in length, and a door part to be around 32 Blockbench units (2m) in length. This makes the train to be able to align with the platform screen doors. The end part is usually around 16 Blockbench units to 20 units (1m to 1.25m) in length, so there is enough space for the train to take a turn.
 
 Most trains' bodies will be 16 Blockbench units (1 metre) above ground to allow them to match the height of the platform, and have a width of around 40 to 44 Blockbench units (2.5 to 2.75m) so that the platform gap won't be too wide.
