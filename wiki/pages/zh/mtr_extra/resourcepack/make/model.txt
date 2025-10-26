@@ -49,12 +49,11 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 <WRAP center round important 90%>
 
-**ONLY** use alphanumeric characters, 0-9, -, and _. CAPITAL LETTERS, special characters, white spaces, and other characters will not work.
+**只能** 使用字母、数字字符, 0-9, -, 和 _. 大写字母, special characters, white spaces, and other characters will not work.
 
 </WRAP>
 
-  * 点击 **确定**.
-
+  * 点击 **确定**
 ===== 创建你的模型 =====
 
 创建每个列车模型请遵循以下步骤:
