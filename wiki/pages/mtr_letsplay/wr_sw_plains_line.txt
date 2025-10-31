@@ -5,7 +5,7 @@
 |  @#0FBFE4: **SW Plains Line **\\ **西南曠野綫**  ||
 ^  **Overview**  |^
 | **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
-| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Owner** | [[mtr_community:staff:navi_lx9702|Navi]] |
 | **Status** | Operational |
 | **Regions** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | ::: | [[mtr_letsplay:jinnapak_region|Jinnapak]] |
@@ -44,9 +44,9 @@ The **WR SW Plains Line** (//Chinese: 曠鐵西南曠野綫//) is one of the rou
 
 ===== History =====
 
-The route is planned by [[mtr_community:navi_lx9702|Navi]] in early August, 2022, with a initial plan from Spawn to SW Plains. However this plan is quickly abandoned due to conflicts with [[/wlt_line_2|WLT Line 2]] and [[mtr_community:bdark000|BDark]]. The name of the line is **SW Wild line** at the moment.
+The route is planned by [[mtr_community:staff:navi_lx9702|Navi]] in early August, 2022, with a initial plan from Spawn to SW Plains. However this plan is quickly abandoned due to conflicts with [[/wlt_line_2|WLT Line 2]] and [[mtr_community:staff:bdark000|BDark]]. The name of the line is **SW Wild line** at the moment.
 
-After Navi communicates with BDark the plan is then modified. SW Plains, [[/birch_hill_station|Birch Hill]] and Haruka Island are retained in the final plan, however due to another conflict be found by [[mtr_community:isaaclao|Isaaclao]] the line can no longer extend to Spawn, and terminates at the Yellowstone island Chong Shu Chau.
+After Navi communicates with BDark the plan is then modified. SW Plains, [[/birch_hill_station|Birch Hill]] and Haruka Island are retained in the final plan, however due to another conflict be found by [[mtr_community:builders:isaaclao|Isaaclao]] the line can no longer extend to Spawn, and terminates at the Yellowstone island Chong Shu Chau.
 
 <WRAP left>
 
@@ -99,7 +99,7 @@ No other further plans are set for SW Plains Line as Navi has to focus on other 
 |  @#59d8ce:  |  [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]]  |  %%倉鼠洲%%  |  @#0fbfe5:  WR Bus Rt. 1  |  Unknown  |  Jinnapak  |
 | ::: | ::: | ::: |  @#575085:  <color #ffffff>LPR Busways Rt. 1P</color>  | ::: | ::: |
 |  @#89b239:  |  [[mtr_letsplay:hakura_island_station|Haruka Island]]  |  %%遥島%%  |  None  | ::: |  West Lake  |
-|  @#51C7FA:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  26th August, 2022  | ::: |
+|  @#51C7FA:  |  [[mtr_letsplay:birch_hill_station|Birch Hill]]  |  %%樺山%%  |  @#EB7AE9:  [[mtr_letsplay:wlt_line_1|Line 1 (Meyan Line)]]  |  26th August, 2022  | ::: |
 |  @#0591bb:  |  [[mtr_letsplay:sw_plains_station|SW Plains]]  |  %%西南曠野%%  |  @#6b4799:<color #ffffff>Elizabeth Line</color>  |  12th August, 2022  | ::: |
 | ::: | ::: | ::: |  @#a5c83b:  CyanEX Sumeru Line  | ::: | ::: |
 |  @#3bf443:  |  [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]]  |  %%石灘島%%  |  None  |  9th August, 2022  |  Ishikari and Lake City  |
