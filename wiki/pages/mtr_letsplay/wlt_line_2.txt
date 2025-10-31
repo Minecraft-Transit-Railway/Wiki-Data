@@ -11,7 +11,7 @@
 | **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
-| **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line) Phase 1]]</color> |
+| **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line)]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color> |
 | ::: | @#F09191:<color white>Hana-Koshi Line</color> |
@@ -69,7 +69,7 @@
 
 **Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]],  [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station, throughrunning [[/sightseeing_express|Sightseeing Line Phase 3, 4]] and Bond Line to [[/ostania_station|Ostania]] station. 
 
-The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line) Phase 1((
+The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line)((
 Magenta mixing with yellow forms red
 )).
 
@@ -275,7 +275,7 @@ The line will add three stops, Hung Shan, Lung Tau and Tsim Pei Tsui. Hung Shan 
 Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 ))  | ::: | ::: | ::: |
 |  @#ffda33: **Line 2 (Kwong Pak Kwun Line) - Kwong Chow Line section**  ||||||||
-|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#eb7ae9: [[/wlt_line_1|Line 1 (Meyan Line) Phase 1]]  |  22 December, 2022  |  [[/west_lake_area|West Lake]]  |
+|  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#eb7ae9: [[/wlt_line_1|Line 1 (Meyan Line)]]  |  22 December, 2022  |  [[/west_lake_area|West Lake]]  |
 | ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
 |  @#8C6AD2:  ||  [[/sha_tsui_station|Sha Tsui]]  |  %%沙咀%%  |  SHT  | |  13 April, 2024  | ::: |
 |  @#e0e060:  ||  [[/west_lake_station|West Lake]]  |  %%西湖%%  |  WEA  |  @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]]  |  8 October, 2024((Interchange only))  | ::: |
