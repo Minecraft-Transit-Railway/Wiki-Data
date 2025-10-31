@@ -58,8 +58,8 @@ MTR 模组利用 **Blockbench 模型 (BBMODEL)** 来适配大部分的列车模�
 
 创建每个列车模型请遵循以下步骤:
 
-  * 创建一个文件夹 (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
-  * You can now start building your model. Create a cube (Ctrl + N) and translate, rotate, and scale it to your liking.
+  * 创建一个文件夹 (Ctrl + G) 并给它起一个有意义的名字，例如 "window"
+  * 现在可以开始构建模型了。创建一个立方体（Ctrl + N），并根据自己的喜好进行平移、旋转和缩放
 
 ==== 注意 ====
 
