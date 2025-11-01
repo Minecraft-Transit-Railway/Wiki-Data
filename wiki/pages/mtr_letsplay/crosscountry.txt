@@ -5,6 +5,8 @@
 |  @#AE0D3F:  ||   |
 |  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||   |
 | {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||   |
+|  @#EFEEF0:  **Route Map**|
+| {{:mtr_letsplay:crosscountry_trains_map.png?400|}}||   |
 |  @#EFEEF0:  **Overview**  |   |   |
 | **Area Served** | North and South West |   |
 | **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |   |
