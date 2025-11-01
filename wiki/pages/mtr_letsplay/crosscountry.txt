@@ -2,38 +2,38 @@
 
 <WRAP right>
 
-|  @#AE0D3F:  ||
-|  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||
-| {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||
-|  @#EFEEF0:  **Overview**  |  |
-| **Area Served** | North and South West |  
-| **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |  |
-| **Number of lines** | 3 |  
-| **Stations Served** | 24 |  
-| **Real-Life Inspiration** | [[wp>CrossCountry|Arriva CrossCountry]] |  
-|  @#EFEEF0:  **Service & Operations**  |  
-| **Began passenger operations** | 2023 |  
-| **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |  
+|  @#AE0D3F:  ||   |
+|  @#FFFFFF:  <html><b><font size = "4">CrossCountry</b></html>  ||   |
+| {{ mtr_letsplay:xclogo.png?400 |CrossCountry Trains logo}} ||   |
+|  @#EFEEF0:  **Overview**  |   |   |
+| **Area Served** | North and South West |   |
+| **Transit type** | [[wp>Heavy_rail|Heavy Rail]] |   |
+| **Number of lines** | 3 |   |
+| **Stations Served** | 40 |   |
+| **Real-Life Inspiration** | [[wp>CrossCountry|Arriva CrossCountry]] |   |
+|  @#EFEEF0:  **Service & Operations**  |   |   |
+| **Began passenger operations** | 2023 |   |
+| **Min/Max Train lengths** | 2/6 (Regional), 4/10 (Long-Distance) |   |
 
 </WRAP>
 
-CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], who operates the North Western Region, and [[mtr_community:staff:soodari|Soodari]], who operates the South Western Region services. Currently being built, it provides intercity and regional train services from Portsmouth and the South West to destinations including Danielston Memorial, Liskeard Central, Einsburg Central, Ilford Island, and Marylebone.
+CrossCountry, commonly abbreviated to XC, is a long-distance and regional intercity train operator on the [[mtr:start|Minecraft Transit Railway]] [[mtr_letsplay:start|Let's Play Server]]. It is a joint venture between [[mtr_community:staff:electrostarjudge|ElectrostarJudge]], and [[mtr_community:staff:soodari|Soodari]]. CrossCountry operates intercity and regional train services from its primary Southern terminuses of Portsmouth and Yongchun to Danielston Memorial, Liskeard International, Walsall, Kirkenkessie Gateway, and Carmine City. Additionally, it serves principle stations and interchanges including Gapyeong New Street, Einsburg Central, Ilford Island, Liskeard Central, Denthrope, and Zuidbaai.
 
 ==== Fleet ====
 
-On Liskeard, Kirkenkessie, and Denthrope services, CrossCountry primarily operate a fleet of Diesel Hitachi Class 802 units. For services to Danielston Memorial, 802s, as well as a small fleet of both HSTs and loco-hauled Class 67s with Mark X Carriages in Sleeper and Day formations are utilised. For Regional services to Walsall, CrossCountry utilise a fleet of 2-3 car Class 170 DMUs, which can be used in sets of up to 6 Carriages. 
+On Liskeard, Kirkenkessie, and Carmine City services, CrossCountry primarily operate a fleet of Diesel Hitachi Class 802 units. For services to Danielston Memorial, 802s, as well as a small fleet of both HSTs and loco-hauled Class 67s with Mark X Carriages in Sleeper and Day formations are utilised. For Regional services to Walsall, CrossCountry utilise a fleet of 2-3 car Class 170 DMUs, which can be used in sets of up to 6 Carriages.
 
-==== North Western Region ====
+==== Northern Route ====
 
-Add Content Here
+Almost all services operate along the core Yongchun-Einsburg Central section. XC01 splits at Einsburg Central to go to Liskeard International with an intermediate stop at Liskeard Central included. Heading East, XC02 and XC05 are joined at Reston by XC06, which starts from Liskeard International, and XC05 diverges from the main route to branch off to Kirkenkessie Gateway via Ilford Island at Woolwich, whilst XC02 and XC06 continue to Carmine City, requiring a turnaround at Marylebone. XC02 is currently CrossCountry's longest route, for the services that start/end at Portsmouth, with a 68 minute journey time end-to-end.
 
-==== South-Western Region ====
+==== South-Western Route ====
 
-Add Content Here
+Some of the South Western operations of CrossCountry, at it's most Southern point, Seowonju, through to Yongchun, Walsall, and Danielston Memorial are additionally served by the Class 170 "Turbostar" DMU fleet on XC11, as well as Class 67 Locomotives with Mark X coaches and the HST fleet for XC04. The vast majority of Class 43 services are within the South West, though a small amount are also allocated to the Portsmouth-Carmine City and return XC02 services. The primary depot for CrossCountry is located just south of Portsmouth, at Central Rivers.
 
 ===== Current Services =====
 
-CrossCountry currently operates 4 principal services. XC01, XC02a, XC02b, and XC11. XC03 is reserved for a future route, whilst XC02 is split into a & b dependent on northern termini. All services operating north of Yongchun must be formed of IET stock, and no Class 170s are currently used on diagrams apart from XC11.
+CrossCountry currently operates 4 principal services. XC01, XC02, XC04, XC05, XC06 and XC11. XC05 was previously designated as a part of the XC02 route, split into a & b dependent on northern termini. Most services operating north of Yongchun are formed of IET stock, Class 67 sets are contained to Danielston Memorial diagrams, with a limited number of HST workings beyond Gapyeong New Street to the North. Class 170s are used on all regional diagrams.
 
 The table below shows the standard calling patterns for CrossCountry Trains services. The majority of services start from Portsmouth, but some also begin from Yongchun. Full through services commenced on 20/12/24
 
@@ -45,7 +45,8 @@ The table below shows the standard calling patterns for CrossCountry Trains serv
 | Marylebone/Kirkenkessie Gateway | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong New Street]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], Paradise Fall SA, [[Hikariyama]], [[Acacialand Village]],  [[Einsburg West]], [[Einsburg Central]], Reston then either //Woolwich → Ilford Island → Kirkenkessie Gateway // **or** // Woolwich → Marylebone → Sandy Palace → Denthrope Hbf//. Services starting/ending at //Yongchun// to/from //Denthrope Hbf//, & services starting/ending at //Portsmouth// to/from //Kirkenkessie Gateway// call additionally at //Einsburg East//.  |
 | Route In Planning | XC03 | Information Unavailable,  |
 | Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
-| Walsall | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]], [[Walsall]]|
+| Walsall | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]], [[Walsall]] |
+
 </WRAP>
 
 ~~NOTOC~~
