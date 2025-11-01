@@ -21,11 +21,11 @@ CrossCountry, commonly abbreviated to XC, is a long-distance and regional interc
 
 ==== Fleet ====
 
-On Liskeard, Kirkenkessie, and Carmine City services, CrossCountry primarily operate a fleet of Diesel Hitachi Class 802 units. For services to Danielston Memorial, 802s, as well as a small fleet of both HSTs and loco-hauled Class 67s with Mark X Carriages in Sleeper and Day formations are utilised. For Regional services to Walsall, CrossCountry utilise a fleet of 2-3 car Class 170 DMUs, which can be used in sets of up to 6 Carriages.
+For the Liskeard, Kirkenkessie, and Carmine City services, CrossCountry primarily operate a fleet of Diesel Hitachi Class 802 units. For services to Danielston Memorial, 802s, as well as a small fleet of both HSTs and loco-hauled Class 67s with Mark X Carriages in Sleeper and Day formations are utilised. For Regional services to Walsall, CrossCountry utilise a fleet of 2-3 car Class 170 DMUs, which can be used in sets of up to 6 Carriages.
 
 ==== Northern Route ====
 
-Almost all services operate along the core Yongchun-Einsburg Central section. XC01 splits at Einsburg Central to go to Liskeard International with an intermediate stop at Liskeard Central included. Heading East, XC02 and XC05 are joined at Reston by XC06, which starts from Liskeard International, and XC05 diverges from the main route to branch off to Kirkenkessie Gateway via Ilford Island at Woolwich, whilst XC02 and XC06 continue to Carmine City, requiring a turnaround at Marylebone. XC02 is currently CrossCountry's longest route, for the services that start/end at Portsmouth, with a 68 minute journey time end-to-end.
+Almost all services operate along the core Yongchun-Einsburg Central section. XC01 splits at Einsburg Central to go to Liskeard International with an intermediate stop at Liskeard Central included. East of Einsburg, XC02 and XC05 are joined at Reston by XC06, which starts from Liskeard International, and XC05 diverges from the main route to branch off to Kirkenkessie Gateway via Ilford Island at Woolwich, whilst XC02 and XC06 continue to Carmine City, requiring a turnaround at Marylebone. XC02 is currently CrossCountry's longest route, for the services that start/end at Portsmouth, with a 68 minute journey time end-to-end.
 
 ==== South-Western Route ====
 
@@ -33,21 +33,23 @@ Some of the South Western operations of CrossCountry, at it's most Southern poin
 
 ===== Current Services =====
 
-CrossCountry currently operates 4 principal services. XC01, XC02, XC04, XC05, XC06 and XC11. XC05 was previously designated as a part of the XC02 route, split into a & b dependent on northern termini. Most services operating north of Yongchun are formed of IET stock, Class 67 sets are contained to Danielston Memorial diagrams, with a limited number of HST workings beyond Gapyeong New Street to the North. Class 170s are used on all regional diagrams.
+CrossCountry currently operates 5 intercity and two regional services. XC01, XC02, XC04, XC05, XC06, XC11, and XC12. XC05 was previously designated as a part of the XC02 route, split into a & b dependent on northern termini. Most services operating north of Yongchun are formed of IET stock, Class 67 sets are contained to Danielston Memorial diagrams, with a limited number of HST workings beyond Gapyeong New Street to the North. Class 170s are used on all regional services (XC11 & XC12).
 
 The table below shows the standard calling patterns for CrossCountry Trains services. The majority of services start from Portsmouth, but some also begin from Yongchun. Full through services commenced on 20/12/24
 
 <WRAP center round box #EFEEF0>
-**Service Patterns**
+**CrossCountry Routes**
 </WRAP>
 
-| **Termini** | **Route** | **Calling at** |
-| Liskeard International | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong New Street]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]], & [[Liskeard International]]. Trains starting or terminating at //Yongchun// call additionally at //Paradise Fall SA//. |
+| **Termini** | **Number** | **Calling Points** |
+| Liskeard International | XC01 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong New Street]], [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], [[Hikariyama]], [[Acacialand Village]], [[Einsburg West|Einsburg West]], [[Einsburg Central|Einsburg Central]], [[Liskeard Central]], & [[Liskeard International]]. Trains starting/ending at //Yongchun// call additionally at //Paradise Fall SA//. |
 | Carmine City | XC02 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong New Street]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], Paradise Fall SA, [[Hikariyama]], [[Acacialand Village]], [[Einsburg West]], [[Einsburg Central]], Reston, Woolwich, Marylebone, Sandy Palace, Denthrope Hbf, Zuidbaai, Market Quarter, Icon Broadway, Carmine City. Services starting/ending at //Yongchun// call additionally at //Einsburg East//. |
-| Route In Planning | XC03 | Information Unavailable |
+| Reserved Allocation | XC03 | Tbc |
 | Danielston Memorial | XC04 | [[Portsmouth]], [[Junee]], [[Gapyeong|Gapyeong]], [[Namchuncheon]], [[Chuncheon]], [[Koonawarra]], [[Danielston Memorial]] |
 | Kirkenkessie Gateway | XC05 | Portsmouth, Havant, Junee, [[Gapyeong|Gapyeong New Street]], Elynas, [[Yongchun|Rikkashi Yongchun]], [[Lavender Edge|Lavender Edge]], Paradise Fall SA, [[Hikariyama]], [[Acacialand Village]], [[Einsburg West]], [[Einsburg Central]], Reston, Woolwich, Ilford Island, Kirkenkessie Gateway. Services starting/ending at //Portsmouth// call additionally at //Einsburg East//. |
+| Carmine City | XC06 | Liskeard International, Liskeard Central, Reston, Woolwich, Imperial Bay, Marylebone, Denthrope Hbf, Zuidbaai, Market Quarter, Icon Broadway, Carmine City.  |
 | Walsall | XC11 | [[Portsmouth]], [[Havant]], [[Tumbarumba]], [[Junee]], [[Narranderra]], [[Gapyeong|Gapyeong]], [[Walsall]] |
+| Seowonju | XC12 | [[Junee]], [[Havant]], [[Portsmouth]], Central Rivers, South Barton, Maegok, Yangdong, Samsan, Seowonju |
 
 
 ~~NOTOC~~
