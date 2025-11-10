@@ -63,4 +63,5 @@ Due to the complex' large and sometimes confusing layout, there are maps in some
 | ::: |  4  |   |   |
 | ::: |  5  |   |   |
 | ::: |  6  |   |   |
+| ::: |  H1  |  Spawn High Speed Terminal Automatic People Mover  |  Spawn  |
 
