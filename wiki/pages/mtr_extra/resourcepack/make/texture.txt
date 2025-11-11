@@ -1,4 +1,4 @@
-====== How to add custom train models for MTR ======
+====== How to add custom train retextures for MTR ======
 
 This guide will tell you how to retexture existing trains for MTR mod.
 
