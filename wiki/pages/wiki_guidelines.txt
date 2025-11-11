@@ -3,18 +3,18 @@
   - All rules from the Minecraft Transit Railway Discord apply to this wiki. Some have modified wording for the Wiki, they are as follows:
     * Please be respectful! Do unto others as you would have them do unto you. 
     * Do not write, upload, or share content considered inappropriate, offensive, or NSFW (not safe for work). This can include (but is not limited to) racial slurs, excessive swearing, or politics. Be mindful of people from different backgrounds.
-    * Do not ping any roles, especially moderators, staff, or admin. If you have a question, do not send direct messages to moderators, staff, or admin. Instead, ask questions in ⁠the Discord and we will gladly help you there. 
+    * Do not ping individual admin or staff members or entire roles except in an emergency. If you have a question, do not send direct messages to admin or staff. Instead, ask questions in ⁠general  and we will gladly help you there. 
     * Do not spam, use caps lock, or type repeating characters excessively. Sending or posting scam links will result in an instant ban. 
-    * Please do not advertise anywhere on this Wiki outside of Wiki pages for a server or resource pack (see rule 7). For advertisement, please only advertise in Discord in the appropriate channels. Do not advertise something that gives you direct monetary gain. 
+    * Please do not advertise anywhere on this Wiki. For advertisement, please only advertise in Discord in the appropriate channels. Do not advertise something that gives you direct monetary gain. 
     * Don't upload or share copyrighted material that belongs to others. We do not endorse, promote, or offer support for cracked or pirated Minecraft launchers, clients or servers.
     * If you are interested in coding and development, feel free to talk to the staff about joining the ⁠modding-general channel in the Discord.
     * English is the main language of this community, but other languages may be used if necessary. Please respect staff when requested to use English. However, on the sidebar of each page, there are tabs for other languages. You are welcome and encouraged to translate and/or create pages in other languages
     * This mod is licensed with the MIT License, so you are free to modify and distribute it. 
     * Please do not suggest new trains and avoid suggesting something that has already been mentioned. Suggestions are not to be posted to the Wiki, please see the Discord. 
-    * Images uploaded to the Discord server or the Wiki the banner vote may be used for the official Minecraft Transit Railway Twitter or other sites (such as CurseForge) for mod promotion.
+    * Images uploaded to the Discord server, the Wiki, or the banner vote may be used for the official Minecraft Transit Railway Twitter or other sites (such as CurseForge) for mod promotion.
     * If you get banned or muted for any reason, you may send an appeal to the admins via Discord.
     * Have fun! Thank you for contributing
-  - When possible, try to consolidate smaller tweaks into one larger edit. This will reduce the amount of spam in the wiki-updates channel on the Discord. Do not spam edits.
+  - When possible, try to consolidate smaller tweaks into one larger edit. This helps to keep changelogs on the Wiki easy to digest and reduce the amount of spam that shows up in said changelogs. Do not spam edits.
   - Please make sure to create pages in the correct category.
   - Please keep language neutral
     * NO: //Tai Wo Hau is the best station in all of Hong Kong.//
@@ -23,21 +23,14 @@
     * BAD: //Added more information and images.//
     * GOOD: //Added more information to the History category. Added 2 images for the Rolling Stock category.//
   - Do not vandalise pages, including adding irrelevant and/or harmful images and text.
-  - Custom content and external servers are limited to one entry per.
-    * 7.a. Each Discord server may only have one page, and should be placed in the correct category per the Edit Guideline. Server pages may NOT have subpages. All content must be kept to one page; the Wiki is not your personal server's almanac.
-    * 7.b. Using non-neutral language, particularly for the sake of making one's server seem more favourable than others, is considered a violation not only of Wiki rule 4, but of Discord rule 5. Staff reserve the right to request changes to language in order to maintain neutrality, and compliance is expected.
-    * 7.c. Each collection of resource packs may only have one page. Please condense collections as much as possible. Staff reserve the right to request further consolodation and compliance is expected.
-    * 7.d. You must not use any link shorteners such as Bitly. You may not upload files, namely resource pack files, directly to the Wiki. Download links may only lead to following sites, and exceptions are possible if approved by an Admin or a Staff member if site doesn't have any ads, shady and dubious content, or malware and doesn't require to sign up to download resource packs: //Modrinth, Curseforge, Google Drive, OneDrive, MEGA//.
-  - Banned users cannot make community pages.
-  - Adopting the philosophy from Wikipedia, be as concise as possible. Pages should not be extensive biographies, and footnotes should be used for superfluous clarification.
+  - Users banned on the Discord server cannot edit on the Wiki. Bans are cross-honoured from Discord to Wiki.
+  - Adopting the philosophy from Wikipedia, be as concise as possible, whilst still conveying ample amount of information. Pages should not be extensive biographies, but should be informational resources. Footnotes should be used for superfluous clarification.
   - Adopting the philosophy form Wikipedia, pages must not contradict one another. The community's view cannot simultaneously be "A" and "not A". Outside drama and superfluous indulgence in particular incidents is not permitted, and in any given case, Staff reserve the right to moderate and decide on a position should there by a point of disagreement.
-  - Aside from members of the Staff team, users with the Contributors role, and members of the Let's Play Builders Team, users may not create their own user pages.
-  - All content must be in the third person perspective, particularly pertaining to user pages in accordance with rule 11.
+  - All content must be in the third person perspective.
 
-You are responsible for understanding and following these rules. Admins and Staff reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change.
+You are responsible for understanding and following these rules. Admins, Staff, and members of the Wiki Task Force  reserve the right to moderate at their discretion. We reserve the right to ban offenders, even those who follow the letter of the law but break the spirit of the law. The Wiki is ever-changing, and we reserve the right to change these guidelines at any time. An announcement will be made on Discord when the guidelines change.
 
-//These version of the guidelines were drafted on 22 January 2024, adopted 27 January 2024, revised 29 January 2024, and will take affect 31 January 2024 at 02:00 HKT.
-We appreciate any and all concerns. As stated above, we reserve the right to continue to make changes to the operations and guidelines of the Wiki as we see fit. //
+//This version of the guidelines was published as of 2025-11-11.//
 
 For information on how to create a page and page organisation, please visit the [[editing_guideline|Edit Guidelines]] page.
 
