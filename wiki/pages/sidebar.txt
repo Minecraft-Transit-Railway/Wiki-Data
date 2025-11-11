@@ -10,5 +10,3 @@
 
 **[[mtr_letsplay:start|Let's Play Server]]**
 
-**[[mtr_community:start|Community Pages]]**
-
