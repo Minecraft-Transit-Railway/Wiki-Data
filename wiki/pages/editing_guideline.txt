@@ -15,10 +15,11 @@ First, the page needs an English title like "Edit Guideline," then, you need to 
 | mtr | The base MTR mod for the player |
 | mtr_dev | Addon or resource pack development for MTR |
 | mtr_letsplay | MTR Let's Play Server |
+| mtr_extra | Information about resource pack creation and other associated topics |
 | mtr_addon->lu | The London Underground Addon |
 | mtr_addon->nte | Nemo's Transit Expansion Addon |
 | mtr_addon->msd | MTR Station Decoration Addon |
-| playground | If you just want to try out the functions |
+| playground | If you just want to try out the functions of the Wiki|
 
 After you create the page, there will be a big box for you to enter text in and a bunch of icons on the top.
 
