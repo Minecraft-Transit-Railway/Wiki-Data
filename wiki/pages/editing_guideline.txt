@@ -19,10 +19,6 @@ First, the page needs an English title like "Edit Guideline," then, you need to 
 | mtr_addon->lu | The London Underground Addon |
 | mtr_addon->nte | Nemo's Transit Expansion Addon |
 | mtr_addon->msd | MTR Station Decoration Addon |
-| mtr_community:server | Server pages for the Community |
-| mtr_community:staff | Staff user pages |
-| mtr_community:contributors | Contributor user pages |
-| mtr_community:builders | Builder user pages |
 | playground | If you just want to try out the functions |
 
 After you create the page, there will be a big box for you to enter text in and a bunch of icons on the top.
@@ -44,9 +40,6 @@ You can create a page below:
 ===== Other Guidelines =====
 
 For the [[wiki_guidelines|Wiki Guidelines]], please visit the corresponding page.
-
-
-Your user page should belong in the respective category according to the Staff > Contributor > Builder priority. If you have the orange Contributor role and you are a builder as well, your page should be placed in the Contributor namespace.
 
 If you have any questions, please ask for help in the #wiki-discussion channel in [[https://discord.gg/xvTgJ3PbrP|Discord]]. As per the Wiki Guidelines, Admins and Staff reserve the right to modify any pages as necessary to fit the guidelines. Please make sure to check back on this page ever so often, as editing requirements may be added and/or changed. As stated above, we reserve the right to continue to make changes to the operations and guidelines of the Wiki as we see fit. We appreciate constructive feedback, and can/will make changes as time goes on.
 
