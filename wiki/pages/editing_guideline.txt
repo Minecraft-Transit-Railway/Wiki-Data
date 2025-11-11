@@ -15,7 +15,6 @@ First, the page needs an English title like "Edit Guideline," then, you need to 
 | mtr | The base MTR mod for the player |
 | mtr_dev | Addon or resource pack development for MTR |
 | mtr_letsplay | MTR Let's Play Server |
-| mtr_extra | Community Resource Packs |
 | mtr_addon->lu | The London Underground Addon |
 | mtr_addon->nte | Nemo's Transit Expansion Addon |
 | mtr_addon->msd | MTR Station Decoration Addon |
