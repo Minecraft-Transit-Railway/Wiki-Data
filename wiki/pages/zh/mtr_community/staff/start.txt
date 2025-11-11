@@ -1,9 +1,0 @@
-====== 工作人员 ======
-
-以下是所有MTR员工页面的列表。有关更多信息，请务必阅读[[https://wiki.minecrafttransitrailway.com/wiki_guidelines|Wiki指南]] 和 [[https://wiki.minecrafttransitrailway.com/editing_guideline|更改指南]].
-
-===== 工作人员页面 =====
-
- <nspages -textPages="" -title -exclude>
-
-~~NOCACHE~~
