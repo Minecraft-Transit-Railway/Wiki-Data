@@ -97,7 +97,7 @@ Typically, an icon for signs is 128 x 128 in size.
 
 ==== Registering the sign data ====
 
-  * Return to the ''mtr_custom_resources.json''. Inside the square brackets of ''"vehicles"'', find the vehicle properties that you want to apply your custom textures to. A full reference is available here. 
+  * Return to the ''mtr_custom_resources.json''. Inside the square brackets of ''"vehicles"'', find the vehicle properties that you want to apply your custom textures to. [[mtr_extra:resourcepack:make:core_mod_custom_resources|A full reference is available here.]] 
   * Replace the ''id'' to an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
   * Replace all values in ''textureResource'' under ''models'' with the path to the train texture. DO NOT do this to any of the door overlay models.
 
@@ -120,12 +120,4 @@ Please remember to validate your JSON file. Websites such as [[https://jsonlint.
   * Open Minecraft, and go to {{:mtr_extra:resourcepack:make:options.png?100}} > {{:mtr_extra:resourcepack:make:rp.png?160}} from either the Game Menu or the title page.
   * Apply the resource pack, and press {{:mtr_extra:resourcepack:make:done.png?160}}.
   * Your custom train should now show in the game.
-
-{{:mtr_extra:resourcepack:make:2025-07-01_10.29.41.png?400}}
-
-==== TODO ====
-
-  - How to add custom objects
-  - How to add custom rails
-  - How to add custom lifts
 
