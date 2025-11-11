@@ -1,0 +1,13 @@
+====== How to add custom train models for MTR ======
+
+This guide will tell you how to retexture existing trains for MTR mod.
+
+===== Before we get started =====
+
+Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all train models. One single PNG file is used as the UV for each model. By specifying another file in ''mtr_custom_resources.json'', you can create a train retexture without modifying the texture from the main mod.
+
+===== Dependencies =====
+
+  - [[https://www.blockbench.net/|Blockbench]]. You will need this to view the models and check the UV position.
+  - A [[wp>Raster_graphics_editor|Raster graphics editor]] that supports transparency. You will need this to edit the textures. You can use editors such as Paint.NET and Photoshop. Microsoft Paint for Windows 10 or below does NOT support transparency.
+  - A text editor. Using Notepad is sufficient, but you can use applications designed for coding such as VS Code.
