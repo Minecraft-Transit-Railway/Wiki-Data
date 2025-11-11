@@ -2,6 +2,12 @@
 
 This guide will tell you how to retexture existing trains for MTR mod.
 
+<WRAP center round important 90%>
+
+**MTR4 format** is used in this tutorial.
+
+</WRAP>
+
 ===== Before we get started =====
 
 Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all train models. One single PNG file is used as the UV for each model. By specifying another file in ''mtr_custom_resources.json'', you can create a train retexture without modifying the texture from the main mod.
@@ -11,3 +17,115 @@ Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all t
   - [[https://www.blockbench.net/|Blockbench]]. You will need this to view the models and check the UV position.
   - A [[wp>Raster_graphics_editor|Raster graphics editor]] that supports transparency. You will need this to edit the textures. You can use editors such as Paint.NET and Photoshop. Microsoft Paint for Windows 10 or below does NOT support transparency.
   - A text editor. Using Notepad is sufficient, but you can use applications designed for coding such as VS Code.
+
+===== Editing a texture =====
+
+  * Go to [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle|here]] to grab the model of the train and [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle|here]] for the textures. Make sure that you choose the model and the texture of the same name.
+
+<WRAP center round info 90%>
+
+Some train textures may share the same model (such as Class 802 and all LRVs).
+
+</WRAP>
+
+  * Open Bloackbench, and apply the texture you've downloaded by dragging to the Textures area on the bottom left. A dialogue show show, asking you if you want to import the texture / replace the file. Click either of them.
+  * {{ :mtr_extra:resourcepack:make:bb_load_images.png?200 }}
+  * Now you can select a cube to find its UV position and start retexturing. By clicking the eye icon to the right of each cube / group you can hide / unhide cubes.
+  * {{ :mtr_extra:resourcepack:make:bb_ui.png?200 }}
+
+===== Adding a texture =====
+
+  * Go to your //.minecraft// folder. {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}}
+
+  * Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}}
+
+  * Create a folder with a name that you want (for example: My custom signs) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+  * Create a new folder inside of the existing folder called ''assets''.
+  * Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
+  * Download this template pack.mcmeta and put it into your resourcepack folder:
+
+<code json pack.mcmeta>
+{
+    "pack": {
+        "description": "put your pack description here",
+        "pack_format": 9
+    }
+}
+</code>
+
+<WRAP center round info 90%>
+
+The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\  However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\  If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
+
+</WRAP>
+
+  * Create a new folder named ''mtr'' in the assets folder.
+
+  * Create a text file inside the folder named ''mtr_custom_resources.json''
+
+==== JSON files ====
+
+The ''mtr_custom_resources.json'' defines all custom resources that you want to add. The template is provided below.
+
+<code json mtr_custom_resources.json>
+{
+    "vehicles": [],
+    "signs": [],
+    "rails": [],
+    "objects": [],
+    "lifts": []
+}
+</code>
+
+==== Adding your custom texture ====
+
+  * Create a folder under ''mtr'' with a name that you want (for example: ''custom_trains''). Now drop your custom texture there.
+
+<WRAP center round important 90%>
+
+Note that you can only use a-z, 0-9, - and _ for the folder name. CAPITAL LETTERS, white spaces and any other characters are **not acceptable.**
+
+</WRAP>
+
+  * Add in the custom icon that you wanted to use.
+
+<WRAP center round info 90%>
+
+Typically, an icon for signs is 128 x 128 in size.
+
+</WRAP>
+
+==== Registering the sign data ====
+
+  * Return to the ''mtr_custom_resources.json''. Inside the square brackets of ''"vehicles"'', find the vehicle properties that you want to apply your custom textures to. A full reference is available here. 
+  * Replace the ''id'' to an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace all values in ''textureResource'' under ''models'' with the path to the train texture. DO NOT do this to any of the door overlay models.
+
+<WRAP center round tip 90%>
+
+If you want to have a train without the door overlay, simply remove the models with door overlay properties and models defined.
+
+</WRAP>
+
+  * Save the JSON file.
+
+<WRAP center round important 90%>
+
+Please remember to validate your JSON file. Websites such as [[https://jsonlint.com/|JSONLint]] may be used to validate your JSON. Minecraft will **NOT** load any custom resources in a ''mtr_custom_resources'' that is invalid!
+
+</WRAP>
+
+==== Adding it to the game ====
+
+  * Open Minecraft, and go to {{:mtr_extra:resourcepack:make:options.png?100}} > {{:mtr_extra:resourcepack:make:rp.png?160}} from either the Game Menu or the title page.
+  * Apply the resource pack, and press {{:mtr_extra:resourcepack:make:done.png?160}}.
+  * Your custom train should now show in the game.
+
+{{:mtr_extra:resourcepack:make:2025-07-01_10.29.41.png?400}}
+
+==== TODO ====
+
+  - How to add custom objects
+  - How to add custom rails
+  - How to add custom lifts
+
