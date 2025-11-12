@@ -6,7 +6,7 @@ Learn what you need to know to migrate your Minecraft server towards MTR 4!
 
 ==== Before migrating ====
 
-  * Some addons like [[mtr_addon:nte:start|Nemo Transit Expansion]] and [[https://modrinth.com/mod/transitmanager|TransitManager]] does not have an MTR 4 version. Please double-check your addon list and evaluate your path before upgrading.
+  * Some addons like [[mtr_addon:nte:start|Nemo Transit Expansion]] and [[https://modrinth.com/mod/transitmanager|TransitManager]] do not have an MTR 4 version. Please double-check your addon list and evaluate your path before upgrading.
   * MTR 4 requires a Minecraft version of either 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.4, 1.20.1 or 1.20.4. Consider upgrading/downgrading your Minecraft version if you are not using a version listed here.
   * **Make a backup before you attempt to migrate, it's an irreversible process!**
 
