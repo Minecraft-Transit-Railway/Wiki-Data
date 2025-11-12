@@ -176,6 +176,7 @@ To open the transport system map, go to your dashboard and click the `Transport 
 
 ## Still need help?
 
-Join our [[https://discord.com/invite/PVZ2nfUaTW|Discord]]!
+Join our [[https://discord.com/invite/PVZ2nfUaTW|Discord]] !
 
-</markdown>
+</markdow
+n>
