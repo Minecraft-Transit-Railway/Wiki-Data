@@ -19,7 +19,6 @@ Welcome to the MTR wiki!
 
   * [[mtr_letsplay:start|Let's Play Server]] - the official server of the MTR mod
     * Trying to download the modpack? Visit the [[mtr_letsplay:modpack|Let's Play Modpack]] page!
-  * [[mtr_community:start|MTR Communities]] - the other community made servers, and more
 
 ===== Contributing to Wiki =====
 
