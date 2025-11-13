@@ -23,30 +23,11 @@ The **Railway Dashboard,** **Boat Dashboard**, **Cable Car Dashboard**, and **Fl
 Except Flight Dashboard, all dashboards are able to be made via [[https://minecraft.wiki/w/Crafting|Crafting]].
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
 | Boat Dashboard | [Planks](https://minecraft.wiki/w/Planks) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_2.png" width=200> |
 | Cable Car Dashboard | [String](https://minecraft.wiki/w/String) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_3.png" width=200> |
-
 </markdown>
 
 ===== Usage =====
@@ -58,23 +39,6 @@ Dashboards will be opened when right clicked.
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 | Tab | Functionality |
@@ -115,19 +79,6 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
@@ -138,29 +89,17 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 When the ''Depots'' tab is selected and while not editing a depot, a siding on the map can be clicked on to bring up a siding configuration screen. The following properties for a siding can then be edited:
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Field | Description |
-| --- | --- |
-| Siding Number | <li>Trains in a depot will be deployed according to the siding number.<li>If two sidings have the same number, a random train between the sidings will be deployed. |
-| Train Type | <li>This determines what train type will be deployed from the siding. (Note that the siding must be long enough for the selected train type to spawn.) |
-
+| Field | Description | Default value|
+| --- | --- |---|
+| Siding Number | <li>Trains in a depot will be deployed according to the siding number.<li>If two sidings have the same number, a random train between the sidings will be deployed. |1|
+| Selected Vehicle | Vehicles that will be spawned in that siding. Click Edit to edit the formation. |N/A|
+| Maximum Vehicles for Siding |Maximum number of formations of trains that can be spawned from that siding.|1|
 </markdown>
+
+<WRAP center round important 90%>
+If the siding is set to be a drivable vehicle, the value for **Maximum Vehicles for Siding** must be 1.
+
+</WRAP>
 
 Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
 
@@ -219,27 +158,3 @@ Stations can be created and shared across all dashboards, but platforms, routes,
 %%3.1.11: Improved Dashboards' performance.%%
 
 ===== Gallery =====
-
-<markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img alt="Name Colour Fields" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/dashboard/name-colour-fields.png" width=512/><br>The `|` character separates the different languages in the station or route name.<br>The colour field has six characters, composed of numbers or the letters A-F.
-
-</markdown>
-
