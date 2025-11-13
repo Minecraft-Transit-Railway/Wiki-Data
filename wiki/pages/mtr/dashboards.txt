@@ -29,6 +29,8 @@ Except Flight Dashboard, all dashboards are obtainable via [[https://minecraft.w
 
 
 
+
+
 | Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
 | --- | --- | --- |
 | Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
@@ -46,6 +48,8 @@ Dashboards will be opened when right-clicked.
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
 
 
 
@@ -101,6 +105,8 @@ The map can be moved around by left-clicking + dragging the map, and can be zoom
 When either the ''Stations'' or ''Routes'' tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
 
 <markdown>
+
+
 
 
 
@@ -245,4 +251,6 @@ When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil
 %%3.1.11: Improved Dashboards' performance.%%
 
 ===== Gallery =====
+
+{{:mtr:2025-11-13_21.53.46.png?300|The interface of Railway Dashboard when opened.}}\\ The interface of Railway Dashboard when opened.
 
