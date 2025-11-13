@@ -20,7 +20,7 @@ The **Railway Dashboard,** **Boat Dashboard**, **Cable Car Dashboard**, and **Fl
 
 ==== Crafting ====
 
-Except Flight Dashboard, all dashboards are able to be made via [[https://minecraft.wiki/w/Crafting|Crafting]].
+Except Flight Dashboard, all dashboards are obtainable via [[https://minecraft.wiki/w/Crafting|Crafting]].
 
 <markdown>
 
@@ -39,13 +39,19 @@ Except Flight Dashboard, all dashboards are able to be made via [[https://minecr
 
 ===== Usage =====
 
-Dashboards will be opened when right clicked.
+Dashboards will be opened when right-clicked.
 
 ==== Tabs ====
 
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
+
+
+
+
 
 
 
@@ -68,6 +74,8 @@ When ''Add Station'', ''Add Route'', or ''Add Depot'' is clicked or when a stati
 
 If left blank, the station or route will default to "Untitled".
 
+Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
+
 ==== Station / Route / Depot Colour Field ====
 
 When ''Add Station'' or ''Add Route'', or ''Add Depot'' is clicked or when a station, route, or siding is being edited, the "colour" field text box will appear at the bottom, next to the "name" field. This text box accepts a RGB six-character hex code, composed of numbers or the letters A-F. Use a [[https://www.w3schools.com/colors/colors_picker.asp|colour picker]] to easily generate a hex code.
@@ -86,9 +94,19 @@ It is recommended to have the same line name (before the ''||'') for routes that
 
 ==== Using the Map ====
 
+The map can be moved around by left-clicking + dragging the map, and can be zoomed in and out by using the mouse scroll or the + and - buttons provided.
+
+==== Stations and Routes tab ====
+
 When either the ''Stations'' or ''Routes'' tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
 
 <markdown>
+
+
+
+
+
+
 
 
 
@@ -104,6 +122,10 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 | Dwell Time | <li>This determines how long a train should stop at the platform.<li>Generally, the value should be set to be low enough so that the next train would not arrive before the current train departs. |
 
 </markdown>
+
+==== Depots tab ====
+
+=== Siding configuration ===
 
 When the ''Depots'' tab is selected and while not editing a depot, a siding on the map can be clicked on to bring up a siding configuration screen. The following properties for a siding can then be edited:
 
@@ -144,7 +166,29 @@ If the siding is set to be a drivable vehicle, the value for **Maximum Vehicles 
 
 </WRAP>
 
-Stations can be created and shared across all dashboards, but platforms, routes, sidings, and depots are only created and visible within the dashboard of the transport type.
+== Selecting vehicles ==
+
+By default, no vehicles are specified to spawn in a siding, even if it is within a siding. Players can press the + button to the right of each vehicle listed in the Available column to add a vehicle to spawn. Any vehicles that can't be spawned in that siding due to insufficient length will have a ⚠️ rendered before the name, and are unable to add to the Selected column.
+
+In the Selected column, players can press Up / Down buttons to the right of each vehicles to change the order of the vehicles, or remove the vehicles from the list.
+
+A "Duplicate Cars" option is available to allow players to duplicate the formation pattern.
+
+=== Depot configuration ===
+
+When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil) button of a depot, the depot configuration screen is displayed. This is where the player can define the instructions for the depot.
+
+^ Field ^ Description ^ Default value ^
+| Schedule: Minecraft Time / Real Time | Schedule for when trains should depart from the depot. | Minecraft Time |
+| 00:00-00:59 ~ 23:00-23:59 | Sliders for how many trains should depart from the depot per hour. | 0.0/hr |
+| (Real time entering field) | Field for entering real-time schedule. The time should be entered in HH:MM:SS format. Adding +x*HH:MM:SS after the timestamp can add x more departures with a gap of the given time. | N/A |
+| Depot name | Name of the depot. | Untitled |
+| Depot Colour | Colour of the depot | Random HEX value |
+| Edit instructions | Menu for editing instructions for all trains within the depot.  | N/A |
+| Instant Deploy | Button for deploying all trains to the route instantly. | N/A |
+| Refresh Path | Button for refreshing the paths of the instructions. | N/A |
+| Clear vehicles | Button for clearing all trains of that depot that are out of the depot. | N/A |
+| Repeat Instructions Forever | When enabled, all trains will repeat the instructions forever, without returning to the depot. | False |
 
 ===== Changelog =====
 
