@@ -262,6 +262,14 @@ When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil
 
 {{:mtr:2025-11-13_21.53.50.png?300}}\\ The interface of platform configuration.
 
+{{:mtr:2025-11-13_21.54.19.png?300}}
+
+The interface of the siding configuration on all Dashboards except the Cable Car Dashboard.
+
+{{2025-11-13_21.56.10.png?300}}
+
+The interface of the siding configuration on the Cable Car Dashboard.
+
 {{:mtr:2025-11-13_21.54.36.png?300}}
 
 The interface of vehicle selection. Note that the player can no longer select any vehicles from the Available column, as it does not have enough space for any of them to fit the siding.
