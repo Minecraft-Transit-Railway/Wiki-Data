@@ -20,26 +20,18 @@ The **Railway Dashboard,** **Boat Dashboard**, **Cable Car Dashboard**, and **Fl
 
 ==== Crafting ====
 
-Except Flight Dashboard, all dashboards are obtainable via [[https://minecraft.wiki/w/Crafting|Crafting]].
+Except for the Flight Dashboard, all dashboards are obtainable via [[https://minecraft.wiki/w/Crafting|Crafting]].
 
-<markdown>
-
-
-
-
-
-
-
-
-
-
-| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
-| --- | --- | --- |
-| Railway Dashboard | [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_1.png" width=200> |
-| Boat Dashboard | [Planks](https://minecraft.wiki/w/Planks) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_2.png" width=200> |
-| Cable Car Dashboard | [String](https://minecraft.wiki/w/String) + [Redstone Dust](https://minecraft.wiki/w/Redstone_Dust) + [Glass Pane](https://minecraft.wiki/w/Glass_Pane) + [Glowstone Dust](https://minecraft.wiki/w/Glowstone_Dust)<br><br>_Shaped Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:dashboard_3.png" width=200> |
-
-</markdown>
+^ Name ^ Ingredients ^ [[https://minecraft.wiki/w/Crafting|Crafting]] Recipe ^
+| Railway Dashboard | [[https://minecraft.wiki/w/Iron_Ingot|Iron Ingot]] + [[https://minecraft.wiki/w/Redstone_Dust|Redstone Dust]] + [[https://minecraft.wiki/w/Glass_Pane|Glass Pane]] + [[https://minecraft.wiki/w/Glowstone_Dust|Glowstone Dust]]((
+Shaped Recipe
+)) | {{dashboard_1.png?200}} |
+| Boat Dashboard | [[https://minecraft.wiki/w/Planks|Planks]] + [[https://minecraft.wiki/w/Redstone_Dust|Redstone Dust]] + [[https://minecraft.wiki/w/Glass_Pane|Glass Pane]] + [[https://minecraft.wiki/w/Glowstone_Dust|Glowstone Dust]]((
+Shaped Recipe
+)) | {{dashboard_2.png?200}} |
+| Cable Car Dashboard | [[https://minecraft.wiki/w/String|String]] + [[https://minecraft.wiki/w/Redstone_Dust|Redstone Dust]] + [[https://minecraft.wiki/w/Glass_Pane|Glass Pane]] + [[https://minecraft.wiki/w/Glowstone_Dust|Glowstone Dust]]((
+Shaped Recipe
+)) | {{:mtr:dashboard_3.png?200}} |
 
 ===== Usage =====
 
@@ -50,6 +42,20 @@ Dashboards will be opened when right-clicked.
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -109,6 +115,20 @@ The map can be moved around by left-clicking + dragging the map, and can be zoom
 When either the ''Stations'' or ''Routes'' tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
 
 <markdown>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
