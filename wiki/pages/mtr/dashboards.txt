@@ -235,7 +235,21 @@ When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil
 
 %%3.1.11: Fixed Dashboards list mouse crash.%%
 
-%%3.1.11: Improved Dashboards' performance.%%
+%%4.0.0-Beta-5: Various Dashboard tweaks.%%
+
+%%4.0.0-Beta-5: Dashboard player Y-level view.%%
+
+%%4.0.0-Beta-9: Various Dashboard tweaks.%%
+
+%%4.0.0-Beta-11: Dashboard rendering improvements and added back the MTR Font toggle.%%
+
+%%4.0.0-Beta-11: Dashboard can now be opened to the current station/depot or nearby platform/siding by shift-right-clicking.%%
+
+%%4.0.0-Beta-13: Fixed Dashboard map text jittering.%%
+
+%%4.0.0-Beta-13: Dashboard now lists routes in the platform configuration screen.%%
+
+
 
 ===== Gallery =====
 
