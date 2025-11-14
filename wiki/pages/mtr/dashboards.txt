@@ -20,9 +20,11 @@ The **Railway Dashboard,** **Boat Dashboard**, **Cable Car Dashboard**, and **Fl
 
 ==== Crafting ====
 
-Except Flight Dashboard, all dashboards are obtainable via [[https://minecraft.wiki/w/Crafting|Crafting]].
+Barring the Flight Dashboard, all dashboards are obtainable via [[https://minecraft.wiki/w/Crafting|Crafting]].
 
 <markdown>
+
+
 
 
 
@@ -43,13 +45,15 @@ Except Flight Dashboard, all dashboards are obtainable via [[https://minecraft.w
 
 ===== Usage =====
 
-Dashboards will be opened when right-clicked.
+Dashboards are opened via a right-click (i.e. the use item/place block button).
 
 ==== Tabs ====
 
 The Railway and Boat Dashboard has three tabs used to manage the railway.
 
 <markdown>
+
+
 
 
 
@@ -109,11 +113,14 @@ The map can be moved around by left-clicking + dragging the map, and can be zoom
 When either the ''Stations'' or ''Routes'' tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
 
 <markdown>
+
+
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
 | Dwell Time | <li>This determines how long a train should stop at the platform.<li>Generally, the value should be set to be low enough so that the next train would not arrive before the current train departs. |
 | Route(s) at Platform | <li>This shows what routes will use that platform. |
+
 </markdown>
 
 ==== Depots tab ====
@@ -123,7 +130,7 @@ When either the ''Stations'' or ''Routes'' tab is selected and while not editing
 When the ''Depots'' tab is selected and while not editing a depot, a siding on the map can be clicked on to bring up a siding configuration screen. The following properties for a siding can then be edited:
 
 ^ Field ^ Description ^ Default value ^
-| Siding Number | <li>Trains in a depot will be deployed according to the siding number</li>.<li>If two sidings have the same number, a random train between the sidings will be deployed. | 1 |
+| Siding Number | <li>Trains in a depot will be deployed according to the siding number</li>.<li>If two or more sidings share the same number, the train deployed will be randomly chosen from the siding selection. | 1 |
 | Selected Vehicle | Vehicles that will be spawned in that siding. Click Edit to edit the formation. | N/A |
 | Maximum Vehicles for Siding((
 Not available for Cable Car Dashboard.
@@ -161,15 +168,15 @@ If the siding is set to be a drivable vehicle, the value for **Maximum Vehicles 
 
 == Selecting vehicles ==
 
-By default, no vehicles are specified to spawn in a siding, even if it is within a siding. Players can press the + button to the right of each vehicle listed in the Available column to add a vehicle to spawn. Any vehicles that can't be spawned in that siding due to insufficient length will have a ⚠️ rendered before the name, and are unable to add to the Selected column.
+By default, no vehicles are specified to spawn in a siding, even if it is within a siding. Players can press the + button to the right of each vehicle listed in the Available column to add a vehicle to spawn. Any vehicles that can't be spawned in that siding due to insufficient length will have a ⚠️ rendered before the name, and cannot be added to the Selected column.
 
-In the Selected column, players can press Up / Down buttons to the right of each vehicles to change the order of the vehicles, or remove the vehicles from the list.
+In the Selected column, players can press Up / Down and Delete buttons buttons to the right of each vehicles to change the order of or remove vehicles from the list.
 
 A "Duplicate Cars" option is available to allow players to duplicate the formation pattern.
 
 === Depot configuration ===
 
-When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil) button of a depot, the depot configuration screen is displayed. This is where the player can define the instructions for the depot.
+When the ''Depots'' tab is selected, and the user selects the Edit (pencil) button of a depot, the depot configuration screen is displayed. This is where the player can define the instructions for the depot, including the schedule and route(s).
 
 ^ Field ^ Description ^ Default value ^
 | Schedule: Minecraft Time / Real Time | Schedule for when trains should depart from the depot. | Minecraft Time |
@@ -248,8 +255,6 @@ When the ''Depots'' tab is selected, and the player pressed the Edit (the pencil
 %%4.0.0-Beta-13: Fixed Dashboard map text jittering.%%
 
 %%4.0.0-Beta-13: Dashboard now lists routes in the platform configuration screen.%%
-
-
 
 ===== Gallery =====
 
