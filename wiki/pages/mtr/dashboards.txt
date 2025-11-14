@@ -109,30 +109,11 @@ The map can be moved around by left-clicking + dragging the map, and can be zoom
 When either the ''Stations'' or ''Routes'' tab is selected and while not editing a station or route, a platform on the map can be clicked on to bring up a platform configuration screen. The following properties for a platform can then be edited:
 
 <markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Field | Description |
 | --- | --- |
 | Platform Number | <li>Generally, platforms in a station are numbered to reduce confusion for passengers.<li>Although uncommon in the real world, letters or even words can be used as the platform "number". |
 | Dwell Time | <li>This determines how long a train should stop at the platform.<li>Generally, the value should be set to be low enough so that the next train would not arrive before the current train departs. |
-
+| Route(s) at Platform | <li>This shows what routes will use that platform. |
 </markdown>
 
 ==== Depots tab ====
