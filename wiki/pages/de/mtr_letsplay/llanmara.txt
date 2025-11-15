@@ -1,5 +1,7 @@
 links to future german pages needed
+
 ====== Llanmara ======
+
 Llanmara ist ein Verkehrsknoten auf dem [[start|Let's Play Server]]. Er bedient hauptsächlich den Norden des Servers und wurde größtenteils von Community-Mitglied [[zh:mtr_community:staff:sleepy_sapph|sleepy_sapph]] gebaut.\\ Er besteht aus folgenden Stationen：[[en:llanmara_saint_anns|Llanmara Saint Ann's]], [[en:llanmara_saint_devota|Llanmara Saint Devota]], [[en:llanmara_princes_street|Llanmara Prince's Street]] und [[en:llanthrow_airport|Llanthrow Airport]].
 
 <WRAP right>
@@ -33,7 +35,7 @@ Llanmara ist ein Verkehrsknoten auf dem [[start|Let's Play Server]]. Er bedient 
 | [[en:hsr_northern_heights_line|Northern Heights Line]] |   | [[en:1lla39|1LLA39]] [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 3 nach Nicht Einsteigen |
 | ::: | ::: | [[en:1ynk32|1YNK32]] [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 5  nach [[en:yankton|Yankton]] über [[en:spawn|Spawn]] |
 | [[en:hsr_kallos-waitemara_link_line|Lisklong Line]] | [[en:lilypad_rail|Lilypad Rail]] | [[en:9lla82|9LSK82]] [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 4 nach [[en:liskeard|Liskeard Central]] |
-| ::: | ::: | [[en:1kal72|1YUL88]] [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 6 nach [[en:yunlong|Yunlong]] üer [[en:waitemata|Waitematā]] |
+| ::: | ::: | [[en:1kal72|1YUL88]] [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 6 nach [[en:yunlong|Yunlong]] über [[en:waitemata|Waitematā]] |
 | [[en:twylink_apm|Twylink People Mover]] |   | [[en:llanmara_saint_anns|Saint Ann's]] Bstg. 14 |
 
 </WRAP>
