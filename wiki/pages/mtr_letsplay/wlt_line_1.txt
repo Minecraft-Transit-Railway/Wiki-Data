@@ -7,7 +7,7 @@
 |  {{/wlt_line1_hnt.png?250}}\\ //Hung Ngai Tung station platform//\\ //(taken on 20 October, 2023)//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L1 (MEL) |
-| **Status** | Operational\\ //(Mesa - Yanjiang Mineshaft)//\\ //(Mei Foo Wan - Yanjiang Mineshaft)//\\ Work in Progress\\ //(Haymarket,//\\ //Zuidbaai Centraal,//\\ //Chung Kong,//\\ //Chi Chuk,//\\ //Ying Mo,//\\ //Yuen Chow Kok,//\\ //Tai Po,//\\ //Chik Shek Wan,//\\ //Suet Yuen,//\\ //Cheesy Champignon)// |
+| **Status** | Operational\\ //(Mesa - Yanjiang Mineshaft)//\\ //(Mei Foo Wan - Yanjiang Mineshaft)//\\ Work in Progress\\ //(Haymarket,//\\ //Zuidbaai Centraal,//\\ //Chung Kong,//\\ //Chi Chuk,//\\ //Ying Mo,//\\ //Tai Po,//\\ //Chik Shek Wan,//\\ //Suet Yuen,//\\ //Cheesy Champignon)// |
 | **Owner** | [[/west_lake_transport_authority|WLT]] |
 | **Locale** | West Denthrope (Mesa)\\ [[/resort_area|Resort]]\\ [[/east_north_tundra_area|East North Tundra]]\\ [[/zuidbaai_centraal_station|Zuidbaai]]\\ [[the_biomes_at_x_-4500|The Biomes at X -4500]]\\ [[/northern_snowland|Northern Snowland]]\\ [[/sakura_stream_area|Sakura Stream]]\\ [[/west_lake_area|West Lake]]\\ Southern Snowland |
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] |
@@ -33,7 +33,7 @@
 | ::: | @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]] |
 | ::: | @#FFDA33:<color black>[[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]</color> |
 | ::: | @#E4220F:<color white>[[/wr_mimura_line|Wilds Railway Mimura Line]]</color> |
-| **Stations** | 15 //(Opened)//\\ 7 //(Work in Progress)// |
+| **Stations** | 16 //(Opened)//\\ 6 //(Work in Progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]] |
 | **Service Hours** | 04:06 - next day 03:25\\ //([[wp>UTC+08:00|UTC+8]])// |
