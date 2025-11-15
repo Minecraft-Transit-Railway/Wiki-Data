@@ -253,8 +253,6 @@ Not finished construction and not open
 |  @#F4B829:  ||  [[/chung_kwo_kok_station|Chung Kwo Kok]]  |  %%松果角%%  |  CKK  |  @#C9D88B:[[/wong_yip_lung|Wong Yip Lung (Dragon)]]  |  31 December, 2023  | ::: |
 |  @#EB4881:  ||  [[/kwong_chow_station|Kwong Chow]]  |  %%光州%%  |  KWC  |  @#FFDA33: [[/wlt_line_2|Line 2 (Kwong Pak Kwun Line)]]  |  22 December, 2022  | ::: |
 | ::: || ::: | ::: | ::: |  @#C9D88B: West Lake Duck  | ::: | ::: |
-|   ||  //[[/yuen_chow_kok_station|Yuen Chow Kok]]//((
-Not finished construction and not open
-))  |  <color #808080>//%%圓周角%%//</color>  |  YCK  |   |   | ::: |
+|   ||  [[/yuen_chow_kok_station|Yuen Chow Kok]]  |  %%圓周角%%  |  YCK  |   |  15 November, 2025  | ::: |
 |  @#E1DD46:  ||  [[/tai_po_station|Tai Po]]((Station is WIP and available for interchange))  |  %%大埔%%  |  TAP  |  @#E4220F:[[/wr_mimura_line|Wilds Railway Mimura Line]]  |  18 May, 2024((Interchange only))  | ::: |
 
