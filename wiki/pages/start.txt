@@ -24,5 +24,5 @@ Welcome to the MTR wiki!
 
 We want all people who know a lot about the mod to share their knowledge, if you have something you want to contribute, feel free to do so!
 
-  * Make sure you read the [[wiki_guidelines|Wiki Guidelines]] and [[edit_guideline|Edit Guidelines]].
+  * Make sure you read the [[wiki_guidelines|Wiki Guidelines]] and [[editing_guideline|Edit Guidelines]].
 
