@@ -47,6 +47,9 @@
 | **[[wp>Bogie|Bogies]]** | [[wp>Duewag]] SF2100 |
 | **[[wp>Railway_brake|Braking system]]** | [[wp>Westinghouse_Air_Brake_Company|Westinghouse]] [[wp>Westcode]]\\ 7-Step [[wp>Railway_air_brake|Electro-Pneumatic]] |
 | **Safety sytems** | [[wp>Westinghouse_Brake_and_Signal_Company_Ltd|Westinghouse Brake and Signal Company Ltd]]\\ [[wp>Automatic_Warning_System|AWS]] (former), after 1994-1998: GEC-Alsthom [[wp>Transmission-balise_locomotive|TBL2]]\\ (enhanced with [[wp>Automatic_Train_Protection|ATP]] and ATS with [[wp>Automatic_train_operation|ATO]] in 2002)\\ After 2021: [[wp>Siemens]] [[wp>Trainguard_MT_CBTC|Trainguard MT CBTC]]\\ ATO and ATP |
-| **[[wp>Railway_coupling|Coupling systems]]** | [[wp>Tightlock_coupling|Tightlock Coupling]], [[wp>Scharfenberg_coupler|Scharfenberg Coupler]], Semi-permanent coupler |
+| **[[wp>Railway_coupling|Coupling systems]]** | [[wp>Tightlock_coupling|Tightlock Coupling]], [[wp>Scharfenberg_coupler|Scharfenberg Coupler]],\\ Semi-permanent coupler |
 | **Seating** | Standard Class: Longitudinal\\ First Class and Standard Class end areas: Transverse |
 | **[[wp>Track_gauge|Track gauge]]** | 1435 mm (4 ft 8½ in) [[wp>Standard_gauge|standard gauge]] |
+|  @#53B7E8:  **Notes and References**  ||
+|  Bogie centres: 16,100 mm (52 ft 9.858 in)\\  Coupler Intermediate Carriage to Scharfenberg\\  Coupler during Mid-Life Refurbishment  ||
+|  **Information sourced from [[https://en.m.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)|Wikipedia]]**  ||
