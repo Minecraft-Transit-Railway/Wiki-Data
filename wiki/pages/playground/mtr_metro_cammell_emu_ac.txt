@@ -1,0 +1,52 @@
+====== MTR Metro Cammell EMU (AC) ======
+
+|  @#53B7E8:  **MTR Metro Cammell EMU (AC)**  ||
+|  {{ :playground:mlr_e44_1.png?380 |Standard size of refurbished and unrefurbished Metro Cammell EMUs}}Standard size of refurbished and unrefurbished Metro Cammell EMUs  ||
+|  @#53B7E8:  **Real-life overview**  ||
+| **In service** | 6 May 1982 - 6 May 2022 (40 years, 0 days) |
+| **Manufacturer** | [[wp>Metro-Cammell|Metro-Cammell]] |
+| **Built at** | [[wp>Washwood_Heath|Washwood Heath]], Birmingham, England |
+| **Constructed** | 1980-1990 |
+| **Entered service** | 6 May 1982; 43 years ago |
+| **Refurbished** | [[wp>Alstom|GEC-Alsthom]] (1996-1999) |
+| **Retired** | 6 May 2022; 3 years ago |
+| **Scrapped** | 2021-2022 (E45: 1984) (E70/E92: 2020) |
+| **Number built** | 354 cars (29 sets and 6 surplus cars) |
+| **Number in service** | None |
+| **Number preserved** | 3 cars (unrefurbished) (144+244+444)\\ and 9 cars (refurbished) (377+196, 371+451+\\ 271+671+2112+1112, 1114), total 12 cars |
+| **Number scrapped** | 28 sets (2 cars [in 1984 accident], 1 car\\ [in 1987 depot accident], 1 set\\ [accident/vandalism]) (additional 1 car in storage),\\ 327 cars scrapped in normal condition |
+| **Successor** | [[playground:mtr_hyundai_rotem_emu|MTR Hyundai Rotem EMU (R-Train)]] |
+| **Formation** | 12-car (including 1 first class car) (6 and 9 cars in the past) |
+| **Fleet numbers** | 1xx, 2xx, 3xx, 4xx, 5xx, 6xx |
+| **Capacity** | 1xx & 3xx: 329 passengers per car\\ 2xx, 5xx & 6xx: 332 passengers per car\\ 4xx: 72 seating passengers per car\\ Total capacity: 3750 passengers per train |
+| **Operators** | [[wp>Kowloon-Canton_Railway|KCR]] (1982-2007)\\ [[wp>MTR]] (2007-2022) |
+| **Depots** | Ho Tung Lau |
+| **Lines served** | [[wp>East Rail Line]] |
+|  @#53B7E8:  **Real-life specifications**  ||
+| **Car body construction** | Aluminium and plastic |
+| **Train length** | 287.62 m (943 ft 7⅝ in) |
+| **Car length** | 23.77 m (77 ft 11¹³⁄₁₆ in) (cars with driver cab)\\ 23.53 m (77 ft 2⅜ in) (other cars)\\ 24.12 m (79 ft ¹⁹⁄₃₂in) (cars with driver cab and couplers) |
+| **Width** | 3.096 m (10 ft 1⅞ in) |
+| **Height** | 3.75 m (12 ft 3⅝ in) (without rooftop equipment)\\ 4.32 m (14 ft 2³⁄₃₂ in) (with pantograph folded) |
+| **Floor height** | 3.5 ft (1066.8 mm) |
+| **[[wp>Railway_platform_height|Platform height]]** | 3.5 ft (1066.8 mm) |
+| **Entry** | Level boarding |
+| **Doors** | 5 per side; 2 per side in First Class\\ cars (originally 3 per side for all)\\ Door centres: 7.6 m (24 ft 11.213 in)\\ → 3.8 m (12 ft 5.606 in)\\ Door width: 1.4 m (4 ft 7.118 in) |
+| **Wheel diametre** | 850-775 mm (2 ft 9.5 in-2 ft 6.5 in) (new worn) |
+| **[[wp>Wheelbase#Rail|Whelbase]]** | 2.5 m (8 ft 2 in) |
+| **Maximum speed** | Design 120 km/h (75 mph)\\ Service 120 km/h (75 mph)\\ ATO limitation under TBL signalling 110 km/h (68 mph) |
+| **[[wp>Axle_load|Axle load]]** | 16,000 kg (35,274 lbs) |
+| **Traction system** | [[wp>GEC_Traction|GEC Traction]]\\ 1982-1989: Tap Changer\\ 1989-2022, K03/K05 stock, refurbishment:\\ [[wp>Gate_turn-off_thyristor|GTO]] thyristor [[wp>Phase_angle_control|phase angle control]] |
+| **[[wp>Traction_motor|Traction motors]]** | G315AZ DC series-wound motor (GEC Traction) |
+| **Power output** | 255 kW (301.73 hp) per motor\\ 3,600 kW (4,827.68 hp) per 12-car train |
+| **[[wp>Acceleration]]** | Maximum 2.56 km/(h*s) (1.591 mph/s) |
+| **[[wp>Deceleration]]** | 3.168 km/(h*s) (1.969 mph/s) (service)\\ 5 km/(h*s) (3.107 mph/s) (emergency) |
+| **[[wp>Head-end_power|Power supply]]** | AC-DC |
+| **[[wp>Railway_electrification|Electric system]]** | [[wp>25_kV_AC_railway_electrification|25 kV 50 Hz AC]] [[wp>Overhead_line|Catenary]] |
+| **[[wp>Current_collector|Current collection]]** | Single-arm [[wp>Pantograph|pantograph]] |
+| **[[wp>Bogie|Bogies]]** | [[wp>Duewag]] SF2100 |
+| **[[wp>Railway_brake|Braking system]]** | [[wp>Westinghouse_Air_Brake_Company|Westinghouse]] [[wp>Westcode]]\\ 7-Step [[wp>Railway_air_brake|Electro-Pneumatic]] |
+| **Safety sytems** | [[wp>Westinghouse_Brake_and_Signal_Company_Ltd|Westinghouse Brake and Signal Company Ltd]]\\ [[wp>Automatic_Warning_System|AWS]] (former), after 1994-1998: GEC-Alsthom [[wp>Transmission-balise_locomotive|TBL2]]\\ (enhanced with [[wp>Automatic_Train_Protection|ATP]] and ATS with [[wp>Automatic_train_operation|ATO]] in 2002)\\ After 2021: [[wp>Siemens]] [[wp>Trainguard_MT_CBTC|Trainguard MT CBTC]]\\ ATO and ATP |
+| **[[wp>Railway_coupling|Coupling systems]]** | [[wp>Tightlock_coupling|Tightlock Coupling]], [[wp>Scharfenberg_coupler|Scharfenberg Coupler]], Semi-permanent coupler |
+| **Seating** | Standard Class: Longitudinal\\ First Class and Standard Class end areas: Transverse |
+| **[[wp>Track_gauge|Track gauge]]** | 1435 mm (4 ft 8½ in) [[wp>Standard_gauge|standard gauge]] |
