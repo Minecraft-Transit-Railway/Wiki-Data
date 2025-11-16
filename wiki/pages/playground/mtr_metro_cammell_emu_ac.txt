@@ -53,3 +53,9 @@
 |  @#53B7E8:  **Notes and References**  ||
 |  Bogie centres: 16,100 mm (52 ft 9.858 in)\\  Coupler Intermediate Carriage to Scharfenberg\\  Coupler during Mid-Life Refurbishment  ||
 |  **Information sourced from [[https://en.m.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)|Wikipedia]]**  ||
+|  @#6CB5E2:  **MTR Mod Overview**  ||
+| **Available from** | ? |
+| **Creators** | Jonathan? |
+| **Colour code** | @#6CB5E2:  #6CB5E2((MLR)) |
+| ::: | @#E7AF25:  #E7AF25((E44)) |
+| **Identifiers** | **''%%mlr%%''**\\ **''%%mlr_small%%''**\\ **''%%mlr_mini%%''**\\ **''%%mlr_christmas%%''**\\ **''%%mlr_christmas_small%%''**\\ **''%%mlr_christmas_mini%%''**\\ **''%%e44%%''**\\ |
