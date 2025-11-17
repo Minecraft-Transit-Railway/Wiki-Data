@@ -54,8 +54,12 @@
 |  Bogie centres: 16,100 mm (52 ft 9.858 in)\\  Coupler Intermediate Carriage to Scharfenberg\\  Coupler during Mid-Life Refurbishment  ||
 |  **Information sourced from [[https://en.m.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)|Wikipedia]]**  ||
 |  @#6CB5E2:  **MTR Mod Overview**  ||
-| **Available from** | ? |
-| **Creators** | Jonathan? |
+| **Available from** | 3.0.0-beta-8-prerelease-1 (20 Sep 2021) (MLR, E44)\\ 3.1.13 (Dec 24, 2022) (Christmas MLR) |
+| **Creators** | Jonathan\\ AozoraMarcus (Christmas MLR) |
 | **Colour code** | @#6CB5E2:  #6CB5E2((MLR)) |
 | ::: | @#E7AF25:  #E7AF25((E44)) |
-| **Identifiers** | **''%%mlr%%''**\\ **''%%mlr_small%%''**\\ **''%%mlr_mini%%''**\\ **''%%mlr_christmas%%''**\\ **''%%mlr_christmas_small%%''**\\ **''%%mlr_christmas_mini%%''**\\ **''%%e44%%''**\\ |
+| ::: | @#00873E:  #00873E((Christmas variants)) |
+| **Identifiers** | **''%%mlr%%''**\\ **''%%mlr_small%%''**\\ **''%%mlr_mini%%''**\\ **''%%mlr_christmas%%''**\\ **''%%mlr_christmas_small%%''**\\ **''%%mlr_christmas_mini%%''**\\ **''%%e44%%''**\\ **''%%e44_small%%''**\\ **''%%e44_mini%%''**\\ **''%%e44_christmas%%''**\\ **''%%e44_christmas_small%%''**\\ **''%%e44_christmas_mini%%''** |
+|  @#6CB5E2:  **MTR Mod (and [[mtr_letsplay:start|Let's Play Server]]) specifications**  ||
+| **Car length (dashboard)** | 25 m (Standard)\\ 21 m (Small MLR)\\ 17 m (Small E44)\\ 13 m (Mini MLR)\\ 9 m (Mini E44) |
+| **Car length (actual)** | 24,500 mm (MLR/E44 Standard Trailer)\\ 24,812.5 mm (MLR Standard Cab)\\ 25,625 mm (MLR Standard Double Cab)\\ 24,250 mm (E44 Standard Cab)\\ |
