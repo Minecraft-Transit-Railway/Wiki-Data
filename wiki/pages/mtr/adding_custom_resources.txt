@@ -6,132 +6,81 @@ User-created content can be added to the Minecraft Transit Railway mod via resou
   * Blockbench models (BBmodel) for [[/trains|trains]]
   * New textures and/or text for [[/railway_sign|railway signs]]
 
-It is highly recommended to be familiar with [[https://minecraft.wiki/wiki/Tutorials/Creating_a_resource_pack|creating a resource pack]] before proceeding with this guide.
+It is highly recommended to be familiar with creating a resource pack before proceeding with this guide.
 
-===== Resource Pack Format =====
+===== Resource Pack structure =====
 
-The file ''mtr_custom_resources.json'' is the main file that will get loaded. This file defines custom content for the mod to register. It must be placed under the ''mtr'' namespace; in other words, it must have the file path of ''assets/mtr/mtr_custom_resources.json''.
+This guide will tell you how to set up your file structure to make a resource pack.
 
-==== Adding Texture Variants for Existing Trains ====
+Requirements: Windows 10 21H1 or later.
 
-To add texture variants, the ''custom_trains'' JSON object should be added to ''mtr_custom_resouces.json''. Each JSON object under ''custom_trains'', representing a texture variant for a train, should have a unique key and serveral required entries.
+===== Guide =====
 
-<markdown>
+==== Folder structure ====
 
+  - Go to your //.minecraft// folder. {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}} 
+  - Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
+  - Create a folder with a name that you want (for example: My custom M-Train) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
+  - Create a new folder inside of the existing folder called ''assets''. 
+  - Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
+  - Download this template pack.mcmeta and put it into your resourcepack folder:
 
-
-
-
-
-| Key | Data Type | Description | Required? | Default value if not specified | Notes |
-| --- | --- | --- | --- |
-| `name` | String | The name to be shown on [dashboards](https://wiki.minecrafttransitrailway.com/mtr:dashboards) when selecting trains for a route | Required| N/A ||
-| `color` | String (colour hex code) | The colour to be shown on [dashboards](https://wiki.minecrafttransitrailway.com/mtr:dashboards) when selecting trains for a route | Optional |Black (`#000000`)||
-| `base_train_type` | String (train ID) | The train model to apply the texture on | Required(If bbmodel is not used.) | N/A | See [the trains page](https://wiki.minecrafttransitrailway.com/mtr:trains) for a list of train identifiers |
-| `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |N/A||
-| `description` | String | A brief description of this train can be added. Newline code (\n) available. | Optional |N/A||
-| `wikipedia_article` | String | You can cite the English Wikipedia article. If it is too long, it will be omitted in the middle. | Optional |N/A||
-| `train_barrier_id` | String | Train barriers will be installed at the end of the car. If not specified, it will not be displayed. | Optional |N/A||
-| `gangway_connection_id` | String | Gangway will be placed at the end of the car. If not specified, a Gangway of SP1900 will be shown.| Optional |`mtr:textures/entity/sp1900`||
-| `has_gangway_connection` | Boolean |Selects whether the gangway can be passed through if false, the gangway will be transparent and the `gangway_connection_id` specification will be ignored.| Optional|`true`||
-| `door_animation_type` | String | The following door animations can be specified. Must be written in CAPITAL LETTERS.<br><br>STANDARD<br>STANDARD_SLOW<br>CONSTANT<br>PLUG_FAST<br>PLUG_SLOW<br>BOUNCY_1<br>BOUNCY_2<br>MLR<br>R179<br>R211| Optional|`STANDARD`|CONSTANT only 32 (max) regardless of train door width.|
-| `model` | String | Specify BBmodel file by file path.| Required if BBmodel is used.|N/A||
-| `model_properties` | String | Specify Model Properties file(.json) by file path.| Required if BBmodel is used.|N/A||
-| `speed_sound_base_id` | String | Specifies the ID of a conventional running sound, which can be either the default train ID or one defined in sounds.json.|Optional|N/A|If not specified, the sound will be silent.|
-| `speed_sound_count` |Number|Specify the number of ogg files in the acceleration or deceleration folder within the folder specified in speed_sound_base_id above. If not specified correctly, files above a certain speed will be silent.|Optional|The number of sounds specified by Train ID (if any)||
-| `door_sound_base_id` | String | Specifies the ID of a conventional door sound, which can be either the default train ID or one defined in sounds.json.|Optional|N/A|If not specified, the sound will be silent.|
-| `door_close_sound_time` |Number|Specifies the offset of the door sound; cannot be greater than 1 or less than 0 due to limitations on the MTR side.|Optional|`0.5`||
-| `bve_sound_base_id` | String |Specifies the ID of a BVE sound, which can be either the default train ID or one defined in sounds.json. See here for how it is defined. [MTR:Custom_BVE_Train_Sound](https://wiki.minecrafttransitrailway.com/mtr:dev:custom_bve_sound)|Optional|N/A|If specified, conventional format sound will not be available.|
-
-An example is shown below.
-
-```
+<code json pack.mcmeta>
 {
-  "custom_trains": {
-    "my_custom_train": {
-      "name": "My Custom SP1900 Train",
-      "color": "FEC5E5",
-      "base_train_type": "sp1900",
-      "texture_id": "mtr:custom_directory/custom_sp1900.png"
+    "pack": {
+        "description": "put your pack description here",
+        "pack_format": 9
     }
-  }
 }
-```
+</code>
 
-## Adding New Railway Sign Textures or Text
+<WRAP center round info 90%>
 
-To add new [railway signs](https://wiki.minecrafttransitrailway.com/mtr:railway_sign) textures or text, the `custom_signs` JSON object should be added to `mtr_custom_resouces.json`. Each JSON object under `custom_signs`, representing a new sign, should have a unique key and serveral required entries.
-
-| Key | Data Type | Description | Required? |
-| --- | --- | --- | --- |
-| `texture_id` | String (texture ID) | The [namespaced ID](https://minecraft.wiki/wiki/Namespaced_ID) of the texture file | Required |
-| `flip_texture` | Boolean | If `true`, the texture will be flipped horizontally | Optional |
-| `custom_text` | String | If set, the text will be shown to the right of the image; the pipe character `\|` is supported, for example `客務中心\|Customer Service Centre` | Optional |
-| `flip_custom_text` | Boolean | If `custom_text` is set and `flip_custom_text` is `true`, the text will be shown to the left of the image | Optional |
-| `small` | Boolean | If `true`, the image will be rendered with a margin around it | Optional |
-| `background_color` | String (colour hex code) | The colour for the backgound | Optional, defaults to the colour black if none specified |
-
-An example is shown below.
-
-```
-{
-  "custom_signs": {
-    "my_custom_sign": {
-      "texture_id": "mtr:custom_directory/custom_sign.png",
-      "flip_texture": false,
-      "custom_text": "你好|Hello",
-      "flip_custom_text": false,
-      "small": true,
-      "background_color": "1167B1"
-    }
-  }
-}
-```
-## Model Properties file
-
-</markdown>
-
-<WRAP center round todo 60%>
-
-This section is currently unwritten.
+The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\  However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\  If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
 
 </WRAP>
 
-<markdown>
+  * Create a new folder named MTR in the assets folder.
+  * Create a text file inside the folder named ''mtr_custom_resources.json''
 
+==== JSON files ====
 
+The main code for all custom resources is here:
 
+<code json mtr_custom_resources.json>
+{
+    "vehicles": [],
+    "signs": [],
+    "rails": [],
+    "objects": [],
+    "lifts": []
+}
+</code>
 
+==== Explanation ====
 
+The file is quite self-explanatory; custom resources about trains, boat, cable cars and airplanes should be put under ''vehicles'', signs in ''signs'', and so on.
 
+<WRAP center round important 90%>
 
-The Model Properties file can be edited by the Resource Pack Creator or directly in a text editor, for example.
+==== Note on Naming ====
 
-### basis
-| Key | Data Type | Description | Notes |
-| --- | --- | --- | --- |
-| `transport_mode` | String  | The following transport type can be specified. Must be written in CAPITAL LETTERS.<br><br>TRAIN<br>AIRPLAIN<br>CABLECAR<br>FERRY | Required |
-| `length` | Number  | Specifies the length of the car body. |Required|
-| `width` | Number  | Specifies the width of the car body. |Required|
-| `door_max` | String | Specifies the door opening/closing width. If it is set to CONSTANT, the description is ignored. | Required |
+By definition, Minecraft only supports the character set ''a-z'', ''0-9'', ''/._-''. This means characters such as uppercase letters **is not allowed and will not work**.
 
-### `part`
-| Key | Data Type | Description | Notes |
-| --- | --- | --- | --- |
-| `name` | String | Specify the parts folder of BBmodel. Specifying a folder without a single cube may cause Minecraft to crash.| Required |
-| `stage` | String | The following model attributes can be specified. Must be written in CAPITAL LETTERS.<br><br>EXTERIOR<br>INTERIOR<br>LIGHTS<br>ALWAYS_ON_LIGHTS<br>INTERIOR_TRANSLUCENT | Required|
-| `mirror` | Boolean | Flip the model 180 degrees on the y-axis. | Optional, default is true |
-| `skip_rendering_if_too_far` | Boolean | If set to true, models more than 2 chunks apart will not be displayed. | Optional, default is false |
+If it works on your Minecraft instance, it means you have installed some mods which explicitly bypass this behavior. However they do not work for other people without such mod, and you are discouraged from using these invalid characters as much as possible.
 
+As such, make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
 
+</WRAP>
 
-## Verifying the Resource Pack
+===== Let's get started on making some custom resources! =====
 
-Use a [JSON validator](https://jsonlint.com/) to check for any syntax errors of the JSON files.
+Follow the links below to get started with making your train. Good luck!
 
-The resource pack (zip file) can be installed either clientside or as a server resource pack. If installed as a server resource pack, all players joining the server will be able to see the new additions after accepting the server resource pack.
-
-[Download the example resource pack](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/examples/MTR%20Custom%20Resources.zip?raw=true) to see a full example and to test out the functionality.
-
-</markdown>
+  * [[mtr_extra:resourcepack:make:texture|Retexturing an existing train]] - Using the same models but different textures
+  * [[mtr_extra:resourcepack:make:model|Modelling a train]] - Creating a train from scratch
+  * [[mtr_extra:resourcepack:make:others#adding_a_sign|Creating signs]] - Adding your customised signs into your game
+  * [[mtr_extra:resourcepack:make:others#adding_custom_rails|Creating rails]] - Adding new types of rails into your game
+  * [[mtr_extra:resourcepack:make:others#adding_custom_objects|Creating objects]] - Adding decoration objects into your game
+  * [[mtr_extra:resourcepack:make:others#adding_custom_lifts|Creating lifts]] - Adding retextures of lifts into your game
 
