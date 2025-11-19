@@ -9,49 +9,6 @@ This guide will tell you how to add signs, sounds, etc. to your resource pack.
 </WRAP>
 
 ===== Adding a sign =====
-
-  * Go to your //.minecraft// folder. {{:mtr_extra:resourcepack:minecraft_folder.png?200&nolink}}
-
-  * Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}}
-
-  * Create a folder with a name that you want (for example: My custom signs) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
-  * Create a new folder inside of the existing folder called ''assets''.
-  * Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
-  * Download this template pack.mcmeta and put it into your resourcepack folder:
-
-<code json pack.mcmeta>
-{
-    "pack": {
-        "description": "put your pack description here",
-        "pack_format": 9
-    }
-}
-</code>
-
-<WRAP center round info 90%>
-
-The pack format is what version of Minecraft the pack is for. If you are only adding MTR models or textures, this is not important. \\  However, if you feel the need to add a number, it is recommended to use 8 or 9, as they correspond to versions 1.18 and 1.19 respectively. \\  If a pack tells you it's "not compatible", just remember that the only thing that changes that is this number, so it really doesn't say much.
-
-</WRAP>
-
-  * Create a new folder named ''mtr'' in the assets folder.
-
-  * Create a text file inside the folder named ''mtr_custom_resources.json''
-
-==== JSON files ====
-
-The ''mtr_custom_resources.json'' defines all custom resources that you want to add. The template is provided below.
-
-<code json mtr_custom_resources.json>
-{
-    "vehicles": [],
-    "signs": [],
-    "rails": [],
-    "objects": [],
-    "lifts": []
-}
-</code>
-
 ==== Adding your icon to the pack ====
 
   * Create a folder under ''mtr'' with a name that you want (for example: ''custom_signs'').
