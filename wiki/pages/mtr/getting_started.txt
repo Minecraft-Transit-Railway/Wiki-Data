@@ -15,8 +15,12 @@ MTR has 4 modes of transport:
   * Boats
   * Cable Cars
   * Airplanes
-Each mode of transport works independently of each other. Making buses is possible using hidden rails.
+Each mode of transport works independently of each other and has its own dashboard and node system. Making buses is possible using hidden rails.
 **The tutorial on this page will only be covering trains.**
+
+{{:mtr:dashboards.png?400 |}}
+
+The four dashboards of Minecraft Transit Railway
 
 ===== Building Your First Railway =====
 
@@ -33,16 +37,39 @@ The most important items are the **railway dashboard**, the **rail node**, the *
 
 Rails specify the path your vehicles will take.
 
-To make a new rail, place two rail nodes and connect them using rail connectors. Rail nodes can also be rotated 90 degrees, 45 degrees or 22.5 degrees. While connecting the rails, you may see information about your rail, such as the XYZ offset, the horizontal radius and the total lenght. If you'd like to see this information after you connected your rails, point your crosshair to one of its rail nodes and look in the direction of the desired connection.
-There are five types of rails, which are:
+To make a new rail, place two rail nodes and connect them using rail connectors. Rail nodes can also be rotated 90 degrees, 45 degrees or 22.5 degrees. While connecting the rails, you may see information about your rail, such as the XYZ offset, the horizontal radius and the total lenght. If you'd like to see this information after you connected your rails, point your crosshair to one of its rail nodes and look in the direction of the desired connection. Holding a rail related item, such as a brush, connector or node will show the type and arrows (if one-way) of every rail. To remove a rail connection, break one of the nodes or use the rail remover item.
+There are five types of rail connectors for trains, which are:
 
   * Speed limit
   * Speed limit (one-way)
   * Platforms
   * Sidings
   * Turnbacks
+  * Rail Remover
 
 If you get an error such as "Could not connect rail; invalid orientation", check the rotation of your rails. There are other special types of rails that do not work with trains, and for that reason they will not be explained in detail in this tutorial.
+
+{{:mtr:rails.png?400 |}}
+
+All rail connectors of the mod and the rail remover
+
+----
+
+{{:mtr:rails_placed.png?400 |}}
+
+Several rail connections with different rotations
+
+----
+
+{{:mtr:rails_placed_hold.png?400 |}}
+
+The same rails as above but with the image taken with a rail related item in hand
+
+----
+
+{{:mtr:rails_brush.png?400 |}}
+
+Viewing the properties of a rail with a brush
 
 ==== Platforms ====
 
@@ -127,6 +154,8 @@ A siding is a section of track where trains can spawn from, and a depot provides
   - Press the `Done` button and configure the number of trains, acceleration, deceleration, speed increases when delayed and if the train on the siding should be drivable.
   - Press the `Esc` button on the keyboard to return to the main dashboard screen.
 </markdown>
+{{:mtr:trainselection.png?400 |}}
+Selecting a train for a siding
 
 ==== Schedules ====
 <markdown>
@@ -145,6 +174,8 @@ Hours listed on this type of schedule are based on the [game time](https://minec
 
 Your train should start spawning every twenty (real life) seconds.
 </markdown>
+{{:mtr:minecrafttime.png?400 |}}
+Example of a depot with Minecraft time schedules
 
 === Real Time ===
 <markdown>
@@ -160,15 +191,18 @@ Your train should start spawning every twenty (real life) seconds.
   - If you'd like to search for a specific time, use the search bar on the top right.
   - If you'd like to delete all departures, click the reset button above the search bar
 </markdown>
+{{:mtr:realtime.png?400 |}}
+Example of a depot with real time schedules
 
 ==== Platform Blocks ====
 
 **Not to be confused with platform __rails__**
 <markdown>
 [Platform blocks](https://github.com/jonafanho/Minecraft-Transit-Railway/wiki/Platform-Block) are required for trains to open their doors and pick up passengers. Place down a row of platform blocks by each platform rail. Each door needs a platform block in front or else it will not open.
-
-> <img alt="Platform Blocks" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/platform-next-to-rail.png" width=512/><br>Platform blocks should be placed by the platform rail.
 </markdown>
+{{:mtr:platformrail.png?400 |}}
+Platform blocks next to a platform rail
+
 
 ==== Refreshing the path ====
 <markdown>
@@ -184,9 +218,9 @@ Your train should start spawning every twenty (real life) seconds.
   - If you would like to clear all your trains, click the `Clear Vehicles` button
 
 Board your train using one of the doors. Enjoy the ride; your first railway is complete!
-
-> <img alt="Enjoy Ride" src="https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/getting-started/enjoy-ride.png" width=512/><br>A player is enjoying the train ride.
 </markdown>
+{{:mtr:door_open.png?400 |}}
+A door opening in an MPL 16 train. Players may now enjoy the ride!
 
 ==== Transport System Map ====
 <markdown>
