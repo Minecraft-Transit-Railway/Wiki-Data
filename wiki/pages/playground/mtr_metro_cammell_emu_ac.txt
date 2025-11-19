@@ -1,7 +1,9 @@
 ====== MTR Metro Cammell EMU (AC) ======
 
+<WRAP 400 px right>
+
 |  @#53B7E8:  **MTR Metro Cammell EMU (AC)**  ||
-|  {{ :playground:mlr_e44_1.png?380 |Standard size of refurbished and unrefurbished Metro Cammell EMUs}}Standard size of refurbished and unrefurbished Metro Cammell EMUs  ||
+|  {{ :playground:mlr_e44_1.png?380 |Standard size of refurbished and unrefurbished (E44) Metro Cammell EMUs}}Standard size of refurbished and unrefurbished (E44) Metro Cammell EMUs  ||
 |  @#53B7E8:  **Real-life overview**  ||
 | **In service** | 6 May 1982 - 6 May 2022 (40 years, 0 days) |
 | **Manufacturer** | [[wp>Metro-Cammell|Metro-Cammell]] |
@@ -56,10 +58,62 @@
 |  @#6CB5E2:  **MTR Mod Overview**  ||
 | **Available from** | 3.0.0-beta-8-prerelease-1 (20 Sep 2021) (MLR, E44)\\ 3.1.13 (Dec 24, 2022) (Christmas MLR) |
 | **Creators** | Jonathan\\ AozoraMarcus (Christmas MLR) |
-| **Colour code** | @#6CB5E2:  #6CB5E2((MLR)) |
-| ::: | @#E7AF25:  #E7AF25((E44)) |
-| ::: | @#00873E:  #00873E((Christmas variants)) |
+| **Colour code** | @#6CB5E2:  #6CB5E2((
+MLR
+)) |
+| ::: | @#E7AF25:  #E7AF25((
+E44
+)) |
+| ::: | @#00873E:  #00873E((
+Christmas variants
+)) |
 | **Identifiers** | **''%%mlr%%''**\\ **''%%mlr_small%%''**\\ **''%%mlr_mini%%''**\\ **''%%mlr_christmas%%''**\\ **''%%mlr_christmas_small%%''**\\ **''%%mlr_christmas_mini%%''**\\ **''%%e44%%''**\\ **''%%e44_small%%''**\\ **''%%e44_mini%%''**\\ **''%%e44_christmas%%''**\\ **''%%e44_christmas_small%%''**\\ **''%%e44_christmas_mini%%''** |
 |  @#6CB5E2:  **MTR Mod (and [[mtr_letsplay:start|Let's Play Server]]) specifications**  ||
 | **Car length (dashboard)** | 25 m (Standard)\\ 21 m (Small MLR)\\ 17 m (Small E44)\\ 13 m (Mini MLR)\\ 9 m (Mini E44) |
-| **Car length (actual)** | 24,500 mm (MLR/E44 Standard Trailer)\\ 24,812.5 mm (MLR Standard Cab)\\ 25,625 mm (MLR Standard Double Cab)\\ 24,250 mm (E44 Standard Cab)\\ |
+| **Car length (actual)** | 24,500 mm (MLR/E44 Standard Trailer)\\ 24,812.5 mm (MLR Standard Cab)\\ 25,625 mm (MLR Standard Double Cab)\\ 24,875 mm (E44 Standard Cab)\\ 25,250 mm (E44 Standard Double Cab)\\ 20,500 mm (MLR Small Trailer)\\ 20,812.5 mm (MLR Small Cab)\\ 21,625 mm (MLR Small Double Cab)\\ 16,500 mm (E44 Small Trailer)\\ 16,875 mm (E44 Small Cab)\\ 17,250 mm (E44 Small Double Cab)\\ 12,500 mm (MLR Mini Trailer)\\ 12,812.5 mm (MLR Mini Cab)\\ 13,625 mm (MLR Mini Double Cab)\\ 8,500 mm (E44 Mini Trailer)\\ 8,875 mm (E44 Mini Cab)\\ 9,250 mm (E44 Mini Double Cab) |
+| **Width** | 2,625 mm |
+| **Height** | 3,625 mm (without rooftop equipment)\\ 3,687.5 mm (with rooftop AC units) |
+| **Floor height** | 1 m |
+| **Platform height** | 1 m |
+| **Entry** | Level boarding |
+| **Doors** | 5 double-leaf, hanging MLR door sets (Standard MLR)\\ 4 double-leaf, hanging MLR door sets (Small MLR)\\ 2 double-leaf, hanging MLR door sets (Mini MLR)\\ 3 double-leaf, hanging BOUNCY_1\\ door sets (Standard E44)\\ 2 double-leaf, hanging BOUNCY_1 door sets (Small E44)\\ 1 double-leaf, hanging BOUNCY_1 door set (Mini E44) |
+| **Wheel diametre** | 875 mm |
+| **Maximum speed** | Depends on rail |
+| **Traction motors** | Jon's Motor Sound System - MLR |
+| **Acceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s), max 72 km/(h*s)) |
+| **Deceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s), max 72 km/(h*s)) |
+| **Bogies** | MTR Standard |
+| **Braking System** | MTR Standard |
+| **Safety systems** | Jon's signalling |
+| **Seating** | MLR: Longitudinal\\ MLR car ends and E44: Transverse |
+| **Multiple working** | Any (from 4.0.0 onwards) |
+| **Gangway** | MLR: Yes\\ E44: Yes (gangway visually closed but still passable) |
+| **Track gauge** | MTR Standard (ca. 1375 mm) |
+
+</WRAP>
+
+The **MTR Metro Cammell EMU (AC)** (also known as **Mid-Life Refurbishment Train**, Chinese: 港鐵中期翻新列車, **MLR**; or **KCR Metro Cammell EMU** before 2007) is a train model available in the Minecraft Transit Railway Mod, resembling its [[wp>MTR_Metro_Cammell_EMU_(AC)|real-life counterpart]]. The mod also includes trainset E44, which was not refurbished but preserved as part of the "Station Rail Voyage" exhibition at Hung Hom Station in real life (see the [[wp>Hung_Hom_station|corresponding Wikipedia article]] for more). The **MTR Metro Cammell EMU (AC)**, originally operated by the [[wp>Kowloon_Canton_Railway|KCR]], is not to be confused with the **[[playground:mtr_m-train_emu|MTR Metro Cammell EMU (DC)]]**, or M-Train, made by the same manufacturer but used on MTR's urban lines.
+
+===== History =====
+
+The real-life train was put into service in the course of the electrification of the Kowloon-Canton Railway (British Section) on 6 May 1982. Its original appearance was white with a red stripe running down the length of the train with the KCR logo integrated into the stripe, as well as yellow cabs. Latter made the trains to also be known as "Yellow Head" (黃頭).
+
+==== Refurbishment ====
+
+From 1996-1999, french [[wp>Alstom|GEC-Alsthom]], successor of [[wp>Metro-Cammell]], refurbished the KCR Metro-Cammell EMU. It received a new livery and driver's cabs that got the train the new nickname "Fly Head" (烏蠅頭), as well as two additional doors per car (except first class), rearranged seats, modern LED [[wp>Passenger_information_system|passenger information displays]] and LCD displays.
+
+==== Replacement ====
+
+The MTR Metro Cammell EMU (AC) was gradually retired from 2021-2022, with set E112-E71 ending its 40-year service on 6 May 2022. The [[wp>East_Rail_line|East Rail Line]] is now serviced by the [[wp>MTR_Hyundai_Rotem_EMU|MTR Hyundai Rotem EMU]], or R-Train, which is also [[playground:mtr_hyundai_rotem_emu|available in the MTR Mod]].
+
+==== MTR Mod History ====
+
+The MLR was first mentioned [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/commit/dfe512d4c537f40f123a27db1716406a36a058f2|in the mod's code on 6 August 2021]], then fully added to the code on 11 August. After implementing sounds, revising the head design and fixing bugs, the MLR was added in Update 3.0.0-beta-8-prerelease-1 on the 20th of September, together with the E44, which first appeared in the code on 20th of August, Phase 2 LRV, Tung Chung Line K-Train, Airport Express-K Train and NYC R179.
+
+===== Gallery =====
+
+WIP
+
+===== Changelog =====
+
+6 August 2021: The MLR is first mentioned in Commit dfe512d.
