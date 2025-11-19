@@ -68,7 +68,8 @@ Please remember to validate your JSON file. Websites such as [[https://jsonlint.
 
 {{:mtr_extra:resourcepack:make:2025-07-01_10.29.41.png?400}}
 
-==== TODO ====
+====== TODO ======
+
 ===== Adding custom rails =====
 ===== Adding custom objects =====
 ===== Adding custom lifts =====
