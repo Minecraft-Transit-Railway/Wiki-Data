@@ -97,3 +97,7 @@ Now your texture is ready. Save the texture, and you're ready to give your train
   * It is unnecessary to get all faces of a cube to be coloured. They can be transparent. (That's why you don't have to use 100 cubes just to make a hole in a wall)
   * You should make use of the Blockbench paint mode along with your raster graphics editor.
 
+===== Next steps =====
+
+As you finished your model and you're happy with what you've done, it's time to put it in the game. Check this tutorial out: [[resourcepack:make:rp_creator|Resource Pack Creator]]
+
