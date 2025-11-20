@@ -68,9 +68,12 @@ For each part, repeat this process:
 
 ==== Note ====
 
-  - You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
-  - Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
-  - Display will only render at the "front" side of the cube. To check if your cube is facing front, when selecting the cube in {{:mtr_extra:resourcepack:make:local.png?50}} rotation space, the X axis (the red arrow) should face leftwards, the Y axis (green arrow) facing upwards, and Z axis (blue arrow) facing backwards.
+  * You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
+  * Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
+  * Display will only render at the "front" side of the cube. To check if your cube is facing front, when selecting the cube in {{:mtr_extra:resourcepack:make:local.png?50}} rotation space, the X axis (the red arrow) should face leftwards, the Y axis (green arrow) facing upwards, and Z axis (blue arrow) facing backwards.
+  * It is OK to make some of the cubes overlap another one (see image) - Just draw the overlapped parts of that cube transparent.
+| {{ :mtr_extra:resourcepack:make:before.png?200 }} | {{ :mtr_extra:resourcepack:make:after.png?200 }} |
+||
 
 ===== Creating texture =====
 
@@ -82,4 +85,15 @@ For each part, repeat this process:
   - Select a pixel density that seemed appropriate to you.
     * Core mod trains use 64x density, but the texture is usually generated at 16x, then resized 4 times bigger to get the 64x texture.
     * Having a lot of cubes and selecting a higher pixel density may cause longer generation time.
+  - Deselect option ''Power of 2 size''.
+  - Click Confirm. Give it some time to generate the texture.
+
+Now your texture is ready. Save the texture, and you're ready to give your train a texture.
+
+==== Note ====
+
+  * UV for cubes with a size of 0 in more than 1 axis will not be generated. You will have to use the small spaces provided at the rightmost to define the colours for these cubes.
+  * It is unnecessary to get all faces of a cube to be coloured. They can be transparent. (That's why you don't have to use 100 cubes just to make a hole in a wall)
+  * You should make use of the Blockbench paint mode along with your raster graphics editor.
+  *
 
