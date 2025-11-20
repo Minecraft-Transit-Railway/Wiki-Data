@@ -37,35 +37,25 @@ Most trains' bodies will be 16 Blockbench units (1 metre) above ground to allow 
 
   * In the main menu, select **Modded Entity**.
 
-<WRAP center round important 90%>
+| {{ :mtr_extra:resourcepack:make:select_modded_entity.png?200 }} |
+| **ONLY** use the Modded Entity option. Other options will not work with MTR mod. |
 
-**ONLY** use the Modded Entity option. Other options will not work with MTR mod.
-
-</WRAP>
-
-  * Type in a file name. (!)
-
-<WRAP center round important 90%>
-
-**ONLY** use alphanumeric characters, 0-9, -, and _. CAPITAL LETTERS, special characters, white spaces, and other characters will not work.
-
-</WRAP>
-
+  * Type in a file name.
   * Click **Confirm**.
+
+| {{ :mtr_extra:resourcepack:make:modded_entity_options.png?200 }} |
+| **ONLY** use alphanumeric characters, 0-9, -, and _. CAPITAL LETTERS, \\ special characters, white spaces, and other characters will not work. |
+
+<WRAP center round info 90%>
+
+It is not necessary to modify any other parameters in this stage other than the file name, as MTR will just work fine with all the models in place.
+
+</WRAP>
 
 ===== Building your model =====
 
-For each part, repeat this process:
+<WRAP right>
 
-  * Create a folder (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
-  * You can now start building your model. Create a cube (Ctrl + N) and translate, rotate, and scale it to your liking.
-
-==== Note ====
-
-  - You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
-  - Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
-
-===== TODO =====
-
-Texturing
+| {{ :mtr_extra:resourcepack:make:screenshot_2025-11-20_110539.png?200 }} |
+|  |
 
