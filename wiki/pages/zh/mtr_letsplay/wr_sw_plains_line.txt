@@ -46,7 +46,7 @@
 
 ===== History =====
 
-The route is planned by [[mtr_community:navi_lx9702|Navi]] in early August, 2022, with a initial plan from Spawn to SW Plains. However this plan is quickly abandoned due to conflicts with [[/wlt_line_2|WLT Line 2]] and [[mtr_community:bdark000|BDark]]. The name of the line is **SW Wild line** at the moment.
+线路由 [[mtr_community:navi_lx9702|Navi]] 在2022年8月初规划, 当初计划线路由[[/lake_city_station|湖城]] 到 [[/spawn|重生区]]。 但是此规划与 [[mtr_community:bdark000|BDark]] 规划的 [[/wlt_line_2|西湖交通2号（光北观）线]] 冲突，所以放弃了。当时，线路名称叫做**西南荒野线（SW Wild Line）**
 
 After Navi communicates with BDark the plan is then modified. SW Plains, [[/birch_hill_station|Birch Hill]] and Haruka Island are retained in the final plan, however due to another conflict be found by [[mtr_community:isaaclao|Isaaclao]] the line can no longer extend to Spawn, and terminates at the Yellowstone island Chong Shu Chau.
 
