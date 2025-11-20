@@ -58,8 +58,8 @@ It is not necessary to modify any other parameters in this stage other than the 
 
 | {{ :mtr_extra:resourcepack:make:screenshot_2025-11-20_110539.png?200 }} |
 | Creating a train is a long process and takes time. \\ You may find it hard at first, but when you get into the \\ way of making a train, you'll find it easy. |
-</WRAP>
 
+</WRAP>
 
 For each part, repeat this process:
 
@@ -70,11 +70,16 @@ For each part, repeat this process:
 
   - You can't scale a cube in decimal values. You have to scale it to integer values. However, you may use inflate to "scale" it to decimal values for certain parts, such as handrails.
   - Any rotation applied to a folder will be ignored. To rotate cubes in a folder, select all cubes in a folder, centre the pivot, and rotate.
-  - Display will only render at the "front" side of the cube. To check if your cube is facing front, when selecting the cube in {{:mtr_extra:resourcepack:make:local.png?50|}} rotation space, the X axis (the red arrow) should face leftwards, the Y axis (green arrow) facing upwards, and Z axis (blue arrow) facing backwards.
+  - Display will only render at the "front" side of the cube. To check if your cube is facing front, when selecting the cube in {{:mtr_extra:resourcepack:make:local.png?50}} rotation space, the X axis (the red arrow) should face leftwards, the Y axis (green arrow) facing upwards, and Z axis (blue arrow) facing backwards.
 
 ===== Creating texture =====
 
   - Show ALL cubes, and hide all cubes that:
     * Doesn't need a texture (floor, display, etc.)
     * To have their UV position reused with other cubes
-  - The 
+  - Hover to TEXTURES on the left and click Create Texture (The second icon), or just press ''Ctrl + Shift + T''.
+  - Select a name for your texture. Remember the naming rules we talked about above.
+  - Select a pixel density that seemed appropriate to you.
+    * Core mod trains use 64x density, but the texture is usually generated at 16x, then resized 4 times bigger to get the 64x texture.
+    * Having a lot of cubes and selecting a higher pixel density may cause longer generation time.
+
