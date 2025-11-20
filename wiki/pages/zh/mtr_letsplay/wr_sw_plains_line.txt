@@ -42,7 +42,7 @@
 
 </WRAP>
 
-The **WR SW Plains Line** (//Chinese: 曠鐵西南曠野綫//) is one of the route that [[/wilds_railway|Wilds Railway]] operates. The route connects [[/chong_shu_chau_station|Chong Shu Chau]] and [[/lake_city_station|Lake City]], and acts as one of the important route to access Lake City from other lines e.g. the [[/elizabeth_line|Elizabeth line]].
+**旷铁西南旷野线** (//繁体: 曠鐵西南曠野綫//) 是 [[/wilds_railway|旷野铁路]] 运营的线路之一。线路起点和终点分别是 [[/chong_shu_chau_station|仓鼠州]] 和 [[/lake_city_station|湖城]], and acts as one of the important route to access Lake City from other lines e.g. the [[/elizabeth_line|伊丽莎白线]].
 
 ===== History =====
 
