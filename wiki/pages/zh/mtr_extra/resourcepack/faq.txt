@@ -1,0 +1,65 @@
+等待修复  **此页面没有被翻译完全。请帮助翻译本页。**\\ //(当全文翻译完时请移除这个段落。)//
+
+====== 常见问题 ======
+
+本页面会列出一些对于Minecraft Transit Railway模组的一些经常提出的问题。
+
+===== FAQs =====
+
+**Q: 前置模组？**
+
+  * A: 你应在Fabric加载器和（Neo）Forge加载器中使用不同的前置模组。 Fabric版请使用 [[https://www.curseforge.com/minecraft/mc-mods/fabric-api|Fabric API]]，当你选择使用Forge版模组时，请使用： [[https://www.curseforge.com/minecraft/mc-mods/architectury-api|Architectury]] （适用于3.2.2及以下的版本）
+
+**Q: 会支持NeoForge/Fabric 1.21+吗**
+
+  * A: **MTR** 历来支持 **Fabric/Forge 1.16.5 至 1.20.4** 之间的主要版本，然而我们需要更多的时间和精力来完成对1.21+的移植工作。因此 MTR 4.0.0 发布后，我们仍然会保持原先支持的 1.16.5 至 1.20.4 之间主要版本的支持，MTR 4.0 发布后，我们会将模组更新至1.21+，并使用NeoForge替代原先的Minecraft Forge加载器。（已知4.1.0后将支持1.21.1、1.21.4版本）
+
+**Q: 何处下载？**
+
+  * A: 你可以在 [[https://modrinth.com/mod/minecraft-transit-railway|Modrinth]] 或 [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway|CurseForge]] 下载此模组！
+
+**Q: 什么是预览构建版，我应该怎么获得它？**
+
+  * A: Preview builds are non-official releases of the MTR mod which contains the latest in-development features. They may be buggy, and therefore you are expected to take appropriate measures (Such as backing up your world regularly) before using. These builds are announced in our [[https://discord.gg/KctzFcdfF5|Discord]] server.
+
+**Q: What is Early Access build, and where may I obtain them?**
+
+  * A: Early Access builds are unofficial mod releases distributed to our **Patreon members** in return for their generous support! They are published irregularly and contains experimental new features for testing. These features would be polished based on the feedback received before making it's way to the public preview build. This can also help stabilize preview builds before their debut to the public.
+  * //Note that we are committed to developing the MTR mod as an open source project and have no intentions to lock features behind paywalls.//
+
+**Q: 我应该在哪里下载附属模组？**
+
+  * A: 你可以在这里下载： [[https://addons.minecrafttransitrailway.com|Addons site]]。
+
+**Q: 我应该在哪里获取模组的最新消息？**
+
+  * A: 在 [[https://discord.gg/KctzFcdfF5|Discord]] 和 [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|tutorial videos on YouTube]] 里面。
+
+**Q: 我应该怎么获取更多列车/载具附加包？**
+
+  * A: 看看我们的附加包库 [[https://addons.minecrafttransitrailway.com|Addons site]]！
+
+**Q: I speak or read another language but the mod doesn't have it! How can I contribute?**
+
+  * A: A [[https://crowdin.com/project/minecraft-transit-railway|Crowdin]] site is now available for you to contribute translations!
+
+** Q: How can I support the mod?**
+
+  * A: You can support Minecraft Transit Railway and Jonathan through [[https://www.patreon.com/minecraft_transit_railway|Patreon]]!
+
+** Q: When will the next update be released?**
+
+  * A: Whenever Jonathan has time. Jon works on the mod when in his free time, but also has other things in life to take care of, such as his job which take precedence.
+
+**Q: Will this mod support versions older than Minecraft 1.16.5 or Bedrock Edition? **
+
+  * A: No, it already takes a lot of time just developing for the latest versions and managing their differences in code. In addition Bedrock Edition runs in a completely different game engine, therefore we do not have any plan to support Bedrock Edition at the moment.
+
+**Q: How can I ask a question or request support? **
+
+  * A: Create a ticket in the discord, using the button in ⁠the mtr-support channel.
+
+** Q: I can't join the Let's Play server!**
+
+  * A: Please read [[mtr_letsplay:modpack|the modpack instructions]] carefully.
+
