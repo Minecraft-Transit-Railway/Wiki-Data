@@ -1,11 +1,10 @@
 ====== Let's Play Server ======
 
-Der Let's-Play-Server (chinesisch: 齊齊玩伺服器) ist ein Minecraft-Server der Version 1.19.2, der vom [[mtr:start|Minecraft Transit Railway]]-Mod-Ersteller [[/Benutzer:Jonafanho|Jonathan]] betrieben wird und im Juni 2022 eingerichtet wurde.
+Der Let's-Play-Server (chinesisch: 齊齊玩伺服器) ist ein Minecraft-Server der Version 1.20.4, der vom [[mtr:start|Minecraft Transit Railway]]-Mod-Ersteller [[/Benutzer:Jonafanho|Jonathan]] betrieben wird und im Juni 2022 eingerichtet wurde.
 
 Es nutzt das Terrain-Generierungssystem von Minecraft 1.18+ und verwendet [[https://modrinth.com/datapack/terralith|Terralith]], um eine abwechslungsreichere Landschaft mit neuen Biome-Varianten zu schaffen. Die wunderschöne Landschaft, die in der Oberwelt gezeigt wird, hat in Verbindung mit der [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-|Let's-Play-Serie auf Jonathans YouTube-Kanal]] viele Besucher angezogen.
 
 Seit 2022 hat der Server über 100 Linien, eine große Anzahl an Buildern und ein HSR-Netzwerk, die Station Spawn, die Station Llanmara, die Station Kallos, die Station Yankton und den Südwesten über die Station Danielston memorial bedient.
-
 
 ===== Let's Play Pages =====
 
@@ -13,9 +12,7 @@ Seit 2022 hat der Server über 100 Linien, eine große Anzahl an Buildern und ei
 
 ===== Websites von Let's Play-Server =====
 
-[[https://letsplay.minecrafttransitrailway.com/world-map/ | Server-Karte
-]]
-[[https://letsplay.minecrafttransitrailway.com/system-map/ | Server-Verkehrskarte]]
-[[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- | Let's-Play-Serie auf Jonathans YouTube-Kanal]]
+[[https://letsplay.minecrafttransitrailway.com/world-map/| Server-Karte
+]] [[https://letsplay.minecrafttransitrailway.com/system-map/| Server-Verkehrskarte]] [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-| Let's-Play-Serie auf Jonathans YouTube-Kanal]]
 
 ~~NOCACHE~~
