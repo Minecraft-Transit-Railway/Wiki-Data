@@ -1,0 +1,4 @@
+====== Using the Resource Pack Creator ======
+
+When you finish your train model, there's no point in adding it into a resource pack and calling it a day, and expecting the game to magically understand your logic. It is not impossible to write up all the definitions and properties by yourself, but the complication will certainly make you feel overwhelmed. Resource Pack Creator is designed to allow you to create custom trains, boats, cable cars, and aeroplanes with a live preview, making the process of creating a resource pack easier for everyone.
+
