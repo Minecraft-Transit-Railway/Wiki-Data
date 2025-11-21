@@ -12,7 +12,11 @@
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>((国内用户需通过VPN下载))
+</code>
+
+((
+国内用户需通过VPN下载
+))
 
   - 打开 HMCL，点击左侧的 “版本列表”。
   - 点击左下方的 “安装整合包”，选择 “从互联网下载整合包”，将上述的链接粘贴进去，点击确认。
@@ -21,11 +25,16 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
   - 返回 HMCL 主界面，点击右下方的 “启动游戏”。然后您将看到这么个窗口：
 
 <tabbox PCL2>
+
 以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>((国内用户需通过VPN下载))
+</code>
+
+((
+国内用户需通过VPN下载
+))
 
   - **请确保您使用的是最新版 PCL2！旧版本的 PCL2 安装不了此整合包**。要查看使用的是否是最新版，在 PCL2 中前往 设置->其他->系统->检查更新。
   - 打开 PCL2 点击“更多”，点击“百宝箱”，你会看到一个“下载器”功能
@@ -41,7 +50,11 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
-</code>((国内用户需通过VPN下载))
+</code>
+
+((
+国内用户需通过VPN下载
+))
 
   * 点击左上角的 **添加实例** 按钮。
   * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
@@ -49,6 +62,7 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
   * 双击新出现的实例图标。然后您将看到这么个窗口：
 
 <tabbox Minecraft launcher>
+
 Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原版官方 Mojang 启动器设置实例。我们建议使用其他启动器之一，比如 HMCL 或 PrismLauncher。它们还是挺容易用得习惯的，而且是免费开源的。您可以在这里 **[[https://hmcl.huangyuhui.net/|下载 HMCL]]** 或 **[[https://prismlauncher.org/download/|下载 PrismLauncher]]**。
 
 此外，您必须拥有从 Mojang 购买的正版 Minecraft 帐户才能加入我们的服务器。离线（“破解”）登录不受支持，也不起作用。
@@ -77,38 +91,31 @@ Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原�
 
 因为服务器位于德国，您可能得买一个游戏专用的加速器，选择欧洲节点以及路由(虚拟网卡)模式，才能稳定地连接到它。当然，选择北美也行。<color #ed1c24>有玩家报告网易 UU 或者 VK 加速器效果不错</color>。
 
-===== 额外再安装模组 =====
+===== 安装其他模组 =====
 
-本模组包已经包含了一些提升游戏体验的模组。如果您想再安装额外的模组，只需将它们放入 mods 文件夹中。更新器知道哪些文件是您添加的，不会删除它们。
+本模组包已经包含了一些提升游戏体验的模组。如果您想安装其他模组，只需将它们放入 mods 文件夹中。更新器知道哪些文件是您添加的，不会删除它们。
 
 ===== 迁移您以前的内容 =====
 
-如果您以前已经在玩游戏并希望保留您的大地图、Distant Horizons 数据等，只需将关联的文件夹移到 ''%%.minecraft%%'' 中。这些文件夹包括 ''%%Distant_Horizons_server_data%%''、''%%XaeroWorldMap%%''、''%%XaeroWaypoints%%'' 等。
+如果您希望保留您的世界地图、Distant Horizons 数据等，只需将关联的文件夹移到 ''%%.minecraft%%'' 中。这些文件夹包括 ''%%Distant_Horizons_server_data%%''、''%%xaero%%''、''%%.bobby%%'' 等。
 
-===== 故障 排除 =====
+===== 故障排除 =====
 
-有时，当您尝试加入 Let's Play 服务器时，您可能会遇到一些错误，尤其是在您第一次尝试时。以下是一些常见情况。
+有时，当您尝试加入 Let's Play 服务器时，您可能会遇到一些错误，以下是一些常见情况。
 
-==== 注册表重新映射失败 ====
+==== Registry remapping failed ====
 
-当加入服务器所需的 Mod 未正确安装时，会出现此错误。在许多情况下，Modpack 没有正确安装或 Mod 下载错误，因此请再次检查安装程序。
+您未安装服务器必须的模组，或未更新到服务器上使用的版本。请再次检查安装程序，或者手动更新模组。
 
-==== 连接重置 ====
+==== Connection reset ====
 
-此错误通常在套接字连接被另一端关闭时发生。要解决此问题，请检查您的 Internet 和防火墙设置，或尝试在一段时间后重新连接。
-
-==== 请更新您的 Resource Pack Updater ====
-
-您没有正确设置 packwiz，这通常是因为没有添加 JVM 参数(<color #ed1c24>这很容易在Minecraft launcher上出现</color>)。再次尝试按照指南进行作，并查找告诉您将 Java 参数添加到安装中的部分。
+此错误与网络连接有关。请检查网络和防火墙设置，或尝试在一段时间后重新连接。
 
 ==== 无效会话 ====
 
-有时可以通过按照错误的指示重新启动 Minecraft 和启动器来解决。
-
-==== 无法解析用户名 ====
-
-您要么使用的是破解的 Minecraft 启动器，它无法连接到服务器并且违反了规则 6，要么您的启动器没有正确登录到您的 Minecraft 帐户，通常是由于登录令牌错误。请尝试注销，然后重新登录。
+您要么使用的是破解的 Minecraft 启动器，它无法连接到服务器并且违反了规则 6，要么您的启动器没有正确登录到您的 Minecraft 帐户，通常是由于登录令牌错误。请尝试注销，然后重新登录。有时可以通过重新启动启动器和 Minecraft 来解决。
 
 ==== 服务器已关闭 ====
 
 Let's Play 服务器每天凌晨 4 点 (UTC+8) 重启。您将提前大约 5 分钟通过聊天收到通知。请稍等片刻，然后重新连接。
+
