@@ -114,8 +114,8 @@ If you're using an OBJ model, you don't have to fill this text box out.
 | Gangway: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
 | Gangway: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
 | Barriers: (Inner/Outer) (Bottom/Side/Top) Texture Resource | string | Texture resource of that specific side of the barriers. \\ ''Inner'' means interior, ''Outer'' means exterior. | ''Has Front Barrier'' or ''Has Back Barrier'' is TRUE | N/A |
-| Gangway: Width | float | The width of the gangway. | ::: | 1.5 |
-| Gangway: Height | float | The height of the gangway. | ::: | 2.25 |
-| Gangway: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
-| Gangway: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
+| Barriers: Width | float | The width of the gangway. | ::: | 1.5 |
+| Barriers: Height | float | The height of the gangway. | ::: | 2.25 |
+| Barriers: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
+| Barriers: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
 
