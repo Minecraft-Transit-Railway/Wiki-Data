@@ -147,4 +147,38 @@ You will not be able to edit model parts if you selected a model with associated
 | Type | enum | The role of this part in the vehicle (see value(s)) | N/A | Normal | ((
 
 )) |
+| Positions | string | Positions of that part to be rendered. The format should be x,y,z. Hit ''Enter'' for another position to render the part at. | N/A  | N/A  | N/A  |
+| Flipped Positions | string | Same as above, except the part will be flipped. | N/A | N/A | N/A |
+| Render Stage | enum | How the part will act in the vehicle in terms of lighting (see value(s)) | N/A | N/A | ((
+  * ''Light''
+    * Renders in full brightness and will render the same way as ''Exterior'' when at the depot. Supports transparency.
+  * ''Light (Always On)''
+    * Same as ''Light'', except it will render full brightness even at the depot. Supports transparency.
+  * ''Interior''
+    * Renders with brightness (not full brightness) and will render the same way as ''Exterior'' when at the depot. Transparency not supported.
+  * ''Interior (Translucent)''
+    * Renders the same way as Interior, except it supports transparency. 
+    * When the option ''Hide translucent parts on vehicles'' is set to ''On'', the part will not render.
+  * ''Exterior''
+    * Renders with brightness according to the vehicle's surroundings. If it is running in a tunnel with no light around, the part will render at light level 0.
+)) |
+| Door X Multiplier | float | How many pixel units((
+16 pixel units = 1 metre
+)) should the part move in the X axis (i.e. only work for plug doors) | N/A | 0 | N/A |
+| Door Z Multiplier | float | How many pixel units((
+16 pixel units = 1 metre
+)) should the part move in the Z axis | N/A | 0 | N/A |
+
+==Display Options==
+
+^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^ value(s) ^
+| Type |  |  |  |  |  |
+| Default Text |  |  |  |  |  |
+| X Padding |  |  |  |  |  |
+| Y Padding |  |  |  |  |  |
+| Colour (CJK Text) |  |  |  |  |  |
+| Colour (Non-CJK Text) |  |  |  |  |  |
+| Max Line Height |  |  |  |  |  |
+| CJK Size Ratio |  |  |  |  |  |
+| Single Line |  |  |  |  |  |
 
