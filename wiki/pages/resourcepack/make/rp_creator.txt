@@ -1,4 +1,72 @@
 ====== Using the Resource Pack Creator ======
 
+<WRAP right>
+
+| {{ :resourcepack:make:rpc_home.png?200 }} |
+| Time to get something done... |
+
+</WRAP>
+
 When you finish your train model, there's no point in adding it into a resource pack and calling it a day, and expecting the game to magically understand your logic. It is not impossible to write up all the definitions and properties by yourself, but the complication will certainly make you feel overwhelmed. Resource Pack Creator is designed to allow you to create custom trains, boats, cable cars, and aeroplanes with a live preview, making the process of creating a resource pack easier for everyone.
+
+===== Dependencies =====
+
+  - A web browser, such as Google Chrome. In MTR4 Resource Pack Creator runs as a website hosted on your computer, so you will not find the Resource Pack Creator item in your Creative Mode Inventory.
+  - Models and textures, if you're going to start from scratch.
+  - A resource pack, if you're going to edit an existing resource pack.
+
+===== Create New Resource Pack =====
+
+>//The sky's the limit! //\\ //- Resource Pack Creator//
+
+==== Importing models ====
+
+To import your models, click ''Manage Models'', then ''Add Model''. You can now input your models. When you have finished selecting the files, press Open.
+
+<WRAP center round important 90%>
+
+If you're importing **OBJ** files, you **MUST** also upload the corresponding **MTL** file. If you forget to do this, the model will not load.
+
+</WRAP>
+
+Press ''Close'' to leave the model manager.
+
+==== Importing textures ====
+
+Similarly, click ''Manage Textures'', then ''Add Textures''. You can now input your textures. When you have finished selecting the files, press Open.
+
+==== Vehicle Properties ====
+
+<WRAP right>
+
+| {{ :resourcepack:make:veh_properties.png?200 }} |
+| The Vehicle Properties of a train. |
+
+</WRAP>
+
+Before we start adding models, let's take a look at what you can customise in the Vehicle Properties Menu. Click ''Edit Vehicle Properties'' and the menu will be shown.
+
+=== What do each options do? ===
+
+^ Name ^ Data type ^ Explanation ^ Default value ^
+| ID | string | The unique ID for each vehicle.  | my_vehicle  |
+| Name | string | The name for your vehicle. | My Custom Vehicle |
+| Colour | hex | The hex colour code for the little square appearing next to the train name in the vehicle selection screen. | (Random) |
+| Description  | string  | Description that appears to the left of the vehicle selection screen when you hover your mouse over it.  | This is my custom vehicle!  |
+| Wikipedia Article | string | A link to a Wikipedia Article related to that train.((
+<WRAP center round important 90%>You should input ''[[https://en.wikipedia.org/wiki/]]->THIS PART OF THE LINK to the input box<-''. You must input the exact link to the article (e.g. ''SP1900_EMU''), pages that redirect to your desired page (e.g. ''SP1900'') will NOT work.   </WRAP>
+)) | N/A |
+| Length | float | The length of your vehicle. Must be a positive number bigger than 0.5. | 25 |
+| Width | float | The width of your vehicle. Must be a positive number bigger than 0.5. | 2 |
+| Has Two Bogies | boolean | If TRUE, 2 bogies can be rendered on this vehicle. | TRUE |
+| Front Bogie Position | float | Position for the bogie model (s) to be rendered. Calculated in metres from the centre of the train. | -8.5 |
+| Back Bogie Position | ::: | ::: | 8.5 |
+| Front Coupling Padding | float | Padding to be added to the front/end of the vehicle. Calculated in metres. Must be a positive number or 0. | 0 |
+| Back Coupling Padding | ::: | ::: | 0 |
+| Has Front Gangway | boolean | If TRUE, players can walk through to the previous/next carriage. If the previous/next carriage is non-existent, or doesn't have a back /front gangway, the player will force dismount from the train. | FALSE |
+| Has Back Gangway | boolean | ::: | FALSE |
+| Has Front Barrier | boolean | If TRUE, a train barrier will be rendered between this and the next carriage. | FALSE |
+| Has Back Barrier | boolean | ::: | FALSE |
+| Sound |  |  |  |
+|  |  |  |  |
 
