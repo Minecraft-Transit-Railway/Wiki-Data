@@ -22,8 +22,8 @@ Requirements: Windows 10 21H1 or later.
   - Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}} 
   - Create a folder with a name that you want (for example: My custom M-Train) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
   - Create a new folder inside of the existing folder called ''assets''. 
-  - Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
-  - Download this template pack.mcmeta and put it into your resourcepack folder:
+  - Upload a pack.png to your folder, this image will show in the resource pack selection screen and should be 128x128.
+  - Download this template pack.mcmeta and put it into your resource pack folder:
 
 <code json pack.mcmeta>
 {
@@ -59,7 +59,7 @@ The main code for all custom resources is here:
 
 ==== Explanation ====
 
-The file is quite self-explanatory; custom resources about trains, boat, cable cars and airplanes should be put under ''vehicles'', signs in ''signs'', and so on.
+The file is quite self-explanatory; custom resources about trains, boats, cable cars and airplanes should be put under ''vehicles'', signs in ''signs'', and so on.
 
 <WRAP center round important 90%>
 
@@ -69,7 +69,7 @@ By definition, Minecraft only supports the character set ''a-z'', ''0-9'', ''/._
 
 If it works on your Minecraft instance, it means you have installed some mods which explicitly bypass this behavior. However they do not work for other people without such mod, and you are discouraged from using these invalid characters as much as possible.
 
-As such, make sure to **never** include uppercase letters in your filenames or the ids inside the resourcepack. Using them usually causes minecraft to ignore it and revert to the default texture.
+As such, make sure to **never** include uppercase letters in your filenames or the ids inside the resource pack. Using them usually causes Minecraft to ignore it and revert to the default texture.
 
 </WRAP>
 
