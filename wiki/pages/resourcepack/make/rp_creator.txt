@@ -48,25 +48,28 @@ Before we start adding models, let's take a look at what you can customise in th
 
 === What do each options do? ===
 
-^ Name ^ Data type ^ Explanation ^ Default value ^
-| ID | string | The unique ID for each vehicle.  | my_vehicle  |
-| Name | string | The name for your vehicle. | My Custom Vehicle |
-| Colour | hex | The hex colour code for the little square appearing next to the train name in the vehicle selection screen. | (Random) |
-| Description  | string  | Description that appears to the left of the vehicle selection screen when you hover your mouse over it.  | This is my custom vehicle!  |
+^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^
+| ID | string | The unique ID for each vehicle.  | N/A | my_vehicle  |
+| Name | string | The name for your vehicle. | N/A | My Custom Vehicle |
+| Colour | hex | The hex colour code for the little square appearing next to the train name in the vehicle selection screen. | N/A | (Random) |
+| Description  | string  | Description that appears to the left of the vehicle selection screen when you hover your mouse over it.  | N/A | This is my custom vehicle!  |
 | Wikipedia Article | string | A link to a Wikipedia Article related to that train.((
 <WRAP center round important 90%>You should input ''[[https://en.wikipedia.org/wiki/]]->THIS PART OF THE LINK to the input box<-''. You must input the exact link to the article (e.g. ''SP1900_EMU''), pages that redirect to your desired page (e.g. ''SP1900'') will NOT work.   </WRAP>
-)) | N/A |
-| Length | float | The length of your vehicle. Must be a positive number bigger than 0.5. | 25 |
-| Width | float | The width of your vehicle. Must be a positive number bigger than 0.5. | 2 |
-| Has Two Bogies | boolean | If TRUE, 2 bogies can be rendered on this vehicle. | TRUE |
-| Front Bogie Position | float | Position for the bogie model (s) to be rendered. Calculated in metres from the centre of the train. | -8.5 |
-| Back Bogie Position | ::: | ::: | 8.5 |
-| Front Coupling Padding | float | Padding to be added to the front/end of the vehicle. Calculated in metres. Must be a positive number or 0. | 0 |
-| Back Coupling Padding | ::: | ::: | 0 |
-| Has Front Gangway | boolean | If TRUE, players can walk through to the previous/next carriage. If the previous/next carriage is non-existent, or doesn't have a back /front gangway, the player will force dismount from the train. | FALSE |
-| Has Back Gangway | boolean | ::: | FALSE |
-| Has Front Barrier | boolean | If TRUE, a train barrier will be rendered between this and the next carriage. | FALSE |
-| Has Back Barrier | boolean | ::: | FALSE |
-| Sound |  |  |  |
-|  |  |  |  |
+)) | N/A | N/A |
+| Length | float | The length of your vehicle. Must be a positive number bigger than 0.5. | N/A | 25 |
+| Width | float | The width of your vehicle. Must be a positive number bigger than 0.5. | N/A | 2 |
+| Has Two Bogies | boolean | If TRUE, 2 bogies can be rendered on this vehicle. | N/A | TRUE |
+| Front Bogie Position | float | Position for the bogie model (s) to be rendered. Calculated in metres from the centre of the train. | Has Two Bogies = TRUE | -8.5 |
+| Back Bogie Position / Bogie Position | ::: | ::: | N/A | 8.5 |
+| Front Coupling Padding | float | Padding to be added to the front/end of the vehicle. Calculated in metres. Must be a positive number or 0. | N/A | 0 |
+| Back Coupling Padding | ::: | ::: | N/A | 0 |
+| Has Front Gangway | boolean | If TRUE, players can walk through to the previous/next carriage. If the previous/next carriage is non-existent, or doesn't have a back /front gangway, the player will force dismount from the train. | N/A | FALSE |
+| Has Back Gangway | boolean | ::: | N/A | FALSE |
+| Has Front Barrier | boolean | If TRUE, a train barrier will be rendered between this and the next carriage. | N/A | FALSE |
+| Has Back Barrier | boolean | ::: | N/A | FALSE |
+| Sound | radio  | Determines the type of sound the train will use.  | N/A | BVE Format  |
+| BVE Sound ID  | string  | The ID for the BVE Sound  | Sound = BVE Format | a_train |
+| Test Motor sound | slider | An option to test your motor sound. The game must not be paused while testing the sound. | Sound = BVE Format | N/A |
+| Test Door Open sound | button | An option to test your door open sound. The game must not be paused while testing the sound. | Sound = BVE Format | N/A |
+| Test Door Close sound | button | An option to test your door close sound. The game must not be paused while testing the sound. | Sound = BVE Format | N/A |
 
