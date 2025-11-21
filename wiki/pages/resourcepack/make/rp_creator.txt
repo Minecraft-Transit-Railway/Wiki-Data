@@ -54,7 +54,7 @@ Before we start adding models, let's take a look at what you can customise in th
 | Colour | hex | The hex colour code for the little square appearing next to the train name in the vehicle selection screen. | N/A | (Random) |
 | Description  | string  | Description that appears to the left of the vehicle selection screen when you hover your mouse over it.  | N/A | This is my custom vehicle!  |
 | Wikipedia Article | string | A link to a Wikipedia Article related to that train.((
-<WRAP center round important 90%>You should input ''[[https://en.wikipedia.org/wiki/]]->THIS PART OF THE LINK to the input box<-''. You must input the exact link to the article (e.g. ''SP1900_EMU''), pages that redirect to your desired page (e.g. ''SP1900'') will NOT work.   </WRAP>
+<WRAP center round important 90%>You should input the string after ''wiki/''. You must input the exact link to the article (e.g. ''SP1900_EMU''), pages that redirect to your desired page (e.g. ''SP1900'') will NOT work.   </WRAP>
 )) | N/A | N/A |
 | Length | float | The length of your vehicle. Must be a positive number bigger than 0.5. | N/A | 25 |
 | Width | float | The width of your vehicle. Must be a positive number bigger than 0.5. | N/A | 2 |
@@ -77,10 +77,45 @@ By setting all these up, you're ready to add your models in.
 
 ==== Adding models ====
 
+<WRAP right>
+
+| {{ :resourcepack:make:model_added.png?200 }} |
+| A new model without specifying a model and a texture. |
+
+| {{ :resourcepack:make:model_added.png?200 }} |
+| A new model with a model and a texture specified. |
+
+| {{ :resourcepack:make:model_properties_gangways.png?200 }} |
+| Model Properties menu when ''Has Front'' \\ ''Gangway'' or ''Has Back Gangway'' is enabled. |
+
+| {{ :resourcepack:make:model_properties_nogangway.png?200 }} |
+| Model Properties menu when ''Has Front'' \\ ''Gangway'' or ''Has Back Gangway'' is disabled. |
+
+</WRAP>
+
 Your model and textures can be put into the following groups:
 
   - Main Vehicle: All your normal parts should go here.
   - Front/Back/Bogie: All parts for bogie(s) should go here.
 
 We will start by adding the main vehicle models. Click ''Main Vehicle'' and press ''Add model''. A model named ''(Untitled)'' will be added to the list.
+
+=== Model Properties ===
+
+^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^
+| Model Resource | string | The path to your model resource for this model. | N/A | N/A |
+| Texture Resource | string | The path to your texture resource for this model.((
+If you're using an OBJ model, you don't have to fill this text box out.
+)) | N/A | N/A |
+| Y Offset | float | Offset of your model from the ground. This value can be a negative number. | N/A | 1 |
+| Gangway: (Inner/Outer) (Bottom/Side/Top) Texture Resource | string | Texture resource of that specific side of the gangway. \\ ''Inner'' means interior, ''Outer'' means exterior. | ''Has Front Gangway'' or ''Has Back Gangway'' is TRUE | N/A |
+| Gangway: Width | float | The width of the gangway. | ::: | 1.5 |
+| Gangway: Height | float | The height of the gangway. | ::: | 2.25 |
+| Gangway: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
+| Gangway: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
+| Barriers: (Inner/Outer) (Bottom/Side/Top) Texture Resource | string | Texture resource of that specific side of the barriers. \\ ''Inner'' means interior, ''Outer'' means exterior. | ''Has Front Barrier'' or ''Has Back Barrier'' is TRUE | N/A |
+| Gangway: Width | float | The width of the gangway. | ::: | 1.5 |
+| Gangway: Height | float | The height of the gangway. | ::: | 2.25 |
+| Gangway: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
+| Gangway: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
 
