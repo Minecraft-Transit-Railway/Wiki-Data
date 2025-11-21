@@ -73,3 +73,14 @@ Before we start adding models, let's take a look at what you can customise in th
 | Test Door Open sound | button | An option to test your door open sound. The game must not be paused while testing the sound. | Sound = BVE Format | N/A |
 | Test Door Close sound | button | An option to test your door close sound. The game must not be paused while testing the sound. | Sound = BVE Format | N/A |
 
+By setting all these up, you're ready to add your models in.
+
+==== Adding models ====
+
+Your model and textures can be put into the following groups:
+
+  - Main Vehicle: All your normal parts should go here.
+  - Front / back / Bogie: All parts for bogie(s) should go here.
+
+We will start by adding the main vehicle models. Click Main vehicle and press Add model. A model named ''(Untitled)'' will be added to the list.
+
