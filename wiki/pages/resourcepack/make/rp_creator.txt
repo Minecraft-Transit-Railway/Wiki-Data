@@ -80,7 +80,7 @@ By setting all these up, you're ready to add your models in.
 Your model and textures can be put into the following groups:
 
   - Main Vehicle: All your normal parts should go here.
-  - Front / back / Bogie: All parts for bogie(s) should go here.
+  - Front/Back/Bogie: All parts for bogie(s) should go here.
 
-We will start by adding the main vehicle models. Click Main vehicle and press Add model. A model named ''(Untitled)'' will be added to the list.
+We will start by adding the main vehicle models. Click ''Main Vehicle'' and press ''Add model''. A model named ''(Untitled)'' will be added to the list.
 
