@@ -29,7 +29,7 @@ There’s an example of a 4-car train
 
 <—forward
 
-Most trains will have a window part to be around 48 Blockbench units (3m) in length, and a door part to be around 32 Blockbench units (2m) in length. This makes the train to be able to align with the platform screen doors. The end part is usually around 16 Blockbench units to 20 units (1m to 1.25m) in length, so there is enough space for the train to take a turn.
+Most trains will have a window part to be around 48 Blockbench units (3m) in length, and a door part to be around 32 Blockbench units (2m) in length. This makes the train able to align with the platform screen doors. The end part is usually around 16 Blockbench units to 20 units (1m to 1.25m) in length, so there is enough space for the train to take a turn.
 
 Most trains' bodies will be 16 Blockbench units (1 metre) above ground to allow them to match the height of the platform, and have a width of around 40 to 44 Blockbench units (2.5 to 2.75m) so that the platform gap won't be too wide.
 
@@ -63,7 +63,7 @@ It is not necessary to modify any other parameters in this stage other than the 
 
 For each part, repeat this process:
 
-  * Create a folder (Ctrl + G) and give a meaningful name of what it is for, e.g,. "window".
+  * Create a folder (Ctrl + G) and give a meaningful name, e.g, "window".
   * You can now start building your model. Create a cube (Ctrl + N) and translate, rotate, and scale it to your liking.
 
 ==== Note ====
@@ -79,11 +79,11 @@ For each part, repeat this process:
 ===== Creating texture =====
 
   - Show ALL cubes, and hide all cubes that:
-    * Doesn't need a texture (floor, display, etc.)
-    * To have their UV position reused with other cubes
+    * 
+    *
   - Hover to TEXTURES on the left and click Create Texture (The second icon), or just press ''Ctrl + Shift + T''.
   - Select a name for your texture. Remember the naming rules we talked about above.
-  - Select a pixel density that seemed appropriate to you.
+  - Select a pixel density that seems appropriate.
     * Core mod trains use 64x density, but the texture is usually generated at 16x, then resized 4 times bigger to get the 64x texture.
     * Having a lot of cubes and selecting a higher pixel density may cause longer generation time.
   - Deselect option ''Power of 2 size''.
@@ -93,8 +93,8 @@ Now your texture is ready. Save the texture, and you're ready to give your train
 
 ==== Note ====
 
-  * UV for cubes with a size of 0 in more than 1 axis will not be generated. You will have to use the small spaces provided at the rightmost to define the colours for these cubes.
-  * It is unnecessary to get all faces of a cube to be coloured. They can be transparent. (That's why you don't have to use 100 cubes just to make a hole in a wall)
+  * UV for cubes with a size of 0 on more than 1 axis will not be generated. You will have to use the small spaces provided at the rightmost to define the colours for these cubes.
+  * It is unnecessary for all faces of a cube to be coloured. They can be transparent. (That's why you don't have to use 100 cubes just to make a hole in a wall)
   * You should make use of the Blockbench paint mode along with your raster graphics editor.
 
 ===== Next steps =====
