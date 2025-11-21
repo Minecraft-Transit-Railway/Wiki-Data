@@ -8,15 +8,11 @@
 
 <tabbox HMCL>
 
-请下载下面的整合包：
+请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
-
-((
-国内用户可能需通过VPN下载
-))
 
 如果无法下载，可以尝试这个链接：（提取码dEqH）
 
@@ -34,15 +30,11 @@ https://www.123684.com/s/9ve9jv-upd4H
 
 <tabbox PCL2>
 
-请下载下面的整合包：
+请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
-
-((
-国内用户可能需通过VPN下载
-))
 
 如果无法下载，可以尝试这个链接：（提取码dEqH）
 
