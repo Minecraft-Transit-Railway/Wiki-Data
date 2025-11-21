@@ -108,6 +108,7 @@ We will start by adding the main vehicle models. Click ''Main Vehicle'' and pres
 If you're using an OBJ model, you don't have to fill this text box out.
 )) | N/A | N/A |
 | Y Offset | float | Offset of your model from the ground. This value can be a negative number. | N/A | 1 |
+| Flip Y | boolean | When FALSE, the texture will be flipped. This only applies to OBJ models. | N/A | TRUE |
 | Gangway: (Inner/Outer) (Bottom/Side/Top) Texture Resource | string | Texture resource of that specific side of the gangway. \\ ''Inner'' means interior, ''Outer'' means exterior. | ''Has Front Gangway'' or ''Has Back Gangway'' is TRUE | N/A |
 | Gangway: Width | float | The width of the gangway. | ::: | 1.5 |
 | Gangway: Height | float | The height of the gangway. | ::: | 2.25 |
@@ -118,4 +119,32 @@ If you're using an OBJ model, you don't have to fill this text box out.
 | Barriers: Height | float | The height of the gangway. | ::: | 2.25 |
 | Barriers: Y Offset | float | Offset of your gangway from the ground. This value can be a negative number. | ::: | 1 |
 | Barriers: Z Offset | float | The length of the gangway. Calculated by input*2. If set to 1, the gangway will be 2 metres in length. | ::: | 0.5 |
+
+=== Edit Model Parts ===
+
+Here's where the main thing about building the train goes. Clicking ''Edit Model Parts'' and you'll see a window with all the parts you've defined, of which it should be empty when you enter the window for the first time. Press ''Add'' to add new parts to the model.
+
+<WRAP center round info 90%>
+
+Info
+
+</WRAP>
+
+^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^ value(s) ^
+| Name | enum | The name of the part you want to render. | N/A | N/A | ((
+(All available groups in your BBModel / All objects in your OBJ file)
+)) |
+| Condition | enum | The rendering condition of the part (see value(s)) | N/A | Normal | ((
+  * Normal 
+    * Always rendered parts
+  * At Depot
+  * On Route, Moving Forwards
+  * On Route, Moving Backwards
+  * Doors Closed
+  * Doors Opened
+  * Christmas Lights (Red/Yellow/Green/Blue)
+)) |
+| Type | enum | The role of this part in the vehicle (see value(s)) | N/A | Normal | ((
+
+)) |
 
