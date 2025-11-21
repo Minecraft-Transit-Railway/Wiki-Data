@@ -1,17 +1,19 @@
 ====== 官方 Let's Play 服务器 ======
 
-官方 Let's Play (齐齐玩) 服务器是由 [[mtr:start|MTR Mod]] 作者 [[/User:Jonafanho|Jonathan]] 所有及运营的 1.19.2 Minecraft 服务器，于 2022 年 6 月成立。此服务器使用 Minecraft 1.18+ 的新地形，并加入了 Terralith mod 所提供的的更多样的生物群系。主世界内明丽的景色及 Jonathan 制作的 [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- |Let's Play 实况系列]] 吸引了许多参观者，其中一部分稍后参与了建筑工作。
+官方 Let's Play (齐齐玩) 服务器是由 [[mtr:start|MTR Mod]] 作者 [[/User:Jonafanho|Jonathan]] 所有及运营的 1.20.4 Minecraft 服务器，于 2022 年 6 月成立。此服务器使用 Minecraft 1.18+ 的新地形，并加入了 Terralith mod 所提供的的更多样的生物群系。主世界内明丽的景色及 Jonathan 制作的 [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-|Let's Play 实况系列]] 吸引了许多参观者，其中一部分稍后参与了建筑工作。
 
-服务器建设工作发展迅速。自2022年以来，[[mtr_letsplay:start|Let's Play 服务器]] 已有超过 100 条铁路线路，及连接了 [[/Spawn|重生区]], [[zh:mtr_letsplay:llanmara|湾堡城]], [[kallos|丽湾]] 和 [[yankton|杨克顿]] 等的高速铁路网络。线网单程最长平均耗时不超过 90 分钟。((车站之间最长行车时间为Moszyan Railways Intercity Direct从骑士法庭中央到永春，用时约12分07秒))
+服务器建设工作发展迅速。自2022年以来，[[mtr_letsplay:start|Let's Play 服务器]] 已有超过 100 条铁路线路，及连接了 [[/Spawn|重生区]], [[zh:mtr_letsplay:llanmara|湾堡城]], [[kallos|丽湾]] 和 [[yankton|杨克顿]] 等的高速铁路网络。线网单程最长平均耗时不超过 90 分钟。((
+车站之间最长行车时间为Moszyan Railways Intercity Direct从骑士法庭中央到永春，用时约12分07秒
+))
 
-服务器有专门的版本资源包，如需游玩服务器，请务必阅读[[zh:mtr_letsplay:modpack|]]
+服务器有专门的版本资源包，如需游玩服务器，请务必阅读[[zh:mtr_letsplay:modpack]]
+
 ===== Let's Play 服务器相关文章 =====
 
 <nspages -textPages="" -title -exclude>
 
 ===== Let's Play 服务器相关网站 =====
 
-[[https://letsplay.minecrafttransitrailway.com/world-map/ |服务器地图
-]]
-[[https://letsplay.minecrafttransitrailway.com/system-map/ |服务器交通地图]]
-[[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- | YouTube Let's Play 实况系列]]
+[[https://letsplay.minecrafttransitrailway.com/world-map/|服务器地图
+]] [[https://letsplay.minecrafttransitrailway.com/system-map/|服务器交通地图]] [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-| YouTube Let's Play 实况系列]]
+
