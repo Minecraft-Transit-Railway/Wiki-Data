@@ -1,6 +1,6 @@
 ====== Let's Play Server ======
 
-The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.19.2 Minecraft server owned and self-hosted by [[mtr:start|Minecraft Transit Railway]] mod creator [[/User:Jonafanho|Jonathan]], established in June 2022.
+The Let's Play Server (Chinese: 齊齊玩伺服器) is a 1.20.4 Minecraft server owned and self-hosted by [[mtr:start|Minecraft Transit Railway]] mod creator [[/User:Jonafanho|Jonathan]], established in June 2022.
 
 It uses the Minecraft 1.18+ terrain generation system, and uses  [[https://modrinth.com/mod/terralith|Terralith]] to make for a more varied landscape, using new biome variants. The beautiful scenery showcased in the overworld, in conjunction with the [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] has attracted large swathes of visitors.
 
@@ -8,16 +8,15 @@ Since 2022, the server has amassed over 100 lines, a wide cast of builders, an H
 The longest time between two stations by rail is from Den Hof Centraal to Yongchun on the Moszyan Railways Intercity Direct Line, at 12 minutes and 07 seconds.
 )).
 
-The server has a special version of the resource pack, so be sure to read the [[mtr_letsplay:modpack|]] if you want to play the server!
+The server has a special version of the resource pack, so be sure to read the [[mtr_letsplay:modpack]] if you want to play the server!
+
 ===== Let's Play Pages =====
 
  <nspages -textPages="" -title -exclude>
 
 ===== Websites of Let's Play server =====
 
-[[https://letsplay.minecrafttransitrailway.com/world-map/ | Server’s  map
-]]
-[[https://letsplay.minecrafttransitrailway.com/system-map/ | Server’s Traffic Map]]
-[[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU- | YouTube Let's Play Channel]]
+[[https://letsplay.minecrafttransitrailway.com/world-map/| Server’s  map
+]] [[https://letsplay.minecrafttransitrailway.com/system-map/| Server’s Traffic Map]] [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-| YouTube Let's Play Channel]]
 
 ~~NOCACHE~~
