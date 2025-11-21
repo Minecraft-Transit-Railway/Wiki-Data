@@ -126,7 +126,7 @@ Here's where the main thing about building the train goes. Clicking ''Edit Model
 
 <WRAP center round info 90%>
 
-Info
+You will not be able to edit model parts if you selected a model with associated JSON files in Model Properties (e.g. `sp1900.bbmodel + sp1900_common.json + sp1900.json`)
 
 </WRAP>
 
