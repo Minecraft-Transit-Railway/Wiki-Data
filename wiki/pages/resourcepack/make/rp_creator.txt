@@ -134,7 +134,7 @@ You will not be able to edit model parts if you selected a model with associated
 | Name | enum | The name of the part you want to render. | N/A | N/A | ((
 (All available groups in your BBModel / All objects in your OBJ file)
 )) |
-| Condition | enum | The rendering condition of the part (see value(s)) | N/A | Normal | ((
+| Condition | enum | The rendering condition of the part (see value(s)) | N/A | ''Normal'' | ((
   * Normal 
     * Always rendered parts
   * At Depot
@@ -144,7 +144,7 @@ You will not be able to edit model parts if you selected a model with associated
   * Doors Opened
   * Christmas Lights (Red/Yellow/Green/Blue)
 )) |
-| Type | enum | The role of this part in the vehicle (see value(s)) | N/A | Normal | ((
+| Type | enum | The role of this part in the vehicle (see value(s)) | N/A | ''Normal'' | ((
 
 )) |
 | Positions | string | Positions of that part to be rendered. The format should be x,y,z. Hit ''Enter'' for another position to render the part at. | N/A  | N/A  | N/A  |
@@ -164,21 +164,36 @@ You will not be able to edit model parts if you selected a model with associated
 )) |
 | Door X Multiplier | float | How many pixel units((
 16 pixel units = 1 metre
-)) should the part move in the X axis (i.e. only work for plug doors) | N/A | 0 | N/A |
+)) should the part move in the X axis (i.e. only work for plug doors) | N/A | ''0'' | N/A |
 | Door Z Multiplier | float | How many pixel units((
 16 pixel units = 1 metre
-)) should the part move in the Z axis | N/A | 0 | N/A |
+)) should the part move in the Z axis | N/A | ''0'' | N/A |
 
-==Display Options==
+== Display Options ==
+
+These values will appear if ''Type'' is ''Display''.
 
 ^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^ value(s) ^
-| Type |  |  |  |  |  |
-| Default Text |  |  |  |  |  |
-| X Padding |  |  |  |  |  |
-| Y Padding |  |  |  |  |  |
-| Colour (CJK Text) |  |  |  |  |  |
-| Colour (Non-CJK Text) |  |  |  |  |  |
-| Max Line Height |  |  |  |  |  |
-| CJK Size Ratio |  |  |  |  |  |
-| Single Line |  |  |  |  |  |
+| Type | enum  | Type of the display.  | N/A  | ''Destination''  |   |
+| Default Text | string  | Text to display when not running on a route, or at a depot.  | Type is not ''Route Colour (Square)'' or ''Route Colour (Circle)''  | ''Not In Service''  | N/A  |
+| X Padding | float  | Padding to be applied to the left and right sides of the display. If a positive number is applied, the display squeezes inwards. if a negative number is applied, the display stretches outwards. Works similarly to the [[https://www.w3schools.com/css/css_padding.asp|CSS padding]].  | ::: | 0  | N/A  |
+| Y Padding | float  | Padding to be applied to the top and bottom of the display. If a positive number is applied, the display squeezes inwards. if a negative number is applied, the display stretches outwards. Works similarly to the [[https://www.w3schools.com/css/css_padding.asp|CSS padding]].  | ::: | 0  | N/A  |
+| Colour (CJK Text) | hex  | The hex colour code for all CJK text. | ::: | FF9900  | N/A  |
+| Colour (Non-CJK Text) | hex  | The hex colour code for all non-CJK text. | ::: | FF9900  | N/A  |
+| Max Line Height | float  | The maximum height of the display. This means that the size of the text for all languages is to be shrunk. Cannot be a negative number.  | ::: | 1.5  | N/A  |
+| CJK Size Ratio | float  | The size ratio of CJK text when rendered with non-CJK text. The bigger the number, the smaller the Non-CJK text will render. Cannot be a negative number.  | ::: | 2  | N/A  |
+| Pad Zeros | int | Make so that the departure index is an x-digit number by padding with zeros. x=the number entered. Cannot be a negative number.  | Type is ''Departure Index'' | 0 | N/A |
+| Single Line | boolean | If ''TRUE'', regardless of whether pipe (''|'') is present, the display will be rendered in a single line. If the display content includes CJK characters, then the display will render in CJK characters' colour.  | Type is not ''Route Colour (Square)'' or ''Route Colour (Circle)''  | FALSE  | N/A  |
+| Convert to Upper Case  | boolean | If ''TRUE'', all non-CJK characters with upper case available (Latin, Cyrillic, etc.) will be automatically converted to upper case.  | ::: | ::: | ::: |
+| Put Space for Short CJK Text  | boolean | If ''TRUE'', any CJK string with 2 characters will automatically have a small space applied.  | ::: | ::: | ::: |
+| Scroll (Normal)  | boolean | If ''TRUE'', the display will become a scrolling display, with a pixel effect applied.  | ::: | ::: | ::: |
+| Scroll (Light Rail)  | boolean | If ''TRUE'', the display will become a scrolling display in Hong Kong Light Rail style, with a pixel effect applied.  | ::: | ::: | ::: |
+| Seven Segment (If Numeric)  | boolean | If ''TRUE'' and the string contains numbers, the numbers will be rendered in a seven-segment font. Normal text, including the decimal point (.) will not render.  | ::: | ::: | ::: |
+| Align Left (CJK Text)  | boolean | If ''TRUE'', CJK characters will be rendered to the left side of the display.  | ::: | ::: | ::: |
+| Align Right (CJK Text)  | boolean | If ''TRUE'', CJK characters will be rendered to the right side of the display.  | ::: | ::: | ::: |
+| Align Left (Non-CJK Text)  | boolean | If ''TRUE'', non-CJK characters will be rendered to the left side of the display.  | ::: | ::: | ::: |
+| Align Right (Non-CJK Text)  | boolean | If ''TRUE'', non-CJK characters will be rendered to the right side of the display.  | ::: | ::: | ::: |
+| Align Top  | boolean | If ''TRUE'', the display will align to the top of the display.  | ::: | ::: | ::: |
+| Align Bottom  | boolean | If ''TRUE'', the display will align to the bottom of the display.  | ::: | ::: | ::: |
+| Cycle Languages  | boolean | If ''TRUE'', languages (separated by the pipe (''|'')) will be cycled.  | ::: | ::: | ::: |
 
