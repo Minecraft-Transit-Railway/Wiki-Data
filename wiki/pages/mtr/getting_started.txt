@@ -8,14 +8,14 @@ Please see [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgv
 
 ===== Transport Modes =====
 
-MTR has 4 modes of transport:
+MTR has four modes of transport:
 
   * Trains
   * Boats
   * Cable Cars
   * Airplanes
 
-Each mode of transport works independently of each other and has its own dashboard and node system. Making buses is possible using hidden rails. **The tutorial on this page will only cover trains.**
+Each mode of transport works independently of the others and has its own dashboard and node system. Making buses is possible using hidden rails. **The tutorial on this page will only cover trains.**
 
 | {{ :mtr:railway_dashboard.png?100 }} | {{ :mtr:boat_dashboard.png?100 }} | {{ :mtr:cable_car_dashboard.png?100 }} | {{ :mtr:airplane_dashboard.png?100 }} |
 |  The four dashboards of Minecraft Transit Railway.  ||||
@@ -31,7 +31,7 @@ The four main components of the railway are the following:
   * Routes
   * Depots
 
-The most important items are the **railway dashboard**, the **rail node**, the **rail connector**s and the **brush**.
+The most important items are the **railway dashboard**, the **rail node**, the **rail connector**s, and the **brush**.
 
 ==== Rails ====
 
@@ -53,14 +53,13 @@ The most important items are the **railway dashboard**, the **rail node**, the *
 
 Rails specify the path your vehicles will take.
 
-To make a new rail, place two rail nodes and connect them using rail connectors. Rail nodes can also be rotated 90 degrees, 45 degrees or 22.5 degrees. While connecting the rails, you may see information about your rail, such as the XYZ offset, the horizontal radius and the total lenght. If you'd like to see this information after you connected your rails, point your crosshair to one of its rail nodes and look in the direction of the desired connection. Holding a rail related item, such as a brush, connector or node will show the type and arrows (if one-way) of every rail. To remove a rail connection, break one of the nodes or use the rail remover item. There are five types of rail connectors for trains, which are:
+To make a new rail, place two rail nodes and connect them using rail connectors. Rail nodes can also be rotated 90 degrees, 45 degrees or 22.5 degrees. While connecting the rails, you may see information about your rail, such as the XYZ offset, the horizontal radius and the total length. If you'd like to see this information after you connected your rails, point your crosshair to one of its rail nodes and look in the direction of the desired connection. Holding a rail related item, such as a brush, connector or node will show the type and arrows (if one-way) of every rail. To remove a rail connection, break one of the nodes or use the **rail remover** item. There are five types of rail connectors for trains, which are:
 
   * Speed limit
   * Speed limit (one-way)
   * Platforms
   * Sidings
   * Turnbacks
-  * Rail Remover
 
 If you get an error such as "Could not connect rail; invalid orientation", check the rotation of your rails.
 
@@ -77,6 +76,7 @@ A platform is a section of track where trains can stop to pick up passengers.
   - Create a platform rail by following the steps [[mtr:getting_started#first_steps|above]] while using the platform rail connector item.
   - Go to your next station and place another platform rail, not connected to the first one. It is recommended to keep it about the same length as before. This will be the second train platform.
   - Connect the two train platforms together using any of the other speed rail connector items. Use more rail nodes if necessary.
+  - Use the dashboard to configure the dwell time and the platform number.
 
 ==== Stations ====
 
@@ -154,8 +154,7 @@ A siding is a section of track where trains can spawn from, and a depot provides
   - Click on the siding (in white) on the map.
   - Click on the ''Edit'' button. This will change the train type that will spawn.
   - Select the desired train:
-    * Choose the type of train you'd like to use
-    * First, add the ''Cab''˙car type, specifically the ''Forwards'' one.
+    * First, add the ''Cab'' car type, specifically the ''Forwards'' one.
     * Add the desired amount of trailers, the ''Duplicate Cars'' button may help.
     * The last car should be the ''Backwards'' cab type.
     * If you see a ''⚠'' icon, then your siding isn't long enough to fit that specific type of car. To fix that, simply make your siding longer. Resize your depot if necessary
@@ -233,12 +232,9 @@ To open the transport system map, go to your dashboard and click the ''Transport
   * More than one route may be added to the train instructions.
     * The siding must be connected (with rails) to the //first// platform of the //first// route and the //last// platform of the //last// route.
     * The ''Refresh Path'' button must be clicked every time the train instructions or rails have been modified.
-  * [[mtr:Trains|Trains]] will momentarily stop at each platform. This is normal. 
-  * The train with minecarts is not actually made up of real minecarts from the vanilla Minecraft game. In fact, placing in a vanilla minecart manually on the rails won't interact with the routes or schedules at all. 
-  * The length of the train that will spawn is limited by the length of the siding.
-
-  * If the platform is too short to spawn even one carriage, no trains will appear!
-  * See the [[mtr:trains|trains]] or the [[mtr:dashboards|Railway Dashboard]] page for the length of each train.
+  * The length of the trains you may be able to spawn is limited by the length of the siding.
+  * See the [[mtr:trains|trains]], the [[mtr:dashboards|Railway Dashboard]] page, or the train selection menu inside the railway dashboard itself for the length of each train.
+  * Visit the [[https://addons.minecrafttransitrailway.com/|community content database]] for community made trains and other resources!
 
 ==== Still need help? ====
 
