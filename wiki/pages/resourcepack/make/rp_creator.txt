@@ -15,9 +15,17 @@ When you finish your train model, there's no point in adding it into a resource 
   - Models and textures, if you're going to start from scratch.
   - A resource pack, if you're going to edit an existing resource pack.
 
+===== Importing a resource pack =====
+
+>//Make it your own! //\\ //- Resource Pack Creator//
+
+Click ''Edit Existing Resource Pack'', and a window will show, prompting you to open a Zip file. And then it will bring you to the Design page, where you can start editing the resource pack. If your resource pack is in MTR3 format, the Resource Pack Creator will try and convert it to MTR4 format and export it in MTR4 format.
+
 ===== Create New Resource Pack =====
 
 >//The sky's the limit! //\\ //- Resource Pack Creator//
+
+If you decide to create a new train from scratch, click ''Create New Resource Pack'', and you'll be brought to the Design page. You can start designing your trains now.
 
 ==== Importing models ====
 
@@ -288,7 +296,7 @@ Repeat adding parts until all parts for that vehicle are added, including the bo
 <WRAP right>
 
 | {{ :resourcepack:make:preview.png?200 }} |
-| Some tools that would come in handy when you're testing the vehicle out. |
+| Some tools that would come in handy \\ when you're testing the vehicle out. |
 
 </WRAP>
 
@@ -308,9 +316,5 @@ In the Preview phase, there are a few tools that you can use when previewing the
 
 </WRAP>
 
-When you're happy with your creation and ready for exporting, go to Export. Enter a name and a description, and your resource pack will be saved in the directory shown at the bottom of the screen. Your file explorer will also open, showing where the resource pack is saved at.
-
-===== Importing a resource pack =====
-
-Click ''Edit Existing Resource Pack'', and a window will show, prompting you to open a Zip file. And then you can start editing the resource pack. If your resource pack is in MTR3 format, the Resource Pack Creator will try and convert it to MTR4 format and export it in MTR4 format,
+When you're happy with your creation and ready for exporting, go to Export. Enter a name and a description, and your resource pack will be saved in the directory shown at the bottom of the screen. Your file explorer will also open, showing where the resource pack is saved.
 
