@@ -132,7 +132,7 @@ You will not be able to edit model parts if you selected a model with associated
 
 ^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^ value(s) ^
 | Name | enum | The name of the part you want to render. | N/A | N/A | ((
-(All available groups in your BBModel / All objects in your OBJ file)
+(All available groups in your bbmodel / All objects in your OBJ file)
 )) |
 | Condition | enum | The rendering condition of the part (see value(s)) | N/A | ''Normal'' | ((
   * Normal 
@@ -145,7 +145,16 @@ You will not be able to edit model parts if you selected a model with associated
   * Christmas Lights (Red/Yellow/Green/Blue)
 )) |
 | Type | enum | The role of this part in the vehicle (see value(s)) | N/A | ''Normal'' | ((
-
+  * Normal
+    * The part will render normally, with model and texture.
+  * Display
+    * The part will not render; instead, a display will be rendered at every cube in that part's "front" face.
+  * Floor
+    * The part will not render, and the cubes within that part indicate where the player can walk within that part of the vehicle.
+  * Doorway
+    * The part will not render, and the cubes within that part indicate where the player can board or leave the vehicle.
+  * Seat
+    * Currently not implemented.
 )) |
 | Positions | string | Positions of that part to be rendered. The format should be x,y,z. Hit ''Enter'' for another position to render the part at. | N/A  | N/A  | N/A  |
 | Flipped Positions | string | Same as above, except the part will be flipped. | N/A | N/A | N/A |
@@ -215,4 +224,35 @@ These values will appear if ''Type'' is ''Display''.
 | Align Top  | boolean | If ''TRUE'', the display will align to the top of the display.  | ::: | ::: | ::: |
 | Align Bottom  | boolean | If ''TRUE'', the display will align to the bottom of the display.  | ::: | ::: | ::: |
 | Cycle Languages  | boolean | If ''TRUE'', languages (separated by the pipe (''|'')) will be cycled.  | ::: | ::: | ::: |
+
+== Door options ==
+
+Door options will show when either ''Door X Multiplier'' or ''Door Z Multiplier'' are not 0.
+
+^ Name ^ Data type ^ Explanation ^ Default value ^
+| Door Animation Type | enum  | The door animation that the part will use when doors are opening or closing. (See below for all animation types)  | Standard  |
+| From Opening Time  | float  | When should the part start rendering when the doors are opening. Calculated in milliseconds (ms).  | 0  |
+| Until Opening Time  | float  | When should the part stop rendering when the doors are opening. Calculated in milliseconds (ms). | 0  |
+| From Closing Time  | float  | When should the part start rendering when the doors are closing. Calculated in milliseconds (ms). | 0  |
+| Until Closing Time  | float  | When should the part stop rendering when the doors are closing. Calculated in milliseconds (ms). | 0  |
+| Flash On Time  | float  | If the part is a flashing display, how long should each flash stay in the on condition. Calculated in milliseconds (ms).  | 0  |
+| Flash Off Time  | float  | If the part is a flashing display, how long should each flash stay in the off condition. Calculated in milliseconds (ms). | 0  |
+
+== Door Animations ==
+
+Custom door animations are not supported, and users must select a door animation from the following presets.
+
+^ Name ^ Example of usage ^
+| Standard | SP1900, C1141A, etc. |
+| Standard (Slow) | LRV Phase 4 |
+| Constant | N/A |
+| Plug Fast | CAF Train, Class 377, etc. |
+| Plug Slow (1) | Minecart, K-train, etc. |
+| Plug Slow (2) | S700 |
+| Plug Slow (3) | N/A |
+| Bouncy (1) | M-Train, E44, etc. |
+| Bouncy (2) | LRV Phase 1 |
+| MLR | MLR |
+| R179 | R179 |
+| R211 | R211 |
 
