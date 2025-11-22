@@ -23,8 +23,8 @@
 | ::: | [[wp>London_Underground|London Underground]]  |
 | ::: | [[wp>MTR|Mass Transit Railway]] |
 | ::: | [[wp>Merseyrail|Merseyrail]] |
-| **Corperate colour scheme** |  @#0FBFE4: **#0FBFE4** **//Champion Blue//**  |
-| ::: |  @#FFF0C6: **#FFF0C6** **//WR Yellow//**  |
+| **Corperate colour scheme** |  @#0FBFE4: **#0FBFE4** //**Champion Blue**//  |
+| ::: |  @#FFF0C6: **#FFF0C6** //**WR Yellow**//  |
 |  @#0FBFE4:  **Operation**  ||
 | **Began operation**  | August 2022  |
 | **Operator(s)**  | Navi  |
@@ -53,21 +53,34 @@
 
 The company is set to be the subsidiary of 'Suzuran Railways', the railway company that operates only in Navi_LX9702's private world.
 
-== Services Operated ==
+===== Services Operated =====
 
-=== [[/WR_SW_Plains_Line|WR SW Plains Line]] ===
+==== SW Plains Line ====
 
-=== Mimura Line ===
+The [[mtr_letsplay:wr_sw_plains_line|SW Plains Line]] is a route connecting Lake City and Chong Shu Chau, comprised of 6 stations. The route provides a direct link from Lake City to the West Lake Area.
 
-=== Yanyu Line ===
+==== Mimura Line ====
 
-=== NE Llanmara Line ===
+==== Yanyu Line ====
 
-=== Wilds Railway Bus services ===
+==== Hoku Hoku Line ====
 
-=== Wilds Railway Hoku-Hoku Line ===
+==== Aldgate & Resort Line ====
 
-=== Wilds Railway - Lilypad Rail Overground Service ===
+==== Bundang Line ====
+
+==== Munster District Line ====
+
+The Munster District Line is a route connecting the Free City of Hrest and Sunrise Area, via Etruria, Epping and Pond Pocket.
+
+==== Wilds Railway Bus Services ====
+
+Current services:
+
+^ Type ^ Route number ^ Origin and End Points ^ Information ^
+| Spawn Area Bus Route | 1 | Spawn↔Jinnapak Railway Station |  |
+
+==== Wilds Railway - Lilypad Rail Overground Service ====
 
 [[/Category:Let's_Play|Category:Let's Play]]
 
