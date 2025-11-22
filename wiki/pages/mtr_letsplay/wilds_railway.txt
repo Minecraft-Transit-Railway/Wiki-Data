@@ -1,10 +1,10 @@
 ====== Wilds Railway ======
 
-<WRAP 400px right>
+<WRAP 350px right>
 
 |  @#0FBFE4:  **Wilds Railway (WR)**  ||
 |  @#0FBFE4:  **曠野鐵路**  ||
-| {{ :mtr_letsplay:wr_logo_v1.png?350 }}  ||
+| {{ :mtr_letsplay:wr_logo_v1.png?300 }}  ||
 |  Logo of Wilds Railway.  ||
 |  @#0FBFE4:  **Overview**  ||
 | **Locale**  | [[mtr_letsplay:start|Let's Play Server]]  |
@@ -78,7 +78,7 @@ The Munster District Line is a route connecting the Free City of Hrest and Sunri
 Current services:
 
 ^ Type ^ Route number ^ Origin and End Points ^ Information ^
-| Spawn Area Bus Route | 1 | Spawn↔Jinnapak Railway Station |  |
+| Spawn Area Bus Route | 1 | Spawn↔Jinnapak Railway Station |   |
 
 ==== Wilds Railway - Lilypad Rail Overground Service ====
 
