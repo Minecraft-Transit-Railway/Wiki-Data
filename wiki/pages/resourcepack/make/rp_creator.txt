@@ -122,9 +122,16 @@ If you're using an OBJ model, you don't have to fill this text box out.
 
 === Edit Model Parts ===
 
+<WRAP right>
+
+| {{ :resourcepack:make:model_parts.png?200 }} |
+| Here you can define how your part behaves. |
+
+</WRAP>
+
 Here's where the main thing about building the train goes. Clicking ''Edit Model Parts'' and you'll see a window with all the parts you've defined, of which it should be empty when you enter the window for the first time. Press ''Add'' to add new parts to the model.
 
-<WRAP center round info 90%>
+<WRAP left round info 65%>
 
 You will not be able to edit model parts if you selected a model with associated JSON files in Model Properties (e.g. `sp1900.bbmodel + sp1900_common.json + sp1900.json`)
 
@@ -255,4 +262,55 @@ Custom door animations are not supported, and users must select a door animation
 | MLR | MLR |
 | R179 | R179 |
 | R211 | R211 |
+
+=== Model Part List ===
+
+<WRAP right>
+
+| {{ :resourcepack:make:model_parts_list.png?275 }} |
+| A populated model part list. |
+
+</WRAP>
+
+When you click ''Close'' in the Edit model part window, you'll go back to the Model Part List, where all the parts in that Model will show. There are two buttons to the right of each part: Edit (a pen icon), where you can edit that part, and delete (the rubbish bin icon), where you can remove that part.
+
+== List options ==
+
+^ Option ^ Description ^
+| Show Normal Parts | If set to FALSE, parts with the type Normal will be hidden. |
+| Show Floorways and Doorways | If set to FALSE, parts with types Floor and Doorway will be hidden. |
+| Show Displays | If set to FALSE, parts with the type Display will be hidden. |
+
+Repeat adding parts until all parts for that vehicle are added, including the bogies.
+
+==== Preview ====
+
+<WRAP right>
+
+| {{ :resourcepack:make:preview.png?200 }} |
+| Some tools that would come in handy when you're testing the vehicle out. |
+
+</WRAP>
+
+In the Preview phase, there are a few tools that you can use when previewing the train.
+
+^ Name ^ Function ^
+| Open doors | When turned on, all doors in the client side will be forced to open. |
+| Hide Minecraft Pause Screen | If the player is opening any kind of menu (e.g. inventory, chat, Game Menu), the UI will be hidden until the player clicks anywhere on the screen or presses ''Esc''. |
+| Force Reload | Force the game to reload all models and textures. |
+
+==== Export ====
+
+<WRAP right>
+
+| {{ :resourcepack:make:export.png?200 }} |
+| Share your creation to the world! |
+
+</WRAP>
+
+When you're happy with your creation and ready for exporting, go to Export. Enter a name and a description, and your resource pack will be saved in the directory shown at the bottom of the screen. Your file explorer will also open, showing where the resource pack is saved at.
+
+===== Importing a resource pack =====
+
+Click ''Edit Existing Resource Pack'', and a window will show, prompting you to open a Zip file. And then you can start editing the resource pack. If your resource pack is in MTR3 format, the Resource Pack Creator will try and convert it to MTR4 format and export it in MTR4 format,
 
