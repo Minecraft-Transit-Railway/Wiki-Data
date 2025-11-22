@@ -174,7 +174,26 @@ You will not be able to edit model parts if you selected a model with associated
 These values will appear if ''Type'' is ''Display''.
 
 ^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^ value(s) ^
-| Type | enum  | Type of the display.  | N/A  | ''Destination''  |   |
+| Type | enum  | Type of the display.  | N/A  | ''Destination''  | ((
+  * Destination
+    * Destination of the vehicle. If no destination is set (at depot, returning to depot, etc.) the default text will show.
+  * Route Number
+    * Route Number of the vehicle. If no route number is set when on route, nothing will show, otherwise (at depot, returning to depot, etc.) the default text will show.
+  * Departure Index
+    * Departure Index of the vehicle. If no departure index is set (at depot, returning to depot, etc.) the default text will show.
+  * Next Station
+    * Displays the next station as plain text.
+  * Next Station (KCR)
+    * Displays the next station in KCR format.
+  * Next Station (MTR)
+    * Displays the next station in MTR format.
+  * Next Station (UK)
+    * Displays the next station in UK (1995 stock) format.
+  * Route Colour (Square)
+    * Displays the route colour on the route it is running. If no route colour is set (at depot, returning to depot, etc.), nothing will show.
+  * Route Colour (Rounded)
+    * Displays the route colour on the route it is running in a circle. If no route colour is set (at depot, returning to depot, etc.), nothing will show.
+))  |
 | Default Text | string  | Text to display when not running on a route, or at a depot.  | Type is not ''Route Colour (Square)'' or ''Route Colour (Circle)''  | ''Not In Service''  | N/A  |
 | X Padding | float  | Padding to be applied to the left and right sides of the display. If a positive number is applied, the display squeezes inwards. if a negative number is applied, the display stretches outwards. Works similarly to the [[https://www.w3schools.com/css/css_padding.asp|CSS padding]].  | ::: | 0  | N/A  |
 | Y Padding | float  | Padding to be applied to the top and bottom of the display. If a positive number is applied, the display squeezes inwards. if a negative number is applied, the display stretches outwards. Works similarly to the [[https://www.w3schools.com/css/css_padding.asp|CSS padding]].  | ::: | 0  | N/A  |
