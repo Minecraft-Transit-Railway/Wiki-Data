@@ -1,44 +1,26 @@
-歡迎！
+歡迎來到 MTR 維基!
 
 ===== Minecraft Transit Railway =====
 
-* [[zh-tw:mtr:start|Minecraft Transit Railway 模組]] 本體相關文章
+  * [[zh:mtr:start|Minecraft Transit Railway]] - 有關本模組
+    * 想尋找有關MTR4.0的資訊嗎？ [[zh:mtr:4.0.x|請瀏覽4.0主頁]]!
 
+===== 追加内容 =====
 
-===== 更多資源 =====
+  * [[zh:mtr_extra:resourcepack:faq|常見問題]] - 關於資源包和模組的一些常見問題
+  * [[zh:mtr_extra:start|資源包]] - 關於MTR資源包的介紹
+  * [[zh:mtr_extra:making_a_resourcepack|製作資源包]] - 如何製作資源包
+    * [[zh:mtr_extra:resourcepack:make:texture|Texturing Trains]] - How to retexture existing trains
+    * [[zh:mtr_extra:resourcepack:make:model|Modelling Trains]] - How to add in your own model
+    * [[zh:mtr_extra:resourcepack:make:others|其他]] - 如何加入顯示牌，聲音等到您的資源包
+  * [[zh:mtr_addon:start|使用附加模組]] - MTR附加模組概述
 
-* 用於 MTR 模組的 [[zh-tw:mtr_extra:start|社區人士製作的資源包]]
+===== 多人伺服器 =====
 
-* [[zh-tw:mtr_extra:caution|資源包介紹]]
+  * [[zh:mtr_letsplay:start|齊齊玩伺服器]] - MTR模組官方伺服器
+    * 想下載整合包嗎？請造訪 [[zh:mtr_letsplay:modpack|模組整合包]] 頁面!
 
-* [[zh-tw:mtr_extra:resourcepack]]
+===== 對維基作出貢獻 =====
 
-* [[zh-tw:mtr_extra:resourcepack:make|製作資源包]]
-
-* [[zh-tw:mtr_addon:lu:start|倫敦地鐵擴展]]
-
-* [[zh-tw:mtr_addon:start|其他擴展模組]]
-
-[[https://www.zbx1425.cn/nautilus/mtr-nte/|NTE Wiki]]
-
-所謂“MTR 附屬模組”，就是依賴於 MTR，增強 MTR 功能的模組。除了“四件套”LU、JCM、NTE、MSD，下面是 Modrinth 上的一些冷門模組：
-1、MTR Utility
-添加 450、500、600、700、800km/h 軌道連接器。
-2、CrabGC's Extension of MTR
-增加紅石檢票閘機和直接付費閘機（可自定義付費金額）。
-3、NYC Subway (MTR)
-增加紐約地鐵相關物品。
-4、TransitManager
-一個服務端模組，由 Joban Client Mod 作者開發，增加一些控制列車邏輯的 Minecraft 命令。
-5、Russian Metro Addon
-增加俄羅斯地鐵相關物品。:
-===== 多人遊戲服務器 =====
-
-* [[zh-tw:mtr_letsplay:start|Let's Play 服務器]] - MTR 模組的官方服務器
-
-
-===== 在 Wiki 上寫文章 =====
-
-Wiki 共筆網站就是要匯聚眾多人的見解。註冊賬號之後，您即可編輯補充本站內容，或增添新內容，以更好地將 MTR 介紹給更多人。
-
-* 請先讀 [[edit_guideline|編輯指南]]。
+我們希望所有對這個模組非常了解的人都能分享他們的知識，如果您有什麼想貢獻的，請隨時這樣做！
+  * 請務必閱讀 [[wiki_guidelines|維基指引]] and [[editing_guideline|編輯指引]].
