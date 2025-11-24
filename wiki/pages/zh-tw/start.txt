@@ -12,7 +12,7 @@
   * [[zh:mtr_extra:making_a_resourcepack|製作資源包]] - 如何製作資源包
     * [[zh:mtr_extra:resourcepack:make:texture|製作列車紋理]] - 為現有列車重新製作紋理
     * [[zh:mtr_extra:resourcepack:make:model|製作列車模型]] - 如何加入自己的模型
-    * [[zh:mtr_extra:resourcepack:make:others|其他]] - 如何加入顯示牌，聲音等到您的資源包
+    * [[zh:mtr_extra:resourcepack:make:others|其他]] - 如何加入指示牌，聲音等到您的資源包
   * [[zh:mtr_addon:start|使用附加模組]] - MTR附加模組概述
 
 ===== 多人伺服器 =====
