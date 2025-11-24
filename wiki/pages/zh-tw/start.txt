@@ -23,4 +23,4 @@
 ===== 對維基作出貢獻 =====
 
 我們希望所有對這個模組非常了解的人都能分享他們的知識，如果您有什麼想貢獻的，請隨時這樣做！
-  * 請務必閱讀 [[wiki_guidelines|維基指引]] and [[editing_guideline|編輯指引]].
+  * 請務必閱讀 [[wiki_guidelines|維基指南]] and [[editing_guideline|編輯指南]].
