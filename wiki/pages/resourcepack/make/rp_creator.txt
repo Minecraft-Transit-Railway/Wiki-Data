@@ -29,7 +29,7 @@ If you decide to create a new train from scratch, click ''Create New Resource Pa
 
 ==== Importing models ====
 
-To import your models, click ''Manage Models'', then ''Add Model''. You can now input your models. When you have finished selecting the files, press Open.
+To import your models, click ''Manage Models'', then ''Add Model''. You can now upload your models. When you have finished selecting the files, press Open.
 
 <WRAP center round important 90%>
 
@@ -41,7 +41,7 @@ Press ''Close'' to leave the model manager.
 
 ==== Importing textures ====
 
-Similarly, click ''Manage Textures'', then ''Add Textures''. You can now input your textures. When you have finished selecting the files, press Open.
+Similarly, click ''Manage Textures'', then ''Add Textures''. You can now upload your textures. When you have finished selecting the files, press Open.
 
 ==== Vehicle Properties ====
 
@@ -54,7 +54,7 @@ Similarly, click ''Manage Textures'', then ''Add Textures''. You can now input y
 
 Before we start adding models, let's take a look at what you can customise in the Vehicle Properties Menu. Click ''Edit Vehicle Properties'' and the menu will be shown.
 
-=== What do each options do? ===
+=== What do the options do? ===
 
 ^ Name ^ Data type ^ Explanation ^ Condition ^ Default value ^
 | ID | string | The unique ID for each vehicle.  | N/A | my_vehicle  |
@@ -137,11 +137,11 @@ If you're using an OBJ model, you don't have to fill this text box out.
 
 </WRAP>
 
-Here's where the main thing about building the train goes. Clicking ''Edit Model Parts'' and you'll see a window with all the parts you've defined, of which it should be empty when you enter the window for the first time. Press ''Add'' to add new parts to the model.
+Here's where the main thing about building the train goes. Click ''Edit Model Parts'' and you'll see a window with all the parts you've defined, of which it should be empty when you enter the window for the first time. Press ''Add'' to add new parts to the model.
 
 <WRAP left round info 65%>
 
-You will not be able to edit model parts if you selected a model with associated JSON files in Model Properties (e.g. `sp1900.bbmodel + sp1900_common.json + sp1900.json`)
+You will not be able to edit model parts if you select a model with associated JSON files in Model Properties (e.g. `sp1900.bbmodel + sp1900_common.json + sp1900.json`)
 
 </WRAP>
 
@@ -316,5 +316,5 @@ In the Preview phase, there are a few tools that you can use when previewing the
 
 </WRAP>
 
-When you're happy with your creation and ready for exporting, go to Export. Enter a name and a description, and your resource pack will be saved in the directory shown at the bottom of the screen. Your file explorer will also open, showing where the resource pack is saved.
+When you're happy with your creation and ready for export, go to Export. Enter a name and a description, and your resource pack will be saved in the directory shown at the bottom of the screen. Your file explorer will also open, showing where the resource pack is saved.
 
