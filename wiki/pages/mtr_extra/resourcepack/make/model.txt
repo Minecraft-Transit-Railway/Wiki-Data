@@ -80,7 +80,7 @@ For each part, repeat this process:
 
   - Show ALL cubes, and hide all cubes that:
     * Do not need textures (floor, seat, display)
-    * Will share the same UV position with another cube
+    * Will share the same UV position as another cube
   - Hover to TEXTURES on the left and click Create Texture (The second icon), or just press ''Ctrl + Shift + T''.
   - Select a name for your texture. Remember the naming rules we talked about above.
   - Select a pixel density that seems appropriate.
