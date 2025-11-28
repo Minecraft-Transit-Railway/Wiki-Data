@@ -2,7 +2,7 @@
 
 This guide will tell you how to retexture existing trains for MTR mod.
 
-<WRAP center round important 90%>
+<WRAP round center important 70%>
 
 **MTR4 format** is used in this tutorial.
 
@@ -16,11 +16,11 @@ Minecraft Transit Railway mod utilises **Blockbench models (BBMODEL)** for all t
 
   - [[https://www.blockbench.net/|Blockbench]]. You will need this to view the models and check the UV position.
   - A [[wp>Raster_graphics_editor|Raster graphics editor]] that supports transparency. You will need this to edit the textures. You can use editors such as Paint.NET and Photoshop. Microsoft Paint for Windows 10 or below does NOT support transparency.
-  - A text editor. Using Notepad is sufficient, but you can use applications designed for coding such as VS Code.
+  - A text editor. Using Notepad is sufficient, but you can use applications designed for coding, such as VS Code.
 
 ===== Editing a texture =====
 
-  * Go to [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle|here]] to grab the model of the train and [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle|here]] for the textures. Make sure that you choose the model and the texture of the same name.
+  * Go [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/models/vehicle|here]] to grab the model of the train and [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/tree/master/fabric/src/main/resources/assets/mtr/textures/vehicle|here]] to get the textures. Make sure that you choose the model and the texture of the same name.
 
 <WRAP center round info 90%>
 
@@ -28,9 +28,9 @@ Some train textures may share the same model (such as Class 802 and all LRVs).
 
 </WRAP>
 
-  * Open Bloackbench, and apply the texture you've downloaded by dragging to the Textures area on the bottom left. A dialogue show show, asking you if you want to import the texture / replace the file. Click either of them.
+  * Open Blockbench, and apply the texture you've downloaded by dragging it to the Textures area on the bottom left. A dialogue will show, asking you if you want to import the texture / replace the file. Click either of them.
   * {{ :mtr_extra:resourcepack:make:bb_load_images.png?200 }}
-  * Now you can select a cube to find its UV position and start retexturing. By clicking the eye icon to the right of each cube / group you can hide / unhide cubes.
+  * Now you can select a cube to find its UV position and start retexturing. By clicking the eye icon to the right of each cube/group, you can hide/unhide cubes.
   * {{ :mtr_extra:resourcepack:make:bb_ui.png?200 }}
 
 ===== Adding a texture =====
@@ -40,8 +40,8 @@ Some train textures may share the same model (such as Class 802 and all LRVs).
   * Then find the //resourcepacks// folder {{:mtr_extra:resourcepack:screenshot_2023-05-16_211152.png?200&nolink}}
 
   * Create a folder with a name that you want (for example: My custom signs) {{:mtr_extra:resourcepack:screenshot_2023-05-16_211341.png?200&nolink}}
-  * Create a new folder inside of the existing folder called ''assets''.
-  * Upload a pack.png to your folder, this image will show in the resourcepack selection screen and should be 128x128.
+  * Create a new folder inside the existing folder called ''assets''.
+  * Upload pack.png to your folder; this image will show in the resourcepack selection screen and should be 128x128.
   * Download this template pack.mcmeta and put it into your resourcepack folder:
 
 <code json pack.mcmeta>
@@ -87,7 +87,7 @@ Note that you can only use a-z, 0-9, - and _ for the folder name. CAPITAL LETTER
 
 </WRAP>
 
-  * Add in the custom icon that you wanted to use.
+  * Add in the custom icon that you want to use.
 
 <WRAP center round info 90%>
 
@@ -98,7 +98,7 @@ Typically, an icon for signs is 128 x 128 in size.
 ==== Registering the sign data ====
 
   * Return to the ''mtr_custom_resources.json''. Inside the square brackets of ''"vehicles"'', find the vehicle properties that you want to apply your custom textures to. [[mtr_extra:resourcepack:make:core_mod_custom_resources|A full reference is available here.]] 
-  * Replace the ''id'' to an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace the ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
   * Replace all values in ''textureResource'' under ''models'' with the path to the train texture. DO NOT do this to any of the door overlay models.
 
 <WRAP center round tip 90%>
