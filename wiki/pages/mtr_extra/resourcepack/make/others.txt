@@ -2,14 +2,15 @@
 
 This guide will tell you how to add signs, sounds, etc. to your resource pack.
 
-<WRAP center round important 90%>
+<WRAP center round important 70%>
 
 **MTR4 format** is used in this tutorial.
 
 </WRAP>
 
-===== Adding a sign =====
-==== Adding your icon to the pack ====
+In the MTR mod, it is possible to add your own custom signs, rails, objects and lift retextures by editing the ''mtr_custom_resources.json''.
+
+==== Adding new custom content to the pack ====
 
   * Create a folder under ''mtr'' with a name that you want (for example: ''custom_signs'').
 
@@ -19,19 +20,12 @@ Note that you can only use a-z, 0-9, - and _ for the folder name. CAPITAL LETTER
 
 </WRAP>
 
-  * Add in the custom icon that you wanted to use.
+  * Drop in the custom content that you will use.
 
-<WRAP center round info 90%>
-
-Typically, an icon for signs is 128 x 128 in size.
-
-</WRAP>
-
-==== Registering the sign data ====
-
-=== Compulsory components ===
-
-  * Return to the ''mtr_custom_resources.json''. Inside the square brackets of ''"signs"'', add the following code.
+===== Registering custom content =====
+Return to the ''mtr_custom_resources.json''.
+<tabbox Custom signs>
+**Compulsory components**
 
 <code json mtr_custom_resources.json>
 {
@@ -43,16 +37,82 @@ Typically, an icon for signs is 128 x 128 in size.
 }
 </code>
 
-  * Replace the ''id'' to an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
-  * Replace the ''textureResource'' with the path to the icon.
+  * Replace the value of ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace the value of ''textureResource'' with the path to the icon.
 
-=== Optional components ===
+**Optional components**
 
-  * Replace the ''customText'' with any text that you want to render. Use a vertical bar (|) to separate between two languages.
+  * Replace the value of ''customText'' with any text that you want to render. Use a vertical bar (|) to separate between two languages.
   * Set ''small'' to ''true'' if you want the icon to be rendered with a small padding around.
   * Set ''flipCustomText'' to ''true'' if you want the text to be rendered to the right.
+<tabbox Custom rails>
+**Compulsory components**
 
-  * Save the JSON file.
+<code json mtr_custom_resources.json>
+{
+    "id": "my_custom_rail",
+    "name": "My custom Rail",
+    "color": "E5E533",
+    "modelResource": "mtr:custom_rails/my_custom_rail.obj",
+    "repeatInterval": 0.5
+}
+</code>
+
+  * Replace the value of ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace the value of ''name'' with a name that you like.
+  * Replace the value of ''modelResource'' with a path to the model.
+  * Replace the value of ''repeatInterval'' with the length of your model in metres.
+
+**Optional components**
+  * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
+<tabbox Custom objects>
+**Compulsory components**
+Inside the square brackets of ''"objects"'', add the following code.
+<code json mtr_custom_resources.json>
+{
+	"id": "my_custom_object",
+        "name": "My custom object",
+        "modelResource": "mtr:custom_objects/my_custom_object.obj",
+        "textureResource": "mtr:custom_objects/my_custom_object.mtl",
+        "color": "000000",
+        "flipTextureV": true,
+        "translation": [0,0,0],
+        "rotation": [0,0,0],
+        "scale": [1,1,1],
+        "mirror": [false,false,false]
+}
+</code>
+
+  * Replace the value of ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace the value of ''name'' with a name that you like.
+  * Replace the value of ''modelResource'' with a path to the model.
+  * Replace the value of ''textureResource'' with a path to the model's texture.
+  * Set ''flipTextureV'' to ''false'' if your texture is flipped.
+
+**Optional components**
+  * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
+  * Modify the values of ''translation'', ''rotation'' and/or ''scale'' ([x,y,z]) if you want the model to be rendered by default to have that value of translation/rotation/scale.
+  * Set ''mirror'' to ''true'' if you want the icon to be rendered with a small padding around.
+<tabbox Custom lifts>
+**Compulsory components**
+
+<code json mtr_custom_resources.json>
+{
+	"id": "my_custom_lift",
+        "name": "My custom lift",
+        "color": "CCCCCC",
+        "textureResource": "mtr:custom_lifts/my_custom_lift.png"
+}
+</code>
+  * Replace the value of ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
+  * Replace the value of ''name'' with a name that you like.
+  * Replace the ''textureResource'' with the path to the lift texture.
+
+**Optional components**
+  * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
+</tabbox>
+
+Save the JSON file when you're done.
 
 <WRAP center round important 90%>
 
@@ -60,18 +120,18 @@ Please remember to validate your JSON file. Websites such as [[https://jsonlint.
 
 </WRAP>
 
-==== Adding it to the game ====
+===== Adding it to the game =====
 
   * Open Minecraft, and go to {{:mtr_extra:resourcepack:make:options.png?100}} > {{:mtr_extra:resourcepack:make:rp.png?160}} from either the Game Menu or the title page.
   * Apply the resource pack, and press {{:mtr_extra:resourcepack:make:done.png?160}}.
-  * Your sign should now show in the game.
 
-{{:mtr_extra:resourcepack:make:2025-07-01_10.29.41.png?400}}
-
-====== TODO ======
-
-===== Adding custom rails =====
-===== Adding custom objects =====
-===== Adding custom lifts =====
-
-
+===== Checking your custom content =====
+To check whether your custom content has been added to the game, follow the instructions below.
+==== Signs ====
+Place down a sign, and scroll to the last page. Your custom sign should show.
+==== Rails ====
+Place down a rail, and use (right click) one of the rail node. Press ''Edit...'' and you should see your rail model.
+==== Objects ====
+Place down a decoration object, and use (right click) it. Press ''Edit...'' and you should see your custom object.
+==== Lifts ====
+Create a lift structure, and use (right click) the lift track with a Lift Refresher. 
