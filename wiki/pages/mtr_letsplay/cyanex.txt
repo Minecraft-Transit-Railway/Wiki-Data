@@ -28,7 +28,7 @@
   * **Sumeru Line**
     * 30: Scarlet Mansion -> Grand Bazaar
     * 35: Niloufar -> Nahida (Nahida Branch)
-    * 36: Scarlet Mansion -> SW Plains (Flora Temple Branch) 
+    * 36: Scarlet Mansion -> SW Plains (Flora Temple Branch)
 
 ===== Members =====
 
@@ -66,16 +66,20 @@ The Winter Olympics Loop Line was once the longest operating line in Xinghai Cit
 | 客运站镇 | SUA | 蓝星樱河 | SAS | 碧沙交汇 | BAC | 赛特朗 | TRI | 环湖医院 | LAH | 红馆 | SDM |
 | 泰恒 | MOE | 红馆 | SDM | 仙林湖 | LAV | 东城 | OST | 白石平原 | WHP | 纳西妲 | NAH |
 | 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |   |   | 霓台蜜雪冰城 | MXI | 妮露法 | NIF |
-| 滨州 | PET | 西滨 | WES | 北海路 | OCI |   |   | 天水风景区 | PAF | 莱伊拉 | LAY |
-| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN |   |   | 工大西翠校区 | TUT | 神木 | RUK |
-| 香田 | KOD |   |   | 美景宫 | BEV |   |   | 石花洞天池 | BLC | 海萨列岛 | HAI |
-| 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 紫竹红树 | VBM | 稻毛海岸 | INK |
-| 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 蘑菇岛多蘑态 | MMM | 欧莫斯洲 | ORD |
-| 公积 | PRO |   |   | 朱家角 | ZUN |   |   | 橙光谷 | AUV | 阿戈滩 | ALB |
-| 红馆 | SDM |   |   | 春池嫣韵 | SPP |   |   | 高地览胜 | MEV | 提纳里 | TIG |
+| 滨州 | PET | 西滨 | WES | 北海路 | OCI |   |   | 天水风景 | PAF | 莱伊拉 | LAY |
+| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN |   |   | 工业大学 | TUT | 神木 | RUK |
+| 香田 | KOD |   |   | 美景宫 | BEV |   |   | 火山地质公园 | VGP | 海萨列岛 | HAI |
+| 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 彩虹山 | RAP | 稻毛海岸 | INK |
+| 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 北仙客 | NOC | 欧莫斯洲 | ORD |
+| 公积 | PRO |   |   | 朱家角 | ZUN |   |   | 绿洲康城 | OCT | 阿戈滩 | ALB |
+| 红馆 | SDM |   |   | 春池嫣韵 | SPP |   |   | 观蓝湖 | AQS | 提纳里 | TIG |
 |   |   |   |   | 霞松 | TWS |   |   |   |   | 坎蒂斯 | CAN |
 |   |   |   |   |   |   |   |   |   |   | 基斯石滩 | GRP |
 |   |   |   |   |   |   |   |   |   |   | 大巴扎 | GRB |
+
+^ 悬崖门支线 ^ CGL ^ 仙客岛支线 ^ MIL ^
+| 悬崖门 | CLG | 仙客岛 | MUI |
+| 新霓 | XIN | 仙鹤门 | CRG |
 
 ===== See Also =====
 
