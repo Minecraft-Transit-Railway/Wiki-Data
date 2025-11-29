@@ -8,6 +8,12 @@ This guide will tell you how to add signs, sounds, etc. to your resource pack.
 
 </WRAP>
 
+<WRAP center round info 70%>
+
+It is recommended to read [[mtr:adding_custom_resources|adding_custom_resources]] first, as it contains information about the structure of an MTR resource pack.
+
+</WRAP>
+
 In the MTR mod, it is possible to add your own custom signs, rails, objects and lift retextures by editing the ''mtr_custom_resources.json''.
 
 ==== Adding new custom content to the pack ====
@@ -23,8 +29,11 @@ Note that you can only use a-z, 0-9, - and _ for the folder name. CAPITAL LETTER
   * Drop in the custom content that you will use.
 
 ===== Registering custom content =====
-Return to the ''mtr_custom_resources.json''.
+
+Return to ''mtr_custom_resources.json''.
+
 <tabbox Custom signs>
+
 **Compulsory components**
 
 <code json mtr_custom_resources.json>
@@ -45,7 +54,9 @@ Return to the ''mtr_custom_resources.json''.
   * Replace the value of ''customText'' with any text that you want to render. Use a vertical bar (|) to separate between two languages.
   * Set ''small'' to ''true'' if you want the icon to be rendered with a small padding around.
   * Set ''flipCustomText'' to ''true'' if you want the text to be rendered to the right.
+
 <tabbox Custom rails>
+
 **Compulsory components**
 
 <code json mtr_custom_resources.json>
@@ -64,10 +75,13 @@ Return to the ''mtr_custom_resources.json''.
   * Replace the value of ''repeatInterval'' with the length of your model in metres.
 
 **Optional components**
+
   * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
+
 <tabbox Custom objects>
-**Compulsory components**
-Inside the square brackets of ''"objects"'', add the following code.
+
+**Compulsory components** Inside the square brackets of ''"objects"'', add the following code.
+
 <code json mtr_custom_resources.json>
 {
 	"id": "my_custom_object",
@@ -90,10 +104,13 @@ Inside the square brackets of ''"objects"'', add the following code.
   * Set ''flipTextureV'' to ''false'' if your texture is flipped.
 
 **Optional components**
+
   * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
   * Modify the values of ''translation'', ''rotation'' and/or ''scale'' ([x,y,z]) if you want the model to be rendered by default to have that value of translation/rotation/scale.
   * Set ''mirror'' to ''true'' if you want the icon to be rendered with a small padding around.
+
 <tabbox Custom lifts>
+
 **Compulsory components**
 
 <code json mtr_custom_resources.json>
@@ -104,12 +121,15 @@ Inside the square brackets of ''"objects"'', add the following code.
         "textureResource": "mtr:custom_lifts/my_custom_lift.png"
 }
 </code>
+
   * Replace the value of ''id'' with an ID that you like. Only a-z, 0-9, -, _ and ! are accepted.
   * Replace the value of ''name'' with a name that you like.
   * Replace the ''textureResource'' with the path to the lift texture.
 
 **Optional components**
+
   * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
+
 </tabbox>
 
 Save the JSON file when you're done.
@@ -126,12 +146,22 @@ Please remember to validate your JSON file. Websites such as [[https://jsonlint.
   * Apply the resource pack, and press {{:mtr_extra:resourcepack:make:done.png?160}}.
 
 ===== Checking your custom content =====
+
 To check whether your custom content has been added to the game, follow the instructions below.
+
 ==== Signs ====
+
 Place down a sign, and scroll to the last page. Your custom sign should show.
+
 ==== Rails ====
+
 Place down a rail, and use (right click) one of the rail node. Press ''Edit...'' and you should see your rail model.
+
 ==== Objects ====
+
 Place down a decoration object, and use (right click) it. Press ''Edit...'' and you should see your custom object.
+
 ==== Lifts ====
+
 Create a lift structure, and use (right click) the lift track with a Lift Refresher. Press ''Style: ...'' and you should see your lift retexture.
+
