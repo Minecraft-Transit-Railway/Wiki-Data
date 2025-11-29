@@ -134,4 +134,4 @@ Place down a rail, and use (right click) one of the rail node. Press ''Edit...''
 ==== Objects ====
 Place down a decoration object, and use (right click) it. Press ''Edit...'' and you should see your custom object.
 ==== Lifts ====
-Create a lift structure, and use (right click) the lift track with a Lift Refresher. 
+Create a lift structure, and use (right click) the lift track with a Lift Refresher. Press ''Style: ...'' and you should see your lift retexture.
