@@ -34,7 +34,7 @@
 | **[[wp>Railway_platform_height|Platform height]]** | 3.5 ft (1066.8 mm) |
 | **Entry** | Level boarding |
 | **Doors** | 5 per side; 2 per side in First Class\\ cars (originally 3 per side for all)\\ Door centres: 7.6 m (24 ft 11.213 in)\\ → 3.8 m (12 ft 5.606 in)\\ Door width: 1.4 m (4 ft 7.118 in) |
-| **Wheel diametre** | 850-775 mm (2 ft 9.5 in-2 ft 6.5 in) (new worn) |
+| **Wheel diametre** | 850-775 mm (2 ft 9.5 in-2 ft 6.5 in) (new-worn) |
 | **[[wp>Wheelbase#Rail|Whelbase]]** | 2.5 m (8 ft 2 in) |
 | **Maximum speed** | Design 120 km/h (75 mph)\\ Service 120 km/h (75 mph)\\ ATO limitation under TBL signalling 110 km/h (68 mph) |
 | **[[wp>Axle_load|Axle load]]** | 16,000 kg (35,274 lbs) |
