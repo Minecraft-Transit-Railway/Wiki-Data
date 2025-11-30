@@ -106,7 +106,7 @@ The MLR was first mentioned [[https://github.com/Minecraft-Transit-Railway/Minec
 
 ===== Gallery =====
 
-{{ :playground:mlr_e44_xmas.png?400 |}}
+{{ :playground:mlr_e44_xmas.png?360 |Christmas versions of the MLR and E44}}Christmas versions of the MLR and E44
 
 ===== Changelog =====
 
@@ -127,3 +127,4 @@ The MLR was first mentioned [[https://github.com/Minecraft-Transit-Railway/Minec
   * 2 November 2023: The MLR is added to MTR4's code, together with the C1141A and CAF-Train.
   * 6 April 2024: The E44 is added to MTR4's code.
   * 4.0.0-beta-7 (22 April 2024): Added the E44 to MTR4.
+
