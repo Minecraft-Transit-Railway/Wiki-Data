@@ -106,7 +106,7 @@ The MLR was first mentioned [[https://github.com/Minecraft-Transit-Railway/Minec
 
 ===== Gallery =====
 
-WIP
+{{ :playground:mlr_e44_xmas.png?400 |}}
 
 ===== Changelog =====
 
