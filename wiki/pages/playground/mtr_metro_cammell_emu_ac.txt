@@ -50,23 +50,17 @@
 | **[[wp>Railway_brake|Braking system]]** | [[wp>Westinghouse_Air_Brake_Company|Westinghouse]] [[wp>Westcode]]\\ 7-Step [[wp>Railway_air_brake|Electro-Pneumatic]] |
 | **Safety sytems** | [[wp>Westinghouse_Brake_and_Signal_Company_Ltd|Westinghouse Brake and Signal Company Ltd]]\\ [[wp>Automatic_Warning_System|AWS]] (former), after 1994-1998: GEC-Alsthom [[wp>Transmission-balise_locomotive|TBL2]]\\ (enhanced with [[wp>Automatic_Train_Protection|ATP]] and ATS with [[wp>Automatic_train_operation|ATO]] in 2002)\\ After 2021: [[wp>Siemens]] [[wp>Trainguard_MT_CBTC|Trainguard MT CBTC]]\\ ATO and ATP |
 | **[[wp>Railway_coupling|Coupling systems]]** | [[wp>Tightlock_coupling|Tightlock Coupling]], [[wp>Scharfenberg_coupler|Scharfenberg Coupler]],\\ Semi-permanent coupler |
-| **Seating** | Standard Class: Longitudinal\\ First Class and Standard Class end areas: Transverse |
+| **Seating** | Standard Class: Longitudinal\\ First Class and\\ Standard Class end areas: Transverse |
 | **[[wp>Track_gauge|Track gauge]]** | 1435 mm (4 ft 8½ in) [[wp>Standard_gauge|standard gauge]] |
 |  @#53B7E8:  **Notes and References**  ||
 |  Bogie centres: 16,100 mm (52 ft 9.858 in)\\  Coupler Intermediate Carriage to Scharfenberg\\  Coupler during Mid-Life Refurbishment  ||
 |  **Information sourced from [[https://en.m.wikipedia.org/wiki/MTR_Metro_Cammell_EMU_(AC)|Wikipedia]]**  ||
 |  @#6CB5E2:  **MTR Mod Overview**  ||
-| **Available from** | 3.0.0-beta-8-prerelease-1 (20 Sep 2021) (MLR, E44)\\ 3.1.13 (Dec 24, 2022) (Christmas MLR) |
-| **Creators** | Jonathan\\ AozoraMarcus (Christmas MLR) |
-| **Colour code** | @#6CB5E2:  #6CB5E2((
-MLR
-)) |
-| ::: | @#E7AF25:  #E7AF25((
-E44
-)) |
-| ::: | @#00873E:  #00873E((
-Christmas variants
-)) |
+| **Available from** | 3.0.0-beta-8-prerelease-1 (20 Sep 2021) (MLR, E44)\\ 3.1.13 (24 Dec 2022) (Christmas MLR) |
+| **Creators** | Jonathan\\ AozoraMarcus (Christmas MLR)) |
+| **Colour code** | @#6CB5E2:  #6CB5E2((MLR)) |
+| ::: | @#E7AF25:  #E7AF25((E44))  |
+| ::: | @#00873E:  #00873E((Christmas variants))  |
 | **Identifiers** | **''%%mlr%%''**\\ **''%%mlr_small%%''**\\ **''%%mlr_mini%%''**\\ **''%%mlr_christmas%%''**\\ **''%%mlr_christmas_small%%''**\\ **''%%mlr_christmas_mini%%''**\\ **''%%e44%%''**\\ **''%%e44_small%%''**\\ **''%%e44_mini%%''**\\ **''%%e44_christmas%%''**\\ **''%%e44_christmas_small%%''**\\ **''%%e44_christmas_mini%%''** |
 |  @#6CB5E2:  **MTR Mod (and [[mtr_letsplay:start|Let's Play Server]]) specifications**  ||
 | **Car length (dashboard)** | 25 m (Standard)\\ 21 m (Small MLR)\\ 17 m (Small E44)\\ 13 m (Mini MLR)\\ 9 m (Mini E44) |
@@ -80,8 +74,8 @@ Christmas variants
 | **Wheel diametre** | 875 mm |
 | **Maximum speed** | Depends on rail |
 | **Traction motors** | Jon's Motor Sound System - MLR |
-| **Acceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s), max 72 km/(h*s)) |
-| **Deceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s), max 72 km/(h*s)) |
+| **Acceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s),\\ max 72 km/(h*s)) |
+| **Deceleration** | Depends on dashboard settings\\ (default 14.4 km/(h*s), min 1.4 km/(h*s),\\ max 72 km/(h*s)) |
 | **Bogies** | MTR Standard |
 | **Braking System** | MTR Standard |
 | **Safety systems** | Jon's signalling |
@@ -116,4 +110,20 @@ WIP
 
 ===== Changelog =====
 
-6 August 2021: The MLR is first mentioned in Commit dfe512d.
+  * 6 August 2021: The MLR is first mentioned in [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/commit/dfe512d4c537f40f123a27db1716406a36a058f2|Commit dfe512d]].
+  * 7 August 2021: The [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/commit/7f74e17275f24ce13c5f038603125ad655283326|third commit]] for the MLR is published.
+  * 11 August 2021: The MLR is added into the code.
+  * 12 August 2021: Sounds for the MLR are added.
+  * 13 August 2021: The head design was revised, deceleration sounds were added, and door lights and destination displays fixed.
+  * 20 August 2021: The E44 is [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/commit/ae7fb3356526afc30842fc38f667548c5663081f|first commited for]].
+  * 22 August 2021: The [[https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/commit/507a9b5bfda7ca775ca890dd7f014dc273aab1a5|second commit for the E44]] is published.
+  * 3.0.0-beta-8-unofficial-4 (23 August 2021): Added a WIP version of the E44.
+  * 3.0.0-beta-8-unofficial-7 (1 September 2021): Finalized the E44.
+  * [[https://modrinth.com/mod/minecraft-transit-railway/version/FABRIC-1.17.1-3.0.0-beta-8-prerelease-1|3.0.0-beta-8-prerelease-1]] (20 September 2021): Added the MLR and E44, together with Phase II LRV, Tung Chung Line K-Train, Airport Express K-Train and NYC Subway R179.
+  * 27 September 2021: Removed transparent pixels for E44 door overlays.
+  * 16 October 2021: Fixed seating of the E44.
+  * 23 December 2022: The Christmas MLR is added to the code.
+  * [[https://modrinth.com/mod/minecraft-transit-railway/version/FABRIC-1.19.3-3.1.13|3.1.13]] (24 December 2022): Added the Christmas MLR.
+  * 2 November 2023: The MLR is added to MTR4's code, together with the C1141A and CAF-Train.
+  * 6 April 2024: The E44 is added to MTR4's code.
+  * 4.0.0-beta-7 (22 April 2024): Added the E44 to MTR4.
