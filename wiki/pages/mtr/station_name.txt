@@ -37,61 +37,19 @@ Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|p
 
 === Base Recipe ===
 
-<markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
-| --- | --- | --- |
-| Station Name (Wall, White) | [Sign](https://minecraft.wiki/w/Sign) + [Iron Ingot](https://minecraft.wiki/w/Iron_Ingot)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_1.png" width=200/> |
-| Station Name (Tall Block) | Station Name (Wall, White) + [Stone](https://minecraft.wiki/w/Stone) + Station Pole<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_5.png" width=200/> |
-| Station Name (Tall Block, double-sided) | Station Name (Wall, White) × 2 + [Stone](https://minecraft.wiki/w/Stone) + Station Pole<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_8.png" width=200/> |
-| Station Name (Tall Wall) | Station Name (Wall, White) + [Stone](https://minecraft.wiki/w/Stone)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_6.png" width=200/> |
-| Station Name (Entrance) × 2 | Station Name (Wall, White) + MTR Logo<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_7.png" width=200/> |
-
-</markdown>
+^ Name ^ Ingredients ^ [[https://minecraft.wiki/w/Crafting|Crafting]] Recipe ^
+| Station Name (Wall, White) | [[https://minecraft.wiki/w/Sign|Sign]] + [[https://minecraft.wiki/w/Iron_Ingot|Iron Ingot]] \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_1.png?200 }} |
+| Station Name (Tall Block) | Station Name (Wall, White) + [[https://minecraft.wiki/w/Stone|Stone]] + Station Pole \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_5.png?200 }} |
+| Station Name (Tall Block, double-sided) | Station Name (Wall, White) × 2 + [[https://minecraft.wiki/w/Stone|Stone]] + Station Pole \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_8.png?200 }} |
+| Station Name (Tall Wall) | Station Name (Wall, White) + [[https://minecraft.wiki/w/Stone|Stone]] \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_6.png?200 }} |
+| Station Name (Entrance) × 2 | Station Name (Wall, White) + MTR Logo \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_7.png?200 }} |
 
 === Conversion Recipe ===
 
-<markdown>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Name | Ingredients | [Crafting](https://minecraft.wiki/w/Crafting) Recipe |
-| --- | --- | --- |
-| Station Name (Wall, Grey) | Station Name (Wall, White)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_2.png" width=200/> |
-| Station Name (Wall, Black) | Station Name (Wall, Grey)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_3.png" width=200/> |
-| Station Name (Wall, White) | Station Name (Wall, Black)<br><br>_Shapeless Recipe_ | <img src="https://wiki.minecrafttransitrailway.com/_media/mtr:station_name_crafting_recipe_4.png" width=200/> |
+^ Name ^ Ingredients ^ [[https://minecraft.wiki/w/Crafting|Crafting]] Recipe ^
+| Station Name (Wall, Grey) | Station Name (Wall, White) \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_2.png?200 }} |
+| Station Name (Wall, Black) | Station Name (Wall, Grey) \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_3.png?200 }} |
+| Station Name (Wall, White) | Station Name (Wall, Black) \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_4.png?200 }} |
 
 </markdown>
 
