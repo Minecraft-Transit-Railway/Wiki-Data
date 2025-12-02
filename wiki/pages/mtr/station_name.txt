@@ -4,13 +4,13 @@
 
 |  @#00C42A: **Platform Block**  ||
 |  {{:mtr:station_name_wall_black.png?100x50}}  |  {{:mtr:station_name_wall_gray.png?100x50}}  |
-|  {{:mtr:station_name_wall_white.png?200x100}}  ||
-|  {{:mtr:station_name_tall_wall.png?100}}  |  {{:mtr:station_name_tall_block.png?100}}  |
+|  {{:mtr:station_name_wall_white.png?100x50}}  |  {{ :mtr:station_name_tall_wall.png?100 }}  |
+|  {{ :undefined:station_name_tall_standing.png?100 }}  |  {{:mtr:station_name_tall_block.png?100}}  |
 |  {{:mtr:station_name_tall_block_double_sided.png?100}}  |  {{:mtr:station_name_entrance.png?100}}  |
 |  Icons of all Station Name variants.((
 | Wall text, Black | Wall Text, Grey |
-| Wall text, White ||
-| Tall Wall Text | Tall Block |
+| Wall text, White | Tall Wall Text |
+| Tall Wall (Standing) | Tall Block |
 | Tall Block, double-sided | Station Entrance |
 ))  ||
 | **[[https://minecraft.wiki/w/Renewable_resource|Renewable]]** | Yes |
@@ -43,6 +43,7 @@ Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|p
 | Station Name (Tall Block, double-sided) | Station Name (Wall, White) × 2 + [[https://minecraft.wiki/w/Stone|Stone]] + Station Pole \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_8.png?200 }} |
 | Station Name (Tall Wall) | Station Name (Wall, White) + [[https://minecraft.wiki/w/Stone|Stone]] \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_6.png?200 }} |
 | Station Name (Entrance) × 2 | Station Name (Wall, White) + MTR Logo \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_7.png?200 }} |
+| Station Name (Tall Standing) | Station Name (Tall Wall) + [[https://minecraft.wiki/w/Stick|Stick]] × 4 \\ //Shaped Recipe// | {{ :mtr:station_name_crafting_recipe_9.png?200 }} |
 
 === Conversion Recipe ===
 
