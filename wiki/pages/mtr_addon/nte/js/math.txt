@@ -1,8 +1,11 @@
 ====== Math Utilities ======
+
 This is not an introduction to the math functions of the standard JavaScript library. Instead, this is a set of useful classes provided by NTE to perform transformations for model rendering and other things.
 
 ===== Vector3f =====
+
 A three-dimensional vector, that is, the coordinates (x, y, z).
+
 ^ Functions And Objects ^ Description ^
 | ''new Vector3f(x: float, y: float, z: float)'' | Creates an instance of the Vector3f class. |
 | ''Vector3f.x(): float'' | Returns the X coordinate. Has counterparts for Y and Z. |
@@ -24,18 +27,20 @@ A three-dimensional vector, that is, the coordinates (x, y, z).
 | ''static Vector3f.XP: Vector3f'' | (1, 0, 0). Has counterparts for Y and Z. |
 
 ===== Matrix4f =====
+
 3D transformation matrix. Represents a transformation relationship that corresponds one point to another. For example, one can say "I want to rotate this model 90 degrees around the Y-axis and then move it 10 meters along the X-axis..." and such a set of transformation operations can be represented by a matrix.
 
 Note that if you think along the lines of "I want to rotate this model 90 degrees around the Y-axis and then move it 10 meters along the X-axis...", the transformations that will "happen first" will actually happen later. Transformations are actually functions that are called later. You can think of the function called later as being closer to the original model, and the function called earlier as being closer to the final result, so if you think of it in terms of the original position of the model, it will be transformed earlier. [Translator's note: I did understand the message but I didn't understand what the last part meant]
 
 Scaling transformations are not supported.
+
 ^ Functions ^ Description ^
 | ''new Matrix4f()'' | Returns the Matrix4f. Initially it is a unit matrix that has not undergone any transformations. |
 | ''Matrix4f.copy(): Matrix4f'' | Returns a copy of the matrix that can be independently modified. |
 | ''Matrix4f.translate(x: float, y: float, z: float): void'' | Add a translation (x,y,z) transformation. |
 | ''Matrix4f.rotate(axis: Vector3f, rad: float): void'' | Adds a transformation that rotates around some direction at the origin. Angles are in radians, positive values are counterclockwise, and axis needs to be a unit vector. |
 | ''Matrix4f.rotateX(rad: float): void'' | Rotates along the X axis, the angle is specified in radians. Has counterparts for Y and Z. |
-| ''Matrix4f.multiply(other: Vector3f): void'' | Right-multiply another transformation matrix, which means that the transformation of that matrix is picked up after this one. [Translator's note: wth does that mean] |
+| ''Matrix4f.multiply(other: Matrix4f): void'' | Right-multiply another transformation matrix, which means that the transformation of that matrix is picked up after this one. [Translator's note: wth does that mean] |
 | ''Matrix4f.transform(vec: Vector3f): Vector3f'' | Calculates which coordinate a coordinate will go to after applying this transformation. Returns a new Vector3f without moving the input. |
 | ''Matrix4f.transform3(vec: Vector3f): Vector3f'' | Same as above, but only counts rotations not translations. |
 | ''Matrix4f.getTranslationPart(): Vector3f'' | What coordinate will be reached after performing this transformation relative to (0,0,0). |
@@ -43,6 +48,7 @@ Scaling transformations are not supported.
 | ''static Matrix4f.translation(x: float, y: float, z: float): Matrix4f'' | Returns a translation transformation matrix. |
 
 ===== Matrices =====
+
 When rendering, there will be a need to "restore the transformation state of the previous step". For example, I will add a move-down transformation to render the bogie, but after rendering I will need to return to the pre-move transformation state to render other parts of the car.
 
 Matrices implements a stack where multiple transformations can be stored. push and pop are performed in pairs.
@@ -60,4 +66,6 @@ Matrices implements a stack where multiple transformations can be stored. push a
 | ''Matrices.setIdentity(): void'' | Resets the current state to a unit matrix. |
 
 ===== Source =====
-* https://www.zbx1425.cn/nautilus/mtr-nte/#/js-math
+
+* [[https://www.zbx1425.cn/nautilus/mtr-nte/#/js-math]]
+
