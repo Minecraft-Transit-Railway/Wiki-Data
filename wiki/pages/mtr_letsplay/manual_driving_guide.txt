@@ -6,9 +6,21 @@ As a part of the [[mtr:4.0.x|MTR 4.0 update]], the manual driving system was [[h
 
 ----
 
+===== Manual Driving Learner's Line =====
+
+The <color white/#090909>**Manual Driving Leaner's Line**</color> is rated 1/5 on the driving difficulty scale. The line features a total of 4 stations, with a relatively short end-to-end travel time. The line features above ground and underground stations with ground level, surface tunnels, subterranean, and in-yard driving. There are certain points where drivers are required to change ends of the train (i.e. at turnback tracks and at terminus platforms). This line is the introductory line to Manual Driving on the Let's Play server, and features a number of additional support features, including visible in-track speed limits and labelled signals.
+
+| **Available Consist Count**  | 3 |
+| **Depot Access**  | Visit the Cyan Heights Manual Driving Terminal. |
+| **Speed limit(s)** | 20-80km/h |
+| **Acceleration** | 2.4m/s/s |
+| **Deceleration** | 2.4m/s/s |
+
+For more information on the <color white/#090909>**Manual Driving Learner's Line**</color>, click [[mtr_letsplay:manual_driving_learners_line|here]].
+
 ===== Nostalgia Line =====
 
-The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
+The <color white/#25ADF6>**Nostalgia Line**</color> is rated 3/5 on the driving difficulty scale. The line features above ground and underground stations with ground level, surface tunnels, and subterranean driving.
 
 | **Available Consist Count**  | 4 |
 | **Depot Access**  | Use the automatic people mover located in Shrubland Prairie station. |
@@ -16,84 +28,11 @@ The <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color> is ra
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
 
-For more information on the <color white/#25ADF6>**<html>&nbspNostalgia Line&nbsp</html>**</color>, click [[mtr_letsplay:nostalgia_line|here]].
-
-===== Shipton Line =====
-
-The <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The line features underground stations and subterranean driving including shared sections with the Wanton Line.
-
-| **Available Consist Count**  | 2 |
-| **Depot Access**  | Alight at Aoba station and use the Route 53S shuttle bus route to access the depot.  |
-| **Speed limit(s)** |   |
-| **Acceleration** | 3.2m/s/s |
-| **Deceleration** | 3.2m/s/s |
-
-For more information on the <color white/#520DFA>**<html>&nbspShipton Line&nbsp</html>**</color>, click [[mtr_letsplay:shipton_line|here]].
-
-===== Sumeru-Fontaine Line =====
-
-The <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
-
-| **Available Consist Count**  | 1 |
-| **Depot Access**  | Alight at Elynas station and walk to the depot (-18352, 68, 12221). |
-| **Speed limit(s)** |   |
-| **Acceleration** | 2.8m/s/s |
-| **Deceleration** | 2.8m/s/s |
-
-For more information on the <color white/#04959E>**<html>&nbspSumeru-Fontaine Line&nbsp</html>**</color>, click [[mtr_letsplay:sumeru_fontaine_line|here]].
-
-===== SLCBus Route 4S =====
-
-<color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and bus terminals, and features driving on both "rural" and "city" roads.
-
-| **Available Vehicle Count**  | 3 |
-| **Depot Access**  | Alight at the bus stop adjacent to the depot. Buses only stop there, however, eastbound after Sai Mo Island bus terminal. The depot is also walking distance from South Mo Island bus stop in the westbound direction, at (-708, 68, 935). |
-| **Speed limit(s)** |   |
-| **Acceleration** | 4.0m/s/s |
-| **Deceleration** | 4.0m/s/s |
-
-For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</html>**</color>, click [[mtr_letsplay:slcbus_4s|here]].
-
-===== Fryske Sprinter =====
-
-The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping position variations, which vary by the length of the driven train. Therefore, the player should be careful of speeding past their markerboard. The line also features ATB for speed limit changes.
-
-| **Available Consist Count**  | 2 |
-| **Depot Access**  | Alight at Whale Lake light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
-| **Speed limit(s)** | 40-120km/h |
-| **Acceleration** | 1.2m/s/s |
-| **Deceleration** | 1.2m/s/s |
-
-For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color>, click [[mtr_letsplay:fryskeline|here]].
-
-
-===== Chuncheon Bus Route 92 =====
-
-<color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
-
-| **Available Vehicle Count**  | 1 |
-| **Depot Access**  | Alight at East Hills station and walk to the depot (-11647, 68, 12787). |
-| **Speed limit(s)** |   |
-| **Acceleration** | 4.0m/s/s |
-| **Deceleration** | 4.0m/s/s |
-
-For more information on <color white/#2954D5>**<html>&nbspChuncheon Bus Route 92&nbsp</html>**</color>, click [[mtr_letsplay:chuncheonbus_92|here]].
-
-===== Oakville-Castleton Bus (Route 72) =====
-
-<color white/#B3B452>**<html>&nbspOakville-Castleton Bus (Route 72)&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" roads.
-
-| **Available Vehicle Count**  | 1 |
-| **Depot Access**  | Alight at Diorite Bay, adjacent to the bus garage (8535, 67, 3919). |
-| **Speed limit(s)** |   |
-| **Acceleration** | 2.0m/s/s |
-| **Deceleration** | 2.2m/s/s |
-
-For more information on the <color white/#B3B452>**<html>&nbspOakville-Castleton Bus (Route 72)&nbsp</html>**</color>, click [[mtr_letsplay:oakville_castleton_bus|here]].
+For more information on the <color white/#25ADF6>**Nostalgia Line**</color>, click [[mtr_letsplay:nostalgia_line|here]].
 
 ===== Hawai'i Skyline =====
 
-The <color white/#041E87>**<html>&nbspHawai'i Skyline&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features breathtaking above-ground scenery and heart-racing underwater glass tunnels. There are several stations where players must quickly run from one end of the train to the other at intermediate stations!
+The <color white/#041E87>**Hawai'i Skyline**</color> is rated 4/5 on the driving difficulty scale. The line has a number of locations where drivers must swap-ends of the train with fast turnaround times, requiring drivers to run along the platform or through the train in order to keep to time. The line features above ground and underground stations with ground level, surface tunnels, subterranean, and glass in-water tunnel driving. The line features high speeds and frequent trains, so drivers must be especially aware of speed and dwell times.
 
 | **Available Consist Count**  | 4 |
 | **Depot Access**  | Use Keone'ae (University of Hawai'i – West O'ahu) station. The manual driving siding is within the paid area of the station. |
@@ -101,7 +40,80 @@ The <color white/#041E87>**<html>&nbspHawai'i Skyline&nbsp</html>**</color> is r
 | **Acceleration** | 4.0m/s/s |
 | **Deceleration** | 4.0m/s/s |
 
-For more information on the <color white/#041E87>**<html>&nbspHawai'i Skyline&nbsp</html>**</color>, click [[mtr_letsplay:hawaii_skyline|here]].
+For more information on the <color white/#041E87>**Hawai'i Skyline**</color>, click [[mtr_letsplay:hawaii_skyline|here]].
+
+===== Shipton Line =====
+
+The <color white/#520DFA>**Shipton Line**</color> is rated 1/5 on the driving difficulty scale. The line features underground stations and subterranean driving including shared sections with the Wanton Line.
+
+| **Available Consist Count**  | 2 |
+| **Depot Access**  | Alight at Aoba station and use the Route 53S shuttle bus route to access the depot.  |
+| **Speed limit(s)** |   |
+| **Acceleration** | 3.2m/s/s |
+| **Deceleration** | 3.2m/s/s |
+
+For more information on the <color white/#520DFA>**Shipton Line**</color>, click [[mtr_letsplay:shipton_line|here]].
+
+===== Sumeru-Fontaine Line =====
+
+The <color white/#04959E>**Sumeru-Fontaine Line**</color> is rated 2/5 on the driving difficulty scale. The line features above underground, above ground, and trenched style stations with above ground, subterranean, trench, and surface tunnel driving.
+
+| **Available Consist Count**  | 1 |
+| **Depot Access**  | Alight at Elynas station and walk to the depot (-18352, 68, 12221). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 2.8m/s/s |
+| **Deceleration** | 2.8m/s/s |
+
+For more information on the <color white/#04959E>**Sumeru-Fontaine Line**</color>, click [[mtr_letsplay:sumeru_fontaine_line|here]].
+
+===== SLCBus Route 4S =====
+
+<color black/#30ECF8>**SLCBus Route 4S**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and bus terminals, and features driving on both "rural" and "city" roads.
+
+| **Available Vehicle Count**  | 3 |
+| **Depot Access**  | Alight at the bus stop adjacent to the depot. Buses only stop there, however, eastbound after Sai Mo Island bus terminal. The depot is also walking distance from South Mo Island bus stop in the westbound direction, at (-708, 68, 935). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+For more information on <color black/#30ECF8>**SLCBus Route 4S**</color>, click [[mtr_letsplay:slcbus_4s|here]].
+
+===== Fryske Sprinter =====
+
+The <color white/#B0B0BE>**Fryske Sprinter**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping position variations, which vary by the length of the driven train. Therefore, the player should be careful of speeding past their markerboard. The line also features ATB for speed limit changes.
+
+| **Available Consist Count**  | 2 |
+| **Depot Access**  | Alight at Whale Lake light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
+| **Speed limit(s)** | 40-120km/h |
+| **Acceleration** | 1.2m/s/s |
+| **Deceleration** | 1.2m/s/s |
+
+For more information on the <color white/#B0B0BE>**Fryske Sprinter**</color>, click [[mtr_letsplay:fryskeline|here]].
+
+
+===== Chuncheon Bus Route 92 =====
+
+<color white/#2954D5>**Chuncheon Bus Route 92**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
+
+| **Available Vehicle Count**  | 1 |
+| **Depot Access**  | Alight at East Hills station and walk to the depot (-11647, 68, 12787). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 4.0m/s/s |
+| **Deceleration** | 4.0m/s/s |
+
+For more information on <color white/#2954D5>**Chuncheon Bus Route 92**</color>, click [[mtr_letsplay:chuncheonbus_92|here]].
+
+===== Oakville-Castleton Bus (Route 72) =====
+
+<color white/#B3B452>**Oakville-Castleton Bus (Route 72)**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" roads.
+
+| **Available Vehicle Count**  | 1 |
+| **Depot Access**  | Alight at Diorite Bay, adjacent to the bus garage (8535, 67, 3919). |
+| **Speed limit(s)** |   |
+| **Acceleration** | 2.0m/s/s |
+| **Deceleration** | 2.2m/s/s |
+
+For more information on the <color white/#B3B452>**Oakville-Castleton Bus (Route 72)**</color>, click [[mtr_letsplay:oakville_castleton_bus|here]].
 
 ----
 
