@@ -52,15 +52,37 @@ Each of the station name variants require a [[https://minecraft.wiki/w/Pickaxe|p
 | Station Name (Wall, Black) | Station Name (Wall, Grey) \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_3.png?200 }} |
 | Station Name (Wall, White) | Station Name (Wall, Black) \\ //Shapeless Recipe// | {{ mtr:station_name_crafting_recipe_4.png?200 }} |
 
-</markdown>
+===== Behaviour =====
 
-===== Usage =====
+When any of the station name blocks are placed within a defined station area, they will display the station name. Station areas are defined with any [[mtr:dashboards]]. When right clicked with a brush, the colour of the text and/or the style of the block will change.
 
-When any of the station name blocks are placed within a defined station area, they will display the station name. Stations areas are defined with any [[mtr:dashboards]]. When right clicked with a brush, the colour of the text and/or the style of the block will change.
+If the station text contains CJK characters, that part of the text will be rendered bigger than the other text.
 
-The station name (wall), station name (tall wall), and station name (entrance) blocks are meant to be placed on the sides of other blocks. The station name (tall block) is freestanding.
+If the station name is too long for the block to render, the text will be squashed or shrunk((
+CJK text for all types of Station Name (Tall) only.
+)) to fit in the block.
 
-The station name (tall wall) and station name (tall block) blocks are three blocks high. They will show the station colour if placed within a defined station area.
+Station Name (Entrance) can be put next to each other and combined. This also applies to Station Name (Wall Text)
+
+==== Rendering examples ====
+
+| {{ :mtr:2025-12-10_16.29.54.png?200 }} |
+|  Station Name (Wall Text), from left to right: white, grey, black.  |
+
+| {{ :mtr:2025-12-10_16.31.40.png?200 }} |
+|  Example of a Station Name being too long and text are squashed to fit in the block.  |
+
+| {{ :mtr:2025-12-10_16.31.43.png?200 }} |
+|  An extra Station Name (Wall Text) block is added to the right, and now the station name is rendered without being squashed.  |
+
+| {{ :mtr:2025-12-10_16.33.50.png?200 }} |
+|  Variations of Station name (Entrance).  |
+
+| {{ :mtr:2025-12-10_17.06.58.png?200 }} |
+|  Variations of Station name (Tall Block).  |
+
+| {{ :mtr:2025-12-10_16.35.03.png?200 }} | {{ :mtr:2025-12-10_16.35.16.png?200 }} |
+|  Variations of Station name (Tall Wall) and Station name (Tall Standing) respectively.  ||
 
 ===== Changelog =====
 
