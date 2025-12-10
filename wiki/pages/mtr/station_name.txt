@@ -84,6 +84,9 @@ Station Name (Entrance) can be put next to each other and combined. This also ap
 | {{ :mtr:2025-12-10_16.35.03.png?200 }} | {{ :mtr:2025-12-10_16.35.16.png?200 }} |
 |  Variations of Station name (Tall Wall) and Station name (Tall Standing) respectively.  ||
 
+| {{ :mtr:2025-12-10_16.27.30.png?200 }} |
+|  If the Station Name block is not placed within a station area, "Untitled" will be displayed.  |
+
 ===== Changelog =====
 
 Unknown: Added station name(Wall Text, Tall Block and Tall Wall Text).
@@ -103,4 +106,10 @@ Unknown: Added station name(Wall Text, Tall Block and Tall Wall Text).
 %%3.1.6: Fixed station name entrance signs misaligned.%%
 
 3.1.7: %%Improved Station Name (Entrance) and exit sign rendering.%%
+
+3.1.7: Improved Station Name (Entrance) and exit sign rendering.
+
+4.0.0-prerelease.1: Station Name (Entrance) will now use styles set when placed next to another one with a different style applied.
+
+4.0.0-prerelease.2: Added Station Name (Tall Standing).
 
