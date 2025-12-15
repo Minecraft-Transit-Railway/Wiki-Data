@@ -3,7 +3,7 @@
 |  @#EFEEF0:  **Terralith Rapid Transit**  ||
 | {{ mtr_letsplay:trt.png?250 }} ||
 |  @#EFEEF0:  **Overview**  ||
-| **Owner** | [[mtr_community:contributors:cinderaceots|CinderaceOTS]] |
+| **Owner** | DelphoxOTS |
 | **Established** | August 2022 |
 | **Area Served** | (Wide area) |
 | **Transit type** | [[Rapid Transit]]etc. |
@@ -25,7 +25,7 @@
 Terralith Rapid Transit([[wp>Chinese_language|Chinese]]: 泰瑞斯捷運, Common Notation: TRT) is a management company that manages lines and trains such as [[mtr_letsplay:shimanomtr|Shimano MTR]].
 
 ======Overview=====
-This is a management company ((a company equivalent to a Category-3 Operator (第三種鉄道事業者) in Japan)) that manages lines and trains established by CinderaceOTS ((Sprigatito OTS as of August 2022)) when it joined the Let's Play server.
+This is a management company ((a company equivalent to a Category-3 Operator (第三種鉄道事業者) in Japan)) that manages lines and trains established by DelphoxOTS when it joined the Let's Play server.
 We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shimanolrt|Shimano LRT]] lines and trains. The operation of the trains is outsourced to companies such as [[mtr_letsplay:shimanomtr|Shimano MTR]].
 
 =====Routes=====
@@ -154,7 +154,7 @@ See [[shimanolrt|Shimano LRT]]
 * [[LRV 1975]]
 
 ===Shimano LRT===
-see [[shimano_lrt|Shimano LRT]]
+see [[shimanolrt|Shimano LRT]]
 
 ===in-Station Transit===
 * [[Lightrail Phase 3]]
