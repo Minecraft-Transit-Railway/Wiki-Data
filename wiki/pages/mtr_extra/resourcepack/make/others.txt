@@ -107,7 +107,7 @@ Return to ''mtr_custom_resources.json''.
 
   * Replace the value of ''color'' with a HEX colour value that you like. This will change the colour of the small square next to the object to that value.
   * Modify the values of ''translation'', ''rotation'' and/or ''scale'' ([x,y,z]) if you want the model to be rendered by default to have that value of translation/rotation/scale.
-  * Set ''mirror'' to ''true'' if you want the icon to be rendered with a small padding around.
+  * Set ''mirror'' to ''true'' if you want the model to be flipped on that axis.
 
 <tabbox Custom lifts>
 
