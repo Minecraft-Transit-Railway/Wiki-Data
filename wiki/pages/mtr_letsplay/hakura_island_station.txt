@@ -1,14 +1,14 @@
-====== Hakura Island Station ======
+====== Haruka Island Station ======
 
 <WRAP 400px right>
 
-|   @#89b239:  **Hakura Island**   ||
+|   @#89b239:  **Haruka Island**   ||
 | @#0fbfe4: ||
 ^   **Overview**   ^^
 | **Operator** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
 | **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
 | ::: | [[mtr_letsplay:wr_bus_services|WR Bus Services]] |
-| **Owner** | [[mtr_community:navi_lx9702|Navi]] |
+| **Owner** | [[mtr_community:staff:navi_lx9702|Navi]] |
 | **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
 | **Platforms** | 2 |
 | **Tracks** | 2 |
@@ -46,7 +46,7 @@
   * **Unknown August, 2022**: Station opened for [[/WR_SW_Plains_Line|WR SW Plains Line]].
 
 ===== Design =====
-According to [[mtr_community:Navi_LX9702|Navi]], the station's design is based on [[https://zeldapedia.wiki/wiki/Koholint_Island|Koholint Island]], resulting white-pink walls resembling the Wind fish egg's appearance, and beach-like floors.
+According to [[mtr_community:staff:navi_lx9702|Navi]], the station's design is based on [[https://zeldapedia.wiki/wiki/Koholint_Island|Koholint Island]], resulting white-pink walls resembling the Wind fish egg's appearance, and beach-like floors.
 
 ===== Layout =====
 
