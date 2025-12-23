@@ -3,15 +3,18 @@
 <WRAP 400px right>
 
 |   @#0e51b9:  <color #ffffff>**Lake City**</color>   ||
+| @#EF7300: ||
 | @#0FBFE4: ||
 | @#19DFDE: ||
 | @#89AC76: ||
 | @#036afa: ||
 ^   **Overview**   ^^
 | **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
+| ::: | [[mtr_letsplay:transport_for_lets_play|Transport for Let's Play]] |
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
 | ::: | [[mtr_letsplay:sw_transit|SW Transit]] |
 | **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
+| ::: | [[mtr_letsplay:overground|Overground]] |
 | ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
 | ::: | [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] |
 | ::: | [[mtr_letsplay:circulator_ip|Circulator IP]] |
@@ -37,12 +40,13 @@
 | **Station Code** | LAC |
 | **Opened** | 8 August, 2022 |
 | **Electrification** | 750V third rail DC (SW Plains Line) |
+| ::: | 630 V fourth rail DC (Overground) |
 
 | @#0FBFE4:  **[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]** || | @#19dfde:  **[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]** ||
 | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] | ::: | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] |
 | ⇅ | [[mtr_letsplay:shek_tan_island_station|Shek Tan Island]] | ::: | ⇅ | [[mtr_letsplay:mita_shiro_station|Mita Shiro]] |
 | ⇅ | ... | ::: | ⇅ | ... |
-| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] | ::: | ⇅ | [[mtr_letsplay:gate_of_yunlong_station|Gate of Yunlong]] |
+| ⇅ | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] | ::: | ⇅ | [[mtr_letsplay:higashi_yunlong_station|Higashi-Yunlong]] |
 
 | @#89ac76:  **[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]]** || | @#036afa:  **[[mtr_letsplay:circulator_ip|Circulator IP]]** ||
 | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] | ::: | ◉ | [[mtr_letsplay:lake_city_station|Lake City]] |
