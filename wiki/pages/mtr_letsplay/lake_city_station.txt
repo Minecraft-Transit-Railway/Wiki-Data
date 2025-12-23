@@ -8,9 +8,24 @@
 | @#19DFDE: ||
 | @#89AC76: ||
 | @#036afa: ||
+|  {{ :mtr_letsplay:lake_city_plat1_plat2.png?380 }}Platforms 1 and 2 at Lake City  ||
+^   **Chinese name**   ^^
+| **Traditional** | 湖城 |
+| **Simplified** | 湖城 |
+| **Literal meaning** | Lake City |
+|  @#F9FFBC:  **Transcriptions**  ||
+|  **Standard Mandarin**  ||
+| **Hanyu Pinyin** | húchéng |
+|  **Cantonese**  ||
+| **Yale Romanization** | wùhsìhng |
+| **Jyutping** | wu4sing4 |
 ^   **Overview**   ^^
+| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
+| **Coordinates** | (-3492, 3324) |
+| **Owners** | [[mtr_community:staff:navi_lx9702|Navi]] |
+| ::: | [[mtr_community:tea|Tea]] |
 | **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] |
-| ::: | [[mtr_letsplay:transport_for_lets_play|Transport for Let's Play]] |
+| ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] |
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] |
 | ::: | [[mtr_letsplay:sw_transit|SW Transit]] |
 | **Lines** | [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] |
@@ -18,16 +33,8 @@
 | ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
 | ::: | [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] |
 | ::: | [[mtr_letsplay:circulator_ip|Circulator IP]] |
-| **Owners** | [[mtr_community:staff:navi_lx9702|Navi]] |
-| ::: | [[mtr_community:tea|Tea]] |
-| **Region** | [[mtr_letsplay:west_lake_area|West Lake]] |
-| **Platforms** | 7 (3 island, 1 dock) |
+| **Platforms** | 7\\ [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]/[[mtr_letsplay:overground|Overground]]:\\ 1 shared island platform\\ [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]/[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]]:\\ 1 island platform each\\ [[mtr_letsplay:circulator_ip|Circulator IP]]: 1 dock |
 | **Tracks** | 6 |
-| **Coordinates** | (-3492, 3324) |
-^   **Translations**   ^^
-| **Traditional** | 湖城 |
-| **Simplified** | 湖城 |
-| **Cantonese Yale** | wùhsìhng |
 ^   **Colors**   ^^
 | @#0e51b9:  | Blue |
 | @#ffffff:  | White |
@@ -56,11 +63,11 @@
 
 </WRAP>
 
-**Lake City Station** (//Chinese: 湖城站//) is a terminal station of 4 lines, including [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]], and [[mtr_letsplay:circulator_ip|Circulator IP]]. It is frequently used for intro and outro of Jonathan's videos.
+**Lake City Station** (//Chinese: 湖城站//) is a terminal station of 4 lines, including [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]], [[mtr_letsplay:overground|Overground]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]], and\\ [[mtr_letsplay:circulator_ip|Circulator IP]]. It is frequently used for intros and outros in Jonathan's videos.
 
-The station is split into 2 parts, the "[[mtr_letsplay:wilds_railway|Wilds Railway]] side" which contains the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] platform and "[[mtr_letsplay:qingli_railways|New Harmony Railways]] side" which contains the  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] due to the existing WR side is not enough for expansion. 
+The station is split into 2 parts, the "[[mtr_letsplay:wilds_railway|Wilds Railway]] side" which contains the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] platform and "[[mtr_letsplay:qingli_railways|New Harmony Railways]] side" which contains the  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] due to the existing WR side not allowing for expansions. 
 
-Unless specified, the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] Lake City station will be referred as "WR Side", and the underground [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] Lake City station will be referred as "NHR Side". 
+Unless specified, the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]/[[mtr_letsplay:overground|Overground]] Lake City station will be referred as "WR Side", and the underground [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]/[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] Lake City station will be referred as "NHR Side". 
 
 ===== History =====
 
