@@ -2,9 +2,32 @@
 
 高速鐵路線路編號是一種給高速鐵路進行編號的數字和字母串
 
-在[[start|齊齊玩]]服務器中，編號採用以下編號方式
+在[[..:start|齊齊玩]]服務器中，編號採用以下編號方式
 
 1數字+終點站縮寫3位字母+2數字
 
-如：[[1lla39|1LLA39]]，[[hsr_northern_heights_line|北原綫]]往[[llanmara|灣堡城]]，中間的「LLA」為灣堡城（Llanmara）的縮寫
+如：[[..:1lla39|1LLA39]]，[[..:hsr_northern_heights_line|北原綫]]往[[..:llanmara|灣堡城]]，中間的「LLA」為灣堡城（Llanmara）的縮寫
+
+
+以下是目前正在Let’s Play服务器中使用的高速铁路车站编号:
+
+|  @#B0B0B0:**线路名称**  |  @#B0B0B0:**优先级编号**  |  @#B0B0B0:**终点站**  |  @#B0B0B0:**线路编号**  |
+|  Northern Heights Line  |  **9**  |  **YNK** (//Yankton//)  |  **32**  |
+|  :::  |  **9**  |  **LLA** (//Llanmara Saint Ann's//)  |  **39**  |
+|  Einsburg Line  |  **1**  |  **ENS** (//Einsburg Central//)  |  **45**  |
+|  :::  |  **1**  |  **SPW** (//Spawn//)  |  **62**  |
+|  Einsburg Express  |  **9**  |  **ENS** (//Einsburg Central//)  |  **45**  |
+|  :::  |  **9**  |  **SPW** (//Spawn//)  |  **62**  |
+|  Southern Cross Line  |  **9**  |  **YOC** (//Yongchun//)  |  **12**  |
+|  :::  |  **9**  |  **YUL** (//Yunlong//)  |  **05**  |
+|  North East Line  |  **9**  |  **SPW** (//Spawn//)  |  **08**  |
+|  :::  |  **9**  |  **JON** (//Jonathan's Resort//)  |  **43**  |
+|  Dan Chun Line  |  **9**  |  **SPW**  (//Spawn//)  |  **24**  |
+|  :::  |  **9**  |  **YOC** (//Yongchun//)  |  **55**  |
+|  Lisklong Line  |  **1**  |  **YUL** (//Yunlong//)  |  **88**  |
+|  :::  |  **1**  |  **LSK** (//Liskeard Waterloo//)  |  **82**  |
+|  Kallos-Yunlong Line  |  **9**  |  **YUL** (//Yunlong//)  |  **01**  |
+|  :::  |  **9**  |  **SPW** (//Spawn//)  |  **12**  |
+|  Diagonally Line  |  **9**  |  **YOC** (//Yongchun//)  |  **29**  |
+|  :::  |  **9**  |  **SUR** (//Sunrise//)  |  **30**  |
 
