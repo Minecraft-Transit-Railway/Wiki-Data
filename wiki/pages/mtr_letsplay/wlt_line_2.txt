@@ -7,10 +7,10 @@
 |  {{mtr_letsplay:wlt_line_2_special_smi.png?200}}\\ //A K-Train arrived at Sai Mo Island//  ||
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
-| **Status** | Operational\\ //(Kwong Chow - Makki Memorial Village)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake((Exits)),//\\ //See Tsuen,//\\ //Dragon Loop Centre,//\\ //Yuren Matou (Avondale))// |
-| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
-| **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/waitemata_and_toitoi|Waitematā and Toitoi]] |
-| **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/makki_memorial_village_station|Makki Memorial Village]] |
+| **Status** | Operational\\ //(Kwong Chow - Tsim Pei Tsui)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake((Exits)),//\\ //Dragon Loop Centre,//\\ //Hung Shan,//\\ //Lung Tau,//\\ //Tsim Pei Tsui((Concourse and Exits)),//\\ //Yuren Matou (Avondale))// |
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ //(Makki Memorial Village - Tsim Pei Tsui)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/lilypad_rail|Lilypad Rail]]\\ //(Dragon Loop Centre)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
+| **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/auckland|Auckland]]\\ [[/kallos|Kallos]]\\ [[/tsim_pei_tsui_peninsula|Tsim Pei Tsui Peninsula]] |
+| **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/tsim_pei_tsui_station|Tsim Pei Tsui]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line)]]</color> |
 | ::: | @#94D1D1:<color black>[[/wlt_line_3|Line 3 (Cyan Gray Line)]]</color> |
 | ::: | @#6950A1:<color white>[[/wlt_line_4|Line 4 (Elizabeth Line)]]</color> |
@@ -48,15 +48,15 @@
 | ::: | @#FC7FAE:Metro Blossom East Line |
 | ::: | @#00B081:<color white>Bond Line</color> |
 | ::: | @#F3009D:<color white>Effirt Express</color> |
-| **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 12 //(2 work in progress)// |
+| **Stations**((Not counting through-running sections on Sightseeing Line Phase 3, 4 and Bond Line))| 15 //(5 work in progress)// |
 ^  Service  |^
 | **Operator(s)** | [[/west_lake_transport_authority|WLT]]  |
-| **Service Hours** | 04:47 - next day 03:23 \\ //([[wp>UTC+08:00|UTC+8]])// |
+| **Service Hours** | 04:28 - next day 03:16 \\ //([[wp>UTC+08:00|UTC+8]])// |
 | **Frequency** | Every 1 - 8 mins |
 | **Depot** | [[/chik_shek_wan_depot|Chik Shek Wan Depot]] |
 | **Rolling Stock** | [[wp>MTR_Metro_Cammell_EMU_(DC)|M-Train]] (small variant)\\ [[wp>MTR_Rotem_EMU|K-Train]] (small variant)\\ [[wp>MTR_CNR_Changchun_EMU|C-Train]] (small variant)\\ [[/chi|CyanEX CXD104]] |
 ^  History  |^
-| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September, 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - Puda Xi (W. Laputa))//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Puda Xi (W. Laputa) - Ostania))// |
+| **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September, 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - Puda Xi (W. Laputa))//\\ 10 August, 2025\\ //(See Tsuen station)//\\ 1 January, 2026\\ //(Makki Memorial Village - Tsim Pei Tsui)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Puda Xi (W. Laputa) - Ostania))// |
 ^  Technical  |^
 | **Line Length** | TBC |
 | **Number of**\\ **Tracks** | Double Track |
@@ -67,7 +67,7 @@
 
 </WRAP>
 
-**Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]],  [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station and QLR North Coast Line which goes from Spawn station to [[/makki_memorial_village_station|Makki Memorial Village]] station, throughrunning [[/sightseeing_express|Sightseeing Line Phase 3, 4]] and Bond Line to [[/ostania_station|Ostania]] station. 
+**Line 2 (Kwong Pak Kwun Line)** (Chinese: //二號 (光北觀) 綫//), full name **Line 2 (Kwong Chow - North Coast / Sightseeing Phase 3, 4 Line)** (Chinese: //二號 (光州 - 北海岸 / 觀光三、四期) 綫//) is a rapid transit service operated by [[/West_Lake_Transport_Authority|West Lake Transport Authority]],  [[/qingli_railways|Qingli Railways]] (QLR) and [[/cyanex|Cyanex Rapid Transit]] (Cyanex), combining WLT Line 2 which goes from [[/kwong_chow_station|Kwong Chow]] station to [[spawn|Spawn]] station, from [[/makki_memorial_village_station|Makki Memorial Village]] station to [[/tsim_pei_tsui_station|Tsim Pei Tsui]] station, and QLR North Coast Line which goes from Spawn station to Makki Memorial Village station, the line splits out at Spawn station and another branch head to [[/west_laputa_station|Puda Xi (W. Laputa)]] station and joining [[/sightseeing_express|Sightseeing Line Phase 3]] (a.k.a. Cyan Twilight Line) tracks. Trains running this branch continues on Sightseeing Line Phase 3 and 4 and Bond Line to [[/ostania_station|Ostania]] station. 
 
 The line colour is <color #000000/#FFDA33>mandarin yellow</color> inspired from real life [[wp>Tung_Chung_line|Tung Chung Line]] and in accordance with the <color #FFFFFF/#EB4881>red</color> colour of Kwong Chow station and the <color #FFFFFF/#EB7AE9>orchid magenta</color> colour of Line 1 (Meyan Line)((
 Magenta mixing with yellow forms red
@@ -123,6 +123,12 @@ Saving one out of station interchange between Spawn station and [[/cyan_heights_
 
 When throughrunning starts, WLT decides to change the name to account for a long section of throughrunning shown on system map. 
 
+==== Eastern Extension ====
+
+As Tsim Pei Tsui Peninsula east of Eden, south of Kallos and New Buckingham, north of Yunlong was not served by any means of transport (before the Highlands Line was proposed and built), and **Line 2 (Kwong Pak Kwun Line)** fleet is expected to be in a large surplus even when operating at ultimate peak hour frequency, it is proposed to expand [[/makki_memorial_village_station|Makki Memorial Village station]] to fit an eastbound platform in, then extend the line in 105° heading, tunnel under Lilac Light Rail tracks and turn to heading east again, finally arrive at the Peninsula after crossing the ocean east of [[/hung_shan_station|Hung Shan station]]. 
+
+The extension adds three stops, Hung Shan, Lung Tau and Tsim Pei Tsui. Hung Shan is an interchange station with Metro South Continental Line and Guri Bay Line while Tsim Pei Tsui is proposed to be another interchange station with [[/wlt_line_4|Line 4 (Elizabeth Line)]] besides the current West Lake station and proposed Toitoi station.
+
 ==== Timeline ====
 
   * 7 August, 2023: Revised proposal published.
@@ -139,6 +145,7 @@ When throughrunning starts, WLT decides to change the name to account for a long
   * 3 June, 2025: Trains are no longer stopping at Three Rivers station to reduce the travelling time from/to former North Coast Line stations. 
   * 10 August, 2025: See Tsuen station is renamed as See Tsuen (Heart of Let's Play) station and open to public. 
   * 28 August, 2025: Trains are now using the new platform 0 at Makki Memorial Village and carry out testing on the east extension part. Trains are also more frequent from that day onwards. 
+  * 1 January, 2026: Eastern extension from Makki Memorial Village to Tsim Pei Tsui is open for riding, however station exits are not finished, while Tsim Pei Tsui station has utilised the emergency exit to the cave for R2C access. 
 
 ===== Rolling Stocks =====
 
@@ -151,7 +158,7 @@ Originally, the fleet was planned to include 3 sets of Shanghai Metro Trains 01A
 Due to the platforms in [[/cyanex|Cyan Twilight Line]]((80m long)) can only accomodate 4-car 4-door trains, trains through-running to Cyan Twilight Line and Bond Line need to consist of only 4 cars rather than 5 cars. For promotion of direct access to the Sightseeing Line network, Cyanex Rapid Transit [[/chi|CXD104]] (previously running on Sightseeing Line, replaced by CXD107) is chosen to be the sole rolling stock used for 4-car trains. The first batch of 15 sets 4-car trains are replaced with ABB traction, for diversifying the traction brand used and also for softer traction sound. The last batch of 10 sets 4-car trains are equipped with Bombardier //Mitrac (TC1110 series)// traction, similar to the one on most Chinese trains built in 2000s or 2010s with Bombardier designed traction. 
 
 ^  Car Formation of M-Trains (phase 2A)  ||||^
-| //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
+| //<- To Tsim Pei Tsui/Ostania// |||  //To Kwong Chow ->// ||
 |  A2xx(odd) - C2xx(odd) + E2xx(even) + C2xx(even) - A2xx(even)  |||||
 |  //xx refers to any number from 00 to 09//  |||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -162,7 +169,7 @@ MTR Mod's Super Hybrid used in non-electrified sections
 |  **E2xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 
 ^  Car Formation of M-Trains (phase 2C)  ||||^
-| //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
+| //<- To Tsim Pei Tsui/Ostania// |||  //To Kwong Chow ->// ||
 |  A2xx(odd) - C2xx(odd) + D2xx(even) + C2xx(even) - A2xx(even)  |||||
 |  //xx refers to any number from 10 to 19//  |||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -173,7 +180,7 @@ MTR Mod's Super Hybrid used in non-electrified sections
 |  **D2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |
 
 ^  Car Formation of K-Trains  ||||^
-| //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
+| //<- To Tsim Pei Tsui/Ostania// |||  //To Kwong Chow ->// ||
 |  A2xx(odd) - C2xx(odd) + B2xx(even) - C2xx(even) - A2xx(even)  |||||
 |  //xx refers to any number from 20 to 39//  |||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -186,7 +193,7 @@ Only for odd numbers
 |  **B2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |
 
 ^  Car Formation of C-Trains  ||||^
-| //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
+| //<- To Tsim Pei Tsui/Ostania// |||  //To Kwong Chow ->// ||
 |  A2xx(odd) - C2xx(odd) + B2xx(even) - C2xx(even) - A2xx(even)  |||||
 |  //xx refers to any number from 40 to 49//  |||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -199,7 +206,7 @@ Only for odd numbers
 |  **B2xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |
 
 ^  Car Formation of CXD104  ||||^
-| //<- To Makki Memorial Village/Ostania// |||  //To Kwong Chow ->// ||
+| //<- To Tsim Pei Tsui/Ostania// |||  //To Kwong Chow ->// ||
 |  A2xx(odd) - C2xx(odd) + C2xx(even) - A2xx(even)  |||||
 |  //xx refers to any number from 50 to 99//  |||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
@@ -210,18 +217,18 @@ MTR Mod's Super Hybrid used in non-electrified sections
 
 ===== Operations =====
 
-There are a mix of 4-car and 5-car trains running. 5-car trains are serving from Kwong Chow to Makki Memorial Village, and 4-car trains are serving from Kwong Chow to Ostania. They are both stopping at all intermediate stops (including WIP stations). There are a mix of 4-car and 5-car trains running between Kwong Chow and Spawn. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line when 4-car/5-car trains are stopping at the same platform. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively.
+There are a mix of 4-car and 5-car trains running. 5-car trains are serving from Kwong Chow to Tsim Pei Tsui, and 4-car trains are serving from Kwong Chow to Ostania. They are both stopping at all intermediate stops (including WIP stations). There are a mix of 4-car and 5-car trains running between Kwong Chow and Spawn. Passengers can distinguish 5-car only waiting area from 4-car/5-car both applicable waiting area by a different colour line when 4-car/5-car trains are stopping at the same platform. The upcoming trains information in PIDS also shows the trains are 4-car or 5-car, labelled with <color #7091FF>blue</color> colour and <color #8F6E00>brown</color> colour respectively.
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |||^
 |  @#FFDA33:  ||||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Pak Kwun Line)**  |||
-| |  Kwong Chow - Spawn  |  Kwong Chow - Makki Memorial Village  |  Kwong Chow - Ostania  |
+| |  Kwong Chow - Spawn  |  Kwong Chow - Tsim Pei Tsui  |  Kwong Chow - Ostania  |
 |  Early Morning\\ \\ (5 am - 9 am)  |  \\ 2.5 - 3.5  |  \\ 6  ||
 |  Day Time\\ \\ (9 am - 9 pm)  |  \\ 1.6 - 2.3  |  \\ 2.3 - 3.7  |  \\ 6  |
 |  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.0 - 1.7  |  \\ 1.3 - 2.7  |  \\ 4  |
-|  \\ Other Sessions\\ <html>&nbsp;</html>  |  \\ 2 - 8  |  \\ 3 - 9  |  \\ 6 - 10  |
+|  \\ Other Sessions\\ _  |  \\ 2 - 8  |  \\ 3 - 9  |  \\ 6 - 10  |
 
 </WRAP>
 
@@ -262,11 +269,7 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 </WRAP>
 ===== Future Plans =====
 
-Existing non-finished stations and track sections will be gradually worked on. 
-
-As Tsim Pei Tsui Peninsula east of Eden, south of Kallos and New Buckingham, north of Yunlong was not served by any means of transport (before the Highlands Line was proposed and built), and **Line 2 (Kwong Pak Kwun Line)** fleet is expected to be in a large surplus even when operating at ultimate peak hour frequency, it is proposed to expand [[/makki_memorial_village_station|Makki Memorial Village station]] to fit an eastbound platform in, then extend the line in 105° heading, tunnel under Lilac Light Rail tracks and turn to heading east again, finally arrive at the Peninsula after crossing the ocean east of [[/hung_shan_station|Hung Shan station]]. 
-
-The line will add three stops, Hung Shan, Lung Tau and Tsim Pei Tsui. Hung Shan will be an interchange station with Metro South Continental Line and Guri Bay Line while Tsim Pei Tsui will be another interchange station with [[/wlt_line_4|Line 4 (Elizabeth Line)]] besides the current West Lake station and proposed Toitoi station. 
+Existing non-finished stations and track sections will be gradually worked on.  
 
 ===== Stations (WIP) =====
 
