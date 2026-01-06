@@ -21,7 +21,7 @@
 | **Jyutping** | wu4sing4 ||||
 ^   **Overview**   ^^^^^
 | **Region** | [[mtr_letsplay:west_lake_area|West Lake]] ||||
-| **Coordinates** | (-3492, 3324) ||||
+| **Coordinates** | (-3515, 3322) ||||
 | **Owners** | [[mtr_community:staff:navi_lx9702|Navi]] ||||
 | ::: | [[mtr_community:tea|Tea]] ||||
 | **Operators** | [[mtr_letsplay:wilds_railway|Wilds Railway]] ||||
@@ -40,7 +40,7 @@
 | @#ffffff:  | White ||||
 ^   **Station**   ^^^^^
 | **Type** | Elevated (SW Plains Side) ||||
-| ::: | Underground (QR Side) ||||
+| ::: | Underground (QLR Side) ||||
 | **Floors** | - ||||
 | **Platform Floors** | 4 ||||
 | **Step-Free Accessible** | Yes ||||
@@ -53,21 +53,37 @@
 |  //Terminus//  |  @#EF7300:  |  [[mtr_letsplay:overground|Overground]]((This line is jointly operated by Wilds Railway and [[mtr_letsplay:lilypad_rail|Lilypad Rail]].))  |  @#EF7300:  |  [[mtr_letsplay:ichthus_station|Ichthus]]\\ //towards [[mtr_letsplay:cheung_ming_station|Cheung Ming]]//  |
 |  @#DCDCDC:  **Preceding Station**  |  @#DCDCDC:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#DCDCDC:  **Following station**  |
 |  //Terminus//  |  @#19DFDE:  |  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]  |  @#19DFDE:  |  [[mtr_letsplay:mita-shiro_station|Mita-Shiro]]\\ //towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]]//  |
+|  @#DCDCDC:  **Preceding Station**  |  @#DCDCDC:  **[[mtr_community:ludwigtails|LudwigTails]]**  |||  @#DCDCDC:  **Following station**  |
+|  //Terminus//  |  @#89AC76:  |  [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]]  |  @#89AC76:  |  [[mtr_letsplay:snowberry_hill_station|Snowberry Hill]]\\ //towards [[mtr_letsplay:choi_fung_station|Choi Fung]]//  |
+|  @#DCDCDC:  **Preceding Station**  |  @#DCDCDC:  **[[mtr_letsplay:sw_transit|SW Transit]]**  |||  @#DCDCDC:  **Following station**  |
+|  //Terminus//  |  @#036AFA:  |  [[mtr_letsplay:circulator_ip|Circulator IP]]  |  @#036AFA:  |  [[mtr_letsplay:mosinee_station|Mosinee Airdock]]\\ //Terminus//  |
 
 </WRAP>
 
-**Lake City Station** (//Chinese: 湖城站//) is a terminal station of 5 lines, including [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]], [[mtr_letsplay:overground|Overground]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]], and\\ [[mtr_letsplay:circulator_ip|Circulator IP]]. It is frequently used for intros and outros in Jonathan's videos.
+**Lake City Station** (//Chinese: 湖城站//) is a terminal station of 5 lines, including [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]], [[mtr_letsplay:overground|Overground]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]], and\\ [[mtr_letsplay:circulator_ip|Circulator IP]]. It is frequently used for intros and outros in Jonathan's videos.\\ The station also features one of the 6 [[mtr_letsplay:warp|Warp Centres]] on the [[mtr_letsplay:start|Let's Play Server]].
 
 The station is split into 2 parts, the "[[mtr_letsplay:wilds_railway|Wilds Railway]] side" which contains the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] platform and "[[mtr_letsplay:qingli_railways|Qingli Railways]] side" which contains the  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] and [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] due to the existing WR side not allowing for expansions. 
 
-Unless specified, the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]/[[mtr_letsplay:overground|Overground]] Lake City station will be referred as "WR Side", and the underground [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]/[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] Lake City station will be referred as "QR Side". 
+Unless specified, the elevated [[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]]/[[mtr_letsplay:overground|Overground]] Lake City station will be referred as "WR Side", and the underground [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]/[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] Lake City station will be referred as "QLR Side". 
 
 ===== History =====
 
   * **8 August, 2022**: WR side Station starts construction. [[mtr_community:staff:navi_lx9702|Navi]] (Wilds Railway) is responsible for this work. The elevated station is said to be "Ma On Shan Line style". A few advertisements boards are posted on Platform 1 and are removed later.
-  * **Unknown August, 2022**: QR side Station starts construction. [[mtr_community:superidolabc|Superidolabc]] is responsible for this work at the moment which is still the [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]]. In view of his expulsion the station is then managed by Tea, and the [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]] is replaced by [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]].
-  * **Unknown November, 2022**: [[mtr_community:ludwigtails|LudwigTails]] asked for permission for his first line to be terminated there and is agreed, therefore the [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] platforms are built underneath [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] platforms in QR side Station.
+  * **Unknown August, 2022**: QLR side Station starts construction. [[mtr_community:superidolabc|Superidolabc]] is responsible for this work at the moment which is still the [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]]. In view of his expulsion the station is then managed by Tea, and the [[mtr_letsplay:ldr_land_side_line|LDR Land Side Line]] is replaced by [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]].
+  * **Unknown November, 2022**: [[mtr_community:ludwigtails|LudwigTails]] asked for permission for his first line to be terminated there and is agreed, therefore the [[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] platforms are built underneath [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] platforms in QLR side Station.
   * **4 December, 2022**: The [[mtr_letsplay:circulator_ip|Circulator IP]], the first "Airplane" line in the server, connects Lake City Station with an separated airdock next to the RV [[mtr_letsplay:mpl_85|MPL 85]].
 
 ===== Layout =====
-TODO
+{{ :mtr_letsplay:lake_city_map.png?450 |Station layout map}}
+
+As specified above, Lake City station is split into two independent sections with no paid interchange in between: The WR side comprises a large overground station building with two elevated north-south oriented platforms (1 and 2) in the east of the station area. Platforms 1 and 2 allow for cross-platform interchange between the [[mtr_letsplay:wr_sw_plains_line|SW Plains Line]] and the [[mtr_letsplay:overground|Overground]]. The QLR side is mostly underground and features the east-west platforms 3-6. Additionally, there is an airdock for the [[mtr_letsplay:circulator_ip|Circulator IP]] in the west of the station.
+
+//WR station layout map comes here//
+
+//QLR station layout map comes here//
+
+=== WR side ===
+| **P** | Platform <color #ef7300>1</color> | <- <color #ef7300>▮</color>[[mtr_letsplay:overground|Overground]] towards [[mtr_letsplay:cheung_ming_station|Cheung Ming]] //([[mtr_letsplay:ichthus_station|Ichthus]])// |
+| ::: |  Island platform, doors will open on the right  ||
+| ::: | Platform <color #0fbfe4>2</color> | <color #0fbfe4>▮</color>[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] towards [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] //([[mtr_letsplay:shek_tan_island_station|Shek Tan Island]])// -> |
+| **C** | Street level | Concourse, Exits A & B, Customer Service Centre, Restaurant ([[mtr_letsplay:botond_burgers|Botond Burgers]]) |
