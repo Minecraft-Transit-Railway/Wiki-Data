@@ -83,7 +83,37 @@ As specified above, Lake City station is split into two independent sections wit
 //QLR station layout map comes here//
 
 === WR side ===
+
 | **P** | Platform <color #ef7300>1</color> | <- <color #ef7300>▮</color>[[mtr_letsplay:overground|Overground]] towards [[mtr_letsplay:cheung_ming_station|Cheung Ming]] //([[mtr_letsplay:ichthus_station|Ichthus]])// |
 | ::: |  Island platform, doors will open on the right  ||
 | ::: | Platform <color #0fbfe4>2</color> | <color #0fbfe4>▮</color>[[mtr_letsplay:wr_sw_plains_line|WR SW Plains Line]] towards [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] //([[mtr_letsplay:shek_tan_island_station|Shek Tan Island]])// -> |
-| **C** | Street level | Concourse, Exits A & B, Customer Service Centre, Restaurant ([[mtr_letsplay:botond_burgers|Botond Burgers]]) |
+| **C** | Street level | Concourse, Exits A & B\\ Customer Service Centre, Tickets, Restaurant ([[mtr_letsplay:botond_burgers|Botond Burgers]])\\ Access to QLR side and Platform <color #036afa>P</color> ([[mtr_letsplay:circulator_ip|Circulator IP]]) |
+
+=== QLR side ===
+
+| **G** | Ground level | Exits A2 & C, Access to WR side and Platform <color #036afa>P</color> ([[mtr_letsplay:circulator_ip|Circulator IP]]) |
+| **B1** | Concourse | Customer Service Centre, Tickets |
+| **B2** | Platform <color #19dfde>3</color> | <color #19dfde>▮</color>[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]] //([[mtr_letsplay:mita-shiro_station|Mita-Shiro]])// -> |
+| ::: |  Island platform, doors will open on the right  ||
+| ::: | Platform <color #19dfde>4</color> | <- <color #19dfde>▮</color>[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] terminating trains, alighting only |
+| **B3** | Platform <color #89ac76>6</color> | <color #89ac76>▮</color>[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] terminating trains, alighting only -> |
+| ::: |  Island platform, doors will open on the right  ||
+| ::: | Platform <color #89ac76>5</color> | <- <color #89ac76>▮</color>[[mtr_letsplay:cin_gyun_line|Cin Gyun Line]] towards [[mtr_letsplay:choi_fung_station|Choi Fung]] //([[mtr_letsplay:snowberry_hill_station|Snowberry Hill]])// |
+
+//pictures here//
+
+==== Track layout ====
+=== WR side ===
+WIP
+=== QLR side ===
+WIP
+
+===== Entrances and exits =====
+
+Lake City station area covers the entirety of the namesake [[https://minecraft.wiki/w/Village|city]]. Entrances to the railway facilities can be found on the station layout map [[mtr_letsplay:lake_city_station#Layout|above]].
+==== WR side ====
+  * (♿) **A** (湖城 Lake City Seestadt): Station Road, Lake City, QLR side via Entrance C (Wu Lai Lane), Airdock/Platform <color #036afa>P</color> (Wu Hong Close)
+  * (♿) **B** (石狩平原 Ishikari Plains Isikari-Ebenen): Nearby jungle, QLR side via Entrance A2
+==== QLR side ====
+  * **A2** (石狩平原 Ishikari Plains): Nearby jungle, WR side via Entrance B
+  * ♿**C** (湖澧里 Wu Lai Lane): Wu Lai Lane, Lake City, WR side via Entrance A (Station Road), Airdock/Platform <color #036afa>P</color> (Wu Hong Close)
