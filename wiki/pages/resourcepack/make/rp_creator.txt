@@ -271,6 +271,8 @@ Custom door animations are not supported, and users must select a door animation
 | R179 | R179 |
 | R211 | R211 |
 
+However, users can still create custom door animations using Rendering Time, rather than the built-in animations.
+
 === Model Part List ===
 
 <WRAP right>
