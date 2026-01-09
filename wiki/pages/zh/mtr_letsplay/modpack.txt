@@ -7,7 +7,6 @@
 您需要拥有 Minecraft 国际版正版账号才可以加入服务器。离线（“盗版”）登录不受支持，因此无法进入服务器。
 
 <tabbox HMCL>
-
 请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
 
 <code ->
@@ -17,7 +16,7 @@ https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads
 如果无法下载，可以尝试这个链接：（提取码dEqH）
 
 <code ->
-https://www.123684.com/s/9ve9jv-upd4H
+https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qMHNA?e=p5DI3S
 -官方与历史版本-LetsPlay-Packwiz-master.zip
 </code>
 
@@ -27,6 +26,7 @@ https://www.123684.com/s/9ve9jv-upd4H
   - 点击左下方的 “安装整合包”，选择 “导入本地整合包文件”，将刚刚压缩的 zip 拖进去，点击 “安装”。
   - 注：建议开游戏之前关一关其他程序。如果想自己调整最低内存分配的话，建议至少给 6GB，但是请注意不是越多越好，最好留出来至少 4GB 的余量。您可能得有一台安装了至少 16GB 内存的计算机才能玩得顺畅。
   - 返回 HMCL 主界面，点击右下方的 “启动游戏”。然后您将看到这么个窗口：
+
 
 <tabbox PCL2>
 
