@@ -58,9 +58,9 @@
 ^  History  |^
 | **Opened** | First open:\\ 20 August, 2022\\ //(Coast City - Makki Memorial Village)//\\ 7 September, 2022\\ //(Spawn - Coast City)//\\ 24 June, 2023 \\ //(Special shuttle://\\ //Kwong Chow, Sai Mo Island)//\\ 13 April, 2024\\ //(Sha Tsui station)//\\ 29 August, 2024\\ //(Spawn - Puda Xi (W. Laputa))//\\ 10 August, 2025\\ //(See Tsuen station)//\\ 1 January, 2026\\ //(Makki Memorial Village - Tsim Pei Tsui)//\\ Merge:\\ 5 May, 2024 \\ //(Spawn - Forest Peaks)//\\ 29 August, 2024 \\ //(Forest Peaks - Makki Memorial Village)//\\ //(Puda Xi (W. Laputa) - Ostania))// |
 ^  Technical  |^
-| **Line Length** | TBC |
+| **Line Length** | ~16.2 km((Not including Sightseeing Line Phase 3, 4 and Bond Line sections))|
 | **Number of**\\ **Tracks** | Double Track |
-| **Operating**\\ **Speed** | Average: TBC \\ Maximum: 105 km/h (29.2 m/s)((Maximum speed is 120 km/h on Sightseeing Line Phase 3, 4 and Bond Line sections))|
+| **Operating**\\ **Speed** | Average: 40 km/h (11.1 m/s) \\ Maximum: 105 km/h (29.2 m/s)((Maximum speed is 120 km/h on Sightseeing Line Phase 3, 4 and Bond Line sections))|
 | **Signalling**\\ **System** | Minecraft Transit Railway Signals 4003((4003 refers to being the fourth update on signals and speed limits since 4.0.0 betas and pre-releases))\\ //([[wp>European_Train_Control_System#Level_3|ETCS Level 3]] / [[wp>automatic_train_control#ATACS|D-ATACS]] equivalent)//|
 ^  Route Map  |^
 |  {{/line2.png?420}}  ||
