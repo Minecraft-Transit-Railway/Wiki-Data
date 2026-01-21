@@ -3,9 +3,9 @@
 
 |  @#BB492B:  **Terralith Rapid Transit 11-000 Series**  ||
 | {{ :mtr_letsplay:2023-05-14_18.50.32.png?350 }}  ||
-|  11-000 in custody at Cinderace Depot.  ||
+|  11-000 in custody at Cinderace Depot(current:Delphox Depot).  ||
 |  @#BB492B:  **Overview**  ||
-| **In service**  | 2022–present  |
+| **In service**  | 2022–2026(schedule)  |
 | **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]] (Prototype)|
 | ::: | Metro Ace |
 | ::: | Bombardier (11-500) |
@@ -14,8 +14,8 @@
 | **Capacity**  | 800 (254 seated)  |
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
-| **Depot(s)** | [[Cinderace_Depot]] |
-| **Line(s) served** | (S11)[[Cinderace Line]] |
+| **Depot(s)** | [[Delphox_Depot]] |
+| **Line(s) served** | (S11)[[Delphox Line]] |
 |  @#BB492B:  **Specifications**  ||
 | **Car body construction** |Aluminium|
 | **Train length** |137.0m|
@@ -119,15 +119,18 @@ Only this vehicle is nicknamed "LIMACE-UB".
 
 Only this group is based on [[wp>BVG_Class_H|BVG Class H]].
 
-====11-600, -700, -800====
+====Replacement with the introduction of the 11-600====
+//see [[Terralith Rapid Transit 11-600 Series]]//
 
-Additional equipment due to extension work.
+Due to the large-scale renovation of the Delphox Line (which included a change in the line name from Cinderace Line to Delphox Line), the existing rolling stock would no longer be usable due to incompatible equipment, and so the introduction of new rolling stock was planned.
 
-After this vehicle, the nickname will simply be "LIMACE".
+The renovation began on December 22, 2025, with the line name being changed to Delphox Line. However, since development of the rolling stock was not yet complete, the 11-000 and 11-500 cars temporarily retained their Cinderace livery, but the logo was changed to Delphox.
 
-Currently in production and not in operation.
+Development then progressed in late January of the following year, and the new cars will be introduced within at least a few weeks of this.
 
-The specifications of this vehicle will be significantly changed.
+After the renovation, the existing rolling stock will no longer be able to run through narrow tunnels, so all 11-000 and 11-500 cars will be retired once the introduction is complete.
+
+Some of the retired cars will be preserved.
 
 =====Related page=====
 * [[BTA Lime Line]] - A similar vehicle is running.
