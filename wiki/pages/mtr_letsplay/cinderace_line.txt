@@ -1,9 +1,9 @@
-====== Cinderace Line ======
+====== Delphox Line ======
 
 <WRAP 400px right>
 
-|  @#BB492B:  **(S11)Cinderace Line**  ||
-| {{ :mtr_letsplay:line_s11.png?200 |}} ||
+|  @#BB492B:  **(S11)Delphox Line**  ||
+|  ||
 |  @#BB492B:  **Overview**  ||
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
 | **Area Served** | Hana-koshi, Llanmara |
@@ -23,27 +23,29 @@
 | **Track gauge** | 1435mm |
 | **Drive system** |Iron wheel type linear induction motor (aka: Linear Metro)|
 | **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
-| **Maximum speed** | 90 km/h |
+| **Maximum speed** | 95 km/h |
 | **Top operational speed** | 80 km/h |
 |  @#BB492B:  **Construction Specifications**  ||
 | **Distance between nodes** | 3 blocks |
 | **Ballast block** | Stone |
 | **Sound barrier/support block** | Orange yellow block |
-| **Tunnel Model** | 5m Shield Tunnnel |
+| **Tunnel Model** | 5m Shield Tunnel → 4m Shield Tunnel(Plan) |
 
 |  @#b0c4de:  **Cinderace Line**  ||
-| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 閃焰王牌綫 |
-| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 闪焰王牌线 |
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 妖火紅狐綫 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 妖火红狐线 |
 |  @#F9FFBB: **Transcriptions**  ||
 |  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
-| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Shǎn yàn wáng pái xiàn|
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | yāo huǒ hóng hú xiàn|
 |  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
-| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Shǎn yàn wáng pái xiàn|
-| [[wp>Jyutping|JyutPing]] | sim2 yim6 wong4 paai4/paai2 sin3 |
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | yíu fó hùhng wùh xiàn|
+| [[wp>Jyutping|JyutPing]] | jiu2 fo2 hung4 wu4 sin3 |
 
+|{{ :mtr_letsplay:line_s11.png?200 |}}|
+|This logo was in use until December 22, 2025. \\ It is currently used as the logo for Cinderace Light Rail.|
 </WRAP>
 
-The Cinderace Line ([[wp>Chinese_language|Chinese]]: 閃焰王牌綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network and runs in a figure 6 through the northwestern area of Spawn and through [[Llanmara]].
+The Delphox Line ([[wp>Chinese_language|Chinese]]: 妖火紅狐綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network and runs in a figure 6 through the northwestern area of Spawn and through [[Llanmara]].
 
 ===== History =====
 Planning for this line began in August 2022, and a sign announcing its existence was installed at Extreme Hot Springs Station.
@@ -71,6 +73,8 @@ The final section, between Black Lea and Llanmara stations, will open in late Au
 From the end of 2023, due to server lag due to an increase in the number of players, a stuck area occurred near the Depot, so the service frequency was temporarily reduced to 6 minutes from December 30, 2023. 
 April 4, 2024. By moving the Depot to the south and changing the alignment to make it difficult for passengers to get stuck, the service frequency was returned to 2 and a half minutes. The site of the old Depot will be used as the [[Jigglypuff Line]] Depot.
 
+As part of a major renovation project on December 22, 2025, the line name will be changed to Delphox Line, and the name of Cindeace Depot station will be changed to Delphox City. This is the first time that a line name has been changed during operation, including SMTR lines other than LPS.
+
 ===== Rolling Stocks =====
 See [[mtr_letsplay:11-000_series|Terralith Rapid Transit 11-000 Series]].
 ===== Operations =====
@@ -83,8 +87,8 @@ As mentioned above, it used to be 6 minutes, but after relocating the Depot, it 
 
 ^  Average Train Intervals (in mins)  |^
 |  @#BB492B:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S11)Cinderace Line**  |
-| \\ All hours \\ <html>&nbsp</html>|  \\ 2.5 |
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S11)Delphox Line**  |
+| \\ All hours \\ <html>&nbsp</html>|  \\ 3 |
 
 </WRAP>
 
@@ -92,7 +96,7 @@ As mentioned above, it used to be 6 minutes, but after relocating the Depot, it 
 The only unopened Twynn station is currently under construction.
 In parallel with this, Llanmara station is being renovated.
 
-Refreshment work is currently underway to gradually update the old style tunnels to obj model tunnels.
+A large-scale renewal project is currently underway on this line, and in the future, plans are in place to install successor rolling stock such as the 11-000, as well as change the tunnel model.
 
 ===== Stations =====
 
