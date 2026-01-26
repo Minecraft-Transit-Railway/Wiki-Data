@@ -254,6 +254,7 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  **Lung Tau**  |  04:20  |  04:23  |  04:20  |  03:37  |  03:40  |  02:51  |
 |  **Tsim Pei Tsui**  |  04:18  |  --  |  04:18  |  03:35  |  --  |  02:49  |
 |  @#FFDA33:  |||||||
+|  @#7191FF:  |||||||
 |  **W. Laputa**  |  04:52  ||  04:14  |  03:48  |  03:22  |  03:10  |
 |  **Bayside Exchange**  |  04:51  ||  04:15  |  03:46  |  03:20  |  03:11  |
 |  **Lake Vecuro**  |  04:48  ||  04:18  |  03:44  |  03:18  |  03:14  |
@@ -267,6 +268,8 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  **Avondale**  |  04:37  ||  04:30  |  03:32  |  03:06  |  03:25  |
 |  **Springpond**  |  04:35  ||  04:31  |  03:31  |  03:05  |  03:26  |
 |  **Twilight Spruce**  |  04:34  ||  04:32  |  03:29  |  03:03  |  03:28  |
+|  @#7191FF:  |||||||
+|  @#FFDA33:  |||||||
 |  **Westalis**  |  04:32  ||  04:34  |  03:28  |  03:02  |  03:30  |
 |  **Tridoron**  |  04:31  ||  04:36  |  03:26  |  03:00  |  03:32  |
 |  **Ostania**  |  04:29  ||  --  |  03:24  |  02:58  |  --  |
