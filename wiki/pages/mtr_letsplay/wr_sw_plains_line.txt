@@ -12,13 +12,13 @@
 | ::: | Ishikari and Lake City |
 | **Termini** | [[mtr_letsplay:chong_shu_chau_station|Chong Shu Chau]] |
 | ::: | [[mtr_letsplay:lake_city_station|Lake City]] |
-| **Connecting Lines** |@#89ac76: [[/cin_gyun_line|Cin Gyun Line]] |
-| ::: |@#036afa: [[/circulator_ip|Circulator IP]] |
-| ::: |@#19dfde: [[/lakeside_mystic_line|Lakeside Mystic Line]] |
-| ::: |@#6b4799: [[/elizabeth_line|Elizabeth Line]] |
-| ::: |@#EB7AE9: [[wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
-| ::: |@#0fbfe5: [[/wr_bus_service|WR Bus Service]] |
-| ::: |@#a5c83b: [[/cyanex_sumeru_line|CyanEX Sumeru Line]] |
+| **Connecting Lines** | @#89ac76: [[/cin_gyun_line|Cin Gyun Line]] |
+| ::: | @#036afa: [[/circulator_ip|Circulator IP]] |
+| ::: | @#19dfde: [[/lakeside_mystic_line|Lakeside Mystic Line]] |
+| ::: | @#6b4799: [[/elizabeth_line|Elizabeth Line]] |
+| ::: | @#EB7AE9: [[wlt_line_1|Line 1 (Meyan Line) Phase 1]] |
+| ::: | @#0fbfe5: [[/wr_bus_service|WR Bus Service]] |
+| ::: | @#a5c83b: [[/cyanex_sumeru_line|CyanEX Sumeru Line]] |
 | **Line Color** | @#0FBFE4: #0FBFE4 //Champion Blue// |
 | **Stations** | 6 |
 ^  **Service**  |^
@@ -72,7 +72,8 @@ The trains received an upgrade of quality of the texture from May, which is orig
 
 |  @#0FBFE4:**%%Formations of WR SW Plains Line SP1900 EMUs%%**  ||||||
 | **%%<-Towards Lake City%%**  |||  **%%Towards Chong Shu Chau->%%** |||
-| **Formation number** | DTSO / KuHa | MSO / MoHa | MSO / MoHa | DTSO / KuHa | **Formation number** |
+|  Set A  |||  Set B  |||
+| **Formation number** | DTSO / KuHa | BMSO / MoHa | MSO / MoHa | BDTSO / KuHa | **Formation number** |
 | @#0FBFE4: Z1 | @#0FBFE4: 1003 | @#0FBFE4: 1005 | @#0FBFE4: 1006 | @#0FBFE4: 1004 | @#0FBFE4: Z1 |
 | @#E4340F: Z2 | @#E4340F: 1011 | @#E4340F: 1021 | @#E4340F: 1022 | @#E4340F: 1012 | @#E4340F: Z2 |
 | @#0FE47B: Z3 | @#0FE47B: 1013 | @#0FE47B: 1025 | @#0FE47B: 1026 | @#0FE47B: 1014 | @#0FE47B: Z3 |
@@ -87,9 +88,9 @@ The trains received an upgrade of quality of the texture from May, which is orig
 
 ===== Future Plan =====
 
-Navi has proposed one plan to Spawn if  builds more platforms in Spawn. However as the plan is not currently decided so the plan might not be succeed.
+Navi has proposed one plan to Spawn if jon builds more platforms in Spawn. However, as the plan has not yet been decided, the plan might not succeed.
 
-No other further plans are set for SW Plains Line as Navi has to focus on other lines and GCSE.
+No other further plans are set for the SW Plains Line.
 
 ===== Route map and stations =====
 
