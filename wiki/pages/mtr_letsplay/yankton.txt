@@ -77,7 +77,7 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 **Metro/Airport Express Phase**
 | **UG** | Yankton AEL Terminal Building | Exit Q |
 | **G** | Exits, Yankton AEL Terminal Building | Exit B-G |
-| **U1** | In-town Check-in / Shops | Exit E-G, R-T Passageway |
+| **U1** | In-town Check-in / Shops | Exit E-G, R-T Passageway | Airport Express Platforms Passageway, In-town Check-in Counters |
 | **U2/UC** | **Concourse / Airport Express Platforms** | VIP Lonuge, Entrance/Exit barriers, Exit A, Exits J-N Passageway |
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
