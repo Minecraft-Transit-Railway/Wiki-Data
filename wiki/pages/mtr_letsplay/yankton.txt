@@ -24,8 +24,8 @@
 | ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
 | **Owners** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | **Region** | [[mtr_letsplay:yankton_region|Yankton]] |
-| **Platforms** | 15+4 (14 island, 1 dock, 4 dock APM) |
-| **Tracks** | 19 |
+| **Platforms** | 17+4 (14 island, 3 dock, 4 dock APM) |
+| **Tracks** | 21 |
 | **Coordinates** | (3022, 5091) |
 ^   **Translations**   ^^
 | **Traditional** | 楊克頓 |
@@ -37,7 +37,7 @@
 | **Type** | Underground |
 | **Phases** | 2 |
 | **Floors** | - |
-| **Platform Floors** | 5 |
+| **Platform Floors** | 8 |
 | **Step-Free Accessible** | Yes |
 | **Station Code** | YAN |
 | **Opened** | 27 September, 2022 |
@@ -63,6 +63,11 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
   * **24 March, 2023**: Metro Phase Concourse (L2) is officially opened, Exit A is connected to HSR Phase, passengers can directly walk to HSR platforms. Exits B-E and Exit J is opened. There is a VIP Longue in Main Concourse, and a Resting Room in Wanton Line platforms, providing comfortable rest for busy Yankton passengers. 
   * **7 June, 2023**: South Continental Line extends its service and terminates in Yankton, uses platforms 9-10.
   * **10 August, 2023**: HSR Southern Cross starts its service in platform 15, connected to Danielston Memorial Station. Northern Heights Line trains moves its service in platform 14.
+  * **7 June, 2025**: Exits K1 and K2 is added, and directly connected to Yankton HSR Terminal as its first pair of exits in the HSR phase.
+  * **11 June, 2025**: Exit numbers Exits B, E, F has been rearranged. B1 and B2 has been rearranged to E2 and E1 respectively, while original exits E1 and E2 are rearranged to exits F1 and F2. Meanwhile, exits B1, B2, G1, G2, G3, K3, K4, K5, L1, L2 have been constructed.
+  * **15 June, 2025**: Exits R1, R2, T, M are constrcuted. Meanwhile, Airport Express phase is start constructing.
+  * **4 November, 2025**: Exit N is opened, connecting to Yanktei Underground Street. More shops are opened.
+  * **24 January, 2026**: Airport Express is start testing its operation publicly, and Yankton Airport Express phase has been opened. Exit P is opened, while Exit Q (upper level) is still closed.
 
 ===== Layout =====
 
