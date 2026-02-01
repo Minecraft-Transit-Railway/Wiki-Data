@@ -77,8 +77,14 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 **Metro/Airport Express Phase**
 | **UG** | Yankton AEL Terminal Building | Exit Q |
 | **G** | Exits, Yankton AEL Terminal Building | Exit B-G |
-| **U1** | In-town Check-in / Shops | Exit E-G, R-T Passageway | Airport Express Platforms Passageway, In-town Check-in Counters |
+| **U1** | Shops | Exit E-G, R-T Passageway |
+| ::: | In-town Check-in | Airport Express Platforms Passageway, In-town Check-in Counters |
 | **U2/UC** | **Concourse / Airport Express Platforms** | VIP Lonuge, Entrance/Exit barriers, Exit A, Exits J-N Passageway |
+| ::: | @#00888A: **[[mtr_letsplay:airport_express|Airport Express]] <color #ffffff>Platforms</color>** ||
+| ::: |   Side Platform   ||
+| ::: | Platform **A2** | [[mtr_letsplay:airport_express|Airport Express]] to Northern Snowland via Spawn -> |
+| ::: | Platform **A1** | <- [[mtr_letsplay:airport_express|Airport Express]] Terminated Platform (Future to Nam Kok Airport) |
+| ::: |   Side Platform   ||
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
 | ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
@@ -114,16 +120,16 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 | ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
 | ::: | Passing Track -> ||
 | ::: | <- Passing Track ||
-| ::: | Platform **11** | Reserved Platform -> |
+| ::: | Platform **11** | KTT North Terminating Platform (future KTT to Gapyeong) -> |
 | ::: |   Island Platform   ||
-| ::: | Platform **12** | Reserved Platform -> |
-| ::: | Platform **13** | <- Reserved Platform |
+| ::: | Platform **12** | [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to Yunlong -> |
+| ::: | Platform **13** | <- KTT to Kallos LRT Depot |
 | ::: |   Island Platform   ||
 | ::: | Platform **14** | <- [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] to [[mtr_letsplay:llanmara_saint_ann_station|Llanmara Saint Ann's]] |
-| ::: | Platform **15** | <- [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to [[mtr_letsplay:rikkashi_station|Rikkashi]] |
+| ::: | Platform **15** | <- [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] to Yongchun |
 | ::: |   Side Platform   ||
-| **L2** | **Exit Concourse** | Exit Gates, HSR Transfer Lobby |
-| **L3** | **Entrance Lobby** | Exit A Passageway, Entrance gates |
+| **L2** | **Exit Concourse** | Exit Lobby, HSR Transfer Lobby |
+| **L3** | **Entrance Lobby** | Exit A-H, P-T Passageway, Entrance Lobby |
 | **L4** | @#E7792B: **[[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] Platforms** ||
 | ::: |   Side Platform   ||
 | ::: | Platform **L3** | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] to [[mtr_letsplay:yanktei_station|Yanktei]] -> |
