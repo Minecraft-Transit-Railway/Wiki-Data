@@ -21,7 +21,7 @@
 | ::: | [[red_line|红线(B)]] |
 | ::: | [[furret_line|大立线(B)]] |
 | ::: | [[mtr_letsplay:wlt_line_2|光北观线(A)]] |
-| ::: | [[sightseeing_local_line|观光缓行线(C)]] |
+| ::: | [[观光缓行线|观光缓行线(C)]] |
 | ::: | [[sightseeing_express|观光快速(C)]] |
 | ::: | [[south_continental_line|地铁南大陆线(C)]] |
 | ::: | [[azalea-cl|Azalea-CL(C)]] |
@@ -75,8 +75,8 @@
 | ::: |  11  |  [[mtr_letsplay:wlt_line_2|2号(光北观)线]]  |  森林峰  |
 | ::: |  12  |   |   |
 |  @#37620E:\\ \\ \\ \\ \\ <color white>**<html><font size="4">B</font></html>**</color>  |  1  |  重生大循环  |  顺时针经绿色  |
-| ::: |  2  |  机场快线  |  北雪地枢纽  |
-| ::: |  3  | ::: |  南雪地枢纽(南)  |
+| ::: |  2  |  机场快线  |  北雪地  |
+| ::: |  3  | ::: |  杨克顿  |
 | ::: |  4  |  重生大循环  |  逆时针经红叶  |
 | ::: |  5  |  苏铁线  |  神里村  |
 | ::: |  6  |   |   |
