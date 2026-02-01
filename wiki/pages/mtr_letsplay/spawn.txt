@@ -60,8 +60,8 @@ Due to the complex' large and sometimes confusing layout, there are maps in some
 | ::: | ::: | ::: |  Spawn High Speed Rail Terminal 2  |
 | ::: |  H2  | ::: |  Terminating only  |
 |  @#37620E:\\ \\ \\ \\ \\ <color white>**<html><font size="4">B</font></html>**</color>  |  1  |  Spawn Grand Circular  |  Clockwise via Green  |
-| ::: |  2  |  [WIP]Airport Express  |  Northern Snowland Hub  |
-| ::: |  3  |  [WIP]Airport Express  |  Southern Snowland Hub (S)  |
+| ::: |  2  |  Airport Express  |  Northern Snowland  |
+| ::: |  3  |  Airport Express  |  Yankton (Future: Nam Kok Airport / Albury-Des-Moines)  |
 | ::: |  4  |  Spawn Grand Circular  |  Anticlockwise via Red Leaves  |
 | ::: |  5  |  Scottetsu Line  |  Navia  |
 | ::: |  6  |  Hokusei Main Line (Not opened)  |  Navia  |
