@@ -123,6 +123,7 @@ There is also a ground station building in the Airport Express phase with car la
 | **M** | Passageway | Exit J-N Passageway, Exit N |
 | **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] Platforms** ||
 | ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
+| ::: | @#E7792B: **[[mtr_letsplay:ktt|KTT]] Platforms** ||
 | ::: | Passing Track -> ||
 | ::: | <- Passing Track ||
 | ::: | Platform **11** | KTT North Terminating Platform (future KTT to Gapyeong) -> |
