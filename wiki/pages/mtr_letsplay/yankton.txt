@@ -86,7 +86,7 @@ There is also a ground station building in the Airport Express phase with car la
 | ::: | In-town Check-in | Airport Express Platforms Passageway, In-town Check-in Counters |
 | **U2/UC** | **Concourse / Airport Express Platforms** | VIP Lonuge, Entrance/Exit barriers, Exit A, Exits J-N Passageway |
 | ::: | @#00888A: **[[mtr_letsplay:airport_express|Airport Express]] <color #ffffff>Platforms</color>** ||
-| ::: |   Side Platform   ||
+| ::: |   Side Platform, VIP Lounge, Main Concourse   ||
 | ::: | Platform **A2** | [[mtr_letsplay:airport_express|Airport Express]] to Northern Snowland via Spawn -> |
 | ::: | Platform **A1** | <- [[mtr_letsplay:airport_express|Airport Express]] Terminated Platform (Future to Nam Kok Airport) |
 | ::: |   Side Platform   ||
