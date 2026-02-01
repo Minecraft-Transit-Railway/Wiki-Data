@@ -41,26 +41,26 @@
 == Services Operated ==
 
 楊克頓鐵路 Yankton Railway
-\\\ 雪伊綫 Snowie Line --- 伊甸至加平 Eden to Gapyeong (New Street)
-雪伊支綫 Snowie Branch Line --- 利頓至加平 Leeton to Gapyeong (New Street)
-雪央綫 Snowtral Line --- 安臨至香江流 On Lum to Hong Kong River
-彎頓綫 Wanton Line --- 岸囗經楹山至雅斯華比塱 On Hau via Jacaranda Hill to Ashwaubenon
-船頓綫 Shipton Line --- 笨頓至發拖池 (現暫停直通運行至岸口) Benton to Vostochny (Currently stopping straight-through services via Wanton Line to On Hau)
-洛聖綫 Los Sants Line --- 翠葉琢至橋咀洲 Verdant Leaf Mound to Sharp Island
-白川綫 Shirakawa Line --- 白雪針葉林至白川 Snowy Taiga to Shirakawa (現暫停直通運行至加平) Benton to Vostochny (Currently stopping straight-through services via Snowie Line to Gapyeong)
+\\ 雪伊綫 Snowie Line --- 伊甸至加平 Eden to Gapyeong (New Street)
+\\ 雪伊支綫 Snowie Branch Line --- 利頓至加平 Leeton to Gapyeong (New Street)
+\\ 雪央綫 Snowtral Line --- 安臨至香江流 On Lum to Hong Kong River
+\\ 彎頓綫 Wanton Line --- 岸囗經楹山至雅斯華比塱 On Hau via Jacaranda Hill to Ashwaubenon
+\\ 船頓綫 Shipton Line --- 笨頓至發拖池 (現暫停直通運行至岸口) Benton to Vostochny (Currently stopping straight-through services via Wanton Line to On Hau)
+\\ 洛聖綫 Los Sants Line --- 翠葉琢至橋咀洲 Verdant Leaf Mound to Sharp Island
+\\ 白川綫 Shirakawa Line --- 白雪針葉林至白川 Snowy Taiga to Shirakawa (現暫停直通運行至加平) Benton to Vostochny (Currently stopping straight-through services via Snowie Line to Gapyeong)
 
 強壯綜合交通 Stronger Complex Transit Network
-4/4P/4S 巴士 Bus --- 重生區巴士總站至西暮島 Spawn Bus Terminus to Sai Mo Island
-5/5M 巴士 Bus --- 重生區巴士總站至雪漠村 (西) Spawn Bus Terminus to Icesert Estate (West)
-55K 二民島輕軌 Divillage Island LRT ---
+\\ 4/4P/4S 巴士 Bus --- 重生區巴士總站至西暮島 Spawn Bus Terminus to Sai Mo Island
+\\ 5/5M 巴士 Bus --- 重生區巴士總站至雪漠村 (西) Spawn Bus Terminus to Icesert Estate (West)
+\\ 55K 二民島輕軌 Divillage Island LRT
 
 合作鐵路 (不直屬本公司) Railway in Cooperation (Not direct-linked to this railway company)
-船綫 Ship Line --- 乾船塢至雅浦德梅因Drydock to Albury-Des Moines
-船支綫 Ship Line Branch --- 未公佈 Unknown
-船綫快速 Ship Line Express --- 未公佈 Unknown
-機場快綫 Airport Express --- 北雪地至楊克頓 North Snowland to Yankton
-KTT --- 櫻洲至加平 Cheri Island to Gapyeong (New Street)
-KTT (E)  --- 楊克頓至麗灣輕鐵車廠 Yankton to Kallos LRT Depot
+\\ 船綫 Ship Line --- 乾船塢至雅浦德梅因Drydock to Albury-Des Moines
+\\ 船支綫 Ship Line Branch --- 未公佈 Unknown
+\\ 船綫快速 Ship Line Express --- 未公佈 Unknown
+\\ 機場快綫 Airport Express --- 北雪地至楊克頓 North Snowland to Yankton
+\\ KTT --- 櫻洲至加平 Cheri Island to Gapyeong (New Street)
+\\ KTT (E)  --- 楊克頓至麗灣輕鐵車廠 Yankton to Kallos LRT Depot
 
 [[/Category:Let's_Play|Category:Let's Play]]
 
