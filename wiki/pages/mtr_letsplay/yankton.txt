@@ -20,8 +20,10 @@
 | ::: | [[mtr_letsplay:wanton_line|Wanton Line]] |
 | ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] |
 | ::: | [[mtr_letsplay:south_continental_line|South Continental Line]] |
+| ::: | [[mtr_letsplay:airport_express|Airport Express]] |
 | ::: | [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] |
 | ::: | [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] |
+| ::: | [[mtr_letsplay:ktt|KTT]] |
 | ::: | [[mtr_letsplay:hsr_yankton_apm|HSR Yankton APM]] |
 | **Owners** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | **Region** | [[mtr_letsplay:yankton_region|Yankton]] |
@@ -36,9 +38,9 @@
 | @#ffffff:  | White |
 ^   **Station**   ^^
 | **Type** | Underground |
-| **Phases** | 2 |
-| **Floors** | - |
-| **Platform Floors** | 8 |
+| **Phases** | 3 |
+| **Floors** | 9 |
+| **Platform Floors** | 6 |
 | **Step-Free Accessible** | Yes |
 | **Station Code** | YAN |
 | **Opened** | 27 September, 2022 |
@@ -47,11 +49,13 @@
 
 </WRAP>
 
-**Yankton Station** (//Chinese: 楊克頓站//) is a station of 7 lines, including [[mtr_letsplay:snowie_line|Snowie Line]], [[mtr_letsplay:snowtral_line|Snowtral Line]], [[mtr_letsplay:wanton_line|Wanton Line]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:south_continental_line|South Continental Line]], [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]], [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]]. It is one of the most busiest and nostalgic station in the Let's Play Server.
+**Yankton Station** (//Chinese: 楊克頓站//) is a station of 9 lines, including [[mtr_letsplay:snowie_line|Snowie Line]], [[mtr_letsplay:snowtral_line|Snowtral Line]], [[mtr_letsplay:wanton_line|Wanton Line]], [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]], [[mtr_letsplay:south_continental_line|South Continental Line]], [[mtr_letsplay:airport_express|Airport Express]], [[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]], [[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]], [[mtr_letsplay:ktt|KTT]]. It is one of the most busiest and nostalgic station in the Let's Play Server.
 
-The station is split into 2 phases, the Main Metro Phase and the High Speed Railway Phase. There is APM Service and passageway connected both phases.
+The station is split into 3 phases, the Main Metro Phase, Airport Express Phase and the High Speed Railway Phase. There is APM Service and passageway connected both phases and Yanktei Station.
 
 There is a station art, "Yankton Circuit", in the middle of the main concourse where it shows the line colours passing through Yankton Station. An interesting fact is that although HSR platforms are in underground, it is designed to be the look of ground platforms.
+
+There is also a ground station building in the Airport Express phase with car lanes for commerical uses. 
 
 ===== History =====
 
@@ -64,6 +68,7 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
   * **24 March, 2023**: Metro Phase Concourse (L2) is officially opened, Exit A is connected to HSR Phase, passengers can directly walk to HSR platforms. Exits B-E and Exit J is opened. There is a VIP Longue in Main Concourse, and a Resting Room in Wanton Line platforms, providing comfortable rest for busy Yankton passengers. 
   * **7 June, 2023**: South Continental Line extends its service and terminates in Yankton, uses platforms 9-10.
   * **10 August, 2023**: HSR Southern Cross starts its service in platform 15, connected to Danielston Memorial Station. Northern Heights Line trains moves its service in platform 14.
+  * **22 May, 2025**: HSR Southern Cross Line is extended to Yunlong. KTT North is established and connecting Kallos LRT Depot. Notice that KTT North section and KTT main section is not connected as Nam Kok Area is still under discussion.
   * **7 June, 2025**: Exits K1 and K2 is added, and directly connected to Yankton HSR Terminal as its first pair of exits in the HSR phase.
   * **11 June, 2025**: Exit numbers Exits B, E, F has been rearranged. B1 and B2 has been rearranged to E2 and E1 respectively, while original exits E1 and E2 are rearranged to exits F1 and F2. Meanwhile, exits B1, B2, G1, G2, G3, K3, K4, K5, L1, L2 have been constructed.
   * **15 June, 2025**: Exits R1, R2, T, M are constrcuted. Meanwhile, Airport Express phase is start constructing.
