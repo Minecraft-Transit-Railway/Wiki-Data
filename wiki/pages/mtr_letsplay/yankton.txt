@@ -74,10 +74,11 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 
 <WRAP left>
 
-**Metro Phase**
-| **G** | Exits | Exit B-E |
-| **U1** | Shops | Exit B-E Passageway |
-| **U2/UC** | **Concourse** | VIP Lonuge, Gates, Exit A, Exit J Passageway |
+**Metro/Airport Express Phase**
+| **UG** | Yankton AEL Terminal Building | Exit Q |
+| **G** | Exits, Yankton AEL Terminal Building | Exit B-G |
+| **U1** | In-town Check-in / Shops | Exit E-G, R-T Passageway |
+| **U2/UC** | **Concourse / Airport Express Platforms** | VIP Lonuge, Entrance/Exit barriers, Exit A, Exits J-N Passageway |
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
 | ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
@@ -107,8 +108,8 @@ There is a station art, "Yankton Circuit", in the middle of the main concourse w
 | ::: | Platform **10** | <- [[mtr_letsplay:south_continental_line|South Continental Line]] Terminated Platform |
 
 **HSR Phase**
-| **G** | Exits | Exit J |
-| **M** | Passageway | Exit J Passageway|
+| **G** | Exits | Exit J-M |
+| **M** | Passageway | Exit J-N Passageway, Exit N |
 | **L1** | @#E7792B: **[[mtr_letsplay:hsr_northern_heights_line|HSR Northern Heights Line]] Platforms** ||
 | ::: | @#E7792B: **[[mtr_letsplay:hsr_southern_cross_line|HSR Southern Cross Line]] Platforms** ||
 | ::: | Passing Track -> ||
