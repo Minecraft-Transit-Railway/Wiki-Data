@@ -92,9 +92,9 @@ There is also a ground station building in the Airport Express phase with car la
 | ::: |   Side Platform   ||
 | **U3** | @#FF98F2: **[[mtr_letsplay:snowtral_line|Snowtral Line]] Platforms** ||
 | ::: | @#375E14: **[[mtr_letsplay:snowie_line|Snowie Line]] <color #ffffff>Platforms</color>** ||
-| ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:suzumenda_station|Suzumenda]] -> |
+| ::: | Platform **1** | [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:on_lum_station|On Lum]] -> |
 | ::: |   Island Platform   ||
-| ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to [[mtr_letsplay:divillage_island_station|Divillage Island]] |
+| ::: | Platform **2** | <- [[mtr_letsplay:snowtral_line|Snowtral Line]] to Hong Kong River |
 | ::: | Platform **3** | [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:eden_station|Eden]] -> |
 | ::: |   Island Platform   ||
 | ::: | Platform **4** | <- [[mtr_letsplay:snowie_line|Snowie Line]] to [[mtr_letsplay:gapyeong|Gapyeong (New Street)]] |
