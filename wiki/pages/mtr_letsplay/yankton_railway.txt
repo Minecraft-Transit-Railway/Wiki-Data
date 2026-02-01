@@ -12,11 +12,13 @@
 | **Transit Type**  | [[wp>heavy_rail|Heavy Rail]]  |
 | ::: | [[wp>light_rail|LRT/APM]]  |
 | ::: | [[wp>Bus_rapid_transit|BRT]]  |
-| **Number of lines**  | Heavy Rail: 5  |
-| ::: | BRT: 1  |
-| **Number of stations**  | Heavy Rail: 23  |
+| **Number of lines**  | Heavy Rail: 6  |
+| ::: | Railway with cooperation: 5  |
+| ::: | BRT: 5  |
+| ::: | LRT/APM: 2  |
+| **Number of stations**  | Heavy Rail: 40  |
 | ::: | Bus transit: 14  |
-| **Daily ridership**  | 7002  |
+| **Daily ridership**  | 12680  |
 | **Owner (s)** | [[mtr_community:builders:strongerlock|Stronger Lock]] |
 | **Real-life / fictional basis** | [[wp>mtr|Mass Transit Railway]] |
 | **Corperate colour scheme** |  @#0F84DE: **#0F84DE** **//Blue//**  |
@@ -27,6 +29,10 @@
 | ::: | Los Cham  |
 | ::: | Jacaranda  |
 | ::: | Spawn  |
+| ::: | Icesert Estate  |
+| ::: | Nam Kok  |
+| ::: | Yunlong  |
+| ::: | Gapyeong  |
 
 </WRAP>
 
