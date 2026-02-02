@@ -81,7 +81,7 @@ There is also a ground station building in the Airport Express phase with car la
 
 **Metro/Airport Express Phase**
 | **UG** | Yankton AEL Terminal Building | Exit Q |
-| **G** | Exits, Yankton AEL Terminal Building | Exit B-G |
+| **G** | Exits, Yankton AEL Terminal Building | Exit B-G, Exit P, R-T |
 | **U1** | Shops | Exit E-G, R-T Passageway |
 | ::: | In-town Check-in | Airport Express Platforms Passageway, In-town Check-in Counters |
 | **U2/UC** | **Concourse / Airport Express Platforms** | VIP Lonuge, Entrance/Exit barriers, Exit A, Exits J-N Passageway |
