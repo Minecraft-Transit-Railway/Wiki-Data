@@ -7,17 +7,17 @@
 您需要拥有 Minecraft 国际版正版账号才可以加入服务器。离线（“盗版”）登录不受支持，因此无法进入服务器。
 
 <tabbox HMCL>
+
 请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
-如果无法下载，可以尝试这个链接：（提取码dEqH）
+如果无法下载，可以尝试这个链接（使用此链接无需进行下方第1步的重新压缩）：
 
 <code ->
-https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qMHNA?e=p5DI3S
--官方与历史版本-LetsPlay-Packwiz-master.zip
+https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e3194c4482bfe2fbd5b8ce1587
 </code>
 
   - **解压，选中压缩包里面的所有文件（而不是整个文件夹），再压缩成 zip。**
@@ -27,19 +27,18 @@ https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qM
   - 注：建议开游戏之前关一关其他程序。如果想自己调整最低内存分配的话，建议至少给 6GB，但是请注意不是越多越好，最好留出来至少 4GB 的余量。您可能得有一台安装了至少 16GB 内存的计算机才能玩得顺畅。
   - 返回 HMCL 主界面，点击右下方的 “启动游戏”。然后您将看到这么个窗口：
 
-
 <tabbox PCL2>
+
 请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
-如果无法下载，可以尝试这个链接：（提取码dEqH）
+如果无法下载，可以尝试这个链接（使用此链接无需进行下方第1步的重新压缩）：
 
 <code ->
-https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qMHNA?e=p5DI3S
--官方与历史版本-LetsPlay-Packwiz-master.zip
+https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e3194c4482bfe2fbd5b8ce1587
 </code>
 
   - **解压，选中压缩包里面的所有文件（而不是整个文件夹），再压缩成 zip。**
@@ -48,7 +47,6 @@ https://1drv.ms/f/c/959219da68d47a00/Eovu-Le5Y9JFtEgGSX10AwcBuAc7051FoGz_K9jf-qM
   - 等待导入完成。
   - 注：建议开游戏之前关一关其他程序。如果想自己调整内存分配的话，建议至少给 6GB，但是请注意不是越多越好，最好留出来至少 4GB 的余量。您可能得有一台安装了至少 16GB 内存的计算机才能玩得顺畅。
   - 返回 PCL2 主界面，点击 “版本选择” 并选择 MTR-LetsPlay，点击 “启动游戏”。然后您将看到这么个窗口：
-
 
 <tabbox PrismLauncher/MultiMC>
 
@@ -101,7 +99,6 @@ Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原�
 提取码 dEqH ，请先看“资源说明与进服指南.pdf”，再选择一个整合包下载安装。
 
 也可以加入 LPS 服务器非官方交流群 QQ:751632107 获取帮助。
-
 
 ===== 加入服务器 =====
 
