@@ -5,7 +5,7 @@
 | {{ :mtr_letsplay:2023-05-14_18.50.32.png?350 }}  ||
 |  11-000 in custody at Cinderace Depot(current:Delphox Depot).  ||
 |  @#BB492B:  **Overview**  ||
-| **In service**  | 2022–2026(schedule)  |
+| **In service**  | 11-000:2022–2026(schedule)\\ 11-500:2023–2026/02/05  |
 | **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]] (Prototype)|
 | ::: | Metro Ace |
 | ::: | Bombardier (11-500) |
@@ -42,7 +42,7 @@
 
 </WRAP>
 
-The **Terralith Rapid Transit 11-000 series** is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[Cinderace Line]].
+The **Terralith Rapid Transit 11-000 series** is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[delphox_line]].
 
 =====Overview=====
 Has the nickname "LIMACE-PT".
@@ -70,15 +70,14 @@ The main difference between the prototype and the mass-produced model is the col
 The CInderace Line has the longest round-trip time on the SMTR and is the most difficult to come across as there is only one set of prototypes.
 
 Only this vehicle is manufactured by Kawasaki Railcar.
+
+Regular service is scheduled to end in early February 2026 with the introduction of the 11-600 (see below).
+
 ====11-000====
 {{ :mtr_letsplay:2022-12-19_19.06.23.png?300|}}
 First manufactured group. VVVF sounds like a Toei 12-000 or MBTA 1800s.
 
-　
-
-　
-
-　
+Regular service ended on February 5, 2026, with the introduction of the 11-600 (see below).
 
 ====11-100====
 {{ :mtr_letsplay:2023-02-05_05.51.44.png?300|}}
@@ -90,6 +89,8 @@ The interior of the car has not changed much since the BTA era, and the 11-000 g
 
 Since the transfer source is 11-000 base, the electrical equipment is the same as 11-000.
 
+In June 2025, it was incorporated into 11-000.
+
 ====11-200====
 {{ :mtr_letsplay:2023-05-24_21.54.57.png?300|}}
 Additional equipment due to extension work.
@@ -100,6 +101,7 @@ VVVF sounds like Namboku Line 9000 series and Skytrain Mark2.
 
 It is said to be suitable for manned operation training, and in rare cases manned operation may be performed.
 
+In June 2025, it was incorporated into 11-000.
 
 ====11-300====
 {{ :mtr_letsplay:2023-05-24_21.51.34.png?300|}}
@@ -112,12 +114,16 @@ In addition, the window of the door is large, making it easy to see the scenery 
 
 VVVF emits a characteristic screeching sound.
 
+In June 2025, it was incorporated into 11-000.
+
 ====11-500====
 Additional equipment due to extension work.
 
 Only this vehicle is nicknamed "LIMACE-UB".
 
 Only this group is based on [[wp>BVG_Class_H|BVG Class H]].
+
+Regular service ended on February 5, 2026, with the introduction of the 11-600 (see below).
 
 ====Replacement with the introduction of the 11-600====
 //see [[Terralith Rapid Transit 11-600 Series]]//
@@ -126,9 +132,9 @@ Due to the large-scale renovation of the Delphox Line (which included a change i
 
 The renovation began on December 22, 2025, with the line name being changed to Delphox Line. However, since development of the rolling stock was not yet complete, the 11-000 and 11-500 cars temporarily retained their Cinderace livery, but the logo was changed to Delphox.
 
-Development then progressed in late January of the following year, and the new cars will be introduced within at least a few weeks of this.
+Development will then proceed in late January of the following year, with commercial operation beginning on January 30, 2026, replacing the existing rolling stock over the course of several days.
 
-After the renovation, the existing rolling stock will no longer be able to run through narrow tunnels, so all 11-000 and 11-500 cars will be retired once the introduction is complete.
+After the renovations, the existing rolling stock will no longer be able to operate in the narrow tunnels, so all 11-000 and 11-500 series will be retired once their introduction is complete in early February 2026.
 
 Some of the retired cars will be preserved.
 
