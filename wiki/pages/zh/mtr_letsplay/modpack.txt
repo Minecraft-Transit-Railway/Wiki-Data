@@ -8,13 +8,23 @@
 
 <tabbox HMCL>
 
-请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
+请下载下面的整合包((
+国内用户可能需要 VPN 才能下载
+))：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
-如果无法下载，可以尝试这个链接（使用此链接无需进行下方第1步的重新压缩）：
+**如果没有VPN，可以尝试使用下方的代理链接（gh-proxy）：**
+
+<code ->
+https://gh-proxy.org/https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
+</code>
+
+如果仍然无法下载，可以使用这个链接下载静态文件：((
+若使用此链接，则无需进行下方第1步的重新压缩，而且可以直接在启动器内选择“从互联网下载整合包”填入此链接
+))
 
 <code ->
 https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e3194c4482bfe2fbd5b8ce1587
@@ -29,13 +39,23 @@ https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e319
 
 <tabbox PCL2>
 
-请下载下面的整合包（国内用户可能需要 VPN 才能下载）：
+请下载下面的整合包((
+国内用户可能需要 VPN 才能下载
+))：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
 
-如果无法下载，可以尝试这个链接（使用此链接无需进行下方第1步的重新压缩）：
+**如果没有VPN，可以尝试使用下方的代理链接（gh-proxy）：**
+
+<code ->
+https://gh-proxy.org/https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
+</code>
+
+如果仍然无法下载，可以使用这个链接下载静态文件：((
+若使用此链接，则无需进行下方第1步的重新压缩
+))
 
 <code ->
 https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e3194c4482bfe2fbd5b8ce1587
@@ -50,15 +70,13 @@ https://files.zohopublic.com.cn/public/workdrive-public/download/lycmydedac0e319
 
 <tabbox PrismLauncher/MultiMC>
 
-以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接：
+以下说明涉及将一个链接复制并粘贴到您的启动器中。您可以在这里复制该链接((
+国内用户可能需要 VPN 才能下载
+))：
 
 <code ->
 https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip
 </code>
-
-((
-国内用户需通过VPN下载
-))
 
   * 点击左上角的 **添加实例** 按钮。
   * 在左侧点击 **Import from ZIP** (从 ZIP 导入)，然后将这个链接粘贴到右侧的文本框里，然后点击 OK。
@@ -99,7 +117,6 @@ Minecraft Transit Railway Let's Play 支持团队的政策不再支持通过原�
 提取码 dEqH ，请先看“资源说明与进服指南.pdf”，再选择一个整合包下载安装。
 
 也可以加入 LPS 服务器非官方交流群 QQ:751632107 获取帮助。
-
 
 ===== 加入服务器 =====
 
