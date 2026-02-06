@@ -5,7 +5,7 @@
 | {{ :mtr_letsplay:2023-05-14_18.50.32.png?350 }}  ||
 |  11-000 in custody at Cinderace Depot(current:Delphox Depot).  ||
 |  @#BB492B:  **Overview**  ||
-| **In service**  | 11-000:2022–2026(schedule)\\ 11-500:2023–2026/02/05  |
+| **In service**  | 11-000:2022–2026/02/06\\ 11-500:2023–2026/02/05  |
 | **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]] (Prototype)|
 | ::: | Metro Ace |
 | ::: | Bombardier (11-500) |
