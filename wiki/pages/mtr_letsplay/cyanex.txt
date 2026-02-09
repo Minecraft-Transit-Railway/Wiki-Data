@@ -4,7 +4,7 @@
 
 <WRAP right>
 
-^  <html><font size = "4">CyanEX Rapid Transit</font></html>\\ <html><font size = "4">蓝星捷运</font></html>  |^
+^  CyanEX Rapid Transit\\ 蓝星捷运  |^
 | @#7090FF: ||
 |  {{ :mtr_letsplay:cyanex_logo.png?200 }}  ||
 ^  Operation  |^
@@ -13,6 +13,7 @@
 </WRAP>
 
 ===== Services in LetsPlay =====
+
 
   * **Sightseeing Line System**
     * K1: (Express) T.U.Martissu -> Ostania
@@ -29,6 +30,8 @@
     * 30: Scarlet Mansion -> Grand Bazaar
     * 35: Niloufar -> Nahida (Nahida Branch)
     * 36: Scarlet Mansion -> SW Plains (Flora Temple Branch)
+
+{{ :mtr_letsplay:cx_sel_map_wide.png |}}
 
 ===== Members =====
 
