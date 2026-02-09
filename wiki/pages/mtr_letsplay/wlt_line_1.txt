@@ -13,7 +13,7 @@
 | **Termini** | [[/mesa_station|Mesa]] / [[/mei_foo_wan_station|Mei Foo Wan]]\\ [[/yanjiang_mineshaft_station|Yanjiang Mineshaft]] |
 | **Connecting**\\ **Lines** | @#008000:<color white>Harbour Line</color> |
 | ::: | @#94d1d1:[[/wlt_line_3|Line 3 (Cyan Gray Line)]] (WIP) |
-| ::: | @#A02800:<color #ffffff>[[/cinderace_line|Cinderace Line]] </color> |
+| ::: | @#A02800:<color #ffffff>[[delphox_line|Cinderace Line]] </color> |
 | ::: | @#FFA79E:[[/jigglypuff_line|Jigglypuff Line]]  |
 | ::: | @#055214:<color white>Resort Ferries</color> |
 | ::: | @#D3A80A:<color white>[[/lilac_light_rail|Lilac Light Rail]] (WIP)</color> |
@@ -177,7 +177,7 @@ Most trains are serving between Mesa or Mei Foo Wan and Yanjiang Mineshaft, usua
 |  Early Morning\\ \\ (5 am - 9 am)  |  \\ 3  |  \\ 6  ||
 |  Day Time\\ \\ (9 am - 9 pm)  |  \\ 2  |  \\ 4  ||
 |  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.3  |  \\ 2.7  ||
-|  \\ Other Sessions\\ <html>&nbsp;</html>  |  \\ 2 - 7  |  \\ 3 - 9  |  \\ 2 - 10  |
+|  .\\ Other Sessions\\ .  |  \\ 2 - 7  |  \\ 3 - 9  |  \\ 2 - 10  |
 
 </WRAP>
 
@@ -229,7 +229,7 @@ Pronounce as [[wp>NATO_phonetic_alphabet|NATO Alphabet]]
 Not finished construction and not open
 ))  |  <color #808080>//%%紫竹%%//</color>  |  <color #808080>//CCK//</color>  |  |  |  [[the_biomes_at_x_-4500|The Biomes at X -4500]]  |
 |    | ::: |  Ying Mo  |  %%櫻暮%%((Station is WIP and available for interchange))  |  YIM  |  @#0077FF:<color white>CFR</color>  |  13 February, 2025((Interchange only))  | ::: |
-| ::: | ::: | ::: | ::: | ::: |  @#A02800:  <color #ffffff>[[/cinderace_line|Cinderace Line]] (via Ying Chuk)</color>  | ::: | ::: |
+| ::: | ::: | ::: | ::: | ::: |  @#A02800:  <color #ffffff>[[delphox_line|Cinderace Line]] (via Ying Chuk)</color>  | ::: | ::: |
 | ::: | ::: | ::: | ::: | ::: |  @#FFA79E: [[/jigglypuff_line|Jigglypuff Line]] (via Ying Chuk)  | ::: | ::: |
 |  @#eb7ae9: <color #ffffff>**Line 1 (Meyan Line) Phase 1 - Northern Transverse Link**</color>  ||||||||
 |  @#202020:  |  @#DE5594:  |  [[/mei_foo_wan_station|Mei Foo Wan]]  |  %%美麩灣%%  |  MFW  |    |  23 November, 2024  |  [[/resort_area|Resort Area]]  |
