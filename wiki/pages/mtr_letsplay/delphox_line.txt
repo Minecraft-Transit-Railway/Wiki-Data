@@ -23,8 +23,10 @@
 | **Track gauge** | 1435mm |
 | **Drive system** |Iron wheel type linear induction motor (aka: Linear Metro)|
 | **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
-| **Maximum speed** | 95 km/h |
+| **Maximum speed** | 80 km/h |
 | **Top operational speed** | 80 km/h |
+| **Section Type** | CBTC |
+|**Safety equipment**| JO-ATC((based on ATC. Speed ​​control on this line is in 20km increments.)), ATO (GoA2)|
 |  @#BB492B:  **Construction Specifications**  ||
 | **Distance between nodes** | 3 blocks |
 | **Ballast block** | Stone |
