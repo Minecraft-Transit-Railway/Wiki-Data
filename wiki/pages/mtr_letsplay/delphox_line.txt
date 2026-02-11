@@ -75,6 +75,8 @@ April 4, 2024. By moving the Depot to the south and changing the alignment to ma
 
 As part of a major renovation project on December 22, 2025, the line name will be changed to Delphox Line, and the name of Cindeace Depot station will be changed to Delphox City. This is the first time that a line name has been changed during operation, including SMTR lines other than LPS.
 
+On February 6, 2026, unmanned operation will end with the retirement of 11-000 and 11-500. Operation will be unified to one-man operation by 11-600 and its crew, Delphox.
+
 ===== Rolling Stocks =====
 See [[mtr_letsplay:11-000_series|Terralith Rapid Transit 11-000 Series]].
 ===== Operations =====
