@@ -1,5 +1,5 @@
 ====== Hylkemare Station ======
-**Hylkemare** is a overground railway terminal with 9 platforms, serving Moszyan Railways' overground service system. It was built to look like the dutch **Leeuwarden** station, but with two extra terminus platforms. The station later started serving the Lilac Light Rail, via an external tram and bus station called **Hylkemare Station**.
+**Hylkemare** is a overground railway terminal with 9 platforms, serving Moszyan Railways' overground service system. The station later started serving the Lilac Light Rail, via an external tram and bus station called **Hylkemare Station**. In 2026, the east side of the station was taken into use, starting with lines to **Spawn**, **Yunlong** and **Yankton**.
 
 <WRAP right>
 |  @#B0B0BE:  ||
@@ -7,17 +7,23 @@
 |  @#B0B0BE:  ||
 |  {{mtr_letsplay:hylkemareplatforms.png?400}}  ||
 |  @#B0B0BE:**District**  |  @#B0B0BE:**Station Code**  |
-|  Hylkemare  |  HYM((HYL is the station code for Higashi-Yunlong))\\ Hy((dutch notation))  |
+|  Hylkemare  |  HYM((official notation))\\ Hy((dutch notation))  |
 |  @#B0B0BE:**Opening Date**  ||
 |  January 29th, 2024  ||
 |  @#B0B0BE:**Owned by**  |  @#B0B0BE:**Served by**  |
 |  Moszyan Transport  |  Moszyan Railways  |
+|  :::  |  Commonwealth Transport Group  |
 |  :::  |  Lilac Right Rail\\ (300/P300/305/633P/804)  |
 |  @#B0B0BE:**Platforms**  |  @#B0B0BE:**Tracks**  |
 |  9  |  10  |
 </WRAP>
 
 ===== Layout =====
-The main station has 9 platforms, 2 facing west and the remaining 7 facing east. As of right now, only //Sprinter// services depart west from the station, as the single track to **Hylkemare Wieringawijk** prevents the section from seeing more than one train every 7.5 minutes. Out of the 5 eastbound terminus platforms, it is planned to have at least two be used for //Intercity// services, but for the time being, visitors will see a number Moszyan Railways' rolling stock simply occupying the platforms with no scheduled departure.
+The main station has 9 platforms, 2 facing west and the remaining 7 facing east. //Fryske Line// services depart from the west side of the station, while the remaining services depart from the east-facing platforms. Originally, the //Fryske Line// was the only line to serve this station, until further developments in the east saw the opening of the //Anemone Line// and //Intercity// services to **Spawn** and **Yunlong**. A few weeks later, the //KTT// was also extended from **Kallos LRT Depot** to follow the //Intercity// down to **Hylkemare**.
 
 To the east of the main entrance is the tram and bus station, serving a municipal bus service based on the //Boskoop Buurtbus//, and a number of //Lilac Light Rail// services. Any trains that cannot turn around at the middle platform continue to the loop at **Hylkemare Oostbaai**.
+
+===== Trivia =====
+  * As of January 30th 2026, **Hylkemare** is available as a warp in the Donator's Lobby. The warp spawns you on the sidewalk between the front entrance and the light rail tracks, just in front of the zebra crossing.
+  * **Hylkemare** was built to look like the dutch **Leeuwarden** station, but a mistake by Szandor ended in it having two unintended extra terminus platforms.
+  * The name **Hylkemare** is a very simple derivative of the Frisian surname "Hylkema".
