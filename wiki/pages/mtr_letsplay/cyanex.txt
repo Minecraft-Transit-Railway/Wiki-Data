@@ -12,24 +12,28 @@
 
 </WRAP>
 
+===== Core Values =====
+
+**<fs large>高效、準點、優質、安全</fs>**\\ 
+**<fs large>Efficiency, Punctuality, Quality, then Safety</fs>**
+
 ===== Services in LetsPlay =====
 
 
   * **Sightseeing Line System**
-    * K1: (Express) T.U.Martissu -> Ostania
-    * K2: (Express) Al-Tighnari -> Ostania
-    * K3: (Express) Al-Tighnari -> Jonathan's Resort
+    * K1: North Cyclamen -> PEP 16
+    * <del>K2: Al-Tighnari -> PEP 16</del>
+    * K3: Al-Tighnari -> Jonathan's Resort
     * 40: Red Leaves -> Twilight Spruce
     * 41: Red Leaves -> Jonathan's Resort
-    * 51: Providence -> T.U.Martissu
+    * 51: Providence -> Cliffgate
 
   * **Sightseeing Local Line**
     * 10: Cyan Heights -> Scarlet Mansion
 
   * **Sumeru Line**
     * 30: Scarlet Mansion -> Grand Bazaar
-    * 35: Niloufar -> Nahida (Nahida Branch)
-    * 36: Scarlet Mansion -> SW Plains (Flora Temple Branch)
+    * 35: Niloufar -> Nahida
 
 {{ :mtr_letsplay:cx_sel_map_wide.png |}}
 
@@ -38,13 +42,14 @@
   * Zbx1425 (LetsPlay Staff)
   * Asnacinjar (LetsPlay Builder)
   * jonathanqwq (Not LetsPlay Member)
-  * Wxxhnini (Not LetsPlay Member)
 
 ===== History =====
 
-CyanEX was initially established in December 2021 at the [[https://xinghaicity.ldiorstudio.cn|XinghaiCity (StarRiverCity)]] community server, with its initial name being BluExp. It was renamed to CyanEX in March 2022 following Asnacinjar's join. Asnacinjar coined the current English name and designed the current logo.
+CyanEX was initially established in December 2021 at the [[https://xinghaicity.ldiorstudio.cn|XinghaiCity (StarRiverCity)]] community server, with its initial name being BluExp.
 
-CyanEX (under the older name "CyanEX Mobility") operated various urban and suburban railways services in XinghaiCity.
+It was renamed to CyanEX in March 2022 following Asnacinjar's join. Asnacinjar coined the current English name and designed the current logo.
+
+CyanEX (under the older name "CyanEX Mobility") used to operate various urban and suburban railways services in XinghaiCity.
 
   * [[https://www.xhcity.top/wiki/%E5%86%AC%E5%A5%A5%E7%8E%AF%E7%BA%BF|Winter Olympics Loop Line]]
   * Autumn Valley Line (with the [[https://www.xhcity.top/wiki/%E6%A9%99%E8%B0%B7%E7%BA%BF%E5%8D%97%E5%8C%97%E7%9B%B4%E9%80%9A%E5%BF%AB%E9%80%9F|North-South Through Express Service]])
@@ -54,8 +59,6 @@ CyanEX (under the older name "CyanEX Mobility") operated various urban and subur
   * [[https://www.xhcity.top/wiki/%E5%8C%97%E7%99%BD%E7%BA%BF|Hokukyo-Snowwhite Line]]
   * [[https://www.xhcity.top/wiki/%E5%8C%97%E5%AE%89%E7%BA%BF|Hokukyo-Anting Line]]
   * [[https://www.xhcity.top/wiki/14%E5%8F%B7%E7%BA%BF|Line 14]]
-
-The Winter Olympics Loop Line was once the longest operating line in Xinghai City.
 
 ===== Stations in LetsPlay =====
 
