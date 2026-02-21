@@ -70,7 +70,7 @@ For more information on the <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nb
 ===== 春川巴士 92 =====
 
 <color white/#2954D5>**<html>&nbsp春川巴士 92&nbsp</html>**</color> is rated 1/5 on the driving difficulty scale. The route features bus stops and railway interchange, and features driving on both "rural" and "city" roads.
-
+驾驶难度：简单（1/5）
 | **手动驾驶车辆数**  | 1 |
 | **如何前往车厂**  | 前往东丘陵站，步行前往车厂(-11647, 68, 12787)。 |
 | **限速表** |   |
