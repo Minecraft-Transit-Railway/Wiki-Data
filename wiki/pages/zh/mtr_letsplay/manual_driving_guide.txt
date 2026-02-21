@@ -57,7 +57,7 @@ For more information on <color black/#30ECF8>**<html>&nbspSLCBus Route 4S&nbsp</
 ===== Fryske Sprinter =====
 
 The <color white/#B0B0BE>**<html>&nbspFryske Sprinter&nbsp</html>**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping pattern variations, but the stopping pattern is not known to the player at the depot. Therefore, the player should be careful of speeding past any one station.
-驾驶难度：较难（4、5）
+驾驶难度：较难（4/5）
 | **手动驾驶车辆数**  | 2 |
 | **如何前往车厂**  | 前往鲸鱼湖站，沿着小路走即可到达。 |
 | **限速表** |   |
