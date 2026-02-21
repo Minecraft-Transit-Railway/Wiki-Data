@@ -1,0 +1,51 @@
+======Terralith Rapid Transit 12-000 Series======
+<WRAP 400px right>
+
+|  @#000:  **Terralith Rapid Transit 12-000 Series**  ||
+|   ||
+|   ||
+|  @#000:  **Overview**  ||
+| **In service**  | 2023–  |
+| **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]]|
+| **Number built**  | |
+| **Formation**  | 6 cars per trainset  |
+| **Capacity**  | 274  |
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Operator(s)** | [[ShimanoMTR|Shimano MTR]] |
+| **Depot(s)** | |
+| **Line(s) served** | (S12)[[Decidueye Line]]|
+|  @#000:  **Specifications**  ||
+| **Car body construction** | Steel |
+| **Train length** |54.0m|
+| **Car length** |9.0m|
+| **Width** |2.4 m|
+| **Height** |3.2 m|
+| **Doors** |1 pairs per side|
+| **Maximum speed** |60km/h|
+| **Weight** |9.6 t|
+| **Traction system** |Thyristor Phase Control|
+| **Traction motors** |2 × 90 kW DC compound motor|
+| **Power output** |720 kW|
+| **Acceleration** |4.0 km/(h⋅s)|
+| **Deceleration** |4.0 km/(h⋅s) (service)|
+| ::: | 8.5 km/(h⋅s) (emergency) |
+| **Electric system(s)** |Three-phase AC 600V/60Hz Thirdrail|
+| **Current collector(s)** |Collect Shoes|
+| **UIC classification** |1′Bo′+1′Bo′|
+| **Bogies** | |
+| **Braking system(s)** |Regenerative and electro-pneumatic|
+| **Safety system(s)** |JO-ATC, ATO(GoA 4)|
+| **Track gauge** |1,800 mm|
+
+</WRAP>
+
+ The Terralith Rapid Transit 12-000 series is an electric multiple unit (EMU) train type that was operated by the [[ShimanoMTR]](SMTR) on the [[Decidueye Line]].
+=====Overview=====
+This train was introduced when the Decidueye Line opened, and is based on the Kobe New Transit 8000 series, the world's first driverless train for commercial use.
+
+As with other lines named after Pokémon, only one train is operated by Shiny.
+
+It is an AGT-type light metro and is currently the SMTR's smallest train in terms of length and capacity.
+
+After the end of driverless operation on the [[Delphox Line]] (formerly the Cinderace Line), this is the only driverless train on the TRT. It is expected that driverless operation will continue into the future.
+
