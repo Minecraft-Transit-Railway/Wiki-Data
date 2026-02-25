@@ -174,6 +174,29 @@ see [[shimanolrt|Shimano LRT]]
 * Eidan/Tokyo Metro 05 Series
 
 =====Route specifications=====
+====Minimum curve radius on main line====
+Excludes sidings and turnouts.
+
+* Line S1, S2, S3: 160m
+
+* Line S4: 400m(If unavoidable, 200m.)
+
+* Line S8: 100m
+
+* Line S10: 300m?
+
+* Line S11: 80m
+
+* Line S12/S13: 25m
+
+* Line S14: 120m?
+
+* SLRT normal/solo size: 25m
+
+* SLRT small size: 15m
+
+* SLRT mini size: 12m
+
 ====Operating(design) maximum speed====
 * Lines S1, S2, S3: 120km/h(120km/h)
 
@@ -187,7 +210,7 @@ see [[shimanolrt|Shimano LRT]]
 
 * SLRT Other routes: 60km/h
 
-====Curve speed limit (reference)===
+====Curve speed limit (reference)====
 All units are radius. As of 4.0.3. SMTR only.
 
 * Under 80m: 20km/h
@@ -197,6 +220,8 @@ All units are radius. As of 4.0.3. SMTR only.
 * 185m-325m: 60km/h
 
 * 326m and above: 80km/h
+
+
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
