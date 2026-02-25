@@ -169,8 +169,34 @@ see [[shimanolrt|Shimano LRT]]
 see [[shimanolrt|Shimano LRT]]
 
 ===Other(Model number undetermined)===
- * 01A01
- * Eidan/Tokyo Metro 05 Series
+* 01A01
+
+* Eidan/Tokyo Metro 05 Series
+
+=====Route specifications=====
+====Operating(design) maximum speed====
+* Lines S1, S2, S3: 120km/h(120km/h)
+
+* Lines S4, S8, S11, S13, S14: 80km/h(80km/h)
+
+* Line S10: 120km/h(160km/h)
+
+* Line S12: 60km/h(70km/h)
+
+* SLRT AC01, 02, YM01, CD all routes: 80km/h
+
+* SLRT Other routes: 60km/h
+
+====Curve speed limit (reference)===
+All units are radius. As of 4.0.3. SMTR only.
+
+* Under 80m: 20km/h
+
+* 80m-185m: 40km/h
+
+* 185m-325m: 60km/h
+
+* 326m and above: 80km/h
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
