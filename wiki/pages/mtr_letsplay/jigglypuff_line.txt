@@ -12,7 +12,7 @@
 | **Line Number** | S13 |
 | **Number of stations** | 27((Excluding SLRT stations)) |
 | **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
-| **Colour on map** | Smoke Pink (#BB492B) |
+| **Colour on map** | Smoke Pink (#ffa79e) |
 |  @#ffa79e:  **Service & Operation**  ||
 | **Began passenger operation** | September 2023 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
