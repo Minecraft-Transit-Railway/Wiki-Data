@@ -3,7 +3,7 @@
 <WRAP 400px right>
 
 |  @#ffa79e:  **(S13)Jigglypuff Line**  ||
-| {{ :mtr_letsplay:line_s13.png?200 |}} ||
+|  ||
 |  @#ffa79e:  **Overview**  ||
 | **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
 | **Area Served** | N/A |
@@ -35,8 +35,11 @@
 |  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
 | [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | Pàng dīng xiàn|
 
-</WRAP>
 
+
+|{{ :mtr_letsplay:line_s13.png?200 |}}|
+|This icon was used until February 27, 2026.|
+</WRAP>
 The Jigglypuff Line ([[wp>Chinese_language|Chinese]]: 胖丁綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
 
 ====History====
