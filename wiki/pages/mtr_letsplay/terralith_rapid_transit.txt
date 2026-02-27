@@ -46,7 +46,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 * (S13)[[Jigglypuff Line]]
 
-* (S14)[[Dialga Line]]
+* (S14)[[Shimahana Line]]
 
 ====Under Construction & Planning====
 * (S4)[[Momoyama Line]]
@@ -174,55 +174,78 @@ see [[shimanolrt|Shimano LRT]]
 * Eidan/Tokyo Metro 05 Series
 
 =====Route specifications=====
+====Route numbers currently unassigned====
+Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned. Once a name is decided and concrete plans are put forward, it will be moved to the list above.
+  * Line S5
+  * Line S6
+  * Line S7
+  * Line S9
+  * Lines S16-S20
+====Numbers assigned by route names, etc., but with no current construction plans====
+Numbers that currently have names assigned for historical reasons but no route plans have been made.
+  * Line S15 - Toadette Line
+====Routes whose names have changed since opening====
+  * Line S11 - Cinderace Line → Delphox Line(December 15, 2025)
+  * Line S14 - Dialga Line → Shimahana Line(February 27, 2026)
+====Steepest design slope====
+This was set when vertical curves were introduced in the MTR3 era. However, as of 4.0.3 in MTR4, there is a bug that prevents the slope from being displayed, and this is only a guideline, so it may not always apply.
+|@#EFEEF0:Route|@#EFEEF0:Guide|
+|**Line S1, S2, S3, S8, S10**|35‰|
+|**Line S4, S11, S12**|66.7‰|
+|**Line S13, S14**|50‰|
+|**SLRT normal**|60‰|
+|**SLRT cog**|90~250‰|
 ====Minimum curve radius on main line====
 Excludes sidings and turnouts.
 
-* Line S1, S2, S3: 160m
-
-* Line S4: 400m(If unavoidable, 200m.)
-
-* Line S8: 100m
-
-* Line S10: 300m?
-
-* Line S11: 80m
-
-* Line S12/S13: 25m
-
-* Line S14: 120m?
-
-* SLRT normal/solo size: 25m
-
-* SLRT small size: 15m
-
-* SLRT mini size: 12m
+|@#EFEEF0:Route|@#EFEEF0:Radius|
+|**Lines S1, S2, S3**|160m|
+|**Line S4**|400m(If unavoidable, 200m.)|
+|**Line S8**|100m|
+|**Line S10**|300m?|
+|**Line S11**|80m|
+|**Lines S12, S13**|25m|
+|**Line S14**|120m?|
+|**SLRT normal/solo size**|25m|
+|**SLRT small size**|15m|
+|**SLRT mini size**|12m|
 
 ====Operating(design) maximum speed====
-* Lines S1, S2, S3: 120km/h(120km/h)
-
-* Lines S4, S8, S11, S13, S14: 80km/h(80km/h)
-
-* Line S10: 120km/h(160km/h)
-
-* Line S12: 60km/h(70km/h)
-
-* SLRT AC01, 02, YM01, CD all routes: 80km/h
-
-* SLRT Other routes: 60km/h
+Speed ​​limits other than those for curves, as described below
+|@#EFEEF0:Route|@#EFEEF0:Speed|
+|**Lines S1, S2, S3**|120km/h(120km/h)|
+|**Lines S4, S8, S11, S13, S14**|80km/h(80km/h)|
+|**Line S10**|120km/h(160km/h)|
+|**Line S12**|60km/h(70km/h)|
+|**SLRT AC01, 02, YM01, CD all routes**|80km/h|
+|**SLRT Other routes**|60km/h|
 
 ====Curve speed limit (reference)====
 All units are radius. As of 4.0.3. SMTR only.
+|@#EFEEF0:Radius|@#EFEEF0:Speed|
+|**Under 80m**|20km/h|
+|**80m-185m**|40km/h|
+|**185m-325m**|60km/h|
+|**326m and above**|80km/h|
 
-* Under 80m: 20km/h
-
-* 80m-185m: 40km/h
-
-* 185m-325m: 60km/h
-
-* 326m and above: 80km/h
-
-
-
+=====Train specifications=====
+SMTR is required to install emergency doors at the front of all carriages.
+Furthermore, from August 2024 onwards, gangways will, in principle, be required to be designed so that passengers can pass through from front to back.
+SLRT is not required to install emergency doors, but the above standards must be adhered to if it provides through service to SMTR (including only entering SMTR at one station).
+Currently, only Lines S4 and S11 do not allow intrusion into the driver's cab ((Instead, the hit box has been adjusted to make the wall of the driver's cab less visible.)) This may be expanded to other lines in the future.
+Due to concerns about schedule disruption, manual operation will not be implemented except during events.
+====Train length ====
+|@#EFEEF0:Route|@#EFEEF0:Length(car length×per cars)|
+|Lines S1, S2, S3, S10|200m(25m×8)|
+|Line S4|90m(15m×6)|
+|Line S8|120m(20m×6), 160m(20m×8)((Preparatory work. Currently not in commercial operation.))|
+|Line S11|135m(15m×9)|
+|Line S12|54m(9m×6)|
+|Line S13|60m(15m×4)|
+|Line S14|90m(15m×6), 60m(15m×4)|
+|SLRT Division A((AC01, KR01, SMTR Through service etc.))|15m(15m×1), 30m(15m×2), 42m(15m×2, 12m×1), 60m(15m×4), 72m(15m×4, 12m×1)|
+|SLRT Division B((MI01 etc. Commonly known as Combineno-style coupling.))|32m(12m×1, 10m×2), 51m(12m×2, 10m×2, 7m×1), 30m(12m×1, 9m×2), 49m(12m×2, 9m×2, 7m×1)|
+|SLRT Division C((CLR))|70m(12m×3, 10m×2, 7m×2), 51m(12m×2, 10m×2, 7m×1)|
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
 
