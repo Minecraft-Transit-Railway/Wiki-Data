@@ -175,7 +175,7 @@ see [[shimanolrt|Shimano LRT]]
 
 =====Route specifications=====
 ====Route numbers currently unassigned====
-Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned. Once a name is decided and concrete plans are put forward, it will be moved to the list above.
+Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned.((Not only LPS, but all SMTR projects allocate up to S20.)) Once a name is decided and concrete plans are put forward, it will be moved to the list above.
   * Line S5
   * Line S6
   * Line S7
@@ -246,6 +246,37 @@ Due to concerns about schedule disruption, manual operation will not be implemen
 |SLRT Division A((AC01, KR01, SMTR Through service etc.))|15m(15m×1), 30m(15m×2), 42m(15m×2, 12m×1), 60m(15m×4), 72m(15m×4, 12m×1)|
 |SLRT Division B((MI01 etc. Commonly known as Combineno-style coupling.))|32m(12m×1, 10m×2), 51m(12m×2, 10m×2, 7m×1), 30m(12m×1, 9m×2), 49m(12m×2, 9m×2, 7m×1)|
 |SLRT Division C((CLR))|70m(12m×3, 10m×2, 7m×2), 51m(12m×2, 10m×2, 7m×1)|
+=====Station Specifications=====
+In principle, the following equipment must be installed for SMTR.
+  * Platform Doors
+  * PID
+  * Station Name
+  * Exit/Interchange Signs
+  * Elevators ((Must be accessible to the exit)) ((Escape call button installed at the bottom))
+  * Escalators
+  * Stairs ((Must be accessible to the exit))
+  * Ticket Gates ((Ticket processors not permitted))
+  * Ticket machines installed inside and outside the ticket gates ((Ticket machines inside the ticket gates are for over-ride settlement))
+  * Station Announcement Equipment
+Each station has a station name and a station number. Stations not managed by TRT generally do not have station numbers, but they are assigned internally. Note that slashes are included, so you will need to exclude them when searching for routes on Discord.
+
+For SLRT, the rules are much more relaxed than above, but they must have at least PID, station name, ticket machine, and ticket processor. Conversely, ticket gates are not permitted.
+====Platform length====
+Pillars (if present) will be installed at 11m intervals.
+Some platforms may be longer or shorter than the lengths listed below. If they are shorter, the doors of some carriages may not open. (Example: Line S10 Spawn station - the platform could not be extended at the request of the station owner, so the doors of four out of eight carriages do not open.)
+
+The platform extension is determined by the number of pillars installed according to the following rules:
+|''Length=11*<Span>+6''|
+
+|@#EFEEF0:Route|@#EFEEF0:Length(Number of pillars installed)|
+|Lines S1, S2, S3, S10|204m(18 Span)|
+|Line S4|94m(8 Span)|
+|Line S8|160m(14 Span)|
+|Line S11|138m(12 Span)|
+|Line S12|61m(5 Span)|
+|Line S13|61m(5 Span)|
+|Line S14|94m(8 Span)|
+
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
 
