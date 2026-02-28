@@ -5,63 +5,57 @@
 ===== Reformation Types =====
 
 ^  Car Formation of CAF-Trains after reformation  |||||^
-|//<- To West Lake & Mita-Shiro//|||  //To Llanmara & Airport ->//|||
-|  V3xx(odd) - Z3xx(odd) + G3xx(odd) - F3xx (odd) + Z3xx(even) - V3xx(even)  ||||||
-|  //xx refers to any number from 01 to 46//  ||||||
+|//<- To Wu Chau//|||  //To Llanmara (Saint Devota) ->//|||
+|  V3xx(odd) - Z3xx(odd) + G3xx(odd) - F3xx (odd) + Z3xx(even) - V3xx(even)((Traction control using the original AEG //DASU// GTO VVVF))  ||||||
+|  //xx refers to any number from 01 to 34//  ||||||
+|  V3xx(odd) - Z3xx(odd) - H3xx(odd) + H3xx (even) - Z3xx(even) - V3xx(even)((Traction control refurbished to Siemens //SIBAC// IGBT VVVF))  ||||||
+|  //xx refers to any number from 51 to 62//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cyan Car\\ (Premium class / coach seats)  ^  Automatic Coupler  ^
 |  **V3xx**  |  **O**  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
 |  **Z3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
 |  **F3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 |  **G3xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
+|  **H3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |
 
-There are in broad 3 types of reformation, named **Type A**, **Type B** and **Type C**. Types A and B are further split into **Type A1**, **Type A2**, **Type A3**, **Type B1** and **Type B2**. 
+There are in broad 3 types of reformation, named **Type A**, **Type B** and **Type C**. Note that as all non-motor cars are cyan car, thus original TCL X6xx and X7xx cars won't be in any of the reformed trains and will be used to supply equipments. 
 
 ^  Original\\ Car Number  ^  Change(s)  ^  New\\ Car Number  ^
-^  Type A1  ||^
+^  Type A (6 sets)  ||^
 |  TCL V8xx  |  No Change  |  V3xx (odd)  |
 |  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
 |  AEL H2xx  |  No Change  |  G3xx (odd)  |
 |  AEL F2xx  |  Install automatic coupler  |  F3xx (odd)  |
 |  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL V6xx  |  No Change  |  V3xx (even)  |
-^  Type A2  ||^
-|  TCL V8xx  |  No Change  |  V3xx (odd)  |
-|  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
-|  AEL\\ E1xx  |  Rotate 180°\\ Uninstall driver's cabin  |  G3xx\\ (odd)  |
-|  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
-|  TCL W6xx  |  Install automatic coupler  |  Z3xx (even)  |
-|  TCL V6xx  |  No Change  |  V3xx (even)  |
-^  Type A3  ||^
-|  Similar to Type A1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
-^  Type B1  ||^
-|  AEL\\ K4xx  |  Install windows\\ Remove luggage racks, install lateral seats and poles  |  V3xx\\ (odd)  |
-|  \\ AEL J4xx  |  Change to TCL like configuration:\\ Change 3 windows to 3 doors forming doors 1, 3, 5 \\ Change coach seats to lateral seats and install poles  |  \\ Z3xx (odd)  |
+^  Type B (11 sets)  ||^
+|  AEL\\ K4xx  |  Install windows\\ Remove luggage racks, install lateral seats and poles((Equipment from original TCL X6xx or X7xx))  |  V3xx\\ (odd)  |
+|  \\ AEL J4xx  |  Change to TCL like configuration:\\ Change 3 windows to 3 doors forming doors 1, 3, 5 \\ Change coach seats to lateral seats and install poles((Equipment from original TCL X6xx or X7xx))  |  \\ Z3xx (odd)  |
 |  AEL\\ E1xx  |  Rotate 180°\\ Uninstall driver's cabin  |  G3xx\\ (odd)  |
 |  AEL F1xx  |  Install automatic coupler  |  F3xx (odd)  |
 |  TCL W7xx  |  Install automatic coupler  |  Z3xx (even)  |
 |  TCL Y7xx  |  Install driver's cabin  |  V3xx (even)  |
-^  Type B2  ||^
-|  Similar to Type B1, but the inverter is changed to Siemens //SIBAC// IGBT VVVF  |||
-^  Type C  ||^
-|  AEL\\ K4xx  |  Install windows\\ Remove luggage racks, install lateral seats and poles  |  V3xx\\ (odd)  |
-|  TCL W7xx  |  Install automatic coupler  |  Z3xx (odd)  |
-|  \\ TCL Y7xx  |  Change to AEL like configuration:\\ Change doors 1, 3, 5 to windows\\ Change lateral seats to coach seats and remove some poles  |  \\ G3xx (odd)  |
-|  AEL J4xx  |  No Change  |  F3xx (odd)  |
-|  TCL W7xx  |  Install automatic coupler  |  Z3xx (even)  |
-|  TCL\\ Y7xx  |  Rotate 180°\\ Install driver's cabin  |  V3xx (even)  |
+^  Type C (6 sets)  ||^
+|  TCL V8xx  |  No Change  |  V3xx (odd)  |
+|  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
+|  AEL G1xx  |  No Change  |  H3xx (odd)  |
+|  AEL G2xx  |  Rotate 180°  |  H3xx (even)  |
+|  TCL W6xx  |  No Change  |  Z3xx (even)  |
+|  TCL V6xx  |  No Change  |  V3xx (even)  |
+|  Traction control refurbished to Siemens //SIBAC// IGBT VVVF  |||
+
 
 ===== Timeline =====
 
 ^  Trainset\\ After  |^  Date Start Test Run  |^  Date Start Service  |^  Trainset\\ Before  ^  Reformation Type  ^
-|  1  |V301/V302| | | | |V604/V804\\ E103/K403|  A1  |
-|  2  |V303/V304| | | | |V604/V804\\ E103/K403|  B1  |
-|  3  |V305/V306| | | | |V611/V811\\ V612/V812\\ E111/K411|  C  |
-|  4  |V307/V308| | | | |V608/V808\\ E105/K405|  B1  |
-|  5  |V309/V310| | | | |V611/V811\\ V612/V812\\ E111/K411|  A1  |
-|  6  |V311/V312| | | | |V611/V811\\ V612/V812\\ E111/K411|  A2  |
+|  1  |V301/V302| | | | |V604/V804\\ E103/K403|  A  |
+|  2  |V303/V304| | | | |V604/V804\\ E103/K403|  B  |
+|  \\ 3  |\\ V305/V306| | | | |V611/V811\\ V612/V812\\ E111/K411|  \\ B  |
+|  4  |V307/V308| | | | |V608/V808\\ E105/K405|  B  |
+|  \\ 5  |\\ V309/V310| | | | |V611/V811\\ V612/V812\\ E111/K411|  \\ A  |
+|  6  |V311/V312| | | | | \\  | |
 |  7  |V313/V314| | | | | \\  | |
 |  8  |V315/V316| | | | | \\  | |
-|  9  |V317/V318| | | | |V608/V808\\ E105/K405|  A1  |
+|  9  |V317/V318| | | | |V608/V808\\ E105/K405|  A  |
 |  10  |V319/V320| | | | | \\  | |
 |  11  |V321/V322| | | | | \\  | |
 |  12  |V323/V324| | | | | \\  | |
@@ -70,9 +64,9 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 |  15  |V329/V330| | | | | \\  | |
 |  16  |V331/V332| | | | | \\  | |
 |  17  |V333/V334| | | | | \\  | |
-|  18  |V335/V336| | | | | \\  | |
-|  19  |V337/V338| | | | | \\  | |
-|  20  |V339/V340| | | | | \\  | |
-|  21  |V341/V342| | | | | \\  | |
-|  22  |V343/V344| | | | | \\  | |
-|  23  |V345/V346| | | | | \\  | |
+|  \\ 18  |\\ V351/V352| | | | |V611/V811\\ V612/V812\\ E111/K411|  \\ C  |
+|  19  |V353/V354| | | | | \\  |  C  |
+|  20  |V355/V356| | | | | \\  |  C  |
+|  21  |V357/V358| | | | | \\  |  C  |
+|  22  |V359/V360| | | | | \\  |  C  |
+|  23  |V361/V362| | | | | \\  |  C  |
