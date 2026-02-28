@@ -14,9 +14,9 @@
 | **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
 | **Colour on map** | Smoke Pink (#9c5e31) |
 |  @#9c5e31:  **Service & Operation**  ||
-| **Began passenger operation** | September 2023 |
+| **Began passenger operation** | November 2022 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
-| **Train length** | 4 vehicles per trainset |
+| **Train length** | 8 vehicles per trainset((Unreserved seats: 6 cars, Reserved seats: 2cars))|
 |  @#9c5e31:  **Technical**  ||
 | **No. of tracks** | 2 |
 | **Track gauge** | 1435mm |
