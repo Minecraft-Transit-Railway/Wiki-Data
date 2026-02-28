@@ -48,6 +48,17 @@
 </WRAP>
 
 The Delphox Line ([[wp>Chinese_language|Chinese]]: 妖火紅狐綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network and runs in a figure 6 through the northwestern area of Spawn and through [[Llanmara]].
+===== Overview =====
+The line is a figure-6 track consisting of the Hanakoshi area at its southern end, the so-called "circular section" surrounding a large glacier area at its northern end, and the "radial section" extending from east of Ying Chuk to near Llanmara.
+
+This is SMTR's first light metro system driven by a linear induction motor with steel wheels, and it was driverless from its opening until 2026.
+
+To prevent snow damage in the snowy areas, approximately 80% of the line is underground, with only a small portion being above ground.
+
+The maximum speed is 80 km/h, but speed limits are imposed mainly on the "circular section" due to the design's sharp curves (radii of 100 to 200 m). As of 2026, the speed limit on this section is 40 km/h. Many passengers have expressed concern about this speed limit, but TRT has stated that it is difficult to increase the speed with the current speed control in 20 km/h increments.
+
+The standard journey time for the entire line is approximately 1 hour and 22 minutes. This is the longest journey time of any single SMTR line, but because it is a circular line, few passengers actually ride the entire line.
+
 
 ===== History =====
 Planning for this line began in August 2022, and a sign announcing its existence was installed at Extreme Hot Springs Station.
