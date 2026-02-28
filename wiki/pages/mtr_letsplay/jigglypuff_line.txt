@@ -41,28 +41,44 @@
 |This icon was used until February 27, 2026.|
 </WRAP>
 The Jigglypuff Line ([[wp>Chinese_language|Chinese]]: 胖丁綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
+=====Overview=====
+This line runs through the southern snowfields northwest of Spawn.
 
-====History====
+To provide through service with the [[ShimanoLRT]], Stadtbahn-spec rolling stock is operated, with half SMTR and half SLRT rolling stock. Due to the effective platform length, through service with the former Teufort LRT was not initially considered.
+
+Previously, S43-Tec-manufactured rolling stock was modified to comply with SMTR specifications, but due to changes in specifications, all rolling stock is now LIGHTACE T-model rolling stock.
+
+The standard journey time for the entire line is 37 minutes, making it the longest SMTR route outside of the [[Delphox line]]. Including the through service section, the journey times are 1 hour 25 minutes for the KR01 and 1 hour 19 minutes for the AC01.
+
+=====History=====
 The line was first mentioned in November 2022 and was originally assigned the line number as **Line S0**. At that time, it was planned as AGT.
 
 It will be built in September 2023 to a similar standard to Shimano LRT (SLRT) and Teufort LRT, and its number will be changed to Line S13.
 A few days later, the section between Kurokusa and Kuromurasaki opened, and through service with SLRT's AC01 and KR01 began.
 
+Construction continued intermittently, and the extension to Cinderace Depot Station, now Delphox Town Station, was completed in January 2024. With this, the Jigglypuff Line was fully opened.
+
+In August 2024, due to difficulties in procuring maintenance parts for the S43-Tec vehicles that had previously been used, the trains were replaced with LIGHTACE T models after a few days of suspension.
+
 ===== Rolling Stocks =====
-See [[mtr_letsplay:13-000_series|Terralith Rapid Transit 13-000 Series]].
+See [[mtr_letsplay:13-100_series|Terralith Rapid Transit 13-100 Series]].
 ===== Operations =====
 
 All trains operate in 4-car formations. Within the SMTR, all trains will operate throughout all sections. For through service with SLRT, AC01 and KR01 will operate alternately. [[mtr_letsplay:shimanolrt#through_service|See here for through service sections.]]
+
+Depending on the SLRT's operating conditions, there is a possibility that the intervals between trains may be irregular.
 
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
 |  @#ffa79e:  ||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S13)Jigglypuff Line**  |
-| \\ All hours \\ <html>&nbsp</html>|  \\ 6 - 7 |
+| \\ All hours \\ |  \\ 6 - 7 |
 
 </WRAP>
 
+A separate shuttle train to the Delphox South Maintenance Depot departs from Sakura Grove Station. Anyone with the fare to Sakura Grove Station or the SMTR minimum round-trip fare can use this service.
+
 ===== Future Plans =====
-Construction is underway on an extension to Green Cape Station via Autumn Floatland Station.
+  * Along with the Shimahana Line, which uses similar rolling stock, SLRT rolling stock is scheduled to be replaced with STADTACE.
 ===== Stations =====
