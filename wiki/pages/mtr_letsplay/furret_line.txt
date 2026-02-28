@@ -1,0 +1,66 @@
+====== Furret Line ======
+
+<WRAP 400px right>
+
+|  @#9c5e31:  **(S10)Furret Line**  ||
+|  ||
+|  @#9c5e31:  **Overview**  ||
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Area Served** | N/A |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]]|
+| |
+| **Line Number** | S10 |
+| **Number of stations** | 6 |
+| **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
+| **Colour on map** | Smoke Pink (#9c5e31) |
+|  @#9c5e31:  **Service & Operation**  ||
+| **Began passenger operation** | September 2023 |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 4 vehicles per trainset |
+|  @#9c5e31:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#1500_V_DC|1500V DC Overhead systems]] |
+| **Maximum speed** | 160 km/h |
+| **Top operational speed** | 120 km/h |
+
+</WRAP>
+The Furret Line ([[wp>Chinese_language|Chinese]]: 大立綫) is the [[ShimanoMTR|ShimanoMTR]] network.
+=====Overview=====
+This line runs west from Spawn toward Kurokusa.
+This line is the equivalent of the SMTR's rapid line, the [[Shinx Line]].
+
+Many SMTR Furret Line (or lines assigned to S10) are high-speed, and the TRT is no exception, designed for higher speeds than other lines. However, due to SMTR restrictions, the maximum speed as of 2026 is 120 km/h.
+
+This line is the only SMTR group line that goes directly to Spawn Station, but at the request of the station owner, Spawn was unable to secure a platform for eight cars. As a result, it is the only SMTR station where some of the doors do not open.
+
+This line is the first to introduce reserved seat cars. The coupling position is based on the structure of Spawn Station, and the two cars are connected to the Spawn Station side. A reserved seat ticket is required, which can be purchased from the ticket vending machines on the platform. Alternatively, you can board the train and pay with an IC card. The fare for a reserved seat ticket is $1 regardless of distance.
+
+The standard journey time for the entire line is approximately 16 minutes.
+
+=====History=====
+The section between Shirakaba Mountain Station and Spawn Station will open in November 2022. At the time, the train consisted of six monoclass cars.
+
+When the train was extended to Kurokusa Station in May 2023, it was expanded to eight cars, and reserved seating cars were introduced at the same time.
+
+The unreserved seating cars were renovated in July 2024.
+
+===== Rolling Stocks =====
+See [[mtr_letsplay:10-000_series|Terralith Rapid Transit 10-000 Series]].
+===== Operations =====
+The entire line will operate at all times.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#9c5e31:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S10)Furret Line**  |
+| \\ All hours \\ |  \\ 3 |
+
+</WRAP>
+
+===== Future Plans =====
+  * There are plans to improve the alignment and increase speed on this line, but implementing these would require a long-term suspension of service, so they are currently a low priority.
+  * There are no plans to extend the line at present, but the trackbed has been constructed up to Nishi-kurokusa Station. As the station will be passed through, only the parallel Shinx Line will be in operation on this section.
+  * Although the timing has not been decided, it has been suggested that METROACE9500 cars will be introduced as unreserved seating vehicles.
+===== Stations =====
