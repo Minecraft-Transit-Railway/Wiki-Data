@@ -11,8 +11,8 @@
 | |
 | **Line Number** | S10 |
 | **Number of stations** | 6 |
-| **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
-| **Colour on map** | Smoke Pink (#9c5e31) |
+| **Real-Life Inspiration** | [[wp>Airport_Express_(MTR)|Airport_Express]]\\ [[wp>Tung_Chung_line|Tung_Chung_line]]|
+| **Colour on map** | Brown (#9c5e31) |
 |  @#9c5e31:  **Service & Operation**  ||
 | **Began passenger operation** | November 2022 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
