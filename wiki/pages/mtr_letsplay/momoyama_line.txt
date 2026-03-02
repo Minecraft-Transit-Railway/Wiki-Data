@@ -1,0 +1,82 @@
+====== Momoyama Line ======
+
+<WRAP 400px right>
+
+|  @#ff91b5:  **(S4)Momoyama Line**  ||
+| {{ :mtr_letsplay:line_s3.png?200 |}} ||
+|  @#ff91b5:  **Overview**  ||
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Area Served** | N/A |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
+| **Line Number** | S3 |
+| **Number of stations** | 4(Current) |
+|  | 9(Plan) |
+| **Real-Life Inspiration** | [[wp>Green_Line_(Yokohama)|Green_Line_(Yokohama)]] |
+| **Colour on map** | Pink (#ff91b5) |
+|  @#ff91b5:  **Service & Operation**  ||
+| **Began passenger operation** | Under construction |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 6 vehicles per trainset |
+|  @#ff91b5:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#1,500_V_DC|1500V DC Overhead systems]] |
+| **Maximum speed** | 80 km/h |
+| **Top operational speed** | 80 km/h |
+
+|  @#b0c4de:  **Momoyama Line**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 桃山綫 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 桃山线 |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | táo shān xiàn|
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | tóu sāan xiàn|
+
+</WRAP>
+
+The Momoyama Line ([[wp>Chinese_language|Chinese]]: 桃山綫) of the [[ShimanoMTR|ShimanoMTR]] network.
+
+=====Overview=====
+This line will traverse the section from Cinderace to Oxenholme.
+
+It is currently under construction and has not yet opened to the public.
+
+This line is the second to use a linear motor with a steel support system, after the [[Delphox Line]]. However, unlike the Delphox Line ((the minimum curve radius of the circular section of the Delphox Line is 80m)), the minimum curve radius of the main line is 400m or more, making it possible to maintain maximum speeds throughout the entire section except for the terminal stations.
+
+This is also the first newly constructed SMTR line since the transition to MTR4, although some of the facilities have been in place since the MTR3 era.
+
+The entire first section of this line runs parallel to the SLRT CD10, and transfers to this line are possible at all stations except Hoshisato Town station ((where transfers to the SLRT KR01 are possible)).
+
+This line is the first in-car announcement system for SMTR, but because it uses the format of the Yokohama Municipal Subway, it tends to be heavily Japanese. Some English announcements will be transcribed.
+
+The standard journey time on this line is expected to be approximately 12 to 15 minutes.
+
+=====History=====
+Before the line's specifications were officially decided, preparatory work on station facilities was underway at Shinkita Station and Hoshisato Town Station. At the time, there were plans to allow medium-sized trains to run, so the effective platform length was approximately 180m.
+
+When the decision was made to officially introduce six-car LIMPHOX trains (90m long) in February 2026, some of the already constructed platforms were closed off.
+
+The opening date has not yet been decided, but the aim is to open at least the section from Cinderace Station to Hoshisato Town Station first.
+
+===== Rolling Stocks =====
+See [[mtr_letsplay:4000_series|Terralith Rapid Transit 4000 Series]].
+===== Operations =====
+The entire line will operate at all times.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#ff91b5:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S4)Momoyama Line**  |
+| \\ All hours \\ |  \\ 5 |
+
+</WRAP>
+
+===== Future Plans =====
+  * There are currently no plans other than for sections where construction has already begun.
+===== Stations =====
+
+===== Trivia =====
+  * The name, color, and icon assigned to this line were assigned to S4 when SMTR was founded in 2018, and have remained unchanged to this day. It is the oldest and only line assigned in 2018.
+  * Of the so-called feline motifs from S1-S4, it is the only one that will not open in 2022.
