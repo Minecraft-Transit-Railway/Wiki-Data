@@ -1,0 +1,50 @@
+======Terralith Rapid Transit 4000 Series======
+<WRAP 400px right>
+
+|  @#ff91b5:  **Terralith Rapid Transit 4000 Series**  ||
+|   ||
+|   ||
+|  @#ff91b5:  **Overview**  ||
+| **In service**  |   |
+| **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]]|
+| **Number built**  | |
+| **Formation**  | 6 cars per trainset  |
+| **Capacity**  |   |
+| **Owner(s)** |[[Terralith Rapid Transit|Terralith Rapid Transit]] |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Depot(s)** |  |
+| **Line(s) served** | (S4)[[Momoyama Line]] |
+|  @#ff91b5:  **Specifications**  ||
+| **Car body construction** |Aluminium|
+| **Train length** |90.0m|
+| **Car length** |15.0m|
+| **Width** |2.5 m|
+| **Height** |3.4 m|
+| **Doors** |3 pairs per side|
+| **Maximum speed** |80km/h|
+| **Weight** ||
+| **Traction system** |IGBT–VVVF|
+| **Traction motors** |12 × 120 kW 3-phase AC linear induction motor|
+| **Power output** ||
+| **Acceleration** |3.2 km/(h⋅s)|
+| **Deceleration** |3.2 km/(h⋅s) (service)|
+| ::: | 4.5 km/(h⋅s) (emergency) |
+| **Electric system(s)** |1,500 V DC overhead catenary|
+| **Current collector(s)** |Pantograph|
+| **UIC classification** |2′Bo′+2′Bo′+2′Bo′+2′Bo′+2′Bo′+Bo′2′+Bo′2′+Bo′2′+Bo′2′|
+| **Bogies** ||
+| **Braking system(s)** |Regenerative and electro-pneumatic|
+| **Safety system(s)** |JO-ATC, CS-ATC(Plan), ATO(GoA 2)|
+| **Track gauge** |1,435 mm|
+
+
+</WRAP>
+
+The **Terralith Rapid Transit 4000 series** is an electric multiple unit (EMU) train type operated by the [[ShimanoMTR]](SMTR) on the [[momoyama_line]].
+
+=====Overview=====
+
+=====Related page=====
+* [[11-600_series|Terralith Rapid Transit 11-600 Series]] - Identical vehicles
+
+* [[LIMPHOX]] - The base of this vehicle
