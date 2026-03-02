@@ -14,7 +14,7 @@
 | **Real-Life Inspiration** |  |
 | **Colour on map** | Yellow (#FFBC00) |
 |  @#FFBC00:  **Service & Operation**  ||
-| **Began passenger operation** | August 2022? |
+| **Began passenger operation** | September 2022 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
 | **Train length** | 8 vehicles per trainset |
 |  @#FFBC00:  **Technical**  ||
@@ -39,4 +39,39 @@
 
 </WRAP>
 
-The Shimano Line ([[wp>Chinese_language|Chinese]]: 縞野綫) is a core part of the [[ShimanoMTR|ShimanoMTR]] network.
+The Shimano Line ([[wp>Chinese_language|Chinese]]: 縞野綫) of the [[ShimanoMTR|ShimanoMTR]] network.
+
+=====Overview=====
+This line mainly heads north from Amethyst Valley.
+The section north of Shirakaba Mansion was constructed with the assumption that the line would travel at 120 km/h, so in some sections the track spacing is wider to make the line as straight as possible.
+
+Some stations have been designed to current standards based on stations constructed in the SMTR Group's oldest project.
+
+Although it runs at high speeds, it is not a rapid train like the [[Furret Line]]. The planned extension section, which will be described later, is scheduled to include stations that parallel lines do not stop at, but even though this line passes through some stations, it operates as a "local train" ((for example, on the Tokyu Oimachi Line, the green local trains do not stop at some stations)).
+
+The standard journey time on this line is approximately 13 minutes.
+
+=====History=====
+The section from Amethyst Valley Station to Shirakaba Mansion Station will open in September 2022. At that time, the train consisted of six cars.
+
+The section from Shirakaba Mansion Station to Oasis Island was subsequently opened, although the concourse section remained unfinished.
+
+In conjunction with the construction of the parallel SLRT and other lines, work on the concourse section was carried out and completed. At that time, eight-car trains began operating.
+
+===== Rolling Stocks =====
+
+===== Operations =====
+The entire line will operate at all times.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#FFBC00:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S3)Shimano Line**  |
+| \\ All hours \\ |  \\ 3 |
+
+</WRAP>
+
+===== Future Plans =====
+  * The line is planned to be extended west from Oasis Island to the area around Mansion, about 5 km away, but this section is outside the jurisdiction of the TRT, and there are currently no prospects for it to open due to delays in the construction of the line that will be shared.
+===== Stations =====
