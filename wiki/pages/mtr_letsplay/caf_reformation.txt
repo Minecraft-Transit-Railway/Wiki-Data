@@ -8,10 +8,11 @@
 |//<- To Wu Chau//|||  //To Llanmara (Saint Devota) ->//|||
 |  V3xx(odd) - Z3xx(odd) + G3xx(odd) - F3xx (odd) + Z3xx(even) - V3xx(even)((Traction control using the original AEG //DASU// GTO VVVF))  ||||||
 |  //xx refers to any number from 01 to 34//  ||||||
-|  V3xx(odd) - Z3xx(odd) - H3xx(odd) + H3xx (even) - Z3xx(even) - V3xx(even)((Traction control refurbished to Siemens //SIBAC// IGBT VVVF))  ||||||
+|  V3xx(odd) - W3xx(odd) - H3xx(odd) + H3xx (even) - W3xx(even) - V3xx(even)((Traction control refurbished to Siemens //SIBAC// IGBT VVVF))  ||||||
 |  //xx refers to any number from 51 to 62//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((MTR Mod's Super Hybrid used in non-electrified sections))   ^  Motor  ^  Cyan Car\\ (Premium class / coach seats)  ^  Automatic Coupler  ^
 |  **V3xx**  |  **O**  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
+|  **W3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |
 |  **Z3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**  |
 |  **F3xx**  |  <color #AAAAAA>**X**</color>  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |
 |  **G3xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
@@ -36,10 +37,10 @@ There are in broad 3 types of reformation, named **Type A**, **Type B** and **Ty
 |  TCL Y7xx  |  Install driver's cabin  |  V3xx (even)  |
 ^  Type C (6 sets)  ||^
 |  TCL V8xx  |  No Change  |  V3xx (odd)  |
-|  TCL Z8xx  |  No Change  |  Z3xx (odd)  |
+|  TCL Z8xx  |  Uninstall automatic coupler  |  W3xx (odd)  |
 |  AEL G1xx  |  No Change  |  H3xx (odd)  |
 |  AEL G2xx  |  Rotate 180°  |  H3xx (even)  |
-|  TCL W6xx  |  No Change  |  Z3xx (even)  |
+|  TCL W6xx  |  No Change  |  W3xx (even)  |
 |  TCL V6xx  |  No Change  |  V3xx (even)  |
 |  Traction control refurbished to Siemens //SIBAC// IGBT VVVF  |||
 
