@@ -30,86 +30,85 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 =====Routes=====
 ====In operation====
-* (S1)[[Shinx Line]]
+  * (S1)[[Shinx Line]]
 
-* (S2)[[Sprigatito Line]]
+  * (S2)[[Sprigatito Line]]
 
-* (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
+  * (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
 
-* (S8)[[Zacyan Line]]
+  * (S8)[[Zacyan Line]]
 
-* (S10)[[Furret Line]]
+  * (S10)[[Furret Line]]
 
-* (S11)[[delphox_line]]
+  * (S11)[[delphox_line]]
 
-* (S12)[[Decidueye Line]]
+  * (S12)[[Decidueye Line]]
 
-* (S13)[[Jigglypuff Line]]
+  * (S13)[[Jigglypuff Line]]
 
-* (S14)[[Shimahana Line]]
+  * (S14)[[Shimahana Line]]
 
 ====Under Construction & Planning====
-* (S4)[[Momoyama Line]]
+  * (S4)[[Momoyama Line]]
 
 ====Abolition&Canceled====
-* (S2T)Sprigatito Line
+  * (S2T)Sprigatito Line
 
-* (S11T)Cinderace Line
+  * (S11T)Cinderace Line
 
 ====Others====
-* [[Cinderace Light Railway]]
+  * [[Cinderace Light Railway]]
 
-* [[shimanolrt]]
+  * [[shimanolrt]]
 
-* [[Kamaboko LRT]]
+  * [[Kamaboko LRT]]
 
-* [[In-Station Transit (SMTR)|In-Station Transit]]
+  * [[In-Station Transit (SMTR)|In-Station Transit]]
 
-* [[Spring-Autumn Shuttle]]
+  * [[Spring-Autumn Shuttle]]
 
 =====Rolling Stocks=====
 ====Current====
 ===Shinx Line===
-* [[1000 Series]]
+  * [[1000 Series]]
 
-* [[1100 Series]]
+  * [[1100 Series]]
 
-* [[1200 Series]]
+  * [[1200 Series]]
 
 ===Sprigatito Line===
-* [[2000 Series]]
+  * [[2000 Series]]
 
-* [[2100 Series]]
+  * [[2100 Series]]
 
 ===Shimano Line===
-* [[3000 Series]]
+  * [[3000 Series]]
 
-* [[3100 Series]]
+  * [[3100 Series]]
 
-* [[3200 Series]]
+  * [[3200 Series]]
 
-* [[3300 Series]]
+  * [[3300 Series]]
 
-* [[3300R Series]]
+  * [[3300R Series]]
 
 ===Zacian Line===
-* [[8000 Series]]
+  * [[8000 Series]]
 
 ===Furret Line===
-* [[10-000 Series]]
+  * [[10-000 Series]]
 
 ===Delphox Line===
-
-* [[11-600 Series]]
+  * [[11-600 Series]]
 
 ===Decidueye Line===
-* [[12-000 Series]]
+  * [[12-000 Series]]
 
 ===Jigglypuff Line===
-* [[13-100 Series]]
+  * [[13-100 Series]]
 
 ===Dialga Line===
-* [[14-000 Series]]
+  * [[14-000 Series]]
 
 ===Shimano LRT===
 See [[shimanolrt|Shimano LRT]]
@@ -118,72 +117,76 @@ See [[shimanolrt|Shimano LRT]]
 See [[shimanolrt|Shimano LRT]]
 
 ===in-Station Transit===
-* S43-Tec Stadtbahn 2002
+  * S43-Tec Stadtbahn 2002
 
-* S43-Tec Stadtbahn 1995
+  * S43-Tec Stadtbahn 1995
 
 ====Former====
 ===Shinx Line===
-* [[8000 Series]](Trial operation)
+  * [[8000 Series]](Trial operation)
 
 ===Cinderace Line(Current:Delphox Line)===
-* [[11-000_series|11-000 Series]]
+  * [[11-000_series|11-000 Series]]
 
-* [[11-000_series#section11100|11-100 Series]]
+  * [[11-000_series#section11100|11-100 Series]]
 
-* [[11-000_series#section11200|11-200 Series]]
+  * [[11-000_series#section11200|11-200 Series]]
 
-* [[11-000_series#section11300|11-300 Series]]
+  * [[11-000_series#section11300|11-300 Series]]
 
-* [[11-000_series#section11500|11-400 Series]]
+  * [[11-000_series#section11500|11-400 Series]]
 
-* [[11-000_series#section11500|11-500 Series]]
+  * [[11-000_series#section11500|11-500 Series]]
 
 ===Jigglypuff Line===
-* [[13-000 Series]]
+  * [[13-000 Series]]
 
 ===Kamaboko LRT===
-* [[1992 Stock]]
+  * [[1992 Stock]]
 
-* [[1995 Stock]]
+  * [[1995 Stock]]
 
-* [[1996 Stock]]
+  * [[1996 Stock]]
 
-* [[BVG Crass H]](Trial operation)
+  * [[BVG Crass H]](Trial operation)
 
-* [[LRV 1975]]
+  * [[LRV 1975]]
 
 ===Shimano LRT===
 see [[shimanolrt|Shimano LRT]]
 
 ===in-Station Transit===
-* [[Lightrail Phase 3]]
+  * [[Lightrail Phase 3]]
 
-* [[LRV 2002]]
+  * [[LRV 2002]]
 
 ====Feature====
 ===Momoyama Line===
-* [[4000 Series]]
+  * [[4000 Series]]
+
+===Midorihara/Sorano Line===
+  * THIRDPOHX(Model number undetermined)
 
 ===Shimano LRT===
 see [[shimanolrt|Shimano LRT]]
 
 ===Other(Model number undetermined)===
-* 01A01
+  * 01A01
 
-* Eidan/Tokyo Metro 05 Series
+  * Eidan/Tokyo Metro 05 Series
 
 =====Route specifications=====
 ====Route numbers currently unassigned====
 Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned.((Not only LPS, but all SMTR projects allocate up to S20.)) Once a name is decided and concrete plans are put forward, it will be moved to the list above.
-  * Line S5
-  * Line S6
   * Line S7
   * Line S9
   * Lines S16-S20
 ====Numbers assigned by route names, etc., but with no current construction plans====
 Numbers that currently have names assigned for historical reasons but no route plans have been made.
   * Line S15 - Toadette Line
+====Routes whose names have been decided but numbers have not yet been determined====
+This is a route for which names have been decided for future planning purposes, but no numbers have been assigned.
+  * Lines S5, S6 - Midorihara or Sorano Line
 ====Routes whose names have changed since opening====
   * Line S11 - Cinderace Line → Delphox Line(December 15, 2025)
   * Line S14 - Dialga Line → Shimahana Line(February 27, 2026)
