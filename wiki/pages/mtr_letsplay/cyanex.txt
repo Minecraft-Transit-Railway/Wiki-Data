@@ -14,28 +14,21 @@
 
 ===== Core Values =====
 
-**<fs large>高效、準點、優質、安全</fs>**\\ 
-**<fs large>Efficiency, Punctuality, Quality, Safety</fs>**
+**<fs large>高效、準點、優質、安全</fs>**\\  **<fs large>Efficiency, Punctuality, Quality, Safety</fs>**
 
 ===== Services in LetsPlay =====
 
-
   * **Sightseeing Line System**
-    * K1: North Cyclamen -> PEP 16
-    * <del>K2: Al-Tighnari -> PEP 16</del>
-    * K3: Al-Tighnari -> Jonathan's Resort
-    * 40: Red Leaves -> Twilight Spruce
-    * 41: Red Leaves -> Jonathan's Resort
-    * 51: Providence -> Cliffgate
-
-  * **Sightseeing Local Line**
-    * 10: Cyan Heights -> Scarlet Mansion
-
-  * **Sumeru Line**
-    * 30: Scarlet Mansion -> Grand Bazaar
+    * 11: Cyan Heights -> Scarlet Mansion
+    * 30: Al-Tighnari -> Jonathan's Resort
+    * 31: Scarlet Mansion -> Grand Bazaar
     * 35: Niloufar -> Nahida
+    * 41: Red Leaves -> Twilight Spruce
+    * 50: North Cyclamen -> PEP 16
+    * 52: Providence -> Cliffgate
+    * 70: Kwang Chow -> Ostania
 
-{{ :mtr_letsplay:cx_sel_map_wide.png |}}
+{{ :mtr_letsplay:cx_sel_map_wide.png }}
 
 ===== Members =====
 
@@ -62,7 +55,7 @@ CyanEX (under the older name "CyanEX Mobility") used to operate various urban an
 
 ===== Stations in LetsPlay =====
 
-^ 观光缓行线 ^ SLL ^ 观光快速线 ^ SEL ^ 蓝霞线 ^ CTL ^ 明珠线 ^ PEL ^ 高滨线 ^ MSL ^ 须弥线 ^ SUL ^
+^ 观光缓行线 ^ SLL(1) ^ 观光快速线 ^ SEL(2) ^ 蓝霞线 ^ CTL(4) ^ 明珠线 ^ PEL(6) ^ 高滨线 ^ MSL(5) ^ 须弥线 ^ SUL(3) ^
 | 蓝台 | CYH | 蓝台 | CYH | 蓝台 | CYH | //霞松// | //TWS// | 妮露法 | NIF | 西南旷野 | SWP |
 | 重生区摩天楼 | SPT | 爱康港 | ICP | 普达西 | WLP | //西城// | //WET// | 蓝星花越海岸 | HKB | 花神庙 | FLT |
 | 客运站镇 | SUA | 蓝星樱河 | SAS | 碧沙交汇 | BAC | //赛特朗// | //TRI// | 环湖医院 | LAH | 红馆 | SDM |
@@ -82,7 +75,6 @@ CyanEX (under the older name "CyanEX Mobility") used to operate various urban an
 ^ 悬崖门支线 ^ CGL ^ 仙客岛支线 ^ MIL ^
 | 悬崖门 | CLG | 仙客岛 | MUI |
 | 新霓 | XIN | 仙鹤门 | CRG |
-
 
 ===== See Also =====
 
