@@ -31,65 +31,49 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 =====Routes=====
 ====In operation====
   * (S1)[[Shinx Line]]
-
   * (S2)[[Sprigatito Line]]
-
   * (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
-
   * (S8)[[Zacyan Line]]
-
   * (S10)[[Furret Line]]
-
   * (S11)[[delphox_line]]
-
   * (S12)[[Decidueye Line]]
-
   * (S13)[[Jigglypuff Line]]
-
   * (S14)[[Shimahana Line]]
 
-====Under Construction & Planning====
+====Under Construction====
   * (S4)[[Momoyama Line]]
+
+====Planning====
+  * (S5)Midorihara Line
+  * (S6)Sorano Line
 
 ====Abolition&Canceled====
   * (S2T)Sprigatito Line
-
   * (S11T)Cinderace Line
 
 ====Others====
   * [[Cinderace Light Railway]]
-
   * [[shimanolrt]]
-
   * [[Kamaboko LRT]]
-
   * [[In-Station Transit (SMTR)|In-Station Transit]]
-
   * [[Spring-Autumn Shuttle]]
 
 =====Rolling Stocks=====
 ====Current====
 ===Shinx Line===
   * [[1000 Series]]
-
   * [[1100 Series]]
-
   * [[1200 Series]]
 
 ===Sprigatito Line===
   * [[2000 Series]]
-
   * [[2100 Series]]
 
 ===Shimano Line===
   * [[3000 Series]]
-
   * [[3100 Series]]
-
   * [[3200 Series]]
-
   * [[3300 Series]]
-
   * [[3300R Series]]
 
 ===Zacian Line===
@@ -99,7 +83,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
   * [[10-000 Series]]
 
 ===Delphox Line===
-  * [[11-600 Series]]
+  * [[11-600 Series]](LIMPHOX)
 
 ===Decidueye Line===
   * [[12-000 Series]]
@@ -162,11 +146,12 @@ see [[shimanolrt|Shimano LRT]]
 
 ====Feature====
 ===Momoyama Line===
-  * [[4000 Series]]
+  * [[4000 Series]](LIMPHOX)
 
-===Midorihara/Sorano Line===
-  * THIRDPHOX(Model number undetermined)
-
+===Midorihara Line===
+  * [[5000 Series]](THIRDPHOX)
+===Sorano Line===
+  * [[6000 Series]](THIRDPHOX)
 ===Shimano LRT===
 see [[shimanolrt|Shimano LRT]]
 
@@ -184,9 +169,6 @@ Currently, the following numbers do not have a route name, route icon, or route 
 ====Numbers assigned by route names, etc., but with no current construction plans====
 Numbers that currently have names assigned for historical reasons but no route plans have been made.
   * Line S15 - Toadette Line
-====Routes whose names have been decided but numbers have not yet been determined====
-This is a route for which names have been decided for future planning purposes, but no numbers have been assigned.
-  * Lines S5, S6 - Midorihara or Sorano Line
 ====Routes whose names have changed since opening====
   * Line S11 - Cinderace Line → Delphox Line(December 15, 2025)
   * Line S14 - Dialga Line → Shimahana Line(February 27, 2026)
