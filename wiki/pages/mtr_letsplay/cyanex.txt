@@ -62,19 +62,20 @@ CyanEX (under the older name "CyanEX Mobility") used to operate various urban an
 | 泰恒 | MOE | 红馆 | SDM | 仙林湖 | LAV | //东城// | //OST// | 白石平原 | WHP | 纳西妲 | NAH |
 | 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |   |   | 霓台蜜雪冰城 | MXI | 妮露法 | NIF |
 | 滨州 | PET | 西滨 | WES | 北海路 | OCI | 君子澳  | AUG  | 天水风景 | PAF | 莱伊拉 | LAY |
-| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN | 蒲易十六  | HDL  | 工业大学 | TUT | 神木 | RUK |
+| 天目湖 | MAR | 妮露法 | NIF | 林堡 | LIN | 蒲易十六  | HDS  | 工业大学 | TUT | 神木 | RUK |
 | 香田 | KOD |   |   | 美景宫 | BEV |   |   | 火山地质公园 | VGP | 海萨列岛 | HAI |
 | 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 彩虹山 | RAP | 稻毛海岸 | INK |
 | 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 北仙客 | NOC | 欧莫斯洲 | ORD |
 | 公积 | PRO |   |   | 朱家角 | ZUN |   |   | 绿洲康城 | OCT | 阿戈滩 | ALB |
-| 红馆 | SDM |   |   | 春池嫣韵 | SPP |   |   | 观蓝湖 | AQS | 提纳里 | TIG |
-|   |   |   |   | 霞松 | TWS |   |   |   |   | 坎蒂斯 | CAN |
-|   |   |   |   |   |   |   |   |   |   | 基斯石滩 | GRP |
+| 红馆 | SDM |   |   | (渔人码头) | AVO |   |   | 观蓝湖 | AQS | 提纳里 | TIG |
+|   |   |   |   | 春池嫣韵 | SPP |   |   |   |   | 坎蒂斯 | CAN |
+|   |   |   |   | 霞松 | TWS |   |   |   |   | 基斯石滩 | GRP |
 |   |   |   |   |   |   |   |   |   |   | 大巴扎 | GRB |
 
-^ 悬崖门支线 ^ CGL ^ 仙客岛支线 ^ MIL ^
-| 悬崖门 | CLG | 仙客岛 | MUI |
-| 新霓 | XIN | 仙鹤门 | CRG |
+^ 悬崖门支线 ^  ^ 仙客岛支线 ^  ^ 红叶支线 ^  ^ 西湖交通 2 号线 ^ (7) ^
+| 悬崖门 | CLG | 仙客岛 | MUI | 红叶 | REE | 光州 | KWC |
+| 新霓 | XIN | 仙鹤门 | CRG |  |  |  |  |
+
 
 ===== See Also =====
 
