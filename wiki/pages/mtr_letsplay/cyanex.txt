@@ -74,9 +74,9 @@ CyanEX (under the older name "CyanEX Mobility") used to operate various urban an
 |   |   |   |   | 霞松 | TWS |   |   |   |   | 基斯石滩 | GRP |
 |   |   |   |   |   |   |   |   |   |   | 大巴扎 | GRB |
 
-^ 悬崖门支线 ^  ^ 仙客岛支线 ^  ^ 红叶支线 ^  ^ 西湖交通 2 号线 ^ (7) ^
-| 悬崖门 | CLG | 仙客岛 | MUI | 红叶 | REE | 光州 | KWC |
-| 新霓 | XIN | 仙鹤门 | CRG |  |  |  |  |
+^ 悬崖门支线 ^ MSL(5)  ^ 仙客岛支线 ^ MSL(5)  ^ 红叶支线 ^ CTL(4)  ^ 西暮岛支线 ^ SEL(2) ^ 西湖交通 2 号线 ^ (7) ^
+| 悬崖门 | CLG | 仙客岛 | MUI | 红叶 | REE | 西暮岛 | SMI | 光州 | KWC |
+| 新霓 | XIN |  |  |   |   |  |  |   |   |
 
 
 ===== See Also =====
