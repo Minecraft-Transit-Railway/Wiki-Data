@@ -20,6 +20,7 @@
 
   * **Sightseeing Line System**
     * 11: Cyan Heights -> Scarlet Mansion
+    * 22: Hana-Koshi Beach -> Sai Mo Island
     * 30: Al-Tighnari -> Jonathan's Resort
     * 31: Scarlet Mansion -> Grand Bazaar
     * 35: Niloufar -> Nahida
@@ -29,6 +30,7 @@
     * 70: Kwang Chow -> Ostania
 
 {{ :mtr_letsplay:cx_sel_map_wide.png }}
+
 
 ===== Members =====
 
