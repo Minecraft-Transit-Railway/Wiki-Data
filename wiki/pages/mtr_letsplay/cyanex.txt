@@ -19,14 +19,15 @@
 ===== Services in LetsPlay =====
 
   * **Sightseeing Line System**
-    * 11: Cyan Heights -> Scarlet Mansion
+    * 11: Scarlet Mansion -> Cyan Heights
     * 22: Hana-Koshi Beach -> Sai Mo Island
     * 30: Al-Tighnari -> Jonathan's Resort
-    * 31: Scarlet Mansion -> Grand Bazaar
+    * 31: Grand Bazaar -> Scarlet Mansion
     * 35: Niloufar -> Nahida
     * 41: Red Leaves -> Twilight Spruce
     * 50: North Cyclamen -> PEP 16
-    * 52: Providence -> Cliffgate
+    * 52: Cliffgate -> Providence
+    * 53: Celestial Rest -> Volcanic Geology Park
     * 70: Kwang Chow -> Ostania
 
 {{ :mtr_letsplay:cx_sel_map_wide.png }}
