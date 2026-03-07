@@ -59,20 +59,20 @@ CyanEX (under the older name "CyanEX Mobility") used to operate various urban an
 ===== Stations in LetsPlay =====
 
 ^ 观光缓行线 ^ SLL(1) ^ 观光快速线 ^ SEL(2) ^ 蓝霞线 ^ CTL(4) ^ 明珠线 ^ PEL(6) ^ 高滨线 ^ MSL(5) ^ 须弥线 ^ SUL(3) ^
-| 蓝台 | CYH | 蓝台 | CYH | 蓝台 | CYH | //霞松// | //TWS// | 妮露法 | NIF | 红馆 | SDM((
+| 蓝台 | CYH | 蓝台 | CYH | 蓝台 | CYH | //霞松// | //TWS// | 尼露珐 | NIF | 红馆 | SDM((
 Scarlet Devil Mansion.
 )) |
 | 重生区摩天楼 | SPT | 爱康港 | ICP | 普达西 | WLP | //西城// | //WET//((
 Station not owned by CyanEX. Code used for PIS system reference only.
-)) | 蓝星花越海岸 | HKB | 纳比塔 | NAP |
+)) | 蓝星花越海岸 | HKB | 纳西妲 | NAH |
 | 客运站镇 | SUA((
 SUnlAnd.
 )) | 蓝星樱河 | SAS | 碧沙交汇 | BAC((
 Bayside Center.
-)) | //赛特朗// | //TRI// | 湖滨医院 | LAH | 纳西妲 | NAH |
+)) | //赛特朗// | //TRI// | 湖滨医院 | LAH | 纳比塔 | NAP |
 | 泰恒 | MOE | 红馆 | SDM | 林仙湖 | LAV((
 LAke Vecuro.
-)) | //东城// | //OST// | 白石平原 | WHP | 妮露珐 | NIF |
+)) | //东城// | //OST// | 白石平原 | WHP | 尼露珐 | NIF |
 | 黄石 | YES | 鹿港公园 | DPP | 何士桥 | HOB |   |   | 霓台 | MXI((
 MiXue Ice cream and tea.
 )) | 莱伊拉 | LAY |
@@ -81,14 +81,14 @@ AUstralian Guy.
 ))  | 天水风景 | PAF | 神木 | RUK |
 | 天目湖 | MAR((
 MAgenta Ruins.
-)) | 妮露法 | NIF | 林堡 | LIN | 蒲易十六  | HDS((
+)) | 尼露珐 | NIF | 林堡 | LIN | 蒲易十六  | HDS((
 HeaDleSs.
 ))  | 工业大学 | TUT((
 Technische UniversiTät.
 )) | 海萨列岛 | HAI |
 | 香田 | KOD |   |   | 美景宫 | BEV |   |   | 火山地质公园 | VGP | 稻毛海岸 | INK |
-| 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 彩虹山 | RAP | 欧莫斯洲 | ORD |
-| 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 北仙客 | NOC | 阿戈滩 | ALB |
+| 月光湾 | MOB |   |   | 装奶粉度假村 | JOR |   |   | 彩虹山 | RAP | 奥莫斯洲 | ORD |
+| 蓝星樱河 | SAS |   |   | 竹青亭 | BAP |   |   | 北仙客 | NOC | 阿戈海滨 | ALB |
 | 公积 | PRO |   |   | 朱家角 | ZUN |   |   | 绿洲康城 | OCT((
 Oasis CamTown.
 )) | 提纳里 | TIG |
