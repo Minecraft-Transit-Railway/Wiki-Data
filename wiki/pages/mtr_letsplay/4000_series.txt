@@ -5,7 +5,7 @@
 |   ||
 |   ||
 |  @#ff91b5:  **Overview**  ||
-| **In service**  |  March 8, 2026 |
+| **In service**  |March 8, 2026 |
 | **Manufacturer**  | [[wp>Kawasaki_Railcar_Manufacturing|Kawasaki Railcar]]|
 | **Number built**  | |
 | **Formation**  | 6 cars per trainset  |
