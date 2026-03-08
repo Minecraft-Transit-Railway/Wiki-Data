@@ -33,6 +33,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
   * (S1)[[Shinx Line]]
   * (S2)[[Sprigatito Line]]
   * (S3)[[Shimano Line]](Between Amethyst Valley Station and Oasis Island Station.)
+  * (S4)[[Momoyama Line]]
   * (S8)[[Zacyan Line]]
   * (S10)[[Furret Line]]
   * (S11)[[delphox_line]]
@@ -41,7 +42,6 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
   * (S14)[[Shimahana Line]]
 
 ====Under Construction====
-  * (S4)[[Momoyama Line]]
 
 ====Planning====
   * (S5)Midorihara Line
