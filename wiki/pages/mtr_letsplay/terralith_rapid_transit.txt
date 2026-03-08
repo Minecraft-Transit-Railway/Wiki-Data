@@ -76,6 +76,9 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
   * [[3300 Series]]
   * [[3300R Series]]
 
+===Momoyama Line===
+  * [[4000 Series]](LIMPHOX)
+
 ===Zacian Line===
   * [[8000 Series]]
 
@@ -145,9 +148,6 @@ see [[shimanolrt|Shimano LRT]]
   * [[LRV 2002]]
 
 ====Feature====
-===Momoyama Line===
-  * [[4000 Series]](LIMPHOX)
-
 ===Midorihara Line===
   * [[5000 Series]](THIRDPHOX)
 ===Sorano Line===
