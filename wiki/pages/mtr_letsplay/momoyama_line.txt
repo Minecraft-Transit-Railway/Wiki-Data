@@ -40,8 +40,6 @@ The Momoyama Line ([[wp>Chinese_language|Chinese]]: 桃山綫) of the [[ShimanoM
 =====Overview=====
 This line will traverse the section from Cinderace to Oxenholme.
 
-It is currently under construction and has not yet opened to the public.
-
 This line is the second to use a linear motor with a steel support system, after the [[Delphox Line]]. However, unlike the Delphox Line ((the minimum curve radius of the circular section of the Delphox Line is 80m)), the minimum curve radius of the main line is 400m or more, making it possible to maintain maximum speeds throughout the entire section except for the terminal stations.
 
 This is also the first newly constructed SMTR line since the transition to MTR4, although some of the facilities have been in place since the MTR3 era.
