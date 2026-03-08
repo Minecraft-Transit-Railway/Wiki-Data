@@ -14,7 +14,7 @@
 | **Real-Life Inspiration** | [[wp>Green_Line_(Yokohama)|Green_Line_(Yokohama)]] |
 | **Colour on map** | Pink (#ff91b5) |
 |  @#ff91b5:  **Service & Operation**  ||
-| **Began passenger operation** | Under construction |
+| **Began passenger operation** | March 8, 2026 |
 | **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
 | **Train length** | 6 vehicles per trainset |
 |  @#ff91b5:  **Technical**  ||
@@ -57,7 +57,7 @@ Before the line's specifications were officially decided, preparatory work on st
 
 When the decision was made to officially introduce six-car LIMPHOX trains (90m long) in February 2026, some of the already constructed platforms were closed off.
 
-The opening date has not yet been decided, but the aim is to open at least the section from Cinderace Station to Hoshisato Town Station first.
+The first station to open is Cinderace Station to Hoshisato Town Station on March 8, 2026. However, the exit at Sakuramon Station is still incomplete, so although you can get off there, you cannot transfer to the SLRT.
 
 ===== Rolling Stocks =====
 See [[mtr_letsplay:4000_series|Terralith Rapid Transit 4000 Series]].
