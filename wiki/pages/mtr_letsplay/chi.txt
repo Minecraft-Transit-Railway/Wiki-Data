@@ -6,7 +6,7 @@
 
 ^  CyanEX Heavy Industries\\ 蓝星重工  |^
 | @#7090FF: ||
-|  {{:mtr_letsplay:chi.png?200 }}  ||
+|  {{ :mtr_letsplay:chi.png?200 }}  ||
 ^  Operation  |^
 | **Began operation** | December 2021 |
 
