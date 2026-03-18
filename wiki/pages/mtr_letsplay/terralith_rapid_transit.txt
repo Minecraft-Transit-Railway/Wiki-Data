@@ -43,7 +43,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 
 ====Under Construction====
 
-====Planning(Route investigation in progress)====
+====Planning(Preparation of rolling stock and track equipment is underway.)====
   * (S5)Midorihara Line
   * (S6)Sorano Line
 
@@ -177,6 +177,7 @@ This was set when vertical curves were introduced in the MTR3 era. However, as o
 |@#EFEEF0:Route|@#EFEEF0:Guide|
 |**Line S1, S2, S3, S8, S10**|35‰|
 |**Line S4, S11, S12**|66.7‰|
+|**Line S5, S6**|40‰|
 |**Line S13, S14**|50‰|
 |**SLRT normal**|60‰|
 |**SLRT cog**|90~250‰|
@@ -186,6 +187,7 @@ Excludes sidings and turnouts.
 |@#EFEEF0:Route|@#EFEEF0:Radius|
 |**Lines S1, S2, S3**|160m|
 |**Line S4**|400m(If unavoidable, 200m.)|
+|**Lines S5, S6**|125m|
 |**Line S8**|100m|
 |**Line S10**|300m?|
 |**Line S11**|80m|
@@ -200,6 +202,7 @@ Speed ​​limits other than those for curves, as described below
 |@#EFEEF0:Route|@#EFEEF0:Speed|
 |**Lines S1, S2, S3**|120km/h(120km/h)|
 |**Lines S4, S8, S11, S13, S14**|80km/h(80km/h)|
+|**Lines S5, S6**|80km/h(95km/h)|
 |**Line S10**|120km/h(160km/h)|
 |**Line S12**|60km/h(70km/h)|
 |**SLRT AC01, 02, YM01, CD all routes**|80km/h|
@@ -221,16 +224,17 @@ Currently, only Lines S4 and S11 do not allow intrusion into the driver's cab ((
 Due to concerns about schedule disruption, manual operation will not be implemented except during events.
 ====Train length ====
 |@#EFEEF0:Route|@#EFEEF0:Length(car length×per cars)|
-|Lines S1, S2, S3, S10|200m(25m×8)|
-|Line S4|90m(15m×6)|
-|Line S8|120m(20m×6), 160m(20m×8)((Preparatory work. Currently not in commercial operation.))|
-|Line S11|135m(15m×9)|
-|Line S12|54m(9m×6)|
-|Line S13|60m(15m×4)|
-|Line S14|90m(15m×6), 60m(15m×4)|
-|SLRT Division A((AC01, KR01, SMTR Through service etc.))|15m(15m×1), 30m(15m×2), 42m(15m×2, 12m×1), 60m(15m×4), 72m(15m×4, 12m×1)|
-|SLRT Division B((MI01 etc. Commonly known as Combineno-style coupling.))|32m(12m×1, 10m×2), 51m(12m×2, 10m×2, 7m×1), 30m(12m×1, 9m×2), 49m(12m×2, 9m×2, 7m×1)|
-|SLRT Division C((CLR))|70m(12m×3, 10m×2, 7m×2), 51m(12m×2, 10m×2, 7m×1)|
+|**Lines S1, S2, S3, S10**|200m(25m×8)|
+|**Line S4**|90m(15m×6)|
+|**Lines S5, S6**|102m(17m×6)|
+|**Line S8**|120m(20m×6), 160m(20m×8)((Preparatory work. Currently not in commercial operation.))|
+|**Line S11**|135m(15m×9)|
+|**Line S12**|54m(9m×6)|
+|**Line S13**|60m(15m×4)|
+|**Line S14**|90m(15m×6), 60m(15m×4)|
+|**SLRT Division A((AC01, KR01, SMTR Through service etc.))**|15m(15m×1), 30m(15m×2), 42m(15m×2, 12m×1), 60m(15m×4), 72m(15m×4, 12m×1)|
+|**SLRT Division B((MI01 etc. Commonly known as Combineno-style coupling.))**|32m(12m×1, 10m×2), 51m(12m×2, 10m×2, 7m×1), 30m(12m×1, 9m×2), 49m(12m×2, 9m×2, 7m×1)|
+|**SLRT Division C((CLR))**|70m(12m×3, 10m×2, 7m×2), 51m(12m×2, 10m×2, 7m×1)|
 =====Station Specifications=====
 In principle, the following equipment must be installed for SMTR.
   * Platform Doors
@@ -245,6 +249,8 @@ In principle, the following equipment must be installed for SMTR.
   * Station Announcement Equipment
 Each station has a station name and a station number. Stations not managed by TRT generally do not have station numbers, but they are assigned internally. Note that slashes are included, so you will need to exclude them when searching for routes on Discord.
 
+Stations built after the transition to the MTR4 line have doors that allow access from the tracks to the platform, in case a passenger becomes trapped inside the tunnel for some reason. However, it is not possible to enter the tracks from the platform; it is a one-way system.
+
 For SLRT, the rules are much more relaxed than above, but they must have at least PID, station name, ticket machine, and ticket processor. Conversely, ticket gates are not permitted.
 ====Platform length====
 Pillars (if present) will be installed at 11m intervals.
@@ -254,13 +260,12 @@ The platform extension is determined by the number of pillars installed accordin
 |''Length=11*<Span>+6''|
 
 |@#EFEEF0:Route|@#EFEEF0:Length(Number of pillars installed)|
-|Lines S1, S2, S3, S10|204m(18 Span)|
-|Line S4|94m(8 Span)|
-|Line S8|160m(14 Span)|
-|Line S11|138m(12 Span)|
-|Line S12|61m(5 Span)|
-|Line S13|61m(5 Span)|
-|Line S14|94m(8 Span)|
+|**Lines S1, S2, S3, S10**|204m(18 Span)|
+|**Lines S4, S14**|94m(8 Span)|
+|**Lines S5, S6**|105m(9 Span)|
+|**Line S8**|160m(14 Span)|
+|**Line S11**|138m(12 Span)|
+|**Lines S12, S13**|61m(5 Span)|
 
 =====Related page=====
 * [[mtr_letsplay:shimanomtr|Shimano MTR]](SMTR), [[mtr_letsplay:shimanolrt|Shimano LRT]](SLRT) - A subsidiary of SMTR that (in theory) owns SMTR's lines and rolling stock. The owner is the same person.
