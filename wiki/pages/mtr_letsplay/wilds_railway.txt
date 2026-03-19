@@ -10,9 +10,9 @@
 | **Locale**  | [[mtr_letsplay:start|Let's Play Server]]  |
 | **Transit Type**  | [[wp>heavy_rail|Heavy Rail]]  |
 | ::: | [[wp>Bus_rapid_transit|BRT]]  |
-| **Number of lines**  | Heavy Rail: 5  |
+| **Number of lines**  | Heavy Rail: 8  |
 | ::: | BRT: 1  |
-| **Number of stations**  | Heavy Rail: 23  |
+| **Number of stations**  | Heavy Rail: ~52  |
 | ::: | Bus transit: 14  |
 | **Daily ridership**  | 7002  |
 | **Owner (s)** | [[mtr_community:staff:navi_lx9702|Navi]] |
@@ -23,6 +23,7 @@
 | ::: | [[wp>London_Underground|London Underground]]  |
 | ::: | [[wp>MTR|Mass Transit Railway]] |
 | ::: | [[wp>Merseyrail|Merseyrail]] |
+| ::: | [[wp>Need for Speed|Need for Speed]] |
 | **Corperate colour scheme** |  @#0FBFE4: **#0FBFE4** //**Champion Blue**//  |
 | ::: |  @#FFF0C6: **#FFF0C6** //**WR Yellow**//  |
 |  @#0FBFE4:  **Operation**  ||
@@ -32,10 +33,13 @@
 | ::: | Einsburg  |
 | ::: | Epping  |
 | ::: | Fairview  |
+| ::: | Gangwon-do  |
 | ::: | Greater Llanmara  |
-| ::: | Reston  |
-| ::: | Liskeard  |
+| ::: | Gyeonggi-do  |
+| ::: | Liskeard |
+| ::: | Reston |
 | ::: | West Lake & Lake City |
+| ::: | West Midlands |
 | ::: | World of Jugdral & Elibe |
 
 |  @#b0c4de:  **Wilds Railway**  ||
@@ -56,23 +60,33 @@ The company is set to be the subsidiary of 'Suzuran Railways', the railway compa
 
 ===== Services Operated =====
 
-==== SW Plains Line ====
+==== Wilds Railway METRO ====
+
+=== SW Plains Line ===
 
 The [[mtr_letsplay:wr_sw_plains_line|SW Plains Line]] is a route connecting Lake City and Chong Shu Chau, comprised of 6 stations. The route provides a direct link from Lake City to the West Lake Area.
 
-==== Mimura Line ====
+=== Mimura Line ===
 
-==== Yanyu Line ====
+=== Yanyu Line ===
 
-==== Hoku Hoku Line ====
+=== Hoku Hoku Line ===
 
-==== Aldgate & Resort Line ====
+The Hoku Hoku Line is a line connecting various locations located in the North of the server.
 
-==== Bundang Line ====
+=== Aldgate & Resort Line ===
 
-==== Munster District Line ====
+The Aldgate & Resort is a line connecting Aldgate and Jonathan's Resort, providing a quicker and more affordable connection for the Northeast area to Jonathan's Resort.
+
+==== Wilds Railway Storybook ====
+
+=== Bundang Line ===
+
+=== Munster District Line ===
 
 The Munster District Line is a route connecting the Free City of Hrest and Sunrise Area, via Etruria, Epping and Pond Pocket.
+
+=== Line 9 ===
 
 ==== Wilds Railway Bus Services ====
 
