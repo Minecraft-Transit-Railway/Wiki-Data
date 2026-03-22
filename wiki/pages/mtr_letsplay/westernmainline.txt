@@ -35,19 +35,20 @@ Gapyeong - Baegyang-ri section shares tracks with the Gyeongchun Line, and Baegy
 |  **Gapyeong New Street**\\ 加平 가평  |  Gapyeong  |    |    |
 |  **Gulbongsan**\\ 屈峰山 굴봉산  |  Chuncheon  |  West Midlands Metro\\ Gyeongchun Line \\ Mount Birch Line  |    |
 |  **Baegyang-ri**\\ 白楊里 백양리  |  :::  |  West Midlands Metro\\ Gyeongchun Line \\ Mount Birch Line  |    |
-|  **Mermonia**\\ 沫芒  |  Fontaine  |  Cross Natlan Line\\ Mount Birch Line\\ Ferry  |    |
-|  **Elynas**\\ 厄里那斯  |  :::  |    |    |
+|  **Mermonia**\\ 沫芒  |  Fontaine  |  Airport & Natlan Line\\ Mount Birch Line\\ Ferry  |    |
+|  **Elynas**\\ 厄里那斯  |  :::  |  West Midlands Railway\\ Airport & Natlan Line\\ Sumeru-Fountaine Line  |    |
 |  **Bordertown**\\ 邊境村  |  Rikkashi  |    |    |
-|  **Waiwan Village**\\ 外灣村  |  :::  |    |    |
-|  **Yongchun**\\ 永春  |  :::  |  Intercity Metro Diagonally Line\\ Southern Cross Line\\ Dan Chun Line\\ Suu-Southlands Line\\ Mount Birch Line\\ Rikka LRT  |    |
+|  **Waiwan Village**\\ 外灣村  |  :::  |  Cupid Line  |    |
+|  **Yongchun**\\ 永春  |  :::  |  Diagonally Line\\ Southern Cross Line\\ Dan Chun Line\\ Suu-Southlands Line\\ Mount Birch Line\\ Rikka LRT  |    |
 |  **Kamikita East**\\ 上北東  |  :::  |    |    |
-|  **Lavender Edge**\\ 紫邊  |    |    |    |
+|  **Lavender Edge**\\ 紫邊  |    |  Cin Gyun Line  |    |
 |  **Carnforth**\\ 康福斯  |    |    |    |
 |  **Paradise Fall SA**\\ 天水風景  |    |  Sightseeing Line  |    |
-|  **Nishi-Kurokusa**\\ 西黑草  |  Kurokusa  |    |    |
+|  **Nishi-Kurokusa**\\ 西黑草  |  Kurokusa  |  Shinx Line  |    |
 |  **Oxenholme Lake District**\\ 奧克森霍姆湖區  |  Oxenholme  |  Northern\\ Shimano LRT  |    |
+|  **Lauwerecht-Nyevelt**\\ 勞韋雷赫特－涅費爾特  |    |    |    |
 |  **Staalen Fort**\\ 鋼鐵堡壘  |  Staalen  |    |    |
 |  **Staalen**\\ 鋼鐵  |  :::  |    |    |
 |  **Den Hof Achterburg**\\ 騎士法庭阿赫特堡  |  's Riddershoven  |    |    |
-|  **Den Hof Europapark**\\ 騎士法庭歐洲公園  |  :::  |    |    |
-|  **Den Hof Centraal**\\ 騎士法庭中央  |  :::  |    |    |
+|  **Den Hof Europapark**\\ 騎士法庭歐洲公園  |  :::  |  D-Bahn  |    |
+|  **Den Hof Centraal**\\ 騎士法庭中央  |  :::  |  D-Bahn  |    |
