@@ -151,7 +151,7 @@ Only for odd numbers
 
 ^  Car Formation of MLR Trains  |||||^
 | //<- To Yanjiang Mineshaft// |||  //To Mesa / Mei Foo Wan ->// |||
-|  D1xx(odd) - P1xx(odd) + L1xx(even) - P1xx(even) - D1xx(even)  ||||||
+|  D1xx(odd) - P1xx(odd) + K1xx(even) - P1xx(even) - D1xx(even)  ||||||
 |  //xx refers to any number from 01 to 06//  ||||||
 ^  Car Prefix  ^  Driver's Cabin  ^  Pantograph/\\ Engine((
 MTR Mod's Super Hybrid used in non-electrified sections
@@ -162,7 +162,7 @@ For communication of electrical devices on the cars facing different sides
 |  **P1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  <color #AAAAAA>**X**</color>  |  **O**((
 Only for odd numbers
 ))  |
-|  **L1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
+|  **K1xx**  |  <color #AAAAAA>**X**</color>  |  **O**  |  **O**  |  **O**  |  **O**  |
 
 ===== Operations =====
 
