@@ -1,0 +1,63 @@
+====== [WIP article] Kowloon Station ======
+
+<WRAP 400px right>
+
+|   @#a1a1a1:  <color #ffffff>**Kowloon**</color>   |||||
+| @#ab88d8: |||||
+| @#7ddcdc: |||||
+| @#253984: |||||
+| @#598f69: |||||
+| @#090909: |||||
+| @#d0d157: |||||
+| @#7bcfa6: |||||
+| @#ebb758: |||||
+| @#90b63f: |||||
+| @#29359e: |||||
+| @#661c18: |||||
+|  picture here  |||||
+^   **Chinese name**   ^^^^^
+| **Traditional** | 九龍 ||||
+| **Simplified** | 九龙 ||||
+| **Literal meaning** | Nine Dragons ||||
+|  @#F9FFBC:  **Transcriptions**  |||||
+|  **Standard Mandarin**  |||||
+| **Hanyu Pinyin** | jiǔlóng ||||
+|  **Cantonese**  |||||
+| **Yale Romanization** | gáulùng ||||
+| **Jyutping** | gau2lung4 ||||
+^   **Overview**   ^^^^^
+| **Region** |  ||||
+| **Coordinates** | (1312, -691) ||||
+| **Owners** |  ||||
+| **Operators** | [[mtr_letsplay:auckland_transport|Transport for Greater Auckland]] ||||
+| ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] ||||
+| ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] ||||
+| ::: | [[mtr_letsplay:fairview_transit_authority|Fairview Transit Authority]] ||||
+| **Lines** | [[mtr_letsplay:auckland_transport|Austrail Great East Line]] ||||
+| ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] ||||
+| ::: | [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]] ||||
+| ::: | [[mtr_letsplay:hillside_line|Sidelines Hillside]] ||||
+| ::: | [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]] ||||
+| ::: | [[mtr_letsplay:fairview_line|Fairview Line/Fairview Express]] ||||
+| ::: | [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]] ||||
+| ::: | [[mtr_letsplay:tramlink|Tramlink]] ||||
+| ::: | [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]] ||||
+| ::: | [[mtr_letsplay:kaijin_kowloon_express_ferry|Kaijin Kowloon Express Ferry]] ||||
+| **Platforms** | 20 (4 not in use)\\ Overground rail platforms: 10\\ Underground rail platforms: 3\\ [[mtr_letsplay:tramlink|Tramlink]] platforms: 2\\ Docks: 5 ||||
+| **Tracks** | 15 ||||
+^   **Colors**   ^^^^^
+| @#ff0000:  | Red ||||
+|   |  ||||
+^   **Station**   ^^^^^
+| **Type** | Overground, underground ||||
+| **Floors** | 3 ||||
+| **Platform Floors** | 2 ||||
+| **Step-Free Accessible** | Yes ||||
+| **Station Code** |  ||||
+| **Opened** |  ||||
+| **Electrification** |  ||||
+^   **Services**   ^^^^^
+|  @#DCDCDC:  **Preceding Station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
+|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Great East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:rodtraerby_station|Rødtrærby]]//  |
+
+</WRAP>
