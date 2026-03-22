@@ -33,7 +33,7 @@
 |  @#1788EE:  **History**  ||
 | wip ||
 |  @#1788EE:  **Other information**  ||
-|  **Platform length**  |  Plat. 9-12: 100 m\\  |
+|  **Platform length**  |  Plat. 9-12: 100 m  |
 |  **Electrification**  |  Platforms 9 & 12: Catenary\\ Else: none  |
 
 </WRAP>
