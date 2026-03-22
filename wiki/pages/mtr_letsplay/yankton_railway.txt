@@ -52,6 +52,7 @@
 強壯綜合交通 Stronger Complex Transit Network
 \\ 4/4P/4S 巴士 Bus --- 重生區巴士總站至西暮島 Spawn Bus Terminus to Sai Mo Island
 \\ 5/5M 巴士 Bus --- 重生區巴士總站至雪漠村 (西) Spawn Bus Terminus to Icesert Estate (West)
+\\ 52 巴士 Bus --- 冬浮雪釘至岸口 Winry Snow Spikes to On Hau
 \\ 55K 二民島輕軌 Divillage Island LRT
 
 合作鐵路 (不直屬本公司) Railway in Cooperation (Not direct-linked to this railway company)
