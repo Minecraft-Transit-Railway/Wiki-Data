@@ -9,6 +9,7 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
   * Built-in R-train is lacking some interior decoration
   * Sometimes certain train will be completely silent, then become normal again after riding the train for a period of time
   * OBJ Model loading is slower than NTE (Partially addressed in JCM v2.2)
+  * When path refresh failed, it may say "Failed to generate path for n sidings", where n may be larger than the amount of sidings in the depot. (In path generation, path for both OUT depot (To main route) and IN depot (Return to depot) direction are searched. If it is exactly 2x the amount of sidings, it means both path segment failed. If it is normal, then either the OUT and IN depot segments have failed.)
 
 ==== Unconfirmed issues/bugs ====
 
