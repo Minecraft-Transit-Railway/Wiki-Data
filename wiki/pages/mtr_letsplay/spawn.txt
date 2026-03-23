@@ -10,7 +10,7 @@
 |  {{mtr_letsplay:spawn.png?450}}  ||
 |  @#1788EE:  **Chinese name**  ||
 | [[wp>Chinese_language|Chinese]] | 重生區 |
-| Literal meaning | Rebirth zone<sup>[needs confirmation]</sup> |
+| Literal meaning | Respawn zone |
 |  @#F9FFBC:  **Transcriptions**  ||
 |  @#DCFFC9:  **[[wp>Standard_chinese|Mandarin]]**  ||
 | [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | Chóngshēng qū |
