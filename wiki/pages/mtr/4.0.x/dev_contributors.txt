@@ -6,14 +6,13 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
 
   * Train will not render with Sodium in MC 1.19.4 (Or Rubidium on MC Forge 1.20.1, switch to Embeddium in that case)
   * F3+T/lagging when riding a train will kick the player with ''Invalid move player packet received'' (Can repo in Singleplayer)
-  * Dynamic Texture generation could potentially fail (''java.lang.NullPointerException: Cannot invoke "java.awt.Font.deriveFont(int, float)" because "this.font" is null'')
   * Built-in R-train is lacking some interior decoration
   * Sometimes certain train will be completely silent, then become normal again after riding the train for a period of time
+  * OBJ Model loading is slower than NTE (Partially addressed in JCM v2.2)
 
 ==== Unconfirmed issues/bugs ====
 
   * Exception/Crash when loading rail model which points to an non-existent file
-  * The resource pack creator cannot use non-alphanumeric characters such as CJK, and characters are garbled when exported.
 
 ==== Non-blocking issues/bugs ====
 
@@ -26,5 +25,5 @@ MTR 4 still have some issues / regressions introduced since MTR 3, which you can
 ==== Unimplemented Features ====
 
   * Ding Sounds in Elevator
-  * Scripting functionalities from Nemo Transit Expansion for MTR 3 (NTE)
+  * Scripting functionalities from Nemo Transit Expansion (NTE) mod (Similar functionality provided by JCM v2.2)
 
