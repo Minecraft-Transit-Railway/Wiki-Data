@@ -1,4 +1,4 @@
-====== [WIP article] Kowloon Station ======
+====== [WIP article] Kowloon station ======
 
 <WRAP 400px right>
 
@@ -14,7 +14,7 @@
 | @#90b63f: |||||
 | @#29359e: |||||
 | @#661c18: |||||
-|  picture here  |||||
+|  {{ :mtr_letsplay:kowloon.png?380 }}Kowloon station exterior, with clock tower built by Jonathan.  |||||
 ^   **Chinese name**   ^^^^^
 | **Traditional** | 九龍 ||||
 | **Simplified** | 九龙 ||||
@@ -46,18 +46,31 @@
 | **Platforms** | 20 (4 not in use)\\ Overground rail platforms: 10\\ Underground rail platforms: 3\\ [[mtr_letsplay:tramlink|Tramlink]] platforms: 2\\ Docks: 5 ||||
 | **Tracks** | 15 ||||
 ^   **Colors**   ^^^^^
-| @#ff0000:  | Red ||||
-|   |  ||||
+|  @#ff0000:  | Red (canopy) ||||
+|  @#a1a1a1:  | Gray (station color) ||||
+|    |    ||||
 ^   **Station**   ^^^^^
 | **Type** | Overground, underground ||||
 | **Floors** | 3 ||||
 | **Platform Floors** | 2 ||||
-| **Step-Free Accessible** | Yes ||||
+| **Step-Free Accessible** |  ||||
 | **Station Code** |  ||||
 | **Opened** |  ||||
 | **Electrification** |  ||||
 ^   **Services**   ^^^^^
-|  @#DCDCDC:  **Preceding Station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
+|  @#DCDCDC:  **Preceding station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
 |  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Great East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:rodtraerby_station|Rødtrærby]]//  |
+|  [[mtr_letsplay:kowloon_tong_station|Kowloon Tong]]\\ //towards [[mtr_letsplay:spawn|Cyan Heights]]//  |  @#29359e:  |  [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]]  |  @#29359e:  |  [[mtr_letsplay:inlet_bay_station|Inlet Bay]]\\ //towards [[mtr_letsplay:waitemata_station|Waitematā]]//  |
+|  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#dcdcdc:  **Following station**  |
+|  //Terminus//  |  @#7ddcdc:  |  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]  |  @#7ddcdc:  |  [[mtr_letsplay:dry_dock_north_station|Dry Dock North]]\\ //towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]]//  |
+|  [[mtr_letsplay:sunrise_station|Sunrise]]\\ //Terminus//  |  @#ebb758:  |  [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]]  |  @#ebb758:  |  [[mtr_letsplay:spawn|Spawn HSR T1]]\\ //towards [[mtr_letsplay:yongchun_station|Yongchun]]//  |
+|  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:lilypad_rail|Lilypad Rail]]**  |||  @#dcdcdc:  **Following station**  |
+|  [[mtr_letsplay:green_station|Green]]\\ //towards [[mtr_letsplay:kamisato_village_station|Kamisato Village]]//  |  @#253984:  |  [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]]  |  @#253984:  |  [[mtr_letsplay:forest_peaks_station|Forest Peaks]]\\ //towards [[mtr_letsplay:snowfall_mountain_station|Snowfall Mountain]]//  |
+|  //Terminus//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]  |  @#598f69:  |  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |
+|  //Terminus//  |  @#090909:  |  [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]]  |  @#090909:  |  [[mtr_letsplay:soko_station|SoKo]]\\ //towards [[mtr_letsplay:cyan_heights_manual_driving_terminal|Cyan Heights MDT]]//  |
+|  //Terminus//  |  @#90b63f:  |  [[mtr_letsplay:tramlink|Tramlink]]  |  @#90b63f:  |  [[mtr_letsplay:forest_ridge_station|Forest Ridge]]\\ //towards [[mtr_letsplay:point_douglas_station|Point Douglas]]//  |
+|  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:fairview_transit_authority|Fairview Transit Authority]]**  |||  @#dcdcdc:  **Following station**  |
+|  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |  @#d0d157:  |  [[mtr_letsplay:fairview_line|Fairview Line]]  |  @#d0d157:  |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |
+|  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |
 
 </WRAP>
