@@ -27,9 +27,9 @@
 | **Yale Romanization** | gáulùng ||||
 | **Jyutping** | gau2lung4 ||||
 ^   **Overview**   ^^^^^
-| **Region** |  ||||
+| **Region** | Spawn ||||
 | **Coordinates** | (1312, -691) ||||
-| **Owners** |  ||||
+| **Owner** | [[mtr_community:staff:sleepy_sapph|sleepy_sapph (aka Lily)]] ||||
 | **Operators** | [[mtr_letsplay:auckland_transport|Transport for Greater Auckland]] ||||
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] ||||
 | ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] ||||
@@ -57,7 +57,7 @@
 | **Floors** | 3 ||||
 | **Platform Floors** | 2 ||||
 | **Step-Free Accessible** | No ||||
-| **Station Code** |  ||||
+| **Station Code** | KOW ||||
 | **Opened** | January 2023 ||||
 | **Electrification** | Pengaloo line: 630 V DC [[wp>Fourth_rail|fourth rail]]\\ All other lines: None ||||
 ^   **Services**   ^^^^^
@@ -70,11 +70,27 @@
 |  [[mtr_letsplay:sunrise_station|Sunrise]]\\ //Terminus//  |  @#ebb758:  |  [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]]  |  @#ebb758:  |  [[mtr_letsplay:spawn|Spawn HSR T1]]\\ //towards [[mtr_letsplay:yongchun_station|Yongchun]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:lilypad_rail|Lilypad Rail]]**  |||  @#dcdcdc:  **Following station**  |
 |  [[mtr_letsplay:green_station|Green]]\\ //towards [[mtr_letsplay:kamisato_village_station|Kamisato Village]]//  |  @#253984:  |  [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]]  |  @#253984:  |  [[mtr_letsplay:forest_peaks_station|Forest Peaks]]\\ //towards [[mtr_letsplay:snowfall_mountain_station|Snowfall Mountain]]//  |
-|  //Terminus//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]  |  @#598f69:  |  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |
+|  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]  |  @#598f69:  |  //Terminus//  |
 |  //Terminus//  |  @#090909:  |  [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]]  |  @#090909:  |  [[mtr_letsplay:soko_station|SoKo]]\\ //towards [[mtr_letsplay:cyan_heights_manual_driving_terminal|Cyan Heights MDT]]//  |
 |  //Terminus//  |  @#90b63f:  |  [[mtr_letsplay:tramlink|Tramlink]]  |  @#90b63f:  |  [[mtr_letsplay:forest_ridge_station|Forest Ridge]]\\ //towards [[mtr_letsplay:point_douglas_station|Point Douglas]]//  |
+|  //Terminus//  |  @#661c18:  |  [[mtr_letsplay:lilypad_waterways|Kaijin Kowloon Express Ferry]]  |  @#661c18:  |  [[mtr_letsplay:ngan_wan_ferry_pier|Ngan Wan Ferry Pier]]\\ //towards [[mtr_letsplay:kaijin_ferry_pier|Kaijin Ferry Pier]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:fairview_transit_authority|Fairview Transit Authority]]**  |||  @#dcdcdc:  **Following station**  |
-|  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |  @#d0d157:  |  [[mtr_letsplay:fairview_line|Fairview Line]]  |  @#d0d157:  |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |
-|  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |
+|  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#d0d157:  |  [[mtr_letsplay:fairview_line|Fairview Line]]  |  @#d0d157:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |
+|  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |
 
 </WRAP>
+
+**Kowloon** //(Chinese: 九龍)// is a major interchange station on the [[mtr_letsplay:start|Let's Play Server]], featuring 8 heavy rail, 1 high-speed rail, 1 light rail and 2 ferry lines. The station is located ~1500 blocks northeast of Spawn and one of the most frequented stations on the server.
+
+===== General information =====
+
+The station is one of the oldest stations to be constructed on the Let's Play Server. It is located on the intersection of a plains and a beach biome, facing north-south. Its namesake is [[wp>Kowloon_station_(MTR)|MTR Kowloon station]], which in turn is named after one of the three main geographical regions of [[wp>Hong_Kong#Administrative_divisions|Hong Kong]].
+
+===== History =====
+
+  * **Unknown 2022:** The original Kowloon station is built, although it remains unused.
+  * **11 December 2022:** The station is taken over by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]] and a new station design is proposed.
+  * **5 January 2023:** After the demolition of the old Kowloon station, construction starts on the new station, which is visibly based on\\ [[wp>Canary_Wharf_DLR_station|Canary Wharf DLR station]] in London.
+  * **8 January 2023:** The new station first appears on the system map in [[https://www.youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH|S3E1 of the Let's Play Series]], marked as WIP.
+  * **29 January 2023:** The station reappears in S3E3, now featuring the Metro Pengaloo Line Phase 4.
+  * **5 February 2023:** Jonathan builds the Clock Tower northeast of the station in S3E4.
