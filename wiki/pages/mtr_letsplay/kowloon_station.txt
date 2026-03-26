@@ -4,6 +4,7 @@
 
 |   @#a1a1a1:  <color #ffffff>**Kowloon**</color>   |||||
 | @#ab88d8: |||||
+| @#437b71: |||||
 | @#7ddcdc: |||||
 | @#253984: |||||
 | @#598f69: |||||
@@ -33,7 +34,8 @@
 | ::: | [[mtr_letsplay:qingli_railways|Qingli Railways]] ||||
 | ::: | [[mtr_letsplay:lilypad_rail|Lilypad Rail]] ||||
 | ::: | [[mtr_letsplay:fairview_transit_authority|Fairview Transit Authority]] ||||
-| **Lines** | [[mtr_letsplay:auckland_transport|Austrail Great East Line]] ||||
+| **Lines** | [[mtr_letsplay:auckland_transport|Austrail Far East Line]] ||||
+| ::: | [[mtr_letsplay:auckland_transport|Austrail Northern Link Line]] ||||
 | ::: | [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] ||||
 | ::: | [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]] ||||
 | ::: | [[mtr_letsplay:hillside_line|Sidelines Hillside]] ||||
@@ -43,23 +45,25 @@
 | ::: | [[mtr_letsplay:tramlink|Tramlink]] ||||
 | ::: | [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]] ||||
 | ::: | [[mtr_letsplay:kaijin_kowloon_express_ferry|Kaijin Kowloon Express Ferry]] ||||
-| **Platforms** | 20 (4 not in use)\\ Overground rail platforms: 10\\ Underground rail platforms: 3\\ [[mtr_letsplay:tramlink|Tramlink]] platforms: 2\\ Docks: 5 ||||
+| **Platforms** | 21 (4 not in use)\\ Overground rail platforms: 10\\ Underground rail platforms: 3\\ [[mtr_letsplay:tramlink|Tramlink]] platforms: 2\\ Docks: 6 ||||
 | **Tracks** | 15 ||||
 ^   **Colors**   ^^^^^
-|  @#ff0000:  | Red (canopy) ||||
-|  @#a1a1a1:  | Gray (station color) ||||
-|    |    ||||
+|  @#931e14:  | Red (canopy) ||||
+|  @#4e4c48:  | Dark gray (underground concourse) ||||
+|  @#ede6e0:  | Beige (underground concourse/platforms) ||||
+|  @#e0dbb5:  | Sandstone (overground walls/clock tower) ||||
 ^   **Station**   ^^^^^
 | **Type** | Overground, underground ||||
 | **Floors** | 3 ||||
 | **Platform Floors** | 2 ||||
-| **Step-Free Accessible** |  ||||
+| **Step-Free Accessible** | No ||||
 | **Station Code** |  ||||
-| **Opened** |  ||||
-| **Electrification** |  ||||
+| **Opened** | January 2023 ||||
+| **Electrification** | Pengaloo line: 630 V DC [[wp>Fourth_rail|fourth rail]]\\ All other lines: None ||||
 ^   **Services**   ^^^^^
 |  @#DCDCDC:  **Preceding station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
-|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Great East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:rodtraerby_station|Rødtrærby]]//  |
+|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:rodtraerby_station|Rødtrærby]]//  |
+|  //Terminus//  |  @#437b71:  |  [[mtr_letsplay:auckland_transport|Austrail Northern Link Line]]  |  @#437b71:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:pittsford_station|Pittsford]]//  |
 |  [[mtr_letsplay:kowloon_tong_station|Kowloon Tong]]\\ //towards [[mtr_letsplay:spawn|Cyan Heights]]//  |  @#29359e:  |  [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]]  |  @#29359e:  |  [[mtr_letsplay:inlet_bay_station|Inlet Bay]]\\ //towards [[mtr_letsplay:waitemata_station|Waitematā]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#dcdcdc:  **Following station**  |
 |  //Terminus//  |  @#7ddcdc:  |  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]  |  @#7ddcdc:  |  [[mtr_letsplay:dry_dock_north_station|Dry Dock North]]\\ //towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]]//  |
