@@ -1,5 +1,5 @@
 ====== [WIP article] Kowloon station ======
-
+This article has many inaccurate dates. Please help by adding dates to the History section if possible.
 <WRAP 400px right>
 
 |   @#a1a1a1:  <color #ffffff>**Kowloon**</color>   |||||
@@ -105,3 +105,21 @@ The station is one of the oldest stations to be constructed on the Let's Play Se
   * **8 December 2025:** The Manual Driving Learner's Line opens.
   * **Unknown December 2025:** The AT Metro services are rebranded to Austrail, and the Austrail Great East Line (now Far East Line) starts service.
   * **26 March 2026:** The Austrail Northern Link Line starts serving Kowloon.
+
+===== Layout =====
+
+The station is features 3 floors in the main building and a rooved waterfront exit with access to the ferry docks and Tramlink platforms. All platforms are north-south oriented.
+
+==== The waterfront ====
+
+The station can only be accessed by the waterfront entrance, which comprises a big open hall with a north-south canopy, similar to the main canopy, in red concrete and glass. The floor is constructed of stone bricks. The ferry docks are located on the eastern edge, directly facing the water. Access is possible through gateways on the north and south sides between the water and the Tramlink tracks.
+
+==== Main station building ====
+
+West of the entrance is the actual station building. As previously mentioned, the design is inspired by Canary Wharf DLR station. The main bulding only has a single stair/escalator access leading from the waterfront exit to the underground concourse.
+
+=== Concourse ===
+
+{{ :mtr_letsplay:kowloon_arrival_board.png?512 |Passenger information displays at the concourse}}
+Passenger information displays at the concourse.
+
