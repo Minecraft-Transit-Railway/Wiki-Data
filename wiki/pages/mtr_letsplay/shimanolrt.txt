@@ -77,8 +77,6 @@ It is possible to connect an odd number of cars to a train, and single-car forma
 | **STADTACE Stadtbahn 1994** | Subaru Vista Blue | 1 - 5 |
 | **STADTACE Stadtbahn 1999** | ::: | 2 - 5 |
 
-A model equipped with through doors for the Shimahana Line is currently under development.
-
 ===S43-Tec Stadtbahn===
 A vehicle made by S43. It is the successor model to the S43-Tec LRT that existed when the SLRT opened.
 It is possible to connect an odd number of cars to a train, and single-car formations are also possible.
@@ -91,8 +89,11 @@ Only Stadtbahn 2002 has a Metro model with a larger proportion of seats across t
 | **S43-Tec Stadtbahn 1995** | Orange | ::: |
 | **S43-Tec Stadtbahn 1995mod** | Blue Green | ::: |
 | **S43-Tec Stadtbahn 2002** | Red | ::: |
+| @#999999: **S43-Tec Stadtbahn 1980** | @#999999: Blue | @#999999: 1 - 5 |
+| @#999999: **S43-Tec Stadtbahn 2010** | @#999999: Purple | ::: |
+| @#999999: **S43-Tec Stadtbahn 2026** | @#999999: Magenta | ::: |
 
-Currently, the vehicles introduced during the MTR3 era, excluding the LRV 2020, and their corresponding remaining variants are scheduled for introduction, but manufacturing is expected to take a considerable amount of time.
+The gray vehicles are currently out of service for modifications to adapt to the MTR4 system, but the former LRV2020 was decommissioned in June 2025.
 
 ===Shimano MTR Compatible Model===
 A model compatible with through service to Shimano MTR.
@@ -101,6 +102,7 @@ Due to its design, it is not possible to couple it with other trains.
 
 ^  Model  ^  Livery  ^  Cars  ^
 | **LIGHTACE 1999T Stock** | Lavender(Catnap) | 4 |
+| **STADTACE Stadtbahn 1994** | Lavender(Catnap) | 4 |
 
 The remaining seven types will be introduced sequentially as the scope of through services with SMTR and other systems expands.
 
@@ -123,7 +125,7 @@ A modified 2002 model with a special paint scheme is planned for future introduc
 A train that connects to LRT from Shimano MTR. Due to its design, it is not possible to couple it with other trains.
 ^  Model  ^  Livery  ^  Cars  ^
 | **[[mtr_letsplay:13-100_series|13-100 Series]]** | Jigglypuff Line Smoke Pink | 4 |
-| **[[mtr_letsplay:14-000_series|14-000 Series]]** | Dialga Line Blue | 4 |
+| **[[mtr_letsplay:14-000_series|14-000 Series]]** | Shimahana Line Gray | 4 |
 Note:The above vehicle is owned by [[mtr_letsplay:terralith_rapid_transit|TRT]]
 
 ===Teufort LRT====
