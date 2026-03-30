@@ -62,7 +62,7 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 | **Electrification** | Pengaloo line: 630 V DC [[wp>Fourth_rail|fourth rail]]\\ All other lines: None ||||
 ^   **Services**   ^^^^^
 |  @#DCDCDC:  **Preceding station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
-|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:rodtraerby_station|Rødtrærby]]//  |
+|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:hojaker_station|Højåkern]]//  |
 |  //Terminus//  |  @#437b71:  |  [[mtr_letsplay:auckland_transport|Austrail Northern Link Line]]  |  @#437b71:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:pittsford_station|Pittsford]]//  |
 |  [[mtr_letsplay:kowloon_tong_station|Kowloon Tong]]\\ //towards [[mtr_letsplay:spawn|Cyan Heights]]//  |  @#29359e:  |  [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]]  |  @#29359e:  |  [[mtr_letsplay:inlet_bay_station|Inlet Bay]]\\ //towards [[mtr_letsplay:waitemata_station|Waitematā]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#dcdcdc:  **Following station**  |
