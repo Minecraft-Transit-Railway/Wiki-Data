@@ -91,22 +91,24 @@ The station is one of the oldest stations to be constructed on the Let's Play Se
 
 ===== History =====
 
-  * **Unknown 2022:** The original Kowloon station is built, although it remains unused.
+  * **2022:** The original Kowloon station is built, although it remains unfinished and unused.
   * **11 December 2022:** The station is taken over by [[mtr_community:staff:sleepy_sapph|sleepy_sapph]] and a new station design is proposed.
-  * **5 January 2023:** After the demolition of the old Kowloon station, construction starts on the new station, which is visibly based on\\ [[wp>Canary_Wharf_DLR_station|Canary Wharf DLR station]] in London.
+  * **15 December 2022:** After the demolition of the old Kowloon station, construction starts on the new station, which was originally based on [[wp>Richmond_railway_station,_Melbourne|Richmond station]] in Melbourne, Australia. By this date there is a basic structure in place with a vague resemblance to Richmond.
+  * **5 January 2023** Station owner Lilypad Rail holds a community poll on the design basis of the station, and after a result of 74% in favour of a redesign (20 vs. 7), a station redesign is undertaken to base Kowloon instead off of [[wp>Canary_Wharf_DLR_station|Canary Wharf DLR station]] in London, England.
   * **8 January 2023:** The new station first appears on the system map in [[https://www.youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH|S3E1 of the Let's Play Series]], marked as WIP.
   * **29 January 2023:** The station reappears in S3E3, now featuring the Metro Pengaloo Line Phase 4, the Kowloon Commuter, AT Metro service 2301 and the BVM on platforms 1/2, 3/4, 9, and A/E, respectively.
   * **5 February 2023:** Jonathan builds the Clock Tower northeast of the station in S3E4. The tower is based on the real-life [[wp>Clock_tower,_Hong_Kong|Kowloon Clock Tower]] which used to be a part of old [[wp>Kowloon_railway_station_(KCR)|KCR Kowloon Terminus]] demolished in 1978.
-  * **23 March 2023:** The Pengaloo Line is split in 2 sections, now no longer serving Kowloon.
+  * **23 March 2023:** The Pengaloo Line is split in 2 sections, temporarily no longer serving Kowloon, in order to enable construction work for new underground platforms (now platforms 12-13) and the elimination of Kowloon Tong as a calling point for the Metro Pengaloo Line
   * **24 March 2023:** The station's canopy is recoloured to the Trans Flag's colours light blue, pink and white for Trans* Visibility and Awareness Day.
-  * **2 April 2023:** The Kowloon Commuter service is suspended.
+  * **2 April 2023:** The Kowloon Commuter service is suspended in order to enable construction work for a new underground platform (now platform 11). Heung Hoi station, previously located north of Kowloon, is now fully closed and demolished at this time.
   * **13 April 2023:** [[mtr_letsplay:tramlink|Tramlink]] starts service.
-  * **Unknown April 2023:** The [[mtr_letsplay:hsr_diagonally_line|Intercity Metro-Diagonally Line]] starts serving Kowloon.
-  * **Unknown April/May 2023:** The Pengaloo Line resumes its service at Kowloon.
-  * **Unknown May/June/July 2023:** The Kowloon Commuter resumes service.
-  * **Unknown August 2023:** The Kowloon Commuter is taken over by sleepy_sapph and renamed Hillside Line.
+  * **April 2023:** The [[mtr_letsplay:hsr_diagonally_line|Intercity Metro-Diagonally Line]] starts serving Kowloon.
+  * **April/May 2023:** The Pengaloo Line resumes its service at Kowloon.
+  * **May/June/July 2023:** The Kowloon Commuter resumes service.
+  * **6 August 2023:** The Kowloon Commuter is absorbed into Lilypad Rail and renamed Hillside Line.
+  * **21 October 2024:** The Hillside Line becomes Sidelines Hillside as apart of the broader merger & official branding as Sidelines as a separate entity from its owners and their respective companies.
   * **8 December 2025:** The Manual Driving Learner's Line opens.
-  * **Unknown December 2025:** The AT Metro services are rebranded to Austrail, and the Austrail Great East Line (now Far East Line) starts service.
+  * **10 December 2025:** The AT Metro services are rebranded to Austrail, and the Austrail Great East Line (now Far East Line) starts service.
   * **26 March 2026:** The Austrail Northern Link Line starts serving Kowloon.
 
 ===== Layout =====
