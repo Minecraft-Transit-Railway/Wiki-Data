@@ -1,8 +1,10 @@
 ====== [WIP article] Kowloon station ======
+
 This article has many inaccurate dates. Please help by adding dates to the History section if possible.
+
 <WRAP 400px right>
 
-|   @#a1a1a1:  <color #ffffff>**Kowloon**</color>   |||||
+|  @#a1a1a1:  <color #ffffff>**Kowloon**</color>  |||||
 | @#ab88d8: |||||
 | @#437b71: |||||
 | @#7ddcdc: |||||
@@ -16,17 +18,7 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 | @#29359e: |||||
 | @#661c18: |||||
 |  {{ :mtr_letsplay:kowloon.png?380 }}Kowloon station exterior, with clock tower built by Jonathan.  |||||
-^   **Chinese name**   ^^^^^
-| **Traditional** | 九龍 ||||
-| **Simplified** | 九龙 ||||
-| **Literal meaning** | Nine Dragons ||||
-|  @#F9FFBC:  **Transcriptions**  |||||
-|  **Standard Mandarin**  |||||
-| **Hanyu Pinyin** | jiǔlóng ||||
-|  **Cantonese**  |||||
-| **Yale Romanization** | gáulùng ||||
-| **Jyutping** | gau2lung4 ||||
-^   **Overview**   ^^^^^
+^  **Overview**  ||||^
 | **Region** | Spawn ||||
 | **Coordinates** | (1312, -691) ||||
 | **Owner** | [[mtr_community:staff:sleepy_sapph|sleepy_sapph (aka Lily)]] ||||
@@ -47,20 +39,20 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 | ::: | [[mtr_letsplay:kaijin_kowloon_express_ferry|Kaijin Kowloon Express Ferry]] ||||
 | **Platforms** | 21 (4 not in use)\\ Overground rail platforms: 10\\ Underground rail platforms: 3\\ [[mtr_letsplay:tramlink|Tramlink]] platforms: 2\\ Docks: 6 ||||
 | **Tracks** | 15 ||||
-^   **Colors**   ^^^^^
+^  **Colors**  ||||^
 |  @#931e14:  | Red (canopy) ||||
 |  @#4e4c48:  | Dark gray (underground concourse) ||||
 |  @#ede6e0:  | Beige (underground concourse/platforms) ||||
 |  @#e0dbb5:  | Sandstone (overground walls/clock tower) ||||
-^   **Station**   ^^^^^
+^  **Station**  ||||^
 | **Type** | Overground, underground ||||
 | **Floors** | 3 ||||
 | **Platform Floors** | 2 ||||
-| **Step-Free Accessible** | No ||||
-| **Station Code** | KOW ||||
+| **Step-Free Accessible** | Yes ||||
+| **Station Code** | KOW / KWL ||||
 | **Opened** | January 2023 ||||
 | **Electrification** | Pengaloo line: 630 V DC [[wp>Fourth_rail|fourth rail]]\\ All other lines: None ||||
-^   **Services**   ^^^^^
+^  **Services**  ||||^
 |  @#DCDCDC:  **Preceding station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
 |  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:hojaker_station|Højåkern]]//  |
 |  //Terminus//  |  @#437b71:  |  [[mtr_letsplay:auckland_transport|Austrail Northern Link Line]]  |  @#437b71:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:pittsford_station|Pittsford]]//  |
@@ -70,13 +62,29 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 |  [[mtr_letsplay:sunrise_station|Sunrise]]\\ //Terminus//  |  @#ebb758:  |  [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]]  |  @#ebb758:  |  [[mtr_letsplay:spawn|Spawn HSR T1]]\\ //towards [[mtr_letsplay:yongchun_station|Yongchun]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:lilypad_rail|Lilypad Rail]]**  |||  @#dcdcdc:  **Following station**  |
 |  [[mtr_letsplay:green_station|Green]]\\ //towards [[mtr_letsplay:kamisato_village_station|Kamisato Village]]//  |  @#253984:  |  [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]]  |  @#253984:  |  [[mtr_letsplay:forest_peaks_station|Forest Peaks]]\\ //towards [[mtr_letsplay:snowfall_mountain_station|Snowfall Mountain]]//  |
-|  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]((The Sidelines network is jointly operated by Lilypad Rail and [[mtr_community:staff:electrostar|Electrostar]].))  |  @#598f69:  |  //Terminus//  |
-|  //Terminus//  |  @#090909:  |  [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]]  |  @#090909:  |  [[mtr_letsplay:soko_station|SoKo]]\\ //towards [[mtr_letsplay:cyan_heights_manual_driving_terminal|Cyan Heights MDT]]//  |
+|  //Terminus//  |  @#090909:  |  [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]]((Although the Manual Driving Learner's Line is primarily managed and administered by Lily, the Let's Play Team bares collective responsibility for the line. It is placed under Lilypad Rail on account of it lacking an official separate operator.))  |  @#090909:  |  [[mtr_letsplay:soko_station|SoKo]]\\ //towards [[mtr_letsplay:cyan_heights_manual_driving_terminal|Cyan Heights MDT]]//  |
 |  //Terminus//  |  @#90b63f:  |  [[mtr_letsplay:tramlink|Tramlink]]  |  @#90b63f:  |  [[mtr_letsplay:forest_ridge_station|Forest Ridge]]\\ //towards [[mtr_letsplay:point_douglas_station|Point Douglas]]//  |
 |  //Terminus//  |  @#661c18:  |  [[mtr_letsplay:lilypad_waterways|Kaijin Kowloon Express Ferry]]  |  @#661c18:  |  [[mtr_letsplay:ngan_wan_ferry_pier|Ngan Wan Ferry Pier]]\\ //towards [[mtr_letsplay:kaijin_ferry_pier|Kaijin Ferry Pier]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:fairview_transit_authority|Fairview Transit Authority]]**  |||  @#dcdcdc:  **Following station**  |
 |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#d0d157:  |  [[mtr_letsplay:fairview_line|Fairview Line]]  |  @#d0d157:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |
-|  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  |
+|  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  | 
+|  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:sidelines|Sidelines]]**  |||  @#dcdcdc:  **Following station**  |
+|  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]  |  @#598f69:  |  //Terminus//  |
+
+<WRAP right>
+
+|  @#b0c4de:  **Kowloon**  ||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 九龍 |
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 九龙 |
+| Literal Meaning | Nine Dragons |
+|  @#F9FFBB: **Transcriptions**  ||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | jiǔ lóng |
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | gáu lùng |
+| [[wp>Jyutping|JyutPing]] | gau2 lung4 |
+
+</WRAP>
 
 </WRAP>
 
@@ -120,7 +128,7 @@ West of the entrance is the actual station building. As previously mentioned, th
 
 === Concourse ===
 
-{{ :mtr_letsplay:kowloon_arrival_board.png?512 |Passenger information displays at the concourse}}
-Passenger information displays at the concourse.
+{{ :mtr_letsplay:kowloon_arrival_board.png?512 |Passenger information displays at the concourse}} Passenger information displays at the concourse.
 
-The station's concourse features a large passenger information display screen in the entrance area, as seen in other large Lilypad Rail hubs like [[mtr_letsplay:llanmara|Llanmara Saint Ann's]]. The concourse has a floor out of randomly arranged stone, polished andesite and sea lanterns, walls out of [[mtr_addon:lu:start|London Underground Addon]] gray concrete, a ceiling out of quartz blocks and station-coloured purpur blocks, as well as ceiling lights and JCM light lanterns for lighting and evenly arranged quartz pillars. The stairs leading to the upper platforms are JCM's MTR stairs flanked by deepslate tile stairs and walls. All platforms can be accessed by stairs and lifts, despite latter being impractical to wheelchair users since there are no lifts //to// the concourse from the outside.
+The station's concourse features a large passenger information display screen in the entrance area, as seen in other large Lilypad Rail hubs like [[mtr_letsplay:llanmara|Llanmara Saint Ann's]]. The concourse has a floor out of randomly arranged stone, polished andesite and sea lanterns, walls out of [[mtr_addon:lu:start|London Underground Addon]] gray concrete, a ceiling out of quartz blocks and station-coloured purpur blocks, as well as ceiling lights and JCM light lanterns for lighting and evenly arranged quartz pillars. The stairs leading to the upper platforms are JCM's MTR stairs flanked by deepslate tile stairs and walls. All platforms can be accessed by stairs and lifts.
+
