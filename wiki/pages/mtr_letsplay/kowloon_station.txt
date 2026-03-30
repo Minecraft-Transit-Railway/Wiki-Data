@@ -18,6 +18,16 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 | @#29359e: |||||
 | @#661c18: |||||
 |  {{ :mtr_letsplay:kowloon.png?380 }}Kowloon station exterior, with clock tower built by Jonathan.  |||||
+|  @#b0c4de:  **Chinese Name**  |||||
+| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 九龍 ||||
+| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 九龙 ||||
+| Literal Meaning | Nine Dragons ||||
+|  @#F9FFBB: **Transcriptions**  |||||
+|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  |||||
+| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | jiǔ lóng ||||
+|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  |||||
+| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | gáu lùng ||||
+| [[wp>Jyutping|JyutPing]] | gau2 lung4 ||||
 ^  **Overview**  ||||^
 | **Region** | Spawn ||||
 | **Coordinates** | (1312, -691) ||||
@@ -70,21 +80,6 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 |  [[mtr_letsplay:oceanline_station|Oceanline]]\\ //towards [[mtr_letsplay:liskeard|Liskeard Waterloo]]//  |  @#7bcfa6:  |  [[mtr_letsplay:fairview_line|Fairview Express]]  |  @#7bcfa6:  |  [[mtr_letsplay:museum_station|Museum]]\\ //Terminus//  | 
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:sidelines|Sidelines]]**  |||  @#dcdcdc:  **Following station**  |
 |  [[mtr_letsplay:bayside_exchange_station|Bayside Exchange]]\\ //towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]]//  |  @#598f69:  |  [[mtr_letsplay:hillside_line|Sidelines Hillside]]  |  @#598f69:  |  //Terminus//  |
-
-<WRAP right>
-
-|  @#b0c4de:  **Kowloon**  ||
-| [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 九龍 |
-| [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 九龙 |
-| Literal Meaning | Nine Dragons |
-|  @#F9FFBB: **Transcriptions**  ||
-|  @#DAFDC7: [[wp>Standard_Chinese|Standard Mandarin]]  ||
-| [[wp>Hanyu_Pinyin|Hanyu Pinyin]] | jiǔ lóng |
-|  @#DAFDC7: [[wp>Cantonese|Yue: Cantonese]]  ||
-| [[wp>Yale_Romanization_of_Cantonese|Yale Romanization]] | gáu lùng |
-| [[wp>Jyutping|JyutPing]] | gau2 lung4 |
-
-</WRAP>
 
 </WRAP>
 
