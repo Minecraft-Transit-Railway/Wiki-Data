@@ -40,7 +40,7 @@ The pack format is what version of Minecraft the pack is for. If you are only ad
 
 </WRAP>
 
-  * Create a new folder named MTR in the assets folder.
+  * Create a new folder named ''mtr'' in the assets folder.
   * Create a text file inside the folder named ''mtr_custom_resources.json''
 
 ==== JSON files ====
