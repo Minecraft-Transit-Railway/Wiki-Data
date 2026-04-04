@@ -220,7 +220,7 @@ All units are radius. As of 4.0.3. SMTR only.
 SMTR is required to install emergency doors at the front of all carriages.
 Furthermore, from August 2024 onwards, gangways will, in principle, be required to be designed so that passengers can pass through from front to back.
 SLRT is not required to install emergency doors, but the above standards must be adhered to if it provides through service to SMTR (including only entering SMTR at one station).
-Currently, only Lines S4 and S11 do not allow intrusion into the driver's cab ((Instead, the hit box has been adjusted to make the wall of the driver's cab less visible.)) This may be expanded to other lines in the future.
+Currently, access to the driver's cab is prohibited only on routes using LIMPHOX and THIRDPHOX trains. ((Instead, the hit box has been adjusted to make the wall of the driver's cab less visible.)) This may be expanded to other lines in the future.
 Due to concerns about schedule disruption, manual operation will not be implemented except during events.
 ====Train length ====
 |@#EFEEF0:Route|@#EFEEF0:Length(car length×per cars)|
