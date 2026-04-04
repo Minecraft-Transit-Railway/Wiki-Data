@@ -177,7 +177,7 @@ Most trains are serving between Mesa or Mei Foo Wan and Yanjiang Mineshaft, usua
 |  Early Morning\\ \\ (5 am - 9 am)  |  \\ 3  |  \\ 6  ||
 |  Day Time\\ \\ (9 am - 9 pm)  |  \\ 2  |  \\ 4  ||
 |  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.3  |  \\ 2.7  ||
-|  .\\ Other Sessions\\ .  |  \\ 2 - 7  |  \\ 3 - 9  |  \\ 2 - 10  |
+|  .\\ Other Sessions\\ .  |  \\ 2 - 4  |  \\ 3 - 8  |  \\ 4 - 8  |
 
 </WRAP>
 
