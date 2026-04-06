@@ -9,6 +9,7 @@
 | **Area Served** | N/A |
 | **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] |
 | **Line Number** | S3 |
+| **Length** | 12.5km |
 | **Number of stations** | 7(Current) |
 |  | 9(Plan) |
 | **Real-Life Inspiration** |  |
