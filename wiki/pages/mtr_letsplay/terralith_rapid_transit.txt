@@ -163,11 +163,12 @@ see [[shimanolrt|Shimano LRT]]
 =====Route specifications=====
 ====Route numbers currently unassigned====
 Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned.((Not only LPS, but all SMTR projects allocate up to S20.)) Once a name is decided and concrete plans are put forward, it will be moved to the list above.
-  * Line S7
-  * Line S9
   * Lines S16-S20
+Depending on future development, it may be possible to expand up to S45. 
 ====Numbers assigned by route names, etc., but with no current construction plans====
 Numbers that currently have names assigned for historical reasons but no route plans have been made.
+  * Line S7 - Kurono Line
+  * Line S9 - Tails Line
   * Line S15 - Toadette Line
 ====Routes whose names have changed since opening====
   * Line S11 - Cinderace Line → Delphox Line(December 15, 2025)
