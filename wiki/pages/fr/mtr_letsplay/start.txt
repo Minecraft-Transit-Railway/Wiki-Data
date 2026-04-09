@@ -4,11 +4,14 @@ Le serveur "Let's play" (en chinois : 齊齊玩伺服器) est un serveur Minecra
 
 Il utilise le système de génération de terrain de Minecraft 1.18+ et utilise le mod [[https://modrinth.com/datapack/terralith|Terralith]] pour créer un paysage plus varié grâce à de nouvelles variantes de biomes. Les magnifiques paysages présentés dans l'overworld, en association avec [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] on attiré un grand nombre de visiteurs.
 
-Depuis 2022,  le serveur a accumulé plus de 100 lignes, une grande variété de constructeurs, et un réseau de TGV qui dessert  [[mtr_letsplay:spawn|Spawn]], [[mtr_letsplay:llanmara|Llanmara]], [[Kallos|Kallos]], [[mtr_letsplay:yankton|Yankton]], et le Sud-Ouest en passant par [[Danielston Memorial|Danielston Memorial]]. Le trajet le plus long entre deux gares devrait durer moins de 90 minutes.
+Depuis 2022,  le serveur a accumulé plus de 100 lignes, une grande variété de constructeurs, et un réseau de TGV qui dessert  [[mtr_letsplay:spawn|Spawn]], [[mtr_letsplay:llanmara|Llanmara]], [[Kallos|Kallos]], [[mtr_letsplay:yankton|Yankton]], et le Sud-Ouest en passant par [[Danielston Memorial|Danielston Memorial]]. Le trajet le plus long entre deux gares devrait durer moins de 90 minutes((
+Le trajet le plus long entre deux gares en train est celui reliant la gare centrale d'Einsburg à Yongchun à bord du Nightjet, soit 13 minutes et 14 secondes.
+)).
 
 Le serveur utilise une version spéciale du pack de ressources ; n'oubliez donc pas de lire les instructions du [[mtr_letsplay:modpack|Modpack]] si vous voulez y jouer !
 
-[[https://letsplay.minecrafttransitrailway.com/world-map/| Server’s  map
-]] [[https://letsplay.minecrafttransitrailway.com/system-map/| Server’s Traffic Map]] [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-| YouTube Let's Play Channel]]
+===== Site web du Serveur Let's Play =====
+
+[[https://letsplay.minecrafttransitrailway.com/world-map/|Carte du Serveur]] [[https://letsplay.minecrafttransitrailway.com/system-map/|Carte du trafic du serveur]] [[https://youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH&si=wqTLOKbFAOOIWOU-|Chaîne YouTube du Let's Play]]
 
 ~~NOCACHE~~
