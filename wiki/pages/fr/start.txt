@@ -3,7 +3,7 @@ Bienvenue dans le wiki du mod Minecraft Transit Railway !
 ===== Minecraft Transit Railway =====
 
   * [[mtr:start|Minecraft Transit Railway]] - Information à propos du mod
-    * Vous recherchez des informations sur MTR 4.0 ? Allez voir sur la [[https://wiki.minecrafttransitrailway.com/mtr:4.0.x|page d'accueil de la version 4.0]] !
+    * Vous recherchez des informations sur MTR 4.0 ? Allez voir sur la [[mtr:4.0.x|page d'accueil de la version 4.0]] !
 
 
 ===== Contenu additionnel =====
