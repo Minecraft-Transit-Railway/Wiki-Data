@@ -10,9 +10,10 @@ Le trajet le plus long entre deux gares en train est celui reliant la gare centr
 
 Le serveur utilise une version spéciale du pack de ressources ; n'oubliez donc pas de lire les instructions du [[mtr_letsplay:modpack|Modpack]] si vous voulez y jouer !
 
-===== Pages du Serveur Let's Play =====
+===== Let's Play Pages =====
 
 ''<nspages -textPages="" -title -exclude>''
+
 
 ===== Site web du Serveur Let's Play =====
 
