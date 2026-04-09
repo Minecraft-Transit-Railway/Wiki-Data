@@ -14,7 +14,6 @@ In MTR 4, the concept of a **Train** no longer exists. Instead we now have carri
 
   * For MTR 4 loading legacy trains made for MTR 3, the MTR mod will try to detect and split your "Train" into several parts (e.g. Cab Forward, Trailer, Cab Backward)
   * For the new MTR 4 format, you are suppose to define everything per-carriage instead of a single train.
-  * While JS scripting is not implemented yet, if and when it is implemented, you are expected to make heavy modification to your script to align with the new per-carriage system.
 
 To reflect the different transport types supported in the MTR mod, **train** are now referred as **vehicle.**
 
