@@ -1,8 +1,6 @@
-FIXME **Cette page n'est pas encore traduite entièrement. Merci de terminer la traduction**\\ //(supprimez ce paragraphe une fois la traduction terminée)//
+====== Le Serveur Let's Play ======
 
-====== Let's Play Server ======
-
-Le serveur "Let's play" (en chinois : 齊齊玩伺服器) est un serveur Minecraft dans la version 1.20.4 appartenant au créateur du mod [[mtr:start|Minecraft Transit Railway]], Jonathan qui l'héberge lui-même. Il a été créé en Juin 2022.
+Le serveur "Let's play" (en chinois : 齊齊玩伺服器) est un serveur Minecraft en 1.20.4 appartenant au créateur du mod [[mtr:start|Minecraft Transit Railway]], Jonathan, qui l'héberge lui-même. Il a été créé en Juin 2022.
 
 Il utilise le système de génération de terrain de Minecraft 1.18+ et utilise le mod [[https://modrinth.com/datapack/terralith|Terralith]] pour créer un paysage plus varié grâce à de nouvelles variantes de biomes. Les magnifiques paysages présentés dans l'overworld, en association avec [[https://www.youtube.com/c/JonathanHo33|Let's Play Series on Jonathan's YouTube Channel]] on attiré un grand nombre de visiteurs.
 
