@@ -27,5 +27,5 @@ Bienvenue dans le wiki du mod Minecraft Transit Railway !
 
 Nous voulons que toutes les personnes s'y connaissant beaucoup sur ce mod partage leurs savoirs. Si vous souhaitez de contribuer, n'hésitez pas à le faire !
 
-  * Pensez bien à lire le [[wiki_guidelines|règlement du wiki]] et le [[editing_guideline|règlement de modification]].
+  * Pensez bien à lire le [[wiki_guidelines|règlement du wiki]] et le [[editing_guidelines|règlement de modification]].
 
