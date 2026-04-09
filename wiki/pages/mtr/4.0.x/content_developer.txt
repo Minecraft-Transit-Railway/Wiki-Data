@@ -26,6 +26,16 @@ To reflect the different transport types supported in the MTR mod, **train** are
   * Train which does not specify a valid ''gangway_connection_id'' (Or does not have it) can no longer walk between gangways like they can in MTR 3
   * When specifying built-in MTR barrier/gangway/vehicle texture, replace ''textures/entity/*'' to ''textures/barrier'', ''textures/gangway'' and ''textures/vehicle'' respectively, as they are now separated.
 
+==== Dual-versioned resources (MTR 3 Custom Resource + MTR 4 Custom Resource) ====
+
+MTR 4 supports reading **mtr_custom_resources.json** in both MTR 3 and MTR 4 format.
+
+However during migration period, you may run into a situation where some content are migrated to MTR 4, while others are not, but you want to fit them in to the same resource pack.
+
+To that, MTR 4 supports an alias called **mtr_custom_resources_pending_migration.json**, which works effectively the same as the regular **mtr_custom_resources.json**.
+
+This allows you to put MTR 3's custom resources into **mtr_custom_resources_pending_migration.json**, while using **mtr_custom_resources.json** for MTR 4 content.
+
 ==== Custom Model Changes ====
 
   * **Custom Destination's CJK Ratio has been changed in MTR 4**
