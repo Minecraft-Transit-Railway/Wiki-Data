@@ -20,7 +20,8 @@ Bienvenue dans le wiki du mod Minecraft Transit Railway !
 ===== Serveurs multijoueurs =====
 
   * [[mtr_letsplay:start|Serveur Let's Play]] - le serveur officiel du mod MTR
-  * [[mtr_community:start|MTR Communities]] - les autres serveurs communaitaires, et bien plus
+    * Vous souhaitez télécharger le modpack ? Rendez-vous sur [[mtr_letsplay:modpack|la page du Modpack du Let's play]] !
+
 
 ===== Contribuer au wiki =====
 
