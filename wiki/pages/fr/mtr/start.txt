@@ -1,0 +1,36 @@
+====== Minecraft Transit Railway ======
+
+**Minecraft Transit Railway** est un [[https://minecraft.wiki/Mods|mod Minecraft]] inspiré de Hong Kong's MTR, le métro de Londres, et le métro de New York. Il ajoute différents transports tels que des Trains, Bateaux, Téléphériques et plus dans le jeu, accompagnés de divers blocs pour faciliter vos constructions. Avec ce mod, les joueurs peuvent construire des réseaux de transport en commun entièrement fonctionnels dans des mondes Solo ou Multijoueurs !
+
+Ce mod est disponible pour Minecraft Forge et Fabric versions 1.16, 1.17, 1.18, et 1.19 (1.20 est également disponible en phase Alpha, aillez donc soin de créer des sauvegardes avant d'utiliser cette version).
+
+N'hésitez pas à nous signaler tout problème ou bug rencontré; ce qui sera très apprécié !  Référez-vous à [[https://github.com/jonafanho/Minecraft-Transit-Railway/issues| GitHub issues tab]] et au [[https://github.com/orgs/Minecraft-Transit-Railway/projects/1|MTR Roadmap]] pour les problèmes actuellement connus.
+
+===== Pour débuter =====
+
+Ce [[/getting_started|Tutoriel écrit]] ou [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC| video playlist]] vous guidera à travers les différentes étapes de base afin de créer votre tout premier circuit de train.
+
+===== Téléchargement et Installation =====
+
+Rendez-vous sur [[https://modrinth.com/mod/minecraft-transit-railway| Modrinth]] ou [[https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway| CurseForge]] pour télécharger le mod ou pour voir les infromations sur ce projet.
+
+===== Dépannage =====
+
+Le mod ne fonctionne pas ? Allez voir sur [[mtr:troubleshooting|dépannage]]  pour découvrir les problèmes courants et comment les régler ! Bonne chance.
+
+===== Historique des versions =====
+
+  * [[mtr:3.0.X| V3.0.X]]
+  * [[mtr:3.1.X| V3.1.X]]
+  * [[mtr:3.2.X| V3.2.X]]
+  * [[mtr:4.0.X| V4.0.X]]
+
+===== Pages du Wiki =====
+
+ <nspages -textPages="" -title -exclude>
+
+===== Licenses =====
+
+Ce projet est soumis à la  [[https://opensource.org/licenses/MIT|Licence MIT]]. Toutes [[http://www.google.com/get/noto/|les polices Noto]] incluses dans ce mod sont soumises à la licence [[http://scripts.sil.org/OFL| Open Font License]].
+
+~~NOCACHE~~
