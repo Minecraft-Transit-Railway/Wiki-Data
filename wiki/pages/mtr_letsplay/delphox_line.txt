@@ -10,6 +10,7 @@
 | **Transit type** | [[wp>Rapid_Transit|Rapid Transit]] |
 | |[[wp>Medium-capacity_rail_system|Light Metro]]|
 | **Line Number** | S11 |
+| **Length** | 49.0km |
 | **Number of stations** | 48(Current) |
 | | 49(Plan) |
 | **Real-Life Inspiration** | [[wp>Toei_Ōedo_Line|Toei_Ōedo_Line]] |
