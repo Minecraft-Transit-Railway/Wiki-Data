@@ -14,6 +14,7 @@ The server has a special version of the resource pack, so be sure to read the [[
 
  <nspages -textPages="" -title -exclude>
 
+
 ===== Websites of Let's Play server =====
 
 [[https://letsplay.minecrafttransitrailway.com/world-map/| Server’s  map
