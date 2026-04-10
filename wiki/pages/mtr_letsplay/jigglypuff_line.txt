@@ -10,6 +10,7 @@
 | **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]]|
 | |[[wp>Stadtbahn|Stadtbahn]]|
 | **Line Number** | S13 |
+| **Length** | 20.0km |
 | **Number of stations** | 27((Excluding SLRT stations)) |
 | **Real-Life Inspiration** | [[wp>Keihan_Keishin_Line|Keihan_Keishin_Line]] |
 | **Colour on map** | Smoke Pink (#ffa79e) |
