@@ -12,7 +12,9 @@ Le serveur utilise une version spéciale du pack de ressources ; n'oubliez donc 
 
 ===== Let's Play Pages =====
 
-''<nspages -textPages="" -title -exclude>''
+<nspages -textPages="" -title -exclude>
+
+Pour accéder à ces liens, veuillez visiter la page en anglais.
 
 
 ===== Site web du Serveur Let's Play =====
