@@ -32,7 +32,7 @@ We own almost all [[mtr_letsplay:shimanomtr|Shimano MTR]] and [[mtr_letsplay:shi
 |@#EFEEF0:**Number**|@#EFEEF0:**Color**|@#EFEEF0:**Name**|@#EFEEF0:**Type**|@#EFEEF0:**Note**|@#EFEEF0:**Status**|
 |S1|@#7BACF6:**Sky Blue**|[[Shinx Line]]|Mass Rapid Transit|  |In operation|
 |S2|@#71B035:**Leaf**|[[Sprigatito Line]]|Mass Rapid Transit|  |In operation|
-|S3|@#FFBC00:**Yellow**|Shimano Line|Mass Rapid Transit|Between Amethyst Valley Station and Oasis Island Station.|In operation|
+|S3|@#FFBC00:**Yellow**|[[Shimano Line]]|Mass Rapid Transit|Between Amethyst Valley Station and Oasis Island Station.|In operation|
 |S4|@#ff91b5:**Pink**|[[Momoyama Line]]|Light Metro|  |Part in operation|
 |S5|@#f7f7f7:**White((It is shown in black on the route map.))**|[[Midorihara Line]]|S-Bahn|  |Under Construction|
 |S6|@#004894:**Dark Blue**|[[Sorano Line]]|S-Bahn|  |Under Construction|
