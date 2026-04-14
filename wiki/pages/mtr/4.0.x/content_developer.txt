@@ -2,9 +2,11 @@
 
 This page documents some of the migration steps needed when loading MTR 3 custom content in MTR 4.
 
-===== Javascript Scripting =====
+===== JS Scripting =====
 
-JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is **not implemented** at the moment. If you rely on contents that make use of such feature, you are advised to either stay on **MTR 3.x + Nemo Transit Expansion addon**, or explore with the new Resource Pack Creator in MTR 4 and see whether similar effects can be achieved.
+JS Scripting from the [[mtr_addon:nte:start|Nemo Transit Expansion]] is not implemented in the main mod, however there are 3rd party efforts such as [[mtr_addon:jcm:start|Joban Client Mod]] which aims to re-implement the JS scripting feature from NTE.
+
+You can also explore with the new Resource Pack Creator in MTR 4 and see whether similar effects can be achieved.
 
 ===== Train (Concept) =====
 
