@@ -6,20 +6,20 @@
 |  {{ :mtr_addon:jcm:jcm_logo.png?200 }}//Logo of Joban Client Mod v2//  ||
 | **State**  | v1: Abandoned |
 | ::: | v2: Active Development |
-| **Creator** | [[mtr_community:contributors:lx862|LX86]] |
+| **Creator** | AmberFrost |
 | **Active contributors** | AozoraSky |
 | ::: | StrikeSNC |
 | ::: | 1081MTR |
-| **Git Repository (v2)** | [[https://github.com/DistrictOfJoban/JCM-Rewrite|GitHub]] |
+| **Git Repository (v2)** | [[https://github.com/DistrictOfJoban/Joban-Client-Mod|GitHub]] |
 | **Modrinth Page** | [[https://modrinth.com/mod/jcm|Modrinth]] |
 
 </WRAP>
 
-Joban Client Mod is an MTR Addon, adding various decoration blocks from the Hong Kong MTR.
+Joban Client Mod is an MTR Addon, adding various decoration blocks from the Hong Kong MTR, as well as bringing the JS scripting feature to MTR 4.
 
 It is currently being maintained by the [[mtr_community:server:district_of_joban|The District of Joban]] Administration/Governor team.
 
-For the most up to date, and additional information regarding the content it provides, you may check the [[https://www.joban.org/wiki/JCM:Joban_Client_Mod_v2|Joban Client Mod wiki]].
+For the most up to date, and additional information regarding the content it provides, you may check the [[https://jcm.joban.org|Joban Client Mod wiki]].
 
 ===== Version 1.X =====
 
@@ -31,9 +31,7 @@ It is no longer being developed as development work moves on to v2.
 
 ===== Version 2.X =====
 
-The Version 2 Series is a completely rewritten version of Joban Client Mod, with the version number starting from **v2.0.0**, with the hopes of being easier to maintain, add features, and be more lightweight.
+The Version 2 Series is a completely rewritten version of Joban Client Mod, with the version number starting from **v2.0.0**, with the hopes of being easier to maintain, add features, and be more lightweight. Notably, it also implements JavaScript-based scripting in the form of PIDS, Eyecandy and Vehicles.
 
 It is based on the rewritten version of the [[https://github.com/Minecraft-Transit-Railway/Minecraft-Mappings|Minecraft Mappings]] project (Also used by MTR) to provide cross-version and modloader compatibility.
-
-A beta version is available on Modrinth and GitHub, albeit with some missing blocks & features. The official release date is targeted to be the same as [[mtr:4.0.x|MTR 4.0.0]] if time allows.
 
