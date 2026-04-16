@@ -185,10 +185,10 @@ Your train should start spawning every twenty (real life) seconds.
   - To get started with real time scheduling, click the "Minecraft Time" button on the top left to turn your depot into real time mode.
   - There is a text input at the bottom. Enter a time, such as `17:00:00`. Now your train will spawn every day at 5 pm in your time zone.
   - If you'd like more trains, enter more times.
-  - You can automate this process by multiplying the times. If you'd like your trains to run at a specific frequency all day, enter `00:00:00+[desired time in minutes divided by 1440]*[desired time in hh:mm:ss format] For example, if you enter ''00:00:00+1440*00:01:00'', your trains will spawn every minute. Here are more examples:
+  - You can automate this process by multiplying the times. If you'd like your trains to run at a specific frequency all day, enter `00:00:00+[1440 divided by desired time in minutes]*[desired time in hh:mm:ss format] For example, if you enter ''00:00:00+1440*00:01:00'', your trains will spawn every minute. Here are more examples:
     * If you enter ''00:00:00+720*00:02:00'', your trains will spawn every 2 minutes
     * If you enter ''00:00:00+480*00:03:00'', your trains will spawn every 3 minutes
-    * If you enter ''00:00:00+288*00:02:00'', your trains will spawn every 5 minutes
+    * If you enter ''00:00:00+288*00:05:00'', your trains will spawn every 5 minutes
     * If you enter ''00:00:00+144*00:02:00'', your trains will spawn every 10 minutes
   - If you'd like to search for a specific time, use the search bar on the top right.
   - If you'd like to delete all departures, click the reset button above the search bar
