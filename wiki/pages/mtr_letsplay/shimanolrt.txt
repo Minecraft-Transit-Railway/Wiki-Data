@@ -169,4 +169,4 @@ All of the vehicles were older models for the MTR3.
 |[[ShimanoMTR]] [[Jigglypuff Line]]|相01(AC01)|Delphox own ⇄ Kurokusa ⇄ Acacialand Village ⇄ Higashi Huggy 8 Chome |
 | ::: |黑01(KR01)|Delphox Town ⇄ Kurokusa ⇄ Daisetu Town ⇄ Cinderace |
 |Shimano MTR [[Shimahana Line]]|覺01(PA01)|(Feature: Kurokusa ⇄)Huggy Wuggy ⇄ Higashi Huggy 8 Chome ⇄ Plain Harbor ⇄ Peak of Awakening|
-|Plasmaliner LRT|相01-1(AC01-1)| WIP ⇄ High Oasis ⇄ Yumeshima |
+|Plasmaliner LRT|相01-2(AC01-2)| WIP ⇄ High Oasis ⇄ Yumeshima |
