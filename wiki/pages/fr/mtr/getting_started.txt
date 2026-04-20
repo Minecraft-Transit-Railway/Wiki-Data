@@ -1,0 +1,244 @@
+FIXME **Cette page n'est pas encore traduite entièrement. Merci de terminer la traduction**\\ //(supprimez ce paragraphe une fois la traduction terminée)//
+
+====== Pour commencer ======
+
+Ce tutoriel va vous guider à travers les bases du mod Minecraft Transit Railway. **Ce tutoriel est fait pour la version 4.0.x de MTR. Les étapes de ce tutoriel peuvent varier en fonction de la version du mod que vous utilisez.** Il est recommandé d'utiliser MTR en mode créatif, mais le mode survie et aussi supporté avec des recettes de craft. Nous recommandons un mod comme [[https://modrinth.com/mod/jei|Just Enough Items]] pour avoir la liste des crafts possibles.
+
+===== Tutoriels vidéo =====
+
+Veuillez consulter [[https://www.youtube.com/playlist?list=PLp0jZgheSlXv_vjilwnbrOtdbmgvz1VkC|cette playlist de tutoriels vidéo]].
+
+===== Modes de transport =====
+
+MTR propose quatre modes de transport :
+
+  * Trains
+  * Bateaux
+  * Téléphériques
+  * Avions
+
+Chaque mode de transport fonctionne indépendamment des autres et possède son propre panneau de configuration. Il est possible de créer des bus à l'aide de rails cachés. **Le tutoriel sur cette page ne traitera que des trains.**
+
+| {{ :mtr:railway_dashboard.png?100 }} | {{ :mtr:boat_dashboard.png?100 }} | {{ :mtr:cable_car_dashboard.png?100 }} | {{ :mtr:airplane_dashboard.png?100 }} |
+|  Les quatre panneaux de configuration de Minecraft Transit Railway  ||||
+
+===== Construire son premier circuit de train =====
+
+==== Premiers pas : ====
+
+Les quatre composants principaux des circuits de train sont les suivants :
+
+  * Rails
+  * Rails de station
+  * Itinéraires
+  * Dépots
+
+Les items les plus importants sont le **panneau de configuration**, le **noeud de rail** et le **pinceau**.
+
+==== Rails ====
+
+<WRAP right>
+
+| {{ :mtr:rails.png?200 }} |
+|  Tous les rails du mod ainsi que le destructeur de rails  |
+
+| {{ :mtr:rails_placed.png?245 }} |
+|  Quelques rails avec différentes rotations  |
+
+| {{ :mtr:rails_placed_hold.png?245 }} |
+|  Rails quand on tient un item lié au rail dans la main  |
+
+| {{ :mtr:rails_brush.png?245 }} |
+| Affichage des propriétés d'un rail à l'aide du pinceau |
+
+</WRAP>
+
+Les rails déterminent le trajet que suivront vos véhicules.
+
+Pour fabriquer un nouveau rail, placez deux noeuds de rail et connectez-les en utilisant des connecteurs de rail. Les noeuds de rails peuvent aussi être tournés de 90 degrés, 45 degrés ou 22.5. Pendant que vous connectez les rails, vous verrez peut être des informations à propos de votre rail, comme le décalage XYZ, le rayon horizontal et la longueur totale. Si vous voulez voir ces informations après que vous ayez connecté vos rails, placez votre pointeur sur le noeud de rails et regardez dans la direction de la connexion souhaitée. Tenir un objet lié au rail, comme un pinceau, un connecteur ou un noeud de rail affichera le type et les flèches (si il s'agit d'un sens unique) de chaque rail. Pour supprimer un rail, cassez l'un des noeuds avec l'item **rail remover**. Il y a 5 types de rails pour les trains, qui sont :
+
+  * Rail limite de vitesse
+  * Limite de vitesse (dans un seul sens)
+  * Quai
+  * Dépot
+  * Demi-tour
+
+Si vous obtenez une erreur telle que "Impossible de connecter le rail; orientation invalide", vérifiez l'orientation de vos rails.
+
+Les rails suivants ne fonctionneront pas avec le noeud de rails, la raison est indiquée ci-dessous :
+
+^ Nom ^ Raison ^
+| Rail de téléphérique | Parce qu'il doit être utilisé avec les noeuds de téléphérique |
+| Rail de piste d'avion | Parce qu'il doit être utilisé avec les noeuds d'avion |
+
+==== Quais ====
+
+Un quai est une partie de la voie ferrée où les train peuvent s'arrêter pour prendre des passagers.
+
+  - Créez un rail de quai en suivant les étapes indiquées [[mtr:getting_started#first_steps|ci-dessus]] en utilisant le rail de quai.
+  - Allez jusqu'à la station suivante et placez un autre rail de quai, non connecté avec le premier. Il est recommandé de conserver la même longueur que le premier quai. Ce sera le deuxième quai.
+  - Connectez les deux quais ensemble en utilisant un des autres rails de vitesse. Ajoutez d'autres noeuds de rail si nécessaire.
+  - Utilisez le panneau de configuration pour configurer le temps d'arrêt et le numéro de quai.
+
+==== Stations ====
+
+<WRAP right>
+
+| {{ https://raw.githubusercontent.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/refs/heads/master/images/getting-started/create-station.png?245 }} |
+| Deux exemples de gare, Northgate et East Green Lake,\\ qui ont été créées dans le panneau de configuration. |
+
+</WRAP>
+
+Une station est une zone rectangulaire délimitée dans le monde. Chaque station doit recouvrir entièrement un quai ou plus et chaque quai doit être recouvert par une station.
+
+  - Ouvrez le [[mtr:dashboards|panneau de configuration]].
+  - Le menu à gauche possède trois onglets : ''Stations'', ''Itinéraires'', et ''Dépôts''.
+    * L'onglet ''Stations'' est sélectionné par défaut.
+    * La carte à droite représente le monde actuel.
+    * Le point bleu avec un bord blanc localise le joueur dans sa position actuelle.
+    * Les quais sont éclairés par une lumière blanche. Si vous zoomez dessus, vous devriez voir son numéro.
+    * Cliquez et faites glisser la carte pour la déplacer.
+    * Utilisez la molette de la souris ou les boutons ''+'' ou ''-'' en bas à droite pour zoomer.
+  - Zoomez et déplacez-vous sur la carte pour trouver le premier quai qui a été construit.
+  - Dans l'onglet ''Stations'', cliquez sur le bouton ''Ajouter une station'' (Add station) en bas.
+  - La carte est désormais en mode édition. Faites un clic gauche et déplacez la souris pour tracer une zone de station rectangulaire au-dessus du premier quai.
+    * Si une erreur a été commise, il suffit de cliquer et de faire glisser à nouveau. La zone de station précédemment définie disparaîtra.
+  - Dans la zone de texte en bas à gauche, tapez le nom de la nouvelle station. Utilisez le caractère ''|'' afin de séparer différentes langues, par exemple :  ''第一城|City One''.
+  - Cliquez sur ''Terminé'' (Done) quand vous avez fini.
+  - Déplacez-vous sur la carte afin de trouver le deuxième quai qui a été construit.
+  - Cliquez une nouvelle fois sur le bouton ''Ajouter une station''. Dessinez une autre zone de station rectangulaire, couvrant la deuxième plateforme. Tapez un nom pour cette deuxième station.
+  - Cliquez sur ''Terminé'' quand vous avez fini.
+
+Les deux stations devraient maintenant être visible sur la carte.
+
+==== Itinéraires ====
+
+<WRAP right>
+
+| {{ https://raw.githubusercontent.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/refs/heads/master/images/getting-started/create-route.png?245 }} |
+| Un itinéraire desservant les deux quais a été créé. |
+
+</WRAP>
+
+Une route est simplement une liste de quais (il affichera les gares où se trouvent les quais ; si le quai ne se trouve pas dans l'enceinte d'une gare, l'emplacement restera vide). Les dépôts affectés à un itinéraire tenteront d'abord de trouver un chemin entre chaque voie d'évitement et le premier quai sélectionné, puis vers tous les quais. À la fin de l'itinéraire, les trains doivent retrouver le chemin du dépôt.
+
+  - Entrez dans le panneau de configuration, et cliquez sour l'onglet ''Itinéraires'' (Routes)
+  - Cliquez sur le bouton ''Ajouter un Itinéraire'' (Add route) en bas.
+  - La carte est désormais en mode édition. Cliquez sur le premier quai (en blanc) sur la carte. Il devrait apparaître dans l'onglet ''Itinéraires'' à gauche.
+  - Cliquez sur la deuxième plateforme sur la carte. Il devrait maintenant y avoir deux entrées sous l'onglet ''Itinéraires'' à gauche.
+  - Entrez un nom pour le nouvel itinéraire. Utilisez le caractère ''|'' afin de séparer différentes langues, par exemple :  ''馬鞍山綫|Ma On Shan Line''.
+  - Click `Done` when finished.
+
+L'itinéraire est maintenant terminé! Appuyez sur la touche ''échap'' du clavier pour quitter le panneau de configuration.
+
+==== Dépôts et voies de garage ====
+
+Une voie de garage est un tronçon de voie d'où les trains peuvent partir, tandis qu'un dépôt indique la destination des trains.
+
+  - Créez une voie de garage en suivant les étapes ci-dessus (abordé dans la section [[#rails|Créer un rail]]) en utilisant l'item rail de voie de garage.
+  - En utilisant l'un des autres rails de connection (pas l'item rail de quai ou rail de voie de garage), connectez la voie de garage au premier quai de l'itinéraire.
+  - Connectez une deuxième fois la voie de garage, cette fois à la dernière plateforme de l'itinéraire.
+  - Prenez l'item [[mtr:dashboards|panneau de configuration]] et faites un clic droit pour l'ouvrir.
+  - Une fois dans l'onglet `Dépôts`, cliquez sur le bouton en bas appelé ''Ajouter un dépôt'' (Add Depot) on the button at the bottom called ''Add Depot''.
+  - Tracez la zone de dépôt par-dessus la voie de garage et entrez le nom du dépôt. Ce processus sera très similaire à celui qui a permis de créer les stations.
+  - Cliquez sur l'icône du crayon et sélectionnez vos itinéraires dans l'ordre désiré..
+
+==== Choisir un train ====
+
+<WRAP right>
+
+| {{ :mtr:trainselection.png?245 }} |
+| Choisir un train pour une voie de garage. |
+
+</WRAP>
+
+  - Une fois dans le panneau de configuration, assurez-vous que l'onglet Dépôt est bien sélectionné.
+  - Cliquez ensuite sur la voie de garage (en blanc) 
+  - Cliquez sur le bouton ''éditer''. Cela modifiera le type de train qui apparaîtra.
+  - Sélectionnez le train souhaité :
+    * Commencez par ajouter le type de voiture « ''Cab'' », et plus précisément le modèle « ''Forwards'' » (avant).
+    * Ajoutez le nombre de wagons souhaité ; le bouton ''Dupliquer les voitures'' peut vous aider.
+    * La dernière voiture devra être du type « ''Backwards'' » (arrière).
+    * Si vous voyez une icône ''⚠'', cela signifie que votre voie de garage n'est pas assez longue pour accueillir ce type de wagon. Pour y remédier, il suffit d'allonger votre voie de garage. Redimensionnez votre dépôt si nécessaire.
+
+  - Appuyez sur le bouton « Terminé » et configurez le nombre de trains, l'accélération, la décélération, l'augmentation de vitesse en cas de retard et indiquez si le train sur la voie de garage peut être conduit.
+  - Appuyez sur la touche ''Échap'' du clavier pour revenir à l'écran principal du panneau de configuration.
+
+==== Horaires ====
+
+Le dépôt doit recevoir un horaire et des instructions pour que les [[mtr:trains|trains]] puissent circuler sur l'itinéraire prédéfini. Il existe deux types d'horaires : l'heure Minecraft et l'heure réelle.
+
+=== L'heure dans Minecraft ===
+
+Les horaires indiqués sur ce type de planning sont basés sur le [[https://minecraft.wiki/w/Daylight_cycle|temps dans le jeu]], pas en temps dans la vrai vie.
+
+  - Passez la souris sur le dépôt souhaité et cliquez sur l'icône en forme de crayon. L'écran de configuration des horaires devrait s'afficher.
+  - Faites glisser tous les curseurs jusqu'à la position souhaitée. Par exemple, si vous faites glisser tous les curseurs tout à droite, cela signifie que des trains apparaîtront toutes les vingt secondes dans la réalité.
+    * Vous pouvez maintenir la touche'' Maj gauche'' enfoncée et faire glisser pour régler TOUS les curseurs à la position souhaitée.
+  - Appuyez sur la touche ''Échap'' du clavier pour quitter le menu, puis appuyez à nouveau pour quitter le panneau de configuration.
+
+Votre train devrait apparaître toutes les vingt secondes (en temps réel).
+
+| {{ :mtr:minecrafttime.png?245 }} |
+| Exemple d'un dépôt avec des horaires (temps Minecraft) |
+
+=== Temps réel ===
+
+  - Pour commencer à utiliser la planification en temps réel, cliquez sur le bouton « Minecraft Time » en haut à gauche pour passer votre dépôt en mode temps réel.
+  - Vous trouverez un champ de saisie en bas de la page. Saisissez une heure, par exemple « 17:00:00 ». Votre train apparaîtra désormais tous les jours à 17 h, selon votre fuseau horaire.
+  - Si vous souhaitez davantage de trains, indiquez davantage d'horaires.
+  - Vous pouvez automatiser ce processus en multipliant les horaires. Si vous souhaitez que vos trains circulent à une fréquence spécifique toute la journée, saisissez `00:00:00+[durée souhaitée en minutes divisée par 1440]*[heure souhaitée au format hh:mm:ss]. Par exemple, si vous saisissez ''00:00:00+1440*00:01:00'', vos trains apparaîtront toutes les minutes. Voici d'autres exemples :
+    * Si vous saisissez ''00:00:00+720*00:02:00'', vos trains apparaîtront toutes les 2 minutes
+    * Si vous saisissez ''00:00:00+480*00:03:00'', vos trains apparaîtront toutes les 3 minutes
+    * Si vous entrez ''00:00:00+288*00:02:00'', vos trains apparaîtront toutes les 5 minutes
+    * Si vous entrez ''00:00:00+144*00:02:00'', vos trains apparaîtront toutes les 10 minutes
+  - Si vous souhaitez rechercher une heure précise, utilisez la barre de recherche en haut à droite.
+  - Si vous souhaitez supprimer tous les départs, cliquez sur le bouton « Réinitialiser » situé au-dessus de la barre de recherche
+
+| {{ :mtr:realtime.png?245 }} |
+| Exemple d'un dépôt avec des horaires en temps réel |
+
+==== Blocs de quai ====
+
+À ne pas confondre avec les //**__rails__**// de quai.
+
+Les [[mtr:platform_block|Blocs de quai]] sont nécessaires pour que les trains puissent ouvrir leurs portes et prendre des passagers. Placez une rangée de blocs de quai le long de chaque rail de quai. Chaque porte doit avoir un bloc de quai devant elle, sinon elle ne s'ouvrira pas.
+
+| {{ :mtr:platformrail.png?400 }} |
+| Blocs de quai situés à côté d'un rail de quai |
+
+==== Actualisation du chemin  ====
+
+  - Une fois que vous avez tout configuré pour votre ligne, retournez dans le menu du dépôt et cliquez sur ''Actualiser le chemin''.
+  - Si vous rencontrez des erreurs, vérifiez les points suivants :
+    * Il manque des raccords de rail dans la section affichée
+    * Connecteurs unidirectionnels mal placés dans la section affichée
+    * Plateformes mal classées dans l'itinéraire
+    * Ordre erroné des itinéraires dans les consignes du dépôt
+  - S'il n'y a pas d'erreur, les trains seront mis en service depuis votre dépôt conformément à votre horaire.
+  - Si vous ne souhaitez pas attendre que les trains passent sur votre ligne, vous pouvez utiliser le bouton ''Déploiement instantané''.
+  - Si vous souhaitez effacer tous vos trains, cliquez sur le bouton ''Effacer les véhicules''.
+
+Montez dans le train par l'une des portes. Profitez du trajet : votre premier circuit ferroviaire est terminé !
+
+| {{ :mtr:door_open.png?400 }} |
+| Une porte s'ouvre dans un train MPL 16. Les joueurs peuvent désormais profiter du trajet ! |
+
+==== Plan du réseau de transport ====
+
+Pour ouvrir le plan du réseau de transport, rendez-vous sur votre panneau de configuration et cliquez sur le bouton ''Plan du réseau de transport''. Le plan s'ouvrira dans votre navigateur par défaut. Seuls les itinéraires desservant au moins deux stations s'afficheront sur le plan.
+
+==== Notes ====
+
+  * Chaque ligne doit comporter au moins deux quais, sinon aucun train ne circulera.
+  * Il est possible d'ajouter plusieurs itinéraires aux instructions relatives au train.
+    * La voie de garage doit être reliée (par des rails) au premier quai de la première ligne et au dernier quai de la dernière ligne.
+    * Il faut cliquer sur le bouton « Actualiser le chemin » chaque fois que les instructions de circulation ou le tracé ont été modifiés.
+  * La longueur des trains que vous pouvez générer est limitée par la longueur de la voie de garage.
+  * Voir les pages [[mtr:trains|trains]], et [[mtr:dashboards|panneau de configuration]], ou le menu de sélection des trains accessible depuis le panneau de configuration des trains lui-même pour connaître la longueur de chaque train.
+  * Rendez-vous sur [[https://addons.minecrafttransitrailway.com/|base de données de contenu communautaire]] pour découvrir les trains créés par la communauté et d'autres ressources !
+
+==== Vous avez encore besoin d'aide ? ====
+
+Rejoignez nôtre [[https://discord.com/invite/PVZ2nfUaTW|Discord]] !
+
