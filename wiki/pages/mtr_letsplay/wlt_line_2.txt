@@ -8,7 +8,7 @@
 ^  **Overview**  |^
 | **Abbreviation** | L2 (KNL) |
 | **Status** | Operational\\ //(Kwong Chow - Tsim Pei Tsui)//\\ //(Kwong Chow - Ostania)//\\ Under construction\\ //(West Lake((Exits)),//\\ //Dragon Loop Centre,//\\ //Hung Shan,//\\ //Lung Tau,//\\ //Tsim Pei Tsui((Concourse and Exits)),//\\ //Yuren Matou (Avondale))// |
-| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ //(Makki Memorial Village - Tsim Pei Tsui)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village,//\\ //except Dragon Loop Centre//)\\ //(Westalis - Ostania)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
+| **Owner** | [[/west_lake_transport_authority|WLT]]\\ //(Kwong Chow - Spawn)//\\ //(Spawn - Puda Xi (W. Laputa))//\\ //(Makki Memorial Village - Tsim Pei Tsui)//\\ [[/auckland_transport|Auckland Transport]]\\ //(Spawn - Coast City)//\\ [[/qingli_railways|Qingli Railways]]\\ //(Coast City - Makki Memorial Village//)\\ //(Westalis - Ostania)//\\ [[/cyanex|CyanEX Rapid Transit]]\\ //(Puda Xi (W. Laputa) - Westalis)// |
 | **Locale** | [[/west_lake_area|West Lake]]\\ [[/Spawn|Spawn]]\\ [[/auckland|Auckland]]\\ [[/kallos|Kallos]]\\ [[/tsim_pei_tsui_peninsula|Tsim Pei Tsui Peninsula]] |
 | **Termini** | [[/kwong_chow_station|Kwong Chow]]\\ [[/ostania_station|Ostania]]\\ [[/tsim_pei_tsui_station|Tsim Pei Tsui]] |
 | **Connecting**\\ **Lines** | @#EB7AE9:<color white>[[wlt_line_1|Line 1 (Meyan Line)]]</color> |
