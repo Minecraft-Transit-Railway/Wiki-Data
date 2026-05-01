@@ -199,7 +199,7 @@ Speed ​​limits other than those for curves, as described below
 |@#EFEEF0:Route|@#EFEEF0:Speed|
 |**Lines S1, S2, S3**|120km/h(120km/h)|
 |**Lines S4, S8, S11, S13, S14**|80km/h(80km/h)|
-|**Lines S5, S6**|80km/h(95km/h)|
+|**Lines S5, S6**|80km/h(100km/h)|
 |**Line S10**|120km/h(160km/h)|
 |**Line S12**|60km/h(70km/h)|
 |**SLRT AC01, 02, YM01, CD all routes**|80km/h|
