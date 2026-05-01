@@ -225,9 +225,9 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  @#FFDA33:  ||||
 |  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **Line 2 (Kwong Pak Kwun Line)**  |||
 | |  Kwong Chow - Spawn  |  Kwong Chow - Tsim Pei Tsui  |  Kwong Chow - Ostania  |
-|  Early Morning\\ \\ (5 am - 9 am)  |  \\ 2.5 - 3.5  |  \\ 6  ||
-|  Day Time\\ \\ (9 am - 9 pm)  |  \\ 1.6 - 2.3  |  \\ 2.3 - 3.7  |  \\ 6  |
-|  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.0 - 1.7  |  \\ 1.3 - 2.7  |  \\ 4  |
+|  Early Morning\\ \\ (5 am - 9 am)  |  \\ 3  |  \\ 6  ||
+|  Day Time\\ \\ (9 am - 9 pm)  |  \\ 2  |  \\ 2.3 / 3.7  |  \\ 6  |
+|  Night Peak\\ \\ (9 pm - 11 pm)  |  \\ 1.3  |  \\ 1.5 / 2.5  |  \\ 4  |
 |  .\\ Other Sessions\\ .  |  \\ 2 - 5  |  \\ 3 - 7  |  \\ 6 - 7  |
 
 </WRAP>
@@ -238,10 +238,10 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 ^  :::  ^  to Kwong Chow  ^  to Tsim Pei Tsui  ^  to Ostania  ^  to Kwong Chow  ^  to Tsim Pei Tsui  ^  to Ostania  ^
 |  @#FFDA33:  |||||||
 |  **Kwong Chow**  |  --  |  04:04  |  04:05  |  --  |  03:20  |  03:01  |
-|  **Sha Tsui**  |  04:38  |  04:06  |  04:07  |  03:56  |  03:22  |  03:02  |
+|  **Sha Tsui**  |  04:38  |  04:06  |  04:07  |  03:56  |  03:22  |  03:03  |
 |  **West Lake**  |  04:37  |  04:07  |  04:08  |  03:54  |  03:23  |  03:04  |
 |  **Sai Mo Island**  |  04:36  |  04:09  |  04:10  |  03:53  |  03:25  |  03:05  |
-|  **See Tsuen \\ (Heart of Let's Play)**  |  04:34  |  04:10  |  04:11  |  03:52  |  03:26  |  03:06  |
+|  **See Tsuen \\ (Heart of Let's Play)**  |  04:34  |  04:10  |  04:11  |  03:52  |  03:26  |  03:07  |
 |  **Spawn**  |  04:33  |  04:12  |  04:13  |  03:50  |  03:27  |  03:08  |
 |  @#FFDA33:  |||||||
 |  **Forest Peaks**  |  04:31  |  04:13  |  04:31  |  03:47  |  03:29  |  03:02  |
@@ -254,19 +254,19 @@ There are a mix of 4-car and 5-car trains running. 5-car trains are serving from
 |  **Tsim Pei Tsui**  |  04:18  |  --  |  04:18  |  03:35  |  --  |  02:49  |
 |  @#FFDA33:  |||||||
 |  @#7191FF:  |||||||
-|  **W. Laputa**  |  04:52  ||  04:15  |  03:48  |  03:22  |  03:10  |
-|  **Bayside Exchange**  |  04:51  ||  04:16  |  03:46  |  03:20  |  03:11  |
-|  **Lake Vecuro**  |  04:48  ||  04:18  |  03:44  |  03:18  |  03:14  |
+|  **West Laputa**  |  04:52  ||  04:15  |  03:48  |  03:22  |  03:10  |
+|  **Bayside Exchange**  |  04:51  ||  04:16  |  03:46  |  03:20  |  03:12  |
+|  **Lin Hsien-hu Lake**  |  04:48  ||  04:18  |  03:44  |  03:18  |  03:14  |
 |  **Ho's Bridge**  |  04:47  ||  04:20  |  03:42  |  03:16  |  03:15  |
-|  **Oceanline**  |  04:45  ||  04:22  |  03:40  |  03:14  |  03:17  |
-|  **Lindberg**  |  04:44  ||  04:23  |  03:39  |  03:13  |  03:18  |
+|  **Oceanline**  |  04:45  ||  04:22  |  03:40  |  03:14  |  03:18  |
+|  **Lindberg**  |  04:44  ||  04:23  |  03:39  |  03:13  |  03:19  |
 |  **Belvedere**  |  04:42  ||  04:24  |  03:38  |  03:12  |  03:20  |
-|  **Jonathan's Resort**  |  04:41  ||  04:26  |  03:36  |  03:10  |  03:21  |
-|  **Bamboo Pavillion**  |  04:39  ||  04:27  |  03:35  |  03:09  |  03:22  |
-|  **Zunice**  |  04:38  ||  04:29  |  03:33  |  03:07  |  03:24  |
-|  **Avondale**  |  04:37  ||  04:30  |  03:32  |  03:06  |  03:25  |
-|  **Springpond**  |  04:35  ||  04:31  |  03:31  |  03:05  |  03:26  |
-|  **Twilight Spruce**  |  04:34  ||  04:33  |  03:29  |  03:03  |  03:28  |
+|  **Jonathan's Resort**  |  04:41  ||  04:26  |  03:36  |  03:10  |  03:22  |
+|  **Bamboo Pavillion**  |  04:39  ||  04:27  |  03:35  |  03:09  |  03:23  |
+|  **Zunice**  |  04:38  ||  04:29  |  03:33  |  03:07  |  03:25  |
+|  **Avondale**  |  04:37  ||  04:30  |  03:32  |  03:06  |  03:26  |
+|  **Concordia Link**  |  04:35  ||  04:31  |  03:31  |  03:05  |  03:27  |
+|  **Twilight Spruce**  |  04:34  ||  04:33  |  03:29  |  03:03  |  03:29  |
 |  @#7191FF:  |||||||
 |  @#FFDA33:  |||||||
 |  **Westalis**  |  04:32  ||  04:34  |  03:28  |  03:02  |  03:30  |
