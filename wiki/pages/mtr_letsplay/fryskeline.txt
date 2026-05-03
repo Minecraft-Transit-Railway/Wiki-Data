@@ -22,36 +22,38 @@ The **Fryske Line**((lit. "Frisian Line")) is an overground railway corridor con
 </WRAP>
 
 ===== History =====
-On December 12th, the first plan for the line was published, simply mentioned as the first stage of the Moszyan Railways Overground network. The plan showed a line going from **Shuangmen Xuegui** station (now **Froastpoarte**) to multiple stations on a horizontal line eastward. The map also featured a planned section of side-by-side running tracks between Moszyan Railways and the Lilac Light Rail.
+On December 12th 2024, the first plan for the line was published, simply mentioned as the first stage of the Moszyan Railways Overground network. The plan showed a line going from **Shuangmen Xuegui** station (now **Froastpoarte**) to multiple stations on a horizontal line eastward. The map also featured a planned section of side-by-side running tracks between Moszyan Railways and the Lilac Light Rail.
 
-On December 26th, the line officially recieved the name "Fryske Line".
+On December 26th 2024, the line officially recieved the name **"Fryske Line"**.
 
-On January 28th, an updated plan map for the line was posted. It showed that the plan for the line had temporarily been shortened to ending at **Hylkemare** until a suitable solution could be found for the fact that bad planning initially had the line planned for at least a kilometer or two of over-sea travel.
+On January 28th 2024, an updated plan map for the line was posted. It showed that the plan for the line had temporarily been shortened to ending at **Hylkemare** until a suitable solution could be found for the fact that bad planning initially had the line planned for at least a kilometer or two of over-sea travel.
 
-On February 6th and 8th, it was announced that an originally unplanned new station was to be constructed on the line, going by the name **De Marren**.((lit. "The Lakes")) After that, the plan for a station over the lake in the yellowstone biome was dropped.
+On February 6th and 8th 2024, it was announced that an originally unplanned new station was to be constructed on the line, going by the name **De Marren**.((lit. "The Lakes")) After that, the plan for a station over the lake in the yellowstone biome was dropped.
 
-On February 12th, a new extension was added to the plan, connecting the relatively out-of-reach line to the **Kallos** area. Connecting directly to **Kallos** station was not impossible, but it was decided that it would be for the better to put the terminus in the open field next to the **Royal Park** light rail station, precisely where another line already had plans to connect. The end of the bridge was planned to have a replica of Spijkenisse's Metro Rail Whale statue, known for the crash in 2020 where a RET Metro train ended up being saved from falling by the massive tail.
+On February 12th 2024, a new extension was added to the plan, connecting the relatively out-of-reach line to the **Kallos** area. Connecting directly to **Kallos** station was not impossible, but it was decided that it would be for the better to put the terminus in the open field next to the **Royal Park** light rail station, precisely where another line already had plans to connect. The end of the bridge was planned to have a replica of Spijkenisse's Metro Rail Whale statue, known for the crash in 2020 where a RET Metro train ended up being saved from falling by the massive tail.
 
-On February 14th, "Station 19" was revealed to receive the name **Ridgecrest**. The frisian name for this station would end up being **Rykkam**.
+On February 14th 2024, "Station 19" was revealed to receive the name **Ridgecrest**. The frisian name for this station would end up being **Rykkam**.
 
-On May 12th, all tracks between the two terminus stations were finished, and the line started running a shorter service between **Kallos Royal Park** and **Āoraki North**. The depot was moved to Royal Park, and the temporary 2-car siding at **Hylkemare** was removed.
+On May 12th 2024, all tracks between the two terminus stations were finished, and the line started running a shorter service between **Kallos Royal Park** and **Āoraki North**. The depot was moved to Royal Park, and the temporary 2-car siding at **Hylkemare** was removed.
 
-On May 22nd, construction of **Rykkam**'s "temporary station design", probably to stay as a permanent structure due to its castle wall design, was finished. This meant that all stations on the line had now been completed and were just awaiting connection.
+On May 22nd 2024, construction of **Rykkam**'s "temporary station design", probably to stay as a permanent structure due to its castle wall design, was finished. This meant that all stations on the line had now been completed and were just awaiting connection.
 
-On June 1st, the very first public journey was made using the Moszyan Railways FLIRT, from Kallos Royal Park to Hylkemare. The event was memorable for all the wrong reasons, due to the excessive amount of visitors present at the opening creating huge lag that almost broke the server. The normally 15-minute drive took well over half an hour due to this, and as the train was being driven back to Kallos, the regular FLIRT 3 trains began operating.
+On June 1st 2024, the very first public journey was made using the Moszyan Railways FLIRT, from **Kallos Royal Park** to **Hylkemare**. The event was memorable for all the wrong reasons, due to the excessive amount of visitors present at the opening creating huge lag that almost broke the server. The normally 15-minute drive took well over half an hour due to this, and as the train was being driven back to **Kallos**, the regular FLIRT 3 trains began operating.
+
+On May 3rd 2026, the line was converted into a metro line, and the FLIRT 3 units were replaced by brand new RSG3 trains. Stop markers and positions were also adjusted to account for the new trains.
 
 ===== Stations =====
 |  @#B0B0BE:**Name**  |  @#B0B0BE:**District**  |  @#B0B0BE:**Connections**  |  @#B0B0BE:**Opened**  |
-|  **Hylkemare**  |  Hylkemare  |  Lilac Light Rail (300/P300/305/633P/804)  |  January 29th, 2024  |
+|  **Hylkemare**  |  Hylkemare  |  Moszyan Railways Intercity Direct\\ Moszyan Railways Intercity\\ Moszyan Railways Sprinter\\ Nightjet\\ KTT\\ Lilac Light Rail (300/P300/305/633P/804)  |  January 29th, 2024  |
 |  **Hylkemare Wieringawijk**  |  :::  | |  February 4th, 2024  |
-|  **De Marren**  |  :::  | |  February 10th, 2024  |
-|  **Rykkam**\\ Ridgecrest  |  Taipa  |  Starlight Line (Planned)  |  May 22nd, 2024  |
+|  **De Marren**  |  :::  |  Eastern North-South Line  |  February 10th, 2024  |
+|  **Rykkam**  |  Taipa  |  Starlight Line\\ Highlands Line  |  May 22nd, 2024  |
 |  **Froastpoarte**\\ Shuangmen Xuegui  |  :::  |  Lilac Light Rail (633/633P)  |  January 4th, 2024  |
 |  **Āoraki Noord**\\ Āoraki North  |  Oculus  |  Lilac Light Rail (410/483P/882)  |  May 12th, 2024  |
 |  **Shek Ai**  |  Kallos  |  Azalea Cyan Line\\ Lilac Light Rail (483P/492/810/882)  |  May 12th, 2024  |
-|  **Kallos Royaalpark**\\ Kallos Royal Park  |  :::  |  Elizabeth Line (Planned)\\ Lilac Light Rail (483P/492/801/802/804/810/882)  |  May 12th, 2024  |
+|  **Kallos Royaalpark**\\ Kallos Royal Park  |  :::  |  Angel Line (Planned)\\ Elizabeth Line (Planned)\\ Lilac Light Rail (483P/492/801/802/804/810/882)  |  May 12th, 2024  |
 
 
 ===== Trivia =====
   * The Fryske Line may be the first to use frisian naming conventions, but not the first to use dutch naming conventions. This is due to two stations north of spawn carrying the names **Zuidbaai** and **Zuidbaai Centraal**. One could argue however, that these naming conventions are tied closer to afrikaans than dutch, as the dutch rarely use the term "baai".
-  * **Rykkam** is the only station to have both the english and frisian name on the system map, as its the only interchange station on the line that did not already have a chinese name.
+  * The Fryske Line somewhat resembles Rotterdam Metro Line E, being a long distance metro line converted from a conventional regional railway.
