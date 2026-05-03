@@ -78,17 +78,17 @@ For more information on the <color white/#04959E>**Sumeru-Fontaine Line**</color
 
 For more information on <color black/#30ECF8>**SLCBus Route 4S**</color>, click [[mtr_letsplay:slcbus_4s|here]].
 
-===== Fryske Sprinter =====
+===== Fryske Line =====
 
-The <color white/#B0B0BE>**Fryske Sprinter**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping position variations, which vary by the length of the driven train. Therefore, the player should be careful of speeding past their markerboard. The line also features ATB for speed limit changes.
+The <color white/#B0B0BE>**Fryske Line**</color> is rated 4/5 on the driving difficulty scale. The line features above above ground and surface-tunnel stations, with viaduct, surface level, and surface tunnel driving. The line features a number of stopping position variations, which vary by the length of the driven train. Therefore, the player should be careful of speeding past their markerboard. The line also features ATB for speed limit changes.
 
 | **Available Consist Count**  | 2 |
 | **Depot Access**  | Alight at Whale Lake light rail stop (the first stop on Lilac Light Rail services after Royal Park toward Taipa) and follow the path. |
-| **Speed limit(s)** | 40-120km/h |
+| **Speed limit(s)** | 40-100km/h |
 | **Acceleration** | 1.2m/s/s |
 | **Deceleration** | 1.2m/s/s |
 
-For more information on the <color white/#B0B0BE>**Fryske Sprinter**</color>, click [[mtr_letsplay:fryskeline|here]].
+For more information on the <color white/#B0B0BE>**Fryske Line**</color>, click [[mtr_letsplay:fryskeline|here]].
 
 
 ===== Chuncheon Bus Route 92 =====
