@@ -208,7 +208,7 @@ Speed ​​limits other than those for curves, as described below
 |**Lines S5, S6, S14**|100km/h(100km/h)|
 |**Line S10**|120km/h(160km/h)|
 |**Line S12**|60km/h(70km/h)|
-|**SLRT AC01, 02, YM01, CD all routes**|80km/h|
+|**SLRT AC01, AC01-2, YM01, CD01, CD02, CD10**|80km/h|
 |**SLRT Other routes**|60km/h|
 
 ====Curve speed limit (reference)====
