@@ -138,6 +138,7 @@ All of the vehicles were older models for the MTR3.
 |相01(AC01)|Kurokusa Depot ⇄ Acacialand Village (⇄ Higashi Huggy 8 Chome((Only 4-car trains available.))) ⇄ Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Yumeshima |[[Shimano Line]]\\ Marine Line\\ Cross Country(XC11)\\ Hybra Line\\ Northern Line|　|
 |相01-2(AC01-2)|High Oasis ⇄ Kamiyonai ⇄ Yumeshima |Northern Line|　|
 |相02(AC02)|(Feature: Poolroom ⇄)Midori Peninsula ⇄ Izumi South ⇄ Kamiyonai ⇄ Ancient Roman ⇄ Hokai Mura|Hybra Line\\ Northern Line|　|
+|相03(AC03)|Peak of Awakening ⇄ Plain Harbor ⇄ Kamiyonai|Shimano Line\\ Zasian Line\\ Hybra Line\\ Northern Line|　|
 |閃10(CD10)|Amethyst Valley ⇄ Extreme Hot Spring ⇄ Cinderace ⇄ Shinkita ⇄ Crater Valley ⇄ Oxenholme|[[Shinx Line]]\\ [[Momoyama Line]]\\ [[Zasian Line]]\\ [[Furret Line]]\\ Delphox Line||
 |黑01(KR01)|Kurokusa Depot ⇄ Kurokusa ⇄ Plain Harbor ⇄ Daisetu Town ⇄ Cinderace|Shimano Line\\ Zasian Line\\ Shinx Line\\ Delphox Line|　|
 |黑02(KR02)|Kurokusa Circular (Kurokusa ⇄ Kurokusa Depot ⇄ Asakusa Village ⇄ Kurokusa) |None|　|
