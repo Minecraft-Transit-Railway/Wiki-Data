@@ -2,15 +2,37 @@
 
 <WRAP 400px right>
 
-|  **Origin Railway**  ||
+|  @#EFEFEF:**Origin Railway**  ||
 | {{ https://i.ibb.co/93NHs3WG/ornew.png?200x200 |Origin Railway Logo}} ||
-|  **Overview**  ||
+|  @#EFEFEF:**Overview**  ||
 | **Owner** | OriginRailway |
 | **Established** | January 2023 |
 | **Area Served** | South-west |
 | **Transit Type** | Metro, Regional Railways |
-| **Number of Lines** | 3 (P-lines)1 (Rikka West Rail) |
-| Number of Stations | 55 |
+| **Number of Lines** | 3 (P-lines), 1 (Rikka West Rail) |
+| **Number of Stations** | 55 |
 
 </WRAP>
+
+**Origin Railway** ([[wp>Chinese_language|Chinese]]: 原生鐵路), created by OriginRailway (also known as akivn), is a railway mainly serving the south-west part of the server. It features many stations and trains dedicated to an anime/game character.
+
+===== Railways =====
+
+There are three main types of railways:
+
+  - **P-lines**, which are similar to Metros
+  - **Rikka West Rail**, a sub-company mainly serving the west of Rikkashi
+  - **LRTs**, which are similar to Light Rail
+
+===== List of Lines =====
+
+==== P-lines ====
+
+| @#EFEFEF:**Line number**  | @#EFEFEF:**Line Name**  | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Start/End Stations** || **Frequency** | **Note**  |
+| @#EC2370:P1  | Cupid Line  |   |   |   |   |   |
+| @#3C78D8:P2  | Mount Birch Line  |   |   |   |   |   |
+| ::: | ::: | ::: | ::: |   |   | ::: |
+| @#94E922:P3  | Suu-Southlands Line  |   |   |   |   |   |
+| @#DD7E6B:P5  | Hiiragi Line  |   |   |   |   |   |
+| @#59DDED:P6  | Noel Line  |   |   |   |   |   |
 
