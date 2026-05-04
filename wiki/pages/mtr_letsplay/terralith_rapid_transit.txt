@@ -160,7 +160,10 @@ see [[shimanolrt|Shimano LRT]]
 
 =====Route specifications=====
 ====Structural standards====
+The track gauge for all railway lines is, in principle, 1435 mm (standard gauge). Furthermore, because all lines operate at intervals of 10 minutes or less, they are constructed with double tracks or more to prevent train jamming((Except for the terminal sections)).
+
 For elevated tracks, be sure to install railings and pillars. When laying elevated tracks as 3D rail models, use barrier blocks to prevent falls. For tunnels, be sure to construct lining and a roadbed to prevent collapse and player falls. Depending on the shader pack, it may become completely dark with a brightness of 0, so be sure to install lighting with a brightness level of 10 or higher to ensure visibility. There is no specific spacing requirement, but 20m or less is recommended. When laying tunnels as 3D rail models, lining and a roadbed will also be installed.
+
 
 ====Route numbers currently unassigned====
 Currently, the following numbers do not have a route name, route icon, or route color set. Currently, numbers up to S20 can be assigned.((Not only LPS, but all SMTR projects allocate up to S20.)) Once a name is decided and concrete plans are put forward, it will be moved to the list above.
