@@ -38,12 +38,27 @@ There are three main types of railways:
 
 ==== Rikka West Rail ====
 
+All Lines uses Lucky Orange (#FF914D) as the displayed colour. The colours shown below are the internal representation colour.
+
+Unless otherwise stated, all-trains are running 24/7.
+
 === Local Services ===
 
 | @#EFEFEF:**Line number**  | @#EFEFEF:**Line Name**  | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Status** | @#EFEFEF:**Start/End Stations** || @#EFEFEF:**Local Frequency** | @#EFEFEF:**Note**  |
 | @#FF914D:RN  | North Line  | 北線  | Operational | Mimatsu (**R**)  | Rikkashi (**RN**-06)  | 4m 30s (UK Peak) - 9 mins  | Local trains run only from 05:00 to 01:00 GMT.  |
-| @#FF914D:RS  | South Line  | 南線  | Building | Mimatsu (**R**)  | Byeollae (**RS**-14)  | 10 mins  | Longest line built in one single proposal. Originally planned to run from 05:00 to 01:00 GMT only, but due to issues with path refresher, the line will be running all-day right now.  |
+| @#348549:RS  | South Line  | 南線  | Building | Mimatsu (**R**)  | Byeollae (**RS**-14)  | 10 mins  | Consists of the longest section built in one single proposal. Originally planned to run from 05:00 to 01:00 GMT only, but due to issues with path refresher, the line will be running all-day right now.  |
 | ::: | ::: | ::: | ::: | ::: | Lake Kimika (**RS**-04)  | 24 mins  | ::: |
-| @#FF914D:RW  | Mashiro Line  | 純白線  | Planning | Cape Imouto (**RS**-07)  | Nogyang  | 4 mins - 6 mins  | Name inspired by [[https://mashiroirosymphony.fandom.com/wiki/Mashiroiro_symphony_Wiki|Mashiroiro Symphony]] and the snowy terrain across the region.  |
-| @#FF914D:RK  | Krestona Line  | 克雷斯托納線  | Building | Allerton (**RN**-04)  | Krestona-Wes (**RK**-06)  | /  | Acts as a direct service across regional railways.  |
+| @#ECD0E8:RW  | Mashiro Line  | 純白線  | Planning | Cape Imouto (**RS**-07)  | Nogyang  | 4 mins - 6 mins  | Name inspired by [[https://mashiroirosymphony.fandom.com/wiki/Mashiroiro_symphony_Wiki|Mashiroiro Symphony]] and the snowy terrain across the region.  |
+| @#D1C569:RK  | Krestona Line  | 克雷斯托納線  | Building | Allerton (**RN**-04)  | Krestona-Wes (**RK**-06)  | /  | Acts as a direct service across regional railways.  |
+
+=== Express Services ===
+
+| @#EFEFEF:**Nickname** | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Stops** || @#EFEFEF:**Frequency** | @#EFEFEF:**Note** |
+| North Express | 北線特快 | Mimatsu (**R**) | Allerton (**RN**-04) | 16m 30s |  |
+| ::: | ::: | Rikkashi (**RN**-06) |  | ::: | ::: |
+| South Express | 南線特快 | Mimatsu (**R**) | Telford Central (**RS**-03) | 24 mins - 30 mins | Shares the track with Intercity trains from Byeollae to Seoul. |
+| ::: | ::: | Cape Imouto (**RS**-07) | Nanashima (**RS**-10) | ::: | ::: |
+| ::: | ::: | Pungyang (**RS**-13) | Byeollae (**RS**-14) | ::: | ::: |
+| ::: | ::: | Sangbong | Cheongnyangni | ::: | ::: |
+| ::: | ::: | Seoul |  | ::: | ::: |
 
