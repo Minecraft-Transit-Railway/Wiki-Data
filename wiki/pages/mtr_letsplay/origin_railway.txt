@@ -10,7 +10,7 @@
 | **Area Served** | South-west |
 | **Transit Type** | Metro, Regional Railways |
 | **Number of Lines** | 3 (P-lines), 1 (Rikka West Rail) |
-| **Number of Stations** | 55 |
+| **Number of Stations** | 55 (Heavy Rail) |
 
 </WRAP>
 
@@ -29,10 +29,21 @@ There are three main types of railways:
 ==== P-lines ====
 
 | @#EFEFEF:**Line number**  | @#EFEFEF:**Line Name**  | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Status** | @#EFEFEF:**Start/End Stations** || @#EFEFEF:**Frequency** | @#EFEFEF:**Note**  |
-| @#EC2370:P1  | Cupid Line  | 邱比特線  | Operational | Rikkashi  | Ishtakaba  | 2m 30s - 5 mins  | Shares track with the SWT Violet Line from Ozaukee - Ville Isle to Ashwaubenon. One of the [[wp>Shugo_Chara!|Shugo Chara]] Lines.  |
-| @#3C78D8:P2  | Mount Birch Line  | 樺山線  | Operational | Einsburg West  | Alpha Islands  | 3 mins  | Shares track with the Gyeongchun Line from Baegyang-ri to Gapyeong New Street. One of the [[wp>Shugo_Chara!|Shugo Chara]] Lines.  |
+| @#EC2370:P1  | Cupid Line  | 邱比特線  | Operational | Rikkashi  | Ishtakaba  | 2m 30s (HKT Peak) - 5 mins  | Shares track with the SWT Violet Line from Ozaukee - Ville Isle to Ashwaubenon. One of the [[https://shugochara.fandom.com/wiki/Shugo_Chara!_Wiki|Shugo Chara]] Lines.  |
+| @#3C78D8:P2  | Mount Birch Line  | 樺山線  | Operational | Einsburg West  | Alpha Islands  | 3 mins  | Shares track with the Gyeongchun Line from Baegyang-ri to Gapyeong New Street. One of the [[https://shugochara.fandom.com/wiki/Shugo_Chara!_Wiki|Shugo Chara]] Lines.  |
 | ::: | ::: | ::: | ::: | ::: | [[gapyeong|Gapyeong New Street]]  | 7m 12s  | ::: |
-| @#94E922:P3  | Suu-Southlands Line  | 小絲南域線  | Operational | Kamikita  | Thamud Oasis  | 4 mins - 6 mins  | One of the [[wp>Shugo_Chara!|Shugo Chara]] Lines.  |
+| @#94E922:P3  | Suu-Southlands Line  | 小絲南域線  | Operational | Kamikita  | Thamud Oasis  | 4 mins - 6 mins  | One of the [[https://shugochara.fandom.com/wiki/Shugo_Chara!_Wiki|Shugo Chara]] Lines.  |
 | @#DD7E6B:P5  | Hiiragi Line  | 柊線  | Planning | Southwest Mansion  | Yuuko  | /  | Will take over the Alpha Islands Branch of Mount Birch Line.  |
-| @#59DDED:P6  | Noel Line  | 諾艾爾線  | Planning |   |   | /  | Name inspired from [[wp>Celestial_Method|Celestial Method]].  |
+| @#59DDED:P6  | Noel Line  | 諾艾爾線  | Planning |   |   | /  | Name inspired from [[https://sora-no-method.fandom.com/wiki/Sora_no_Method|Celestial Method]].  |
+
+==== Rikka West Rail ====
+
+=== Local Services ===
+
+| @#EFEFEF:**Line number**  | @#EFEFEF:**Line Name**  | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Status** | @#EFEFEF:**Start/End Stations** || @#EFEFEF:**Local Frequency** | @#EFEFEF:**Note**  |
+| @#FF914D:RN  | North Line  | 北線  | Operational | Mimatsu (**R**)  | Rikkashi (**RN**-06)  | 4m 30s (UK Peak) - 9 mins  | Local trains run only from 05:00 to 01:00 GMT.  |
+| @#FF914D:RS  | South Line  | 南線  | Building | Mimatsu (**R**)  | Byeollae (**RS**-14)  | 10 mins  | Longest line built in one single proposal. Originally planned to run from 05:00 to 01:00 GMT only, but due to issues with path refresher, the line will be running all-day right now.  |
+| ::: | ::: | ::: | ::: | ::: | Lake Kimika (**RS**-04)  | 24 mins  | ::: |
+| @#FF914D:RW  | Mashiro Line  | 純白線  | Planning | Cape Imouto (**RS**-07)  | Nogyang  | 4 mins - 6 mins  | Name inspired by [[https://mashiroirosymphony.fandom.com/wiki/Mashiroiro_symphony_Wiki|Mashiroiro Symphony]] and the snowy terrain across the region.  |
+| @#FF914D:RK  | Krestona Line  | 克雷斯托納線  | Building | Allerton (**RN**-04)  | Krestona-Wes (**RK**-06)  | /  | Acts as a direct service across regional railways.  |
 
