@@ -46,7 +46,7 @@ Unless otherwise stated, all-trains are running 24/7.
 
 | @#EFEFEF:**Line number**  | @#EFEFEF:**Line Name**  | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Status** | @#EFEFEF:**Start/End Stations** || @#EFEFEF:**Local Frequency** | @#EFEFEF:**Note**  |
 | @#FF914D:RN  | North Line  | 北線  | Operational | Mimatsu (**R**)  | Rikkashi (**RN**-06)  | 4m 30s (UK Peak) - 9 mins  | Local trains run only from 05:00 to 01:00 GMT.  |
-| @#348549:RS  | South Line  | 南線  | Building | Mimatsu (**R**)  | Byeollae (**RS**-14)  | 10 mins  | Consists of the longest section built in one single proposal. Originally planned to run from 05:00 to 01:00 GMT only, but due to issues with path refresher, the line will be running all-day right now.  |
+| @#348549:RS  | South Line  | 南線  | Building | Mimatsu (**R**)  | Byeollae (**RS**-14)  | ~3 mins (up to Cape Imouto) - 10 mins  | Consists of the longest section built in one single proposal. Originally planned to run from 05:00 to 01:00 GMT only, but due to issues with path refresher, the line will be running all-day right now. Direct service available from Mimatsu - Cape Imouto with Midorihara Line.  |
 | ::: | ::: | ::: | ::: | ::: | Lake Kimika (**RS**-04)  | 24 mins  | ::: |
 | @#ECD0E8:RW  | Mashiro Line  | 純白線  | Planning | Cape Imouto (**RS**-07)  | Nogyang  | 4 mins - 6 mins  | Name inspired by [[https://mashiroirosymphony.fandom.com/wiki/Mashiroiro_symphony_Wiki|Mashiroiro Symphony]] and the snowy terrain across the region.  |
 | @#D1C569:RK  | Krestona Line  | 克雷斯托納線  | Building | Allerton (**RN**-04)  | Krestona-Wes (**RK**-06)  | /  | Acts as a direct service across regional railways.  |
