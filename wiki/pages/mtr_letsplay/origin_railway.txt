@@ -56,7 +56,7 @@ Unless otherwise stated, all-trains are running 24/7.
 | @#EFEFEF:**Nickname** | @#EFEFEF:**Line Name (Chinese)** | @#EFEFEF:**Status** | @#EFEFEF:**Stops** || @#EFEFEF:**Frequency** | @#EFEFEF:**Note** |
 | North Express | 北線特快 | Operational | Mimatsu (**R**) | Allerton (**RN**-04) | 16m 30s |   |
 | ::: | ::: | ::: | Rikkashi (**RN**-06) |   | ::: | ::: |
-| South Express | 南線特快 | Testing | Mimatsu (**R**) | Telford Central (**RS**-03) | 24 mins - 30 mins | Shares the track with Intercity trains from Byeollae to Seoul. |
+| South Express | 南線特快 | Testing | Mimatsu (**R**) | Telford Central (**RS**-03) | 24 mins | Shares the track with Intercity trains from Byeollae to Seoul. |
 | ::: | ::: | ::: | Cape Imouto (**RS**-07) | Nanashima (**RS**-10) | ::: | ::: |
 | ::: | ::: | ::: | Pungyang (**RS**-13) | Byeollae (**RS**-14) | ::: | ::: |
 | ::: | ::: | ::: | Sangbong | Cheongnyangni | ::: | ::: |
