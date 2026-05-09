@@ -1,4 +1,4 @@
-FIXME **Cette page n'est pas encore traduite entièrement. Merci de terminer la traduction**\\ //(supprimez ce paragraphe une fois la traduction terminée)//
+
 
 |  @#b42249: <color white>**Minecraft Transit Railway 4.0**</color>  ||
 |  MTR 4.0 est la dernière version majeure du mod Minecraft Transit Railway. Elle vise à améliorer l'expérience de jeu, à corriger des plantages et des bugs de longue date, à augmenter considérablement la fréquence d'images, ainsi qu'à ajouter des fonctionnalités attendues depuis longtemps, telles que la possibilité de mélanger les wagons au sein d'un train. Vous trouverez ci-dessous plus d'informations sur MTR 4.0 en fonction de votre rôle !  ||
