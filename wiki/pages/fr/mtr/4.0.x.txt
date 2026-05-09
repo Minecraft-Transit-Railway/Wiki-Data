@@ -1,0 +1,11 @@
+FIXME **Cette page n'est pas encore traduite entièrement. Merci de terminer la traduction**\\ //(supprimez ce paragraphe une fois la traduction terminée)//
+
+|  @#b42249: <color white>**Minecraft Transit Railway 4.0**</color>  ||
+|  MTR 4.0 est la dernière version majeure du mod Minecraft Transit Railway. Elle vise à améliorer l'expérience de jeu, à corriger des plantages et des bugs de longue date, à augmenter considérablement la fréquence d'images, ainsi qu'à ajouter des fonctionnalités attendues depuis longtemps, telles que la possibilité de mélanger les wagons au sein d'un train. Vous trouverez ci-dessous plus d'informations sur MTR 4.0 en fonction de votre rôle !  ||
+|  **[[mtr:4.0.x:players_builders|MTR 4 pour les joueurs/constructeurs]]**\\ Découvrez les nouvelles fonctionnalités et améliorations dont vous pouvez profiter dans MTR 4 !  |  **[[mtr:4.0.x:content_developer|MTR 4 pour les créateurs de contenu]]**\\ Découvrez comment adapter votre travail à la version 4 de MTR !  |
+|  **[[mtr:4.0.x:server_admin|MTR 4 pour les administrateurs d'un serveur]]**\\ À l'attention des administrateurs/responsables de serveurs souhaitant passer à MTR 4  |  **[[mtr:4.0.x:dev_contributors|MTR 4 for Developers/Contributors]]**\\ Vous souhaitez contribuer au mod ?\\ Découvrez les domaines dans lesquels MTR 4 pourrait être amélioré grâce à l'aide de personnes comme vous !  |
+|  **Expansion et développement**\\ Vous envisagez d'intégrer vos extensions et outils MTR au mod MTR ?\\ Découvrez la [[mtr:development|page de développement]], qui contient les références API et la documentation des différents projets utilisés par le mod MTR.  ||
+
+^  <- Précédente  ^  Actuelle  ^  Suivante ->  ^
+|  [[mtr:3.2.x| V3.2.X]]  |  [[mtr:4.0.x| V4.0.X]]  |  Aucune  |
+
