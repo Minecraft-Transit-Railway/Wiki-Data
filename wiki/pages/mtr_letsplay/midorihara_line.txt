@@ -43,8 +43,8 @@ The entire line will operate at all times.
 <WRAP center>
 
 ^  Average Train Intervals (in mins)  |^
-|  @#FFBC00:  ||
-|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S3)Shimano Line**  |
+|  @#F7F7F7:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S5)Midorihara Line**  |
 | \\ All hours \\ |  \\ 5 |
 
 </WRAP>
