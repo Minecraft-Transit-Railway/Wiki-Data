@@ -8,7 +8,7 @@
 | **Owner(s)** |Mimatsu Station - (TBA):\\ [[Terralith Rapid Transit|Terralith Rapid Transit]]\\ Teuford Station - Mimatsu Station:\\ Origin Railway |
 | **Area Served** | N/A |
 | **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] [[wp>S-Bahn|S-Bahn]] |
-| **Line Number** | S3 |
+| **Line Number** | S5 |
 | **Length** | --.-km |
 | **Number of stations** | -- |
 |  | -- |
