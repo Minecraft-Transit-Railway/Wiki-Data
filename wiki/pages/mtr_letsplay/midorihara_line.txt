@@ -30,7 +30,8 @@
 The Midorihara Line ([[wp>Chinese_language|Chinese]]: 緑原綫) of the [[ShimanoMTR|ShimanoMTR]] network.
 
 =====Overview=====
-
+This line is planned to run from Teuford to Vierendrop. While it is the first SMTR line to be classified as an S-Bahn, like other lines, it will be subject to SMTR standards and therefore differs from actual S-Bahns in that it is required to install platform doors, etc. (This includes the Mimatsu-Teuford section, which is not managed by TRT.)
+Furthermore, while there have been instances of SLRTs offering through service to lines outside the SMTR group (Teufort LRT, Plasma LRT), this will be the first time SMTR offers through service to lines outside the SMTR group. (Origin Railway)
 
 =====History=====
 
