@@ -1,0 +1,54 @@
+====== Midorihara Line ======
+
+<WRAP 400px right>
+
+|  @#F7F7F7:  **(S5)Midorihara Line**  ||
+| {{ :mtr_letsplay:line_s3.png?200 |}} ||
+|  @#F7F7F7:  **Overview**  ||
+| **Owner(s)** |Mimatsu Station - (TBA):\\ [[Terralith Rapid Transit|Terralith Rapid Transit]]\\ Teuford Station - Mimatsu Station:\\ Origin Railway |
+| **Area Served** | N/A |
+| **Transit type** | [[wp>Rapid_Transit|Rapid_Transit]] [[wp>S-Bahn|S-Bahn]] |
+| **Line Number** | S3 |
+| **Length** | --.-km |
+| **Number of stations** | -- |
+|  | -- |
+| **Real-Life Inspiration** |  |
+| **Colour on map** | White (#F7F7F7) |
+|  @#F7F7F7:  **Service & Operation**  ||
+| **Began passenger operation** |  |
+| **Operator(s)** | [[ShimanoMTR|ShimanoMTR]] |
+| **Train length** | 6 vehicles per trainset |
+|  @#F7F7F7:  **Technical**  ||
+| **No. of tracks** | 2 |
+| **Track gauge** | 1435mm |
+| **Electrification** | [[wp>List_of_railway_electrification_systems#750_V_DC|750V DC Thirdrail]] |
+| **Maximum speed** | 100 km/h |
+| **Top operational speed** | 100 km/h |
+
+</WRAP>
+
+The Midorihara Line ([[wp>Chinese_language|Chinese]]: 緑原綫) of the [[ShimanoMTR|ShimanoMTR]] network.
+
+=====Overview=====
+
+
+=====History=====
+
+
+===== Rolling Stocks =====
+
+===== Operations =====
+The entire line will operate at all times.
+
+<WRAP center>
+
+^  Average Train Intervals (in mins)  |^
+|  @#FFBC00:  ||
+|  **Time Session**  \\  (in [[wp>UTC+08:00|UTC+8]])  |  **(S3)Shimano Line**  |
+| \\ All hours \\ |  \\ 5 |
+
+</WRAP>
+
+===== Future Plans =====
+  * Once the first THIRDPHOX train to be used on the line is completed, operations will begin on the currently completed section. There are also plans to extend the line to the vicinity of Vierendrop in the future.
+===== Stations =====
