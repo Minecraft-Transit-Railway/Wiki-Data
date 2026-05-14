@@ -1,0 +1,20 @@
+====== Sound System ======
+
+Starting from MTR 3.0.0 Beta-5-unofficial-8, sounds are added to trains for the Minecraft Transit Railway mod. Starting from MTR 3.1.0-unofficial-1, the BVE sound system is also introduced into the mod.
+
+===== Legacy Sound System =====
+
+Legacy Sound System is the sound system available from MTR 3.0.0 Beta-5-unofficial-8. In most circumstances, LSS features a 10-20 second recording of that train, which could be mirrored for both acceleration and deceleration.
+
+==== How does it work? ====
+
+=== Motor sound ===
+
+Motor sounds are split into 0.6-second audio files, and are named ''speed_0a'', then ''speed_0b'', ''speed_0c'', ''speed_1a'', and so on.
+
+There are 3 separate "channels" in LSS (a, b and c), and which channel an audio file falls into depends on the alphabet given at the end of the file name. The order in which the file is played depends on the number specified in the audio file name, starting from 0.
+
+The order of
+
+When a train is being defined to have a ''legacySpeedSoundBaseResource'', the mod will look for sounds defined as ''(directory_name)_acceleration_xx'' in ''sounds.json''.
+
