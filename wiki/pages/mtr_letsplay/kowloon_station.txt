@@ -1,7 +1,5 @@
 ====== [WIP article] Kowloon station ======
 
-This article has many inaccurate dates. Please help by adding dates to the History section if possible.
-
 <WRAP 400px right>
 
 |  @#a1a1a1:  <color #ffffff>**Kowloon**</color>  |||||
@@ -64,7 +62,7 @@ This article has many inaccurate dates. Please help by adding dates to the Histo
 | **Electrification** | Pengaloo line: 630 V DC [[wp>Fourth_rail|fourth rail]]\\ All other lines: None ||||
 ^  **Services**  ||||^
 |  @#DCDCDC:  **Preceding station**  |  @#DCDCDC:  **[[mtr_letsplay:auckland_transport|Auckland Transport]]**  |||  @#DCDCDC:  **Following station**  |
-|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:hojaker_station|Højåkern]]//  |
+|  //Terminus//  |  @#ab88d8:  |  [[mtr_letsplay:auckland_transport|Austrail Far East Line]]  |  @#ab88d8:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:nordhalvoy_station|Nordhalvøy]]//  |
 |  //Terminus//  |  @#437b71:  |  [[mtr_letsplay:auckland_transport|Austrail Northern Link Line]]  |  @#437b71:  |  [[mtr_letsplay:coast_city_station|Coast City]]\\ //towards [[mtr_letsplay:pittsford_station|Pittsford]]//  |
 |  [[mtr_letsplay:kowloon_tong_station|Kowloon Tong]]\\ //towards [[mtr_letsplay:spawn|Cyan Heights]]//  |  @#29359e:  |  [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]]  |  @#29359e:  |  [[mtr_letsplay:inlet_bay_station|Inlet Bay]]\\ //towards [[mtr_letsplay:waitemata_station|Waitematā]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#dcdcdc:  **Following station**  |
@@ -98,7 +96,7 @@ The station is one of the oldest stations to be constructed on the Let's Play Se
   * **8 January 2023:** The new station first appears on the system map in [[https://www.youtube.com/playlist?list=PLp0jZgheSlXuczipYTHBtwPGTsXEguFSH|S3E1 of the Let's Play Series]], marked as WIP.
   * **29 January 2023:** The station reappears in S3E3, now featuring the Metro Pengaloo Line Phase 4, the Kowloon Commuter, AT Metro service 2301 and the BVM on platforms 1/2, 3/4, 9, and A/E, respectively.
   * **5 February 2023:** Jonathan builds the Clock Tower northeast of the station in S3E4. The tower is based on the real-life [[wp>Clock_tower,_Hong_Kong|Kowloon Clock Tower]] which used to be a part of old [[wp>Kowloon_railway_station_(KCR)|KCR Kowloon Terminus]] demolished in 1978.
-  * **23 March 2023:** The Pengaloo Line is split in 2 sections, temporarily no longer serving Kowloon, in order to enable construction work for new underground platforms (now platforms 12-13) and the elimination of Kowloon Tong as a calling point for the Metro Pengaloo Line
+  * **23 March 2023:** The Pengaloo Line is split in 2 sections, temporarily no longer serving Kowloon, in order to enable construction work for new underground platforms (now platforms 12-13) and the elimination of Kowloon Tong as a calling point for the Metro Pengaloo Line.
   * **24 March 2023:** The station's canopy is recoloured to the Trans Flag's colours light blue, pink and white for Trans* Visibility and Awareness Day.
   * **2 April 2023:** The Kowloon Commuter service is suspended in order to enable construction work for a new underground platform (now platform 11). Heung Hoi station, previously located north of Kowloon, is now fully closed and demolished at this time.
   * **13 April 2023:** [[mtr_letsplay:tramlink|Tramlink]] starts service.
@@ -122,11 +120,33 @@ The station can only be accessed by the waterfront entrance, which comprises a b
 
 ==== Main station building ====
 
-West of the entrance is the actual station building. As previously mentioned, the design is inspired by Canary Wharf DLR station. The main bulding only has a single stair/escalator access leading from the waterfront exit to the underground concourse.
+West of the entrance is the actual station building. As previously mentioned, the design is inspired by Canary Wharf DLR station. The main bulding only has one access leading from the waterfront exit to the underground concourse.
 
 === Concourse ===
 
 {{ :mtr_letsplay:kowloon_arrival_board.png?512 |Passenger information displays at the concourse}} Passenger information displays at the concourse.
 
-The station's concourse features a large passenger information display screen in the entrance area, as seen in other large Lilypad Rail hubs like [[mtr_letsplay:llanmara|Llanmara Saint Ann's]]. The concourse has a floor out of randomly arranged stone, polished andesite and sea lanterns, walls out of [[mtr_addon:lu:start|London Underground Addon]] gray concrete, a ceiling out of quartz blocks and station-coloured purpur blocks, as well as ceiling lights and JCM light lanterns for lighting and evenly arranged quartz pillars. The stairs leading to the upper platforms are JCM's MTR stairs flanked by deepslate tile stairs and walls. All platforms can be accessed by stairs and lifts.
+{{ :mtr_letsplay:.png?512 |Botond Burgers store S059 at Kowloon}} Botond Burgers store.
 
+The station's concourse features a large passenger information display screen in the entrance area, as seen in other large Lilypad Rail hubs like [[mtr_letsplay:llanmara|Llanmara Saint Ann's]]. The concourse has a floor out of randomly arranged stone, polished andesite and sea lanterns, walls out of [[mtr_addon:lu:start|London Underground Addon]] gray concrete, a ceiling out of quartz blocks and station-coloured purpur blocks, as well as ceiling lights and JCM light lanterns for lighting and evenly arranged quartz pillars. The stairs leading to the upper platforms are JCM's MTR stairs flanked by deepslate tile stairs and walls. Platforms 1-10 can be accessed from the concourse by stairs and lifts.
+The concourse also features a [[mtr_letsplay:botond_burgers|Botond Burgers]] store.
+
+=== Overground platforms ===
+
+{{ :mtr_letsplay:kowloon_platforms.png?512 |Overground platforms at Kowloon}} Overground platforms at Kowloon, picture taken from Platform 6
+
+The main overground station structure features Platforms 1-10. Just like Canary Wharf DLR, the ceiling has a big east-west canopy in the centre and flatter parts that cover the edges of the platforms, flanked by sandstone walls. The platforms are each 204 blocks long, have a polished andesite and granite floor, indented LU platform blocks, route maps, glass fence barriers in front of the lift doors preventing passengers exiting the lift from running onto the tracks, platform stop markers for train drivers, help lines, metal pillars showing the [[mtr:station_name|station name]] in black and supporting [[https://jcm.joban.org/latest/players/blocks/pids_1a/|JCM PIDs]], and rubbish bins next to some of the pillars.
+
+=== Underground platforms ===
+
+{{ :mtr_letsplay:kowloon_p12p13.png?512 |Platforms 12 and 13 at Kowloon}} Underground platforms
+
+Kowloon has 3 underground platforms (11-13) served by the [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]] and the [[mtr_letsplay:hillside_line|Sidelines Hillside]]. Their design differs from the other platforms, showing a block palette more similar to the concourse.
+
+<WRAP 512px right>
+
+{{ :mtr_letsplay:kowloon_single_psd.png |Single Platform Screen Door for LU stock (created with WorldEdit)}} Example of regular (left) and single-leaf PSD
+
+</WRAP>
+
+Unlike the other platforms, they feature [[wp>London_Underground#Roundel|LU roundels]], seating, [[https://jcm.joban.org/latest/players/blocks/sil_emg_stop_button/|emergency train stop buttons]] and [[mtr:platform_screen_doors|platform screen doors]], including single-leaf doors to match the door positions of the 1992 Tube stock used on the Pengaloo Line.
