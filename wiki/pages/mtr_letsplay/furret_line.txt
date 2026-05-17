@@ -60,7 +60,7 @@ The entire line will operate at all times.
 </WRAP>
 
 ===== Future Plans =====
-  * There are plans to improve the alignment and increase speed on this line, but implementing these would require a long-term suspension of service, so they are currently a low priority.
-  * There are no plans to extend the line at present, but the trackbed has been constructed up to Nishi-kurokusa Station. As the station will be passed through, only the parallel Shinx Line will be in operation on this section.
+  * Refurbishment work is planned for the Kurokusa - Spawn section of this line. This will involve tunnel re-excavation and replacement of the elevated tracks, which is expected to result in a long-term service suspension. Therefore, the Shinx Line, SLRT, HSR, and Spawn APM will be designated as alternative routes.
+  * Along with the Shinx Line, an extension to an area about 5km west of Kurokusa is planned.
   * Although the timing has not been decided, it has been suggested that METROACE9500 cars will be introduced as unreserved seating vehicles.
 ===== Stations =====
