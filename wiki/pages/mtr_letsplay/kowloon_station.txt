@@ -11,11 +11,11 @@
 | @#090909: |||||
 | @#d0d157: |||||
 | @#7bcfa6: |||||
-| @#ebb758: |||||
+| @#feb43f: |||||
 | @#90b63f: |||||
 | @#29359e: |||||
 | @#661c18: |||||
-|  {{ :mtr_letsplay:kowloon.png?380 }}Kowloon station exterior, with clock tower built by Jonathan.  |||||
+|  {{ :mtr_letsplay:.png?380 }}Kowloon station exterior, with clock tower built by Jonathan.  |||||
 |  @#b0c4de:  **Chinese Name**  |||||
 | [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 九龍 ||||
 | [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 九龙 ||||
@@ -67,7 +67,7 @@
 |  [[mtr_letsplay:kowloon_tong_station|Kowloon Tong]]\\ //towards [[mtr_letsplay:spawn|Cyan Heights]]//  |  @#29359e:  |  [[mtr_letsplay:auckland_transport#bgv_bvm|Bateau à Vitesse Moyenne (BVM)]]  |  @#29359e:  |  [[mtr_letsplay:inlet_bay_station|Inlet Bay]]\\ //towards [[mtr_letsplay:waitemata_station|Waitematā]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:qingli_railways|Qingli Railways]]**  |||  @#dcdcdc:  **Following station**  |
 |  //Terminus//  |  @#7ddcdc:  |  [[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]]  |  @#7ddcdc:  |  [[mtr_letsplay:dry_dock_north_station|Dry Dock North]]\\ //towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]]//  |
-|  [[mtr_letsplay:sunrise_station|Sunrise]]\\ //Terminus//  |  @#ebb758:  |  [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]]  |  @#ebb758:  |  [[mtr_letsplay:spawn|Spawn HSR T1]]\\ //towards [[mtr_letsplay:yongchun_station|Yongchun]]//  |
+|  [[mtr_letsplay:sunrise_station|Sunrise]]\\ //Terminus//  |  @#feb43f:  |  [[mtr_letsplay:hsr_diagonally_line|Diagonally Line]]  |  @#feb43f:  |  [[mtr_letsplay:spawn|Spawn HSR T1]]\\ //towards [[mtr_letsplay:yongchun_station|Yongchun]]//  |
 |  @#dcdcdc:  **Preceding station**  |  @#dcdcdc:  **[[mtr_letsplay:lilypad_rail|Lilypad Rail]]**  |||  @#dcdcdc:  **Following station**  |
 |  [[mtr_letsplay:green_station|Green]]\\ //towards [[mtr_letsplay:kamisato_village_station|Kamisato Village]]//  |  @#253984:  |  [[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]]  |  @#253984:  |  [[mtr_letsplay:forest_peaks_station|Forest Peaks]]\\ //towards [[mtr_letsplay:snowfall_mountain_station|Snowfall Mountain]]//  |
 |  //Terminus//  |  @#090909:  |  [[mtr_letsplay:manual_driving_learners_line|Manual Driving Learner's Line]]((Although the Manual Driving Learner's Line is primarily managed and administered by Lily, the Let's Play Team bares collective responsibility for the line. It is placed under Lilypad Rail on account of it lacking an official separate operator.))  |  @#090909:  |  [[mtr_letsplay:soko_station|SoKo]]\\ //towards [[mtr_letsplay:cyan_heights_manual_driving_terminal|Cyan Heights MDT]]//  |
@@ -129,7 +129,7 @@ West of the entrance is the actual station building. As previously mentioned, th
 {{ :mtr_letsplay:botond_burgers_s059.png?512 |Botond Burgers store S059 at Kowloon}} Botond Burgers store.
 
 The station's concourse features a large passenger information display screen in the entrance area, as seen in other large Lilypad Rail hubs like [[mtr_letsplay:llanmara|Llanmara Saint Ann's]]. The concourse has a floor out of randomly arranged stone, polished andesite and sea lanterns, walls out of [[mtr_addon:lu:start|London Underground Addon]] gray concrete, a ceiling out of quartz blocks and station-coloured purpur blocks, as well as ceiling lights and JCM light lanterns for lighting and evenly arranged quartz pillars. The stairs leading to the upper platforms are JCM's MTR stairs flanked by deepslate tile stairs and walls. Platforms 1-10 can be accessed from the concourse by stairs and lifts.
-The concourse also features a [[mtr_letsplay:botond_burgers|Botond Burgers]] store.
+The concourse also features a [[mtr_letsplay:botond_burgers|Botond Burgers]] store, and will soon receive a Llanmara Folkebank and a Bamboo Café.
 
 === Overground platforms ===
 
@@ -164,6 +164,25 @@ With 250 services per hour serving 17 destinations on 12 lines, Kowloon is one o
 | ::: |  Island platform, doors will open on the right (1)/left (2)  ||
 | ::: | Platform <color #d0d157>2</color> |  <color #d0d157>▮</color>[[mtr_letsplay:fairview_line|Fairview Line]] towards [[mtr_letsplay:liskeard|Liskeard Waterloo]] //([[mtr_letsplay:oceanline_station|Oceanline]])// ->  |
 | ::: | ::: |  <color #7bcfa6>▮</color>[[mtr_letsplay:fairview_line|Fairview Express]] towards [[mtr_letsplay:liskeard|Liskeard Waterloo]] //([[mtr_letsplay:oceanline_station|Oceanline]])// ->  |
-| ::: | Platform <color #7bcfa6>3</color> ||
+| ::: | Platform <color #7bcfa6>3</color> |  <- <color #d0d157>▮</color>[[mtr_letsplay:fairview_line|Fairview Line]] towards [[mtr_letsplay:museum_station|Museum]] //(Terminus)//  |
+| ::: | ::: |  <- <color #7bcfa6>▮</color>[[mtr_letsplay:fairview_line|Fairview Express]] towards [[mtr_letsplay:museum_station|Museum]] //(Terminus)//  |
+| ::: |  Island platform, doors will open on the left  ||
+| ::: | Platform <color #7ddcdc>4</color> |  <- <color #7ddcdc>▮</color>[[mtr_letsplay:lakeside_mystic_line|Lakeside Mystic Line]] towards [[mtr_letsplay:higashi-yunlong_station|Higashi-Yunlong]] //([[mtr_letsplay:dry_dock_north_station|Dry Dock North]])//  |
+| ::: | Platform <color #feb43f>5</color> |  <color #feb43f>▮</color>[[mtr_letsplay:hsr_diagonally_line|Diagonally Line]] towards [[mtr_letsplay:sunrise_station|Sunrise]] //(Terminus)// ->  |
+| ::: |  Island platform, doors will open on the right  ||
+| ::: | Platform <color #feb43f>6</color> |  <- <color #feb43f>▮</color>[[mtr_letsplay:hsr_diagonally_line|Diagonally Line]] towards [[mtr_letsplay:yongchun_station|Yongchun]] //([[mtr_letsplay:spawn|Spawn HSR Terminal 2]])//  |
+| ::: | Platform 7 |  Platform not in use  |
+| ::: |  Island platform, doors will open on the left (alighting passengers only)  ||
+| ::: | Platform <color #ab88d8>8</color> |  <color #ab88d8>▮</color>[[mtr_letsplay:auckland_transport|Austrail Far East Line]] terminating trains, alighting only ->  |
+| ::: | Platform <color #437b71>9</color> |  <- <color #437b71>▮</color>[[mtr_letsplay:auckland_transport|Austrail Northern Link Line]] towards [[mtr_letsplay:pittsford_station|Pittsford]] //([[mtr_letsplay:coast_city_station|Coast City]])//  |
+| ::: |  Island platform, doors will open on the right  ||
+| ::: | Platform <color #ab88d8>10</color> |  <- <color #ab88d8>▮</color>[[mtr_letsplay:auckland_transport|Austrail Far East Line]] towards [[mtr_letsplay:nordhalvoy_station|Nordhalvøy]] //([[mtr_letsplay:coast_city_station|Coast City]])//  |
+| **C** | Concourse | Botond Burgers |
+| **other P**((For lack of another official name)) |  Side platform, doors will open on the left  ||
+| ::: | Platform <color #253984>11</color> |  <color #253984>▮</color>[[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]] towards [[mtr_letsplay:kamisato_village_station|Kamisato Village]] //([[mtr_letsplay:green_station|Green]])// ->  |
+| ::: | Platform <color #253984>12</color> |  <- <color #253984>▮</color>[[mtr_letsplay:metro_pengaloo_line|Metro Pengaloo Line]] towards [[mtr_letsplay:snowfall_mountain_station|Snowfall Mountain]] //([[mtr_letsplay:forest_peaks_station|Forest Peaks]])//  |
+| ::: |  Island platform, doors will open on the left (12)/right (13)  ||
+| ::: | Platform <color #598f69>13</color> |  <color #598f69>▮</color>[[mtr_letsplay:hillside_line|Sidelines Hillside]] towards [[mtr_letsplay:denthrope|Denthrope Hauptbahnhof]] //([[mtr_letsplay:bayside_exchange_station|Bayside Exchange]])// ->  |
 
 ===== Gallery =====
+
