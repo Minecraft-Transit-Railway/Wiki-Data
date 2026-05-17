@@ -15,7 +15,7 @@
 | @#90b63f: |||||
 | @#29359e: |||||
 | @#661c18: |||||
-|  {{ :mtr_letsplay:future_kowloon_image.png?380 }}Kowloon station exterior, with clock tower built by Jonathan  |||||
+|  {{ :mtr_letsplay:kowloon.png?380 }}Kowloon station exterior, with clock tower built by Jonathan  |||||
 |  @#b0c4de:  **Chinese Name**  |||||
 | [[wp>Traditional_Chinese_characters|Traditional Chinese]] | 九龍 ||||
 | [[wp>Simplified_Chinese_characters|Simplified Chinese]] | 九龙 ||||
