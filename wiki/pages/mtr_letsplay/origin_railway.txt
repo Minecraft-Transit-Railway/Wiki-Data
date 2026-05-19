@@ -33,7 +33,7 @@ There are three main types of railways:
 | @#3C78D8:P2  | Mount Birch Line  | 樺山線  | Operational | Einsburg West  | Alpha Islands  | 3 mins  | Shares track with the Gyeongchun Line from Baegyang-ri to Gapyeong New Street. One of the [[https://shugochara.fandom.com/wiki/Shugo_Chara!_Wiki|Shugo Chara]] Lines.  |
 | ::: | ::: | ::: | ::: | ::: | [[gapyeong|Gapyeong New Street]]  | 7m 12s  | ::: |
 | @#94E922:P3  | Suu-Southlands Line  | 小絲南域線  | Operational | Kamikita  | Thamud Oasis  | 4 mins - 6 mins  | One of the [[https://shugochara.fandom.com/wiki/Shugo_Chara!_Wiki|Shugo Chara]] Lines.  |
-| @#DD7E6B:P5  | Hiiragi Line  | 柊線  | Planning | Southwest Mansion  | Yuuko  | /  | Will take over the Alpha Islands Branch of Mount Birch Line.  |
+| @#DD7E6B:P5  | Hiiragi Line  | 柊家線  | Planning | Southwest Mansion  | Shinoa Coast  | 3 mins  | Will take over the Alpha Islands Branch of Mount Birch Line.  |
 | @#59DDED:P6  | Noel Line  | 諾艾爾線  | Planning |   |   | /  | Name inspired from [[https://sora-no-method.fandom.com/wiki/Sora_no_Method|Celestial Method]].  |
 
 ==== Rikka West Rail ====
